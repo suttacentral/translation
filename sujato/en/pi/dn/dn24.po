@@ -1,0 +1,3800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 08:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Pootle-Path: /en/dn/dn24.po\n"
+"X-Pootle-Revision: 173727\n"
+
+#. <html><head><meta charset="utf8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="dn24"><article><div class="hgroup"><p
+#. class="division">
+msgctxt "dn24:1.1"
+msgid "Dīgha Nikāya 24"
+msgstr "Long Discourses 24"
+
+#. </p><h1>
+msgctxt "dn24:2.1"
+msgid "Pāthikasutta"
+msgstr "About Pāṭikaputta"
+
+#. </h1></div><h2>
+msgctxt "dn24:3.1"
+msgid "1. Sunakkhattavatthu"
+msgstr "On Sunakkhatta"
+
+#. </h2><p><a class="sc" id="1"></a><a class="wp" id="wp1.1"></a><a class="pts"
+#. id="pts3.1"></a>
+msgctxt "dn24:4.1"
+msgid "<span class=\"evam\">Evaṃ me sutaṃ—​</span>"
+msgstr "<span class=”evam”>So I have heard.</span>"
+
+#. VAR: anupiyaṃ nāma → anupiyā nāma (bj) | anuppiyaṃ nāma (s1-3)
+msgctxt "dn24:4.2"
+msgid "ekaṃ samayaṃ bhagavā mallesu viharati anupiyaṃ nāma mallānaṃ nigamo."
+msgstr ""
+"At one time the Buddha was staying in the land of the Mallas, near the "
+"Mallian town named Anupiya."
+
+msgctxt "dn24:4.3"
+msgid ""
+"Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya anupiyaṃ "
+"piṇḍāya pāvisi."
+msgstr ""
+"Then the Buddha got dressed in the morning and, taking his bowl and robes, "
+"entered Anupiya for alms."
+
+msgctxt "dn24:4.4"
+msgid "Atha kho bhagavato etadahosi:"
+msgstr "Then it occurred to him:"
+
+#. VAR: anupiyāyaṃ → anupiyāya (pts1) | anupiyaṃ (mr)
+msgctxt "dn24:4.5"
+msgid "“atippago kho tāva anupiyāyaṃ piṇḍāya carituṃ."
+msgstr "“It’s too early to wander for alms in Anupiya."
+
+msgctxt "dn24:4.6"
+msgid ""
+"Yannūnāhaṃ yena bhaggavagottassa paribbājakassa ārāmo, yena bhaggavagotto "
+"paribbājako tenupasaṅkameyyan”ti."
+msgstr "Why don’t I go to the wanderer Bhaggavagotta’s monastery to visit him?”"
+
+#. </p><p><a class="sc" id="2"></a><a class="wp" id="wp1.2"></a><a class="pts"
+#. id="pts3.2"></a>
+msgctxt "dn24:5.1"
+msgid ""
+"Atha kho bhagavā yena bhaggavagottassa paribbājakassa ārāmo, yena "
+"bhaggavagotto paribbājako tenupasaṅkami."
+msgstr "So that’s what he did."
+
+msgctxt "dn24:5.2"
+msgid "Atha kho bhaggavagotto paribbājako bhagavantaṃ etadavoca:"
+msgstr "Then the wanderer Bhaggavagotta said to the Buddha:"
+
+msgctxt "dn24:5.3"
+msgid "“etu kho, bhante, bhagavā."
+msgstr "“Come, Blessed One!"
+
+msgctxt "dn24:5.4"
+msgid "Svāgataṃ, bhante, bhagavato."
+msgstr "Welcome, Blessed One!"
+
+msgctxt "dn24:5.5"
+msgid "Cirassaṃ kho, bhante, bhagavā imaṃ pariyāyamakāsi yadidaṃ idhāgamanāya."
+msgstr "It’s been a long time since you took the opportunity to come here."
+
+msgctxt "dn24:5.6"
+msgid "Nisīdatu, bhante, bhagavā, idamāsanaṃ paññattan”ti."
+msgstr "Please, sir, sit down, this seat is ready.”"
+
+msgctxt "dn24:5.7"
+msgid "Nisīdi bhagavā paññatte āsane."
+msgstr "The Buddha sat on the seat spread out,"
+
+msgctxt "dn24:5.8"
+msgid ""
+"Bhaggavagottopi kho paribbājako aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ "
+"nisīdi."
+msgstr "while Bhaggavagotta took a low seat, sat to one side,"
+
+msgctxt "dn24:5.9"
+msgid "Ekamantaṃ nisinno kho bhaggavagotto paribbājako bhagavantaṃ etadavoca:"
+msgstr "and said to the Buddha:"
+
+msgctxt "dn24:5.10"
+msgid ""
+"“purimāni, bhante, divasāni purimatarāni sunakkhatto licchaviputto yenāhaṃ "
+"tenupasaṅkami;"
+msgstr "“Sir, a few days ago Sunakkhatta the Licchavi came to me"
+
+msgctxt "dn24:5.11"
+msgid "upasaṅkamitvā maṃ etadavoca:"
+msgstr "and said:"
+
+msgctxt "dn24:5.12"
+msgid "‘paccakkhāto dāni mayā, bhaggava, bhagavā."
+msgstr "‘Now, Bhaggava, I have disavowed the Buddha."
+
+msgctxt "dn24:5.13"
+msgid "Na dānāhaṃ bhagavantaṃ uddissa viharāmī’ti."
+msgstr "Now I no longer live dedicated to him.’"
+
+msgctxt "dn24:5.14"
+msgid "Kaccetaṃ, bhante, tatheva, yathā sunakkhatto licchaviputto avacā”ti?"
+msgstr "Sir, is what Sunakkhatta said true?”"
+
+msgctxt "dn24:5.15"
+msgid "“Tatheva kho etaṃ, bhaggava, yathā sunakkhatto licchaviputto avaca."
+msgstr "“Indeed it is, Bhaggava."
+
+#. </p><p><a class="sc" id="3"></a><a class="wp" id="wp1.3"></a><a class="pts"
+#. id="pts3.3"></a>
+msgctxt "dn24:6.1"
+msgid ""
+"Purimāni, bhaggava, divasāni purimatarāni sunakkhatto licchaviputto yenāhaṃ "
+"tenupasaṅkami;"
+msgstr "A few days ago Sunakkhatta the Licchavi came to me"
+
+msgctxt "dn24:6.2"
+msgid "upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed, sat down to one side,"
+
+msgctxt "dn24:6.3"
+msgid ""
+"Ekamantaṃ nisinno kho, bhaggava, sunakkhatto licchaviputto maṃ etadavoca:"
+msgstr "and said:"
+
+msgctxt "dn24:6.4"
+msgid "‘paccakkhāmi dānāhaṃ, bhante, bhagavantaṃ."
+msgstr "‘Now I disavow the Buddha!"
+
+msgctxt "dn24:6.5"
+msgid "Na dānāhaṃ, bhante, bhagavantaṃ uddissa viharissāmī’ti."
+msgstr "Now I shall no longer live dedicated to you.’"
+
+msgctxt "dn24:6.6"
+msgid "Evaṃ vutte, ahaṃ, bhaggava, sunakkhattaṃ licchaviputtaṃ etadavocaṃ:"
+msgstr "When Sunakkhatta said this, I said to him:"
+
+#, fuzzy
+msgctxt "dn24:6.7"
+msgid ""
+"‘api nu tāhaṃ, sunakkhatta, evaṃ avacaṃ, ehi tvaṃ, sunakkhatta, mamaṃ "
+"uddissa viharāhī’ti?"
+msgstr "‘But Sunakkhatta, did I ever say to you: “Come, live dedicated to me”?’"
+
+msgctxt "dn24:6.8"
+msgid "‘No hetaṃ, bhante’."
+msgstr "‘No, sir.’"
+
+msgctxt "dn24:6.9"
+msgid "‘Tvaṃ vā pana maṃ evaṃ avaca—"
+msgstr "‘Or did you ever say to me:"
+
+msgctxt "dn24:6.10"
+msgid "ahaṃ, bhante, bhagavantaṃ uddissa viharissāmī’ti?"
+msgstr "“Sir, I shall live dedicated to the Buddha”?’"
+
+msgctxt "dn24:6.11"
+msgid "‘No hetaṃ, bhante’."
+msgstr "‘No, sir.’"
+
+msgctxt "dn24:6.12"
+msgid "‘Iti kira, sunakkhatta, nevāhaṃ taṃ vadāmi—"
+msgstr "‘So it seems that I did not ask you to"
+
+msgctxt "dn24:6.13"
+msgid "ehi tvaṃ, sunakkhatta, mamaṃ uddissa viharāhīti."
+msgstr "live dedicated to me,"
+
+msgctxt "dn24:6.14"
+msgid "Napi kira maṃ tvaṃ vadesi—"
+msgstr "nor did you say you would"
+
+msgctxt "dn24:6.15"
+msgid "ahaṃ, bhante, bhagavantaṃ uddissa viharissāmīti."
+msgstr "live dedicated to me."
+
+msgctxt "dn24:6.16"
+msgid "Evaṃ sante, moghapurisa, ko santo kaṃ paccācikkhasi?"
+msgstr ""
+"In that case, you foolish man, are you really in a position to be disavowing "
+"anything?"
+
+#. VAR: yāvañca → yāva ca (c1)
+msgctxt "dn24:6.17"
+msgid "Passa, moghapurisa, yāvañca te idaṃ aparaddhan’ti."
+msgstr "See how far you have strayed!’"
+
+#. </p><p><a class="sc" id="4"></a><a class="wp" id="wp1.4"></a><a class="pts"
+#. id="pts3.4"></a>
+msgctxt "dn24:7.1"
+msgid ""
+"‘Na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṃ "
+"karotī’ti."
+msgstr ""
+"‘But sir, the Buddha never performs any superhuman demonstrations of psychic "
+"power for me.’"
+
+msgctxt "dn24:7.2"
+msgid "‘Api nu tāhaṃ, sunakkhatta, evaṃ avacaṃ—"
+msgstr "‘But Sunakkhatta, did I ever say to you:"
+
+msgctxt "dn24:7.3"
+msgid ""
+"ehi tvaṃ, sunakkhatta, mamaṃ uddissa viharāhi, ahaṃ te uttari manussadhammā "
+"iddhipāṭihāriyaṃ karissāmī’ti?"
+msgstr ""
+"“Come, live dedicated to me and I will perform a superhuman demonstration of "
+"psychic power for you”?’"
+
+msgctxt "dn24:7.4"
+msgid "‘No hetaṃ, bhante’."
+msgstr "‘No, sir.’"
+
+#. VAR: Tvaṃ vā → tvañca (c1)
+msgctxt "dn24:7.5"
+msgid "‘Tvaṃ vā pana maṃ evaṃ avaca—"
+msgstr "‘Or did you ever say to me:"
+
+msgctxt "dn24:7.6"
+msgid ""
+"ahaṃ, bhante, bhagavantaṃ uddissa viharissāmi, bhagavā me uttari "
+"manussadhammā iddhipāṭihāriyaṃ karissatī’ti?"
+msgstr ""
+"“Sir, I shall live dedicated to the Buddha, and the Buddha will perform a "
+"superhuman demonstration of psychic power for me”?’"
+
+msgctxt "dn24:7.7"
+msgid "‘No hetaṃ, bhante’."
+msgstr "‘No, sir.’"
+
+msgctxt "dn24:7.8"
+msgid "‘Iti kira, sunakkhatta, nevāhaṃ taṃ vadāmi—"
+msgstr ""
+"‘So it seems that I did not ask this of you, and you did not require it of "
+"me."
+
+msgctxt "dn24:7.9"
+msgid ""
+"ehi tvaṃ, sunakkhatta, mamaṃ uddissa viharāhi, ahaṃ te uttari manussadhammā "
+"iddhipāṭihāriyaṃ karissāmīti;"
+msgstr ""
+
+msgctxt "dn24:7.10"
+msgid "napi kira maṃ tvaṃ vadesi—"
+msgstr ""
+
+msgctxt "dn24:7.11"
+msgid ""
+"ahaṃ, bhante, bhagavantaṃ uddissa viharissāmi, bhagavā me uttari "
+"manussadhammā iddhipāṭihāriyaṃ karissatīti."
+msgstr ""
+
+msgctxt "dn24:7.12"
+msgid "Evaṃ sante, moghapurisa, ko santo kaṃ paccācikkhasi?"
+msgstr ""
+"In that case, you foolish man, are you really in a position to be disavowing "
+"anything?"
+
+msgctxt "dn24:7.13"
+msgid ""
+"Taṃ kiṃ maññasi, sunakkhatta, kate vā uttari manussadhammā iddhipāṭihāriye "
+"akate vā uttari manussadhammā iddhipāṭihāriye yassatthāya mayā dhammo desito "
+"so niyyāti takkarassa sammā dukkhakkhayāyā’ti?"
+msgstr ""
+"What do you think, Sunakkhatta? Whether or not there is a demonstration of "
+"psychic power, does my teaching lead someone who practices it to the goal of "
+"the complete ending of suffering?’"
+
+msgctxt "dn24:7.14"
+msgid ""
+"‘Kate vā, bhante, uttari manussadhammā iddhipāṭihāriye akate vā uttari "
+"manussadhammā iddhipāṭihāriye yassatthāya bhagavatā dhammo desito so niyyāti "
+"takkarassa sammā dukkhakkhayāyā’ti."
+msgstr "‘It does, sir.’"
+
+msgctxt "dn24:7.15"
+msgid ""
+"‘Iti kira, sunakkhatta, kate vā uttari manussadhammā iddhipāṭihāriye, akate "
+"vā uttari manussadhammā iddhipāṭihāriye, yassatthāya mayā dhammo desito, so "
+"niyyāti takkarassa sammā dukkhakkhayāya."
+msgstr ""
+"‘So it seems that whether or not there is a demonstration of psychic power, "
+"my teaching leads someone who practices it to the goal of the complete "
+"ending of suffering."
+
+msgctxt "dn24:7.16"
+msgid ""
+"Tatra, sunakkhatta, kiṃ uttari manussadhammā iddhipāṭihāriyaṃ kataṃ "
+"karissati?"
+msgstr ""
+"In that case, what is the point of superhuman demonstrations of psychic "
+"power?"
+
+#. VAR: yāvañca → yāva ca (c1)
+msgctxt "dn24:7.17"
+msgid "Passa, moghapurisa, yāvañca te idaṃ aparaddhan’ti."
+msgstr "See how far you have strayed, you foolish man!’ "
+
+#. </p><p><a class="sc" id="5"></a><a class="wp" id="wp1.5"></a>
+#. VAR: paññapetī’ti → paññāpetīti (pts1)
+msgctxt "dn24:8.1"
+msgid "‘Na hi pana me, bhante, bhagavā aggaññaṃ paññapetī’ti?"
+msgstr "‘But sir, the Buddha never describes the origin of the world to me.’"
+
+msgctxt "dn24:8.2"
+msgid "‘Api nu tāhaṃ, sunakkhatta, evaṃ avacaṃ—"
+msgstr "‘But Sunakkhatta, did I ever say to you:"
+
+msgctxt "dn24:8.3"
+msgid ""
+"ehi tvaṃ, sunakkhatta, mamaṃ uddissa viharāhi, ahaṃ te aggaññaṃ "
+"paññapessāmī’ti?"
+msgstr ""
+"“Come, live dedicated to me and I will describe the origin of the world to "
+"you”?’"
+
+msgctxt "dn24:8.4"
+msgid "‘No hetaṃ, bhante’."
+msgstr "‘No, sir.’"
+
+#. </p><p><a class="sc" id="6"></a>
+msgctxt "dn24:9.1"
+msgid "‘Tvaṃ vā pana maṃ evaṃ avaca—"
+msgstr "‘Or did you ever say to me:"
+
+msgctxt "dn24:9.2"
+msgid ""
+"ahaṃ, bhante, bhagavantaṃ uddissa viharissāmi, bhagavā me aggaññaṃ "
+"paññapessatī’ti?"
+msgstr ""
+"“Sir, I shall live dedicated to the Buddha, and the Buddha will describe the "
+"origin of the world to me”?’"
+
+msgctxt "dn24:9.3"
+msgid "‘No hetaṃ, bhante’."
+msgstr "‘No, sir.’"
+
+#. </p><p><a class="sc" id="7"></a><a class="pts" id="pts3.5"></a>
+msgctxt "dn24:10.1"
+msgid "‘Iti kira, sunakkhatta, nevāhaṃ taṃ vadāmi—"
+msgstr ""
+"‘So it seems that I did not ask this of you, and you did not require it of "
+"me."
+
+msgctxt "dn24:10.2"
+msgid ""
+"ehi tvaṃ, sunakkhatta, mamaṃ uddissa viharāhi, ahaṃ te aggaññaṃ "
+"paññapessāmīti."
+msgstr ""
+
+msgctxt "dn24:10.3"
+msgid "Napi kira maṃ tvaṃ vadesi—"
+msgstr ""
+
+msgctxt "dn24:10.4"
+msgid ""
+"ahaṃ, bhante, bhagavantaṃ uddissa viharissāmi, bhagavā me aggaññaṃ "
+"paññapessatīti."
+msgstr ""
+
+msgctxt "dn24:10.5"
+msgid "Evaṃ sante, moghapurisa, ko santo kaṃ paccācikkhasi?"
+msgstr ""
+"In that case, you foolish man, are you really in a position to be disavowing "
+"anything?"
+
+msgctxt "dn24:10.6"
+msgid ""
+"Taṃ kiṃ maññasi, sunakkhatta, paññatte vā aggaññe, apaññatte vā aggaññe, "
+"yassatthāya mayā dhammo desito, so niyyāti takkarassa sammā "
+"dukkhakkhayāyā’ti?"
+msgstr ""
+"What do you think, Sunakkhatta? Whether or not the origin of the world is "
+"described, does my teaching lead someone who practices it to the goal of the "
+"complete ending of suffering?’"
+
+msgctxt "dn24:10.7"
+msgid ""
+"‘Paññatte vā, bhante, aggaññe, apaññatte vā aggaññe, yassatthāya bhagavatā "
+"dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāyā’ti."
+msgstr "‘It does, sir.’"
+
+msgctxt "dn24:10.8"
+msgid ""
+"‘Iti kira, sunakkhatta, paññatte vā aggaññe, apaññatte vā aggaññe, "
+"yassatthāya mayā dhammo desito, so niyyāti takkarassa sammā dukkhakkhayāya."
+msgstr ""
+"‘So it seems that whether or not the origin of the world is described, my "
+"teaching leads someone who practices it to the goal of the complete ending "
+"of suffering."
+
+msgctxt "dn24:10.9"
+msgid "Tatra, sunakkhatta, kiṃ aggaññaṃ paññattaṃ karissati?"
+msgstr "In that case, what is the point of describing the origin of the world?"
+
+msgctxt "dn24:10.10"
+msgid "Passa, moghapurisa, yāvañca te idaṃ aparaddhaṃ."
+msgstr "See how far you have strayed, you foolish man!"
+
+#. </p><p><a class="sc" id="8"></a><a class="wp" id="wp1.6"></a>
+msgctxt "dn24:11.1"
+msgid "Anekapariyāyena kho te, sunakkhatta, mama vaṇṇo bhāsito vajjigāme—"
+msgstr ""
+"In many ways, Sunakkhatta, you have praised me like this in the Vajjian "
+"capital:"
+
+msgctxt "dn24:11.2"
+msgid ""
+"itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū "
+"anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavāti."
+msgstr ""
+"“That Blessed One is perfect, a fully awakened Buddha, accomplished in "
+"knowledge and conduct, holy, knower of the world, supreme trainer of people, "
+"teacher of gods and humans, awakened, blessed.”"
+
+msgctxt "dn24:11.3"
+msgid "Iti kho te, sunakkhatta, anekapariyāyena mama vaṇṇo bhāsito vajjigāme."
+msgstr ""
+
+#. </p><p><a class="sc" id="9"></a>
+msgctxt "dn24:12.1"
+msgid "Anekapariyāyena kho te, sunakkhatta, dhammassa vaṇṇo bhāsito vajjigāme—"
+msgstr ""
+"In many ways you have praised the teaching like this in the Vajjian capital:"
+
+msgctxt "dn24:12.2"
+msgid ""
+"svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko "
+"paccattaṃ veditabbo viññūhīti."
+msgstr ""
+"“The teaching is well explained by the Buddha—realizable in this very life, "
+"immediately effective, inviting inspection, relevant, so that sensible "
+"people can know it for themselves.”"
+
+msgctxt "dn24:12.3"
+msgid ""
+"Iti kho te, sunakkhatta, anekapariyāyena dhammassa vaṇṇo bhāsito vajjigāme."
+msgstr ""
+
+#. </p><p><a class="sc" id="10"></a>
+msgctxt "dn24:13.1"
+msgid "Anekapariyāyena kho te, sunakkhatta, saṅghassa vaṇṇo bhāsito vajjigāme—"
+msgstr ""
+"In many ways you have praised the Saṅgha like this in the Vajjian capital:"
+
+msgctxt "dn24:13.2"
+msgid ""
+"suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, "
+"ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato "
+"sāvakasaṅgho, yadidaṃ cattāri purisayugāni aṭṭha purisapuggalā, esa "
+"bhagavato sāvakasaṅgho, āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo "
+"anuttaraṃ puññakkhettaṃ lokassāti."
+msgstr ""
+"“The Saṅgha of the Buddha’s disciples is practicing the way that’s good, "
+"direct, principled, and proper. It consists of the four pairs, the eight "
+"individuals. This Saṅgha of the Buddha’s disciples is worthy of offerings "
+"dedicated to the gods, worthy of hospitality, worthy of a teacher’s "
+"offering, and worthy of greeting with folded palms. It is a supreme field of "
+"merit for the world.”"
+
+msgctxt "dn24:13.3"
+msgid ""
+"Iti kho te, sunakkhatta, anekapariyāyena saṅghassa vaṇṇo bhāsito vajjigāme."
+msgstr ""
+
+#. </p><p><a class="sc" id="11"></a>
+msgctxt "dn24:14.1"
+msgid "Ārocayāmi kho te, sunakkhatta, paṭivedayāmi kho te, sunakkhatta."
+msgstr "I declare this to you, Sunakkhatta, I announce this to you!"
+
+msgctxt "dn24:14.2"
+msgid ""
+"Bhavissanti kho te, sunakkhatta, vattāro, no visahi sunakkhatto "
+"licchaviputto samaṇe gotame brahmacariyaṃ carituṃ, so avisahanto sikkhaṃ "
+"paccakkhāya hīnāyāvattoti."
+msgstr ""
+"There will be those who say that Sunakkhatta was unable to lead the "
+"spiritual life under the ascetic Gotama. That’s why he disavowed the "
+"training and returned to a lesser life."
+
+msgctxt "dn24:14.3"
+msgid "Iti kho te, sunakkhatta, bhavissanti vattāro’ti."
+msgstr "That’s what they’ll say.’"
+
+#. </p><p><a class="sc" id="12"></a><a class="pts" id="pts3.6"></a>
+msgctxt "dn24:15.1"
+msgid ""
+"Evaṃ kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva "
+"imasmā dhammavinayā, yathā taṃ āpāyiko nerayiko."
+msgstr ""
+"Though I spoke to Sunakkhatta like this, he still left this teaching and "
+"training, like someone on the highway to hell."
+
+#. </p><h2>
+msgctxt "dn24:16.1"
+msgid "2. Korakkhattiyavatthu"
+msgstr "On Korakkhattiya"
+
+# DPPN gives the following variants for the name: Thūlū, 
+# Bumū, Būmū, Thulū, Khulū, Khūlū, Khuhū
+#. </h2><p><a class="sc" id="13"></a><a class="wp" id="wp1.7"></a>
+#. VAR: thūlūsu → bumūsu (bj, pts1)
+#. VAR: ayaṃ → arahaṃ (bj, s1-3, pts1)
+msgctxt "dn24:17.1"
+msgid ""
+"Ekamidāhaṃ, bhaggava, samayaṃ thūlūsu viharāmi uttarakā nāma thūlūnaṃ nigamo."
+msgstr ""
+"Bhaggava, this one time I was staying in the land of the Thūlus where they "
+"have a town named Uttarakā."
+
+msgctxt "dn24:17.2"
+msgid ""
+"Atha khvāhaṃ, bhaggava, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya "
+"sunakkhattena licchaviputtena pacchāsamaṇena uttarakaṃ piṇḍāya pāvisiṃ."
+msgstr ""
+"Then I robed up in the morning and, taking my bowl and robe, entered "
+"Uttarakā for alms with Sunakkhatta the Licchavi as my second monk."
+
+# At MN 57: chamānikkhittaṃ bhojanaṃ bhuñjati
+#. VAR: catukkuṇḍiko → catukuṇḍiko (bj, pts1) | catukoṇḍiko (s1, c1) |
+#. catukkoṇḍiko (s2, s3)
+msgctxt "dn24:17.3"
+msgid ""
+"Tena kho pana samayena acelo korakkhattiyo kukkuravatiko catukkuṇḍiko "
+"chamānikiṇṇaṃ bhakkhasaṃ mukheneva khādati, mukheneva bhuñjati."
+msgstr ""
+"Now at that time the naked ascetic Korakkhattiya had taken a vow to behave "
+"like a dog. When food is tossed on the ground, he gets down on all fours, "
+"eating and devouring it just with his mouth."
+
+msgctxt "dn24:17.4"
+msgid ""
+"Addasā kho, bhaggava, sunakkhatto licchaviputto acelaṃ korakkhattiyaṃ "
+"kukkuravatikaṃ catukkuṇḍikaṃ chamānikiṇṇaṃ bhakkhasaṃ mukheneva khādantaṃ "
+"mukheneva bhuñjantaṃ."
+msgstr "Sunakkhatta saw him doing this"
+
+msgctxt "dn24:17.5"
+msgid "Disvānassa etadahosi:"
+msgstr "and thought:"
+
+msgctxt "dn24:17.6"
+msgid ""
+"‘sādhurūpo vata bho ayaṃ samaṇo catukkuṇḍiko chamānikiṇṇaṃ bhakkhasaṃ "
+"mukheneva khādati, mukheneva bhuñjatī’ti."
+msgstr "‘That ascetic is a true holy man!’"
+
+#. </p><p><a class="sc" id="14"></a><a class="pts" id="pts3.7"></a>
+msgctxt "dn24:18.1"
+msgid ""
+"Atha khvāhaṃ, bhaggava, sunakkhattassa licchaviputtassa cetasā "
+"cetoparivitakkamaññāya sunakkhattaṃ licchaviputtaṃ etadavocaṃ:"
+msgstr "Then, knowing what Sunakkhatta was thinking, I said to him:"
+
+#. VAR: moghapurisa, samaṇo sakyaputtiyo → moghapurisa sakyaputtiyo (s1-3,
+#. pts1)
+msgctxt "dn24:18.2"
+msgid "‘tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti."
+msgstr ""
+"‘Don’t you claim to be an ascetic, a follower of the Sakyan, you foolish "
+"man?’"
+
+msgctxt "dn24:18.3"
+msgid "‘Kiṃ pana maṃ, bhante, bhagavā evamāha:"
+msgstr "‘But why does the Buddha say this to me?’"
+
+msgctxt "dn24:18.4"
+msgid "“tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī”’ti?"
+msgstr ""
+
+msgctxt "dn24:18.5"
+msgid ""
+"‘Nanu te, sunakkhatta, imaṃ acelaṃ korakkhattiyaṃ kukkuravatikaṃ "
+"catukkuṇḍikaṃ chamānikiṇṇaṃ bhakkhasaṃ mukheneva khādantaṃ mukheneva "
+"bhuñjantaṃ disvāna etadahosi—"
+msgstr "‘When you saw that naked ascetic Korakkhattiya, didn’t you think:"
+
+msgctxt "dn24:18.6"
+msgid ""
+"sādhurūpo vata bho ayaṃ samaṇo catukkuṇḍiko chamānikiṇṇaṃ bhakkhasaṃ "
+"mukheneva khādati, mukheneva bhuñjatī’ti?"
+msgstr "“That ascetic is a true holy man!”?’"
+
+msgctxt "dn24:18.7"
+msgid "‘Evaṃ, bhante."
+msgstr "‘Yes, sir."
+
+msgctxt "dn24:18.8"
+msgid "Kiṃ pana, bhante, bhagavā arahattassa maccharāyatī’ti?"
+msgstr "But sir, are you jealous of the perfected ones?’"
+
+#. </p><p><a class="sc" id="15"></a>
+msgctxt "dn24:19.1"
+msgid "‘Na kho ahaṃ, moghapurisa, arahattassa maccharāyāmi."
+msgstr "‘I’m not jealous of the perfected ones, you foolish man."
+
+msgctxt "dn24:19.2"
+msgid "Api ca tuyhevetaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ, taṃ pajaha."
+msgstr ""
+"Rather, you should give up this harmful misconception that has arisen in you."
+
+msgctxt "dn24:19.3"
+msgid "Mā te ahosi dīgharattaṃ ahitāya dukkhāya."
+msgstr "Don’t create lasting harm and suffering for yourself!"
+
+msgctxt "dn24:19.4"
+msgid "Yaṃ kho panetaṃ, sunakkhatta, maññasi acelaṃ korakkhattiyaṃ—"
+msgstr ""
+"That naked ascetic Korakkhattiya, who you imagine to be a true holy man,"
+
+#, fuzzy
+msgctxt "dn24:19.5"
+msgid "sādhurūpo ayaṃ samaṇoti."
+msgstr " "
+
+# Comm: "Alasakenāti alasakabyādhinā" Tika: "Alasakenāti ajīraṇena āmarogena.", CPD tympanitis, Cone: flatulence.
+# 
+# 
+msgctxt "dn24:19.6"
+msgid "So sattamaṃ divasaṃ alasakena kālaṃ karissati."
+msgstr "will die of flatulence in seven days."
+
+# The terrifying Kālakañjas are mentioned in DN 20.
+#. VAR: kālakañcikā → kālakañjikā (bj, s1-3) | kālakañjā (pts1)
+#. VAR: Kālaṅkato → kālakato (bj, s1-3, pts1)
+msgctxt "dn24:19.7"
+msgid ""
+"Kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra "
+"upapajjissati."
+msgstr ""
+"And when he dies, he’ll be reborn in the very lowest class of demons, named "
+"the Kālakañjas."
+
+msgctxt "dn24:19.8"
+msgid "Kālaṅkatañca naṃ bīraṇatthambake susāne chaḍḍessanti."
+msgstr ""
+"And when he dies, they’ll throw him in the charnel ground on a clump of "
+"vetiver."
+
+msgctxt "dn24:19.9"
+msgid ""
+"Ākaṅkhamāno ca tvaṃ, sunakkhatta, acelaṃ korakkhattiyaṃ upasaṅkamitvā "
+"puccheyyāsi—"
+msgstr "If you wish, Sunakkhatta, go to Korakkhattiya and ask him"
+
+msgctxt "dn24:19.10"
+msgid "jānāsi, āvuso korakkhattiya, attano gatinti?"
+msgstr "whether he knows his own destiny."
+
+msgctxt "dn24:19.11"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, sunakkhatta, vijjati yaṃ te acelo korakkhattiyo "
+"byākarissati—"
+msgstr "It’s possible that he will answer:"
+
+msgctxt "dn24:19.12"
+msgid "jānāmi, āvuso sunakkhatta, attano gatiṃ;"
+msgstr "“Reverend Sunakkhatta, I know my own destiny."
+
+msgctxt "dn24:19.13"
+msgid "kālakañcikā nāma asurā sabbanihīno asurakāyo, tatrāmhi upapanno’ti."
+msgstr ""
+"I’ll be reborn in the very lowest class of demons, named the Kālakañjas.”’"
+
+#. </p><p><a class="sc" id="16"></a><a class="wp" id="wp1.8"></a><a class="pts"
+#. id="pts3.8"></a>
+msgctxt "dn24:20.1"
+msgid ""
+"Atha kho, bhaggava, sunakkhatto licchaviputto yena acelo korakkhattiyo "
+"tenupasaṅkami;"
+msgstr "So, Bhaggava, Sunakkhatta went to see Korakkhattiya"
+
+msgctxt "dn24:20.2"
+msgid "upasaṅkamitvā acelaṃ korakkhattiyaṃ etadavoca:"
+msgstr "and said to him:"
+
+msgctxt "dn24:20.3"
+msgid "‘byākato khosi, āvuso korakkhattiya, samaṇena gotamena—"
+msgstr "‘Reverend Korakkhattiya, the ascetic Gotama has declared"
+
+msgctxt "dn24:20.4"
+msgid "acelo korakkhattiyo sattamaṃ divasaṃ alasakena kālaṃ karissati."
+msgstr "that you will die of flatulence in seven days."
+
+msgctxt "dn24:20.5"
+msgid ""
+"Kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra "
+"upapajjissati."
+msgstr ""
+"And when you die, you’ll be reborn in the very lowest class of demons, named "
+"the Kālakañjas."
+
+msgctxt "dn24:20.6"
+msgid "Kālaṅkatañca naṃ bīraṇatthambake susāne chaḍḍessantīti."
+msgstr ""
+"And when you die, they’ll throw you in the charnel ground on a clump of "
+"vetiver."
+
+msgctxt "dn24:20.7"
+msgid ""
+"Yena tvaṃ, āvuso korakkhattiya, mattaṃ mattañca bhattaṃ bhuñjeyyāsi, mattaṃ "
+"mattañca pānīyaṃ piveyyāsi."
+msgstr "But by eating just a little food and drinking just a little water,"
+
+msgctxt "dn24:20.8"
+msgid "Yathā samaṇassa gotamassa micchā assa vacanan’ti."
+msgstr "you’ll prove what the ascetic Gotama says to be false.’"
+
+#. </p><p><a class="sc" id="17"></a>
+msgctxt "dn24:21.1"
+msgid ""
+"Atha kho, bhaggava, sunakkhatto licchaviputto ekadvīhikāya sattarattindivāni "
+"gaṇesi, yathā taṃ tathāgatassa asaddahamāno."
+msgstr ""
+"Then Sunakkhatta counted up the days until the seventh day, as happens when "
+"you have no faith in the Realized One."
+
+msgctxt "dn24:21.2"
+msgid ""
+"Atha kho, bhaggava, acelo korakkhattiyo sattamaṃ divasaṃ alasakena "
+"kālamakāsi."
+msgstr ""
+"But on the seventh day, the naked ascetic Korakkhattiya died of flatulence."
+
+msgctxt "dn24:21.3"
+msgid ""
+"Kālaṅkato ca kālakañcikā nāma asurā sabbanihīno asurakāyo, tatra upapajji."
+msgstr ""
+"And when he died, he was reborn in the very lowest class of demons, named "
+"the Kālakañjas."
+
+msgctxt "dn24:21.4"
+msgid "Kālaṅkatañca naṃ bīraṇatthambake susāne chaḍḍesuṃ."
+msgstr ""
+"And when he died, they threw him in the charnel ground on a clump of vetiver."
+
+#. </p><p><a class="sc" id="18"></a><a class="wp" id="wp1.9"></a>
+msgctxt "dn24:22.1"
+msgid "Assosi kho, bhaggava, sunakkhatto licchaviputto:"
+msgstr "Sunakkhatta the Licchavi heard about this."
+
+msgctxt "dn24:22.2"
+msgid ""
+"‘acelo kira korakkhattiyo alasakena kālaṅkato bīraṇatthambake susāne "
+"chaḍḍito’ti."
+msgstr ""
+
+msgctxt "dn24:22.3"
+msgid ""
+"Atha kho, bhaggava, sunakkhatto licchaviputto yena bīraṇatthambakaṃ susānaṃ, "
+"yena acelo korakkhattiyo tenupasaṅkami;"
+msgstr ""
+"So he went to see Korakkhattiya in the charnel ground on the clump of "
+"vetiver."
+
+msgctxt "dn24:22.4"
+msgid "upasaṅkamitvā acelaṃ korakkhattiyaṃ tikkhattuṃ pāṇinā ākoṭesi:"
+msgstr "There he struck Korakkhattiya with his fist three times:"
+
+msgctxt "dn24:22.5"
+msgid "‘jānāsi, āvuso korakkhattiya, attano gatin’ti?"
+msgstr "‘Reverend Korakkhattiya, do you know your destiny?’"
+
+# Cp Pj 1, Sudinna: pāṇinā gattāni paripuñchanto vuṭṭhāsi.
+msgctxt "dn24:22.6"
+msgid ""
+"Atha kho, bhaggava, acelo korakkhattiyo pāṇinā piṭṭhiṃ paripuñchanto "
+"vuṭṭhāsi."
+msgstr "Then Korakkhattiya got up, rubbing his back with his hands, and said:"
+
+msgctxt "dn24:22.7"
+msgid "‘Jānāmi, āvuso sunakkhatta, attano gatiṃ."
+msgstr "‘Reverend Sunakkhatta, I know my own destiny."
+
+#. VAR: papati → paripati (bj, s1-3, mr)
+msgctxt "dn24:22.8"
+msgid ""
+"Kālakañcikā nāma asurā sabbanihīno asurakāyo, tatrāmhi upapanno’ti vatvā "
+"tattheva uttāno papati."
+msgstr ""
+"I’ve been reborn in the very lowest class of demons, named the Kālakañjas.’ "
+"After speaking, he fell flat right there."
+
+#. </p><p><a class="sc" id="19"></a><a class="wp" id="wp1.10"></a><a
+#. class="pts" id="pts3.9"></a>
+msgctxt "dn24:23.1"
+msgid "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṃ tenupasaṅkami;"
+msgstr "Then Sunakkhatta came to me,"
+
+msgctxt "dn24:23.2"
+msgid "upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed, and sat down to one side."
+
+msgctxt "dn24:23.3"
+msgid ""
+"Ekamantaṃ nisinnaṃ kho ahaṃ, bhaggava, sunakkhattaṃ licchaviputtaṃ "
+"etadavocaṃ:"
+msgstr "I said to him:"
+
+msgctxt "dn24:23.4"
+msgid ""
+"‘taṃ kiṃ maññasi, sunakkhatta, yatheva te ahaṃ acelaṃ korakkhattiyaṃ ārabbha "
+"byākāsiṃ, tatheva taṃ vipākaṃ, aññathā vā’ti?"
+msgstr ""
+"‘What do you think, Sunakkhatta? Did the declaration I made about "
+"Korakkhattiya turn out to be correct, or not?’"
+
+msgctxt "dn24:23.5"
+msgid ""
+"‘Yatheva me, bhante, bhagavā acelaṃ korakkhattiyaṃ ārabbha byākāsi, tatheva "
+"taṃ vipākaṃ, no aññathā’ti."
+msgstr "‘It turned out to be correct.’"
+
+msgctxt "dn24:23.6"
+msgid ""
+"‘Taṃ kiṃ maññasi, sunakkhatta, yadi evaṃ sante kataṃ vā hoti uttari "
+"manussadhammā iddhipāṭihāriyaṃ, akataṃ vā’ti?"
+msgstr ""
+"‘What do you think, Sunakkhatta? If that is so, has a superhuman "
+"demonstration of psychic power been performed or not?’"
+
+msgctxt "dn24:23.7"
+msgid ""
+"‘Addhā kho, bhante, evaṃ sante kataṃ hoti uttari manussadhammā "
+"iddhipāṭihāriyaṃ, no akatan’ti."
+msgstr ""
+"‘Clearly, sir, a superhuman demonstration of psychic power has been "
+"performed.’"
+
+msgctxt "dn24:23.8"
+msgid ""
+"‘Evampi kho maṃ tvaṃ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṃ "
+"karontaṃ evaṃ vadesi—"
+msgstr ""
+"‘Though I perform such a superhuman demonstration of psychic power you say "
+"this:"
+
+msgctxt "dn24:23.9"
+msgid ""
+"na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṃ "
+"karotīti."
+msgstr ""
+"“But sir, the Buddha never performs any superhuman demonstrations of psychic "
+"power for me.”"
+
+msgctxt "dn24:23.10"
+msgid "Passa, moghapurisa, yāvañca te idaṃ aparaddhan’ti."
+msgstr "See how far you have strayed!’"
+
+msgctxt "dn24:23.11"
+msgid ""
+"Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva "
+"imasmā dhammavinayā, yathā taṃ āpāyiko nerayiko."
+msgstr ""
+"Though I spoke to Sunakkhatta like this, he still left this teaching and "
+"training, like someone on the highway to hell."
+
+#. </p><h2>
+msgctxt "dn24:24.1"
+msgid "3. Acelakaḷāramaṭṭakavatthu"
+msgstr "On the Naked Ascetic Kaḷāramaṭṭaka"
+
+#. </h2><p><a class="sc" id="20"></a><a class="wp" id="wp1.11"></a><a
+#. class="pts" id="pts3.10"></a>
+msgctxt "dn24:25.1"
+msgid ""
+"Ekamidāhaṃ, bhaggava, samayaṃ vesāliyaṃ viharāmi mahāvane kūṭāgārasālāyaṃ."
+msgstr ""
+"This one time, Bhaggava, I was staying near Vesālī, at the Great Wood, in "
+"the hall with the peaked roof. "
+
+# Spellings uncertain here, I follow MS.
+msgctxt "dn24:25.2"
+msgid ""
+"Tena kho pana samayena acelo kaḷāramaṭṭako vesāliyaṃ paṭivasati "
+"lābhaggappatto ceva yasaggappatto ca vajjigāme."
+msgstr ""
+"Now at that time the naked ascetic Kaḷāramaṭṭaka was residing in Vesālī. And "
+"in the Vajjian capital he had reached the pinnacle of material possessions "
+"and fame."
+
+msgctxt "dn24:25.3"
+msgid "Tassa sattavatapadāni samattāni samādinnāni honti:"
+msgstr "He had undertaken these seven vows."
+
+msgctxt "dn24:25.4"
+msgid ""
+"‘yāvajīvaṃ acelako assaṃ, na vatthaṃ paridaheyyaṃ, yāvajīvaṃ brahmacārī "
+"assaṃ, na methunaṃ dhammaṃ paṭiseveyyaṃ, yāvajīvaṃ surāmaṃseneva yāpeyyaṃ, "
+"na odanakummāsaṃ bhuñjeyyaṃ."
+msgstr ""
+"‘As long as I live, I will be a naked ascetic, not wearing clothes. As long "
+"as I live, I will be celibate, not having sex. As long as I live, I will "
+"consume only meat and alcohol, not eating rice and porridge."
+
+#. VAR: bahuputtaṃ nāma → bahu­putta­kan­nāma (s1-3)
+msgctxt "dn24:25.5"
+msgid ""
+"Puratthimena vesāliṃ udenaṃ nāma cetiyaṃ, taṃ nātikkameyyaṃ, dakkhiṇena "
+"vesāliṃ gotamakaṃ nāma cetiyaṃ, taṃ nātikkameyyaṃ, pacchimena vesāliṃ "
+"sattambaṃ nāma cetiyaṃ, taṃ nātikkameyyaṃ, uttarena vesāliṃ bahuputtaṃ nāma "
+"cetiyaṃ taṃ nātikkameyyan’ti."
+msgstr ""
+"And I will not go past the following tree shrines near Vesālī: the Udena "
+"shrine to the east, the Gotamaka to the south, the Sattamba to the west, and "
+"the Bahuputta to the north.’"
+
+msgctxt "dn24:25.6"
+msgid ""
+"So imesaṃ sattannaṃ vatapadānaṃ samādānahetu lābhaggappatto ceva "
+"yasaggappatto ca vajjigāme."
+msgstr ""
+"And it was due to undertaking these seven vows that he had reached the "
+"pinnacle of material possessions and fame."
+
+#. </p><p><a class="sc" id="21"></a><a class="wp" id="wp1.12"></a>
+msgctxt "dn24:26.1"
+msgid ""
+"Atha kho, bhaggava, sunakkhatto licchaviputto yena acelo kaḷāramaṭṭako "
+"tenupasaṅkami;"
+msgstr "So, Bhaggava, Sunakkhatta went to see Kaḷāramaṭṭaka"
+
+msgctxt "dn24:26.2"
+msgid "upasaṅkamitvā acelaṃ kaḷāramaṭṭakaṃ pañhaṃ apucchi."
+msgstr "and asked him a question."
+
+msgctxt "dn24:26.3"
+msgid "Tassa acelo kaḷāramaṭṭako pañhaṃ puṭṭho na sampāyāsi."
+msgstr "But when he couldn’t answer it,"
+
+msgctxt "dn24:26.4"
+msgid "Asampāyanto kopañca dosañca appaccayañca pātvākāsi."
+msgstr "he displayed irritation, hate, and bitterness."
+
+msgctxt "dn24:26.5"
+msgid "Atha kho, bhaggava, sunakkhattassa licchaviputtassa etadahosi:"
+msgstr "So Sunakkhatta thought:"
+
+# āsādimhase is middle aorist plural; below Sunakkhatta refers to himself in plural, but as usual I render with singular.
+#. VAR: āsādimhase → asādiyimhase (s1-3)
+msgctxt "dn24:26.6"
+msgid "‘sādhurūpaṃ vata bho arahantaṃ samaṇaṃ āsādimhase."
+msgstr "‘I’ve offended the holy man, the perfected one, the ascetic."
+
+msgctxt "dn24:26.7"
+msgid "Mā vata no ahosi dīgharattaṃ ahitāya dukkhāyā’ti."
+msgstr "I mustn’t create lasting harm and suffering for myself!’"
+
+#. </p><p><a class="sc" id="22"></a><a class="wp" id="wp1.13"></a>
+msgctxt "dn24:27.1"
+msgid "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṃ tenupasaṅkami;"
+msgstr "Then Sunakkhatta came to me,"
+
+msgctxt "dn24:27.2"
+msgid "upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed, and sat down to one side."
+
+msgctxt "dn24:27.3"
+msgid ""
+"Ekamantaṃ nisinnaṃ kho ahaṃ, bhaggava, sunakkhattaṃ licchaviputtaṃ "
+"etadavocaṃ:"
+msgstr "I said to him:"
+
+msgctxt "dn24:27.4"
+msgid "‘tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti."
+msgstr ""
+"‘Don’t you claim to be an ascetic, a follower of the Sakyan, you foolish "
+"man?’"
+
+msgctxt "dn24:27.5"
+msgid "‘Kiṃ pana maṃ, bhante, bhagavā evamāha—"
+msgstr "‘But why does the Buddha say this to me?’"
+
+msgctxt "dn24:27.6"
+msgid "tvampi nāma, moghapurisa, samaṇo sakyaputtiyo paṭijānissasī’ti?"
+msgstr ""
+
+msgctxt "dn24:27.7"
+msgid ""
+"‘Nanu tvaṃ, sunakkhatta, acelaṃ kaḷāramaṭṭakaṃ upasaṅkamitvā pañhaṃ apucchi."
+msgstr ""
+"‘Didn’t you go to see the naked ascetic Kaḷāramaṭṭaka and ask him a question?"
+
+msgctxt "dn24:27.8"
+msgid "Tassa te acelo kaḷāramaṭṭako pañhaṃ puṭṭho na sampāyāsi."
+msgstr "But when he couldn’t answer it,"
+
+msgctxt "dn24:27.9"
+msgid "Asampāyanto kopañca dosañca appaccayañca pātvākāsi."
+msgstr "he displayed irritation, hate, and bitterness."
+
+msgctxt "dn24:27.10"
+msgid "Tassa te etadahosi:"
+msgstr "Then you thought:"
+
+msgctxt "dn24:27.11"
+msgid "“sādhurūpaṃ vata bho arahantaṃ samaṇaṃ āsādimhase."
+msgstr "“I’ve offended the holy man, the perfected one, the ascetic."
+
+msgctxt "dn24:27.12"
+msgid "Mā vata no ahosi dīgharattaṃ ahitāya dukkhāyā”’ti."
+msgstr "I mustn’t create lasting harm and suffering for myself!”’"
+
+msgctxt "dn24:27.13"
+msgid "‘Evaṃ, bhante."
+msgstr "‘Yes, sir."
+
+msgctxt "dn24:27.14"
+msgid "Kiṃ pana, bhante, bhagavā arahattassa maccharāyatī’ti?"
+msgstr "But sir, are you jealous of perfected ones?’"
+
+#. </p><p><a class="sc" id="23"></a><a class="pts" id="pts3.11"></a>
+#, fuzzy
+msgctxt "dn24:28.1"
+msgid ""
+"‘Na kho ahaṃ, moghapurisa, arahattassa maccharāyāmi, api ca tuyhevetaṃ "
+"pāpakaṃ diṭṭhigataṃ uppannaṃ, taṃ pajaha."
+msgstr ""
+"‘I’m not jealous of the perfected ones, you foolish man. Rather, you should "
+"give up this harmful misconception that has arisen in you."
+
+#. VAR: dukkhāya → dukkhāyāti (s1-3, c1)
+msgctxt "dn24:28.2"
+msgid "Mā te ahosi dīgharattaṃ ahitāya dukkhāya."
+msgstr "Don’t create lasting harm and suffering for yourself!"
+
+msgctxt "dn24:28.3"
+msgid "Yaṃ kho panetaṃ, sunakkhatta, maññasi acelaṃ kaḷāramaṭṭakaṃ—"
+msgstr ""
+"That naked ascetic Kaḷāramaṭṭaka, who you imagine to be a true holy man,"
+
+#. VAR: yasā nihīno → yasā nikiṇṇo (bj, pts1, mr)
+#. VAR: ayaṃ → arahaṃ (bj, s1-3, pts1)
+msgctxt "dn24:28.4"
+msgid ""
+"sādhurūpo ayaṃ samaṇoti, so nacirasseva parihito sānucāriko vicaranto "
+"odanakummāsaṃ bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā "
+"nihīno kālaṃ karissatī’ti."
+msgstr ""
+"will shortly be clothed, living with a partner, eating rice and porridge, "
+"having gone past all the tree shrines near Vesālī. And he will die after "
+"losing all his fame.’"
+
+#. </p><p><a class="sc" id="24"></a>
+msgctxt "dn24:29.1"
+msgid ""
+"Atha kho, bhaggava, acelo kaḷāramaṭṭako nacirasseva parihito sānucāriko "
+"vicaranto odanakummāsaṃ bhuñjamāno sabbāneva vesāliyāni cetiyāni "
+"samatikkamitvā yasā nihīno kālamakāsi."
+msgstr "And that’s exactly what happened."
+
+#. </p><p><a class="sc" id="25"></a><a class="wp" id="wp1.14"></a><a
+#. class="pts" id="pts3.12"></a>
+msgctxt "dn24:30.1"
+msgid "Assosi kho, bhaggava, sunakkhatto licchaviputto:"
+msgstr "Sunakkhatta heard about this."
+
+msgctxt "dn24:30.2"
+msgid ""
+"‘acelo kira kaḷāramaṭṭako parihito sānucāriko vicaranto odanakummāsaṃ "
+"bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā nihīno "
+"kālaṅkato’ti."
+msgstr ""
+
+msgctxt "dn24:30.3"
+msgid "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṃ tenupasaṅkami;"
+msgstr "He came to me,"
+
+msgctxt "dn24:30.4"
+msgid "upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed, and sat down to one side."
+
+msgctxt "dn24:30.5"
+msgid ""
+"Ekamantaṃ nisinnaṃ kho ahaṃ, bhaggava, sunakkhattaṃ licchaviputtaṃ "
+"etadavocaṃ:"
+msgstr "I said to him:"
+
+msgctxt "dn24:30.6"
+msgid ""
+"‘taṃ kiṃ maññasi, sunakkhatta, yatheva te ahaṃ acelaṃ kaḷāramaṭṭakaṃ ārabbha "
+"byākāsiṃ, tatheva taṃ vipākaṃ, aññathā vā’ti?"
+msgstr ""
+"‘What do you think, Sunakkhatta? Did the declaration I made about "
+"Kaḷāramaṭṭaka turn out to be correct, or not?’"
+
+msgctxt "dn24:30.7"
+msgid ""
+"‘Yatheva me, bhante, bhagavā acelaṃ kaḷāramaṭṭakaṃ ārabbha byākāsi, tatheva "
+"taṃ vipākaṃ, no aññathā’ti."
+msgstr "‘It turned out to be correct.’"
+
+msgctxt "dn24:30.8"
+msgid ""
+"‘Taṃ kiṃ maññasi, sunakkhatta, yadi evaṃ sante kataṃ vā hoti uttari "
+"manussadhammā iddhipāṭihāriyaṃ akataṃ vā’ti?"
+msgstr ""
+"‘What do you think, Sunakkhatta? If that is so, has a superhuman "
+"demonstration of psychic power been performed or not?’"
+
+msgctxt "dn24:30.9"
+msgid ""
+"‘Addhā kho, bhante, evaṃ sante kataṃ hoti uttari manussadhammā "
+"iddhipāṭihāriyaṃ, no akatan’ti."
+msgstr ""
+"‘Clearly, sir, a superhuman demonstration of psychic power has been "
+"performed.’"
+
+msgctxt "dn24:30.10"
+msgid ""
+"‘Evampi kho maṃ tvaṃ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṃ "
+"karontaṃ evaṃ vadesi:"
+msgstr ""
+"‘Though I perform such a superhuman demonstration of psychic power you say "
+"this:"
+
+msgctxt "dn24:30.11"
+msgid ""
+"“na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṃ "
+"karotī”ti."
+msgstr ""
+"“But sir, the Buddha never performs any superhuman demonstrations of psychic "
+"power for me.”"
+
+msgctxt "dn24:30.12"
+msgid "Passa, moghapurisa, yāvañca te idaṃ aparaddhan’ti."
+msgstr "See how far you have strayed!’"
+
+msgctxt "dn24:30.13"
+msgid ""
+"Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva "
+"imasmā dhammavinayā, yathā taṃ āpāyiko nerayiko."
+msgstr ""
+"Though I spoke to Sunakkhatta like this, he still left this teaching and "
+"training, like someone on the highway to hell."
+
+#. </p><h2>
+msgctxt "dn24:31.1"
+msgid "4. Acelapāthikaputtavatthu"
+msgstr "On the Naked Ascetic Pāṭikaputta"
+
+#. </h2><p><a class="sc" id="26"></a><a class="wp" id="wp1.15"></a><a
+#. class="pts" id="pts3.13"></a>
+msgctxt "dn24:32.1"
+msgid ""
+"Ekamidāhaṃ, bhaggava, samayaṃ tattheva vesāliyaṃ viharāmi mahāvane "
+"kūṭāgārasālāyaṃ."
+msgstr ""
+"This one time, Bhaggava, I was staying right there near Vesālī, at the Great "
+"Wood, in the hall with the peaked roof. "
+
+#. VAR: pāthikaputto → pāṭikaputto (s1-3, pts1)
+msgctxt "dn24:32.2"
+msgid ""
+"Tena kho pana samayena acelo pāthikaputto vesāliyaṃ paṭivasati "
+"lābhaggappatto ceva yasaggappatto ca vajjigāme."
+msgstr ""
+"Now at that time the naked ascetic Pāṭikaputta was residing in Vesālī. And "
+"in the Vajjian capital he had reached the pinnacle of material possessions "
+"and fame."
+
+msgctxt "dn24:32.3"
+msgid "So vesāliyaṃ parisati evaṃ vācaṃ bhāsati:"
+msgstr "He was telling a crowd in Vesālī:"
+
+#. VAR: samaṇopi → samaṇo (c1)
+msgctxt "dn24:32.4"
+msgid "‘samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo."
+msgstr "‘Both the ascetic Gotama and I speak from knowledge."
+
+msgctxt "dn24:32.5"
+msgid ""
+"Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṃ "
+"dassetuṃ."
+msgstr ""
+"One who speaks from knowledge ought to display a superhuman demonstration of "
+"psychic power to another who speaks from knowledge."
+
+msgctxt "dn24:32.6"
+msgid ""
+"Samaṇo gotamo upaḍḍhapathaṃ āgaccheyya, ahampi upaḍḍhapathaṃ gaccheyyaṃ."
+msgstr "If the ascetic Gotama meets me half-way,"
+
+msgctxt "dn24:32.7"
+msgid "Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṃ kareyyāma."
+msgstr ""
+"there we should both perform a superhuman demonstration of psychic power."
+
+msgctxt "dn24:32.8"
+msgid ""
+"Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṃ karissati, dvāhaṃ "
+"karissāmi."
+msgstr "If he performs one demonstration of psychic power, I’ll perform two."
+
+msgctxt "dn24:32.9"
+msgid ""
+"Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, "
+"cattārāhaṃ karissāmi."
+msgstr "If he performs two, I’ll perform four."
+
+msgctxt "dn24:32.10"
+msgid ""
+"Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, "
+"aṭṭhāhaṃ karissāmi."
+msgstr "If he performs four, I’ll perform eight."
+
+msgctxt "dn24:32.11"
+msgid ""
+"Iti yāvatakaṃ yāvatakaṃ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṃ "
+"karissati, taddiguṇaṃ taddiguṇāhaṃ karissāmī’ti."
+msgstr ""
+"However many demonstrations of psychic power the ascetic Gotama performs, I’"
+"ll perform double.’"
+
+#. </p><p><a class="sc" id="27"></a><a class="wp" id="wp1.16"></a>
+msgctxt "dn24:33.1"
+msgid "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṃ tenupasaṅkami;"
+msgstr "Then Sunakkhatta came to me,"
+
+msgctxt "dn24:33.2"
+msgid "upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed, sat down to one side,"
+
+msgctxt "dn24:33.3"
+msgid ""
+"Ekamantaṃ nisinno kho, bhaggava, sunakkhatto licchaviputto maṃ etadavoca:"
+msgstr "and told me of all this."
+
+msgctxt "dn24:33.4"
+msgid ""
+"‘acelo, bhante, pāthikaputto vesāliyaṃ paṭivasati lābhaggappatto ceva "
+"yasaggappatto ca vajjigāme."
+msgstr ""
+
+msgctxt "dn24:33.5"
+msgid "So vesāliyaṃ parisati evaṃ vācaṃ bhāsati:"
+msgstr ""
+
+msgctxt "dn24:33.6"
+msgid "“samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo."
+msgstr ""
+
+msgctxt "dn24:33.7"
+msgid ""
+"Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṃ "
+"dassetuṃ."
+msgstr ""
+
+msgctxt "dn24:33.8"
+msgid ""
+"Samaṇo gotamo upaḍḍhapathaṃ āgaccheyya, ahampi upaḍḍhapathaṃ gaccheyyaṃ."
+msgstr ""
+
+msgctxt "dn24:33.9"
+msgid "Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṃ kareyyāma."
+msgstr ""
+
+msgctxt "dn24:33.10"
+msgid ""
+"Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṃ karissati, dvāhaṃ "
+"karissāmi."
+msgstr ""
+
+msgctxt "dn24:33.11"
+msgid ""
+"Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, "
+"cattārāhaṃ karissāmi."
+msgstr ""
+
+msgctxt "dn24:33.12"
+msgid ""
+"Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, "
+"aṭṭhāhaṃ karissāmi."
+msgstr ""
+
+msgctxt "dn24:33.13"
+msgid ""
+"Iti yāvatakaṃ yāvatakaṃ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṃ "
+"karissati, taddiguṇaṃ taddiguṇāhaṃ karissāmī”’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="28"></a>
+msgctxt "dn24:34.1"
+msgid "Evaṃ vutte, ahaṃ, bhaggava, sunakkhattaṃ licchaviputtaṃ etadavocaṃ:"
+msgstr "I said to him:"
+
+msgctxt "dn24:34.2"
+msgid ""
+"‘abhabbo kho, sunakkhatta, acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ "
+"appahāya taṃ diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+"‘Sunakkhatta, the naked ascetic Pāṭikaputta is not capable of coming into my "
+"presence, unless he gives up that statement and that intention, and lets go "
+"that view."
+
+msgctxt "dn24:34.3"
+msgid "Sacepissa evamassa—"
+msgstr "If he thinks he can "
+
+msgctxt "dn24:34.4"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyā’ti."
+msgstr ""
+"come into my presence without giving up those things, his head may explode.’"
+
+#. </p><p><a class="sc" id="29"></a><a class="wp" id="wp1.17"></a><a
+#. class="pts" id="pts3.14"></a>
+msgctxt "dn24:35.1"
+msgid "‘Rakkhatetaṃ, bhante, bhagavā vācaṃ, rakkhatetaṃ sugato vācan’ti."
+msgstr "‘Careful what you say, Blessed One! Careful what you say, Holy One!’"
+
+msgctxt "dn24:35.2"
+msgid "‘Kiṃ pana maṃ tvaṃ, sunakkhatta, evaṃ vadesi—"
+msgstr "‘But why do you say this to me, Sunakkhatta?’"
+
+msgctxt "dn24:35.3"
+msgid "rakkhatetaṃ, bhante, bhagavā vācaṃ, rakkhatetaṃ sugato vācan’ti?"
+msgstr ""
+
+#. VAR: odhāritā → ovāditā (pts1, mr)
+msgctxt "dn24:35.4"
+msgid "‘Bhagavatā cassa, bhante, esā vācā ekaṃsena odhāritā —"
+msgstr "‘Sir, the Buddha has definitively asserted that"
+
+msgctxt "dn24:35.5"
+msgid ""
+"abhabbo acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+"Pāṭikaputta is not capable of coming into the Buddha’s presence, otherwise"
+
+msgctxt "dn24:35.6"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:35.7"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyāti."
+msgstr "his head may explode."
+
+msgctxt "dn24:35.8"
+msgid ""
+"Acelo ca, bhante, pāthikaputto virūparūpena bhagavato sammukhībhāvaṃ "
+"āgaccheyya, tadassa bhagavato musā’ti."
+msgstr ""
+"But Pāṭikaputta might come into the Buddha’s presence in disguise, proving "
+"the Buddha wrong.’"
+
+#. </p><p><a class="sc" id="30"></a><a class="wp" id="wp1.18"></a>
+msgctxt "dn24:36.1"
+msgid ""
+"‘Api nu, sunakkhatta, tathāgato taṃ vācaṃ bhāseyya yā sā vācā dvayagāminī’ti?"
+msgstr "‘Sunakkhatta, would the Realized One make an ambiguous statement?’"
+
+msgctxt "dn24:36.2"
+msgid ""
+"‘Kiṃ pana, bhante, bhagavatā acelo pāthikaputto cetasā ceto paricca vidito—"
+msgstr ""
+"‘But sir, did you make that statement after comprehending Pāṭikaputta’s mind "
+"with your mind?"
+
+msgctxt "dn24:36.3"
+msgid ""
+"abhabbo acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+
+msgctxt "dn24:36.4"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:36.5"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyāti?"
+msgstr ""
+
+#. </p><p><a class="sc" id="31"></a>
+msgctxt "dn24:37.1"
+msgid "Udāhu, devatā bhagavato etamatthaṃ ārocesuṃ—"
+msgstr "Or did deities tell you about it?’"
+
+msgctxt "dn24:37.2"
+msgid ""
+"abhabbo, bhante, acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya "
+"taṃ diṭṭhiṃ appaṭinissajjitvā bhagavato sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+
+msgctxt "dn24:37.3"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:37.4"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyā’ti?"
+msgstr ""
+
+#. </p><p><a class="sc" id="32"></a>
+msgctxt "dn24:38.1"
+msgid "‘Cetasā ceto paricca vidito ceva me, sunakkhatta, acelo pāthikaputto—"
+msgstr "‘Both, Sunakkhatta."
+
+msgctxt "dn24:38.2"
+msgid ""
+"abhabbo acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+
+msgctxt "dn24:38.3"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:38.4"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyāti."
+msgstr ""
+
+#. </p><p><a class="sc" id="33"></a><a class="pts" id="pts3.15"></a>
+msgctxt "dn24:39.1"
+msgid "Devatāpi me etamatthaṃ ārocesuṃ—"
+msgstr ""
+
+msgctxt "dn24:39.2"
+msgid ""
+"abhabbo, bhante, acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya "
+"taṃ diṭṭhiṃ appaṭinissajjitvā bhagavato sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+
+msgctxt "dn24:39.3"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:39.4"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyāti."
+msgstr ""
+
+#. </p><p><a class="sc" id="34"></a>
+msgctxt "dn24:40.1"
+msgid ""
+"Ajitopi nāma licchavīnaṃ senāpati adhunā kālaṅkato tāvatiṃsakāyaṃ upapanno."
+msgstr ""
+"For Ajita the Licchavi general has recently passed away and been reborn in "
+"the host of the Thirty-Three."
+
+msgctxt "dn24:40.2"
+msgid "Sopi maṃ upasaṅkamitvā evamārocesi—"
+msgstr "He came and told me this:"
+
+msgctxt "dn24:40.3"
+msgid "alajjī, bhante, acelo pāthikaputto;"
+msgstr "“The naked ascetic Pāṭikaputta is shameless, sir,"
+
+msgctxt "dn24:40.4"
+msgid "musāvādī, bhante, acelo pāthikaputto."
+msgstr "he is a liar."
+
+msgctxt "dn24:40.5"
+msgid "Mampi, bhante, acelo pāthikaputto byākāsi vajjigāme—"
+msgstr "For he has declared of me in the Vajjian capital:"
+
+msgctxt "dn24:40.6"
+msgid "ajito licchavīnaṃ senāpati mahānirayaṃ upapannoti."
+msgstr "‘Ajita the Licchavi general has been reborn in the Great Hell.’"
+
+#. </p><p><a class="sc" id="35"></a>
+msgctxt "dn24:41.1"
+msgid "Na kho panāhaṃ, bhante, mahānirayaṃ upapanno;"
+msgstr "But that is not true—"
+
+msgctxt "dn24:41.2"
+msgid "tāvatiṃsakāyamhi upapanno."
+msgstr "I have been reborn in the host of the Thirty-Three."
+
+msgctxt "dn24:41.3"
+msgid "Alajjī, bhante, acelo pāthikaputto;"
+msgstr "The naked ascetic Pāṭikaputta is shameless, sir,"
+
+msgctxt "dn24:41.4"
+msgid "musāvādī, bhante, acelo pāthikaputto;"
+msgstr "he is a liar."
+
+msgctxt "dn24:41.5"
+msgid ""
+"abhabbo ca, bhante, acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ "
+"appahāya taṃ diṭṭhiṃ appaṭinissajjitvā bhagavato sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+"Pāṭikaputta is not capable of coming into the Buddha’s presence, otherwise"
+
+msgctxt "dn24:41.6"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:41.7"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyāti."
+msgstr "his head may explode.”"
+
+#. </p><p><a class="sc" id="36"></a>
+msgctxt "dn24:42.1"
+msgid ""
+"Iti kho, sunakkhatta, cetasā ceto paricca vidito ceva me acelo pāthikaputto "
+"abhabbo acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+"Thus I both made that statement after comprehending Pāṭikaputta’s mind with "
+"my mind, "
+
+msgctxt "dn24:42.2"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:42.3"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyāti."
+msgstr ""
+
+msgctxt "dn24:42.4"
+msgid "Devatāpi me etamatthaṃ ārocesuṃ—"
+msgstr "and deities told me about it."
+
+msgctxt "dn24:42.5"
+msgid ""
+"abhabbo, bhante, acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya "
+"taṃ diṭṭhiṃ appaṭinissajjitvā bhagavato sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+
+msgctxt "dn24:42.6"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:42.7"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyāti."
+msgstr ""
+
+#. </p><p><a class="sc" id="37"></a>
+msgctxt "dn24:43.1"
+msgid ""
+"So kho panāhaṃ, sunakkhatta, vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ "
+"piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkamissāmi "
+"divāvihārāya."
+msgstr ""
+"So Sunakkhatta, I’ll wander for alms in Vesālī. After the meal, on my return "
+"from alms-round, I’ll go to Pāṭalikaputta’s monastery for the day’s "
+"meditation."
+
+msgctxt "dn24:43.2"
+msgid "Yassadāni tvaṃ, sunakkhatta, icchasi, tassa ārocehī’ti."
+msgstr "Now you may tell him, if you so wish.’"
+
+#. </p><h2>
+msgctxt "dn24:44.1"
+msgid "5. Iddhipāṭihāriyakathā"
+msgstr "On Demonstrations of Psychic Power"
+
+#. </h2><p><a class="sc" id="38"></a><a class="wp" id="wp1.19"></a><a
+#. class="pts" id="pts3.16"></a>
+#. VAR: Atha khvāhaṃ → atha kho svāhaṃ (s1-3) | atha kho' haṃ (pts1)
+msgctxt "dn24:45.1"
+msgid ""
+"Atha khvāhaṃ, bhaggava, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya vesāliṃ "
+"piṇḍāya pāvisiṃ."
+msgstr ""
+"Then, Bhaggava, I got dressed in the morning and, taking my bowl and robes, "
+"entered Vesālī for alms."
+
+msgctxt "dn24:45.2"
+msgid ""
+"Vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena acelassa "
+"pāthikaputtassa ārāmo tenupasaṅkamiṃ divāvihārāya."
+msgstr ""
+"After the meal, on my return from alms-round, I went to Pāṭalikaputta’s "
+"monastery for the day’s meditation."
+
+msgctxt "dn24:45.3"
+msgid ""
+"Atha kho, bhaggava, sunakkhatto licchaviputto taramānarūpo vesāliṃ pavisitvā "
+"yena abhiññātā abhiññātā licchavī tenupasaṅkami;"
+msgstr ""
+"Then Sunakkhatta rushed into Vesālī to see the very well-known Licchavis"
+
+msgctxt "dn24:45.4"
+msgid "upasaṅkamitvā abhiññāte abhiññāte licchavī etadavoca:"
+msgstr "and said to them:"
+
+msgctxt "dn24:45.5"
+msgid ""
+"‘esāvuso, bhagavā vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ "
+"piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkami "
+"divāvihārāya."
+msgstr ""
+"‘Sirs, after his alms-round, the Buddha has gone to Pāṭalikaputta’s "
+"monastery for the day’s meditation."
+
+msgctxt "dn24:45.6"
+msgid ""
+"Abhikkamathāyasmanto abhikkamathāyasmanto, sādhurūpānaṃ samaṇānaṃ uttari "
+"manussadhammā iddhipāṭihāriyaṃ bhavissatī’ti."
+msgstr ""
+"Come forth, sirs, come forth! There will be a superhuman demonstration of "
+"psychic power by the holy ascetics!’"
+
+msgctxt "dn24:45.7"
+msgid "Atha kho, bhaggava, abhiññātānaṃ abhiññātānaṃ licchavīnaṃ etadahosi:"
+msgstr "So the very well-known Licchavis thought:"
+
+msgctxt "dn24:45.8"
+msgid ""
+"‘sādhurūpānaṃ kira, bho, samaṇānaṃ uttari manussadhammā iddhipāṭihāriyaṃ "
+"bhavissati;"
+msgstr ""
+"‘It seems there will be a superhuman demonstration of psychic power by the "
+"holy ascetics!"
+
+msgctxt "dn24:45.9"
+msgid "handa vata, bho, gacchāmā’ti."
+msgstr "Let’s go!’"
+
+#. </p><p><a class="sc" id="39"></a>
+#. VAR: nānātitthiyā → nānātitthiya (s1-3)
+msgctxt "dn24:46.1"
+msgid ""
+"Yena ca abhiññātā abhiññātā brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā "
+"samaṇabrāhmaṇā tenupasaṅkami."
+msgstr ""
+"Then he went to see the very well-known propertied brahmins, rich "
+"householders, and ascetics and brahmins who follow various other paths, and "
+"said the same thing."
+
+#. VAR: nānātitthiye → nānātitthiya (s1-3)
+msgctxt "dn24:46.2"
+msgid ""
+"Upasaṅkamitvā abhiññāte abhiññāte nānātitthiye samaṇabrāhmaṇe etadavoca:"
+msgstr ""
+
+msgctxt "dn24:46.3"
+msgid ""
+"‘esāvuso, bhagavā vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ "
+"piṇḍapātapaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkami "
+"divāvihārāya."
+msgstr ""
+
+msgctxt "dn24:46.4"
+msgid ""
+"Abhikkamathāyasmanto abhikkamathāyasmanto, sādhurūpānaṃ samaṇānaṃ uttari "
+"manussadhammā iddhipāṭihāriyaṃ bhavissatī’ti."
+msgstr ""
+
+msgctxt "dn24:46.5"
+msgid ""
+"Atha kho, bhaggava, abhiññātānaṃ abhiññātānaṃ nānātitthiyānaṃ "
+"samaṇabrāhmaṇānaṃ etadahosi:"
+msgstr "They all said:"
+
+msgctxt "dn24:46.6"
+msgid ""
+"‘sādhurūpānaṃ kira, bho, samaṇānaṃ uttari manussadhammā iddhipāṭihāriyaṃ "
+"bhavissati;"
+msgstr ""
+"‘It seems there will be a superhuman demonstration of psychic power by the "
+"holy ascetics!"
+
+msgctxt "dn24:46.7"
+msgid "handa vata, bho, gacchāmā’ti."
+msgstr "Let’s go!’"
+
+#. </p><p><a class="sc" id="40"></a><a class="pts" id="pts3.17"></a>
+msgctxt "dn24:47.1"
+msgid ""
+"Atha kho, bhaggava, abhiññātā abhiññātā licchavī, abhiññātā abhiññātā ca "
+"brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā yena acelassa "
+"pāthikaputtassa ārāmo tenupasaṅkamiṃsu."
+msgstr "Then all those very well-known people went to Pāṭikaputta’s monastery."
+
+#. VAR: parisā mahā hoti → parisā hoti (bj, s1-3, pts1)
+msgctxt "dn24:47.2"
+msgid "Sā esā, bhaggava, parisā mahā hoti anekasatā anekasahassā."
+msgstr ""
+"That assembly was large, Bhaggava; there were many hundreds, many thousands "
+"of them."
+
+#. </p><p><a class="sc" id="41"></a><a class="wp" id="wp1.20"></a>
+msgctxt "dn24:48.1"
+msgid "Assosi kho, bhaggava, acelo pāthikaputto:"
+msgstr "Pāṭikaputta heard:"
+
+msgctxt "dn24:48.2"
+msgid ""
+"‘abhikkantā kira abhiññātā abhiññātā licchavī, abhikkantā abhiññātā "
+"abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā."
+msgstr ""
+"‘It seems that very well-known Licchavis, propertied brahmins, rich "
+"householders, and ascetics and brahmins who follow various other paths have "
+"come forth."
+
+msgctxt "dn24:48.3"
+msgid "Samaṇopi gotamo mayhaṃ ārāme divāvihāraṃ nisinno’ti."
+msgstr ""
+"And the ascetic Gotama is sitting in my monastery for the day’s meditation.’"
+
+msgctxt "dn24:48.4"
+msgid "Sutvānassa bhayaṃ chambhitattaṃ lomahaṃso udapādi."
+msgstr ""
+"When he heard that, he became frightened, scared, his hair standing on end."
+
+msgctxt "dn24:48.5"
+msgid ""
+"Atha kho, bhaggava, acelo pāthikaputto bhīto saṃviggo lomahaṭṭhajāto yena "
+"tindukakhāṇuparibbājakārāmo tenupasaṅkami."
+msgstr ""
+"In fear he went to the Pale-Moon Ebony Trunk Monastery of the wanderers."
+
+#. </p><p><a class="sc" id="42"></a>
+msgctxt "dn24:49.1"
+msgid "Assosi kho, bhaggava, sā parisā:"
+msgstr "The assembly heard of this,"
+
+#. VAR: tenupasaṅkanto’ti → tenupa­saṅka­man­toti (pts1, mr)
+msgctxt "dn24:49.2"
+msgid ""
+"‘acelo kira pāthikaputto bhīto saṃviggo lomahaṭṭhajāto yena "
+"tindukakhāṇuparibbājakārāmo tenupasaṅkanto’ti."
+msgstr ""
+
+msgctxt "dn24:49.3"
+msgid "Atha kho, bhaggava, sā parisā aññataraṃ purisaṃ āmantesi:"
+msgstr "and instructed a man:"
+
+#. </p><p><a class="sc" id="43"></a><a class="pts" id="pts3.18"></a>
+msgctxt "dn24:50.1"
+msgid ""
+"‘Ehi tvaṃ, bho purisa, yena tindukakhāṇuparibbājakārāmo, yena acelo "
+"pāthikaputto tenupasaṅkama."
+msgstr ""
+"‘Come, my man, go to see Pāṭikaputta at the Pale-Moon Ebony Trunk monastery"
+
+msgctxt "dn24:50.2"
+msgid "Upasaṅkamitvā acelaṃ pāthikaputtaṃ evaṃ vadehi:"
+msgstr "and say to him:"
+
+msgctxt "dn24:50.3"
+msgid ""
+"“abhikkamāvuso, pāthikaputta, abhikkantā abhiññātā abhiññātā licchavī, "
+"abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā "
+"nānātitthiyā samaṇabrāhmaṇā, samaṇopi gotamo āyasmato ārāme divāvihāraṃ "
+"nisinno;"
+msgstr ""
+"“Come forth, Reverend Pāṭikaputta! All these very well-known people have "
+"come forth, and the ascetic Gotama is sitting in your monastery for the day’"
+"s meditation."
+
+#, fuzzy
+msgctxt "dn24:50.4"
+msgid ""
+"bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṃ parisati vācā "
+"samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo."
+msgstr ""
+"For you stated this in the assembly at Vesālī: ‘Both the ascetic Gotama and "
+"I speak from knowledge."
+
+msgctxt "dn24:50.5"
+msgid ""
+"Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṃ "
+"dassetuṃ."
+msgstr ""
+"One who speaks from knowledge ought to display a superhuman demonstration of "
+"psychic power to another who speaks from knowledge."
+
+msgctxt "dn24:50.6"
+msgid "Samaṇo gotamo upaḍḍhapathaṃ āgaccheyya ahampi upaḍḍhapathaṃ gaccheyyaṃ."
+msgstr "If the ascetic Gotama meets me half-way,"
+
+msgctxt "dn24:50.7"
+msgid "Te tattha ubhopi uttari manussadhammā iddhipāṭihāriyaṃ kareyyāma."
+msgstr ""
+"there we should both perform a superhuman demonstration of psychic power."
+
+msgctxt "dn24:50.8"
+msgid ""
+"Ekañce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṃ karissati, dvāhaṃ "
+"karissāmi."
+msgstr "If he performs one demonstration of psychic power, I’ll perform two."
+
+msgctxt "dn24:50.9"
+msgid ""
+"Dve ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, "
+"cattārāhaṃ karissāmi."
+msgstr "If he performs two, I’ll perform four."
+
+msgctxt "dn24:50.10"
+msgid ""
+"Cattāri ce samaṇo gotamo uttari manussadhammā iddhipāṭihāriyāni karissati, "
+"aṭṭhāhaṃ karissāmi."
+msgstr "If he performs four, I’ll perform eight."
+
+#. VAR: abhikkamasseva → abhikkamayeva (s1-3, pts1)
+#, fuzzy
+msgctxt "dn24:50.11"
+msgid ""
+"Iti yāvatakaṃ yāvatakaṃ samaṇo gotamo uttari manussadhammā iddhipāṭihāriyaṃ "
+"karissati, taddiguṇaṃ taddiguṇāhaṃ karissāmī”ti abhikkamasseva kho;"
+msgstr ""
+"However many demonstrations of psychic power the ascetic Gotama performs, I’"
+"ll perform double.’"
+
+msgctxt "dn24:50.12"
+msgid "āvuso pāthikaputta, upaḍḍhapathaṃ."
+msgstr "Come forth, Reverend Pāṭikaputta, half-way."
+
+msgctxt "dn24:50.13"
+msgid ""
+"Sabbapaṭhamaṃyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṃ "
+"nisinno’ti."
+msgstr ""
+"The ascetic Gotama has come the first half, and is sitting in your "
+"monastery.’"
+
+#. </p><p><a class="sc" id="44"></a><a class="wp" id="wp1.21"></a>
+msgctxt "dn24:51.1"
+msgid ""
+"Evaṃ, bhoti kho, bhaggava, so puriso tassā parisāya paṭissutvā yena "
+"tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkami."
+msgstr "‘Yes, sir,’ replied that man, and delivered the message."
+
+msgctxt "dn24:51.2"
+msgid "Upasaṅkamitvā acelaṃ pāthikaputtaṃ etadavoca:"
+msgstr ""
+
+msgctxt "dn24:51.3"
+msgid ""
+"‘abhikkamāvuso pāthikaputta, abhikkantā abhiññātā abhiññātā licchavī, "
+"abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā gahapatinecayikā "
+"nānātitthiyā samaṇabrāhmaṇā."
+msgstr ""
+
+msgctxt "dn24:51.4"
+msgid "Samaṇopi gotamo āyasmato ārāme divāvihāraṃ nisinno."
+msgstr ""
+
+msgctxt "dn24:51.5"
+msgid "Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṃ parisati vācā—"
+msgstr ""
+
+msgctxt "dn24:51.6"
+msgid "samaṇopi gotamo ñāṇavādo;"
+msgstr ""
+
+msgctxt "dn24:51.7"
+msgid "ahampi ñāṇavādo."
+msgstr ""
+
+msgctxt "dn24:51.8"
+msgid ""
+"Ñāṇavādo kho pana ñāṇavādena arahati uttari manussadhammā iddhipāṭihāriyaṃ "
+"dassetuṃ …"
+msgstr ""
+
+msgctxt "dn24:51.9"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn24:51.10"
+msgid "taddiguṇaṃ taddiguṇāhaṃ karissāmīti."
+msgstr ""
+
+msgctxt "dn24:51.11"
+msgid "Abhikkamasseva kho, āvuso pāthikaputta, upaḍḍhapathaṃ."
+msgstr ""
+
+msgctxt "dn24:51.12"
+msgid ""
+"Sabbapaṭhamaṃyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṃ "
+"nisinno’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="45"></a><a class="pts" id="pts3.19"></a>
+#. VAR: saṃsappati → saṃsabbati (mr)
+msgctxt "dn24:52.1"
+msgid ""
+"Evaṃ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti "
+"vatvā tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātuṃ."
+msgstr ""
+"When he had spoken, Pāṭika said: ‘I’m coming, sir, I’m coming!’ But wriggle "
+"as he might, he couldn’t get up from his seat."
+
+msgctxt "dn24:52.2"
+msgid "Atha kho so, bhaggava, puriso acelaṃ pāthikaputtaṃ etadavoca:"
+msgstr "Then that man said to Pāṭikaputta:"
+
+msgctxt "dn24:52.3"
+msgid ""
+"‘kiṃ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṃ allīnā, "
+"pīṭhakaṃ su nāma te pāvaḷāsu allīnaṃ?"
+msgstr ""
+"‘What’s up, Reverend Pāṭikaputta? Is your bottom stuck to the bench, or is "
+"the bench stuck to your bottom?"
+
+msgctxt "dn24:52.4"
+msgid ""
+"Āyāmi āvuso, āyāmi āvusoti vatvā tattheva saṃsappasi, na sakkosi āsanāpi "
+"vuṭṭhātun’ti."
+msgstr ""
+"You say “I’m coming, sir, I’m coming!” But wriggle as you might, you can’t "
+"get up from your seat.’"
+
+msgctxt "dn24:52.5"
+msgid ""
+"Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, "
+"āvuso’ti vatvā tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātuṃ."
+msgstr ""
+"And as he was speaking, Pāṭika said: ‘I’m coming, sir, I’m coming!’ But "
+"wriggle as he might, he couldn’t get up from his seat."
+
+#. </p><p><a class="sc" id="46"></a><a class="wp" id="wp1.22"></a>
+msgctxt "dn24:53.1"
+msgid "Yadā kho so, bhaggava, puriso aññāsi:"
+msgstr "When that man knew"
+
+msgctxt "dn24:53.2"
+msgid "‘parābhūtarūpo ayaṃ acelo pāthikaputto."
+msgstr "that Pāṭikaputta had lost,"
+
+msgctxt "dn24:53.3"
+msgid ""
+"Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṃsappati, na sakkoti āsanāpi "
+"vuṭṭhātun’ti."
+msgstr ""
+
+msgctxt "dn24:53.4"
+msgid "Atha taṃ parisaṃ āgantvā evamārocesi:"
+msgstr "he returned to the assembly and said:"
+
+#. VAR: parābhūtarūpo, bho → parābhūtarūpo ayaṃ (bj) | parābhūtarūpo bho ayaṃ
+#. (s1-3, mr) | parābhūtarūpo (pts1)
+msgctxt "dn24:53.5"
+msgid "‘parābhūtarūpo, bho, acelo pāthikaputto."
+msgstr "‘Pāṭikaputta has lost, sirs."
+
+msgctxt "dn24:53.6"
+msgid ""
+"Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṃsappati, na sakkoti āsanāpi "
+"vuṭṭhātun’ti."
+msgstr ""
+"He says “I’m coming, sir, I’m coming!” But wriggle as he might, he can’t get "
+"up from his seat.’"
+
+msgctxt "dn24:53.7"
+msgid "Evaṃ vutte, ahaṃ, bhaggava, taṃ parisaṃ etadavocaṃ:"
+msgstr "When he said this, I said to the assembly:"
+
+msgctxt "dn24:53.8"
+msgid ""
+"‘abhabbo kho, āvuso, acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ "
+"appahāya taṃ diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+"‘The naked ascetic Pāṭikaputta is not capable of coming into my presence, "
+"unless he gives up that statement and that intention, and lets go that view."
+
+msgctxt "dn24:53.9"
+msgid "Sacepissa evamassa—"
+msgstr "If he thinks he can "
+
+msgctxt "dn24:53.10"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyā’ti."
+msgstr ""
+"come into my presence without giving up those things, his head may explode.’"
+
+#. </p><p class="endsection">
+msgctxt "dn24:54.1"
+msgid "Paṭhamabhāṇavāro niṭṭhito."
+msgstr "The first recitation section is finished."
+
+#. </p><p><a class="sc" id="47"></a><a class="wp" id="wp2.1"></a><a class="pts"
+#. id="pts3.20"></a>
+msgctxt "dn24:55.1"
+msgid ""
+"Atha kho, bhaggava, aññataro licchavimahāmatto uṭṭhāyāsanā taṃ parisaṃ "
+"etadavoca:"
+msgstr ""
+"Then, Bhaggava, a certain Licchavi minister stood up and said to the "
+"assembly:"
+
+#. VAR: gacchāmi → paccāgacchāmi (?)
+msgctxt "dn24:55.2"
+msgid "‘tena hi, bho, muhuttaṃ tāva āgametha, yāvāhaṃ gacchāmi."
+msgstr "‘Well then, sirs, wait a moment, I’ll go."
+
+msgctxt "dn24:55.3"
+msgid ""
+"Appeva nāma ahampi sakkuṇeyyaṃ acelaṃ pāthikaputtaṃ imaṃ parisaṃ ānetun’ti."
+msgstr "Hopefully I’ll be able to lead Pāṭikaputta back to the assembly.’"
+
+#. </p><p><a class="sc" id="48"></a>
+msgctxt "dn24:56.1"
+msgid ""
+"Atha kho so, bhaggava, licchavimahāmatto yena tindukakhāṇuparibbājakārāmo, "
+"yena acelo pāthikaputto tenupasaṅkami."
+msgstr "So that minister went to see Pāṭikaputta"
+
+msgctxt "dn24:56.2"
+msgid "Upasaṅkamitvā acelaṃ pāthikaputtaṃ etadavoca:"
+msgstr "and said:"
+
+msgctxt "dn24:56.3"
+msgid ""
+"‘abhikkamāvuso pāthikaputta, abhikkantaṃ te seyyo, abhikkantā abhiññātā "
+"abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca brāhmaṇamahāsālā "
+"gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā."
+msgstr ""
+"‘Come forth, Reverend Pāṭikaputta! It’s best for you to come forth. All "
+"these very well-known people have come forth, and the ascetic Gotama is "
+"sitting in your monastery for the day’s meditation."
+
+msgctxt "dn24:56.4"
+msgid "Samaṇopi gotamo āyasmato ārāme divāvihāraṃ nisinno."
+msgstr ""
+
+msgctxt "dn24:56.5"
+msgid "Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṃ parisati vācā—"
+msgstr "You said you’d meet the ascetic Gotama half-way."
+
+msgctxt "dn24:56.6"
+msgid "samaṇopi gotamo ñāṇavādo …"
+msgstr ""
+
+msgctxt "dn24:56.7"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn24:56.8"
+msgid "taddiguṇaṃ taddiguṇāhaṃ karissāmīti."
+msgstr ""
+
+msgctxt "dn24:56.9"
+msgid "Abhikkamasseva kho, āvuso pāthikaputta, upaḍḍhapathaṃ."
+msgstr ""
+
+msgctxt "dn24:56.10"
+msgid ""
+"Sabbapaṭhamaṃyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṃ nisinno."
+msgstr ""
+"The ascetic Gotama has come the first half, and is sitting in your monastery."
+
+msgctxt "dn24:56.11"
+msgid ""
+"Bhāsitā kho panesā, āvuso pāthikaputta, samaṇena gotamena parisati vācā—"
+msgstr "The ascetic Gotama has told the assembly"
+
+msgctxt "dn24:56.12"
+msgid ""
+"abhabbo kho acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr "that you’re not capable of coming into his presence."
+
+msgctxt "dn24:56.13"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:56.14"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyāti."
+msgstr ""
+
+msgctxt "dn24:56.15"
+msgid ""
+"Abhikkamāvuso pāthikaputta, abhikkamaneneva te jayaṃ karissāma, samaṇassa "
+"gotamassa parājayan’ti."
+msgstr ""
+"Come forth, Pāṭikaputta! When you come forth we’ll make you win and the "
+"ascetic Gotama lose.’"
+
+#. </p><p><a class="sc" id="49"></a><a class="wp" id="wp2.2"></a><a class="pts"
+#. id="pts3.21"></a>
+msgctxt "dn24:57.1"
+msgid ""
+"Evaṃ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti "
+"vatvā tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātuṃ."
+msgstr ""
+"When he had spoken, Pāṭika said: ‘I’m coming, sir, I’m coming!’ But wriggle "
+"as he might, he couldn’t get up from his seat."
+
+msgctxt "dn24:57.2"
+msgid ""
+"Atha kho so, bhaggava, licchavimahāmatto acelaṃ pāthikaputtaṃ etadavoca:"
+msgstr "Then the minister said to Pāṭikaputta:"
+
+msgctxt "dn24:57.3"
+msgid ""
+"‘kiṃ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṃ allīnā, "
+"pīṭhakaṃ su nāma te pāvaḷāsu allīnaṃ?"
+msgstr ""
+"‘What’s up, Reverend Pāṭikaputta? Is your bottom stuck to the bench, or is "
+"the bench stuck to your bottom?"
+
+msgctxt "dn24:57.4"
+msgid ""
+"Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṃsappasi, na sakkosi āsanāpi "
+"vuṭṭhātun’ti."
+msgstr ""
+"You say “I’m coming, sir, I’m coming!” But wriggle as you might, you can’t "
+"get up from your seat.’"
+
+msgctxt "dn24:57.5"
+msgid ""
+"Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, "
+"āvuso’ti vatvā tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātuṃ."
+msgstr ""
+"And as he was speaking, Pāṭika said: ‘I’m coming, sir, I’m coming!’ But "
+"wriggle as he might, he couldn’t get up from his seat."
+
+#. </p><p><a class="sc" id="50"></a><a class="wp" id="wp2.3"></a><a class="pts"
+#. id="pts3.22"></a>
+msgctxt "dn24:58.1"
+msgid "Yadā kho so, bhaggava, licchavimahāmatto aññāsi:"
+msgstr "When the Licchavi minister knew"
+
+msgctxt "dn24:58.2"
+msgid ""
+"‘parābhūtarūpo ayaṃ acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā "
+"tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātun’ti."
+msgstr "that Pāṭikaputta had lost,"
+
+msgctxt "dn24:58.3"
+msgid "Atha taṃ parisaṃ āgantvā evamārocesi:"
+msgstr "he returned to the assembly and said:"
+
+#. VAR: parābhūtarūpo, bho → parābhūtarūpo ayaṃ (s1-3) | parābhūtarūpo so
+#. (pts1)
+msgctxt "dn24:58.4"
+msgid ""
+"‘parābhūtarūpo, bho, acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā "
+"tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātun’ti."
+msgstr "‘Pāṭikaputta has lost, sirs.’"
+
+msgctxt "dn24:58.5"
+msgid "Evaṃ vutte, ahaṃ, bhaggava, taṃ parisaṃ etadavocaṃ:"
+msgstr "When he said this, I said to the assembly: "
+
+msgctxt "dn24:58.6"
+msgid ""
+"‘abhabbo kho, āvuso, acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ "
+"appahāya taṃ diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr "‘Pāṭikaputta is not capable of coming into my presence, otherwise"
+
+msgctxt "dn24:58.7"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:58.8"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyya."
+msgstr "his head may explode."
+
+msgctxt "dn24:58.9"
+msgid "Sace pāyasmantānaṃ licchavīnaṃ evamassa—"
+msgstr "The good Licchavis might think:"
+
+#. VAR: āviñcheyyāmāti → āviñjeyyāmāti (s1-3) | āvijjheyyāmāti (pts1)
+#. VAR: varattāhi → yāhi varattāhi (s1-3, mr)
+msgctxt "dn24:58.10"
+msgid ""
+"mayaṃ acelaṃ pāthikaputtaṃ varattāhi bandhitvā goyugehi āviñcheyyāmāti, tā "
+"varattā chijjeyyuṃ pāthikaputto vā."
+msgstr ""
+"“Let’s bind Pāṭikaputta with straps and drag him with a pair of oxen!” But "
+"either the straps will break or Pāṭikaputta will.’"
+
+msgctxt "dn24:58.11"
+msgid ""
+"Abhabbo pana acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+
+msgctxt "dn24:58.12"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:58.13"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyā’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="51"></a><a class="wp" id="wp2.4"></a>
+msgctxt "dn24:59.1"
+msgid ""
+"Atha kho, bhaggava, jāliyo dārupattikantevāsī uṭṭhāyāsanā taṃ parisaṃ "
+"etadavoca:"
+msgstr ""
+"Then, Bhaggava, Jāliya, the pupil of the wood-bowl ascetic, stood up and "
+"said to the assembly:"
+
+msgctxt "dn24:59.2"
+msgid "‘tena hi, bho, muhuttaṃ tāva āgametha, yāvāhaṃ gacchāmi;"
+msgstr "‘Well then, sirs, wait a moment, I’ll go."
+
+msgctxt "dn24:59.3"
+msgid ""
+"appeva nāma ahampi sakkuṇeyyaṃ acelaṃ pāthikaputtaṃ imaṃ parisaṃ ānetun’ti."
+msgstr "Hopefully I’ll be able to lead Pāṭikaputta back to the assembly.’"
+
+#. </p><p><a class="sc" id="52"></a>
+msgctxt "dn24:60.1"
+msgid ""
+"Atha kho, bhaggava, jāliyo dārupattikantevāsī yena "
+"tindukakhāṇuparibbājakārāmo, yena acelo pāthikaputto tenupasaṅkami."
+msgstr "So that minister went to see Pāṭikaputta"
+
+msgctxt "dn24:60.2"
+msgid "Upasaṅkamitvā acelaṃ pāthikaputtaṃ etadavoca:"
+msgstr "and said:"
+
+msgctxt "dn24:60.3"
+msgid "‘abhikkamāvuso pāthikaputta, abhikkantaṃ te seyyo."
+msgstr ""
+"‘Come forth, Reverend Pāṭikaputta! It’s best for you to come forth. All "
+"these very well-known people have come forth, and the ascetic Gotama is "
+"sitting in your monastery for the day’s meditation."
+
+#, fuzzy
+msgctxt "dn24:60.4"
+msgid ""
+"Abhikkantā abhiññātā abhiññātā licchavī, abhikkantā abhiññātā abhiññātā ca "
+"brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā samaṇabrāhmaṇā."
+msgstr " "
+
+#, fuzzy
+msgctxt "dn24:60.5"
+msgid "Samaṇopi gotamo āyasmato ārāme divāvihāraṃ nisinno."
+msgstr " "
+
+msgctxt "dn24:60.6"
+msgid "Bhāsitā kho pana te esā, āvuso pāthikaputta, vesāliyaṃ parisati vācā—"
+msgstr "You said you’d meet the ascetic Gotama half-way."
+
+msgctxt "dn24:60.7"
+msgid "samaṇopi gotamo ñāṇavādo …"
+msgstr ""
+
+msgctxt "dn24:60.8"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn24:60.9"
+msgid "taddiguṇaṃ taddiguṇāhaṃ karissāmīti."
+msgstr ""
+
+msgctxt "dn24:60.10"
+msgid "Abhikkamasseva, kho āvuso pāthikaputta, upaḍḍhapathaṃ."
+msgstr ""
+
+msgctxt "dn24:60.11"
+msgid ""
+"Sabbapaṭhamaṃyeva āgantvā samaṇo gotamo āyasmato ārāme divāvihāraṃ nisinno."
+msgstr ""
+"The ascetic Gotama has come the first half, and is sitting in your monastery."
+
+msgctxt "dn24:60.12"
+msgid ""
+"Bhāsitā kho panesā, āvuso pāthikaputta, samaṇena gotamena parisati vācā—"
+msgstr "The ascetic Gotama has told the assembly"
+
+msgctxt "dn24:60.13"
+msgid ""
+"abhabbo acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr "that you’re not capable of coming into his presence."
+
+msgctxt "dn24:60.14"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:60.15"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyya."
+msgstr ""
+
+msgctxt "dn24:60.16"
+msgid "Sace pāyasmantānaṃ licchavīnaṃ evamassa—"
+msgstr "And he said that even if the Licchavis"
+
+msgctxt "dn24:60.17"
+msgid "mayaṃ acelaṃ pāthikaputtaṃ varattāhi bandhitvā goyugehi āviñcheyyāmāti."
+msgstr ""
+"try to bind you with straps and drag you with a pair of oxen, either the "
+"straps will break or you will."
+
+#, fuzzy
+msgctxt "dn24:60.18"
+msgid "Tā varattā chijjeyyuṃ pāthikaputto vā."
+msgstr "  "
+
+msgctxt "dn24:60.19"
+msgid ""
+"Abhabbo pana acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+
+msgctxt "dn24:60.20"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:60.21"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ āgaccheyyanti, muddhāpi tassa vipateyyāti."
+msgstr ""
+
+msgctxt "dn24:60.22"
+msgid ""
+"Abhikkamāvuso pāthikaputta, abhikkamaneneva te jayaṃ karissāma, samaṇassa "
+"gotamassa parājayan’ti."
+msgstr ""
+"Come forth, Pāṭikaputta! When you come forth we’ll make you win and the "
+"ascetic Gotama lose.’"
+
+#. </p><p><a class="sc" id="53"></a><a class="wp" id="wp2.5"></a><a class="pts"
+#. id="pts3.23"></a>
+msgctxt "dn24:61.1"
+msgid ""
+"Evaṃ vutte, bhaggava, acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, āvuso’ti "
+"vatvā tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātuṃ."
+msgstr ""
+"When he had spoken, Pāṭika said: ‘I’m coming, sir, I’m coming!’ But wriggle "
+"as he might, he couldn’t get up from his seat."
+
+msgctxt "dn24:61.2"
+msgid ""
+"Atha kho, bhaggava, jāliyo dārupattikantevāsī acelaṃ pāthikaputtaṃ etadavoca:"
+msgstr "Then Jāliya said to Pāṭikaputta:"
+
+msgctxt "dn24:61.3"
+msgid ""
+"‘kiṃ su nāma te, āvuso pāthikaputta, pāvaḷā su nāma te pīṭhakasmiṃ allīnā, "
+"pīṭhakaṃ su nāma te pāvaḷāsu allīnaṃ?"
+msgstr ""
+"‘What’s up, Reverend Pāṭikaputta? Is your bottom stuck to the bench, or is "
+"the bench stuck to your bottom?"
+
+msgctxt "dn24:61.4"
+msgid ""
+"Āyāmi, āvuso, āyāmi, āvusoti vatvā tattheva saṃsappasi, na sakkosi āsanāpi "
+"vuṭṭhātun’ti."
+msgstr ""
+"You say “I’m coming, sir, I’m coming!” But wriggle as you might, you can’t "
+"get up from your seat.’"
+
+msgctxt "dn24:61.5"
+msgid ""
+"Evampi kho, bhaggava, vuccamāno acelo pāthikaputto ‘āyāmi, āvuso, āyāmi, "
+"āvuso’ti vatvā tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātunti."
+msgstr ""
+"And as he was speaking, Pāṭika said: ‘I’m coming, sir, I’m coming!’ But "
+"wriggle as he might, he couldn’t get up from his seat."
+
+#. </p><p><a class="sc" id="54"></a><a class="wp" id="wp2.6"></a>
+msgctxt "dn24:62.1"
+msgid "Yadā kho, bhaggava, jāliyo dārupattikantevāsī aññāsi:"
+msgstr "When Jāliya knew"
+
+msgctxt "dn24:62.2"
+msgid ""
+"‘parābhūtarūpo ayaṃ acelo pāthikaputto āyāmi, āvuso, āyāmi, āvusoti vatvā "
+"tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātun’ti, atha naṃ etadavoca—"
+msgstr "that Pāṭikaputta had lost, he said to him:"
+
+#. </p><p><a class="sc" id="55"></a>
+msgctxt "dn24:63.1"
+msgid "Bhūtapubbaṃ, āvuso pāthikaputta, sīhassa migarañño etadahosi:"
+msgstr ""
+"‘Once upon a time, Reverend Pāṭikaputta, it occurred to a lion, king of "
+"beasts:"
+
+msgctxt "dn24:63.2"
+msgid "‘yannūnāhaṃ aññataraṃ vanasaṇḍaṃ nissāya āsayaṃ kappeyyaṃ."
+msgstr "“Why don’t I make my lair near a certain forest?"
+
+msgctxt "dn24:63.3"
+msgid ""
+"Tatrāsayaṃ kappetvā sāyanhasamayaṃ āsayā nikkhameyyaṃ, āsayā nikkhamitvā "
+"vijambheyyaṃ, vijambhitvā samantā catuddisā anuvilokeyyaṃ, samantā catuddisā "
+"anuviloketvā tikkhattuṃ sīhanādaṃ nadeyyaṃ, tikkhattuṃ sīhanādaṃ naditvā "
+"gocarāya pakkameyyaṃ."
+msgstr ""
+"Towards evening I can emerge from my den, yawn, look all around the four "
+"directions, roar my lion’s roar three times, and set out on the hunt."
+
+#. VAR: migasaṅghe → migasaṃghaṃ (s1-3, mr)
+msgctxt "dn24:63.4"
+msgid ""
+"So varaṃ varaṃ migasaṅghe vadhitvā mudumaṃsāni mudumaṃsāni bhakkhayitvā "
+"tameva āsayaṃ ajjhupeyyan’ti."
+msgstr ""
+"Having slain the very best of the deer herd, and eaten the most tender "
+"flesh, I could return to my den.’"
+
+#. </p><p><a class="sc" id="56"></a>
+msgctxt "dn24:64.1"
+msgid ""
+"Atha kho, āvuso, so sīho migarājā aññataraṃ vanasaṇḍaṃ nissāya āsayaṃ "
+"kappesi."
+msgstr "And so that’s what he did."
+
+msgctxt "dn24:64.2"
+msgid ""
+"Tatrāsayaṃ kappetvā sāyanhasamayaṃ āsayā nikkhami, āsayā nikkhamitvā "
+"vijambhi, vijambhitvā samantā catuddisā anuvilokesi, samantā catuddisā "
+"anuviloketvā tikkhattuṃ sīhanādaṃ nadi, tikkhattuṃ sīhanādaṃ naditvā "
+"gocarāya pakkāmi."
+msgstr ""
+
+msgctxt "dn24:64.3"
+msgid ""
+"So varaṃ varaṃ migasaṅghe vadhitvā mudumaṃsāni mudumaṃsāni bhakkhayitvā "
+"tameva āsayaṃ ajjhupesi."
+msgstr ""
+
+#. </p><p><a class="sc" id="57"></a><a class="pts" id="pts3.24"></a>
+#. VAR: jarasiṅgālo → jarasigālo (bj, s1-3, pts1)
+msgctxt "dn24:65.1"
+msgid ""
+"Tasseva kho, āvuso pāthikaputta, sīhassa migarañño vighāsasaṃvaḍḍho "
+"jarasiṅgālo ditto ceva balavā ca."
+msgstr ""
+"Now, there was an old jackal who had grown fat on the lion’s leavings, "
+"becoming arrogant and strong."
+
+msgctxt "dn24:65.2"
+msgid "Atha kho, āvuso, tassa jarasiṅgālassa etadahosi:"
+msgstr "He thought:"
+
+msgctxt "dn24:65.3"
+msgid "‘ko cāhaṃ, ko sīho migarājā."
+msgstr "‘What does the lion, king of beasts, have that I don’t?"
+
+msgctxt "dn24:65.4"
+msgid "Yannūnāhampi aññataraṃ vanasaṇḍaṃ nissāya āsayaṃ kappeyyaṃ."
+msgstr "Why don’t I make my lair near a certain forest?"
+
+msgctxt "dn24:65.5"
+msgid ""
+"Tatrāsayaṃ kappetvā sāyanhasamayaṃ āsayā nikkhameyyaṃ, āsayā nikkhamitvā "
+"vijambheyyaṃ, vijambhitvā samantā catuddisā anuvilokeyyaṃ, samantā catuddisā "
+"anuviloketvā tikkhattuṃ sīhanādaṃ nadeyyaṃ, tikkhattuṃ sīhanādaṃ naditvā "
+"gocarāya pakkameyyaṃ."
+msgstr ""
+"Towards evening I can emerge from my den, yawn, look all around the four "
+"directions, roar my lion’s roar three times, and set out on the hunt."
+
+msgctxt "dn24:65.6"
+msgid ""
+"So varaṃ varaṃ migasaṅghe vadhitvā mudumaṃsāni mudumaṃsāni bhakkhayitvā "
+"tameva āsayaṃ ajjhupeyyan’ti."
+msgstr ""
+"Having slain the very best of the deer herd, and eaten the most tender "
+"flesh, I could return to my den.’"
+
+#. </p><p><a class="sc" id="58"></a><a class="wp" id="wp2.7"></a>
+msgctxt "dn24:66.1"
+msgid ""
+"Atha kho so, āvuso, jarasiṅgālo aññataraṃ vanasaṇḍaṃ nissāya āsayaṃ kappesi."
+msgstr "And so that’s what he did."
+
+#. VAR: sīhanādeti → sīhanāde (bj)
+msgctxt "dn24:66.2"
+msgid ""
+"Tatrāsayaṃ kappetvā sāyanhasamayaṃ āsayā nikkhami, āsayā nikkhamitvā "
+"vijambhi, vijambhitvā samantā catuddisā anuvilokesi, samantā catuddisā "
+"anuviloketvā tikkhattuṃ sīhanādaṃ nadissāmīti siṅgālakaṃyeva anadi "
+"bheraṇḍakaṃyeva anadi, ke ca chave siṅgāle, ke pana sīhanādeti."
+msgstr ""
+"But when he tried to roar a lion’s roar, he only manage to squeal and yelp "
+"like a jackal. And what is a pathetic jackal’s squeal next to the roar of a "
+"lion?"
+
+# Here apadāna = "result, outcome, harvest, not "exploits, achievements".
+#. </p><p><a class="sc" id="59"></a>
+msgctxt "dn24:67.1"
+msgid ""
+"Evameva kho tvaṃ, āvuso pāthikaputta, sugatāpadānesu jīvamāno "
+"sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṃ "
+"maññasi."
+msgstr ""
+"In the same way, reverend, while living on the harvest of the Holy One, "
+"enjoying the leftovers of the Holy One, you presume to attack the Realized "
+"One, the perfected one, the fully awakened Buddha!"
+
+msgctxt "dn24:67.2"
+msgid ""
+"Ke ca chave pāthikaputte, kā ca tathāgatānaṃ arahantānaṃ sammāsambuddhānaṃ "
+"āsādanāti."
+msgstr ""
+"Who are the pathetic Pāṭikaputtas to attack the Realized Ones, the perfected "
+"ones, the fully awakened Buddhas?’"
+
+#. </p><p><a class="sc" id="60"></a><a class="wp" id="wp2.8"></a>
+msgctxt "dn24:68.1"
+msgid ""
+"Yato kho, bhaggava, jāliyo dārupattikantevāsī iminā opammena neva asakkhi "
+"acelaṃ pāthikaputtaṃ tamhā āsanā cāvetuṃ."
+msgstr ""
+"When Jāliya couldn’t get Pāṭikaputta to shift from his seat even with this "
+"simile, "
+
+msgctxt "dn24:68.2"
+msgid "Atha naṃ etadavoca:"
+msgstr "he said to him:"
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="61"></a><a class="pts"
+#. id="pts3.25"></a>
+msgctxt "dn24:69.1"
+msgid "‘Sīhoti attānaṃ samekkhiyāna,"
+msgstr "‘Seeing himself equal to the lion,"
+
+#. <br>
+msgctxt "dn24:69.2"
+msgid "Amaññi kotthu migarājāhamasmi;"
+msgstr "the jackal presumed ‘I’m the king of the beasts!’"
+
+#. <br>
+#. VAR: Tatheva → tameva (s1-3)
+msgctxt "dn24:69.3"
+msgid "Tatheva so siṅgālakaṃ anadi,"
+msgstr "But in reality he only managed to yelp,"
+
+#. <br>
+msgctxt "dn24:69.4"
+msgid "Ke ca chave siṅgāle ke pana sīhanādeti."
+msgstr "and what’s a sad jackal’s squeal to the roar of a lion?"
+
+#. </p></blockquote><p><a class="sc" id="62"></a>
+msgctxt "dn24:70.1"
+msgid ""
+"Evameva kho tvaṃ, āvuso pāthikaputta, sugatāpadānesu jīvamāno "
+"sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṃ "
+"maññasi."
+msgstr ""
+"In the same way, reverend, while living on the harvest of the Holy One, you "
+"presume to attack him!’"
+
+msgctxt "dn24:70.2"
+msgid ""
+"Ke ca chave pāthikaputte, kā ca tathāgatānaṃ arahantānaṃ sammāsambuddhānaṃ "
+"āsādanā’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="63"></a><a class="wp" id="wp2.9"></a>
+msgctxt "dn24:71.1"
+msgid ""
+"Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi "
+"acelaṃ pāthikaputtaṃ tamhā āsanā cāvetuṃ."
+msgstr ""
+"When Jāliya couldn’t get Pāṭikaputta to shift from his seat even with this "
+"simile, "
+
+msgctxt "dn24:71.2"
+msgid "Atha naṃ etadavoca:"
+msgstr "he said to him:"
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="64"></a>
+msgctxt "dn24:72.1"
+msgid "‘Aññaṃ anucaṅkamanaṃ,"
+msgstr "‘Following in the steps of another,"
+
+#. <br>
+msgctxt "dn24:72.2"
+msgid "Attānaṃ vighāse samekkhiya;"
+msgstr "seeing himself grown fat on scraps,"
+
+#. <br>
+msgctxt "dn24:72.3"
+msgid "Yāva attānaṃ na passati,"
+msgstr "until he doesn’t even see himself,"
+
+#. <br>
+msgctxt "dn24:72.4"
+msgid "Kotthu tāva byagghoti maññati."
+msgstr "the jackal presumes he’s a tiger."
+
+#. </p><p><a class="sc" id="65"></a>
+msgctxt "dn24:73.1"
+msgid "Tatheva so siṅgālakaṃ anadi,"
+msgstr "But in reality he only managed to yelp,"
+
+#. <br>
+msgctxt "dn24:73.2"
+msgid "Ke ca chave siṅgāle ke pana sīhanādeti."
+msgstr "and what’s a sad jackal’s squeal to the roar of a lion?"
+
+#. </p></blockquote><p><a class="sc" id="66"></a>
+msgctxt "dn24:74.1"
+msgid ""
+"Evameva kho tvaṃ, āvuso pāthikaputta, sugatāpadānesu jīvamāno "
+"sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṃ "
+"maññasi."
+msgstr ""
+"In the same way, reverend, while living on the harvest of the Holy One, you "
+"presume to attack him!’"
+
+msgctxt "dn24:74.2"
+msgid ""
+"Ke ca chave pāthikaputte, kā ca tathāgatānaṃ arahantānaṃ sammāsambuddhānaṃ "
+"āsādanā’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="67"></a><a class="wp" id="wp2.10"></a><a
+#. class="pts" id="pts3.26"></a>
+msgctxt "dn24:75.1"
+msgid ""
+"Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi "
+"acelaṃ pāthikaputtaṃ tamhā āsanā cāvetuṃ."
+msgstr ""
+"When Jāliya couldn’t get Pāṭikaputta to shift from his seat even with this "
+"simile, "
+
+msgctxt "dn24:75.2"
+msgid "Atha naṃ etadavoca:"
+msgstr "he said to him:"
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="68"></a>
+#. VAR: bheke → bhiṅge (mr)
+msgctxt "dn24:76.1"
+msgid "‘Bhutvāna bheke khalamūsikāyo,"
+msgstr "‘Gorged on frogs, and mice from the barn,"
+
+#. <br>
+#. VAR: koṇapāni → kūṇapāni (s1-3)
+msgctxt "dn24:76.2"
+msgid "Kaṭasīsu khittāni ca koṇapāni;"
+msgstr "and carcasses tossed in the cemetery,"
+
+#. <br>
+msgctxt "dn24:76.3"
+msgid "Mahāvane suññavane vivaḍḍho,"
+msgstr "thriving in the great, empty wood,"
+
+#. <br>
+msgctxt "dn24:76.4"
+msgid "Amaññi kotthu migarājāhamasmi;"
+msgstr "the jackal presumed ‘I’m the king of the beasts!’"
+
+#. <br>
+msgctxt "dn24:76.5"
+msgid "Tatheva so siṅgālakaṃ anadi,"
+msgstr "But in reality he only managed to yelp,"
+
+#. <br>
+msgctxt "dn24:76.6"
+msgid "Ke ca chave siṅgāle ke pana sīhanādeti."
+msgstr "and what’s a sad jackal’s squeal to the roar of a lion?"
+
+#. </p></blockquote><p><a class="sc" id="69"></a>
+msgctxt "dn24:77.1"
+msgid ""
+"Evameva kho tvaṃ, āvuso pāthikaputta, sugatāpadānesu jīvamāno "
+"sugatātirittāni bhuñjamāno tathāgate arahante sammāsambuddhe āsādetabbaṃ "
+"maññasi."
+msgstr ""
+"In the same way, reverend, while living on the harvest of the Holy One, "
+"enjoying the leftovers of the Holy One, you presume to attack the Realized "
+"One, the perfected one, the fully awakened Buddha!"
+
+msgctxt "dn24:77.2"
+msgid ""
+"Ke ca chave pāthikaputte, kā ca tathāgatānaṃ arahantānaṃ sammāsambuddhānaṃ "
+"āsādanā’ti."
+msgstr ""
+"Who are the pathetic Pāṭikaputtas to attack the Realized Ones, the perfected "
+"ones, the fully awakened Buddhas?’"
+
+#. </p><p><a class="sc" id="70"></a><a class="wp" id="wp2.11"></a>
+msgctxt "dn24:78.1"
+msgid ""
+"Yato kho, bhaggava, jāliyo dārupattikantevāsī imināpi opammena neva asakkhi "
+"acelaṃ pāthikaputtaṃ tamhā āsanā cāvetuṃ."
+msgstr ""
+"When Jāliya couldn’t get Pāṭikaputta to shift from his seat even with this "
+"simile, "
+
+msgctxt "dn24:78.2"
+msgid "Atha taṃ parisaṃ āgantvā evamārocesi:"
+msgstr "he returned to the assembly and said:"
+
+msgctxt "dn24:78.3"
+msgid ""
+"‘parābhūtarūpo, bho, acelo pāthikaputto āyāmi āvuso, āyāmi, āvusoti vatvā "
+"tattheva saṃsappati, na sakkoti āsanāpi vuṭṭhātun’ti."
+msgstr ""
+"‘Pāṭikaputta has lost, sirs. He says “I’m coming, sir, I’m coming!” But "
+"wriggle as he might, he can’t get up from his seat.’"
+
+#. </p><p><a class="sc" id="71"></a><a class="wp" id="wp2.12"></a><a
+#. class="pts" id="pts3.27"></a>
+msgctxt "dn24:79.1"
+msgid "Evaṃ vutte, ahaṃ, bhaggava, taṃ parisaṃ etadavocaṃ:"
+msgstr "When he said this, I said to the assembly:"
+
+msgctxt "dn24:79.2"
+msgid ""
+"‘abhabbo kho, āvuso, acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ "
+"appahāya taṃ diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr ""
+"‘The naked ascetic Pāṭikaputta is not capable of coming into my presence, "
+"unless he gives up that statement and that intention, and lets go that view."
+
+msgctxt "dn24:79.3"
+msgid "Sacepissa evamassa—"
+msgstr "If he thinks he can "
+
+msgctxt "dn24:79.4"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyya."
+msgstr ""
+"come into my presence without giving up those things, his head may explode.’"
+
+msgctxt "dn24:79.5"
+msgid "Sacepāyasmantānaṃ licchavīnaṃ evamassa—"
+msgstr "The good Licchavis might think:"
+
+#. VAR: āviñcheyyāmāti → āviñjeyyāmāti (s1-3) | āvijjheyyāmāti (pts1)
+#. VAR: nāgehi → goyugehi (sabbattha)
+msgctxt "dn24:79.6"
+msgid "mayaṃ acelaṃ pāthikaputtaṃ varattāhi bandhitvā nāgehi āviñcheyyāmāti."
+msgstr ""
+"“Let’s bind Pāṭikaputta with straps and drag him with a pair of oxen!” But "
+"either the straps will break or Pāṭikaputta will.’"
+
+#, fuzzy
+msgctxt "dn24:79.7"
+msgid "Tā varattā chijjeyyuṃ pāthikaputto vā."
+msgstr "   "
+
+msgctxt "dn24:79.8"
+msgid ""
+"Abhabbo pana acelo pāthikaputto taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ "
+"diṭṭhiṃ appaṭinissajjitvā mama sammukhībhāvaṃ āgantuṃ."
+msgstr "Pāṭikaputta is not capable of coming into my presence, otherwise"
+
+msgctxt "dn24:79.9"
+msgid "Sacepissa evamassa—"
+msgstr ""
+
+msgctxt "dn24:79.10"
+msgid ""
+"ahaṃ taṃ vācaṃ appahāya taṃ cittaṃ appahāya taṃ diṭṭhiṃ appaṭinissajjitvā "
+"samaṇassa gotamassa sammukhībhāvaṃ gaccheyyanti, muddhāpi tassa vipateyyā’ti."
+msgstr "his head may explode.’"
+
+#. </p><p><a class="sc" id="72"></a><a class="wp" id="wp2.13"></a>
+#. VAR: dhūmāyitvā → dhūpāyitvā (pts1)
+#. VAR: acciṃ → aggiṃ (s1-3)
+msgctxt "dn24:80.1"
+msgid ""
+"Atha khvāhaṃ, bhaggava, taṃ parisaṃ dhammiyā kathāya sandassesiṃ samādapesiṃ "
+"samuttejesiṃ sampahaṃsesiṃ, taṃ parisaṃ dhammiyā kathāya sandassetvā "
+"samādapetvā samuttejetvā sampahaṃsetvā mahābandhanā mokkhaṃ karitvā "
+"caturāsītipāṇasahassāni mahāviduggā uddharitvā tejodhātuṃ samāpajjitvā "
+"sattatālaṃ vehāsaṃ abbhuggantvā aññaṃ sattatālampi acciṃ abhinimminitvā "
+"pajjalitvā dhūmāyitvā mahāvane kūṭāgārasālāyaṃ paccuṭṭhāsiṃ."
+msgstr ""
+"Then, Bhaggava, I educated, encouraged, fired up, and inspired that assembly "
+"with a Dharma talk. I released that assembly from the great bondage, and "
+"lifted 84,000 beings from the great swamp. Next I entered upon the fire "
+"element, rose into the sky to the height of seven palm trees, and created a "
+"flame another seven palm trees high, blazing and smoking. Finally I landed "
+"at the Great Wood, in the hall with the peaked roof."
+
+#. </p><p><a class="sc" id="73"></a>
+msgctxt "dn24:81.1"
+msgid "Atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṃ tenupasaṅkami;"
+msgstr "Then Sunakkhatta came to me,"
+
+msgctxt "dn24:81.2"
+msgid "upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi."
+msgstr "bowed, and sat down to one side."
+
+msgctxt "dn24:81.3"
+msgid ""
+"Ekamantaṃ nisinnaṃ kho ahaṃ, bhaggava, sunakkhattaṃ licchaviputtaṃ "
+"etadavocaṃ:"
+msgstr "I said to him:"
+
+msgctxt "dn24:81.4"
+msgid ""
+"‘taṃ kiṃ maññasi, sunakkhatta, yatheva te ahaṃ acelaṃ pāthikaputtaṃ ārabbha "
+"byākāsiṃ, tatheva taṃ vipākaṃ aññathā vā’ti?"
+msgstr ""
+"‘What do you think, Sunakkhatta? Did the declaration I made about "
+"Pāṭikaputta turn out to be correct, or not?’"
+
+msgctxt "dn24:81.5"
+msgid ""
+"‘Yatheva me, bhante, bhagavā acelaṃ pāthikaputtaṃ ārabbha byākāsi, tatheva "
+"taṃ vipākaṃ, no aññathā’ti."
+msgstr "‘It turned out to be correct.’"
+
+#. </p><p><a class="sc" id="74"></a><a class="pts" id="pts3.28"></a>
+msgctxt "dn24:82.1"
+msgid ""
+"‘Taṃ kiṃ maññasi, sunakkhatta, yadi evaṃ sante kataṃ vā hoti uttari "
+"manussadhammā iddhipāṭihāriyaṃ, akataṃ vā’ti?"
+msgstr ""
+"‘What do you think, Sunakkhatta? If that is so, has a superhuman "
+"demonstration of psychic power been performed or not?’"
+
+msgctxt "dn24:82.2"
+msgid ""
+"‘Addhā kho, bhante, evaṃ sante kataṃ hoti uttari manussadhammā "
+"iddhipāṭihāriyaṃ, no akatan’ti."
+msgstr ""
+"‘Clearly, sir, a superhuman demonstration of psychic power has been "
+"performed.’"
+
+msgctxt "dn24:82.3"
+msgid ""
+"‘Evampi kho maṃ tvaṃ, moghapurisa, uttari manussadhammā iddhipāṭihāriyaṃ "
+"karontaṃ evaṃ vadesi—"
+msgstr ""
+"‘Though I perform such a superhuman demonstration of psychic power you say "
+"this:"
+
+msgctxt "dn24:82.4"
+msgid ""
+"na hi pana me, bhante, bhagavā uttari manussadhammā iddhipāṭihāriyaṃ "
+"karotīti."
+msgstr ""
+"“But sir, the Buddha never performs any superhuman demonstrations of psychic "
+"power for me.”"
+
+msgctxt "dn24:82.5"
+msgid "Passa, moghapurisa, yāvañca te idaṃ aparaddhan’ti."
+msgstr "See how far you have strayed!’"
+
+#. </p><p><a class="sc" id="75"></a>
+msgctxt "dn24:83.1"
+msgid ""
+"Evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva "
+"imasmā dhammavinayā, yathā taṃ āpāyiko nerayiko."
+msgstr ""
+"Though I spoke to Sunakkhatta like this, he still left this teaching and "
+"training, like someone on the highway to hell."
+
+#. </p><h2>
+msgctxt "dn24:84.1"
+msgid "6. Aggaññapaññattikathā"
+msgstr "On Describing the Origin of the World"
+
+#. </h2><p><a class="sc" id="76"></a><a class="wp" id="wp2.14"></a>
+#. VAR: pajānāmi → \
+msgctxt "dn24:85.1"
+msgid "Aggaññañcāhaṃ, bhaggava, pajānāmi."
+msgstr "Bhaggava, I understand the origin of the world."
+
+# Cf DN 1.
+#. VAR: pajānaṃ → pajānanaṃ (s1-3, pts1, c1)
+msgctxt "dn24:85.2"
+msgid ""
+"Tañca pajānāmi, tato ca uttaritaraṃ pajānāmi, tañca pajānaṃ na parāmasāmi, "
+"aparāmasato ca me paccattaññeva nibbuti viditā, yadabhijānaṃ tathāgato no "
+"anayaṃ āpajjati."
+msgstr ""
+"I understand this, and what goes beyond it. Yet since I do not misapprehend "
+"that understanding, I have realized extinguishment within myself. Directly "
+"knowing this, the Realized One does not come to ruin."
+
+#. </p><p><a class="sc" id="77"></a>
+#. VAR: ti → āmāti (s1-3)
+msgctxt "dn24:86.1"
+msgid ""
+"Santi, bhaggava, eke samaṇabrāhmaṇā issarakuttaṃ brahmakuttaṃ ācariyakaṃ "
+"aggaññaṃ paññapenti."
+msgstr ""
+"There are some ascetics and brahmins who describe the origin of the world in "
+"their tradition as created by the Lord God, by Brahmā."
+
+msgctxt "dn24:86.2"
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
+msgstr "I go up to them and say:"
+
+msgctxt "dn24:86.3"
+msgid ""
+"‘saccaṃ kira tumhe āyasmanto issarakuttaṃ brahmakuttaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti?"
+msgstr "‘Is it really true that this is the venerables’ view?’"
+
+msgctxt "dn24:86.4"
+msgid "Te ca me evaṃ puṭṭhā, ‘āmo’ti paṭijānanti."
+msgstr "And they answer, ‘Yes’."
+
+msgctxt "dn24:86.5"
+msgid "Tyāhaṃ evaṃ vadāmi:"
+msgstr "I say to them:"
+
+msgctxt "dn24:86.6"
+msgid ""
+"‘kathaṃvihitakaṃ pana tumhe āyasmanto issarakuttaṃ brahmakuttaṃ ācariyakaṃ "
+"aggaññaṃ paññapethā’ti?"
+msgstr ""
+"‘But how do you describe in your tradition that the origin of the world came "
+"about as created by the Lord God, by Brahmā?’"
+
+msgctxt "dn24:86.7"
+msgid "Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti."
+msgstr "But they cannot answer, and they even question me in return."
+
+msgctxt "dn24:86.8"
+msgid "Tesāhaṃ puṭṭho byākaromi:"
+msgstr "So I answer them:"
+
+#. </p><p><a class="sc" id="78"></a>
+msgctxt "dn24:87.1"
+msgid ""
+"‘Hoti kho so, āvuso, samayo yaṃ kadāci karahaci dīghassa addhuno accayena "
+"ayaṃ loko saṃvaṭṭati."
+msgstr ""
+"‘There comes a time when, reverends, after a very long period has passed, "
+"this cosmos contracts."
+
+msgctxt "dn24:87.2"
+msgid "Saṃvaṭṭamāne loke yebhuyyena sattā ābhassarasaṃvattanikā honti."
+msgstr ""
+"As the cosmos contracts, sentient beings are mostly headed for the realm of "
+"streaming radiance."
+
+msgctxt "dn24:87.3"
+msgid ""
+"Te tattha honti manomayā pītibhakkhā sayaṃpabhā antalikkhacarā subhaṭṭhāyino "
+"ciraṃ dīghamaddhānaṃ tiṭṭhanti."
+msgstr ""
+"There they are mind-made, feeding on rapture, self-luminous, moving through "
+"the sky, steadily glorious, and they remain like that for a very long time."
+
+#. </p><p><a class="sc" id="79"></a><a class="wp" id="wp2.15"></a><a
+#. class="pts" id="pts3.29"></a>
+#. VAR: kho → atha (s1-3, pts1)
+msgctxt "dn24:88.1"
+msgid ""
+"Hoti kho so, āvuso, samayo yaṃ kadāci karahaci dīghassa addhuno accayena "
+"ayaṃ loko vivaṭṭati."
+msgstr ""
+"There comes a time when, after a very long period has passed, this cosmos "
+"expands."
+
+msgctxt "dn24:88.2"
+msgid "Vivaṭṭamāne loke suññaṃ brahmavimānaṃ pātubhavati."
+msgstr "As it expands an empty mansion of Brahmā appears."
+
+msgctxt "dn24:88.3"
+msgid ""
+"Atha kho aññataro satto āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā "
+"suññaṃ brahmavimānaṃ upapajjati."
+msgstr ""
+"Then a certain sentient being—due to the running out of their life-span or "
+"merit—passes away from that group of radiant deities and is reborn in that "
+"empty mansion of Brahmā."
+
+msgctxt "dn24:88.4"
+msgid ""
+"So tattha hoti manomayo pītibhakkho sayampabho antalikkhacaro subhaṭṭhāyī, "
+"ciraṃ dīghamaddhānaṃ tiṭṭhati."
+msgstr ""
+"There they are mind-made, feeding on rapture, self-luminous, moving through "
+"the sky, steadily glorious, and they remain like that for a very long time."
+
+#. </p><p><a class="sc" id="80"></a><a class="wp" id="wp2.16"></a>
+msgctxt "dn24:89.1"
+msgid ""
+"Tassa tattha ekakassa dīgharattaṃ nivusitattā anabhirati paritassanā "
+"uppajjati—"
+msgstr ""
+"But after staying there all alone for a long time, they become dissatisfied "
+"and anxious:"
+
+msgctxt "dn24:89.2"
+msgid "aho vata aññepi sattā itthattaṃ āgaccheyyunti."
+msgstr "“Oh, if only another being would come to this state of existence.”"
+
+msgctxt "dn24:89.3"
+msgid ""
+"Atha aññepi sattā āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā suññaṃ "
+"brahmavimānaṃ upapajjanti tassa sattassa sahabyataṃ."
+msgstr ""
+"Then other sentient beings—due to the running out of their life-span or "
+"merit—pass away from that group of radiant deities and are reborn in that "
+"empty mansion of Brahmā in company with that being."
+
+msgctxt "dn24:89.4"
+msgid ""
+"Tepi tattha honti manomayā pītibhakkhā sayaṃpabhā antalikkhacarā "
+"subhaṭṭhāyino, ciraṃ dīghamaddhānaṃ tiṭṭhanti."
+msgstr ""
+"There they too are mind-made, feeding on rapture, self-luminous, moving "
+"through the sky, steadily glorious, and they remain like that for a very "
+"long time."
+
+#. </p><p><a class="sc" id="81"></a><a class="wp" id="wp2.17"></a>
+msgctxt "dn24:90.1"
+msgid "Tatrāvuso, yo so satto paṭhamaṃ upapanno, tassa evaṃ hoti—"
+msgstr "Now, the being who was reborn there first thinks:"
+
+#. VAR: sajitā → sajjitā (s1-3, km) | sañjitā (pts1)
+#. VAR: seṭṭho → saṭṭhā (bj)
+msgctxt "dn24:90.2"
+msgid ""
+"ahamasmi brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī "
+"issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ, mayā ime sattā "
+"nimmitā."
+msgstr ""
+"“I am Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal "
+"Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, "
+"the Begetter, the Controller, the Father of those who have been born and "
+"those yet to be born."
+
+msgctxt "dn24:90.3"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn24:90.4"
+msgid "Mamañhi pubbe etadahosi—"
+msgstr "Because first I thought:"
+
+msgctxt "dn24:90.5"
+msgid "aho vata aññepi sattā itthattaṃ āgaccheyyunti;"
+msgstr "‘Oh, if only another being would come to this state of existence.’"
+
+msgctxt "dn24:90.6"
+msgid "iti mama ca manopaṇidhi."
+msgstr ""
+"Such was my heart’s wish, and then these creatures came to this state of "
+"existence.’"
+
+#, fuzzy
+msgctxt "dn24:90.7"
+msgid "Ime ca sattā itthattaṃ āgatāti."
+msgstr " "
+
+#. </p><p><a class="sc" id="82"></a>
+msgctxt "dn24:91.1"
+msgid "Yepi te sattā pacchā upapannā, tesampi evaṃ hoti—"
+msgstr "And the beings who were reborn there later also think:"
+
+msgctxt "dn24:91.2"
+msgid ""
+"ayaṃ kho bhavaṃ brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso "
+"vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ;"
+msgstr ""
+"“This must be Brahmā, the Great Brahmā, the Undefeated, the Champion, the "
+"Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, "
+"the Best, the Begetter, the Controller, the Father of those who have been "
+"born and those yet to be born."
+
+msgctxt "dn24:91.3"
+msgid "iminā mayaṃ bhotā brahmunā nimmitā."
+msgstr "And we have been created by him."
+
+msgctxt "dn24:91.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn24:91.5"
+msgid "Imañhi mayaṃ addasāma idha paṭhamaṃ upapannaṃ;"
+msgstr "Because we see that he was reborn here first, and we arrived later.”"
+
+#, fuzzy
+msgctxt "dn24:91.6"
+msgid "mayaṃ panāmha pacchā upapannāti."
+msgstr " "
+
+#. </p><p><a class="sc" id="83"></a><a class="pts" id="pts3.30"></a>
+msgctxt "dn24:92.1"
+msgid ""
+"Tatrāvuso, yo so satto paṭhamaṃ upapanno, so dīghāyukataro ca hoti "
+"vaṇṇavantataro ca mahesakkhataro ca."
+msgstr ""
+"And the being who was reborn first is more long-lived, beautiful, and "
+"illustrious than those who arrived later."
+
+msgctxt "dn24:92.2"
+msgid ""
+"Ye pana te sattā pacchā upapannā, te appāyukatarā ca honti dubbaṇṇatarā ca "
+"appesakkhatarā ca."
+msgstr ""
+
+#. </p><p><a class="sc" id="84"></a>
+msgctxt "dn24:93.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, āvuso, vijjati, yaṃ aññataro satto tamhā kāyā cavitvā "
+"itthattaṃ āgacchati."
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence."
+
+msgctxt "dn24:93.2"
+msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
+msgstr "Having done so, they go forth from the lay life to homelessness."
+
+msgctxt "dn24:93.3"
+msgid ""
+"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte taṃ pubbenivāsaṃ anussarati;"
+msgstr ""
+"By dint of keen, resolute, committed, and diligent effort, and right focus, "
+"they experience an immersion of the heart of such a kind that they recollect "
+"that past life, but no further."
+
+#, fuzzy
+msgctxt "dn24:93.4"
+msgid "tato paraṃ nānussarati."
+msgstr " "
+
+#. </p><p><a class="sc" id="85"></a>
+msgctxt "dn24:94.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn24:94.2"
+msgid ""
+"“yo kho so bhavaṃ brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso "
+"vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ, yena "
+"mayaṃ bhotā brahmunā nimmitā."
+msgstr ""
+"“He who is Brahmā—the Great Brahmā, the Undefeated, the Champion, the "
+"Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, "
+"the Best, the Begetter, the Controller, the Father of those who have been "
+"born and those yet to be born—is permanent, everlasting, eternal, "
+"imperishable, remaining the same for all eternity."
+
+#. VAR: sassato → sassato dīghāyuko (s1-3, mr)
+#, fuzzy
+msgctxt "dn24:94.3"
+msgid "So nicco dhuvo sassato avipariṇāmadhammo sassatisamaṃ tatheva ṭhassati."
+msgstr " "
+
+#. VAR: addhuvā → adhuvā asassatā (s1-3, mr)
+msgctxt "dn24:94.4"
+msgid ""
+"Ye pana mayaṃ ahumhā tena bhotā brahmunā nimmitā, te mayaṃ aniccā addhuvā "
+"appāyukā cavanadhammā itthattaṃ āgatā”ti."
+msgstr ""
+"We who were created by that Brahmā are impermanent, not lasting, short-"
+"lived, perishable, and have come to this state of existence.”"
+
+msgctxt "dn24:94.5"
+msgid ""
+"Evaṃvihitakaṃ no tumhe āyasmanto issarakuttaṃ brahmakuttaṃ ācariyakaṃ "
+"aggaññaṃ paññapethā’ti."
+msgstr ""
+"This how you describe in your tradition that the origin of the world came "
+"about as created by the Lord God, by Brahmā.’"
+
+msgctxt "dn24:94.6"
+msgid "Te evamāhaṃsu:"
+msgstr "They say:"
+
+msgctxt "dn24:94.7"
+msgid "‘evaṃ kho no, āvuso gotama, sutaṃ, yathevāyasmā gotamo āhā’ti."
+msgstr "‘That is what we have heard, Reverend Gotama, just as you say.’"
+
+#. </p><p><a class="sc" id="86"></a>
+msgctxt "dn24:95.1"
+msgid "Aggaññañcāhaṃ, bhaggava, pajānāmi."
+msgstr "Bhaggava, I understand the origin of the world."
+
+msgctxt "dn24:95.2"
+msgid ""
+"Tañca pajānāmi, tato ca uttaritaraṃ pajānāmi, tañca pajānaṃ na parāmasāmi, "
+"aparāmasato ca me paccattaññeva nibbuti viditā."
+msgstr ""
+"I understand this, and what goes beyond it. Yet since I do not misapprehend "
+"that understanding, I have realized extinguishment within myself. Directly "
+"knowing this, the Realized One does not come to ruin."
+
+#, fuzzy
+msgctxt "dn24:95.3"
+msgid "Yadabhijānaṃ tathāgato no anayaṃ āpajjati."
+msgstr " "
+
+#. </p><p><a class="sc" id="87"></a><a class="wp" id="wp2.18"></a><a
+#. class="pts" id="pts3.31"></a>
+msgctxt "dn24:96.1"
+msgid ""
+"Santi, bhaggava, eke samaṇabrāhmaṇā khiḍḍāpadosikaṃ ācariyakaṃ aggaññaṃ "
+"paññapenti."
+msgstr ""
+"There are some ascetics and brahmins who describe the origin of the world in "
+"their tradition as due to those depraved by play."
+
+msgctxt "dn24:96.2"
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
+msgstr "I go up to them and say:"
+
+msgctxt "dn24:96.3"
+msgid ""
+"‘saccaṃ kira tumhe āyasmanto khiḍḍāpadosikaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti?"
+msgstr "‘Is it really true that this is the venerables’ view?’"
+
+msgctxt "dn24:96.4"
+msgid "Te ca me evaṃ puṭṭhā ‘āmo’ti paṭijānanti."
+msgstr "And they answer, ‘Yes’."
+
+msgctxt "dn24:96.5"
+msgid "Tyāhaṃ evaṃ vadāmi:"
+msgstr "I say to them:"
+
+msgctxt "dn24:96.6"
+msgid ""
+"‘kathaṃvihitakaṃ pana tumhe āyasmanto khiḍḍāpadosikaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti?"
+msgstr ""
+"‘But how do you describe in your tradition that the origin of the world came "
+"about due to those depraved by play?’"
+
+#, fuzzy
+msgctxt "dn24:96.7"
+msgid ""
+"Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti, tesāhaṃ "
+"puṭṭho byākaromi:"
+msgstr ""
+"But they cannot answer, and they even question me in return. So I answer "
+"them:"
+
+#. </p><p><a class="sc" id="88"></a>
+msgctxt "dn24:97.1"
+msgid "‘Santāvuso, khiḍḍāpadosikā nāma devā."
+msgstr ""
+"‘Reverends, there are gods named “depraved by play”. They spend too much "
+"time laughing, playing, and making merry."
+
+#, fuzzy
+msgctxt "dn24:97.2"
+msgid "Te ativelaṃ hassakhiḍḍāratidhammasamāpannā viharanti."
+msgstr " "
+
+#. VAR: satiyā sammosā → satiyā sammosāya (s1-3)
+#, fuzzy
+msgctxt "dn24:97.3"
+msgid ""
+"Tesaṃ ativelaṃ hassakhiḍḍāratidhammasamāpannānaṃ viharataṃ sati sammussati, "
+"satiyā sammosā te devā tamhā kāyā cavanti."
+msgstr ""
+"And in doing so, they lose their mindfulness, and they pass away from that "
+"group of gods."
+
+#. </p><p><a class="sc" id="89"></a>
+msgctxt "dn24:98.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, āvuso, vijjati, yaṃ aññataro satto tamhā kāyā cavitvā "
+"itthattaṃ āgacchati, itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati, "
+"agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte taṃ pubbenivāsaṃ anussarati;"
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence. Having done so, they go forth from the "
+"lay life to homelessness. By dint of keen, resolute, committed, and diligent "
+"effort, and right focus, they experience an immersion of the heart of such a "
+"kind that they recollect that past life, but no further."
+
+msgctxt "dn24:98.2"
+msgid "tato paraṃ nānussarati."
+msgstr ""
+
+#. </p><p><a class="sc" id="90"></a><a class="pts" id="pts3.32"></a>
+msgctxt "dn24:99.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn24:99.2"
+msgid ""
+"“ye kho te bhonto devā na khiḍḍāpadosikā te na ativelaṃ "
+"hassakhiḍḍāratidhammasamāpannā viharanti."
+msgstr ""
+"‘The gods not depraved by play don’t spend too much time laughing, playing, "
+"and making merry."
+
+#, fuzzy
+msgctxt "dn24:99.3"
+msgid ""
+"Tesaṃ nātivelaṃ hassakhiḍḍāratidhammasamāpannānaṃ viharataṃ sati na "
+"sammussati, satiyā asammosā te devā tamhā kāyā na cavanti, niccā dhuvā "
+"sassatā avipariṇāmadhammā sassatisamaṃ tatheva ṭhassanti."
+msgstr ""
+"So they don’t lose their mindfulness, and don’t pass away from that group of "
+"gods. They are permanent, everlasting, eternal, imperishable, remaining the "
+"same for all eternity."
+
+#. VAR: satiyā sammosā evaṃ → sammosāya te (s1-3, mr) | sammosā eva (pts1)
+msgctxt "dn24:99.4"
+msgid ""
+"Ye pana mayaṃ ahumhā khiḍḍāpadosikā te mayaṃ ativelaṃ "
+"hassakhiḍḍāratidhammasamāpannā viharimhā, tesaṃ no ativelaṃ "
+"hassakhiḍḍāratidhammasamāpannānaṃ viharataṃ sati sammussati, satiyā sammosā "
+"evaṃ mayaṃ tamhā kāyā cutā, aniccā addhuvā appāyukā cavanadhammā itthattaṃ "
+"āgatā”ti."
+msgstr ""
+"But we who were depraved by play spent too much time laughing, playing, and "
+"making merry. In doing so, we lost our mindfulness, and passed away from "
+"that group of gods. We are impermanent, not lasting, short-lived, "
+"perishable, and have come to this state of existence.’"
+
+msgctxt "dn24:99.5"
+msgid ""
+"Evaṃvihitakaṃ no tumhe āyasmanto khiḍḍāpadosikaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti."
+msgstr ""
+"This how you describe in your tradition that the origin of the world came "
+"about due to those depraved by play.’"
+
+msgctxt "dn24:99.6"
+msgid "Te evamāhaṃsu:"
+msgstr "They say:"
+
+msgctxt "dn24:99.7"
+msgid "‘evaṃ kho no, āvuso gotama, sutaṃ, yathevāyasmā gotamo āhā’ti."
+msgstr "‘That is what we have heard, Reverend Gotama, just as you say.’"
+
+#. </p><p><a class="sc" id="91"></a>
+msgctxt "dn24:100.1"
+msgid "Aggaññañcāhaṃ, bhaggava, pajānāmi …"
+msgstr "Bhaggava, I understand the origin of the world."
+
+msgctxt "dn24:100.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn24:100.3"
+msgid "yadabhijānaṃ tathāgato no anayaṃ āpajjati."
+msgstr "Directly knowing this, the Realized One does not come to ruin."
+
+#. </p><p><a class="sc" id="92"></a><a class="wp" id="wp2.19"></a>
+msgctxt "dn24:101.1"
+msgid ""
+"Santi, bhaggava, eke samaṇabrāhmaṇā manopadosikaṃ ācariyakaṃ aggaññaṃ "
+"paññapenti."
+msgstr ""
+"There are some ascetics and brahmins who describe the origin of the world in "
+"their tradition as due to those who are malevolent."
+
+msgctxt "dn24:101.2"
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
+msgstr "I go up to them and say:"
+
+msgctxt "dn24:101.3"
+msgid ""
+"‘saccaṃ kira tumhe āyasmanto manopadosikaṃ ācariyakaṃ aggaññaṃ paññapethā’ti?"
+msgstr "‘Is it really true that this is the venerables’ view?’"
+
+msgctxt "dn24:101.4"
+msgid "Te ca me evaṃ puṭṭhā ‘āmo’ti paṭijānanti."
+msgstr "And they answer, ‘Yes’."
+
+msgctxt "dn24:101.5"
+msgid "Tyāhaṃ evaṃ vadāmi:"
+msgstr "I say to them:"
+
+msgctxt "dn24:101.6"
+msgid ""
+"‘kathaṃvihitakaṃ pana tumhe āyasmanto manopadosikaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti?"
+msgstr ""
+"‘But how do you describe in your tradition that the origin of the world came "
+"about due to those who are malevolent?’"
+
+msgctxt "dn24:101.7"
+msgid "Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti."
+msgstr "But they cannot answer, and they even question me in return."
+
+msgctxt "dn24:101.8"
+msgid "Tesāhaṃ puṭṭho byākaromi:"
+msgstr "So I answer them:"
+
+#. </p><p><a class="sc" id="93"></a><a class="wp" id="wp93"></a>
+msgctxt "dn24:102.1"
+msgid "‘Santāvuso, manopadosikā nāma devā."
+msgstr ""
+"‘Reverends, there are gods named “malevolent”. They spend too much time "
+"gazing at each other,"
+
+msgctxt "dn24:102.2"
+msgid "Te ativelaṃ aññamaññaṃ upanijjhāyanti."
+msgstr ""
+
+msgctxt "dn24:102.3"
+msgid "Te ativelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni padūsenti."
+msgstr "so they grow angry with each other,"
+
+msgctxt "dn24:102.4"
+msgid "Te aññamaññaṃ paduṭṭhacittā kilantakāyā kilantacittā."
+msgstr "and their bodies and minds get tired."
+
+msgctxt "dn24:102.5"
+msgid "Te devā tamhā kāyā cavanti."
+msgstr "They pass away from that group of gods."
+
+#. </p><p><a class="sc" id="94"></a><a class="wp" id="wp94"></a>
+msgctxt "dn24:103.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, āvuso, vijjati, yaṃ aññataro satto tamhā kāyā cavitvā "
+"itthattaṃ āgacchati."
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence."
+
+msgctxt "dn24:103.2"
+msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
+msgstr "Having done so, they go forth from the lay life to homelessness."
+
+msgctxt "dn24:103.3"
+msgid ""
+"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte taṃ pubbenivāsaṃ anussarati, tato "
+"paraṃ nānussarati."
+msgstr ""
+"By dint of keen, resolute, committed, and diligent effort, and right focus, "
+"they experience an immersion of the heart of such a kind that they recollect "
+"that past life, but no further."
+
+#. </p><p><a class="sc" id="95"></a><a class="wp" id="wp95"></a><a class="pts"
+#. id="pts3.33"></a>
+msgctxt "dn24:104.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn24:104.2"
+msgid ""
+"“ye kho te bhonto devā na manopadosikā te nātivelaṃ aññamaññaṃ "
+"upanijjhāyanti."
+msgstr ""
+"“The gods who are not malevolent don’t spend too much time gazing at each "
+"other,"
+
+msgctxt "dn24:104.3"
+msgid ""
+"Te nātivelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni nappadūsenti."
+msgstr "so they don’t grow angry with each other,"
+
+msgctxt "dn24:104.4"
+msgid "Te aññamaññaṃ appaduṭṭhacittā akilantakāyā akilantacittā."
+msgstr "their bodies and minds don’t get tired,"
+
+#. VAR: tamhā → akilantacittā tamhā (c1)
+msgctxt "dn24:104.5"
+msgid ""
+"Te devā tamhā kāyā na cavanti, niccā dhuvā sassatā avipariṇāmadhammā "
+"sassatisamaṃ tatheva ṭhassanti."
+msgstr ""
+"and they don’t pass away from that group of gods. They are permanent, "
+"everlasting, eternal, imperishable, remaining the same for all eternity."
+
+msgctxt "dn24:104.6"
+msgid ""
+"Ye pana mayaṃ ahumhā manopadosikā, te mayaṃ ativelaṃ aññamaññaṃ "
+"upanijjhāyimhā."
+msgstr "But we who were malevolent spent too much time gazing at each other,"
+
+#. VAR: padūsimhā → padūsayimhā (bj) | padosiyimhā (s1-3) | padūsimha (pts1)
+msgctxt "dn24:104.7"
+msgid ""
+"Te mayaṃ ativelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni padūsimhā."
+msgstr ""
+"so our minds grew angry with each other, our bodies and minds got tired,"
+
+#, fuzzy
+msgctxt "dn24:104.8"
+msgid "Te mayaṃ aññamaññaṃ paduṭṭhacittā kilantakāyā kilantacittā."
+msgstr " "
+
+#. VAR: Evaṃ mayaṃ → kilan­ta­cittā­eva mayaṃ (pts1) | kilantacittā (c1)
+msgctxt "dn24:104.9"
+msgid ""
+"Evaṃ mayaṃ tamhā kāyā cutā, aniccā addhuvā appāyukā cavanadhammā itthattaṃ "
+"āgatā”ti."
+msgstr ""
+"and we passed away from that group of gods. We are impermanent, not lasting, "
+"short-lived, perishable, and have come to this state of existence.”"
+
+msgctxt "dn24:104.10"
+msgid ""
+"Evaṃvihitakaṃ no tumhe āyasmanto manopadosikaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti."
+msgstr ""
+"This how you describe in your tradition that the origin of the world came "
+"about due to those who are malevolent.’"
+
+msgctxt "dn24:104.11"
+msgid "Te evamāhaṃsu:"
+msgstr "They say:"
+
+msgctxt "dn24:104.12"
+msgid "‘evaṃ kho no, āvuso gotama, sutaṃ, yathevāyasmā gotamo āhā’ti."
+msgstr "‘That is what we have heard, Reverend Gotama, just as you say.’"
+
+#. </p><p><a class="sc" id="96"></a>
+msgctxt "dn24:105.1"
+msgid "Aggaññañcāhaṃ, bhaggava, pajānāmi …"
+msgstr "Bhaggava, I understand the origin of the world."
+
+msgctxt "dn24:105.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn24:105.3"
+msgid "yadabhijānaṃ tathāgato no anayaṃ āpajjati."
+msgstr "Directly knowing this, the Realized One does not come to ruin."
+
+#. </p><p><a class="sc" id="97"></a><a class="wp" id="wp2.20"></a>
+msgctxt "dn24:106.1"
+msgid ""
+"Santi, bhaggava, eke samaṇabrāhmaṇā adhiccasamuppannaṃ ācariyakaṃ aggaññaṃ "
+"paññapenti."
+msgstr ""
+"There are some ascetics and brahmins who describe the origin of the world in "
+"their tradition as having arisen by chance."
+
+msgctxt "dn24:106.2"
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
+msgstr "I go up to them and say:"
+
+msgctxt "dn24:106.3"
+msgid ""
+"‘saccaṃ kira tumhe āyasmanto adhiccasamuppannaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti?"
+msgstr "‘Is it really true that this is the venerables’ view?’"
+
+msgctxt "dn24:106.4"
+msgid "Te ca me evaṃ puṭṭhā ‘āmo’ti paṭijānanti."
+msgstr "And they answer, ‘Yes’."
+
+msgctxt "dn24:106.5"
+msgid "Tyāhaṃ evaṃ vadāmi:"
+msgstr "I say to them:"
+
+msgctxt "dn24:106.6"
+msgid ""
+"‘kathaṃvihitakaṃ pana tumhe āyasmanto adhiccasamuppannaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti?"
+msgstr ""
+"‘But how do you describe in your tradition that the origin of the world came "
+"about by chance?’"
+
+msgctxt "dn24:106.7"
+msgid "Te mayā puṭṭhā na sampāyanti, asampāyantā mamaññeva paṭipucchanti."
+msgstr "But they cannot answer, and they even question me in return."
+
+msgctxt "dn24:106.8"
+msgid "Tesāhaṃ puṭṭho byākaromi:"
+msgstr "So I answer them:"
+
+#. </p><p><a class="sc" id="98"></a>
+msgctxt "dn24:107.1"
+msgid "‘Santāvuso, asaññasattā nāma devā."
+msgstr "‘reverends, there are gods named “non-percipient beings”."
+
+msgctxt "dn24:107.2"
+msgid "Saññuppādā ca pana te devā tamhā kāyā cavanti."
+msgstr "When perception arises they pass away from that group of gods."
+
+#. </p><p><a class="sc" id="99"></a>
+msgctxt "dn24:108.1"
+msgid "Ṭhānaṃ kho panetaṃ, āvuso, vijjati."
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence."
+
+#, fuzzy
+msgctxt "dn24:108.2"
+msgid "Yaṃ aññataro satto tamhā kāyā cavitvā itthattaṃ āgacchati."
+msgstr " "
+
+msgctxt "dn24:108.3"
+msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
+msgstr "Having done so, they go forth from the lay life to homelessness."
+
+#. VAR: tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte taṃ → idaṃ padaṃ
+#. brahma­jāla­sutte na dissati. evaṃ (mr)
+msgctxt "dn24:108.4"
+msgid ""
+"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte taṃ saññuppādaṃ anussarati, tato "
+"paraṃ nānussarati’."
+msgstr ""
+"By dint of keen, resolute, committed, and diligent effort, and right focus, "
+"they experience an immersion of the heart of such a kind that they recollect "
+"the arising of perception, but no further."
+
+#. </p><p><a class="sc" id="100"></a><a class="pts" id="pts3.34"></a>
+msgctxt "dn24:109.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn24:109.2"
+msgid "‘adhiccasamuppanno attā ca loko ca."
+msgstr "‘The self and the cosmos arose by chance."
+
+msgctxt "dn24:109.3"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+#. VAR: santatāya → sattāya (si) | sattattāya (pts1)
+msgctxt "dn24:109.4"
+msgid "Ahañhi pubbe nāhosiṃ, somhi etarahi ahutvā santatāya pariṇato’ti."
+msgstr ""
+"Because formerly I didn’t exist. Now from not being I’ve changed into being.’"
+
+# Note MS's inconsistent punctuation here, treating this statement, reasonably enough, as a question. perhaps this is better?
+msgctxt "dn24:109.5"
+msgid ""
+"‘Evaṃvihitakaṃ no tumhe āyasmanto adhiccasamuppannaṃ ācariyakaṃ aggaññaṃ "
+"paññapethā’ti?"
+msgstr ""
+"This how you describe in your tradition that the origin of the world came "
+"about by chance.’"
+
+msgctxt "dn24:109.6"
+msgid "Te evamāhaṃsu:"
+msgstr "They say:"
+
+msgctxt "dn24:109.7"
+msgid "‘evaṃ kho no, āvuso gotama, sutaṃ yathevāyasmā gotamo āhā’ti."
+msgstr "‘That is what we have heard, Reverend Gotama, just as you say.’"
+
+#. </p><p><a class="sc" id="101"></a>
+#. VAR: pajānaṃ → pajānanaṃ (bj, s1-3, pts1, c1)
+msgctxt "dn24:110.1"
+msgid ""
+"Aggaññañcāhaṃ, bhaggava, pajānāmi tañca pajānāmi, tato ca uttaritaraṃ "
+"pajānāmi, tañca pajānaṃ na parāmasāmi, aparāmasato ca me paccattaññeva "
+"nibbuti viditā."
+msgstr ""
+"I understand this, and what goes beyond it. Yet since I do not misapprehend "
+"that understanding, I have realized extinguishment within myself. Directly "
+"knowing this, the Realized One does not come to ruin."
+
+msgctxt "dn24:110.2"
+msgid "Yadabhijānaṃ tathāgato no anayaṃ āpajjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="102"></a><a class="wp" id="wp2.21"></a>
+msgctxt "dn24:111.1"
+msgid ""
+"Evaṃvādiṃ kho maṃ, bhaggava, evamakkhāyiṃ eke samaṇabrāhmaṇā asatā tucchā "
+"musā abhūtena abbhācikkhanti:"
+msgstr ""
+"Though I speak and explain like this, certain ascetics and brahmins "
+"misrepresent me with the false, baseless, lying, untruthful claim:"
+
+msgctxt "dn24:111.2"
+msgid "‘viparīto samaṇo gotamo bhikkhavo ca."
+msgstr "‘The ascetic Gotama has a distorted perspective, and so have his monks."
+
+msgctxt "dn24:111.3"
+msgid "Samaṇo gotamo evamāha—"
+msgstr "He says:"
+
+#. VAR: pajānātī’ti → sampajānātīti (s1-3) | sañjānātīti (pts1)
+#. VAR: asubhantveva → asubhanteva (s1-3, pts1)
+msgctxt "dn24:111.4"
+msgid ""
+"yasmiṃ samaye subhaṃ vimokkhaṃ upasampajja viharati, sabbaṃ tasmiṃ samaye "
+"asubhantveva pajānātī’ti."
+msgstr ""
+"‘When one enters and remains in the liberation of the beautiful, at that "
+"time one only perceives what is ugly.’"
+
+msgctxt "dn24:111.5"
+msgid "Na kho panāhaṃ, bhaggava, evaṃ vadāmi:"
+msgstr "But I don’t say that."
+
+msgctxt "dn24:111.6"
+msgid ""
+"‘yasmiṃ samaye subhaṃ vimokkhaṃ upasampajja viharati, sabbaṃ tasmiṃ samaye "
+"asubhantveva pajānātī’ti."
+msgstr ""
+
+msgctxt "dn24:111.7"
+msgid "Evañca khvāhaṃ, bhaggava, vadāmi:"
+msgstr "I say this:"
+
+msgctxt "dn24:111.8"
+msgid ""
+"‘yasmiṃ samaye subhaṃ vimokkhaṃ upasampajja viharati, subhantveva tasmiṃ "
+"samaye pajānātī’”ti."
+msgstr ""
+"‘When one enters and remains in the liberation of the beautiful, at that "
+"time one only perceives what is beautiful.’”"
+
+#. </p><p><a class="sc" id="103"></a><a class="pts" id="pts3.35"></a>
+msgctxt "dn24:112.1"
+msgid ""
+"“Te ca, bhante, viparītā, ye bhagavantaṃ viparītato dahanti bhikkhavo ca."
+msgstr ""
+"“They are the ones with distorted perspective, sir, who regard the Buddha "
+"and the mendicants in this way."
+
+msgctxt "dn24:112.2"
+msgid "Evaṃpasanno ahaṃ, bhante, bhagavati."
+msgstr ""
+"Sir, I am quite confident that the Buddha is capable of teaching me so that "
+"I can enter and remain in the liberation on the beautiful.”"
+
+#, fuzzy
+msgctxt "dn24:112.3"
+msgid ""
+"Pahoti me bhagavā tathā dhammaṃ desetuṃ, yathā ahaṃ subhaṃ vimokkhaṃ "
+"upasampajja vihareyyan”ti."
+msgstr " "
+
+#. </p><p><a class="sc" id="104"></a>
+msgctxt "dn24:113.1"
+msgid ""
+"“Dukkaraṃ kho etaṃ, bhaggava, tayā aññadiṭṭhikena aññakhantikena "
+"aññarucikena aññatrāyogena aññatrācariyakena subhaṃ vimokkhaṃ upasampajja "
+"viharituṃ."
+msgstr ""
+"“It’s hard for you to enter and remain in the liberation on the beautiful, "
+"since you have a different view, creed, belief, practice, and tradition."
+
+msgctxt "dn24:113.2"
+msgid ""
+"Iṅgha tvaṃ, bhaggava, yo ca te ayaṃ mayi pasādo, tameva tvaṃ "
+"sādhukamanurakkhā”ti."
+msgstr ""
+"Come now, Bhaggava, carefully nurture the confidence that you have in me.”"
+
+msgctxt "dn24:113.3"
+msgid ""
+"“Sace taṃ, bhante, mayā dukkaraṃ aññadiṭṭhikena aññakhantikena aññarucikena "
+"aññatrāyogena aññatrācariyakena subhaṃ vimokkhaṃ upasampajja viharituṃ."
+msgstr ""
+"“If it’s hard for me to enter and remain in the liberation on the beautiful, "
+"since I have a different view, creed, belief, practice, and tradition,"
+
+msgctxt "dn24:113.4"
+msgid ""
+"Yo ca me ayaṃ, bhante, bhagavati pasādo, tamevāhaṃ sādhukamanurakkhissāmī”ti."
+msgstr "I shall carefully nurture the confidence that I have in the Buddha.”"
+
+#. </p><p><a class="sc" id="105"></a>
+msgctxt "dn24:114.1"
+msgid "Idamavoca bhagavā."
+msgstr "This is what the Buddha said."
+
+msgctxt "dn24:114.2"
+msgid "Attamano bhaggavagotto paribbājako bhagavato bhāsitaṃ abhinandīti."
+msgstr "Uplifted, the wanderer Bhaggavagotta approved of what the Buddha said."
+
+#. </p><p class="endsutta">
+msgctxt "dn24:115.1"
+msgid "Pāthikasuttaṃ niṭṭhitaṃ paṭhamaṃ."
+msgstr ""

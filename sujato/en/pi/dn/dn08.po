@@ -1,0 +1,1855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 08:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Pootle-Path: /en/dn/dn08.po\n"
+"X-Pootle-Revision: 173546\n"
+
+#. <html><head><meta charset="utf8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="dn8"><article><div class="hgroup"><p
+#. class="division">
+msgctxt "dn8:1.1"
+msgid "Dīgha Nikāya 8"
+msgstr "Long Discourses 8"
+
+#. </p><h1>
+msgctxt "dn8:2.1"
+msgid "Mahāsīhanādasutta"
+msgstr "The Longer Discourse on the Lion’s Roar"
+
+#. </h1></div><p><a class="sc" id="1"></a><a class="wp" id="wp1"></a><a
+#. class="pts" id="pts1.161"></a>
+msgctxt "dn8:3.1"
+msgid "<span class=\"evam\">Evaṃ me sutaṃ—​</span>"
+msgstr "<span class=”evam”>So I have heard.</span>"
+
+#. VAR: uruññāyaṃ → ujuññāyaṃ (bj, s1-3, km, pts1)
+msgctxt "dn8:3.2"
+msgid "ekaṃ samayaṃ bhagavā uruññāyaṃ viharati kaṇṇakatthale migadāye."
+msgstr ""
+"At one time the Buddha was staying near Ujuñña, in the deer park at "
+"Kaṇṇakatthala."
+
+msgctxt "dn8:3.3"
+msgid "Atha kho acelo kassapo yena bhagavā tenupasaṅkami;"
+msgstr "Then the naked ascetic Kassapa went up to the Buddha"
+
+msgctxt "dn8:3.4"
+msgid "upasaṅkamitvā bhagavatā saddhiṃ sammodi."
+msgstr "and exchanged greetings with him. "
+
+msgctxt "dn8:3.5"
+msgid "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi."
+msgstr ""
+"When the greetings and polite conversation were over, he stood to one side,"
+
+msgctxt "dn8:3.6"
+msgid "Ekamantaṃ ṭhito kho acelo kassapo bhagavantaṃ etadavoca:"
+msgstr "and said to the Buddha:"
+
+msgctxt "dn8:3.7"
+msgid "“<a class=\"wp\" id=\"wp2\"></a> sutaṃ metaṃ, bho gotama:"
+msgstr "“Master Gotama, I have heard the following:"
+
+# See AN 10.94
+msgctxt "dn8:3.8"
+msgid ""
+"‘samaṇo gotamo sabbaṃ tapaṃ garahati, sabbaṃ tapassiṃ lūkhājīviṃ ekaṃsena "
+"upakkosati upavadatī’ti."
+msgstr ""
+"‘The ascetic Gotama criticizes all forms of mortification. He categorically "
+"condemns and denounces those self-mortifiers who live rough.’"
+
+msgctxt "dn8:3.9"
+msgid "Ye te, bho gotama, evamāhaṃsu:"
+msgstr "Do those who say this "
+
+#. VAR: vādānuvādo → vādānupāto (^sn12.24#1 [24. Añña­titthi­ya­sutta])
+msgctxt "dn8:3.10"
+msgid ""
+"‘samaṇo gotamo sabbaṃ tapaṃ garahati, sabbaṃ tapassiṃ lūkhājīviṃ ekaṃsena "
+"upakkosati upavadatī’ti, kacci te bhoto gotamassa vuttavādino, na ca "
+"bhavantaṃ gotamaṃ abhūtena abbhācikkhanti, dhammassa cānudhammaṃ byākaronti, "
+"na ca koci sahadhammiko vādānuvādo gārayhaṃ ṭhānaṃ āgacchati?"
+msgstr ""
+"repeat what the Buddha has said, and not misrepresent him with an untruth? "
+"Is their explanation in line with the teaching? Are there any legitimate "
+"grounds for rebuke and criticism?"
+
+msgctxt "dn8:3.11"
+msgid "Anabbhakkhātukāmā hi mayaṃ bhavantaṃ gotaman”ti."
+msgstr "For we don’t want to misrepresent Master Gotama.”"
+
+#. </p><p><a class="sc" id="2"></a><a class="wp" id="wp3"></a><a class="pts"
+#. id="pts1.162"></a>
+msgctxt "dn8:4.1"
+msgid "“Ye te, kassapa, evamāhaṃsu:"
+msgstr "“Kassapa, those who say this"
+
+msgctxt "dn8:4.2"
+msgid ""
+"‘samaṇo gotamo sabbaṃ tapaṃ garahati, sabbaṃ tapassiṃ lūkhājīviṃ ekaṃsena "
+"upakkosati upavadatī’ti, na me te vuttavādino, abbhācikkhanti ca pana maṃ te "
+"asatā abhūtena."
+msgstr ""
+"do not repeat what I have said. They misrepresent me with what is false, "
+"baseless, and untrue."
+
+msgctxt "dn8:4.3"
+msgid ""
+"Idhāhaṃ, kassapa, ekaccaṃ tapassiṃ lūkhājīviṃ passāmi dibbena cakkhunā "
+"visuddhena atikkantamānusakena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ "
+"vinipātaṃ nirayaṃ upapannaṃ."
+msgstr ""
+"With clairvoyance that is purified and superhuman, I see some self-mortifier "
+"who lives rough reborn in a place of loss, a bad place, the underworld, hell."
+
+msgctxt "dn8:4.4"
+msgid ""
+"Idha panāhaṃ, kassapa, ekaccaṃ tapassiṃ lūkhājīviṃ passāmi dibbena cakkhunā "
+"visuddhena atikkantamānusakena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ "
+"lokaṃ upapannaṃ."
+msgstr ""
+"But I see another self-mortifier who lives rough reborn in a good place, a "
+"heavenly realm."
+
+#. </p><p><a class="sc" id="3"></a>
+msgctxt "dn8:5.1"
+msgid ""
+"Idhāhaṃ, kassapa, ekaccaṃ tapassiṃ appadukkhavihāriṃ passāmi dibbena "
+"cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṃ maraṇā apāyaṃ "
+"duggatiṃ vinipātaṃ nirayaṃ upapannaṃ."
+msgstr "I see some self-mortifier who takes it easy reborn in a place of loss."
+
+msgctxt "dn8:5.2"
+msgid ""
+"Idha panāhaṃ, kassapa, ekaccaṃ tapassiṃ appadukkhavihāriṃ passāmi dibbena "
+"cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṃ maraṇā sugatiṃ "
+"saggaṃ lokaṃ upapannaṃ."
+msgstr ""
+"But I see another self-mortifier who takes it easy reborn in a good place, a "
+"heavenly realm."
+
+msgctxt "dn8:5.3"
+msgid ""
+"Yohaṃ, kassapa, imesaṃ tapassīnaṃ evaṃ āgatiñca gatiñca cutiñca upapattiñca "
+"yathābhūtaṃ pajānāmi, sohaṃ kiṃ sabbaṃ tapaṃ garahissāmi, sabbaṃ vā tapassiṃ "
+"lūkhājīviṃ ekaṃsena upakkosissāmi upavadissāmi?"
+msgstr ""
+"Since I truly understand the coming and going, dying and rebirth of these "
+"self-mortifiers in this way, how could I criticize all forms of "
+"mortification, or categorically condemn and denounce those self-mortifiers "
+"who live rough?"
+
+#. </p><p><a class="sc" id="4"></a><a class="wp" id="wp4"></a>
+msgctxt "dn8:6.1"
+msgid ""
+"Santi, kassapa, eke samaṇabrāhmaṇā paṇḍitā nipuṇā kataparappavādā "
+"vālavedhirūpā."
+msgstr ""
+"There are some clever ascetics and brahmins who are subtle, accomplished in "
+"the doctrines of others, hair-splitters. You’d think they live to demolish "
+"convictions with their intellect. "
+
+#, fuzzy
+msgctxt "dn8:6.2"
+msgid "Te bhindantā maññe caranti paññāgatena diṭṭhigatāni."
+msgstr " "
+
+msgctxt "dn8:6.3"
+msgid "Tehipi me saddhiṃ ekaccesu ṭhānesu sameti, ekaccesu ṭhānesu na sameti."
+msgstr "They agree with me in some matters and disagree in others."
+
+msgctxt "dn8:6.4"
+msgid "Yaṃ te ekaccaṃ vadanti ‘sādhū’ti, mayampi taṃ ekaccaṃ vadema ‘sādhū’ti."
+msgstr "Some of the things that they applaud, I also applaud."
+
+msgctxt "dn8:6.5"
+msgid ""
+"Yaṃ te ekaccaṃ vadanti ‘na sādhū’ti, mayampi taṃ ekaccaṃ vadema ‘na sādhū’ti."
+msgstr "Some of the things that they don’t applaud, I also don’t applaud."
+
+msgctxt "dn8:6.6"
+msgid ""
+"Yaṃ te ekaccaṃ vadanti ‘sādhū’ti, mayaṃ taṃ ekaccaṃ vadema ‘na sādhū’ti."
+msgstr "But some of the things that they applaud, I don’t applaud."
+
+msgctxt "dn8:6.7"
+msgid ""
+"Yaṃ te ekaccaṃ vadanti ‘na sādhū’ti, mayaṃ taṃ ekaccaṃ vadema ‘sādhū’ti."
+msgstr "And some of the things that they don’t applaud, I do applaud."
+
+#. </p><p><a class="sc" id="5"></a><a class="pts" id="pts1.163"></a>
+msgctxt "dn8:7.1"
+msgid ""
+"Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, parepi taṃ ekaccaṃ vadanti ‘sādhū’ti."
+msgstr "Some of the things that I applaud, others also applaud."
+
+msgctxt "dn8:7.2"
+msgid ""
+"Yaṃ mayaṃ ekaccaṃ vadema ‘na sādhū’ti, parepi taṃ ekaccaṃ vadanti ‘na "
+"sādhū’ti."
+msgstr "Some of the things that I don’t applaud, they also don’t applaud."
+
+msgctxt "dn8:7.3"
+msgid ""
+"Yaṃ mayaṃ ekaccaṃ vadema ‘na sādhū’ti, pare taṃ ekaccaṃ vadanti ‘sādhū’ti."
+msgstr "But some of the things that I don’t applaud, others do applaud."
+
+msgctxt "dn8:7.4"
+msgid ""
+"Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, pare taṃ ekaccaṃ vadanti ‘na sādhū’ti."
+msgstr "And some of the things that I do applaud, others don’t applaud."
+
+#. </p><h2>
+msgctxt "dn8:8.1"
+msgid "1. Samanuyuñjāpanakathā"
+msgstr "Examination"
+
+#. </h2><p><a class="sc" id="6"></a><a class="wp" id="wp5"></a>
+msgctxt "dn8:9.1"
+msgid "Tyāhaṃ upasaṅkamitvā evaṃ vadāmi:"
+msgstr "I go up to them and say:"
+
+msgctxt "dn8:9.2"
+msgid "‘yesu no, āvuso, ṭhānesu na sameti, tiṭṭhantu tāni ṭhānāni."
+msgstr "‘Let us leave aside those matters on which we disagree."
+
+msgctxt "dn8:9.3"
+msgid ""
+"Yesu ṭhānesu sameti, tattha viññū samanuyuñjantaṃ samanugāhantaṃ "
+"samanubhāsantaṃ satthārā vā satthāraṃ saṅghena vā saṅghaṃ:"
+msgstr ""
+"But there are some matters on which we agree. Regarding these, sensible "
+"people, questioning, pressing, and examining, would compare teacher with "
+"teacher or community with community:"
+
+msgctxt "dn8:9.4"
+msgid ""
+"“ye imesaṃ bhavataṃ dhammā akusalā akusalasaṅkhātā, sāvajjā sāvajjasaṅkhātā, "
+"asevitabbā asevitabbasaṅkhātā, na alamariyā na alamariyasaṅkhātā, kaṇhā "
+"kaṇhasaṅkhātā."
+msgstr ""
+"“There are things that are unskillful, blameworthy, not to be cultivated, "
+"unworthy of the noble ones, and dark—and are reckoned as such."
+
+msgctxt "dn8:9.5"
+msgid ""
+"Ko ime dhamme anavasesaṃ pahāya vattati, samaṇo vā gotamo, pare vā pana "
+"bhonto gaṇācariyā”ti?"
+msgstr ""
+"Who behaves like they’ve totally given these things up: the ascetic Gotama, "
+"or the teachers of other communities?”’"
+
+#. </p><p><a class="sc" id="7"></a><a class="wp" id="wp6"></a>
+msgctxt "dn8:10.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, kassapa, vijjati, yaṃ viññū samanuyuñjantā samanugāhantā "
+"samanubhāsantā evaṃ vadeyyuṃ:"
+msgstr "It’s possible that they might say:"
+
+msgctxt "dn8:10.2"
+msgid ""
+"‘ye imesaṃ bhavataṃ dhammā akusalā akusalasaṅkhātā, sāvajjā sāvajjasaṅkhātā, "
+"asevitabbā asevitabbasaṅkhātā, na alamariyā na alamariyasaṅkhātā, kaṇhā "
+"kaṇhasaṅkhātā."
+msgstr ""
+
+msgctxt "dn8:10.3"
+msgid ""
+"Samaṇo gotamo ime dhamme anavasesaṃ pahāya vattati, yaṃ vā pana bhonto pare "
+"gaṇācariyā’ti."
+msgstr ""
+"‘The ascetic Gotama behaves like he’s totally given those unskillful things "
+"up, compared with the teachers of other communities.’"
+
+msgctxt "dn8:10.4"
+msgid ""
+"Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsantā amheva "
+"tattha yebhuyyena pasaṃseyyuṃ."
+msgstr ""
+"And that’s how, when sensible people examine the matter, they will mostly "
+"praise us."
+
+#. </p><p><a class="sc" id="8"></a><a class="wp" id="wp7"></a>
+msgctxt "dn8:11.1"
+msgid ""
+"Aparampi no, kassapa, viññū samanuyuñjantaṃ samanugāhantaṃ samanubhāsantaṃ "
+"satthārā vā satthāraṃ saṅghena vā saṅghaṃ:"
+msgstr ""
+"In addition, sensible people, questioning, pressing, and examining, would "
+"compare teacher with teacher or community with community:"
+
+msgctxt "dn8:11.2"
+msgid ""
+"‘ye imesaṃ bhavataṃ dhammā kusalā kusalasaṅkhātā, anavajjā anavajjasaṅkhātā, "
+"sevitabbā sevitabbasaṅkhātā, alamariyā alamariyasaṅkhātā, sukkā "
+"sukkasaṅkhātā."
+msgstr ""
+"‘There are things that are skillful, blameless, worth cultivating, worthy of "
+"the noble ones, and bright—and are reckoned as such."
+
+msgctxt "dn8:11.3"
+msgid ""
+"Ko ime dhamme anavasesaṃ samādāya vattati, samaṇo vā gotamo, pare vā pana "
+"bhonto gaṇācariyā’ti?"
+msgstr ""
+"Who proceeds having totally undertaken these things: the ascetic Gotama, or "
+"the teachers of other communities?’"
+
+#. </p><p><a class="sc" id="9"></a><a class="wp" id="wp8"></a><a class="pts"
+#. id="pts1.164"></a>
+msgctxt "dn8:12.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, kassapa, vijjati, yaṃ viññū samanuyuñjantā samanugāhantā "
+"samanubhāsantā evaṃ vadeyyuṃ:"
+msgstr "It’s possible that they might say:"
+
+msgctxt "dn8:12.2"
+msgid ""
+"‘ye imesaṃ bhavataṃ dhammā kusalā kusalasaṅkhātā, anavajjā anavajjasaṅkhātā, "
+"sevitabbā sevitabbasaṅkhātā, alamariyā alamariyasaṅkhātā, sukkā "
+"sukkasaṅkhātā."
+msgstr ""
+
+msgctxt "dn8:12.3"
+msgid ""
+"Samaṇo gotamo ime dhamme anavasesaṃ samādāya vattati, yaṃ vā pana bhonto "
+"pare gaṇācariyā’ti."
+msgstr ""
+"‘The ascetic Gotama proceeds having totally undertaken these things, "
+"compared with the teachers of other communities.’"
+
+msgctxt "dn8:12.4"
+msgid ""
+"Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsantā amheva "
+"tattha yebhuyyena pasaṃseyyuṃ."
+msgstr ""
+"And that’s how, when sensible people examine the matter, they will mostly "
+"praise us."
+
+#. </p><p><a class="sc" id="10"></a><a class="wp" id="wp9"></a>
+msgctxt "dn8:13.1"
+msgid ""
+"Aparampi no, kassapa, viññū samanuyuñjantaṃ samanugāhantaṃ samanubhāsantaṃ "
+"satthārā vā satthāraṃ saṅghena vā saṅghaṃ:"
+msgstr ""
+"In addition, sensible people, questioning, pressing, and examining, would "
+"compare teacher with teacher or community with community:"
+
+msgctxt "dn8:13.2"
+msgid ""
+"‘ye imesaṃ bhavataṃ dhammā akusalā akusalasaṅkhātā, sāvajjā sāvajjasaṅkhātā, "
+"asevitabbā asevitabbasaṅkhātā, na alamariyā na alamariyasaṅkhātā, kaṇhā "
+"kaṇhasaṅkhātā."
+msgstr ""
+"‘There are things that are unskillful, blameworthy, not to be cultivated, "
+"unworthy of the noble ones, and dark—and are reckoned as such."
+
+msgctxt "dn8:13.3"
+msgid ""
+"Ko ime dhamme anavasesaṃ pahāya vattati, gotamasāvakasaṅgho vā, pare vā pana "
+"bhonto gaṇācariyasāvakasaṅghā’ti?"
+msgstr ""
+"Who behaves like they’ve totally given these things up: the ascetic Gotama’s "
+"disciples, or the disciples of other teachers?’"
+
+#. </p><p><a class="sc" id="11"></a><a class="wp" id="wp10"></a>
+msgctxt "dn8:14.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, kassapa, vijjati, yaṃ viññū samanuyuñjantā samanugāhantā "
+"samanubhāsantā evaṃ vadeyyuṃ:"
+msgstr "It’s possible that they might say:"
+
+msgctxt "dn8:14.2"
+msgid ""
+"‘ye imesaṃ bhavataṃ dhammā akusalā akusalasaṅkhātā, sāvajjā sāvajjasaṅkhātā, "
+"asevitabbā asevitabbasaṅkhātā, na alamariyā na alamariyasaṅkhātā, kaṇhā "
+"kaṇhasaṅkhātā."
+msgstr ""
+
+msgctxt "dn8:14.3"
+msgid ""
+"Gotamasāvakasaṅgho ime dhamme anavasesaṃ pahāya vattati, yaṃ vā pana bhonto "
+"pare gaṇācariyasāvakasaṅghā’ti."
+msgstr ""
+"‘The ascetic Gotama’s disciples behave like they’ve totally given those "
+"unskillful things up, compared with the disciples of other teachers.’"
+
+msgctxt "dn8:14.4"
+msgid ""
+"Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsantā amheva "
+"tattha yebhuyyena pasaṃseyyuṃ."
+msgstr ""
+"And that’s how, when sensible people examine the matter, they will mostly "
+"praise us."
+
+#. </p><p><a class="sc" id="12"></a><a class="wp" id="wp11"></a><a class="pts"
+#. id="pts1.165"></a>
+msgctxt "dn8:15.1"
+msgid ""
+"Aparampi no, kassapa, viññū samanuyuñjantaṃ samanugāhantaṃ samanubhāsantaṃ "
+"satthārā vā satthāraṃ saṅghena vā saṅghaṃ."
+msgstr ""
+"In addition, sensible people, questioning, pressing, and examining, would "
+"compare teacher with teacher or community with community:"
+
+msgctxt "dn8:15.2"
+msgid ""
+"‘Ye imesaṃ bhavataṃ dhammā kusalā kusalasaṅkhātā, anavajjā anavajjasaṅkhātā, "
+"sevitabbā sevitabbasaṅkhātā, alamariyā alamariyasaṅkhātā, sukkā "
+"sukkasaṅkhātā."
+msgstr ""
+"‘There are things that are skillful, blameless, worth cultivating, worthy of "
+"the noble ones, and bright—and are reckoned as such."
+
+msgctxt "dn8:15.3"
+msgid ""
+"Ko ime dhamme anavasesaṃ samādāya vattati, gotamasāvakasaṅgho vā, pare vā "
+"pana bhonto gaṇācariyasāvakasaṅghā’ti?"
+msgstr ""
+"Who proceeds having totally undertaken these things: the ascetic Gotama’s "
+"disciples, or the disciples of other teachers?’"
+
+#. </p><p><a class="sc" id="13"></a><a class="wp" id="wp12"></a>
+msgctxt "dn8:16.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, kassapa, vijjati, yaṃ viññū samanuyuñjantā samanugāhantā "
+"samanubhāsantā evaṃ vadeyyuṃ:"
+msgstr "It’s possible that they might say:"
+
+msgctxt "dn8:16.2"
+msgid ""
+"‘ye imesaṃ bhavataṃ dhammā kusalā kusalasaṅkhātā, anavajjā anavajjasaṅkhātā, "
+"sevitabbā sevitabbasaṅkhātā, alamariyā alamariyasaṅkhātā, sukkā "
+"sukkasaṅkhātā."
+msgstr ""
+
+msgctxt "dn8:16.3"
+msgid ""
+"Gotamasāvakasaṅgho ime dhamme anavasesaṃ samādāya vattati, yaṃ vā pana "
+"bhonto pare gaṇācariyasāvakasaṅghā’ti."
+msgstr ""
+"‘The ascetic Gotama’s disciples proceed having totally undertaken those "
+"skillful things, compared with the disciples of other teachers.’"
+
+msgctxt "dn8:16.4"
+msgid ""
+"Itiha, kassapa, viññū samanuyuñjantā samanugāhantā samanubhāsantā amheva "
+"tattha yebhuyyena pasaṃseyyuṃ."
+msgstr ""
+"And that’s how, when sensible people examine the matter, they will mostly "
+"praise us."
+
+#. </p><h2>
+msgctxt "dn8:17.1"
+msgid "2. Ariyaaṭṭhaṅgikamagga"
+msgstr "The Noble Eightfold Path"
+
+#. </h2><p><a class="sc" id="14"></a><a class="wp" id="wp13"></a>
+#. VAR: dakkhati → dakkhiti (bj) | dākkhīti (pts1)
+msgctxt "dn8:18.1"
+msgid ""
+"Atthi, kassapa, maggo atthi paṭipadā, yathāpaṭipanno sāmaññeva ñassati sāmaṃ "
+"dakkhati:"
+msgstr ""
+"There is, Kassapa, a path, there is a practice, practicing in accordance "
+"with which you will know and see for yourself:"
+
+# Note the va, which is ignored by RD and MW. Comm, however, takes it in exclusive sense, referring back to the Brahmajala. The usage is similar to, eg. eso'va maggo, natthi anno, and, given the context, it seems likely this exclusive sense was meant here.
+msgctxt "dn8:18.2"
+msgid "‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī vinayavādī’ti."
+msgstr ""
+"‘Only the ascetic Gotama’s words are timely, true, and meaningful, in line "
+"with the teaching and training.’"
+
+msgctxt "dn8:18.3"
+msgid ""
+"Katamo ca, kassapa, maggo, katamā ca paṭipadā, yathāpaṭipanno sāmaññeva "
+"ñassati sāmaṃ dakkhati:"
+msgstr "And what is that path?"
+
+msgctxt "dn8:18.4"
+msgid "‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī vinayavādī’ti?"
+msgstr ""
+
+msgctxt "dn8:18.5"
+msgid "Ayameva ariyo aṭṭhaṅgiko maggo."
+msgstr "It is simply this noble eightfold path, that is:"
+
+msgctxt "dn8:18.6"
+msgid "Seyyathidaṃ—"
+msgstr ""
+
+msgctxt "dn8:18.7"
+msgid ""
+"sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo "
+"sammāsati sammāsamādhi."
+msgstr ""
+"right view, right motivation, right speech, right action, right livelihood, "
+"right effort, right mindfulness, and right samādhi. "
+
+msgctxt "dn8:18.8"
+msgid ""
+"Ayaṃ kho, kassapa, maggo, ayaṃ paṭipadā, yathāpaṭipanno sāmaññeva ñassati "
+"sāmaṃ dakkhati ‘samaṇova gotamo kālavādī bhūtavādī atthavādī dhammavādī "
+"vinayavādī’”ti."
+msgstr ""
+"This is the path, this is the practice, practicing in accordance with which "
+"you will know and see for yourself: ‘Only the ascetic Gotama’s words are "
+"timely, true, and meaningful, in line with the teaching and training.’"
+
+#. </p><h2>
+msgctxt "dn8:19.1"
+msgid "3. Tapopakkamakathā"
+msgstr "Practicing Self-Mortification"
+
+#. </h2><p><a class="sc" id="15"></a><a class="wp" id="wp14"></a><a class="pts"
+#. id="pts1.166"></a>
+msgctxt "dn8:20.1"
+msgid "Evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca:"
+msgstr "When he had spoken, Kassapa said to the Buddha:"
+
+msgctxt "dn8:20.2"
+msgid ""
+"“imepi kho, āvuso gotama, tapopakkamā etesaṃ samaṇabrāhmaṇānaṃ "
+"sāmaññasaṅkhātā ca brahmaññasaṅkhātā ca."
+msgstr ""
+"“Reverend Gotama, those ascetics and brahmins consider these practices of "
+"self-mortification to be what makes someone a true ascetic or brahmin."
+
+msgctxt "dn8:20.3"
+msgid ""
+"Acelako hoti, muttācāro, hatthāpalekhano, naehibhaddantiko, "
+"natiṭṭhabhaddantiko, nābhihaṭaṃ, na uddissakataṃ, na nimantanaṃ sādiyati."
+msgstr ""
+"They go naked, ignoring conventions. They lick their hands, and don’t come "
+"or wait when asked. They don’t consent to food brought to them, or food "
+"prepared on purpose for them, or an invitation for a meal."
+
+msgctxt "dn8:20.4"
+msgid ""
+"So na kumbhimukhā paṭiggaṇhāti, na kaḷopimukhā paṭiggaṇhāti, na "
+"eḷakamantaraṃ, na daṇḍamantaraṃ, na musalamantaraṃ, na dvinnaṃ "
+"bhuñjamānānaṃ, na gabbhiniyā, na pāyamānāya, na purisantaragatāya, na "
+"saṅkittīsu, na yattha sā upaṭṭhito hoti, na yattha makkhikā "
+"saṇḍasaṇḍacārinī, na macchaṃ, na maṃsaṃ, na suraṃ, na merayaṃ, na thusodakaṃ "
+"pivati."
+msgstr ""
+"They don’t receive anything from a pot or bowl; or from someone who keeps "
+"sheep, or who has a weapon or a shovel in their home; or where a couple is "
+"eating; or where there is a woman who is pregnant, breast-feeding, or who "
+"has a man in her home; or where there’s a dog waiting or flies buzzing. They "
+"accept no fish or meat or liquor or wine, and drink no beer."
+
+msgctxt "dn8:20.5"
+msgid "So ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko …"
+msgstr ""
+"They go to just one house for alms, taking just one mouthful, or two houses "
+"and two mouthfuls, up to"
+
+msgctxt "dn8:20.6"
+msgid "sattāgāriko vā hoti sattālopiko;"
+msgstr "seven houses and seven mouthfuls."
+
+msgctxt "dn8:20.7"
+msgid "ekissāpi dattiyā yāpeti, dvīhipi dattīhi yāpeti …"
+msgstr "They feed on one saucer a day, two saucers a day, up to"
+
+msgctxt "dn8:20.8"
+msgid "sattahipi dattīhi yāpeti;"
+msgstr "seven saucers a day."
+
+msgctxt "dn8:20.9"
+msgid "ekāhikampi āhāraṃ āhāreti, dvīhikampi āhāraṃ āhāreti …"
+msgstr "They eat once a day, once every second day, up to"
+
+msgctxt "dn8:20.10"
+msgid "sattāhikampi āhāraṃ āhāreti."
+msgstr "once a week,"
+
+msgctxt "dn8:20.11"
+msgid ""
+"Iti evarūpaṃ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati."
+msgstr ""
+"and so on, even up to once a fortnight. They live committed to the practice "
+"of eating food at set intervals."
+
+#. </p><p><a class="sc" id="16"></a>
+msgctxt "dn8:21.1"
+msgid ""
+"Imepi kho, āvuso gotama, tapopakkamā etesaṃ samaṇabrāhmaṇānaṃ "
+"sāmaññasaṅkhātā ca brahmaññasaṅkhātā ca."
+msgstr ""
+"Those ascetics and brahmins also consider these practices of self-"
+"mortification to be what makes someone a true ascetic or brahmin."
+
+msgctxt "dn8:21.2"
+msgid ""
+"Sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, "
+"daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, "
+"ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, "
+"gomayabhakkho vā hoti, vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+msgstr ""
+"They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum "
+"from boiling rice, sesame flour, grass, or cow dung. They survive on forest "
+"roots and fruits, or eating fallen fruit."
+
+#. </p><p><a class="sc" id="17"></a><a class="pts" id="pts1.167"></a>
+msgctxt "dn8:22.1"
+msgid ""
+"Imepi kho, āvuso gotama, tapopakkamā etesaṃ samaṇabrāhmaṇānaṃ "
+"sāmaññasaṅkhātā ca brahmaññasaṅkhātā ca."
+msgstr ""
+"Those ascetics and brahmins also consider these practices of mortification "
+"to be what makes someone a true ascetic or brahmin."
+
+# vekaṭikopi hoti vikaṭabhojanānuyogamanuyutto means eating urine, etc. see MN 12.
+#. VAR: ubbhaṭṭhakopi → ubbhaṭṭhikopi (mr)
+msgctxt "dn8:22.2"
+msgid ""
+"Sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, paṃsukūlānipi "
+"dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi dhāreti, "
+"kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, "
+"kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhikampi dhāreti, "
+"kesamassulocakopi hoti kesamassulocanānuyogamanuyutto, ubbhaṭṭhakopi hoti "
+"āsanapaṭikkhitto, ukkuṭikopi hoti ukkuṭikappadhānamanuyutto, "
+"kaṇṭakāpassayikopi hoti kaṇṭakāpassaye seyyaṃ kappeti, phalakaseyyampi "
+"kappeti, thaṇḍilaseyyampi kappeti, ekapassayikopi hoti rajojalladharo, "
+"abbhokāsikopi hoti yathāsanthatiko, vekaṭikopi hoti "
+"vikaṭabhojanānuyogamanuyutto, apānakopi hoti apānakattamanuyutto, "
+"sāyatatiyakampi udakorohanānuyogamanuyutto viharatī”ti."
+msgstr ""
+"They wear robes of sunn hemp, mixed hemp, corpse-wrapping cloth, rags, lodh "
+"tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, "
+"human hair, horse-tail hair, or owls’ wings. They tear out hair and beard, "
+"committed to this practice. They constantly stand, refusing seats. They "
+"squat, committed to persisting in the squatting position. They lie on a mat "
+"of thorns, making a mat of thorns their bed. They make their bed on a plank, "
+"or the bare ground. They lie only on one side. They wear dust and dirt. They "
+"stay in the open air. They sleep wherever they lay their mat. They eat "
+"unnatural things, committed to the practice of eating unnatural foods. They "
+"don’t drink, committed to the practice of not drinking liquids. They’re "
+"committed to the practice of immersion in water three times a day, including "
+"the evening."
+
+#. </p><h2>
+msgctxt "dn8:23.1"
+msgid "4. Tapopakkamaniratthakathā"
+msgstr "The Uselessness of Self-Mortification"
+
+#. </h2><p><a class="sc" id="18"></a><a class="wp" id="wp15"></a>
+msgctxt "dn8:24.1"
+msgid "“Acelako cepi, kassapa, hoti, muttācāro, hatthāpalekhano …"
+msgstr "“Kassapa, someone may practice all those forms of self-mortification,"
+
+msgctxt "dn8:24.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:24.3"
+msgid ""
+"iti evarūpaṃ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati."
+msgstr ""
+
+msgctxt "dn8:24.4"
+msgid ""
+"Tassa cāyaṃ sīlasampadā cittasampadā paññāsampadā abhāvitā hoti asacchikatā."
+msgstr ""
+"but if they haven’t developed and realized any accomplishment in ethics, "
+"mind, and wisdom,"
+
+msgctxt "dn8:24.5"
+msgid "Atha kho so ārakāva sāmaññā ārakāva brahmaññā."
+msgstr "they are far from being a true ascetic or brahmin."
+
+msgctxt "dn8:24.6"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+"But take a mendicant who develops a heart of love, free of enmity and ill "
+"will. And they realize the undefiled freedom of heart and freedom by wisdom "
+"in this very life, and live having achieved it with their own insight due to "
+"the end of defilements."
+
+msgctxt "dn8:24.7"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+msgstr ""
+"When they achieve this, they’re called a mendicant who is a ‘true ascetic’ "
+"and also ‘a true brahmin’.”"
+
+#. </p><p><a class="sc" id="19"></a><a class="pts" id="pts1.168"></a>
+msgctxt "dn8:25.1"
+msgid "Sākabhakkho cepi, kassapa, hoti, sāmākabhakkho …"
+msgstr ""
+
+msgctxt "dn8:25.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:25.3"
+msgid "vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+msgstr ""
+
+msgctxt "dn8:25.4"
+msgid ""
+"Tassa cāyaṃ sīlasampadā cittasampadā paññāsampadā abhāvitā hoti asacchikatā."
+msgstr ""
+
+msgctxt "dn8:25.5"
+msgid "Atha kho so ārakāva sāmaññā ārakāva brahmaññā."
+msgstr ""
+
+msgctxt "dn8:25.6"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+
+msgctxt "dn8:25.7"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+msgstr ""
+
+#. </p><p><a class="sc" id="20"></a>
+msgctxt "dn8:26.1"
+msgid "Sāṇāni cepi, kassapa, dhāreti, masāṇānipi dhāreti …"
+msgstr ""
+
+msgctxt "dn8:26.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:26.3"
+msgid "sāyatatiyakampi udakorohanānuyogamanuyutto viharati."
+msgstr ""
+
+msgctxt "dn8:26.4"
+msgid ""
+"Tassa cāyaṃ sīlasampadā cittasampadā paññāsampadā abhāvitā hoti asacchikatā."
+msgstr ""
+
+msgctxt "dn8:26.5"
+msgid "Atha kho so ārakāva sāmaññā ārakāva brahmaññā."
+msgstr ""
+
+msgctxt "dn8:26.6"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+
+msgctxt "dn8:26.7"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="21"></a><a class="wp" id="wp16"></a>
+msgctxt "dn8:27.1"
+msgid "Evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca:"
+msgstr "When he had spoken, Kassapa said to the Buddha:"
+
+msgctxt "dn8:27.2"
+msgid "“dukkaraṃ, bho gotama, sāmaññaṃ dukkaraṃ brahmaññan”ti."
+msgstr "“It’s hard, Master Gotama, to be a true ascetic or a true brahmin.”"
+
+msgctxt "dn8:27.3"
+msgid ""
+"“Pakati kho esā, kassapa, lokasmiṃ ‘dukkaraṃ sāmaññaṃ dukkaraṃ brahmaññan’ti."
+msgstr ""
+"“It’s typical in this world to think that it’s hard to be a true ascetic or "
+"brahmin."
+
+msgctxt "dn8:27.4"
+msgid "Acelako cepi, kassapa, hoti, muttācāro, hatthāpalekhano …"
+msgstr "But someone might practice all those forms of self-mortification."
+
+msgctxt "dn8:27.5"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:27.6"
+msgid ""
+"iti evarūpaṃ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati."
+msgstr ""
+
+msgctxt "dn8:27.7"
+msgid ""
+"Imāya ca, kassapa, mattāya iminā tapopakkamena sāmaññaṃ vā abhavissa "
+"brahmaññaṃ vā dukkaraṃ sudukkaraṃ, netaṃ abhavissa kallaṃ vacanāya:"
+msgstr ""
+"And if it was only because of just that much, only because of that self-"
+"mortification that it was so very hard to be a true ascetic or brahmin, it "
+"wouldn’t be appropriate to say that"
+
+msgctxt "dn8:27.8"
+msgid "‘dukkaraṃ sāmaññaṃ dukkaraṃ brahmaññan’ti."
+msgstr "it’s hard to be a true ascetic or brahmin."
+
+#. </p><p><a class="sc" id="22"></a>
+msgctxt "dn8:28.1"
+msgid ""
+"Sakkā ca panetaṃ abhavissa kātuṃ gahapatinā vā gahapatiputtena vā antamaso "
+"kumbhadāsiyāpi:"
+msgstr ""
+"For it would be quite possible for a householder or a householder’s child—or "
+"even the bonded maid who carries the water-jar—"
+
+msgctxt "dn8:28.2"
+msgid "‘handāhaṃ acelako homi, muttācāro, hatthāpalekhano …"
+msgstr "to practice all those forms of self-mortification."
+
+msgctxt "dn8:28.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:28.4"
+msgid ""
+"iti evarūpaṃ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharāmī’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="23"></a><a class="pts" id="pts1.169"></a>
+msgctxt "dn8:29.1"
+msgid ""
+"Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena "
+"sāmaññaṃ vā hoti brahmaññaṃ vā dukkaraṃ sudukkaraṃ, tasmā etaṃ kallaṃ "
+"vacanāya:"
+msgstr ""
+"It’s because there’s something other than just that much, something other "
+"than that self-mortification that it’s so very hard to be a true ascetic or "
+"brahmin. And that’s why it is appropriate to say that"
+
+msgctxt "dn8:29.2"
+msgid "‘dukkaraṃ sāmaññaṃ dukkaraṃ brahmaññan’ti."
+msgstr "it’s hard to be a true ascetic or brahmin."
+
+msgctxt "dn8:29.3"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+"Take a mendicant who develops a heart of love, free of enmity and ill will. "
+"And they realize the undefiled freedom of heart and freedom by wisdom in "
+"this very life, and live having achieved it with their own insight due to "
+"the end of defilements."
+
+msgctxt "dn8:29.4"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+msgstr ""
+"When they achieve this, they’re called a mendicant who is a ‘true ascetic’ "
+"and also ‘a true brahmin’.”"
+
+#. </p><p><a class="sc" id="24"></a>
+msgctxt "dn8:30.1"
+msgid "Sākabhakkho cepi, kassapa, hoti, sāmākabhakkho …"
+msgstr ""
+
+msgctxt "dn8:30.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:30.3"
+msgid "vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+msgstr ""
+
+msgctxt "dn8:30.4"
+msgid ""
+"Imāya ca, kassapa, mattāya iminā tapopakkamena sāmaññaṃ vā abhavissa "
+"brahmaññaṃ vā dukkaraṃ sudukkaraṃ, netaṃ abhavissa kallaṃ vacanāya:"
+msgstr ""
+
+msgctxt "dn8:30.5"
+msgid "‘dukkaraṃ sāmaññaṃ dukkaraṃ brahmaññan’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="25"></a>
+msgctxt "dn8:31.1"
+msgid ""
+"Sakkā ca panetaṃ abhavissa kātuṃ gahapatinā vā gahapatiputtena vā antamaso "
+"kumbhadāsiyāpi:"
+msgstr ""
+
+msgctxt "dn8:31.2"
+msgid "‘handāhaṃ sākabhakkho vā homi, sāmākabhakkho vā …"
+msgstr ""
+
+msgctxt "dn8:31.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:31.4"
+msgid "vanamūlaphalāhāro yāpemi pavattaphalabhojī’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="26"></a>
+msgctxt "dn8:32.1"
+msgid ""
+"Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena "
+"sāmaññaṃ vā hoti brahmaññaṃ vā dukkaraṃ sudukkaraṃ, tasmā etaṃ kallaṃ "
+"vacanāya:"
+msgstr ""
+
+msgctxt "dn8:32.2"
+msgid "‘dukkaraṃ sāmaññaṃ dukkaraṃ brahmaññan’ti."
+msgstr ""
+
+msgctxt "dn8:32.3"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+
+msgctxt "dn8:32.4"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+msgstr ""
+
+#. </p><p><a class="sc" id="27"></a>
+msgctxt "dn8:33.1"
+msgid "Sāṇāni cepi, kassapa, dhāreti, masāṇānipi dhāreti …"
+msgstr ""
+
+msgctxt "dn8:33.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:33.3"
+msgid "sāyatatiyakampi udakorohanānuyogamanuyutto viharati."
+msgstr ""
+
+msgctxt "dn8:33.4"
+msgid ""
+"Imāya ca, kassapa, mattāya iminā tapopakkamena sāmaññaṃ vā abhavissa "
+"brahmaññaṃ vā dukkaraṃ sudukkaraṃ, netaṃ abhavissa kallaṃ vacanāya:"
+msgstr ""
+
+msgctxt "dn8:33.5"
+msgid "‘dukkaraṃ sāmaññaṃ dukkaraṃ brahmaññan’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="28"></a>
+msgctxt "dn8:34.1"
+msgid ""
+"Sakkā ca panetaṃ abhavissa kātuṃ gahapatinā vā gahapatiputtena vā antamaso "
+"kumbhadāsiyāpi:"
+msgstr ""
+
+msgctxt "dn8:34.2"
+msgid "‘handāhaṃ sāṇānipi dhāremi, masāṇānipi dhāremi …"
+msgstr ""
+
+msgctxt "dn8:34.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:34.4"
+msgid "sāyatatiyakampi udakorohanānuyogamanuyutto viharāmī’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="29"></a>
+msgctxt "dn8:35.1"
+msgid ""
+"Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena "
+"sāmaññaṃ vā hoti brahmaññaṃ vā dukkaraṃ sudukkaraṃ, tasmā etaṃ kallaṃ "
+"vacanāya:"
+msgstr ""
+
+msgctxt "dn8:35.2"
+msgid "‘dukkaraṃ sāmaññaṃ dukkaraṃ brahmaññan’ti."
+msgstr ""
+
+msgctxt "dn8:35.3"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+
+msgctxt "dn8:35.4"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="30"></a><a class="wp" id="wp17"></a><a class="pts"
+#. id="pts1.170"></a>
+msgctxt "dn8:36.1"
+msgid "Evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca:"
+msgstr "When he had spoken, Kassapa said to the Buddha:"
+
+msgctxt "dn8:36.2"
+msgid "“dujjāno, bho gotama, samaṇo, dujjāno brāhmaṇo”ti."
+msgstr "“It’s hard, Master Gotama, to know a true ascetic or a true brahmin.”"
+
+msgctxt "dn8:36.3"
+msgid "“Pakati kho esā, kassapa, lokasmiṃ ‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+msgstr ""
+"“It’s typical in this world to think that it’s hard to know a true ascetic "
+"or brahmin."
+
+msgctxt "dn8:36.4"
+msgid "Acelako cepi, kassapa, hoti, muttācāro, hatthāpalekhano …"
+msgstr "But someone might practice all those forms of self-mortification."
+
+msgctxt "dn8:36.5"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:36.6"
+msgid ""
+"iti evarūpaṃ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharati."
+msgstr ""
+
+msgctxt "dn8:36.7"
+msgid ""
+"Imāya ca, kassapa, mattāya iminā tapopakkamena samaṇo vā abhavissa brāhmaṇo "
+"vā dujjāno sudujjāno, netaṃ abhavissa kallaṃ vacanāya:"
+msgstr ""
+"And if it was only by just that much, only by that self-mortification that "
+"it was so very hard to know a true ascetic or brahmin, it wouldn’t be "
+"appropriate to say that"
+
+msgctxt "dn8:36.8"
+msgid "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+msgstr "it’s hard to know a true ascetic or brahmin."
+
+#. </p><p><a class="sc" id="31"></a>
+msgctxt "dn8:37.1"
+msgid ""
+"Sakkā ca paneso abhavissa ñātuṃ gahapatinā vā gahapatiputtena vā antamaso "
+"kumbhadāsiyāpi:"
+msgstr ""
+"For it would be quite possible for a householder or a householder’s child—or "
+"even the bonded maid who carries the water-jar—"
+
+msgctxt "dn8:37.2"
+msgid "‘ayaṃ acelako hoti, muttācāro, hatthāpalekhano …"
+msgstr ""
+"to know that someone is practicing all those forms of self-mortification."
+
+msgctxt "dn8:37.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:37.4"
+msgid ""
+"iti evarūpaṃ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto viharatī’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="32"></a>
+msgctxt "dn8:38.1"
+msgid ""
+"Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena "
+"samaṇo vā hoti brāhmaṇo vā dujjāno sudujjāno, tasmā etaṃ kallaṃ vacanāya:"
+msgstr ""
+"It’s because there’s something other than just that much, something other "
+"than that self-mortification that it’s so very hard to know a true ascetic "
+"or brahmin. And that’s why it is appropriate to say that"
+
+msgctxt "dn8:38.2"
+msgid "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+msgstr "it’s hard to know a true ascetic or brahmin."
+
+#. VAR: Yato kho → yato ca kho (bj, mr)
+msgctxt "dn8:38.3"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+"Take a mendicant who develops a heart of love, free of enmity and ill will. "
+"And they realize the undefiled freedom of heart and freedom by wisdom in "
+"this very life, and live having achieved it with their own insight due to "
+"the end of defilements."
+
+msgctxt "dn8:38.4"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+msgstr ""
+"When they achieve this, they’re called a mendicant who is a ‘true ascetic’ "
+"and also ‘a true brahmin’.”"
+
+#. </p><p><a class="sc" id="33"></a>
+msgctxt "dn8:39.1"
+msgid "Sākabhakkho cepi, kassapa, hoti sāmākabhakkho …"
+msgstr ""
+
+msgctxt "dn8:39.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:39.3"
+msgid "vanamūlaphalāhāro yāpeti pavattaphalabhojī."
+msgstr ""
+
+msgctxt "dn8:39.4"
+msgid ""
+"Imāya ca, kassapa, mattāya iminā tapopakkamena samaṇo vā abhavissa brāhmaṇo "
+"vā dujjāno sudujjāno, netaṃ abhavissa kallaṃ vacanāya:"
+msgstr ""
+
+msgctxt "dn8:39.5"
+msgid "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="34"></a>
+msgctxt "dn8:40.1"
+msgid ""
+"Sakkā ca paneso abhavissa ñātuṃ gahapatinā vā gahapatiputtena vā antamaso "
+"kumbhadāsiyāpi:"
+msgstr ""
+
+msgctxt "dn8:40.2"
+msgid "‘ayaṃ sākabhakkho vā hoti sāmākabhakkho …"
+msgstr ""
+
+msgctxt "dn8:40.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:40.4"
+msgid "vanamūlaphalāhāro yāpeti pavattaphalabhojī’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="35"></a><a class="pts" id="pts1.171"></a>
+msgctxt "dn8:41.1"
+msgid ""
+"Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena "
+"samaṇo vā hoti brāhmaṇo vā dujjāno sudujjāno, tasmā etaṃ kallaṃ vacanāya:"
+msgstr ""
+
+msgctxt "dn8:41.2"
+msgid "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+msgstr ""
+
+msgctxt "dn8:41.3"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+
+msgctxt "dn8:41.4"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipi."
+msgstr ""
+
+#. </p><p><a class="sc" id="36"></a>
+msgctxt "dn8:42.1"
+msgid "Sāṇāni cepi, kassapa, dhāreti, masāṇānipi dhāreti …"
+msgstr ""
+
+msgctxt "dn8:42.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:42.3"
+msgid "sāyatatiyakampi udakorohanānuyogamanuyutto viharati."
+msgstr ""
+
+msgctxt "dn8:42.4"
+msgid ""
+"Imāya ca, kassapa, mattāya iminā tapopakkamena samaṇo vā abhavissa brāhmaṇo "
+"vā dujjāno sudujjāno, netaṃ abhavissa kallaṃ vacanāya:"
+msgstr ""
+
+msgctxt "dn8:42.5"
+msgid "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="37"></a>
+msgctxt "dn8:43.1"
+msgid ""
+"Sakkā ca paneso abhavissa ñātuṃ gahapatinā vā gahapatiputtena vā antamaso "
+"kumbhadāsiyāpi:"
+msgstr ""
+
+msgctxt "dn8:43.2"
+msgid "‘ayaṃ sāṇānipi dhāreti, masāṇānipi dhāreti …"
+msgstr ""
+
+msgctxt "dn8:43.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:43.4"
+msgid "sāyatatiyakampi udakorohanānuyogamanuyutto viharatī’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="38"></a>
+msgctxt "dn8:44.1"
+msgid ""
+"Yasmā ca kho, kassapa, aññatreva imāya mattāya aññatra iminā tapopakkamena "
+"samaṇo vā hoti brāhmaṇo vā dujjāno sudujjāno, tasmā etaṃ kallaṃ vacanāya:"
+msgstr ""
+
+msgctxt "dn8:44.2"
+msgid "‘dujjāno samaṇo dujjāno brāhmaṇo’ti."
+msgstr ""
+
+msgctxt "dn8:44.3"
+msgid ""
+"Yato kho, kassapa, bhikkhu averaṃ abyāpajjaṃ mettacittaṃ bhāveti, āsavānañca "
+"khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā "
+"sacchikatvā upasampajja viharati."
+msgstr ""
+
+msgctxt "dn8:44.4"
+msgid "Ayaṃ vuccati, kassapa, bhikkhu samaṇo itipi brāhmaṇo itipī”ti."
+msgstr ""
+
+#. </p><h2>
+msgctxt "dn8:45.1"
+msgid "5. Sīlasamādhipaññāsampadā"
+msgstr "The Accomplishment of Ethics, Immersion, and Wisdom"
+
+#. </h2><p><a class="sc" id="39"></a><a class="wp" id="wp18"></a>
+msgctxt "dn8:46.1"
+msgid "Evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca:"
+msgstr "When he had spoken, Kassapa said to the Buddha:"
+
+msgctxt "dn8:46.2"
+msgid ""
+"“katamā pana sā, bho gotama, sīlasampadā, katamā cittasampadā, katamā "
+"paññāsampadā”ti?"
+msgstr ""
+"“But Master Gotama, what is that accomplishment in ethics, in mind, and in "
+"wisdom?”"
+
+msgctxt "dn8:46.3"
+msgid "“Idha, kassapa, tathāgato loke uppajjati arahaṃ, sammāsambuddho …"
+msgstr ""
+"“It’s when a Realized One arises in the world, perfected, a fully awakened "
+"Buddha …"
+
+msgctxt "dn8:46.4"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:46.5"
+msgid ""
+"bhayadassāvī samādāya sikkhati sikkhāpadesu, kāyakammavacīkammena "
+"samannāgato kusalena parisuddhājīvo sīlasampanno indriyesu guttadvāro "
+"satisampajaññena samannāgato santuṭṭho."
+msgstr ""
+"Seeing danger in the slightest flaw, a mendicant keeps the rules they’ve "
+"undertaken. They act skillfully by body and speech. They’re purified in "
+"livelihood and accomplished in ethical conduct. They guard the sense doors, "
+"have mindfulness and situational awareness, and are content."
+
+#. </p><p><a class="sc" id="40"></a><a class="pts" id="pts1.172"></a>
+msgctxt "dn8:47.1"
+msgid "Kathañca, kassapa, bhikkhu sīlasampanno hoti?"
+msgstr "And how is a mendicant accomplished in ethics?"
+
+msgctxt "dn8:47.2"
+msgid ""
+"Idha, kassapa, bhikkhu pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti "
+"nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī viharati."
+msgstr ""
+"It’s when a mendicant gives up killing living creatures. They renounce "
+"violence and harming. They’re scrupulous and kind, living full of compassion "
+"for all creatures."
+
+msgctxt "dn8:47.3"
+msgid "Idampissa hoti sīlasampadāya …"
+msgstr "This pertains to their accomplishment in ethics. …"
+
+msgctxt "dn8:47.4"
+msgid "pe …"
+msgstr ""
+
+#. </p><p><a class="sc" id="41"></a><a class="wp" id="wp19"></a>
+msgctxt "dn8:48.1"
+msgid ""
+"Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti."
+msgstr ""
+"There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still earn a living by unworthy branches of knowledge, by wrong "
+"livelihood. …"
+
+msgctxt "dn8:48.2"
+msgid "Seyyathidaṃ—"
+msgstr ""
+
+msgctxt "dn8:48.3"
+msgid "santikammaṃ paṇidhikammaṃ …"
+msgstr ""
+
+msgctxt "dn8:48.4"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:48.5"
+msgid ""
+"osadhīnaṃ patimokkho iti vā iti evarūpāya tiracchānavijjāya micchājīvā "
+"paṭivirato hoti."
+msgstr ""
+"They refrain from such unworthy branches of knowledge, such wrong livelihood."
+
+msgctxt "dn8:48.6"
+msgid "Idampissa hoti sīlasampadāya."
+msgstr "This pertains to their accomplishment in ethics. "
+
+#. </p><p><a class="sc" id="42"></a><a class="pts" id="pts1.173"></a>
+#. VAR: Sa kho so → ayaṃ kho (mr)
+msgctxt "dn8:49.1"
+msgid ""
+"Sa kho so, kassapa, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ "
+"samanupassati, yadidaṃ sīlasaṃvarato."
+msgstr ""
+"A mendicant thus accomplished in ethics sees no danger in any quarter in "
+"regards to their ethical restraint."
+
+msgctxt "dn8:49.2"
+msgid ""
+"Seyyathāpi, kassapa, rājā khattiyo muddhāvasitto nihatapaccāmitto na kutoci "
+"bhayaṃ samanupassati, yadidaṃ paccatthikato;"
+msgstr ""
+"It’s like a king who has defeated his enemies. He sees no danger from his "
+"foes in any quarter."
+
+msgctxt "dn8:49.3"
+msgid ""
+"evameva kho, kassapa, bhikkhu evaṃ sīlasampanno na kutoci bhayaṃ "
+"samanupassati, yadidaṃ sīlasaṃvarato."
+msgstr ""
+"In the same way, a mendicant thus accomplished in ethics sees no danger in "
+"any quarter in regards to their ethical restraint."
+
+msgctxt "dn8:49.4"
+msgid ""
+"So iminā ariyena sīlakkhandhena samannāgato ajjhattaṃ anavajjasukhaṃ "
+"paṭisaṃvedeti."
+msgstr ""
+"When they have this entire spectrum of noble ethics, they experience a "
+"blameless happiness inside themselves. "
+
+msgctxt "dn8:49.5"
+msgid "Evaṃ kho, kassapa, bhikkhu sīlasampanno hoti."
+msgstr "That’s how a mendicant is accomplished in ethics."
+
+msgctxt "dn8:49.6"
+msgid "Ayaṃ kho, kassapa, sīlasampadā …"
+msgstr "This, Kassapa, is that accomplishment in ethics. …"
+
+msgctxt "dn8:49.7"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:49.8"
+msgid "paṭhamaṃ jhānaṃ upasampajja viharati."
+msgstr "They enter and remain in the first absorption …"
+
+msgctxt "dn8:49.9"
+msgid "Idampissa hoti cittasampadāya …"
+msgstr "This pertains to their accomplishment in mind. …"
+
+msgctxt "dn8:49.10"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:49.11"
+msgid "dutiyaṃ jhānaṃ …"
+msgstr "They enter and remain in the second absorption …"
+
+msgctxt "dn8:49.12"
+msgid "tatiyaṃ jhānaṃ …"
+msgstr "third absorption …"
+
+msgctxt "dn8:49.13"
+msgid "catutthaṃ jhānaṃ upasampajja viharati."
+msgstr "fourth absorption."
+
+msgctxt "dn8:49.14"
+msgid "Idampissa hoti cittasampadāya."
+msgstr "This pertains to their accomplishment in mind. "
+
+msgctxt "dn8:49.15"
+msgid "Ayaṃ kho, kassapa, cittasampadā."
+msgstr "This, Kassapa, is that accomplishment in mind."
+
+#. </p><p><a class="sc" id="43"></a><a class="wp" id="wp20"></a><a class="pts"
+#. id="pts1.174"></a>
+msgctxt "dn8:50.1"
+msgid "So evaṃ samāhite citte …"
+msgstr "When their mind is immersed like this,"
+
+msgctxt "dn8:50.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:50.3"
+msgid "ñāṇadassanāya cittaṃ abhinīharati abhininnāmeti …"
+msgstr "they extend and project it toward knowledge and vision …"
+
+msgctxt "dn8:50.4"
+msgid "idampissa hoti paññāsampadāya …"
+msgstr "This pertains to their accomplishment in wisdom. …"
+
+msgctxt "dn8:50.5"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:50.6"
+msgid "nāparaṃ itthattāyāti pajānāti."
+msgstr "They understand: ‘… there is no return to any state of existence.’"
+
+msgctxt "dn8:50.7"
+msgid "Idampissa hoti paññāsampadāya."
+msgstr "This pertains to their accomplishment in wisdom."
+
+msgctxt "dn8:50.8"
+msgid "Ayaṃ kho, kassapa, paññāsampadā."
+msgstr "This, Kassapa, is that accomplishment in wisdom."
+
+#. </p><p><a class="sc" id="44"></a>
+msgctxt "dn8:51.1"
+msgid ""
+"Imāya ca, kassapa, sīlasampadāya cittasampadāya paññāsampadāya aññā "
+"sīlasampadā cittasampadā paññāsampadā uttaritarā vā paṇītatarā vā natthi."
+msgstr ""
+"And, Kassapa, there is no accomplishment in ethics, mind, and wisdom that is "
+"better or finer than this."
+
+#. </p><h2>
+msgctxt "dn8:52.1"
+msgid "6. Sīhanādakathā"
+msgstr "The Lion’s Roar"
+
+#. </h2><p><a class="sc" id="45"></a><a class="wp" id="wp21"></a>
+msgctxt "dn8:53.1"
+msgid "Santi, kassapa, eke samaṇabrāhmaṇā sīlavādā."
+msgstr "There are, Kassapa, some ascetics and brahmins who teach ethics."
+
+msgctxt "dn8:53.2"
+msgid "Te anekapariyāyena sīlassa vaṇṇaṃ bhāsanti."
+msgstr "They praise ethical conduct in many ways."
+
+msgctxt "dn8:53.3"
+msgid ""
+"Yāvatā, kassapa, ariyaṃ paramaṃ sīlaṃ, nāhaṃ tattha attano samasamaṃ "
+"samanupassāmi, kuto bhiyyo."
+msgstr ""
+"But as far as the highest noble ethics goes, I don’t see anyone who’s my "
+"equal, still less my superior."
+
+msgctxt "dn8:53.4"
+msgid "Atha kho ahameva tattha bhiyyo, yadidaṃ adhisīlaṃ."
+msgstr ""
+"Rather, I am the one who is superior when it comes to the higher ethics."
+
+#. </p><p><a class="sc" id="46"></a>
+msgctxt "dn8:54.1"
+msgid "Santi, kassapa, eke samaṇabrāhmaṇā tapojigucchāvādā."
+msgstr ""
+"There are, Kassapa, some ascetics and brahmins who teach mortification in "
+"disgust of sin."
+
+msgctxt "dn8:54.2"
+msgid "Te anekapariyāyena tapojigucchāya vaṇṇaṃ bhāsanti."
+msgstr "They praise mortification in disgust of sin in many ways."
+
+msgctxt "dn8:54.3"
+msgid ""
+"Yāvatā, kassapa, ariyā paramā tapojigucchā, nāhaṃ tattha attano samasamaṃ "
+"samanupassāmi, kuto bhiyyo."
+msgstr ""
+"But as far as the highest noble mortification in disgust of sin goes, I don’"
+"t see anyone who’s my equal, still less my superior."
+
+msgctxt "dn8:54.4"
+msgid "Atha kho ahameva tattha bhiyyo, yadidaṃ adhijegucchaṃ."
+msgstr ""
+"Rather, I am the one who is superior when it comes to the higher "
+"mortification in disgust of sin."
+
+#. </p><p><a class="sc" id="47"></a>
+msgctxt "dn8:55.1"
+msgid "Santi, kassapa, eke samaṇabrāhmaṇā paññāvādā."
+msgstr "There are, Kassapa, some ascetics and brahmins who teach wisdom."
+
+msgctxt "dn8:55.2"
+msgid "Te anekapariyāyena paññāya vaṇṇaṃ bhāsanti."
+msgstr "They praise wisdom in many ways."
+
+msgctxt "dn8:55.3"
+msgid ""
+"Yāvatā, kassapa, ariyā paramā paññā, nāhaṃ tattha attano samasamaṃ "
+"samanupassāmi, kuto bhiyyo."
+msgstr ""
+"But as far as the highest noble wisdom goes, I don’t see anyone who’s my "
+"equal, still less my superior."
+
+msgctxt "dn8:55.4"
+msgid "Atha kho ahameva tattha bhiyyo, yadidaṃ adhipaññaṃ."
+msgstr ""
+"Rather, I am the one who is superior when it comes to the higher wisdom."
+
+#. </p><p><a class="sc" id="48"></a>
+msgctxt "dn8:56.1"
+msgid "Santi, kassapa, eke samaṇabrāhmaṇā vimuttivādā."
+msgstr "There are, Kassapa, some ascetics and brahmins who teach freedom."
+
+msgctxt "dn8:56.2"
+msgid "Te anekapariyāyena vimuttiyā vaṇṇaṃ bhāsanti."
+msgstr "They praise freedom in many ways."
+
+msgctxt "dn8:56.3"
+msgid ""
+"Yāvatā, kassapa, ariyā paramā vimutti, nāhaṃ tattha attano samasamaṃ "
+"samanupassāmi, kuto bhiyyo."
+msgstr ""
+"But as far as the highest noble freedom goes, I don’t see anyone who’s my "
+"equal, still less my superior."
+
+msgctxt "dn8:56.4"
+msgid "Atha kho ahameva tattha bhiyyo, yadidaṃ adhivimutti."
+msgstr ""
+"Rather, I am the one who is superior when it comes to the higher freedom."
+
+#. </p><p><a class="sc" id="49"></a><a class="wp" id="wp22"></a><a class="pts"
+#. id="pts1.175"></a>
+msgctxt "dn8:57.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, kassapa, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ "
+"vadeyyuṃ:"
+msgstr "It’s possible that wanderers who follow other paths might say:"
+
+msgctxt "dn8:57.2"
+msgid ""
+"‘sīhanādaṃ kho samaṇo gotamo nadati, tañca kho suññāgāre nadati, no "
+"parisāsū’ti."
+msgstr ""
+"‘The ascetic Gotama only roars his lion’s roar in an empty hut, not in an "
+"assembly.’"
+
+msgctxt "dn8:57.3"
+msgid "Te:"
+msgstr ""
+
+msgctxt "dn8:57.4"
+msgid "‘mā hevan’tissu vacanīyā."
+msgstr "They should be told, ‘Not so!’"
+
+msgctxt "dn8:57.5"
+msgid ""
+"‘Sīhanādañca samaṇo gotamo nadati, parisāsu ca nadatī’ti evamassu, kassapa, "
+"vacanīyā."
+msgstr ""
+"What should be said is this: ‘The ascetic Gotama roars his lion’s roar, and "
+"he roars it in an assembly.’"
+
+#. </p><p><a class="sc" id="50"></a>
+msgctxt "dn8:58.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, kassapa, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ "
+"vadeyyuṃ:"
+msgstr "It’s possible that wanderers who follow other paths might say:"
+
+msgctxt "dn8:58.2"
+msgid ""
+"‘sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, no ca kho visārado "
+"nadatī’ti."
+msgstr ""
+"‘The ascetic Gotama roars his lion’s roar, and he roars it in an assembly. "
+"But he doesn’t roar it boldly.’"
+
+msgctxt "dn8:58.3"
+msgid "Te:"
+msgstr ""
+
+msgctxt "dn8:58.4"
+msgid "‘mā hevan’tissu vacanīyā."
+msgstr "They should be told, ‘Not so!’"
+
+msgctxt "dn8:58.5"
+msgid ""
+"‘Sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, visārado ca nadatī’ti "
+"evamassu, kassapa, vacanīyā."
+msgstr ""
+"What should be said is this: ‘The ascetic Gotama roars his lion’s roar, he "
+"roars it in an assembly, and he roars it boldly.’"
+
+#. </p><p><a class="sc" id="51"></a>
+msgctxt "dn8:59.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, kassapa, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ "
+"vadeyyuṃ:"
+msgstr "It’s possible that wanderers who follow other paths might say:"
+
+msgctxt "dn8:59.2"
+msgid ""
+"‘sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, visārado ca nadati, "
+"no ca kho naṃ pañhaṃ pucchanti …"
+msgstr ""
+"‘The ascetic Gotama roars his lion’s roar, he roars it in an assembly, and "
+"he roars it boldly. But they don’t question him. …"
+
+msgctxt "dn8:59.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:59.4"
+msgid "pañhañca naṃ pucchanti;"
+msgstr ""
+
+msgctxt "dn8:59.5"
+msgid "no ca kho nesaṃ pañhaṃ puṭṭho byākaroti …"
+msgstr "Or he doesn’t answer their questions. …"
+
+msgctxt "dn8:59.6"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:59.7"
+msgid "pañhañca nesaṃ puṭṭho byākaroti;"
+msgstr ""
+
+msgctxt "dn8:59.8"
+msgid "no ca kho pañhassa veyyākaraṇena cittaṃ ārādheti …"
+msgstr "Or his answers are not satisfactory. …"
+
+msgctxt "dn8:59.9"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:59.10"
+msgid "pañhassa ca veyyākaraṇena cittaṃ ārādheti;"
+msgstr ""
+
+msgctxt "dn8:59.11"
+msgid "no ca kho sotabbaṃ maññanti …"
+msgstr "Or they don’t think him worth listening to. …"
+
+msgctxt "dn8:59.12"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:59.13"
+msgid "sotabbañcassa maññanti;"
+msgstr ""
+
+msgctxt "dn8:59.14"
+msgid "no ca kho sutvā pasīdanti …"
+msgstr "Or they’re not confident after listening. …"
+
+msgctxt "dn8:59.15"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:59.16"
+msgid "sutvā cassa pasīdanti;"
+msgstr ""
+
+msgctxt "dn8:59.17"
+msgid "no ca kho pasannākāraṃ karonti …"
+msgstr "Or they don’t show their confidence. …"
+
+msgctxt "dn8:59.18"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:59.19"
+msgid "pasannākārañca karonti;"
+msgstr ""
+
+msgctxt "dn8:59.20"
+msgid "no ca kho tathattāya paṭipajjanti …"
+msgstr "Or they don’t practice accordingly. …"
+
+msgctxt "dn8:59.21"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn8:59.22"
+msgid "tathattāya ca paṭipajjanti;"
+msgstr ""
+
+msgctxt "dn8:59.23"
+msgid "no ca kho paṭipannā ārādhentī’ti."
+msgstr "Or they don’t succeed in their practice.’"
+
+msgctxt "dn8:59.24"
+msgid "Te:"
+msgstr ""
+
+msgctxt "dn8:59.25"
+msgid "‘mā hevan’tissu vacanīyā."
+msgstr "They should be told, ‘Not so!’"
+
+msgctxt "dn8:59.26"
+msgid ""
+"‘Sīhanādañca samaṇo gotamo nadati, parisāsu ca nadati, visārado ca nadati, "
+"pañhañca naṃ pucchanti, pañhañca nesaṃ puṭṭho byākaroti, pañhassa ca "
+"veyyākaraṇena cittaṃ ārādheti, sotabbañcassa maññanti, sutvā cassa "
+"pasīdanti, pasannākārañca karonti, tathattāya ca paṭipajjanti, paṭipannā ca "
+"ārādhentī’ti evamassu, kassapa, vacanīyā."
+msgstr ""
+"What should be said is this: ‘The ascetic Gotama roars his lion’s roar; he "
+"roars it in an assembly; he roars it boldly; they question him; he answers "
+"their questions; his answers are satisfactory; they think him worth "
+"listening to; they’re confident after listening; they show their confidence; "
+"they practice accordingly; and they succeed in their practice.’"
+
+#. </p><h2>
+msgctxt "dn8:60.1"
+msgid "7. Titthiyaparivāsakathā"
+msgstr "The Probation For One Previously Ordained"
+
+#. </h2><p><a class="sc" id="52"></a><a class="wp" id="wp23"></a><a class="pts"
+#. id="pts1.176"></a>
+msgctxt "dn8:61.1"
+msgid "Ekamidāhaṃ, kassapa, samayaṃ rājagahe viharāmi gijjhakūṭe pabbate."
+msgstr ""
+"Kassapa, this one time I was staying near Rājagaha, on the Vulture’s Peak "
+"Mountain."
+
+msgctxt "dn8:61.2"
+msgid ""
+"Tatra maṃ aññataro tapabrahmacārī nigrodho nāma adhijegucche pañhaṃ apucchi."
+msgstr ""
+"There are certain practitioner of self-mortification named Nigrodha asked me "
+"about the higher mortification in disgust of sin."
+
+msgctxt "dn8:61.3"
+msgid "Tassāhaṃ adhijegucche pañhaṃ puṭṭho byākāsiṃ."
+msgstr "I answered his question."
+
+msgctxt "dn8:61.4"
+msgid "Byākate ca pana me attamano ahosi paraṃ viya mattāyā”ti."
+msgstr "He was extremely happy with my answer.”"
+
+msgctxt "dn8:61.5"
+msgid ""
+"“Ko hi, bhante, bhagavato dhammaṃ sutvā na attamano assa paraṃ viya mattāya?"
+msgstr ""
+"“Sir, who wouldn’t be extremely happy after hearing the Buddha’s teaching?"
+
+msgctxt "dn8:61.6"
+msgid "Ahampi hi, bhante, bhagavato dhammaṃ sutvā attamano paraṃ viya mattāya."
+msgstr "For I too am extremely happy after hearing the Buddha’s teaching!"
+
+msgctxt "dn8:61.7"
+msgid "Abhikkantaṃ, bhante, abhikkantaṃ, bhante."
+msgstr "Excellent, sir! Excellent!"
+
+msgctxt "dn8:61.8"
+msgid ""
+"Seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, "
+"mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya:"
+msgstr ""
+"As if he was righting the overturned, or revealing the hidden, or pointing "
+"out the path to the lost, or lighting a lamp in the dark  "
+
+msgctxt "dn8:61.9"
+msgid "‘cakkhumanto rūpāni dakkhantī’ti;"
+msgstr "so people with good eyes can see what’s there,  "
+
+msgctxt "dn8:61.10"
+msgid "evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito."
+msgstr "so too the Buddha has made the teaching clear in many ways. "
+
+msgctxt "dn8:61.11"
+msgid ""
+"Esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi, dhammañca bhikkhusaṅghañca."
+msgstr ""
+"I go for refuge to the Buddha, to the Dharma, and to the mendicant Saṅgha."
+
+msgctxt "dn8:61.12"
+msgid ""
+"Labheyyāhaṃ, bhante, bhagavato santike pabbajjaṃ, labheyyaṃ upasampadan”ti."
+msgstr ""
+"Sir, may I receive the going forth, the ordination in the Buddha’s presence?”"
+
+#. </p><p><a class="sc" id="53"></a><a class="wp" id="wp24"></a>
+msgctxt "dn8:62.1"
+msgid ""
+"“Yo kho, kassapa, aññatitthiyapubbo imasmiṃ dhammavinaye ākaṅkhati "
+"pabbajjaṃ, ākaṅkhati upasampadaṃ, so cattāro māse parivasati, catunnaṃ "
+"māsānaṃ accayena āraddhacittā bhikkhū pabbājenti, upasampādenti "
+"bhikkhubhāvāya."
+msgstr ""
+"“Kassapa, if someone formerly ordained in another sect wishes to take the "
+"going forth, the ordination in this teaching and training, they must spend "
+"four months on probation. When four months have passed, if the mendicants "
+"are satisfied, they’ll give the going forth, the ordination into monkhood."
+
+msgctxt "dn8:62.2"
+msgid "Api ca mettha puggalavemattatā viditā”ti."
+msgstr "However, I have recognized individual differences in this matter.”"
+
+msgctxt "dn8:62.3"
+msgid ""
+"“Sace, bhante, aññatitthiyapubbā imasmiṃ dhammavinaye ākaṅkhanti pabbajjaṃ, "
+"ākaṅkhanti upasampadaṃ, cattāro māse parivasanti, catunnaṃ māsānaṃ accayena "
+"āraddhacittā bhikkhū pabbājenti, upasampādenti bhikkhubhāvāya."
+msgstr ""
+"“Sir, if four months probation are required in such a case, I’ll spend four "
+"years on probation. When four years have passed, if the mendicants are "
+"satisfied, let them give me the going forth, the ordination into monkhood.”"
+
+#, fuzzy
+msgctxt "dn8:62.4"
+msgid ""
+"Ahaṃ cattāri vassāni parivasissāmi, catunnaṃ vassānaṃ accayena āraddhacittā "
+"bhikkhū pabbājentu, upasampādentu bhikkhubhāvāyā”ti."
+msgstr " "
+
+#. </p><p><a class="sc" id="54"></a><a class="pts" id="pts1.177"></a>
+msgctxt "dn8:63.1"
+msgid ""
+"Alattha kho acelo kassapo bhagavato santike pabbajjaṃ, alattha upasampadaṃ."
+msgstr ""
+"And the naked ascetic Kassapa received the going forth, the ordination in "
+"the Buddha’s presence."
+
+msgctxt "dn8:63.2"
+msgid ""
+"Acirūpasampanno kho panāyasmā kassapo eko vūpakaṭṭho appamatto ātāpī "
+"pahitatto viharanto na cirasseva—"
+msgstr ""
+"Not long after his ordination, Venerable Kassapa, living alone, withdrawn, "
+"diligent, keen, and determined, soon "
+
+msgctxt "dn8:63.3"
+msgid ""
+"yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—"
+msgstr ""
+"realized the supreme end of the spiritual path in this very life. He lived "
+"having achieved with his own insight the goal for which people from good "
+"families rightly go forth from the lay life to homelessness.   "
+
+msgctxt "dn8:63.4"
+msgid ""
+"brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
+"upasampajja vihāsi."
+msgstr ""
+
+msgctxt "dn8:63.5"
+msgid ""
+"“Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti "
+"abbhaññāsi."
+msgstr ""
+"He understood: “Rebirth is ended; the spiritual life has been lived; what "
+"had to be done has been done; there is no return to any state of existence.” "
+
+msgctxt "dn8:63.6"
+msgid "Aññataro kho panāyasmā kassapo arahataṃ ahosīti."
+msgstr "And Venerable Kassapa became one of the perfected."
+
+#. </p><p class="endsutta">
+msgctxt "dn8:64.1"
+msgid "Mahāsīhanādasuttaṃ niṭṭhitaṃ aṭṭhamaṃ."
+msgstr ""

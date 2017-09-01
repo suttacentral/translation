@@ -1,0 +1,3170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 08:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Pootle-Path: /en/dn/dn32.po\n"
+"X-Pootle-Revision: 177712\n"
+
+#. <html><head><meta charset="utf8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="dn32"><article><div class="hgroup"><p
+#. class="division">
+msgctxt "dn32:1.1"
+msgid "Dīgha Nikāya 32"
+msgstr "Long Discourses 32"
+
+#. </p><h1>
+msgctxt "dn32:2.1"
+msgid "Āṭānāṭiyasutta"
+msgstr "The Āṭānāṭiya Protection"
+
+# i believe this is only place in whole canon that lists the bhanavara at the start.
+#. </h1></div><h2>
+msgctxt "dn32:3.1"
+msgid "1. Paṭhamabhāṇavāra"
+msgstr "The First Recitation Section"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts" id="pts3.194"></a>
+msgctxt "dn32:4.1"
+msgid "<span class=\"evam\">Evaṃ me sutaṃ—​</span>"
+msgstr "<span class=”evam”>So I have heard.</span>"
+
+msgctxt "dn32:4.2"
+msgid "ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate."
+msgstr ""
+"At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak "
+"Mountain."
+
+#. VAR: gijjhakūṭaṃ pabbataṃ obhāsetvā → gijjhakūṭaṃ obhāsetvā (bj, s1-3, pts1)
+#. VAR: mahārājā → mahārājāno (mr)
+msgctxt "dn32:4.3"
+msgid ""
+"Atha kho cattāro mahārājā mahatiyā ca yakkhasenāya mahatiyā ca "
+"gandhabbasenāya mahatiyā ca kumbhaṇḍasenāya mahatiyā ca nāgasenāya "
+"catuddisaṃ rakkhaṃ ṭhapetvā catuddisaṃ gumbaṃ ṭhapetvā catuddisaṃ ovaraṇaṃ "
+"ṭhapetvā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ gijjhakūṭaṃ "
+"pabbataṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu;"
+msgstr ""
+"Then, late at night, the Four Great Kings—with large armies of spirits, "
+"fairies, goblins, and dragons—set guards, troops, and wards at the four "
+"quarters and then, lighting up the entire Vulture’s Peak with their beauty, "
+"went up to the Buddha,"
+
+msgctxt "dn32:4.4"
+msgid "upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu."
+msgstr "bowed, and sat down to one side."
+
+msgctxt "dn32:4.5"
+msgid ""
+"Tepi kho yakkhā appekacce bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu, "
+"appekacce bhagavatā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ "
+"vītisāretvā ekamantaṃ nisīdiṃsu, appekacce yena bhagavā tenañjaliṃ paṇāmetvā "
+"ekamantaṃ nisīdiṃsu, appekacce nāmagottaṃ sāvetvā ekamantaṃ nisīdiṃsu, "
+"appekacce tuṇhībhūtā ekamantaṃ nisīdiṃsu."
+msgstr ""
+"Before sitting down to one side, some spirits bowed, some exchanged "
+"greetings and polite conversation, some held up their cupped palms toward "
+"the Buddha, some announced their name and clan, while some kept silent."
+
+#. </p><p><a class="sc" id="2"></a><a class="pts" id="pts3.195"></a>
+msgctxt "dn32:5.1"
+msgid "Ekamantaṃ nisinno kho vessavaṇo mahārājā bhagavantaṃ etadavoca:"
+msgstr "Seated to one side, the Great King Vessavaṇa said to the Buddha:"
+
+msgctxt "dn32:5.2"
+msgid "“santi hi, bhante, uḷārā yakkhā bhagavato appasannā."
+msgstr "“Sir, some high spirits have confidence in the Buddha,"
+
+msgctxt "dn32:5.3"
+msgid "Santi hi, bhante, uḷārā yakkhā bhagavato pasannā."
+msgstr "some do not."
+
+msgctxt "dn32:5.4"
+msgid "Santi hi, bhante, majjhimā yakkhā bhagavato appasannā."
+msgstr "Some middling spirits have confidence in the Buddha,"
+
+msgctxt "dn32:5.5"
+msgid "Santi hi, bhante, majjhimā yakkhā bhagavato pasannā."
+msgstr "some do not."
+
+msgctxt "dn32:5.6"
+msgid "Santi hi, bhante, nīcā yakkhā bhagavato appasannā."
+msgstr "Some low spirits have confidence in the Buddha,"
+
+msgctxt "dn32:5.7"
+msgid "Santi hi, bhante, nīcā yakkhā bhagavato pasannā."
+msgstr "some do not."
+
+msgctxt "dn32:5.8"
+msgid "Yebhuyyena kho pana, bhante, yakkhā appasannāyeva bhagavato."
+msgstr "But mostly the spirits don’t have confidence in the Buddha."
+
+msgctxt "dn32:5.9"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn32:5.10"
+msgid ""
+"Bhagavā hi, bhante, pāṇātipātā veramaṇiyā dhammaṃ deseti, adinnādānā "
+"veramaṇiyā dhammaṃ deseti, kāmesumicchācārā veramaṇiyā dhammaṃ deseti, "
+"musāvādā veramaṇiyā dhammaṃ deseti, surāmerayamajjappamādaṭṭhānā veramaṇiyā "
+"dhammaṃ deseti."
+msgstr ""
+"Because the Buddha teaches them to refrain from killing living creatures, "
+"stealing, lying, sexual misconduct, and drinking alcohol."
+
+msgctxt "dn32:5.11"
+msgid ""
+"Yebhuyyena kho pana, bhante, yakkhā appaṭiviratāyeva pāṇātipātā, "
+"appaṭiviratā adinnādānā, appaṭiviratā kāmesumicchācārā, appaṭiviratā "
+"musāvādā, appaṭiviratā surāmerayamajjappamādaṭṭhānā."
+msgstr "But mostly they don’t refrain from such things."
+
+msgctxt "dn32:5.12"
+msgid "Tesaṃ taṃ hoti appiyaṃ amanāpaṃ."
+msgstr "They don’t like that or approve of it."
+
+msgctxt "dn32:5.13"
+msgid ""
+"Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni "
+"paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni "
+"paṭisallānasāruppāni."
+msgstr ""
+"Sir, there are disciples of the Buddha who frequent remote lodgings in the "
+"wilderness and the forest that are quiet and still, far from the madding "
+"crowd, remote from human settlements, and appropriate for retreat."
+
+msgctxt "dn32:5.14"
+msgid ""
+"Tattha santi uḷārā yakkhā nivāsino, ye imasmiṃ bhagavato pāvacane appasannā."
+msgstr ""
+"There dwell high spirits who have no confidence in the Buddha’s dispensation."
+
+msgctxt "dn32:5.15"
+msgid ""
+"Tesaṃ pasādāya uggaṇhātu, bhante, bhagavā āṭānāṭiyaṃ rakkhaṃ bhikkhūnaṃ "
+"bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya "
+"phāsuvihārāyā”ti."
+msgstr ""
+"To give them confidence, may the Buddha please learn the Āṭānāṭiya "
+"protection for the guarding, protection, safety, and comfort of the monks, "
+"nuns, laymen, and laywomen.”"
+
+msgctxt "dn32:5.16"
+msgid "Adhivāsesi bhagavā tuṇhībhāvena."
+msgstr "The Buddha consented in silence. "
+
+#. </p><p><a class="sc" id="3"></a>
+msgctxt "dn32:6.1"
+msgid ""
+"Atha kho vessavaṇo mahārājā bhagavato adhivāsanaṃ viditvā tāyaṃ velāyaṃ imaṃ "
+"āṭānāṭiyaṃ rakkhaṃ abhāsi:"
+msgstr ""
+"Then, knowing that the Buddha had consented, on that occasion Great King "
+"Vessavaṇa recited the Āṭānāṭiya protection."
+
+# These verses lean heavily on the translation by Anandajoti, http://www.ancient-buddhist-texts.net/Texts-and-Translations/Safeguard/03-Tatiyakabhanavaram.htm
+#. </p><blockquote class="gatha"><p><a class="sc" id="4"></a>
+#. VAR: ca → cakāro bj, s1-3, pts1 potthakesu
+msgctxt "dn32:7.1"
+msgid "“Vipassissa ca namatthu,"
+msgstr "“Hail Vipassī,"
+
+#. <br>
+msgctxt "dn32:7.2"
+msgid "cakkhumantassa sirīmato;"
+msgstr "the glorious seer!"
+
+#. <br>
+msgctxt "dn32:7.3"
+msgid "Sikhissapi ca namatthu,"
+msgstr "Hail Sikhī,"
+
+#. <br>
+msgctxt "dn32:7.4"
+msgid "sabbabhūtānukampino."
+msgstr "compassionate for all beings!"
+
+#. </p><p><a class="sc" id="5"></a><a class="pts" id="pts3.196"></a>
+#. VAR: ca → cakāro bj, s1-3, pts1 potthakesu
+msgctxt "dn32:8.1"
+msgid "Vessabhussa ca namatthu,"
+msgstr "Hail Vesabhū,"
+
+#. <br>
+msgctxt "dn32:8.2"
+msgid "nhātakassa tapassino;"
+msgstr "cleansed and austere!"
+
+#. <br>
+msgctxt "dn32:8.3"
+msgid "Namatthu kakusandhassa,"
+msgstr "Hail Kakusandha,"
+
+#. <br>
+msgctxt "dn32:8.4"
+msgid "mārasenāpamaddino."
+msgstr "crusher of Māra’s army!"
+
+#. </p><p><a class="sc" id="6"></a>
+msgctxt "dn32:9.1"
+msgid "Koṇāgamanassa namatthu,"
+msgstr "Hail Koṇāgamana,"
+
+#. <br>
+msgctxt "dn32:9.2"
+msgid "brāhmaṇassa vusīmato;"
+msgstr "the accomplished brahmin!"
+
+#. <br>
+#. VAR: ca → cakāro bj, s1-3, pts1 potthakesu
+msgctxt "dn32:9.3"
+msgid "Kassapassa ca namatthu,"
+msgstr "Hail Kassapa,"
+
+#. <br>
+msgctxt "dn32:9.4"
+msgid "vippamuttassa sabbadhi."
+msgstr "freed in every way!"
+
+#. </p><p><a class="sc" id="7"></a>
+msgctxt "dn32:10.1"
+msgid "Aṅgīrasassa namatthu,"
+msgstr "Hail Aṅgīrasa,"
+
+#. <br>
+msgctxt "dn32:10.2"
+msgid "sakyaputtassa sirīmato;"
+msgstr "the glorious Sakyan!"
+
+#. <br>
+#. VAR: dhammaṃ desesi → dhammamadesesi (bj, s1-3, pts1) | dhammaṃ deseti (?)
+msgctxt "dn32:10.3"
+msgid "Yo imaṃ dhammaṃ desesi,"
+msgstr "He taught this Dhamma"
+
+#. <br>
+msgctxt "dn32:10.4"
+msgid "sabbadukkhāpanūdanaṃ."
+msgstr "that dispels all suffering."
+
+#. </p><p><a class="sc" id="8"></a>
+msgctxt "dn32:11.1"
+msgid "Ye cāpi nibbutā loke,"
+msgstr "Those in the world who are extinguished,"
+
+#. <br>
+msgctxt "dn32:11.2"
+msgid "yathābhūtaṃ vipassisuṃ;"
+msgstr "truly discerning,"
+
+#. <br>
+#. VAR: apisuṇātha → apisuṇā (bj, s1-3) | apisunā (pts1)
+msgctxt "dn32:11.3"
+msgid "Te janā apisuṇātha,"
+msgstr "not backbiters; such people"
+
+#. <br>
+msgctxt "dn32:11.4"
+msgid "mahantā vītasāradā."
+msgstr "being great of heart and rid of naivety,"
+
+#. </p><p><a class="sc" id="9"></a>
+msgctxt "dn32:12.1"
+msgid "Hitaṃ devamanussānaṃ,"
+msgstr "revere that Gotama;"
+
+#. <br>
+msgctxt "dn32:12.2"
+msgid "yaṃ namassanti gotamaṃ;"
+msgstr "he who is helpful to gods and humans,"
+
+#. <br>
+msgctxt "dn32:12.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr "accomplished in knowledge and conduct,"
+
+#. <br>
+msgctxt "dn32:12.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr "great of heart and rid of naivety."
+
+#. </p><p><a class="sc" id="10"></a>
+#. VAR: sūriyo → suriyo (bj, s1-3, pts1)
+msgctxt "dn32:13.1"
+msgid "Yato uggacchati sūriyo,"
+msgstr "Where rises the sun—"
+
+#. <br>
+msgctxt "dn32:13.2"
+msgid "ādicco maṇḍalī mahā;"
+msgstr "Aditi’s child, the great circle,"
+
+#. <br>
+msgctxt "dn32:13.3"
+msgid "Yassa cuggacchamānassa,"
+msgstr "who in his rising"
+
+#. <br>
+msgctxt "dn32:13.4"
+msgid "saṃvarīpi nirujjhati;"
+msgstr "dispels the night,"
+
+#. <br>
+msgctxt "dn32:13.5"
+msgid "Yassa cuggate sūriye,"
+msgstr "and of whom, when sun has risen,"
+
+#. <br>
+msgctxt "dn32:13.6"
+msgid "<span class=\"squo\">‘</span> divaso’ti pavuccati."
+msgstr "it’s said to be the day—"
+
+#. </p><p><a class="sc" id="11"></a>
+msgctxt "dn32:14.1"
+msgid "Rahadopi tattha gambhīro,"
+msgstr "there is a deep lake"
+
+#. <br>
+msgctxt "dn32:14.2"
+msgid "samuddo saritodako;"
+msgstr "an ocean, where water flows."
+
+#. <br>
+msgctxt "dn32:14.3"
+msgid "Evaṃ taṃ tattha jānanti,"
+msgstr "So they know that in that place"
+
+#. <br>
+msgctxt "dn32:14.4"
+msgid "<span class=\"squo\">‘</span> samuddo saritodako’."
+msgstr "there is an ocean where waters flow."
+
+#. </p><p><a class="sc" id="12"></a><a class="pts" id="pts3.197"></a>
+msgctxt "dn32:15.1"
+msgid "Ito ‘sā purimā disā’,"
+msgstr "From here that is the eastern quarter,"
+
+#. <br>
+msgctxt "dn32:15.2"
+msgid "iti naṃ ācikkhatī jano;"
+msgstr "so the people say."
+
+#. <br>
+msgctxt "dn32:15.3"
+msgid "Yaṃ disaṃ abhipāleti,"
+msgstr "That quarter is warded "
+
+#. <br>
+msgctxt "dn32:15.4"
+msgid "mahārājā yasassi so."
+msgstr "by a great king, glorious,"
+
+#. </p><p><a class="sc" id="13"></a>
+#. VAR: adhipati → ādhipati (bj, s1-3, pts1)
+msgctxt "dn32:16.1"
+msgid "Gandhabbānaṃ adhipati,"
+msgstr "the lord of the fairies;"
+
+#. <br>
+msgctxt "dn32:16.2"
+msgid "<span class=\"squo\"> ‘</span> dhataraṭṭho’ti nāmaso;"
+msgstr "his name is Dhataraṭṭha."
+
+#. <br>
+msgctxt "dn32:16.3"
+msgid "Ramatī naccagītehi,"
+msgstr "He delights in song and dance,"
+
+#. <br>
+msgctxt "dn32:16.4"
+msgid "gandhabbehi purakkhato."
+msgstr "esteemed by the fairies."
+
+#. </p><p><a class="sc" id="14"></a>
+msgctxt "dn32:17.1"
+msgid "Puttāpi tassa bahavo,"
+msgstr "And he has many mighty sons"
+
+#. <br>
+msgctxt "dn32:17.2"
+msgid "ekanāmāti me sutaṃ;"
+msgstr "all of one name, so I’ve heard."
+
+#. <br>
+msgctxt "dn32:17.3"
+msgid "Asīti dasa eko ca,"
+msgstr "Eighty, and ten, and one—"
+
+#. <br>
+msgctxt "dn32:17.4"
+msgid "indanāmā mahabbalā."
+msgstr "all of them named Inda."
+
+#. </p><p><a class="sc" id="15"></a>
+msgctxt "dn32:18.1"
+msgid "Te cāpi buddhaṃ disvāna,"
+msgstr "After seeing the Awakened One,"
+
+#. <br>
+msgctxt "dn32:18.2"
+msgid "buddhaṃ ādiccabandhunaṃ;"
+msgstr "the Buddha, Kinsman of the Sun,"
+
+#. <br>
+msgctxt "dn32:18.3"
+msgid "Dūratova namassanti,"
+msgstr "they revere him from afar,"
+
+#. <br>
+msgctxt "dn32:18.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr "the one great of heart and rid of naivety."
+
+#. </p><p><a class="sc" id="16"></a>
+msgctxt "dn32:19.1"
+msgid "Namo te purisājañña,"
+msgstr "Homage to you, O thoroughbred! "
+
+#. <br>
+msgctxt "dn32:19.2"
+msgid "namo te purisuttama;"
+msgstr "Homage to you, O highest of persons!"
+
+# Comm: Kusalena samekkhasīti anavajjena nipuṇena vā sabbaññutaññāṇena mahājanaṃ olokesi. I think this line is harking back to the problem the yakkhas have; they think the Buddha is judging and condemning them. By "kusala" here i understand that he sees them both "clearly", as in he recognizes their misdeeds, and "kindly" in the sense that rather than condemning them he shows them skillfull and kindly how to be better.
+#. <br>
+msgctxt "dn32:19.3"
+msgid "Kusalena samekkhasi,"
+msgstr "You’ve seen us with clarity and kindness."
+
+#. <br>
+msgctxt "dn32:19.4"
+msgid "amanussāpi taṃ vandanti;"
+msgstr "The non-humans bow to you."
+
+#. <br>
+msgctxt "dn32:19.5"
+msgid "Sutaṃ netaṃ abhiṇhaso,"
+msgstr "We’ve been asked many a time,"
+
+#. <br>
+msgctxt "dn32:19.6"
+msgid "tasmā evaṃ vademase."
+msgstr "‘Do you bow to Gotama the victor?’"
+
+#. </p><p><a class="sc" id="17"></a>
+msgctxt "dn32:20.1"
+msgid "‘Jinaṃ vandatha gotamaṃ’,"
+msgstr "And so we ought to declare:"
+
+#. <br>
+msgctxt "dn32:20.2"
+msgid "<span class=\"squo\"> ‘</span> jinaṃ vandāma gotamaṃ;"
+msgstr "‘We bow to Gotama the victor,"
+
+#. <br>
+msgctxt "dn32:20.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr "accomplished in knowledge and conduct!"
+
+#. <br>
+msgctxt "dn32:20.4"
+msgid "buddhaṃ vandāma gotamaṃ’."
+msgstr "We bow to Gotama the awakened!’"
+
+#. </p><p><a class="sc" id="18"></a>
+msgctxt "dn32:21.1"
+msgid "Yena petā pavuccanti,"
+msgstr "It’s where the departed go, they say,"
+
+#. <br>
+msgctxt "dn32:21.2"
+msgid "pisuṇā piṭṭhimaṃsikā;"
+msgstr "who are dividers and backbiters,"
+
+#. <br>
+#. VAR: luddā → luddhā (pts1, mr)
+msgctxt "dn32:21.3"
+msgid "Pāṇātipātino luddā,"
+msgstr "killers and hunters,"
+
+#. <br>
+msgctxt "dn32:21.4"
+msgid "corā nekatikā janā."
+msgstr "bandits and frauds."
+
+#. </p><p><a class="sc" id="19"></a><a class="pts" id="pts3.198"></a>
+msgctxt "dn32:22.1"
+msgid "Ito ‘sā dakkhiṇā disā’,"
+msgstr "From here that is the southern quarter,"
+
+#. <br>
+msgctxt "dn32:22.2"
+msgid "iti naṃ ācikkhatī jano;"
+msgstr "so the people say."
+
+#. <br>
+msgctxt "dn32:22.3"
+msgid "Yaṃ disaṃ abhipāleti,"
+msgstr "That quarter is warded "
+
+#. <br>
+msgctxt "dn32:22.4"
+msgid "mahārājā yasassi so."
+msgstr "by a great king, glorious,"
+
+#. </p><p><a class="sc" id="20"></a>
+msgctxt "dn32:23.1"
+msgid "Kumbhaṇḍānaṃ adhipati,"
+msgstr "the lord of the goblins;"
+
+#. <br>
+msgctxt "dn32:23.2"
+msgid "<span class=\"squo\"> ‘</span> virūḷho’ iti nāmaso;"
+msgstr "his name is Virūḷha."
+
+#. <br>
+msgctxt "dn32:23.3"
+msgid "Ramatī naccagītehi,"
+msgstr "He delights in song and dance,"
+
+#. <br>
+msgctxt "dn32:23.4"
+msgid "kumbhaṇḍehi purakkhato."
+msgstr "esteemed by the goblins."
+
+#. </p><p><a class="sc" id="21"></a>
+msgctxt "dn32:24.1"
+msgid "Puttāpi tassa bahavo,"
+msgstr "And he has many mighty sons"
+
+#. <br>
+msgctxt "dn32:24.2"
+msgid "ekanāmāti me sutaṃ;"
+msgstr "all of one name, so I’ve heard."
+
+#. <br>
+msgctxt "dn32:24.3"
+msgid "Asīti dasa eko ca,"
+msgstr "Eighty, and ten, and one—"
+
+#. <br>
+msgctxt "dn32:24.4"
+msgid "indanāmā mahabbalā."
+msgstr "all of them named Inda."
+
+#. </p><p><a class="sc" id="22"></a>
+msgctxt "dn32:25.1"
+msgid "Te cāpi buddhaṃ disvāna,"
+msgstr "After seeing the Awakened One,"
+
+#. <br>
+msgctxt "dn32:25.2"
+msgid "buddhaṃ ādiccabandhunaṃ;"
+msgstr "the Buddha, Kinsman of the Sun,"
+
+#. <br>
+msgctxt "dn32:25.3"
+msgid "Dūratova namassanti,"
+msgstr "they revere him from afar,"
+
+#. <br>
+msgctxt "dn32:25.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr "the one great of heart and rid of naivety."
+
+#. </p><p><a class="sc" id="23"></a>
+msgctxt "dn32:26.1"
+msgid "Namo te purisājañña,"
+msgstr "‘Homage to you, O thoroughbred! "
+
+#. <br>
+msgctxt "dn32:26.2"
+msgid "namo te purisuttama;"
+msgstr "Homage to you, O highest of persons!"
+
+#. <br>
+msgctxt "dn32:26.3"
+msgid "Kusalena samekkhasi,"
+msgstr "You’ve seen us with clarity and kindness."
+
+#. <br>
+msgctxt "dn32:26.4"
+msgid "amanussāpi taṃ vandanti;"
+msgstr "The non-humans bow to you."
+
+#. <br>
+msgctxt "dn32:26.5"
+msgid "Sutaṃ netaṃ abhiṇhaso,"
+msgstr "We’ve been asked many a time,"
+
+#. <br>
+msgctxt "dn32:26.6"
+msgid "tasmā evaṃ vademase."
+msgstr "‘Do you bow to Gotama the victor?’"
+
+#. </p><p><a class="sc" id="24"></a>
+msgctxt "dn32:27.1"
+msgid "‘Jinaṃ vandatha gotamaṃ’,"
+msgstr "And so we ought to declare:"
+
+#. <br>
+msgctxt "dn32:27.2"
+msgid "<span class=\"squo\"> ‘</span> jinaṃ vandāma gotamaṃ;"
+msgstr "‘We bow to Gotama the victor,"
+
+#. <br>
+msgctxt "dn32:27.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr "accomplished in knowledge and conduct!"
+
+#. <br>
+msgctxt "dn32:27.4"
+msgid "buddhaṃ vandāma gotamaṃ’."
+msgstr "We bow to Gotama the awakened!’"
+
+#. </p><p><a class="sc" id="25"></a>
+msgctxt "dn32:28.1"
+msgid "Yattha coggacchati sūriyo,"
+msgstr "Where sets the sun—"
+
+#. <br>
+msgctxt "dn32:28.2"
+msgid "ādicco maṇḍalī mahā;"
+msgstr "Aditi’s child, the great circle,"
+
+#. <br>
+msgctxt "dn32:28.3"
+msgid "Yassa coggacchamānassa,"
+msgstr "who in his setting"
+
+#. <br>
+msgctxt "dn32:28.4"
+msgid "divasopi nirujjhati;"
+msgstr "closes the day,"
+
+#. <br>
+msgctxt "dn32:28.5"
+msgid "Yassa coggate sūriye,"
+msgstr "and of whom, when sun has set,"
+
+#. <br>
+msgctxt "dn32:28.6"
+msgid "<span class=\"squo\">‘</span> saṃvarī’ti pavuccati."
+msgstr "it’s said to be the night—"
+
+#. </p><p><a class="sc" id="26"></a>
+msgctxt "dn32:29.1"
+msgid "Rahadopi tattha gambhīro,"
+msgstr "there is a deep lake"
+
+#. <br>
+msgctxt "dn32:29.2"
+msgid "samuddo saritodako;"
+msgstr "an ocean, where water flows."
+
+#. <br>
+msgctxt "dn32:29.3"
+msgid "Evaṃ taṃ tattha jānanti,"
+msgstr "So they know that in that place"
+
+#. <br>
+msgctxt "dn32:29.4"
+msgid "<span class=\"squo\">‘</span> samuddo saritodako’."
+msgstr "there is an ocean where waters flow."
+
+#. </p><p><a class="sc" id="27"></a><a class="pts" id="pts3.199"></a>
+msgctxt "dn32:30.1"
+msgid "Ito ‘sā pacchimā disā’,"
+msgstr "From here that is the western quarter,"
+
+#. <br>
+msgctxt "dn32:30.2"
+msgid "iti naṃ ācikkhatī jano;"
+msgstr "so the people say."
+
+#. <br>
+msgctxt "dn32:30.3"
+msgid "Yaṃ disaṃ abhipāleti,"
+msgstr "That quarter is warded "
+
+#. <br>
+msgctxt "dn32:30.4"
+msgid "mahārājā yasassi so."
+msgstr "by a great king, glorious,"
+
+#. </p><p><a class="sc" id="28"></a>
+msgctxt "dn32:31.1"
+msgid "Nāgānañca adhipati,"
+msgstr "the lord of the dragons;"
+
+#. <br>
+msgctxt "dn32:31.2"
+msgid "<span class=\"squo\"> ‘</span> virūpakkho’ti nāmaso;"
+msgstr "his name is Virūpakkha."
+
+#. <br>
+msgctxt "dn32:31.3"
+msgid "Ramatī naccagītehi,"
+msgstr "He delights in song and dance,"
+
+#. <br>
+msgctxt "dn32:31.4"
+msgid "nāgeheva purakkhato."
+msgstr "esteemed by the dragons."
+
+#. </p><p><a class="sc" id="29"></a>
+msgctxt "dn32:32.1"
+msgid "Puttāpi tassa bahavo,"
+msgstr "And he has many mighty sons"
+
+#. <br>
+msgctxt "dn32:32.2"
+msgid "ekanāmāti me sutaṃ;"
+msgstr "all of one name, so I’ve heard."
+
+#. <br>
+msgctxt "dn32:32.3"
+msgid "Asīti dasa eko ca,"
+msgstr "Eighty, and ten, and one—"
+
+#. <br>
+msgctxt "dn32:32.4"
+msgid "indanāmā mahabbalā."
+msgstr "all of them named Inda."
+
+#. </p><p><a class="sc" id="30"></a>
+msgctxt "dn32:33.1"
+msgid "Te cāpi buddhaṃ disvāna,"
+msgstr "After seeing the Awakened One,"
+
+#. <br>
+msgctxt "dn32:33.2"
+msgid "buddhaṃ ādiccabandhunaṃ;"
+msgstr "the Buddha, Kinsman of the Sun,"
+
+#. <br>
+msgctxt "dn32:33.3"
+msgid "Dūratova namassanti,"
+msgstr "they revere him from afar,"
+
+#. <br>
+msgctxt "dn32:33.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr "the one great of heart and rid of naivety."
+
+#. </p><p><a class="sc" id="31"></a>
+msgctxt "dn32:34.1"
+msgid "Namo te purisājañña,"
+msgstr "‘Homage to you, O thoroughbred! "
+
+#. <br>
+msgctxt "dn32:34.2"
+msgid "namo te purisuttama;"
+msgstr "Homage to you, O highest of persons!"
+
+#. <br>
+msgctxt "dn32:34.3"
+msgid "Kusalena samekkhasi,"
+msgstr "You’ve seen us with clarity and kindness."
+
+#. <br>
+msgctxt "dn32:34.4"
+msgid "amanussāpi taṃ vandanti;"
+msgstr "The non-humans bow to you."
+
+#. <br>
+msgctxt "dn32:34.5"
+msgid "Sutaṃ netaṃ abhiṇhaso,"
+msgstr "We’ve been asked many a time,"
+
+#. <br>
+msgctxt "dn32:34.6"
+msgid "tasmā evaṃ vademase."
+msgstr "‘Do you bow to Gotama the victor?’"
+
+#. </p><p><a class="sc" id="32"></a>
+msgctxt "dn32:35.1"
+msgid "‘Jinaṃ vandatha gotamaṃ’,"
+msgstr "And so we ought to declare:"
+
+#. <br>
+msgctxt "dn32:35.2"
+msgid "<span class=\"squo\"> ‘</span> jinaṃ vandāma gotamaṃ;"
+msgstr "‘We bow to Gotama the victor,"
+
+#. <br>
+msgctxt "dn32:35.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr "accomplished in knowledge and conduct!"
+
+#. <br>
+msgctxt "dn32:35.4"
+msgid "buddhaṃ vandāma gotamaṃ’."
+msgstr "We bow to Gotama the awakened!’"
+
+#. </p><p><a class="sc" id="33"></a>
+#. VAR: uttarakuruvho → uttarakurū rammā (bj, s1-3, pts1)
+msgctxt "dn32:36.1"
+msgid "Yena uttarakuruvho,"
+msgstr "Where lovely Uttarakuru is,"
+
+#. <br>
+msgctxt "dn32:36.2"
+msgid "mahāneru sudassano;"
+msgstr "and the beautiful Mount Meru,"
+
+#. <br>
+msgctxt "dn32:36.3"
+msgid "Manussā tattha jāyanti,"
+msgstr "humans born there"
+
+#. <br>
+msgctxt "dn32:36.4"
+msgid "amamā apariggahā."
+msgstr "are unselfish, not possessive."
+
+#. </p><p><a class="sc" id="34"></a>
+msgctxt "dn32:37.1"
+msgid "Na te bījaṃ pavapanti,"
+msgstr "They do not sow the seed,"
+
+#. <br>
+msgctxt "dn32:37.2"
+msgid "napi nīyanti naṅgalā;"
+msgstr "nor do they draw the plough."
+
+#. <br>
+msgctxt "dn32:37.3"
+msgid "Akaṭṭhapākimaṃ sāliṃ,"
+msgstr "The rice eaten by people"
+
+#. <br>
+msgctxt "dn32:37.4"
+msgid "paribhuñjanti mānusā."
+msgstr "ripens in untilled soil,"
+
+#. </p><p><a class="sc" id="35"></a><a class="pts" id="pts3.200"></a>
+msgctxt "dn32:38.1"
+msgid "Akaṇaṃ athusaṃ suddhaṃ,"
+msgstr "free of powder or husk, pure, "
+
+#. <br>
+msgctxt "dn32:38.2"
+msgid "sugandhaṃ taṇḍulapphalaṃ;"
+msgstr "fragrant, with only the rice-grain."
+
+#. <br>
+msgctxt "dn32:38.3"
+msgid "Tuṇḍikīre pacitvāna,"
+msgstr "They eat that food"
+
+# This is a literal rendering of "Tuṇḍikīre". Comm says "Tattha kira jotikapāsāṇā nāma honti" the kira indicating their uncertainty. MW suggests a relation with tandoori; but, while that is indeed an ancient word, it seems the root is to "mud", so unlikely here. It's possible, though, that the commentary, familiar with some variant on tandoori, took that as the explanation. Presumably it was a pot that looked like a parrot's beak, or perhaps which cracked the rice like a parrot. But given the context we should not discount the possibility that it was meant literally. It would hardly be the most fantastic tale told of foreign lands.
+#. <br>
+msgctxt "dn32:38.4"
+msgid "tato bhuñjanti bhojanaṃ."
+msgstr "after cooking it in a ‘parrot’s beak’."
+
+# Cloven and uncloven was an important classification of animals in the dharmasastras, etc.
+#. </p><p><a class="sc" id="36"></a>
+msgctxt "dn32:39.1"
+msgid "Gāviṃ ekakhuraṃ katvā,"
+msgstr "Having prepared a cow with hooves uncloven,"
+
+#. <br>
+msgctxt "dn32:39.2"
+msgid "anuyanti disodisaṃ;"
+msgstr "they’re drawn about from place to place."
+
+#. <br>
+msgctxt "dn32:39.3"
+msgid "Pasuṃ ekakhuraṃ katvā,"
+msgstr "Having prepared a beast with hooves uncloven,"
+
+#. <br>
+msgctxt "dn32:39.4"
+msgid "anuyanti disodisaṃ."
+msgstr "they’re drawn about from place to place."
+
+# I think and hope this means a rickshaw, not piggyback!
+#. </p><p><a class="sc" id="37"></a>
+#. VAR: Itthiṃ vā vāhanaṃ → itthī-vāhanaṃ (bj, pts1) | itthiṃ vāhanaṃ (s1-3)
+msgctxt "dn32:40.1"
+msgid "Itthiṃ vā vāhanaṃ katvā,"
+msgstr "Having prepared a woman-drawn carriage,"
+
+#. <br>
+msgctxt "dn32:40.2"
+msgid "anuyanti disodisaṃ;"
+msgstr "they’re drawn about from place to place."
+
+#. <br>
+msgctxt "dn32:40.3"
+msgid "Purisaṃ vāhanaṃ katvā,"
+msgstr "Having prepared a man-drawn carriage,"
+
+#. <br>
+msgctxt "dn32:40.4"
+msgid "anuyanti disodisaṃ."
+msgstr "they’re drawn about from place to place."
+
+#. </p><p><a class="sc" id="38"></a>
+msgctxt "dn32:41.1"
+msgid "Kumāriṃ vāhanaṃ katvā,"
+msgstr "Having prepared a girl-drawn carriage,"
+
+#. <br>
+msgctxt "dn32:41.2"
+msgid "anuyanti disodisaṃ;"
+msgstr "they’re drawn about from place to place."
+
+#. <br>
+msgctxt "dn32:41.3"
+msgid "Kumāraṃ vāhanaṃ katvā,"
+msgstr "Having prepared a boy-drawn carriage,"
+
+#. <br>
+msgctxt "dn32:41.4"
+msgid "anuyanti disodisaṃ."
+msgstr "they’re drawn about from place to place."
+
+#. </p><p><a class="sc" id="39"></a>
+msgctxt "dn32:42.1"
+msgid "Te yāne abhiruhitvā,"
+msgstr "Having ascended their vehicle,"
+
+#. <br>
+#. VAR: anupariyāyanti → anupariyanti (bj, s1-3, pts1)
+msgctxt "dn32:42.2"
+msgid "Sabbā disā anupariyāyanti;"
+msgstr "that king’s servants "
+
+#. <br>
+msgctxt "dn32:42.3"
+msgid "Pacārā tassa rājino."
+msgstr "tour about in every quarter,"
+
+#. </p><p><a class="sc" id="40"></a>
+msgctxt "dn32:43.1"
+msgid "Hatthiyānaṃ assayānaṃ,"
+msgstr "provided with vehicles"
+
+#. <br>
+msgctxt "dn32:43.2"
+msgid "dibbaṃ yānaṃ upaṭṭhitaṃ;"
+msgstr "elephant, horse, and divine."
+
+#. <br>
+msgctxt "dn32:43.3"
+msgid "Pāsādā sivikā ceva,"
+msgstr "And there are mansions and palanquins"
+
+#. <br>
+msgctxt "dn32:43.4"
+msgid "mahārājassa yasassino."
+msgstr "for that great and glorious king."
+
+#. </p><p><a class="sc" id="41"></a>
+msgctxt "dn32:44.1"
+msgid "Tassa ca nagarā ahu,"
+msgstr "And he has cities, too,"
+
+#. <br>
+msgctxt "dn32:44.2"
+msgid "Antalikkhe sumāpitā;"
+msgstr "well-built in the sky:"
+
+#. <br>
+msgctxt "dn32:44.3"
+msgid "Āṭānāṭā kusināṭā parakusināṭā,"
+msgstr "Āṭānāṭā, Kusināṭā, Parakusināṭā,"
+
+#. <br>
+#. VAR: Nāṭasuriyā → nāṭapuriyā (bj, pts1) | nāṭapariyā (s1-3)
+msgctxt "dn32:44.4"
+msgid "Nāṭasuriyā parakusiṭanāṭā."
+msgstr "Nāṭasuriyā, and Parakusiṭanāṭā."
+
+#. </p><p><a class="sc" id="42"></a><a class="pts" id="pts3.201"></a>
+#. VAR: kasivanto → kapivanto (bj) | kapīvanto (s1-3, pts1)
+msgctxt "dn32:45.1"
+msgid "Uttarena kasivanto,"
+msgstr "To the north is Kapīvanta,"
+
+#. <br>
+msgctxt "dn32:45.2"
+msgid "Janoghamaparena ca;"
+msgstr "and Jonogha lies beyond."
+
+#. <br>
+msgctxt "dn32:45.3"
+msgid "Navanavutiyo ambaraambaravatiyo,"
+msgstr "And there’s Navanavutiya, Ambara-ambaravatiya,"
+
+#. <br>
+msgctxt "dn32:45.4"
+msgid "Āḷakamandā nāma rājadhānī."
+msgstr "and the royal captial named Āḷakamandā."
+
+#. </p><p><a class="sc" id="43"></a>
+msgctxt "dn32:46.1"
+msgid "Kuverassa kho pana mārisa,"
+msgstr "The Great King Kureva, dear sir,"
+
+#. <br>
+msgctxt "dn32:46.2"
+msgid "Mahārājassa visāṇā nāma rājadhānī;"
+msgstr "has a capital named Visāṇā,"
+
+#. <br>
+msgctxt "dn32:46.3"
+msgid "Tasmā kuvero mahārājā,"
+msgstr "which is why the great king"
+
+#. <br>
+msgctxt "dn32:46.4"
+msgid "<span class=\"squo\">‘</span> Vessavaṇo’ti pavuccati."
+msgstr "is called ‘Vessavaṇa’."
+
+#. </p><p><a class="sc" id="44"></a>
+msgctxt "dn32:47.1"
+msgid "Paccesanto pakāsenti,"
+msgstr "These each individually inform the King:"
+
+#. <br>
+msgctxt "dn32:47.2"
+msgid "Tatolā tattalā tatotalā;"
+msgstr "Tatolā, Tattalā, Tatotalā,"
+
+#. <br>
+msgctxt "dn32:47.3"
+msgid "Ojasi tejasi tatojasī,"
+msgstr "Ojasi, Tejasi, Tatojasi,"
+
+#. <br>
+msgctxt "dn32:47.4"
+msgid "Sūro rājā ariṭṭho nemi."
+msgstr "Sūra, Rājā, Ariṭṭha, and Nemi."
+
+#. </p><p><a class="sc" id="45"></a>
+msgctxt "dn32:48.1"
+msgid "Rahadopi tattha dharaṇī nāma,"
+msgstr "There is a lake there too named Dharaṇī,"
+
+#. <br>
+msgctxt "dn32:48.2"
+msgid "Yato meghā pavassanti;"
+msgstr "from whence the clouds rain down,"
+
+#. <br>
+msgctxt "dn32:48.3"
+msgid "Vassā yato patāyanti,"
+msgstr "and the rains disperse."
+
+#. <br>
+#. VAR: sālavatī → bhagalavatī (bj, s1-3) | bhagalavati (pts1)
+msgctxt "dn32:48.4"
+msgid "Sabhāpi tattha sālavatī nāma."
+msgstr "There is a hall there too named Bhagalavatī,"
+
+#. </p><p><a class="sc" id="46"></a>
+msgctxt "dn32:49.1"
+msgid "Yattha yakkhā payirupāsanti,"
+msgstr "where the spirits frequent."
+
+#. <br>
+msgctxt "dn32:49.2"
+msgid "Tattha niccaphalā rukkhā;"
+msgstr "There the trees are ever in fruit,"
+
+#. <br>
+msgctxt "dn32:49.3"
+msgid "Nānā dijagaṇā yutā,"
+msgstr "with many different flocks of birds."
+
+#. <br>
+msgctxt "dn32:49.4"
+msgid "Mayūrakoñcābhirudā;"
+msgstr "Peacocks and herons call out there,"
+
+#. <br>
+msgctxt "dn32:49.5"
+msgid "Kokilādīhi vagguhi."
+msgstr "and the sweet cuckoos too."
+
+#. </p><p><a class="sc" id="47"></a><a class="pts" id="pts3.202"></a>
+msgctxt "dn32:50.1"
+msgid "Jīvañjīvakasaddettha,"
+msgstr "One bird cries out ‘Live, live!’,"
+
+#. <br>
+msgctxt "dn32:50.2"
+msgid "atho oṭṭhavacittakā;"
+msgstr "another ‘Lift up your heart!’"
+
+#. <br>
+#. VAR: Kukkuṭakā → kukutthakā (bj, pts1)
+msgctxt "dn32:50.3"
+msgid "Kukkuṭakā kuḷīrakā,"
+msgstr "There’s cocks and kookaburras,"
+
+#. <br>
+msgctxt "dn32:50.4"
+msgid "vane pokkharasātakā."
+msgstr "and in the wood the lotus-crane."
+
+#. </p><p><a class="sc" id="48"></a>
+msgctxt "dn32:51.1"
+msgid "Sukasāḷikasaddettha,"
+msgstr "The parrots and mynah cry out there,"
+
+#. <br>
+msgctxt "dn32:51.2"
+msgid "daṇḍamāṇavakāni ca;"
+msgstr "and the ‘little stick-boy’ birds."
+
+#. <br>
+msgctxt "dn32:51.3"
+msgid "Sobhati sabbakālaṃ sā,"
+msgstr "Kuvera’s pond of rushes"
+
+#. <br>
+msgctxt "dn32:51.4"
+msgid "kuveranaḷinī sadā."
+msgstr "is lovely all the time."
+
+#. </p><p><a class="sc" id="49"></a>
+msgctxt "dn32:52.1"
+msgid "Ito ‘sā uttarā disā’,"
+msgstr "From here that is the northen quarter,"
+
+#. <br>
+msgctxt "dn32:52.2"
+msgid "iti naṃ ācikkhatī jano;"
+msgstr "so the people say."
+
+#. <br>
+msgctxt "dn32:52.3"
+msgid "Yaṃ disaṃ abhipāleti,"
+msgstr "That quarter is warded "
+
+#. <br>
+msgctxt "dn32:52.4"
+msgid "mahārājā yasassi so."
+msgstr "by a great king, glorious,"
+
+#. </p><p><a class="sc" id="50"></a>
+msgctxt "dn32:53.1"
+msgid "Yakkhānañca adhipati,"
+msgstr "the lord of spirits;"
+
+#. <br>
+msgctxt "dn32:53.2"
+msgid "<span class=\"squo\"> ‘</span> kuvero’ iti nāmaso;"
+msgstr "his name is ‘Kuvera’."
+
+#. <br>
+msgctxt "dn32:53.3"
+msgid "Ramatī naccagītehi,"
+msgstr "He delights in song and dance,"
+
+#. <br>
+msgctxt "dn32:53.4"
+msgid "yakkheheva purakkhato."
+msgstr "esteemed by the spirits."
+
+#. </p><p><a class="sc" id="51"></a>
+msgctxt "dn32:54.1"
+msgid "Puttāpi tassa bahavo,"
+msgstr "And he has many mighty sons"
+
+#. <br>
+msgctxt "dn32:54.2"
+msgid "ekanāmāti me sutaṃ;"
+msgstr "all of one name, so I’ve heard."
+
+#. <br>
+msgctxt "dn32:54.3"
+msgid "Asīti dasa eko ca,"
+msgstr "Eighty, and ten, and one—"
+
+#. <br>
+msgctxt "dn32:54.4"
+msgid "indanāmā mahabbalā."
+msgstr "all of them named Inda."
+
+#. </p><p><a class="sc" id="52"></a>
+msgctxt "dn32:55.1"
+msgid "Te cāpi buddhaṃ disvāna,"
+msgstr "After seeing the Awakened One,"
+
+#. <br>
+msgctxt "dn32:55.2"
+msgid "buddhaṃ ādiccabandhunaṃ;"
+msgstr "the Buddha, Kinsman of the Sun,"
+
+#. <br>
+msgctxt "dn32:55.3"
+msgid "Dūratova namassanti,"
+msgstr "they revere him from afar,"
+
+#. <br>
+msgctxt "dn32:55.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr "the one great of heart and rid of naivety."
+
+#. </p><p><a class="sc" id="53"></a>
+msgctxt "dn32:56.1"
+msgid "Namo te purisājañña,"
+msgstr "‘Homage to you, O thoroughbred! "
+
+#. <br>
+msgctxt "dn32:56.2"
+msgid "namo te purisuttama;"
+msgstr "Homage to you, O highest of persons!"
+
+#. <br>
+msgctxt "dn32:56.3"
+msgid "Kusalena samekkhasi,"
+msgstr "You’ve seen us with clarity and kindness."
+
+#. <br>
+msgctxt "dn32:56.4"
+msgid "amanussāpi taṃ vandanti;"
+msgstr "The non-humans bow to you."
+
+#. <br>
+msgctxt "dn32:56.5"
+msgid "Sutaṃ netaṃ abhiṇhaso,"
+msgstr "We’ve been asked many a time,"
+
+#. <br>
+msgctxt "dn32:56.6"
+msgid "tasmā evaṃ vademase."
+msgstr "‘Do you bow to Gotama the victor?’"
+
+#. </p><p><a class="sc" id="54"></a>
+msgctxt "dn32:57.1"
+msgid "‘Jinaṃ vandatha gotamaṃ’,"
+msgstr "And so we ought to declare:"
+
+#. <br>
+msgctxt "dn32:57.2"
+msgid "<span class=\"squo\"> ‘</span> jinaṃ vandāma gotamaṃ;"
+msgstr "‘We bow to Gotama the victor,"
+
+#. <br>
+msgctxt "dn32:57.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr "accomplished in knowledge and conduct!"
+
+#. <br>
+msgctxt "dn32:57.4"
+msgid "buddhaṃ vandāma gotaman’ti."
+msgstr "We bow to Gotama the awakened!’”"
+
+#. </p></blockquote><p><a class="sc" id="55"></a><a class="pts"
+#. id="pts3.203"></a>
+msgctxt "dn32:58.1"
+msgid ""
+"Ayaṃ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ "
+"upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāya."
+msgstr ""
+"This, dear sir, is the Āṭānāṭiya protection for the guarding, protection, "
+"safety, and comfort of the monks, nuns, laymen, and laywomen."
+
+#. </p><p><a class="sc" id="56"></a>
+#. VAR: pariyāputā → pariyāpuṭā (mr)
+msgctxt "dn32:59.1"
+msgid ""
+"Yassa kassaci, mārisa, bhikkhussa vā bhikkhuniyā vā upāsakassa vā upāsikāya "
+"vā ayaṃ āṭānāṭiyā rakkhā suggahitā bhavissati samattā pariyāputā."
+msgstr ""
+"The monks, nuns, laymen, and laywomen should learn this Āṭānāṭiya protection "
+"well and completely memorize it."
+
+msgctxt "dn32:59.2"
+msgid ""
+"Tañce amanusso yakkho vā yakkhinī vā yakkhapotako vā yakkhapotikā vā "
+"yakkhamahāmatto vā yakkhapārisajjo vā yakkhapacāro vā, gandhabbo vā "
+"gandhabbī vā gandhabbapotako vā gandhabbapotikā vā gandhabbamahāmatto vā "
+"gandhabbapārisajjo vā gandhabbapacāro vā, kumbhaṇḍo vā kumbhaṇḍī vā "
+"kumbhaṇḍapotako vā kumbhaṇḍapotikā vā kumbhaṇḍamahāmatto vā "
+"kumbhaṇḍapārisajjo vā kumbhaṇḍapacāro vā, nāgo vā nāgī vā nāgapotako vā "
+"nāgapotikā vā nāgamahāmatto vā nāgapārisajjo vā nāgapacāro vā, paduṭṭhacitto "
+"bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā upāsikaṃ vā gacchantaṃ vā "
+"anugaccheyya, ṭhitaṃ vā upatiṭṭheyya, nisinnaṃ vā upanisīdeyya, nipannaṃ vā "
+"upanipajjeyya."
+msgstr ""
+"If anyone who does so is approached while walking, standing, sitting, or "
+"lying down by any non-human being with malicious intent—including males, "
+"females, boys, girls, ministers, counselors, and servants among the spirits, "
+"fairies, goblins, and dragons—"
+
+msgctxt "dn32:59.3"
+msgid ""
+"Na me so, mārisa, amanusso labheyya gāmesu vā nigamesu vā sakkāraṃ vā "
+"garukāraṃ vā."
+msgstr ""
+"that non-human will receive no homage or respect in any village or town."
+
+msgctxt "dn32:59.4"
+msgid ""
+"Na me so, mārisa, amanusso labheyya āḷakamandāya nāma rājadhāniyā vatthuṃ vā "
+"vāsaṃ vā."
+msgstr ""
+"And they will receive no ground or dwelling in my capital of Ālakamandā."
+
+msgctxt "dn32:59.5"
+msgid "Na me so, mārisa, amanusso labheyya yakkhānaṃ samitiṃ gantuṃ."
+msgstr "Nor will they get to go to the conference of the spirits."
+
+msgctxt "dn32:59.6"
+msgid "Apissu naṃ, mārisa, amanussā anāvayhampi naṃ kareyyuṃ avivayhaṃ."
+msgstr "In addition, the non-humans would not give or take them in marriage."
+
+msgctxt "dn32:59.7"
+msgid ""
+"Apissu naṃ, mārisa, amanussā attāhipi paripuṇṇāhi paribhāsāhi paribhāseyyuṃ."
+msgstr "They’d heap personal abuse on them,"
+
+msgctxt "dn32:59.8"
+msgid "Apissu naṃ, mārisa, amanussā rittampissa pattaṃ sīse nikkujjeyyuṃ."
+msgstr "drop an empty bowl on their head,"
+
+msgctxt "dn32:59.9"
+msgid "Apissu naṃ, mārisa, amanussā sattadhāpissa muddhaṃ phāleyyuṃ."
+msgstr "and even split their head into seven pieces!"
+
+#. </p><p><a class="sc" id="57"></a><a class="pts" id="pts3.204"></a>
+#. VAR: ruddhā → ruddā (bj, pts1)
+msgctxt "dn32:60.1"
+msgid ""
+"Santi hi, mārisa, amanussā caṇḍā ruddhā rabhasā, te neva mahārājānaṃ "
+"ādiyanti, na mahārājānaṃ purisakānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ "
+"purisakānaṃ ādiyanti."
+msgstr ""
+"For there are, dear sir, non-humans who are fierce, cruel, and violent. They "
+"don’t obey the Great Kings or their men or their men’s men."
+
+msgctxt "dn32:60.2"
+msgid "Te kho te, mārisa, amanussā mahārājānaṃ avaruddhā nāma vuccanti."
+msgstr "They’re said to be rebelling against the Great Kings."
+
+msgctxt "dn32:60.3"
+msgid "Seyyathāpi, mārisa, rañño māgadhassa vijite mahācorā."
+msgstr "They’re just like the bandits in the king of Magadha’s realm"
+
+msgctxt "dn32:60.4"
+msgid ""
+"Te neva rañño māgadhassa ādiyanti, na rañño māgadhassa purisakānaṃ ādiyanti, "
+"na rañño māgadhassa purisakānaṃ purisakānaṃ ādiyanti."
+msgstr "who don’t obey the king, his men, or his men’s men,"
+
+msgctxt "dn32:60.5"
+msgid "Te kho te, mārisa, mahācorā rañño māgadhassa avaruddhā nāma vuccanti."
+msgstr "and are said to be rebelling against the king."
+
+msgctxt "dn32:60.6"
+msgid ""
+"Evameva kho, mārisa, santi amanussā caṇḍā ruddhā rabhasā, te neva "
+"mahārājānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ ādiyanti, na mahārājānaṃ "
+"purisakānaṃ purisakānaṃ ādiyanti."
+msgstr ""
+
+msgctxt "dn32:60.7"
+msgid "Te kho te, mārisa, amanussā mahārājānaṃ avaruddhā nāma vuccanti."
+msgstr ""
+
+msgctxt "dn32:60.8"
+msgid "Yo hi koci, mārisa, amanusso yakkho vā yakkhinī vā …"
+msgstr ""
+"If any non-human being with malicious intent—including males, females, boys, "
+"girls, ministers, counselors, and servants among the spirits, fairies, "
+"goblins, and dragons—"
+
+msgctxt "dn32:60.9"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:60.10"
+msgid "gandhabbo vā gandhabbī vā …"
+msgstr ""
+
+msgctxt "dn32:60.11"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:60.12"
+msgid "kumbhaṇḍo vā kumbhaṇḍī vā …"
+msgstr ""
+
+msgctxt "dn32:60.13"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:60.14"
+msgid ""
+"nāgo vā nāgī vā nāgapotako vā nāgapotikā vā nāgamahāmatto vā nāgapārisajjo "
+"vā nāgapacāro vā paduṭṭhacitto bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā "
+"upāsikaṃ vā gacchantaṃ vā anugaccheyya, ṭhitaṃ vā upatiṭṭheyya, nisinnaṃ vā "
+"upanisīdeyya, nipannaṃ vā upanipajjeyya."
+msgstr ""
+"approaches a monk, nun, layman or laywoman while walking, standing, sitting, "
+"or lying down,"
+
+msgctxt "dn32:60.15"
+msgid ""
+"Imesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ ujjhāpetabbaṃ "
+"vikkanditabbaṃ viravitabbaṃ:"
+msgstr ""
+"one ought to yell, cry, and scream to the spirits, great spirits, generals, "
+"great generals:"
+
+msgctxt "dn32:60.16"
+msgid ""
+"‘ayaṃ yakkho gaṇhāti, ayaṃ yakkho āvisati, ayaṃ yakkho heṭheti, ayaṃ yakkho "
+"viheṭheti, ayaṃ yakkho hiṃsati, ayaṃ yakkho vihiṃsati, ayaṃ yakkho na "
+"muñcatī’ti."
+msgstr ""
+"‘This spirit’s got me! This spirit’s entered me! This spirit’s annoying me! "
+"This spirit’s harassing me! This spirit’s hurting me! This spirit’s harming "
+"me! This spirit won’t let me go!’"
+
+#. </p><p><a class="sc" id="58"></a>
+msgctxt "dn32:61.1"
+msgid "Katamesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ?"
+msgstr "To what spirits, great spirits, generals, great generals?"
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="59"></a>
+msgctxt "dn32:62.1"
+msgid "Indo somo varuṇo ca,"
+msgstr "‘Inda, Soma, and Varuṇa,"
+
+#. <br>
+msgctxt "dn32:62.2"
+msgid "bhāradvājo pajāpati;"
+msgstr "Bhāradvāja, Pajāpati,"
+
+#. <br>
+msgctxt "dn32:62.3"
+msgid "Candano kāmaseṭṭho ca,"
+msgstr "Candana and Kāmaseṭṭha,"
+
+#. <br>
+msgctxt "dn32:62.4"
+msgid "kinnughaṇḍu nighaṇḍu ca."
+msgstr "Kinnughaṇḍu and Nighaṇḍu,"
+
+#. </p><p><a class="sc" id="60"></a>
+msgctxt "dn32:63.1"
+msgid "Panādo opamañño ca,"
+msgstr "Panāda and Opamañña,"
+
+#. <br>
+msgctxt "dn32:63.2"
+msgid "devasūto ca mātali;"
+msgstr "and Mātali, the god’s charioteer."
+
+#. <br>
+msgctxt "dn32:63.3"
+msgid "Cittaseno ca gandhabbo,"
+msgstr "Cittasena the fairy,"
+
+#. <br>
+#. VAR: janesabho → janosabho (s1-3)
+msgctxt "dn32:63.4"
+msgid "naḷo rājā janesabho."
+msgstr "and the kings Nala and Janesabha,"
+
+#. </p><p><a class="sc" id="61"></a><a class="pts" id="pts3.205"></a>
+msgctxt "dn32:64.1"
+msgid "Sātāgiro hemavato,"
+msgstr "Sātāgira, Hemavata,"
+
+#. <br>
+msgctxt "dn32:64.2"
+msgid "puṇṇako karatiyo guḷo;"
+msgstr "Puṇṇaka, Karatiya, and Guḷa;"
+
+#. <br>
+msgctxt "dn32:64.3"
+msgid "Sivako mucalindo ca,"
+msgstr "Sivaka and Mucalinda,"
+
+#. <br>
+msgctxt "dn32:64.4"
+msgid "vessāmitto yugandharo."
+msgstr "Vessāmitta, Yugandhara,"
+
+#. </p><p><a class="sc" id="62"></a>
+#. VAR: supparodho ca → suppagedho ca (bj, s1-3, pts1)
+msgctxt "dn32:65.1"
+msgid "Gopālo supparodho ca,"
+msgstr "Gopāla, Supparodha,"
+
+#. <br>
+msgctxt "dn32:65.2"
+msgid "Hiri netti ca mandiyo;"
+msgstr "Hiri, Netti, and Mandiya;"
+
+#. <br>
+msgctxt "dn32:65.3"
+msgid "Pañcālacaṇḍo āḷavako,"
+msgstr "Pañcālacaṇḍa, Āḷavaka,"
+
+#. <br>
+#. VAR: Pajjunno → pajjanno (bj) | pajuṇṇo (s1-3)
+msgctxt "dn32:65.4"
+msgid "Pajjunno sumano sumukho;"
+msgstr "Pajjunna, Sumana, Sumukha,"
+
+#. <br>
+#. VAR: maṇi māṇivaro → maṇi mānicaro (s1-3, pts1)
+msgctxt "dn32:65.5"
+msgid "Dadhimukho maṇi māṇivaro dīgho,"
+msgstr "Dadhimukha, Maṇi, Māṇivara, Dīgha,"
+
+#. <br>
+#. VAR: serīsako → serissako (bj, pts1)
+msgctxt "dn32:65.6"
+msgid "Atho serīsako saha."
+msgstr "together with Serīsaka.’"
+
+#. </p></blockquote><p><a class="sc" id="63"></a>
+msgctxt "dn32:66.1"
+msgid ""
+"Imesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ ujjhāpetabbaṃ "
+"vikkanditabbaṃ viravitabbaṃ:"
+msgstr ""
+
+msgctxt "dn32:66.2"
+msgid ""
+"‘ayaṃ yakkho gaṇhāti, ayaṃ yakkho āvisati, ayaṃ yakkho heṭheti, ayaṃ yakkho "
+"viheṭheti, ayaṃ yakkho hiṃsati, ayaṃ yakkho vihiṃsati, ayaṃ yakkho na "
+"muñcatī’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="64"></a>
+msgctxt "dn32:67.1"
+msgid ""
+"Ayaṃ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ "
+"upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāya."
+msgstr ""
+"This, dear sir, is the Āṭānāṭiya protection for the guarding, protection, "
+"safety, and comfort of the monks, nuns, laymen, and laywomen."
+
+msgctxt "dn32:67.2"
+msgid "Handa ca dāni mayaṃ, mārisa, gacchāma bahukiccā mayaṃ bahukaraṇīyā”ti."
+msgstr "Well, now, dear sir, I must go. I have many duties, and much to do.”"
+
+msgctxt "dn32:67.3"
+msgid "“Yassadāni tumhe, mahārājāno, kālaṃ maññathā”ti."
+msgstr "“Please, Great Kings, go when you’re ready.”"
+
+#. </p><p><a class="sc" id="65"></a><a class="pts" id="pts3.206"></a>
+msgctxt "dn32:68.1"
+msgid ""
+"Atha kho cattāro mahārājā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ "
+"katvā tatthevantaradhāyiṃsu."
+msgstr ""
+"Then the four Great Kings got up from their seats, bowed, and respectfully "
+"circled the Buddha, keeping him on his right side, before vanishing right "
+"there."
+
+msgctxt "dn32:68.2"
+msgid ""
+"Tepi kho yakkhā uṭṭhāyāsanā appekacce bhagavantaṃ abhivādetvā padakkhiṇaṃ "
+"katvā tatthevantaradhāyiṃsu."
+msgstr ""
+"And before the other spirits present vanished, some bowed and respectfully "
+"circled the Buddha, keeping him on his right side, some exchanged greetings "
+"and polite conversation, some held up their cupped palms toward the Buddha, "
+"some announced their name and clan, while some kept silent."
+
+#, fuzzy
+msgctxt "dn32:68.3"
+msgid ""
+"Appekacce bhagavatā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ "
+"vītisāretvā tatthevantaradhāyiṃsu."
+msgstr " "
+
+msgctxt "dn32:68.4"
+msgid "Appekacce yena bhagavā tenañjaliṃ paṇāmetvā tatthevantaradhāyiṃsu."
+msgstr ""
+
+msgctxt "dn32:68.5"
+msgid "Appekacce nāmagottaṃ sāvetvā tatthevantaradhāyiṃsu."
+msgstr ""
+
+msgctxt "dn32:68.6"
+msgid "Appekacce tuṇhībhūtā tatthevantaradhāyiṃsūti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "dn32:69.1"
+msgid "Paṭhamabhāṇavāro niṭṭhito."
+msgstr "The first recitation section is finished."
+
+#. </p><h2>
+msgctxt "dn32:70.1"
+msgid "2. Dutiyabhāṇavāra"
+msgstr "The Second Recitation Section"
+
+#. </h2><p><a class="sc" id="66"></a>
+msgctxt "dn32:71.1"
+msgid "Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi:"
+msgstr ""
+"Then, when the night had passed, the Buddha told the mendicants all that had "
+"happened, repeating all the verses spoken. Then he added:"
+
+msgctxt "dn32:71.2"
+msgid ""
+"“imaṃ, bhikkhave, rattiṃ cattāro mahārājā mahatiyā ca yakkhasenāya mahatiyā "
+"ca gandhabbasenāya mahatiyā ca kumbhaṇḍasenāya mahatiyā ca nāgasenāya "
+"catuddisaṃ rakkhaṃ ṭhapetvā catuddisaṃ gumbaṃ ṭhapetvā catuddisaṃ ovaraṇaṃ "
+"ṭhapetvā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ gijjhakūṭaṃ "
+"pabbataṃ obhāsetvā yenāhaṃ tenupasaṅkamiṃsu;"
+msgstr ""
+
+msgctxt "dn32:71.3"
+msgid "upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdiṃsu."
+msgstr ""
+
+msgctxt "dn32:71.4"
+msgid ""
+"Tepi kho, bhikkhave, yakkhā appekacce maṃ abhivādetvā ekamantaṃ nisīdiṃsu."
+msgstr ""
+
+msgctxt "dn32:71.5"
+msgid ""
+"Appekacce mayā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā "
+"ekamantaṃ nisīdiṃsu."
+msgstr ""
+
+msgctxt "dn32:71.6"
+msgid "Appekacce yenāhaṃ tenañjaliṃ paṇāmetvā ekamantaṃ nisīdiṃsu."
+msgstr ""
+
+msgctxt "dn32:71.7"
+msgid "Appekacce nāmagottaṃ sāvetvā ekamantaṃ nisīdiṃsu."
+msgstr ""
+
+msgctxt "dn32:71.8"
+msgid "Appekacce tuṇhībhūtā ekamantaṃ nisīdiṃsu."
+msgstr ""
+
+#. </p><p><a class="sc" id="67"></a>
+msgctxt "dn32:72.1"
+msgid "Ekamantaṃ nisinno kho, bhikkhave, vessavaṇo mahārājā maṃ etadavoca:"
+msgstr ""
+
+msgctxt "dn32:72.2"
+msgid "‘santi hi, bhante, uḷārā yakkhā bhagavato appasannā …"
+msgstr ""
+
+msgctxt "dn32:72.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:72.4"
+msgid "santi hi, bhante, nīcā yakkhā bhagavato pasannā."
+msgstr ""
+
+msgctxt "dn32:72.5"
+msgid "Yebhuyyena kho pana, bhante, yakkhā appasannāyeva bhagavato."
+msgstr ""
+
+msgctxt "dn32:72.6"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "dn32:72.7"
+msgid "Bhagavā hi, bhante, pāṇātipātā veramaṇiyā dhammaṃ deseti …"
+msgstr ""
+
+msgctxt "dn32:72.8"
+msgid "surāmerayamajjappamādaṭṭhānā veramaṇiyā dhammaṃ deseti."
+msgstr ""
+
+msgctxt "dn32:72.9"
+msgid "Yebhuyyena kho pana, bhante, yakkhā appaṭiviratāyeva pāṇātipātā …"
+msgstr ""
+
+msgctxt "dn32:72.10"
+msgid "appaṭiviratā surāmerayamajjappamādaṭṭhānā."
+msgstr ""
+
+msgctxt "dn32:72.11"
+msgid "Tesaṃ taṃ hoti appiyaṃ amanāpaṃ."
+msgstr ""
+
+msgctxt "dn32:72.12"
+msgid ""
+"Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni "
+"paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni "
+"paṭisallānasāruppāni."
+msgstr ""
+
+msgctxt "dn32:72.13"
+msgid ""
+"Tattha santi uḷārā yakkhā nivāsino, ye imasmiṃ bhagavato pāvacane appasannā, "
+"tesaṃ pasādāya uggaṇhātu, bhante, bhagavā āṭānāṭiyaṃ rakkhaṃ bhikkhūnaṃ "
+"bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ guttiyā rakkhāya avihiṃsāya "
+"phāsuvihārāyā’ti."
+msgstr ""
+
+msgctxt "dn32:72.14"
+msgid "Adhivāsesiṃ kho ahaṃ, bhikkhave, tuṇhībhāvena."
+msgstr ""
+
+msgctxt "dn32:72.15"
+msgid ""
+"Atha kho, bhikkhave, vessavaṇo mahārājā me adhivāsanaṃ viditvā tāyaṃ velāyaṃ "
+"imaṃ āṭānāṭiyaṃ rakkhaṃ abhāsi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="68"></a>
+msgctxt "dn32:73.1"
+msgid "‘Vipassissa ca namatthu,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:73.2"
+msgid "cakkhumantassa sirīmato;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:73.3"
+msgid "Sikhissapi ca namatthu,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:73.4"
+msgid "sabbabhūtānukampino."
+msgstr ""
+
+#. </p><p><a class="sc" id="69"></a>
+msgctxt "dn32:74.1"
+msgid "Vessabhussa ca namatthu,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:74.2"
+msgid "nhātakassa tapassino;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:74.3"
+msgid "Namatthu kakusandhassa,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:74.4"
+msgid "mārasenāpamaddino."
+msgstr ""
+
+#. </p><p><a class="sc" id="70"></a>
+msgctxt "dn32:75.1"
+msgid "Koṇāgamanassa namatthu,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:75.2"
+msgid "brāhmaṇassa vusīmato;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:75.3"
+msgid "Kassapassa ca namatthu,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:75.4"
+msgid "vippamuttassa sabbadhi."
+msgstr ""
+
+#. </p><p><a class="sc" id="71"></a>
+msgctxt "dn32:76.1"
+msgid "Aṅgīrasassa namatthu,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:76.2"
+msgid "sakyaputtassa sirīmato;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:76.3"
+msgid "Yo imaṃ dhammaṃ desesi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:76.4"
+msgid "sabbadukkhāpanūdanaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="72"></a>
+msgctxt "dn32:77.1"
+msgid "Ye cāpi nibbutā loke,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:77.2"
+msgid "yathābhūtaṃ vipassisuṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:77.3"
+msgid "Te janā apisuṇātha,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:77.4"
+msgid "mahantā vītasāradā."
+msgstr ""
+
+#. </p><p><a class="sc" id="73"></a>
+msgctxt "dn32:78.1"
+msgid "Hitaṃ devamanussānaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:78.2"
+msgid "yaṃ namassanti gotamaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:78.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:78.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="74"></a>
+msgctxt "dn32:79.1"
+msgid "Yato uggacchati sūriyo,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:79.2"
+msgid "ādicco maṇḍalī mahā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:79.3"
+msgid "Yassa cuggacchamānassa,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:79.4"
+msgid "saṃvarīpi nirujjhati;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:79.5"
+msgid "Yassa cuggate sūriye,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:79.6"
+msgid "<span class=\"dquo\">“</span> divaso”ti pavuccati."
+msgstr ""
+
+#. </p><p><a class="sc" id="75"></a>
+msgctxt "dn32:80.1"
+msgid "Rahadopi tattha gambhīro,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:80.2"
+msgid "samuddo saritodako;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:80.3"
+msgid "Evaṃ taṃ tattha jānanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:80.4"
+msgid "<span class=\"dquo\">“</span> samuddo saritodako”."
+msgstr ""
+
+#. </p><p><a class="sc" id="76"></a>
+msgctxt "dn32:81.1"
+msgid "Ito “sā purimā disā”,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:81.2"
+msgid "iti naṃ ācikkhatī jano;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:81.3"
+msgid "Yaṃ disaṃ abhipāleti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:81.4"
+msgid "mahārājā yasassi so."
+msgstr ""
+
+#. </p><p><a class="sc" id="77"></a>
+msgctxt "dn32:82.1"
+msgid "Gandhabbānaṃ adhipati,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:82.2"
+msgid "<span class=\"dquo\"> “</span> dhataraṭṭho”ti nāmaso;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:82.3"
+msgid "Ramatī naccagītehi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:82.4"
+msgid "gandhabbehi purakkhato."
+msgstr ""
+
+#. </p><p><a class="sc" id="78"></a>
+msgctxt "dn32:83.1"
+msgid "Puttāpi tassa bahavo,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:83.2"
+msgid "ekanāmāti me sutaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:83.3"
+msgid "Asīti dasa eko ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:83.4"
+msgid "indanāmā mahabbalā."
+msgstr ""
+
+#. </p><p><a class="sc" id="79"></a>
+msgctxt "dn32:84.1"
+msgid "Te cāpi buddhaṃ disvāna,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:84.2"
+msgid "buddhaṃ ādiccabandhunaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:84.3"
+msgid "Dūratova namassanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:84.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="80"></a>
+msgctxt "dn32:85.1"
+msgid "Namo te purisājañña,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:85.2"
+msgid "namo te purisuttama;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:85.3"
+msgid "Kusalena samekkhasi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:85.4"
+msgid "amanussāpi taṃ vandanti;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:85.5"
+msgid "Sutaṃ netaṃ abhiṇhaso,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:85.6"
+msgid "tasmā evaṃ vademase."
+msgstr ""
+
+#. </p><p><a class="sc" id="81"></a>
+msgctxt "dn32:86.1"
+msgid "“Jinaṃ vandatha gotamaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:86.2"
+msgid "jinaṃ vandāma gotamaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:86.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:86.4"
+msgid "buddhaṃ vandāma gotamaṃ”."
+msgstr ""
+
+#. </p><p><a class="sc" id="82"></a>
+msgctxt "dn32:87.1"
+msgid "Yena petā pavuccanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:87.2"
+msgid "pisuṇā piṭṭhimaṃsikā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:87.3"
+msgid "Pāṇātipātino luddā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:87.4"
+msgid "corā nekatikā janā."
+msgstr ""
+
+#. </p><p><a class="sc" id="83"></a>
+msgctxt "dn32:88.1"
+msgid "Ito “sā dakkhiṇā disā”,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:88.2"
+msgid "iti naṃ ācikkhatī jano;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:88.3"
+msgid "Yaṃ disaṃ abhipāleti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:88.4"
+msgid "mahārājā yasassi so."
+msgstr ""
+
+#. </p><p><a class="sc" id="84"></a>
+msgctxt "dn32:89.1"
+msgid "Kumbhaṇḍānaṃ adhipati,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:89.2"
+msgid "<span class=\"dquo\"> “</span> virūḷho” iti nāmaso;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:89.3"
+msgid "Ramatī naccagītehi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:89.4"
+msgid "kumbhaṇḍehi purakkhato."
+msgstr ""
+
+#. </p><p><a class="sc" id="85"></a>
+msgctxt "dn32:90.1"
+msgid "Puttāpi tassa bahavo,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:90.2"
+msgid "ekanāmāti me sutaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:90.3"
+msgid "Asīti dasa eko ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:90.4"
+msgid "indanāmā mahabbalā."
+msgstr ""
+
+#. </p><p><a class="sc" id="86"></a>
+msgctxt "dn32:91.1"
+msgid "Te cāpi buddhaṃ disvāna,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:91.2"
+msgid "buddhaṃ ādiccabandhunaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:91.3"
+msgid "Dūratova namassanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:91.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="87"></a>
+msgctxt "dn32:92.1"
+msgid "Namo te purisājañña,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:92.2"
+msgid "namo te purisuttama;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:92.3"
+msgid "Kusalena samekkhasi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:92.4"
+msgid "amanussāpi taṃ vandanti;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:92.5"
+msgid "Sutaṃ netaṃ abhiṇhaso,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:92.6"
+msgid "tasmā evaṃ vademase."
+msgstr ""
+
+#. </p><p><a class="sc" id="88"></a>
+msgctxt "dn32:93.1"
+msgid "“Jinaṃ vandatha gotamaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:93.2"
+msgid "jinaṃ vandāma gotamaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:93.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:93.4"
+msgid "buddhaṃ vandāma gotamaṃ”."
+msgstr ""
+
+#. </p><p><a class="sc" id="89"></a>
+msgctxt "dn32:94.1"
+msgid "Yattha coggacchati sūriyo,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:94.2"
+msgid "ādicco maṇḍalī mahā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:94.3"
+msgid "Yassa coggacchamānassa,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:94.4"
+msgid "divasopi nirujjhati;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:94.5"
+msgid "Yassa coggate sūriye,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:94.6"
+msgid "<span class=\"dquo\">“</span> saṃvarī”ti pavuccati."
+msgstr ""
+
+#. </p><p><a class="sc" id="90"></a>
+msgctxt "dn32:95.1"
+msgid "Rahadopi tattha gambhīro,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:95.2"
+msgid "samuddo saritodako;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:95.3"
+msgid "Evaṃ taṃ tattha jānanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:95.4"
+msgid "samuddo saritodako."
+msgstr ""
+
+#. </p><p><a class="sc" id="91"></a>
+msgctxt "dn32:96.1"
+msgid "Ito “sā pacchimā disā”,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:96.2"
+msgid "iti naṃ ācikkhatī jano;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:96.3"
+msgid "Yaṃ disaṃ abhipāleti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:96.4"
+msgid "mahārājā yasassi so."
+msgstr ""
+
+#. </p><p><a class="sc" id="92"></a>
+msgctxt "dn32:97.1"
+msgid "Nāgānañca adhipati,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:97.2"
+msgid "<span class=\"dquo\"> “</span> virūpakkho”ti nāmaso;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:97.3"
+msgid "Ramatī naccagītehi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:97.4"
+msgid "nāgeheva purakkhato."
+msgstr ""
+
+#. </p><p><a class="sc" id="93"></a>
+msgctxt "dn32:98.1"
+msgid "Puttāpi tassa bahavo,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:98.2"
+msgid "ekanāmāti me sutaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:98.3"
+msgid "Asīti dasa eko ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:98.4"
+msgid "indanāmā mahabbalā."
+msgstr ""
+
+#. </p><p><a class="sc" id="94"></a>
+msgctxt "dn32:99.1"
+msgid "Te cāpi buddhaṃ disvāna,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:99.2"
+msgid "buddhaṃ ādiccabandhunaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:99.3"
+msgid "Dūratova namassanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:99.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="95"></a>
+msgctxt "dn32:100.1"
+msgid "Namo te purisājañña,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:100.2"
+msgid "namo te purisuttama;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:100.3"
+msgid "Kusalena samekkhasi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:100.4"
+msgid "amanussāpi taṃ vandanti;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:100.5"
+msgid "Sutaṃ netaṃ abhiṇhaso,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:100.6"
+msgid "tasmā evaṃ vademase."
+msgstr ""
+
+#. </p><p><a class="sc" id="96"></a>
+msgctxt "dn32:101.1"
+msgid "“Jinaṃ vandatha gotamaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:101.2"
+msgid "jinaṃ vandāma gotamaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:101.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:101.4"
+msgid "buddhaṃ vandāma gotamaṃ”."
+msgstr ""
+
+#. </p><p><a class="sc" id="97"></a>
+msgctxt "dn32:102.1"
+msgid "Yena uttarakuruvho,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:102.2"
+msgid "mahāneru sudassano;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:102.3"
+msgid "Manussā tattha jāyanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:102.4"
+msgid "amamā apariggahā."
+msgstr ""
+
+#. </p><p><a class="sc" id="98"></a>
+msgctxt "dn32:103.1"
+msgid "Na te bījaṃ pavapanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:103.2"
+msgid "nāpi nīyanti naṅgalā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:103.3"
+msgid "Akaṭṭhapākimaṃ sāliṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:103.4"
+msgid "paribhuñjanti mānusā."
+msgstr ""
+
+#. </p><p><a class="sc" id="99"></a>
+msgctxt "dn32:104.1"
+msgid "Akaṇaṃ athusaṃ suddhaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:104.2"
+msgid "sugandhaṃ taṇḍulapphalaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:104.3"
+msgid "Tuṇḍikīre pacitvāna,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:104.4"
+msgid "tato bhuñjanti bhojanaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="100"></a>
+msgctxt "dn32:105.1"
+msgid "Gāviṃ ekakhuraṃ katvā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:105.2"
+msgid "anuyanti disodisaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:105.3"
+msgid "Pasuṃ ekakhuraṃ katvā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:105.4"
+msgid "anuyanti disodisaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="101"></a>
+msgctxt "dn32:106.1"
+msgid "Itthiṃ vā vāhanaṃ katvā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:106.2"
+msgid "anuyanti disodisaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:106.3"
+msgid "Purisaṃ vāhanaṃ katvā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:106.4"
+msgid "anuyanti disodisaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="102"></a>
+msgctxt "dn32:107.1"
+msgid "Kumāriṃ vāhanaṃ katvā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:107.2"
+msgid "anuyanti disodisaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:107.3"
+msgid "Kumāraṃ vāhanaṃ katvā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:107.4"
+msgid "anuyanti disodisaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="103"></a>
+msgctxt "dn32:108.1"
+msgid "Te yāne abhiruhitvā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:108.2"
+msgid "Sabbā disā anupariyāyanti;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:108.3"
+msgid "Pacārā tassa rājino."
+msgstr ""
+
+#. </p><p><a class="sc" id="104"></a>
+msgctxt "dn32:109.1"
+msgid "Hatthiyānaṃ assayānaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:109.2"
+msgid "dibbaṃ yānaṃ upaṭṭhitaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:109.3"
+msgid "Pāsādā sivikā ceva,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:109.4"
+msgid "mahārājassa yasassino."
+msgstr ""
+
+#. </p><p><a class="sc" id="105"></a>
+msgctxt "dn32:110.1"
+msgid "Tassa ca nagarā ahu,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:110.2"
+msgid "Antalikkhe sumāpitā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:110.3"
+msgid "Āṭānāṭā kusināṭā parakusināṭā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:110.4"
+msgid "Nāṭasuriyā parakusiṭanāṭā."
+msgstr ""
+
+#. </p><p><a class="sc" id="106"></a>
+msgctxt "dn32:111.1"
+msgid "Uttarena kasivanto,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:111.2"
+msgid "Janoghamaparena ca;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:111.3"
+msgid "Navanavutiyo ambaraambaravatiyo,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:111.4"
+msgid "Āḷakamandā nāma rājadhānī."
+msgstr ""
+
+#. </p><p><a class="sc" id="107"></a>
+msgctxt "dn32:112.1"
+msgid "Kuverassa kho pana mārisa,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:112.2"
+msgid "Mahārājassa visāṇā nāma rājadhānī;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:112.3"
+msgid "Tasmā kuvero mahārājā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:112.4"
+msgid "<span class=\"dquo\">“</span> Vessavaṇo”ti pavuccati."
+msgstr ""
+
+#. </p><p><a class="sc" id="108"></a>
+msgctxt "dn32:113.1"
+msgid "Paccesanto pakāsenti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:113.2"
+msgid "Tatolā tattalā tatotalā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:113.3"
+msgid "Ojasi tejasi tatojasī,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:113.4"
+msgid "Sūro rājā ariṭṭho nemi."
+msgstr ""
+
+#. </p><p><a class="sc" id="109"></a>
+msgctxt "dn32:114.1"
+msgid "Rahadopi tattha dharaṇī nāma,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:114.2"
+msgid "Yato meghā pavassanti;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:114.3"
+msgid "Vassā yato patāyanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:114.4"
+msgid "Sabhāpi tattha sālavatī nāma."
+msgstr ""
+
+#. </p><p><a class="sc" id="110"></a>
+msgctxt "dn32:115.1"
+msgid "Yattha yakkhā payirupāsanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:115.2"
+msgid "Tattha niccaphalā rukkhā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:115.3"
+msgid "Nānā dijagaṇā yutā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:115.4"
+msgid "Mayūrakoñcābhirudā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:115.5"
+msgid "Kokilādīhi vagguhi."
+msgstr ""
+
+#. </p><p><a class="sc" id="111"></a>
+msgctxt "dn32:116.1"
+msgid "Jīvañjīvakasaddettha,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:116.2"
+msgid "atho oṭṭhavacittakā;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:116.3"
+msgid "Kukkuṭakā kuḷīrakā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:116.4"
+msgid "vane pokkharasātakā."
+msgstr ""
+
+#. </p><p><a class="sc" id="112"></a>
+msgctxt "dn32:117.1"
+msgid "Sukasāḷika saddettha,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:117.2"
+msgid "daṇḍamāṇavakāni ca;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:117.3"
+msgid "Sobhati sabbakālaṃ sā,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:117.4"
+msgid "kuveranaḷinī sadā."
+msgstr ""
+
+#. </p><p><a class="sc" id="113"></a>
+msgctxt "dn32:118.1"
+msgid "Ito “sā uttarā disā”,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:118.2"
+msgid "iti naṃ ācikkhatī jano;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:118.3"
+msgid "Yaṃ disaṃ abhipāleti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:118.4"
+msgid "mahārājā yasassi so."
+msgstr ""
+
+#. </p><p><a class="sc" id="114"></a>
+msgctxt "dn32:119.1"
+msgid "Yakkhānañca adhipati,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:119.2"
+msgid "<span class=\"dquo\"> “</span> kuvero” iti nāmaso;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:119.3"
+msgid "Ramatī naccagītehi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:119.4"
+msgid "yakkheheva purakkhato."
+msgstr ""
+
+#. </p><p><a class="sc" id="115"></a>
+msgctxt "dn32:120.1"
+msgid "Puttāpi tassa bahavo,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:120.2"
+msgid "ekanāmāti me sutaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:120.3"
+msgid "Asīti dasa eko ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:120.4"
+msgid "indanāmā mahabbalā."
+msgstr ""
+
+#. </p><p><a class="sc" id="116"></a>
+msgctxt "dn32:121.1"
+msgid "Te cāpi buddhaṃ disvāna,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:121.2"
+msgid "buddhaṃ ādiccabandhunaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:121.3"
+msgid "Dūratova namassanti,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:121.4"
+msgid "mahantaṃ vītasāradaṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="117"></a>
+msgctxt "dn32:122.1"
+msgid "Namo te purisājañña,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:122.2"
+msgid "namo te purisuttama;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:122.3"
+msgid "Kusalena samekkhasi,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:122.4"
+msgid "amanussāpi taṃ vandanti;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:122.5"
+msgid "Sutaṃ netaṃ abhiṇhaso,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:122.6"
+msgid "tasmā evaṃ vademase."
+msgstr ""
+
+#. </p><p><a class="sc" id="118"></a>
+msgctxt "dn32:123.1"
+msgid "“Jinaṃ vandatha gotamaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:123.2"
+msgid "jinaṃ vandāma gotamaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:123.3"
+msgid "Vijjācaraṇasampannaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:123.4"
+msgid "buddhaṃ vandāma gotaman”ti."
+msgstr ""
+
+#. </p></blockquote><p><a class="sc" id="119"></a>
+msgctxt "dn32:124.1"
+msgid ""
+"Ayaṃ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ "
+"upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāya."
+msgstr ""
+
+msgctxt "dn32:124.2"
+msgid ""
+"Yassa kassaci, mārisa, bhikkhussa vā bhikkhuniyā vā upāsakassa vā upāsikāya "
+"vā ayaṃ āṭānāṭiyā rakkhā suggahitā bhavissati samattā pariyāputā tañce "
+"amanusso yakkho vā yakkhinī vā …"
+msgstr ""
+
+msgctxt "dn32:124.3"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:124.4"
+msgid "gandhabbo vā gandhabbī vā …"
+msgstr ""
+
+msgctxt "dn32:124.5"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:124.6"
+msgid "kumbhaṇḍo vā kumbhaṇḍī vā …"
+msgstr ""
+
+msgctxt "dn32:124.7"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:124.8"
+msgid ""
+"nāgo vā nāgī vā nāgapotako vā nāgapotikā vā nāgamahāmatto vā nāgapārisajjo "
+"vā nāgapacāro vā, paduṭṭhacitto bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā "
+"upāsikaṃ vā gacchantaṃ vā anugaccheyya, ṭhitaṃ vā upatiṭṭheyya, nisinnaṃ vā "
+"upanisīdeyya, nipannaṃ vā upanipajjeyya."
+msgstr ""
+
+msgctxt "dn32:124.9"
+msgid ""
+"Na me so, mārisa, amanusso labheyya gāmesu vā nigamesu vā sakkāraṃ vā "
+"garukāraṃ vā."
+msgstr ""
+
+msgctxt "dn32:124.10"
+msgid ""
+"Na me so, mārisa, amanusso labheyya āḷakamandāya nāma rājadhāniyā vatthuṃ vā "
+"vāsaṃ vā."
+msgstr ""
+
+msgctxt "dn32:124.11"
+msgid "Na me so, mārisa, amanusso labheyya yakkhānaṃ samitiṃ gantuṃ."
+msgstr ""
+
+msgctxt "dn32:124.12"
+msgid "Apissu naṃ, mārisa, amanussā anāvayhampi naṃ kareyyuṃ avivayhaṃ."
+msgstr ""
+
+msgctxt "dn32:124.13"
+msgid ""
+"Apissu naṃ, mārisa, amanussā attāhi paripuṇṇāhi paribhāsāhi paribhāseyyuṃ."
+msgstr ""
+
+msgctxt "dn32:124.14"
+msgid "Apissu naṃ, mārisa, amanussā rittampissa pattaṃ sīse nikkujjeyyuṃ."
+msgstr ""
+
+msgctxt "dn32:124.15"
+msgid "Apissu naṃ, mārisa, amanussā sattadhāpissa muddhaṃ phāleyyuṃ."
+msgstr ""
+
+#. </p><p><a class="sc" id="120"></a>
+msgctxt "dn32:125.1"
+msgid ""
+"Santi hi, mārisa, amanussā caṇḍā ruddhā rabhasā, te neva mahārājānaṃ "
+"ādiyanti, na mahārājānaṃ purisakānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ "
+"purisakānaṃ ādiyanti."
+msgstr ""
+
+msgctxt "dn32:125.2"
+msgid "Te kho te, mārisa, amanussā mahārājānaṃ avaruddhā nāma vuccanti."
+msgstr ""
+
+msgctxt "dn32:125.3"
+msgid "Seyyathāpi, mārisa, rañño māgadhassa vijite mahācorā."
+msgstr ""
+
+msgctxt "dn32:125.4"
+msgid ""
+"Te neva rañño māgadhassa ādiyanti, na rañño māgadhassa purisakānaṃ ādiyanti, "
+"na rañño māgadhassa purisakānaṃ purisakānaṃ ādiyanti."
+msgstr ""
+
+msgctxt "dn32:125.5"
+msgid "Te kho te, mārisa, mahācorā rañño māgadhassa avaruddhā nāma vuccanti."
+msgstr ""
+
+msgctxt "dn32:125.6"
+msgid ""
+"Evameva kho, mārisa, santi amanussā caṇḍā ruddhā rabhasā, te neva "
+"mahārājānaṃ ādiyanti, na mahārājānaṃ purisakānaṃ ādiyanti, na mahārājānaṃ "
+"purisakānaṃ purisakānaṃ ādiyanti."
+msgstr ""
+
+msgctxt "dn32:125.7"
+msgid "Te kho te, mārisa, amanussā mahārājānaṃ avaruddhā nāma vuccanti."
+msgstr ""
+
+msgctxt "dn32:125.8"
+msgid "Yo hi koci, mārisa, amanusso yakkho vā yakkhinī vā …"
+msgstr ""
+
+msgctxt "dn32:125.9"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:125.10"
+msgid "gandhabbo vā gandhabbī vā …"
+msgstr ""
+
+msgctxt "dn32:125.11"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:125.12"
+msgid "kumbhaṇḍo vā kumbhaṇḍī vā …"
+msgstr ""
+
+msgctxt "dn32:125.13"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:125.14"
+msgid "nāgo vā nāgī vā …"
+msgstr ""
+
+msgctxt "dn32:125.15"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn32:125.16"
+msgid ""
+"paduṭṭhacitto bhikkhuṃ vā bhikkhuniṃ vā upāsakaṃ vā upāsikaṃ vā gacchantaṃ "
+"vā upagaccheyya, ṭhitaṃ vā upatiṭṭheyya, nisinnaṃ vā upanisīdeyya, nipannaṃ "
+"vā upanipajjeyya."
+msgstr ""
+
+msgctxt "dn32:125.17"
+msgid ""
+"Imesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ ujjhāpetabbaṃ "
+"vikkanditabbaṃ viravitabbaṃ:"
+msgstr ""
+
+msgctxt "dn32:125.18"
+msgid ""
+"“ayaṃ yakkho gaṇhāti, ayaṃ yakkho āvisati, ayaṃ yakkho heṭheti, ayaṃ yakkho "
+"viheṭheti, ayaṃ yakkho hiṃsati, ayaṃ yakkho vihiṃsati, ayaṃ yakkho na "
+"muñcatī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="121"></a>
+msgctxt "dn32:126.1"
+msgid "Katamesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ?"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="122"></a>
+msgctxt "dn32:127.1"
+msgid "Indo somo varuṇo ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:127.2"
+msgid "bhāradvājo pajāpati;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:127.3"
+msgid "Candano kāmaseṭṭho ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:127.4"
+msgid "kinnughaṇḍu nighaṇḍu ca."
+msgstr ""
+
+#. </p><p><a class="sc" id="123"></a>
+msgctxt "dn32:128.1"
+msgid "Panādo opamañño ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:128.2"
+msgid "devasūto ca mātali;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:128.3"
+msgid "Cittaseno ca gandhabbo,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:128.4"
+msgid "naḷo rājā janesabho."
+msgstr ""
+
+#. </p><p><a class="sc" id="124"></a>
+msgctxt "dn32:129.1"
+msgid "Sātāgiro hemavato,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:129.2"
+msgid "puṇṇako karatiyo guḷo;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:129.3"
+msgid "Sivako mucalindo ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:129.4"
+msgid "vessāmitto yugandharo."
+msgstr ""
+
+#. </p><p><a class="sc" id="125"></a>
+msgctxt "dn32:130.1"
+msgid "Gopālo supparodho ca,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:130.2"
+msgid "Hiri netti ca mandiyo;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:130.3"
+msgid "Pañcālacaṇḍo āḷavako,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:130.4"
+msgid "Pajjunno sumano sumukho;"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:130.5"
+msgid "Dadhimukho maṇi māṇivaro dīgho,"
+msgstr ""
+
+#. <br>
+msgctxt "dn32:130.6"
+msgid "Atho serīsako saha."
+msgstr ""
+
+#. </p></blockquote><p><a class="sc" id="126"></a>
+msgctxt "dn32:131.1"
+msgid ""
+"Imesaṃ yakkhānaṃ mahāyakkhānaṃ senāpatīnaṃ mahāsenāpatīnaṃ ujjhāpetabbaṃ "
+"vikkanditabbaṃ viravitabbaṃ:"
+msgstr ""
+
+msgctxt "dn32:131.2"
+msgid ""
+"“ayaṃ yakkho gaṇhāti, ayaṃ yakkho āvisati, ayaṃ yakkho heṭheti, ayaṃ yakkho "
+"viheṭheti, ayaṃ yakkho hiṃsati, ayaṃ yakkho vihiṃsati, ayaṃ yakkho na "
+"muñcatī”ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="127"></a>
+msgctxt "dn32:132.1"
+msgid ""
+"Ayaṃ kho, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ "
+"upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāya."
+msgstr ""
+
+msgctxt "dn32:132.2"
+msgid "Handa ca dāni mayaṃ, mārisa, gacchāma, bahukiccā mayaṃ bahukaraṇīyā’ti."
+msgstr ""
+
+msgctxt "dn32:132.3"
+msgid "‘Yassadāni tumhe, mahārājāno, kālaṃ maññathā’ti."
+msgstr ""
+
+#. </p><p><a class="sc" id="128"></a>
+msgctxt "dn32:133.1"
+msgid ""
+"Atha kho, bhikkhave, cattāro mahārājā uṭṭhāyāsanā maṃ abhivādetvā "
+"padakkhiṇaṃ katvā tatthevantaradhāyiṃsu."
+msgstr ""
+
+msgctxt "dn32:133.2"
+msgid ""
+"Tepi kho, bhikkhave, yakkhā uṭṭhāyāsanā appekacce maṃ abhivādetvā "
+"padakkhiṇaṃ katvā tatthevantaradhāyiṃsu."
+msgstr ""
+
+msgctxt "dn32:133.3"
+msgid ""
+"Appekacce mayā saddhiṃ sammodiṃsu, sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā "
+"tatthevantaradhāyiṃsu."
+msgstr ""
+
+msgctxt "dn32:133.4"
+msgid "Appekacce yenāhaṃ tenañjaliṃ paṇāmetvā tatthevantaradhāyiṃsu."
+msgstr ""
+
+msgctxt "dn32:133.5"
+msgid "Appekacce nāmagottaṃ sāvetvā tatthevantaradhāyiṃsu."
+msgstr ""
+
+msgctxt "dn32:133.6"
+msgid "Appekacce tuṇhībhūtā tatthevantaradhāyiṃsu."
+msgstr ""
+
+#. </p><p><a class="sc" id="129"></a>
+msgctxt "dn32:134.1"
+msgid "Uggaṇhātha, bhikkhave, āṭānāṭiyaṃ rakkhaṃ."
+msgstr "“Mendicants, learn the Āṭānāṭiya protection!"
+
+msgctxt "dn32:134.2"
+msgid "Pariyāpuṇātha, bhikkhave, āṭānāṭiyaṃ rakkhaṃ."
+msgstr "Memorize the Āṭānāṭiya protection!"
+
+msgctxt "dn32:134.3"
+msgid "Dhāretha, bhikkhave, āṭānāṭiyaṃ rakkhaṃ."
+msgstr "Remember the Āṭānāṭiya protection!"
+
+#. VAR: Atthasaṃhitā → attha­sañ­hi­tā­yaṃ (s1-3) | attha­saṃhi­tā­yaṃ (pts1)
+msgctxt "dn32:134.4"
+msgid ""
+"Atthasaṃhitā, bhikkhave, āṭānāṭiyā rakkhā bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ "
+"upāsikānaṃ guttiyā rakkhāya avihiṃsāya phāsuvihārāyā”ti."
+msgstr ""
+"The Āṭānāṭiya protection is beneficial, and is for the guarding, protection, "
+"safety, and comfort of the monks, nuns, laymen, and laywomen.”"
+
+#. </p><p><a class="sc" id="130"></a>
+msgctxt "dn32:135.1"
+msgid "Idamavoca bhagavā."
+msgstr "This is what the Buddha said."
+
+msgctxt "dn32:135.2"
+msgid "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti."
+msgstr "Uplifted, the mendicants approved of what the Buddha said."
+
+#. </p><p class="endsutta">
+msgctxt "dn32:136.1"
+msgid "Āṭānāṭiyasuttaṃ niṭṭhitaṃ navamaṃ."
+msgstr ""

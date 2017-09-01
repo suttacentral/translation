@@ -1,0 +1,5176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 08:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Pootle-Path: /en/dn/dn01.po\n"
+"X-Pootle-Revision: 176994\n"
+
+#. <html><head><meta charset="utf8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="dn1"><article><div class="hgroup"><p
+#. class="division">
+msgctxt "dn1:1.1"
+msgid "Dīgha Nikāya 1"
+msgstr "Long Discourses 1"
+
+#. </p><h1>
+msgctxt "dn1:2.1"
+msgid "Brahmajālasutta"
+msgstr "The Prime Net"
+
+#. </h1></div><h2>
+msgctxt "dn1:3.1"
+msgid "1. Paribbājakakathā"
+msgstr "Talk on Wanderers"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts" id="pts1.1"></a>
+msgctxt "dn1:4.1"
+msgid "<span class=\"evam\">Evaṃ me sutaṃ—​</span>"
+msgstr "<span class=”evam”>So I have heard.</span>"
+
+msgctxt "dn1:4.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā antarā ca rājagahaṃ antarā ca nāḷandaṃ "
+"addhānamaggappaṭipanno hoti mahatā bhikkhusaṃghena saddhiṃ pañcamattehi "
+"bhikkhusatehi."
+msgstr ""
+"At one time the Buddha was travelling along the road between Rājagaha and "
+"Nālanda together with a large Saṅgha of around five hundred mendicants."
+
+msgctxt "dn1:4.3"
+msgid ""
+"Suppiyopi kho paribbājako antarā ca rājagahaṃ antarā ca nāḷandaṃ "
+"addhānamaggappaṭipanno hoti saddhiṃ antevāsinā brahmadattena māṇavena."
+msgstr ""
+"And the wanderer Suppiya was also travelling along the same road together "
+"with his pupil, the brahmin student Brahmadatta."
+
+msgctxt "dn1:4.4"
+msgid ""
+"Tatra sudaṃ suppiyo paribbājako anekapariyāyena buddhassa avaṇṇaṃ bhāsati, "
+"dhammassa avaṇṇaṃ bhāsati, saṃghassa avaṇṇaṃ bhāsati;"
+msgstr ""
+"Meanwhile, Suppiya criticized the Buddha, the teaching, and the Saṅgha in "
+"many ways,"
+
+msgctxt "dn1:4.5"
+msgid ""
+"suppiyassa pana paribbājakassa antevāsī brahmadatto māṇavo anekapariyāyena "
+"buddhassa vaṇṇaṃ bhāsati, dhammassa vaṇṇaṃ bhāsati, saṃghassa vaṇṇaṃ bhāsati."
+msgstr "but his pupil Brahmadatta praised them in many ways."
+
+#. VAR: anubandhā → anubaddhā (bj, pts1)
+msgctxt "dn1:4.6"
+msgid ""
+"Itiha te ubho ācariyantevāsī aññamaññassa ujuvipaccanīkavādā bhagavantaṃ "
+"piṭṭhito piṭṭhito anubandhā honti bhikkhusaṃghañca."
+msgstr ""
+"In this way both teacher and pupil, while directly contradicting each other, "
+"followed behind the Buddha and the Saṅgha of mendicants."
+
+#. </p><p><a class="sc" id="2"></a><a class="pts" id="pts1.2"></a>
+#. VAR: upagacchi → upagañchi (bj, s1-3, km, pts1)
+msgctxt "dn1:5.1"
+msgid ""
+"Atha kho bhagavā ambalaṭṭhikāyaṃ rājāgārake ekarattivāsaṃ upagacchi saddhiṃ "
+"bhikkhusaṃghena."
+msgstr ""
+"Then the Buddha took up residence for the night in the royal rest-house in "
+"Ambalaṭṭhikā together with the Saṅgha of mendicants."
+
+msgctxt "dn1:5.2"
+msgid ""
+"Suppiyopi kho paribbājako ambalaṭṭhikāyaṃ rājāgārake ekarattivāsaṃ upagacchi "
+"antevāsinā brahmadattena māṇavena."
+msgstr "And Suppiya and Brahmadatta did likewise."
+
+msgctxt "dn1:5.3"
+msgid ""
+"Tatrapi sudaṃ suppiyo paribbājako anekapariyāyena buddhassa avaṇṇaṃ bhāsati, "
+"dhammassa avaṇṇaṃ bhāsati, saṃghassa avaṇṇaṃ bhāsati;"
+msgstr ""
+"There too, Suppiya criticized the Buddha, the teaching, and the Saṅgha in "
+"many ways,"
+
+msgctxt "dn1:5.4"
+msgid ""
+"suppiyassa pana paribbājakassa antevāsī brahmadatto māṇavo anekapariyāyena "
+"buddhassa vaṇṇaṃ bhāsati, dhammassa vaṇṇaṃ bhāsati, saṃghassa vaṇṇaṃ bhāsati."
+msgstr "but his pupil Brahmadatta praised them in many ways."
+
+msgctxt "dn1:5.5"
+msgid "Itiha te ubho ācariyantevāsī aññamaññassa ujuvipaccanīkavādā viharanti."
+msgstr ""
+"In this way both teacher and pupil kept directly contradicting each other."
+
+#. </p><p><a class="sc" id="3"></a>
+msgctxt "dn1:6.1"
+msgid ""
+"Atha kho sambahulānaṃ bhikkhūnaṃ rattiyā paccūsasamayaṃ paccuṭṭhitānaṃ "
+"maṇḍalamāḷe sannisinnānaṃ sannipatitānaṃ ayaṃ saṅkhiyadhammo udapādi:"
+msgstr ""
+"Then several mendicants rose at the crack of dawn and sat together in the "
+"pavilion. The topic of evaluation came up:"
+
+msgctxt "dn1:6.2"
+msgid ""
+"“acchariyaṃ, āvuso, abbhutaṃ, āvuso, yāvañcidaṃ tena bhagavatā jānatā "
+"passatā arahatā sammāsambuddhena sattānaṃ nānādhimuttikatā suppaṭividitā."
+msgstr ""
+"“It’s incredible, reverends, it’s amazing how the diverse beliefs of "
+"sentient beings have been clearly comprehended by the Blessed One, who knows "
+"and sees, the Perfect One, the fully awakened Buddha."
+
+msgctxt "dn1:6.3"
+msgid ""
+"Ayañhi suppiyo paribbājako anekapariyāyena buddhassa avaṇṇaṃ bhāsati, "
+"dhammassa avaṇṇaṃ bhāsati, saṅghassa avaṇṇaṃ bhāsati;"
+msgstr ""
+"For this Suppiya criticizes the Buddha, the teaching, and the Saṅgha in many "
+"ways,"
+
+msgctxt "dn1:6.4"
+msgid ""
+"suppiyassa pana paribbājakassa antevāsī brahmadatto māṇavo anekapariyāyena "
+"buddhassa vaṇṇaṃ bhāsati, dhammassa vaṇṇaṃ bhāsati, saṅghassa vaṇṇaṃ bhāsati."
+msgstr "while his pupil Brahmadatta praises them in many ways."
+
+msgctxt "dn1:6.5"
+msgid ""
+"Itihame ubho ācariyantevāsī aññamaññassa ujuvipaccanīkavādā bhagavantaṃ "
+"piṭṭhito piṭṭhito anubandhā honti bhikkhusaṅghañcā”ti."
+msgstr ""
+"In this way both teacher and pupil, while directly contradicting each other, "
+"follow behind the Buddha and the Saṅgha of mendicants.”"
+
+#. </p><p><a class="sc" id="4"></a>
+msgctxt "dn1:7.1"
+msgid ""
+"Atha kho bhagavā tesaṃ bhikkhūnaṃ imaṃ saṅkhiyadhammaṃ viditvā yena "
+"maṇḍalamāḷo tenupasaṅkami;"
+msgstr ""
+"When the Buddha found out about this discussion on evaluation among the "
+"mendicants, he went to the pavilion,"
+
+msgctxt "dn1:7.2"
+msgid "upasaṅkamitvā paññatte āsane nisīdi."
+msgstr "where he sat on the seat spread out"
+
+msgctxt "dn1:7.3"
+msgid "Nisajja kho bhagavā bhikkhū āmantesi:"
+msgstr "and addressed the mendicants: "
+
+msgctxt "dn1:7.4"
+msgid ""
+"“kāya nuttha, bhikkhave, etarahi kathāya sannisinnā sannipatitā, kā ca pana "
+"vo antarākathā vippakatā”ti?"
+msgstr ""
+"“Mendicants, what were you sitting talking about just now? What conversation "
+"was left unfinished?” "
+
+msgctxt "dn1:7.5"
+msgid "Evaṃ vutte, te bhikkhū bhagavantaṃ etadavocuṃ:"
+msgstr "The mendicants told him what had happened, adding:"
+
+msgctxt "dn1:7.6"
+msgid ""
+"“idha, bhante, amhākaṃ rattiyā paccūsasamayaṃ paccuṭṭhitānaṃ maṇḍalamāḷe "
+"sannisinnānaṃ sannipatitānaṃ ayaṃ saṅkhiyadhammo udapādi:"
+msgstr ""
+
+msgctxt "dn1:7.7"
+msgid ""
+"‘acchariyaṃ, āvuso, abbhutaṃ, āvuso, yāvañcidaṃ tena bhagavatā jānatā "
+"passatā arahatā sammāsambuddhena sattānaṃ nānādhimuttikatā suppaṭividitā."
+msgstr ""
+
+msgctxt "dn1:7.8"
+msgid ""
+"Ayañhi suppiyo paribbājako anekapariyāyena buddhassa avaṇṇaṃ bhāsati, "
+"dhammassa avaṇṇaṃ bhāsati, saṅghassa avaṇṇaṃ bhāsati;"
+msgstr ""
+
+msgctxt "dn1:7.9"
+msgid ""
+"suppiyassa pana paribbājakassa antevāsī brahmadatto māṇavo anekapariyāyena "
+"buddhassa vaṇṇaṃ bhāsati, dhammassa vaṇṇaṃ bhāsati, saṅghassa vaṇṇaṃ bhāsati."
+msgstr ""
+
+msgctxt "dn1:7.10"
+msgid ""
+"Itihame ubho ācariyantevāsī aññamaññassa ujuvipaccanīkavādā bhagavantaṃ "
+"piṭṭhito piṭṭhito anubandhā honti bhikkhusaṅghañcā’ti."
+msgstr ""
+
+msgctxt "dn1:7.11"
+msgid "Ayaṃ kho no, bhante, antarākathā vippakatā, atha bhagavā anuppatto”ti."
+msgstr ""
+"“This was our conversation that was unfinished when the Buddha arrived.”"
+
+# In line with the former reading of "judgmental", I think this passage is more gently critical of the monks than implied in previous translations. The phrasing here is somewhat unusual and specific, and is more active than just "giving way": they "should not do" what creates bitterness (i.e. sit around judging others). Cp MN 22, where the same phrases are used. In the Buddha's case, it has the neutral hoti, while for the mendicants it uses karaniya, as here. 
+#. </p><p><a class="sc" id="5"></a><a class="pts" id="pts1.3"></a>
+msgctxt "dn1:8.1"
+msgid ""
+"“Mamaṃ vā, bhikkhave, pare avaṇṇaṃ bhāseyyuṃ, dhammassa vā avaṇṇaṃ "
+"bhāseyyuṃ, saṅghassa vā avaṇṇaṃ bhāseyyuṃ, tatra tumhehi na āghāto na "
+"appaccayo na cetaso anabhiraddhi karaṇīyā."
+msgstr ""
+"“Mendicants, if others criticize me, the teaching, or the Saṅgha, don’t make "
+"yourselves resentful, bitter, and emotionally exasperated."
+
+msgctxt "dn1:8.2"
+msgid ""
+"Mamaṃ vā, bhikkhave, pare avaṇṇaṃ bhāseyyuṃ, dhammassa vā avaṇṇaṃ bhāseyyuṃ, "
+"saṅghassa vā avaṇṇaṃ bhāseyyuṃ, tatra ce tumhe assatha kupitā vā anattamanā "
+"vā, tumhaṃ yevassa tena antarāyo."
+msgstr "You’ll only get angry and upset, and that would be an obstacle for you."
+
+msgctxt "dn1:8.3"
+msgid ""
+"Mamaṃ vā, bhikkhave, pare avaṇṇaṃ bhāseyyuṃ, dhammassa vā avaṇṇaṃ bhāseyyuṃ, "
+"saṅghassa vā avaṇṇaṃ bhāseyyuṃ, tatra ce tumhe assatha kupitā vā anattamanā "
+"vā, api nu tumhe paresaṃ subhāsitaṃ dubbhāsitaṃ ājāneyyāthā”ti?"
+msgstr ""
+"If others were to criticize me, the teaching, or the Saṅgha, and you got "
+"angry and upset, would you be able to understand whether they spoke well or "
+"poorly?”"
+
+msgctxt "dn1:8.4"
+msgid "“No hetaṃ, bhante”."
+msgstr "“No, sir.”"
+
+#. </p><p><a class="sc" id="6"></a>
+msgctxt "dn1:9.1"
+msgid ""
+"“Mamaṃ vā, bhikkhave, pare avaṇṇaṃ bhāseyyuṃ, dhammassa vā avaṇṇaṃ "
+"bhāseyyuṃ, saṅghassa vā avaṇṇaṃ bhāseyyuṃ, tatra tumhehi abhūtaṃ abhūtato "
+"nibbeṭhetabbaṃ:"
+msgstr ""
+"“If others criticize me, the teaching, or the Saṅgha, you should explain "
+"that what is untrue is in fact untrue:"
+
+msgctxt "dn1:9.2"
+msgid ""
+"‘itipetaṃ abhūtaṃ, itipetaṃ atacchaṃ, natthi cetaṃ amhesu, na ca panetaṃ "
+"amhesu saṃvijjatī’ti."
+msgstr ""
+"‘This why that’s untrue, this is why that’s false. There’s no such thing in "
+"us, it’s not found among us.’"
+
+#. </p><p><a class="sc" id="7"></a>
+#. VAR: uppilāvitattaṃ → ubbilāvitattaṃ (bj, s1-3) | ubbillā­vitat­taṃ (pts1)
+msgctxt "dn1:10.1"
+msgid ""
+"Mamaṃ vā, bhikkhave, pare vaṇṇaṃ bhāseyyuṃ, dhammassa vā vaṇṇaṃ bhāseyyuṃ, "
+"saṃghassa vā vaṇṇaṃ bhāseyyuṃ, tatra tumhehi na ānando na somanassaṃ na "
+"cetaso uppilāvitattaṃ karaṇīyaṃ."
+msgstr ""
+"If others praise me, the teaching, or the Saṅgha, don’t make yourselves "
+"thrilled, elated, and emotionally excited."
+
+#. VAR: uppilāvitā → ubbilāvino (bj) | ubbilāvitattā (s1-3) | ubbillāvitā
+#. (pts1)
+msgctxt "dn1:10.2"
+msgid ""
+"Mamaṃ vā, bhikkhave, pare vaṇṇaṃ bhāseyyuṃ, dhammassa vā vaṇṇaṃ bhāseyyuṃ, "
+"saṃghassa vā vaṇṇaṃ bhāseyyuṃ, tatra ce tumhe assatha ānandino sumanā "
+"uppilāvitā tumhaṃ yevassa tena antarāyo."
+msgstr ""
+"You’ll only get thrilled, elated, and emotionally excited, and that would be "
+"an obstacle for you."
+
+msgctxt "dn1:10.3"
+msgid ""
+"Mamaṃ vā, bhikkhave, pare vaṇṇaṃ bhāseyyuṃ, dhammassa vā vaṇṇaṃ bhāseyyuṃ, "
+"saṃghassa vā vaṇṇaṃ bhāseyyuṃ, tatra tumhehi bhūtaṃ bhūtato paṭijānitabbaṃ:"
+msgstr ""
+"If others criticize me, the teaching, or the Saṅgha, you should acknowledge "
+"that what is true is in fact true:"
+
+msgctxt "dn1:10.4"
+msgid ""
+"‘itipetaṃ bhūtaṃ, itipetaṃ tacchaṃ, atthi cetaṃ amhesu, saṃvijjati ca "
+"panetaṃ amhesū’ti."
+msgstr ""
+"‘This why that’s true, this is why that’s correct. There is such a thing in "
+"us, it is found among us.’"
+
+#. </p><h2>
+msgctxt "dn1:11.1"
+msgid "2. Sīla"
+msgstr "Ethics"
+
+#. </h2><h3>
+msgctxt "dn1:12.1"
+msgid "2.1. Cūḷasīla"
+msgstr "The Shorter Section on Ethics"
+
+#. </h3><p><a class="sc" id="8"></a>
+msgctxt "dn1:13.1"
+msgid ""
+"Appamattakaṃ kho panetaṃ, bhikkhave, oramattakaṃ sīlamattakaṃ, yena "
+"puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr ""
+"When an ordinary person speaks praise of the Realized One, they speak only "
+"of trivial, insignificant details of mere ethics."
+
+msgctxt "dn1:13.2"
+msgid ""
+"Katamañca taṃ, bhikkhave, appamattakaṃ oramattakaṃ sīlamattakaṃ, yena "
+"puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya?"
+msgstr ""
+"And what are the trivial, insignificant details of mere ethics that an "
+"ordinary person speaks of?"
+
+#. </p><p><a class="sc" id="9"></a><a class="pts" id="pts1.4"></a>
+msgctxt "dn1:14.1"
+msgid ""
+"‘Pāṇātipātaṃ pahāya pāṇātipātā paṭivirato samaṇo gotamo nihitadaṇḍo, "
+"nihitasattho, lajjī, dayāpanno, sabbapāṇabhūtahitānukampī viharatī’ti—"
+msgstr ""
+"‘The ascetic Gotama has given up killing living creatures. He has renounced "
+"violence and harming. He’s scrupulous and kind, living full of compassion "
+"for all creatures.’"
+
+msgctxt "dn1:14.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="10"></a>
+msgctxt "dn1:15.1"
+msgid ""
+"‘Adinnādānaṃ pahāya adinnādānā paṭivirato samaṇo gotamo dinnādāyī "
+"dinnapāṭikaṅkhī, athenena sucibhūtena attanā viharatī’ti—"
+msgstr ""
+"‘The ascetic Gotama has given up stealing. He takes only what’s given, and "
+"expects only what’s given. He keeps himself pure by not thieving.’"
+
+msgctxt "dn1:15.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="11"></a>
+#. VAR: ārācārī → anācārī (mr)
+#. VAR: virato → paṭivirato (katthaci)
+msgctxt "dn1:16.1"
+msgid ""
+"‘Abrahmacariyaṃ pahāya brahmacārī samaṇo gotamo ārācārī virato methunā "
+"gāmadhammā’ti—"
+msgstr ""
+"‘The ascetic Gotama has given up unchastity. He is celibate, set apart, "
+"avoiding the common practice of sex.’"
+
+msgctxt "dn1:16.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="12"></a>
+#. VAR: theto → ṭheto (s1-3, km)
+msgctxt "dn1:17.1"
+msgid ""
+"‘Musāvādaṃ pahāya musāvādā paṭivirato samaṇo gotamo saccavādī saccasandho "
+"theto paccayiko avisaṃvādako lokassā’ti—"
+msgstr ""
+"‘The ascetic Gotama has given up lying. He speaks the truth and sticks to "
+"the truth. He’s honest and trustworthy, and doesn’t trick the world with his "
+"words.’"
+
+msgctxt "dn1:17.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="13"></a>
+msgctxt "dn1:18.1"
+msgid ""
+"‘Pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato samaṇo gotamo, ito sutvā na "
+"amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ "
+"bhedāya."
+msgstr ""
+"‘The ascetic Gotama has given up divisive speech. He doesn’t repeat in one "
+"place what he heard in another so as to divide people against each other."
+
+msgctxt "dn1:18.2"
+msgid ""
+"Iti bhinnānaṃ vā sandhātā, sahitānaṃ vā anuppadātā samaggārāmo samaggarato "
+"samagganandī samaggakaraṇiṃ vācaṃ bhāsitā’ti—"
+msgstr ""
+"Instead, he reconciles those who are divided, supporting unity, delighting "
+"in harmony, loving harmony, speaking words that promote harmony.’"
+
+msgctxt "dn1:18.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="14"></a>
+msgctxt "dn1:19.1"
+msgid ""
+"‘Pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato samaṇo gotamo, yā sā vācā "
+"nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā "
+"tathārūpiṃ vācaṃ bhāsitā’ti—"
+msgstr ""
+"‘The ascetic Gotama has given up harsh speech. He speaks in a way that’s "
+"mellow, pleasing to the ear, lovely, going to the heart, polite, likable and "
+"agreeable to many people.’"
+
+msgctxt "dn1:19.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="15"></a><a class="pts" id="pts1.5"></a>
+msgctxt "dn1:20.1"
+msgid ""
+"‘Samphappalāpaṃ pahāya samphappalāpā paṭivirato samaṇo gotamo kālavādī "
+"bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṃ vācaṃ bhāsitā kālena "
+"sāpadesaṃ pariyantavatiṃ atthasaṃhitan’ti—"
+msgstr ""
+"‘The ascetic Gotama has given up idle chatter. His words are timely, true, "
+"and meaningful, in line with the teaching and training. He says things at "
+"the right time which are valuable, reasonable, succinct, and beneficial.’"
+
+msgctxt "dn1:20.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="16"></a>
+msgctxt "dn1:21.1"
+msgid "‘Bījagāmabhūtagāmasamārambhā paṭivirato samaṇo gotamo’ti—"
+msgstr "‘The ascetic Gotama refrains from injuring plants and seeds.’"
+
+msgctxt "dn1:21.2"
+msgid "iti vā hi, bhikkhave …"
+msgstr ""
+
+msgctxt "dn1:21.3"
+msgid "pe …."
+msgstr ""
+
+#. </p><p><a class="sc" id="17"></a>
+#. VAR: virato → vikālabhojanā paṭivirato (pts1) | paṭivirato (katthaci)
+msgctxt "dn1:22.1"
+msgid "‘Ekabhattiko samaṇo gotamo rattūparato virato vikālabhojanā …."
+msgstr ""
+"‘He eats in one part of the day, abstaining from eating at night and food at "
+"the wrong time.’"
+
+#. </p><p><a class="sc" id="18"></a>
+msgctxt "dn1:23.1"
+msgid "Naccagītavāditavisūkadassanā paṭivirato samaṇo gotamo …."
+msgstr "‘He refrains from dancing, singing, music, and seeing shows.’"
+
+#. </p><p><a class="sc" id="19"></a>
+msgctxt "dn1:24.1"
+msgid ""
+"Mālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā paṭivirato samaṇo gotamo …."
+msgstr ""
+"‘He refrains from beautifying and adorning himself with garlands, perfumes, "
+"and makeup.’"
+
+#. </p><p><a class="sc" id="20"></a>
+msgctxt "dn1:25.1"
+msgid "Uccāsayanamahāsayanā paṭivirato samaṇo gotamo …."
+msgstr "‘He refrains from high and luxurious beds.’"
+
+#. </p><p><a class="sc" id="21"></a>
+msgctxt "dn1:26.1"
+msgid "Jātarūparajatapaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "‘He refrains from receiving gold and money,"
+
+#. </p><p><a class="sc" id="22"></a>
+msgctxt "dn1:27.1"
+msgid "Āmakadhaññapaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "raw grains,"
+
+#. </p><p><a class="sc" id="23"></a>
+msgctxt "dn1:28.1"
+msgid "Āmakamaṃsapaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "raw meat,"
+
+#. </p><p><a class="sc" id="24"></a>
+msgctxt "dn1:29.1"
+msgid "Itthikumārikapaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "women and girls,"
+
+#. </p><p><a class="sc" id="25"></a>
+msgctxt "dn1:30.1"
+msgid "Dāsidāsapaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "male and female bondservants,"
+
+#. </p><p><a class="sc" id="26"></a>
+msgctxt "dn1:31.1"
+msgid "Ajeḷakapaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "goats and sheep,"
+
+#. </p><p><a class="sc" id="27"></a>
+msgctxt "dn1:32.1"
+msgid "Kukkuṭasūkarapaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "chickens and pigs,"
+
+#. </p><p><a class="sc" id="28"></a>
+msgctxt "dn1:33.1"
+msgid "Hatthigavassavaḷavapaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "elephants, cows, horses, and mares,"
+
+#. </p><p><a class="sc" id="29"></a>
+msgctxt "dn1:34.1"
+msgid "Khettavatthupaṭiggahaṇā paṭivirato samaṇo gotamo …."
+msgstr "and fields and land.’"
+
+#. </p><p><a class="sc" id="30"></a>
+msgctxt "dn1:35.1"
+msgid "Dūteyyapahiṇagamanānuyogā paṭivirato samaṇo gotamo …."
+msgstr "‘He refrains from running errands and messages;"
+
+#. </p><p><a class="sc" id="31"></a>
+msgctxt "dn1:36.1"
+msgid "Kayavikkayā paṭivirato samaṇo gotamo …."
+msgstr "buying and selling;"
+
+#. </p><p><a class="sc" id="32"></a>
+msgctxt "dn1:37.1"
+msgid "Tulākūṭakaṃsakūṭamānakūṭā paṭivirato samaṇo gotamo …."
+msgstr "falsifying weights, metals, or measures;"
+
+#. </p><p><a class="sc" id="33"></a>
+msgctxt "dn1:38.1"
+msgid "Ukkoṭanavañcananikatisāciyogā paṭivirato samaṇo gotamo …."
+msgstr "bribery, fraud, cheating, and duplicity;"
+
+#. </p><p><a class="sc" id="34"></a>
+msgctxt "dn1:39.1"
+msgid ""
+"Chedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato samaṇo gotamo’ti—"
+msgstr "mutilation, murder, abduction, banditry, plunder, and violence.’"
+
+msgctxt "dn1:39.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p class="endsection">
+msgctxt "dn1:40.1"
+msgid "Cūḷasīlaṃ niṭṭhitaṃ."
+msgstr "The shorter section on ethics is finished."
+
+#. </p><h3>
+msgctxt "dn1:41.1"
+msgid "2.2. Majjhimasīla"
+msgstr "The Middle Section on Ethics"
+
+#. </h3><p><a class="sc" id="35"></a>
+#. VAR: seyyathidaṃ → seyyathīdaṃ (bj, s1-3, pts1)
+msgctxt "dn1:42.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ bījagāmabhūtagāmasamārambhaṃ anuyuttā viharanti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in injuring plants and seeds."
+
+# See my note on SN 22.54
+#. VAR: pañcamaṃ → pañcamaṃ iti vā (bj, s1-3, mr)
+msgctxt "dn1:42.2"
+msgid "mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva pañcamaṃ;"
+msgstr ""
+"These include plants propagated from roots, stems, cuttings, or joints; and "
+"those from regular seeds as the fifth."
+
+msgctxt "dn1:42.3"
+msgid "iti evarūpā bījagāmabhūtagāmasamārambhā paṭivirato samaṇo gotamo’ti—"
+msgstr "The ascetic Gotama refrains from such injury to plants and seeds.’"
+
+msgctxt "dn1:42.4"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="36"></a><a class="pts" id="pts1.6"></a>
+msgctxt "dn1:43.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ sannidhikāraparibhogaṃ anuyuttā viharanti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in storing up goods for their own enjoyment."
+
+msgctxt "dn1:43.2"
+msgid ""
+"annasannidhiṃ pānasannidhiṃ vatthasannidhiṃ yānasannidhiṃ sayanasannidhiṃ "
+"gandhasannidhiṃ āmisasannidhiṃ iti vā iti evarūpā sannidhikāraparibhogā "
+"paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes such things as food, drink, clothes, vehicles, bedding, "
+"fragrance, and material possessions. The ascetic Gotama refrains from "
+"storing up such goods.’"
+
+msgctxt "dn1:43.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="37"></a>
+msgctxt "dn1:44.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ visūkadassanaṃ anuyuttā viharanti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in seeing shows."
+
+# uyyodhika in the suttas is only used here and at AN 10.30, where is not a sham. And the definition at Pc 50 says Uyyodhikaṃ nāma yattha sampahāro dissati "where strife is seen". 
+#. VAR: meṇḍayuddhaṃ → meṇḍakayuddhaṃ (pts1)
+#. VAR: sobhanakaṃ → sobhanagarakaṃ (s1-3, km, pts1)
+#. VAR: mahiṃsayuddhaṃ → mahisayuddhaṃ (bj, s1-3, km, pts1)
+#. VAR: kumbhathūṇaṃ → kumbhathūnaṃ (bj, s1-3, mr)
+#. VAR: dhovanaṃ → dhopanaṃ (pts1)
+msgctxt "dn1:44.2"
+msgid ""
+"naccaṃ gītaṃ vāditaṃ pekkhaṃ akkhānaṃ pāṇissaraṃ vetāḷaṃ kumbhathūṇaṃ "
+"sobhanakaṃ caṇḍālaṃ vaṃsaṃ dhovanaṃ hatthiyuddhaṃ assayuddhaṃ mahiṃsayuddhaṃ "
+"usabhayuddhaṃ ajayuddhaṃ meṇḍayuddhaṃ kukkuṭayuddhaṃ vaṭṭakayuddhaṃ "
+"daṇḍayuddhaṃ muṭṭhiyuddhaṃ nibbuddhaṃ uyyodhikaṃ balaggaṃ senābyūhaṃ "
+"anīkadassanaṃ iti vā iti evarūpā visūkadassanā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes such things as dancing, singing, music, performances, and "
+"story telling; clapping, gongs, and kettle-drums; art exhibitions and "
+"acrobatic displays; battles of elephants, horses, buffaloes, bulls, goats, "
+"rams, chickens and quails; staff-fights, boxing, and wrestling; combat, roll "
+"calls of the armed forces, battle-formations, and regimental reviews. The "
+"ascetic Gotama refrains from such shows.’"
+
+msgctxt "dn1:44.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+# While gambling isn't mentioned explicitly here, jūtappamādaṭṭhānānuyoga is treated in DN 31 exclusively as gambling, so it seems that is implied.
+#. </p><p><a class="sc" id="38"></a><a class="pts" id="pts1.7"></a>
+msgctxt "dn1:45.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ jūtappamādaṭṭhānānuyogaṃ anuyuttā viharanti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in gambling that causes negligence."
+
+# https://discourse.suttacentral.net/t/some-brief-notes-on-games/5329
+#. VAR: ciṅgulikaṃ → ciṅgulakaṃ (bj)
+msgctxt "dn1:45.2"
+msgid ""
+"aṭṭhapadaṃ dasapadaṃ ākāsaṃ parihārapathaṃ santikaṃ khalikaṃ ghaṭikaṃ "
+"salākahatthaṃ akkhaṃ paṅgacīraṃ vaṅkakaṃ mokkhacikaṃ ciṅgulikaṃ pattāḷhakaṃ "
+"rathakaṃ dhanukaṃ akkharikaṃ manesikaṃ yathāvajjaṃ iti vā iti evarūpā "
+"jūtappamādaṭṭhānānuyogā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes such things as checkers, draughts, checkers in the air, "
+"hopscotch, spillikins, board-games, tip-cat, drawing straws, dice, leaf-"
+"flutes, toy ploughs, somersaults, pinwheels, toy measures, toy carts, toy "
+"bows, guessing words from syllables, and guessing another’s thoughts. The "
+"ascetic Gotama refrains from such gambling.’"
+
+msgctxt "dn1:45.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="39"></a>
+msgctxt "dn1:46.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ uccāsayanamahāsayanaṃ anuyuttā viharanti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still make use of high and luxurious bedding."
+
+#. VAR: hatthattharaṃ assattharaṃ rathattharaṃ → hatthat­thara­ṇaṃ
+#. assattharaṇaṃ rathattharaṇaṃ (pts1, mr)
+msgctxt "dn1:46.2"
+msgid ""
+"āsandiṃ pallaṅkaṃ gonakaṃ cittakaṃ paṭikaṃ paṭalikaṃ tūlikaṃ vikatikaṃ "
+"uddalomiṃ ekantalomiṃ kaṭṭissaṃ koseyyaṃ kuttakaṃ hatthattharaṃ assattharaṃ "
+"rathattharaṃ ajinappaveṇiṃ kadalimigapavarapaccattharaṇaṃ sauttaracchadaṃ "
+"ubhatolohitakūpadhānaṃ iti vā iti evarūpā uccāsayanamahāsayanā paṭivirato "
+"samaṇo gotamo’ti—"
+msgstr ""
+"This includes such things as sofas, couches, woolen covers—shag-piled, "
+"colorful, white, embroidered with flowers, quilted, embroidered with "
+"animals, double- or single-fringed—and silk covers studded with gems, as "
+"well as silken sheets, woven carpets, rugs for elephants, horses, or "
+"chariots, antelope hide rugs, and spreads of fine deer hide, with a canopy "
+"above and red cushions at both ends. The ascetic Gotama refrains from such "
+"bedding.’"
+
+msgctxt "dn1:46.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="40"></a>
+#. VAR: daṇḍaṃ → daṇḍakaṃ (bj, pts1)
+#. VAR: nāḷikaṃ → nālikaṃ (s1-3)
+#. VAR: asiṃ → asiṃ khaggaṃ (s1-3, km) | khaggaṃ (pts1)
+#, fuzzy
+msgctxt "dn1:47.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ maṇḍanavibhūsanaṭṭhānānuyogaṃ anuyuttā viharanti, seyyathidaṃ–  "
+"ucchādanaṃ parimaddanaṃ nhāpanaṃ sambāhanaṃ ādāsaṃ añjanaṃ "
+"mālāgandhavilepanaṃ mukhacuṇṇaṃ mukhalepanaṃ hatthabandhaṃ sikhābandhaṃ "
+"daṇḍaṃ nāḷikaṃ asiṃ chattaṃ citrupāhanaṃ uṇhīsaṃ maṇiṃ vālabījaniṃ odātāni "
+"vatthāni dīghadasāni iti vā iti evarūpā maṇḍanavibhūsanaṭṭhānānuyogā "
+"paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in beautifying and adorning themselves with garlands, "
+"fragrance, and makeup. This includes such things as applying beauty products "
+"by anointing, massaging, bathing, and rubbing; mirrors, ointments, garlands, "
+"fragrances, and makeup; face-powder, foundation, bracelets, head-bands, "
+"fancy walking-sticks or containers, rapiers, parasols, fancy sandals, "
+"turbans, jewelry, choweries, and long-fringed white robes. The ascetic "
+"Gotama refrains from such beautification and adornment.’ "
+
+msgctxt "dn1:47.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="41"></a><a class="pts" id="pts1.8"></a>
+msgctxt "dn1:48.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ tiracchānakathaṃ anuyuttā viharanti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in unworthy talk."
+
+#. VAR: itthikathaṃ → itthīkathaṃ (bj) | itthikathaṃ purisakathaṃ (s1, km, mr)
+#. | itthīkathaṃ purisakathaṃ (s2, s3)
+msgctxt "dn1:48.2"
+msgid ""
+"rājakathaṃ corakathaṃ mahāmattakathaṃ senākathaṃ bhayakathaṃ yuddhakathaṃ "
+"annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ "
+"ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ "
+"itthikathaṃ sūrakathaṃ visikhākathaṃ kumbhaṭṭhānakathaṃ pubbapetakathaṃ "
+"nānattakathaṃ lokakkhāyikaṃ samuddakkhāyikaṃ itibhavābhavakathaṃ iti vā iti "
+"evarūpāya tiracchānakathāya paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes such topics as talk about kings, bandits, and ministers; talk "
+"about armies, threats, and wars; talk about food, drink, clothes, and beds; "
+"talk about garlands and fragrances; talk about family, vehicles, villages, "
+"towns, cities, and countries; talk about women and heroes; street talk and "
+"well talk; talk about the departed; motley talk; tales of land and sea; and "
+"talk about being reborn in this or that state of existence. The ascetic "
+"Gotama refrains from such unworthy talk."
+
+msgctxt "dn1:48.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="42"></a>
+msgctxt "dn1:49.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ viggāhikakathaṃ anuyuttā viharanti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in arguments."
+
+#. VAR: adhiciṇṇaṃ → āciṇṇaṃ (bj) | aviciṇṇaṃ (pts1)
+msgctxt "dn1:49.2"
+msgid ""
+"na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ "
+"tvaṃ imaṃ dhammavinayaṃ ājānissasi, micchā paṭipanno tvamasi, ahamasmi sammā "
+"paṭipanno, sahitaṃ me, asahitaṃ te, purevacanīyaṃ pacchā avaca, "
+"pacchāvacanīyaṃ pure avaca, adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, "
+"niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosīti iti vā "
+"iti evarūpāya viggāhikakathāya paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"They say such things as: “You don’t understand this teaching and training. I "
+"understand this teaching and training. What, you understand this teaching "
+"and training? You’re practicing wrong. I’m practicing right. I stay on "
+"topic, you don’t. You said last what you should have said first. You said "
+"first what you should have said last. What you’ve thought so much about has "
+"been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re "
+"trapped; get yourself out of this—if you can!” The ascetic Gotama refrains "
+"from such argumentative talk."
+
+msgctxt "dn1:49.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="43"></a>
+msgctxt "dn1:50.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpaṃ dūteyyapahiṇagamanānuyogaṃ anuyuttā viharanti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in running errands and messages."
+
+msgctxt "dn1:50.2"
+msgid ""
+"raññaṃ, rājamahāmattānaṃ, khattiyānaṃ, brāhmaṇānaṃ, gahapatikānaṃ, kumārānaṃ "
+"“idha gaccha, amutrāgaccha, idaṃ hara, amutra idaṃ āharā”ti iti vā iti "
+"evarūpā dūteyyapahiṇagamanānuyogā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes running errands for rulers, ministers, aristocrats, brahmins, "
+"householders, or princes who say: “Go here, go there. Take this, bring that "
+"from there.” The ascetic Gotama refrains from such errands."
+
+msgctxt "dn1:50.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="44"></a>
+#. VAR: iti → iti (bj, mr)
+#. VAR: lābhena lābhaṃ nijigīsitāro ca → lābhena ca lābhaṃ nijigiṃsitāro (bj,
+#. s1-3, pts1)
+msgctxt "dn1:51.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"kuhakā ca honti, lapakā ca nemittikā ca nippesikā ca, lābhena lābhaṃ "
+"nijigīsitāro ca iti evarūpā kuhanalapanā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still engage in deception, flattery, hinting, and belittling, and "
+"using material possessions to pursue other material possessions. The ascetic "
+"Gotama refrains from such deception and flattery.’"
+
+msgctxt "dn1:51.2"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p class="endsection">
+msgctxt "dn1:52.1"
+msgid "Majjhimasīlaṃ niṭṭhitaṃ."
+msgstr "The middle section on ethics is finished."
+
+#. </p><h3>
+msgctxt "dn1:53.1"
+msgid "2.3. Mahāsīla"
+msgstr "The Large Section on Ethics"
+
+# Translations of tiracchana in such contexts (debased, low, etc.) are often harsher than the old explanations. In Bhi pc 49-50, we have Tiracchā­na­vijjā nāma yaṃ kiñci bāhirakaṃ anat­tha­saṃhi­taṃ, while the commentary says Tiracchānavijjā nāma aniyyānikattā saggamokkhamaggānaṃ tiracchānabhūtā. 
+#. </h3><p><a class="sc" id="45"></a><a class="pts" id="pts1.9"></a>
+msgctxt "dn1:54.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still earn a living by unworthy branches of knowledge, by wrong "
+"livelihood."
+
+#. VAR: khattavijjā → khettavijjā (s1-3)
+msgctxt "dn1:54.2"
+msgid ""
+"aṅgaṃ nimittaṃ uppātaṃ supinaṃ lakkhaṇaṃ mūsikacchinnaṃ aggihomaṃ dabbihomaṃ "
+"thusahomaṃ kaṇahomaṃ taṇḍulahomaṃ sappihomaṃ telahomaṃ mukhahomaṃ "
+"lohitahomaṃ aṅgavijjā vatthuvijjā khattavijjā sivavijjā bhūtavijjā "
+"bhūrivijjā ahivijjā visavijjā vicchikavijjā mūsikavijjā sakuṇavijjā "
+"vāyasavijjā pakkajjhānaṃ saraparittāṇaṃ migacakkaṃ iti vā iti evarūpāya "
+"tiracchānavijjāya micchājīvā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes such fields as limb-reading, omenology, divining celestial "
+"portents, interpreting dreams, divining bodily marks, divining holes in "
+"cloth gnawed by mice, fire offerings, ladle offerings, offerings of husks, "
+"rice powder, rice, ghee, or oil; offerings from the mouth, blood sacrifices, "
+"palmistry; geomancy for building sites, fields, and cemeteries; exorcisms, "
+"earth magic, snake charming, poisons; the crafts of the scorpion, the rat, "
+"the bird, and the crow; prophesying life span, chanting for protection, and "
+"animal cries. The ascetic Gotama refrains from such unworthy branches of "
+"knowledge, such wrong livelihood.’"
+
+msgctxt "dn1:54.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="46"></a>
+msgctxt "dn1:55.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still earn a living by unworthy branches of knowledge, by wrong "
+"livelihood."
+
+msgctxt "dn1:55.2"
+msgid ""
+"maṇilakkhaṇaṃ vatthalakkhaṇaṃ daṇḍalakkhaṇaṃ satthalakkhaṇaṃ asilakkhaṇaṃ "
+"usulakkhaṇaṃ dhanulakkhaṇaṃ āvudhalakkhaṇaṃ itthilakkhaṇaṃ purisalakkhaṇaṃ "
+"kumāralakkhaṇaṃ kumārilakkhaṇaṃ dāsalakkhaṇaṃ dāsilakkhaṇaṃ hatthilakkhaṇaṃ "
+"assalakkhaṇaṃ mahiṃsalakkhaṇaṃ usabhalakkhaṇaṃ golakkhaṇaṃ ajalakkhaṇaṃ "
+"meṇḍalakkhaṇaṃ kukkuṭalakkhaṇaṃ vaṭṭakalakkhaṇaṃ godhālakkhaṇaṃ "
+"kaṇṇikālakkhaṇaṃ kacchapalakkhaṇaṃ migalakkhaṇaṃ iti vā iti evarūpāya "
+"tiracchānavijjāya micchājīvā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes reading the marks of gems, cloth, clubs, swords, spears, "
+"arrows, weapons, women, men, boys, girls, male and female bondservants, "
+"elephants, horses, buffaloes, bulls, cows, goats, rams, chickens, quails, "
+"monitor lizards, rabbits, tortoises, or deer. The ascetic Gotama refrains "
+"from such unworthy branches of knowledge, such wrong livelihood.’"
+
+msgctxt "dn1:55.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="47"></a><a class="pts" id="pts1.10"></a>
+msgctxt "dn1:56.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still earn a living by unworthy branches of knowledge, by wrong "
+"livelihood."
+
+msgctxt "dn1:56.2"
+msgid ""
+"raññaṃ niyyānaṃ bhavissati, raññaṃ aniyyānaṃ bhavissati, abbhantarānaṃ "
+"raññaṃ upayānaṃ bhavissati, bāhirānaṃ raññaṃ apayānaṃ bhavissati, bāhirānaṃ "
+"raññaṃ upayānaṃ bhavissati, abbhantarānaṃ raññaṃ apayānaṃ bhavissati, "
+"abbhantarānaṃ raññaṃ jayo bhavissati, bāhirānaṃ raññaṃ parājayo bhavissati, "
+"bāhirānaṃ raññaṃ jayo bhavissati, abbhantarānaṃ raññaṃ parājayo bhavissati, "
+"iti imassa jayo bhavissati, imassa parājayo bhavissati iti vā iti evarūpāya "
+"tiracchānavijjāya micchājīvā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes making predictions that the king will march forth or march "
+"back; or that our king will attack and the enemy king will retreat, or vice "
+"versa; or that our king will triumph and the enemy king will be defeated, or "
+"vice versa; and so there will be victory for one and defeat for the other. "
+"The ascetic Gotama refrains from such unworthy branches of knowledge, such "
+"wrong livelihood.’"
+
+msgctxt "dn1:56.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="48"></a><a class="pts" id="pts1.11"></a>
+msgctxt "dn1:57.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still earn a living by unworthy branches of knowledge, by wrong "
+"livelihood."
+
+#. VAR: sūriyaggāho → suriyaggāho (bj, s1-3, km, pts1)
+#. VAR: devadudrabhi → devadundubhi (bj, s1-3, km, pts1)
+msgctxt "dn1:57.2"
+msgid ""
+"candaggāho bhavissati, sūriyaggāho bhavissati, nakkhattaggāho bhavissati, "
+"candimasūriyānaṃ pathagamanaṃ bhavissati, candimasūriyānaṃ uppathagamanaṃ "
+"bhavissati, nakkhattānaṃ pathagamanaṃ bhavissati, nakkhattānaṃ "
+"uppathagamanaṃ bhavissati, ukkāpāto bhavissati, disāḍāho bhavissati, "
+"bhūmicālo bhavissati, devadudrabhi bhavissati, candimasūriyanakkhattānaṃ "
+"uggamanaṃ ogamanaṃ saṃkilesaṃ vodānaṃ bhavissati, evaṃvipāko candaggāho "
+"bhavissati, evaṃvipāko sūriyaggāho bhavissati, evaṃvipāko nakkhattaggāho "
+"bhavissati, evaṃvipākaṃ candimasūriyānaṃ pathagamanaṃ bhavissati, "
+"evaṃvipākaṃ candimasūriyānaṃ uppathagamanaṃ bhavissati, evaṃvipākaṃ "
+"nakkhattānaṃ pathagamanaṃ bhavissati, evaṃvipākaṃ nakkhattānaṃ "
+"uppathagamanaṃ bhavissati, evaṃvipāko ukkāpāto bhavissati, evaṃvipāko "
+"disāḍāho bhavissati, evaṃvipāko bhūmicālo bhavissati, evaṃvipāko "
+"devadudrabhi bhavissati, evaṃvipākaṃ candimasūriyanakkhattānaṃ uggamanaṃ "
+"ogamanaṃ saṃkilesaṃ vodānaṃ bhavissati iti vā iti evarūpāya "
+"tiracchānavijjāya micchājīvā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes making predictions that there will be an eclipse of the moon, "
+"or sun, or stars; that the sun, moon, and stars will be in conjunction or in "
+"opposition; that there will be a meteor shower, a fiery sky, an earthquake, "
+"thunder; that there will be a rising, a setting, a darkening, a brightening "
+"of the moon, sun, and stars. And it also includes making predictions about "
+"the results of all such phenomena. The ascetic Gotama refrains from such "
+"unworthy branches of knowledge, such wrong livelihood.’"
+
+msgctxt "dn1:57.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="49"></a>
+msgctxt "dn1:58.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still earn a living by unworthy branches of knowledge, by wrong "
+"livelihood."
+
+msgctxt "dn1:58.2"
+msgid ""
+"suvuṭṭhikā bhavissati, dubbuṭṭhikā bhavissati, subhikkhaṃ bhavissati, "
+"dubbhikkhaṃ bhavissati, khemaṃ bhavissati, bhayaṃ bhavissati, rogo "
+"bhavissati, ārogyaṃ bhavissati, muddā, gaṇanā, saṅkhānaṃ, kāveyyaṃ, "
+"lokāyataṃ iti vā iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato "
+"samaṇo gotamo’ti—"
+msgstr ""
+"This includes predicting whether there will be plenty of rain or drought; "
+"plenty to eat or famine; an abundant harvest or a bad harvest; security or "
+"peril; sickness or health. It also includes such occupations as computing, "
+"accounting, calculating, poetry, and cosmology. The ascetic Gotama refrains "
+"from such unworthy branches of knowledge, such wrong livelihood.’"
+
+msgctxt "dn1:58.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="50"></a>
+msgctxt "dn1:59.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still earn a living by unworthy branches of knowledge, by wrong "
+"livelihood."
+
+# Omitting hanujappana as it is absent from comm.
+msgctxt "dn1:59.2"
+msgid ""
+"āvāhanaṃ vivāhanaṃ saṃvaraṇaṃ vivaraṇaṃ saṃkiraṇaṃ vikiraṇaṃ subhagakaraṇaṃ "
+"dubbhagakaraṇaṃ viruddhagabbhakaraṇaṃ jivhānibandhanaṃ hanusaṃhananaṃ "
+"hatthābhijappanaṃ hanujappanaṃ kaṇṇajappanaṃ ādāsapañhaṃ kumārikapañhaṃ "
+"devapañhaṃ ādiccupaṭṭhānaṃ mahatupaṭṭhānaṃ abbhujjalanaṃ sirivhāyanaṃ iti vā "
+"iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes making arrangements for giving and taking in marriage; for "
+"engagement and divorce; and for scattering rice inwards or outwards at the "
+"wedding ceremony. It also includes casting spells for good or bad luck, "
+"curses to prevent conception, bind the tongue, or lock the jaws; charms for "
+"the hands and ears; questioning a mirror, a girl, or a god as an oracle; "
+"worshiping the sun, worshiping the Great One, breathing fire, and invoking "
+"Siri, the goddess of luck. The ascetic Gotama refrains from such unworthy "
+"branches of knowledge, such wrong livelihood.’"
+
+msgctxt "dn1:59.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="51"></a><a class="pts" id="pts1.12"></a>
+msgctxt "dn1:60.1"
+msgid ""
+"‘Yathā vā paneke bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te "
+"evarūpāya tiracchānavijjāya micchājīvena jīvitaṃ kappenti, seyyathidaṃ—"
+msgstr ""
+"‘There are some ascetics and brahmins who, while enjoying food given in "
+"faith, still earn a living by unworthy branches of knowledge, by wrong "
+"livelihood."
+
+msgctxt "dn1:60.2"
+msgid ""
+"santikammaṃ paṇidhikammaṃ bhūtakammaṃ bhūrikammaṃ vassakammaṃ vossakammaṃ "
+"vatthukammaṃ vatthuparikammaṃ ācamanaṃ nhāpanaṃ juhanaṃ vamanaṃ virecanaṃ "
+"uddhaṃvirecanaṃ adhovirecanaṃ sīsavirecanaṃ kaṇṇatelaṃ nettatappanaṃ "
+"natthukammaṃ añjanaṃ paccañjanaṃ sālākiyaṃ sallakattiyaṃ dārakatikicchā "
+"mūlabhesajjānaṃ anuppadānaṃ osadhīnaṃ paṭimokkho iti vā iti evarūpāya "
+"tiracchānavijjāya micchājīvā paṭivirato samaṇo gotamo’ti—"
+msgstr ""
+"This includes rites for propitiation, for fulfilling wishes, for ghosts, for "
+"the earth, for rain, for property settlement, and for preparing and "
+"consecrating house sites, and those involving rinsing and bathing, and "
+"oblations. It also includes administering emetics, purgatives, expectorants "
+"and phlegmagogues; administering ear-oils, eye restoratives, nasal medicine, "
+"ointments and counter-ointments; surgery with needle and scalpel, treating "
+"children, prescribing root medicines, and binding on herbs. The ascetic "
+"Gotama refrains from such unworthy branches of knowledge, such wrong "
+"livelihood.’"
+
+msgctxt "dn1:60.3"
+msgid "iti vā hi, bhikkhave, puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr "Such is an ordinary person’s praise of the Realized One."
+
+#. </p><p><a class="sc" id="52"></a>
+msgctxt "dn1:61.1"
+msgid ""
+"Idaṃ kho, bhikkhave, appamattakaṃ oramattakaṃ sīlamattakaṃ, yena puthujjano "
+"tathāgatassa vaṇṇaṃ vadamāno vadeyya."
+msgstr ""
+"These are the trivial, insignificant details of mere ethics that an ordinary "
+"person speaks of when they speak praise of the Realized One."
+
+#. </p><p class="endsection">
+msgctxt "dn1:62.1"
+msgid "Mahāsīlaṃ niṭṭhitaṃ."
+msgstr "The longer section on ethics is finished."
+
+#. </p><h2>
+msgctxt "dn1:63.1"
+msgid "3. Diṭṭhi"
+msgstr "Views"
+
+#. </h2><h3>
+msgctxt "dn1:64.1"
+msgid "3.1. Pubbantakappika"
+msgstr "Theories About the Past"
+
+#. </h3><p><a class="sc" id="53"></a>
+msgctxt "dn1:65.1"
+msgid ""
+"Atthi, bhikkhave, aññeva dhammā gambhīrā duddasā duranubodhā santā paṇītā "
+"atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā "
+"pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"There are other principles—deep, hard to see, hard to understand, peaceful, "
+"sublime, beyond the scope of reason, subtle, comprehensible to the astute—"
+"which the Realized One makes known after realizing them with his own "
+"insight. Those who genuinely praise the Realized One would rightly speak of "
+"these things."
+
+msgctxt "dn1:65.2"
+msgid ""
+"Katame ca te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā paṇītā "
+"atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā "
+"pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ?"
+msgstr "And what are these principles?"
+
+#. </p><p><a class="sc" id="54"></a><a class="pts" id="pts1.13"></a>
+msgctxt "dn1:66.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā pubbantakappikā pubbantānudiṭṭhino, "
+"pubbantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti aṭṭhārasahi "
+"vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who theorize about the past, and assert "
+"various hypotheses concerning the past on eighteen grounds."
+
+msgctxt "dn1:66.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha pubbantakappikā "
+"pubbantānudiṭṭhino pubbantaṃ ārabbha anekavihitāni adhimuttipadāni "
+"abhivadanti aṭṭhārasahi vatthūhi?"
+msgstr "And what are the eighteen grounds on which they rely?"
+
+#. </p><h4>
+msgctxt "dn1:67.1"
+msgid "3.1.1. Sassatavāda"
+msgstr "Eternalism"
+
+#. </h4><p><a class="sc" id="55"></a>
+msgctxt "dn1:68.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā sassatavādā, sassataṃ attānañca lokañca "
+"paññapenti catūhi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who are eternalists, who assert that "
+"the self and the cosmos are eternal on four grounds."
+
+msgctxt "dn1:68.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha sassatavādā sassataṃ "
+"attānañca lokañca paññapenti catūhi vatthūhi?"
+msgstr "And what are the four grounds on which they rely?"
+
+#. </p><p><a class="sc" id="56"></a><a class="pts" id="pts1.14"></a>
+#. VAR: () → (parisuddhe pariyodāte anaṅgaṇe viga­tū­pak­kilese) (s1-3, mr)
+msgctxt "dn1:69.1"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte () anekavihitaṃ pubbenivāsaṃ "
+"anussarati."
+msgstr ""
+"It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
+"diligent effort, and right focus—experiences a samādhi of the heart of such "
+"a kind that they recollect their many kinds of past lives."
+
+msgctxt "dn1:69.2"
+msgid "Seyyathidaṃ—"
+msgstr "That is:"
+
+msgctxt "dn1:69.3"
+msgid ""
+"ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo "
+"dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi "
+"jātiyo jātisatampi jātisahassampi jātisatasahassampi anekānipi jātisatāni "
+"anekānipi jātisahassāni anekānipi jātisatasahassāni:"
+msgstr ""
+"one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a "
+"thousand, a hundred thousand lives; many eons of the cosmos contracting, "
+"many eons of the cosmos evolving, many eons of the cosmos contracting and "
+"evolving. They remember:"
+
+#. VAR: udapādiṃ → upapādiṃ (bj, pts1)
+msgctxt "dn1:69.4"
+msgid ""
+"‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ;"
+msgstr ""
+"‘There, I was named this, my clan was that, I looked like this, and that was "
+"my food. This was how I felt pleasure and pain, and that was how my life "
+"ended. When I passed away from that place I was reborn somewhere else. "
+
+msgctxt "dn1:69.5"
+msgid ""
+"tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti."
+msgstr ""
+"There, too, I was named this, my clan was that, I looked like this, and that "
+"was my food. This was how I felt pleasure and pain, and that was how my life "
+"ended. When I passed away from that place I was reborn here.’"
+
+msgctxt "dn1:69.6"
+msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
+msgstr ""
+"And so they recollect their many kinds of past lives, with features and "
+"details."
+
+#. </p><p><a class="sc" id="57"></a>
+msgctxt "dn1:70.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:70.2"
+msgid "‘sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito;"
+msgstr ""
+"‘The self and the cosmos are eternal, barren, steady as a mountain peak, "
+"standing firm like a pillar."
+
+msgctxt "dn1:70.3"
+msgid ""
+"te ca sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
+"sassatisamaṃ."
+msgstr ""
+"They remain the same for all eternity, while these sentient beings wander "
+"and transmigrate and pass away and rearise."
+
+msgctxt "dn1:70.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:70.5"
+msgid ""
+"Ahañhi ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya "
+"sammāmanasikāramanvāya tathārūpaṃ cetosamādhiṃ phusāmi, yathāsamāhite citte "
+"anekavihitaṃ pubbenivāsaṃ anussarāmi."
+msgstr ""
+"Because by dint of keen, resolute, committed, and diligent effort, and right "
+"focus I experience a samādhi of the heart of such a kind that I recollect my "
+"many kinds of past lives,"
+
+msgctxt "dn1:70.6"
+msgid "Seyyathidaṃ—"
+msgstr ""
+
+msgctxt "dn1:70.7"
+msgid ""
+"ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo "
+"dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi "
+"jātiyo jātisatampi jātisahassampi jātisatasahassampi anekānipi jātisatāni "
+"anekānipi jātisahassāni anekānipi jātisatasahassāni:"
+msgstr ""
+
+msgctxt "dn1:70.8"
+msgid ""
+"“amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ;"
+msgstr ""
+
+msgctxt "dn1:70.9"
+msgid ""
+"tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno”ti."
+msgstr ""
+
+msgctxt "dn1:70.10"
+msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarāmi."
+msgstr "with features and details."
+
+#. </p><p><a class="sc" id="58"></a>
+msgctxt "dn1:71.1"
+msgid "Imināmahaṃ etaṃ jānāmi:"
+msgstr "Because of this I know:"
+
+msgctxt "dn1:71.2"
+msgid "“yathā sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito;"
+msgstr ""
+"‘The self and the cosmos are eternal, barren, steady as a mountain peak, "
+"standing firm like a pillar."
+
+msgctxt "dn1:71.3"
+msgid ""
+"te ca sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
+"sassatisaman”’ti."
+msgstr ""
+"They remain the same for all eternity, while these sentient beings wander "
+"and transmigrate and pass away and rearise.’”"
+
+msgctxt "dn1:71.4"
+msgid ""
+"Idaṃ, bhikkhave, paṭhamaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"sassatavādā sassataṃ attānañca lokañca paññapenti."
+msgstr ""
+"This is the first ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos are eternal."
+
+msgctxt "dn1:71.5"
+msgid "(1: 1)"
+msgstr ""
+
+#. </p><p><a class="sc" id="59"></a><a class="pts" id="pts1.15"></a>
+msgctxt "dn1:72.1"
+msgid ""
+"Dutiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha sassatavādā sassataṃ "
+"attānañca lokañca paññapenti?"
+msgstr "And what is the second ground on which they rely?"
+
+msgctxt "dn1:72.2"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ pubbenivāsaṃ "
+"anussarati."
+msgstr ""
+"It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
+"diligent effort, and right focus—experiences a samādhi of the heart of such "
+"a kind that they recollect their many kinds of past lives."
+
+msgctxt "dn1:72.3"
+msgid "Seyyathidaṃ—"
+msgstr "That is:"
+
+msgctxt "dn1:72.4"
+msgid ""
+"ekampi saṃvaṭṭavivaṭṭaṃ dvepi saṃvaṭṭavivaṭṭāni tīṇipi saṃvaṭṭavivaṭṭāni "
+"cattāripi saṃvaṭṭavivaṭṭāni pañcapi saṃvaṭṭavivaṭṭāni dasapi "
+"saṃvaṭṭavivaṭṭāni:"
+msgstr ""
+"one eon of the cosmos contracting and evolving; two, three, four, five, or "
+"ten eons of the cosmos contracting and evolving. They remember:"
+
+msgctxt "dn1:72.5"
+msgid ""
+"‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ;"
+msgstr ""
+"‘There, I was named this, my clan was that, I looked like this, and that was "
+"my food. This was how I felt pleasure and pain, and that was how my life "
+"ended. When I passed away from that place I was reborn somewhere else. "
+
+msgctxt "dn1:72.6"
+msgid ""
+"tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti."
+msgstr ""
+"There, too, I was named this, my clan was that, I looked like this, and that "
+"was my food. This was how I felt pleasure and pain, and that was how my life "
+"ended. When I passed away from that place I was reborn here.’"
+
+msgctxt "dn1:72.7"
+msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
+msgstr ""
+"And so they recollect their many kinds of past lives, with features and "
+"details. "
+
+#. </p><p><a class="sc" id="60"></a>
+msgctxt "dn1:73.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:73.2"
+msgid "‘sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito;"
+msgstr ""
+"‘The self and the cosmos are eternal, barren, steady as a mountain peak, "
+"standing firm like a pillar."
+
+msgctxt "dn1:73.3"
+msgid ""
+"te ca sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
+"sassatisamaṃ."
+msgstr ""
+"They remain the same for all eternity, while these sentient beings wander "
+"and transmigrate and pass away and rearise."
+
+msgctxt "dn1:73.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:73.5"
+msgid ""
+"Ahañhi ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya "
+"sammāmanasikāramanvāya tathārūpaṃ cetosamādhiṃ phusāmi yathāsamāhite citte "
+"anekavihitaṃ pubbenivāsaṃ anussarāmi."
+msgstr ""
+"Because by dint of keen, resolute, committed, and diligent effort, and right "
+"focus I experience a samādhi of the heart of such a kind that I recollect my "
+"many kinds of past lives,"
+
+msgctxt "dn1:73.6"
+msgid "Seyyathidaṃ—"
+msgstr ""
+
+msgctxt "dn1:73.7"
+msgid ""
+"ekampi saṃvaṭṭavivaṭṭaṃ dvepi saṃvaṭṭavivaṭṭāni tīṇipi saṃvaṭṭavivaṭṭāni "
+"cattāripi saṃvaṭṭavivaṭṭāni pañcapi saṃvaṭṭavivaṭṭāni dasapi "
+"saṃvaṭṭavivaṭṭāni:"
+msgstr ""
+
+msgctxt "dn1:73.8"
+msgid ""
+"“amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ;"
+msgstr ""
+
+msgctxt "dn1:73.9"
+msgid ""
+"tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno”ti."
+msgstr ""
+
+msgctxt "dn1:73.10"
+msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarāmi."
+msgstr "with features and details."
+
+#. </p><p><a class="sc" id="61"></a>
+msgctxt "dn1:74.1"
+msgid "Imināmahaṃ etaṃ jānāmi:"
+msgstr "Because of this I know:"
+
+#, fuzzy
+msgctxt "dn1:74.2"
+msgid ""
+"“yathā sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito, te ca "
+"sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
+"sassatisaman”’ti."
+msgstr ""
+"‘The self and the cosmos are eternal, barren, steady as a mountain peak, "
+"standing firm like a pillar. They remain the same for all eternity, while "
+"these sentient beings wander and transmigrate and pass away and rearise.’”"
+
+msgctxt "dn1:74.3"
+msgid ""
+"Idaṃ, bhikkhave, dutiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"sassatavādā sassataṃ attānañca lokañca paññapenti."
+msgstr ""
+"This is the second ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos are eternal."
+
+msgctxt "dn1:74.4"
+msgid "(2: 2)"
+msgstr ""
+
+#. </p><p><a class="sc" id="62"></a>
+msgctxt "dn1:75.1"
+msgid ""
+"Tatiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha sassatavādā sassataṃ "
+"attānañca lokañca paññapenti?"
+msgstr "And what is the third ground on which they rely?"
+
+msgctxt "dn1:75.2"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ pubbenivāsaṃ "
+"anussarati."
+msgstr ""
+"It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
+"diligent effort, and right focus—experiences a samādhi of the heart of such "
+"a kind that they recollect their many kinds of past lives."
+
+msgctxt "dn1:75.3"
+msgid "Seyyathidaṃ—"
+msgstr "That is:"
+
+msgctxt "dn1:75.4"
+msgid ""
+"dasapi saṃvaṭṭavivaṭṭāni vīsampi saṃvaṭṭavivaṭṭāni tiṃsampi "
+"saṃvaṭṭavivaṭṭāni cattālīsampi saṃvaṭṭavivaṭṭāni:"
+msgstr ""
+"ten eons of the cosmos contracting and evolving; twenty, thirty, or forty "
+"eons of the cosmos contracting and evolving. They remember:"
+
+msgctxt "dn1:75.5"
+msgid ""
+"‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ;"
+msgstr ""
+"‘There, I was named this, my clan was that, I looked like this, and that was "
+"my food. This was how I felt pleasure and pain, and that was how my life "
+"ended. When I passed away from that place I was reborn somewhere else. "
+
+msgctxt "dn1:75.6"
+msgid ""
+"tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti."
+msgstr ""
+"There, too, I was named this, my clan was that, I looked like this, and that "
+"was my food. This was how I felt pleasure and pain, and that was how my life "
+"ended. When I passed away from that place I was reborn here.’"
+
+msgctxt "dn1:75.7"
+msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
+msgstr ""
+"And so they recollect their many kinds of past lives, with features and "
+"details. "
+
+#. </p><p><a class="sc" id="63"></a><a class="pts" id="pts1.16"></a>
+msgctxt "dn1:76.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:76.2"
+msgid "‘sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito;"
+msgstr ""
+"‘The self and the cosmos are eternal, barren, steady as a mountain peak, "
+"standing firm like a pillar."
+
+msgctxt "dn1:76.3"
+msgid ""
+"te ca sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
+"sassatisamaṃ."
+msgstr ""
+"They remain the same for all eternity, while these sentient beings wander "
+"and transmigrate and pass away and rearise."
+
+msgctxt "dn1:76.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:76.5"
+msgid ""
+"Ahañhi ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya "
+"sammāmanasikāramanvāya tathārūpaṃ cetosamādhiṃ phusāmi, yathāsamāhite citte "
+"anekavihitaṃ pubbenivāsaṃ anussarāmi."
+msgstr ""
+"Because by dint of keen, resolute, committed, and diligent effort, and right "
+"focus I experience a samādhi of the heart of such a kind that I recollect my "
+"many kinds of past lives,"
+
+msgctxt "dn1:76.6"
+msgid "Seyyathidaṃ—"
+msgstr ""
+
+msgctxt "dn1:76.7"
+msgid ""
+"dasapi saṃvaṭṭavivaṭṭāni vīsampi saṃvaṭṭavivaṭṭāni tiṃsampi "
+"saṃvaṭṭavivaṭṭāni cattālīsampi saṃvaṭṭavivaṭṭāni:"
+msgstr ""
+
+msgctxt "dn1:76.8"
+msgid ""
+"“amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ;"
+msgstr ""
+
+msgctxt "dn1:76.9"
+msgid ""
+"tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno”ti."
+msgstr ""
+
+msgctxt "dn1:76.10"
+msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarāmi."
+msgstr "with features and details."
+
+#. </p><p><a class="sc" id="64"></a>
+msgctxt "dn1:77.1"
+msgid "Imināmahaṃ etaṃ jānāmi:"
+msgstr "Because of this I know:"
+
+msgctxt "dn1:77.2"
+msgid ""
+"“yathā sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito, te ca "
+"sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
+"sassatisaman”’ti."
+msgstr ""
+"‘The self and the cosmos are eternal, barren, steady as a mountain peak, "
+"standing firm like a pillar. They remain the same for all eternity, while "
+"these sentient beings wander and transmigrate and pass away and rearise.’”"
+
+msgctxt "dn1:77.3"
+msgid ""
+"Idaṃ, bhikkhave, tatiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"sassatavādā sassataṃ attānañca lokañca paññapenti."
+msgstr ""
+"This is the third ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos are eternal."
+
+msgctxt "dn1:77.4"
+msgid "(3: 3)"
+msgstr ""
+
+#. </p><p><a class="sc" id="65"></a>
+msgctxt "dn1:78.1"
+msgid ""
+"Catutthe ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha sassatavādā sassataṃ "
+"attānañca lokañca paññapenti?"
+msgstr "And what is the fourth ground on which they rely?"
+
+msgctxt "dn1:78.2"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā takkī hoti vīmaṃsī, so "
+"takkapariyāhataṃ vīmaṃsānucaritaṃ sayaṃ paṭibhānaṃ evamāha:"
+msgstr ""
+"It’s when some ascetic or brahmin relies on logic and inquiry. They speak of "
+"what they have worked out by logic, following a line of inquiry, expressing "
+"their own perspective:"
+
+msgctxt "dn1:78.3"
+msgid "‘sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito;"
+msgstr ""
+"‘The self and the cosmos are eternal, barren, steady as a mountain peak, "
+"standing firm like a pillar."
+
+msgctxt "dn1:78.4"
+msgid ""
+"te ca sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
+"sassatisaman’ti."
+msgstr ""
+"They remain the same for all eternity, while these sentient beings wander "
+"and transmigrate and pass away and rearise.’"
+
+msgctxt "dn1:78.5"
+msgid ""
+"Idaṃ, bhikkhave, catutthaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"sassatavādā sassataṃ attānañca lokañca paññapenti."
+msgstr ""
+"This is the fourth ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos are eternal."
+
+msgctxt "dn1:78.6"
+msgid "(4: 4)"
+msgstr ""
+
+#. </p><p><a class="sc" id="66"></a>
+msgctxt "dn1:79.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā sassatavādā sassataṃ attānañca "
+"lokañca paññapenti catūhi vatthūhi."
+msgstr ""
+"These are the four grounds on which those ascetics and brahmins assert that "
+"the self and the cosmos are eternal."
+
+msgctxt "dn1:79.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā sassatavādā sassataṃ attānañca "
+"lokañca paññapenti, sabbe te imeheva catūhi vatthūhi, etesaṃ vā aññatarena;"
+msgstr ""
+"Any ascetics and brahmins who assert that the self and the cosmos are "
+"eternal do so on one or other of these four grounds."
+
+# I have my doubts about this phrase: in every other occurrence, ito bahiddha means "outside of the Buddhist community". Still, comm and the Chinese text at T21 agree on this sense.
+msgctxt "dn1:79.3"
+msgid "natthi ito bahiddhā."
+msgstr "Outside of this there is none."
+
+#. </p><p><a class="sc" id="67"></a><a class="pts" id="pts1.17"></a>
+msgctxt "dn1:80.1"
+msgid "Tayidaṃ, bhikkhave, tathāgato pajānāti:"
+msgstr "The Realized One understands this:"
+
+#, fuzzy
+msgctxt "dn1:80.2"
+msgid ""
+"‘ime diṭṭhiṭṭhānā evaṃgahitā evaṃparāmaṭṭhā evaṃgatikā bhavanti "
+"evaṃabhisamparāyā’ti, tañca tathāgato pajānāti, tato ca uttaritaraṃ pajānāti;"
+msgstr ""
+"‘If you hold on to and attach to these grounds for views it leads to such "
+"and such a destiny in the next life.’ "
+
+#. VAR: pajānanaṃ → pajānaṃ (?)
+msgctxt "dn1:80.3"
+msgid ""
+"tañca pajānanaṃ na parāmasati, aparāmasato cassa paccattaññeva nibbuti "
+"viditā."
+msgstr ""
+"He understands this, and what goes beyond this. Yet since he does not "
+"misapprehend that understanding, he has realized extinguishment within "
+"himself."
+
+msgctxt "dn1:80.4"
+msgid ""
+"Vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca "
+"yathābhūtaṃ viditvā anupādāvimutto, bhikkhave, tathāgato."
+msgstr ""
+"Having truly understood the origin, ending, gratification, drawback and "
+"escape from feelings, the Realized One is freed through not grasping."
+
+#. </p><p><a class="sc" id="68"></a>
+msgctxt "dn1:81.1"
+msgid ""
+"Ime kho te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā paṇītā "
+"atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā "
+"pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"These are the principles—deep, hard to see, hard to understand, peaceful, "
+"sublime, beyond the scope of reason, subtle, comprehensible to the astute—"
+"which the Realized One makes known after realizing them with his own "
+"insight. And those who genuinely praise the Realized One would rightly speak "
+"of these things."
+
+#. </p><p class="endsection">
+msgctxt "dn1:82.1"
+msgid "Paṭhamabhāṇavāro."
+msgstr ""
+
+#. </p><h4>
+msgctxt "dn1:83.1"
+msgid "3.1.2. Ekaccasassatavāda"
+msgstr "Partial Eternalism"
+
+#. </h4><p><a class="sc" id="69"></a>
+msgctxt "dn1:84.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā ekaccasassatikā ekaccaasassatikā "
+"ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca paññapenti catūhi "
+"vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who are partial eternalists, who assert "
+"that the self and the cosmos are partially eternal and partially not eternal "
+"on four grounds."
+
+msgctxt "dn1:84.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha ekaccasassatikā "
+"ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca "
+"paññapenti catūhi vatthūhi?"
+msgstr "And what are the four grounds on which they rely?"
+
+#. </p><p><a class="sc" id="70"></a>
+msgctxt "dn1:85.1"
+msgid ""
+"Hoti kho so, bhikkhave, samayo, yaṃ kadāci karahaci dīghassa addhuno "
+"accayena ayaṃ loko saṃvaṭṭati."
+msgstr ""
+"There comes a time when, after a very long period has passed, this cosmos "
+"contracts."
+
+msgctxt "dn1:85.2"
+msgid "Saṃvaṭṭamāne loke yebhuyyena sattā ābhassarasaṃvattanikā honti."
+msgstr ""
+"As the cosmos contracts, sentient beings are mostly headed for the realm of "
+"streaming radiance."
+
+msgctxt "dn1:85.3"
+msgid ""
+"Te tattha honti manomayā pītibhakkhā sayaṃpabhā antalikkhacarā "
+"subhaṭṭhāyino, ciraṃ dīghamaddhānaṃ tiṭṭhanti."
+msgstr ""
+"There they are mind-made, feeding on rapture, self-luminous, moving through "
+"the sky, steadily glorious, and they remain like that for a very long time."
+
+#. </p><p><a class="sc" id="71"></a>
+msgctxt "dn1:86.1"
+msgid ""
+"Hoti kho so, bhikkhave, samayo, yaṃ kadāci karahaci dīghassa addhuno "
+"accayena ayaṃ loko vivaṭṭati."
+msgstr ""
+"There comes a time when, after a very long period has passed, this cosmos "
+"expands."
+
+msgctxt "dn1:86.2"
+msgid "Vivaṭṭamāne loke suññaṃ brahmavimānaṃ pātubhavati."
+msgstr "As it expands an empty mansion of Brahmā appears."
+
+msgctxt "dn1:86.3"
+msgid ""
+"Atha kho aññataro satto āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā "
+"suññaṃ brahmavimānaṃ upapajjati."
+msgstr ""
+"Then a certain sentient being—due to the running out of their life-span or "
+"merit—passes away from that group of radiant deities and is reborn in that "
+"empty mansion of Brahmā."
+
+msgctxt "dn1:86.4"
+msgid ""
+"So tattha hoti manomayo pītibhakkho sayampabho antalikkhacaro subhaṭṭhāyī, "
+"ciraṃ dīghamaddhānaṃ tiṭṭhati."
+msgstr ""
+"There they are mind-made, feeding on rapture, self-luminous, moving through "
+"the sky, steadily glorious, and they remain like that for a very long time."
+
+#. </p><p><a class="sc" id="72"></a><a class="pts" id="pts1.18"></a>
+#. VAR: uppajjati → upapajjati (s1-3, c1)
+msgctxt "dn1:87.1"
+msgid ""
+"Tassa tattha ekakassa dīgharattaṃ nivusitattā anabhirati paritassanā "
+"uppajjati:"
+msgstr ""
+"But after staying there all alone for a long time, they become dissatisfied "
+"and anxious:"
+
+msgctxt "dn1:87.2"
+msgid "‘aho vata aññepi sattā itthattaṃ āgaccheyyun’ti."
+msgstr "‘Oh, if only another being would come to this state of existence.’"
+
+msgctxt "dn1:87.3"
+msgid ""
+"Atha aññepi sattā āyukkhayā vā puññakkhayā vā ābhassarakāyā cavitvā "
+"brahmavimānaṃ upapajjanti tassa sattassa sahabyataṃ."
+msgstr ""
+"Then other sentient beings—due to the running out of their life-span or "
+"merit—pass away from that group of radiant deities and are reborn in that "
+"empty mansion of Brahmā in company with that being."
+
+msgctxt "dn1:87.4"
+msgid ""
+"Tepi tattha honti manomayā pītibhakkhā sayaṃpabhā antalikkhacarā "
+"subhaṭṭhāyino, ciraṃ dīghamaddhānaṃ tiṭṭhanti."
+msgstr ""
+"There they too are mind-made, feeding on rapture, self-luminous, moving "
+"through the sky, steadily glorious, and they remain like that for a very "
+"long time."
+
+#. </p><p><a class="sc" id="73"></a>
+msgctxt "dn1:88.1"
+msgid "Tatra, bhikkhave, yo so satto paṭhamaṃ upapanno tassa evaṃ hoti:"
+msgstr "Now, the being who was reborn there first thinks:"
+
+#. VAR: sajitā → sajjitā (s1-3, km) | sañjitā (pts1)
+msgctxt "dn1:88.2"
+msgid ""
+"‘ahamasmi brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī "
+"issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ."
+msgstr ""
+"‘I am Brahmā, the Great Brahmā, the Undefeated, the Champion, the Universal "
+"Seer, the Wielder of Power, the Lord God, the Maker, the Author, the Best, "
+"the Begetter, the Controller, the Father of those who have been born and "
+"those yet to be born."
+
+msgctxt "dn1:88.3"
+msgid "Mayā ime sattā nimmitā."
+msgstr "These beings were created by me!"
+
+msgctxt "dn1:88.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:88.5"
+msgid "Mamañhi pubbe etadahosi:"
+msgstr "Because first I thought:"
+
+msgctxt "dn1:88.6"
+msgid "“aho vata aññepi sattā itthattaṃ āgaccheyyun”ti."
+msgstr "“Oh, if only another being would come to this state of existence.”"
+
+# Correlation and causation!
+#. VAR: mama ca → mamañca (bj, s1-3, pts1)
+msgctxt "dn1:88.7"
+msgid "Iti mama ca manopaṇidhi, ime ca sattā itthattaṃ āgatā’ti."
+msgstr ""
+"Such was my heart’s wish, and then these creatures came to this state of "
+"existence.’"
+
+#. </p><p><a class="sc" id="74"></a>
+#. VAR: upapannā → uppannā (si)
+msgctxt "dn1:89.1"
+msgid "Yepi te sattā pacchā upapannā, tesampi evaṃ hoti:"
+msgstr "And the beings who were reborn there later also think:"
+
+msgctxt "dn1:89.2"
+msgid ""
+"‘ayaṃ kho bhavaṃ brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso "
+"vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ."
+msgstr ""
+"‘This must be Brahmā, the Great Brahmā, the Undefeated, the Champion, the "
+"Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, "
+"the Best, the Begetter, the Controller, the Father of those who have been "
+"born and those yet to be born."
+
+msgctxt "dn1:89.3"
+msgid "Iminā mayaṃ bhotā brahmunā nimmitā."
+msgstr "And we have been created by him."
+
+msgctxt "dn1:89.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:89.5"
+msgid ""
+"Imañhi mayaṃ addasāma idha paṭhamaṃ upapannaṃ, mayaṃ panamha pacchā "
+"upapannā’ti."
+msgstr "Because we see that he was reborn here first, and we arrived later.’"
+
+#. </p><p><a class="sc" id="75"></a>
+msgctxt "dn1:90.1"
+msgid ""
+"Tatra, bhikkhave, yo so satto paṭhamaṃ upapanno, so dīghāyukataro ca hoti "
+"vaṇṇavantataro ca mahesakkhataro ca."
+msgstr ""
+"And the being who was reborn first is more long-lived, beautiful, and "
+"illustrious than those who arrived later."
+
+msgctxt "dn1:90.2"
+msgid ""
+"Ye pana te sattā pacchā upapannā, te appāyukatarā ca honti dubbaṇṇatarā ca "
+"appesakkhatarā ca."
+msgstr ""
+
+#. </p><p><a class="sc" id="76"></a>
+msgctxt "dn1:91.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, bhikkhave, vijjati, yaṃ aññataro satto tamhā kāyā "
+"cavitvā itthattaṃ āgacchati."
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence."
+
+msgctxt "dn1:91.2"
+msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
+msgstr "Having done so, they go forth from the lay life to homelessness."
+
+msgctxt "dn1:91.3"
+msgid ""
+"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte taṃ pubbenivāsaṃ anussarati, tato "
+"paraṃ nānussarati."
+msgstr ""
+"By dint of keen, resolute, committed, and diligent effort, and right focus, "
+"they experience a samādhi of the heart of such a kind that they recollect "
+"that past life, but no further."
+
+#. </p><p><a class="sc" id="77"></a><a class="pts" id="pts1.19"></a>
+msgctxt "dn1:92.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:92.2"
+msgid ""
+"‘yo kho so bhavaṃ brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso "
+"vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṃ, yena "
+"mayaṃ bhotā brahmunā nimmitā, so nicco dhuvo sassato avipariṇāmadhammo "
+"sassatisamaṃ tatheva ṭhassati."
+msgstr ""
+"‘He who is Brahmā—the Great Brahmā, the Undefeated, the Champion, the "
+"Universal Seer, the Wielder of Power, the Lord God, the Maker, the Author, "
+"the Best, the Begetter, the Controller, the Father of those who have been "
+"born and those yet to be born—is permanent, everlasting, eternal, "
+"imperishable, remaining the same for all eternity."
+
+msgctxt "dn1:92.3"
+msgid ""
+"Ye pana mayaṃ ahumhā tena bhotā brahmunā nimmitā, te mayaṃ aniccā addhuvā "
+"appāyukā cavanadhammā itthattaṃ āgatā’ti."
+msgstr ""
+"We who were created by that Brahmā are impermanent, not lasting, short-"
+"lived, perishable, and have come to this state of existence."
+
+#. VAR: Idaṃ → idaṃ kho (c1)
+msgctxt "dn1:92.4"
+msgid ""
+"Idaṃ, bhikkhave, paṭhamaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"ekaccasassatikā ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ "
+"attānañca lokañca paññapenti."
+msgstr ""
+"This is the first ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos are partially eternal."
+
+msgctxt "dn1:92.5"
+msgid "(1: 5)"
+msgstr ""
+
+#. </p><p><a class="sc" id="78"></a>
+msgctxt "dn1:93.1"
+msgid ""
+"Dutiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha ekaccasassatikā "
+"ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca "
+"paññapenti?"
+msgstr "And what is the second ground on which they rely?"
+
+msgctxt "dn1:93.2"
+msgid ""
+"Santi, bhikkhave, khiḍḍāpadosikā nāma devā, te ativelaṃ "
+"hassakhiḍḍāratidhammasamāpannā viharanti."
+msgstr ""
+"There are gods named ‘depraved by play.’ They spend too much time laughing, "
+"playing, and making merry."
+
+#. VAR: sammussati → mussati (bj, pts1) | pamussati (s1-3)
+msgctxt "dn1:93.3"
+msgid ""
+"Tesaṃ ativelaṃ hassakhiḍḍāratidhammasamāpannānaṃ viharataṃ sati sammussati."
+msgstr "And in doing so, they lose their mindfulness,"
+
+msgctxt "dn1:93.4"
+msgid "Satiyā sammosā te devā tamhā kāyā cavanti."
+msgstr "and they pass away from that group of gods."
+
+#. </p><p><a class="sc" id="79"></a>
+msgctxt "dn1:94.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, bhikkhave, vijjati yaṃ aññataro satto tamhā kāyā cavitvā "
+"itthattaṃ āgacchati."
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence."
+
+msgctxt "dn1:94.2"
+msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
+msgstr "Having done so, they go forth from the lay life to homelessness."
+
+msgctxt "dn1:94.3"
+msgid ""
+"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte taṃ pubbenivāsaṃ anussarati, tato "
+"paraṃ nānussarati."
+msgstr ""
+"By dint of keen, resolute, committed, and diligent effort, and right focus, "
+"they experience a samādhi of the heart of such a kind that they recollect "
+"that past life, but no further."
+
+#. </p><p><a class="sc" id="80"></a><a class="pts" id="pts1.20"></a>
+msgctxt "dn1:95.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:95.2"
+msgid ""
+"‘ye kho te bhonto devā na khiḍḍāpadosikā, te na ativelaṃ "
+"hassakhiḍḍāratidhammasamāpannā viharanti."
+msgstr ""
+"‘The gods not depraved by play don’t spend too much time laughing, playing, "
+"and making merry."
+
+msgctxt "dn1:95.3"
+msgid ""
+"Tesaṃ na ativelaṃ hassakhiḍḍāratidhammasamāpannānaṃ viharataṃ sati na "
+"sammussati."
+msgstr "So they don’t lose their mindfulness,"
+
+msgctxt "dn1:95.4"
+msgid "Satiyā asammosā te devā tamhā kāyā na cavanti;"
+msgstr "and don’t pass away from that group of gods."
+
+msgctxt "dn1:95.5"
+msgid "niccā dhuvā sassatā avipariṇāmadhammā sassatisamaṃ tatheva ṭhassanti."
+msgstr ""
+"They are permanent, everlasting, eternal, imperishable, remaining the same "
+"for all eternity."
+
+msgctxt "dn1:95.6"
+msgid ""
+"Ye pana mayaṃ ahumhā khiḍḍāpadosikā, te mayaṃ ativelaṃ "
+"hassakhiḍḍāratidhammasamāpannā viharimhā."
+msgstr ""
+"But we who were depraved by play spent too much time laughing, playing, and "
+"making merry."
+
+msgctxt "dn1:95.7"
+msgid ""
+"Tesaṃ no ativelaṃ hassakhiḍḍāratidhammasamāpannānaṃ viharataṃ sati "
+"sammussati."
+msgstr "In doing so, we lost our mindfulness,"
+
+msgctxt "dn1:95.8"
+msgid ""
+"Satiyā sammosā evaṃ mayaṃ tamhā kāyā cutā aniccā addhuvā appāyukā "
+"cavanadhammā itthattaṃ āgatā’ti."
+msgstr ""
+"and passed away from that group of gods. We are impermanent, not lasting, "
+"short-lived, perishable, and have come to this state of existence.’"
+
+msgctxt "dn1:95.9"
+msgid ""
+"Idaṃ, bhikkhave, dutiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"ekaccasassatikā ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ "
+"attānañca lokañca paññapenti."
+msgstr ""
+"This is the second ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos are partially eternal."
+
+msgctxt "dn1:95.10"
+msgid "(2: 6)"
+msgstr ""
+
+#. </p><p><a class="sc" id="81"></a>
+msgctxt "dn1:96.1"
+msgid ""
+"Tatiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha ekaccasassatikā "
+"ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca "
+"paññapenti?"
+msgstr "And what is the third ground on which they rely?"
+
+# The parallel with khiddapadosika rather confuses the issue, suggesting a rendering "depraved in mind" here. However elsewhere in the suttas, manopadosa consistently means "malicious intent", MN 56, MN 93, also see mano padūseyya at MN 21 and MN 28. Thus the contrast here would seem to be greed vs hate. Also note DN 26, "tesaṃ sattānaṃ aññamaññamhi tibbo āghāto paccupaṭṭhito bhavissati tibbo byāpādo tibbo manopadoso tibbaṃ vadhakacittaṃ." 
+msgctxt "dn1:96.2"
+msgid ""
+"Santi, bhikkhave, manopadosikā nāma devā, te ativelaṃ aññamaññaṃ "
+"upanijjhāyanti."
+msgstr ""
+"There are gods named ‘malevolent’. They spend too much time gazing at each "
+"other,"
+
+msgctxt "dn1:96.3"
+msgid "Te ativelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni padūsenti."
+msgstr "so they grow angry with each other,"
+
+msgctxt "dn1:96.4"
+msgid "Te aññamaññaṃ paduṭṭhacittā kilantakāyā kilantacittā."
+msgstr "and their bodies and minds get tired."
+
+msgctxt "dn1:96.5"
+msgid "Te devā tamhā kāyā cavanti."
+msgstr "They pass away from that group of gods."
+
+#. </p><p><a class="sc" id="82"></a>
+msgctxt "dn1:97.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, bhikkhave, vijjati yaṃ aññataro satto tamhā kāyā cavitvā "
+"itthattaṃ āgacchati."
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence."
+
+msgctxt "dn1:97.2"
+msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
+msgstr "Having done so, they go forth from the lay life to homelessness."
+
+msgctxt "dn1:97.3"
+msgid ""
+"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte taṃ pubbenivāsaṃ anussarati, tato "
+"paraṃ nānussarati."
+msgstr ""
+"By dint of keen, resolute, committed, and diligent effort, and right focus, "
+"they experience a samādhi of the heart of such a kind that they recollect "
+"that past life, but no further."
+
+#. </p><p><a class="sc" id="83"></a><a class="pts" id="pts1.21"></a>
+msgctxt "dn1:98.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:98.2"
+msgid ""
+"‘ye kho te bhonto devā na manopadosikā, te nātivelaṃ aññamaññaṃ "
+"upanijjhāyanti."
+msgstr ""
+"‘The gods who are not malevolent don’t spend too much time gazing at each "
+"other,"
+
+msgctxt "dn1:98.3"
+msgid ""
+"Te nātivelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni nappadūsenti."
+msgstr "so they don’t grow angry with each other,"
+
+msgctxt "dn1:98.4"
+msgid "Te aññamaññaṃ appaduṭṭhacittā akilantakāyā akilantacittā."
+msgstr "their bodies and minds don’t get tired,"
+
+#, fuzzy
+msgctxt "dn1:98.5"
+msgid ""
+"Te devā tamhā kāyā na cavanti, niccā dhuvā sassatā avipariṇāmadhammā "
+"sassatisamaṃ tatheva ṭhassanti."
+msgstr ""
+"and they don’t pass away from that group of gods. They are permanent, "
+"everlasting, eternal, imperishable, remaining the same for all eternity."
+
+msgctxt "dn1:98.6"
+msgid ""
+"Ye pana mayaṃ ahumhā manopadosikā, te mayaṃ ativelaṃ aññamaññaṃ "
+"upanijjhāyimhā."
+msgstr "But we who were malevolent spent too much time gazing at each other,"
+
+msgctxt "dn1:98.7"
+msgid ""
+"Te mayaṃ ativelaṃ aññamaññaṃ upanijjhāyantā aññamaññamhi cittāni padūsimhā, "
+"te mayaṃ aññamaññaṃ paduṭṭhacittā kilantakāyā kilantacittā."
+msgstr "we grew angry with each other, our bodies and minds got tired,"
+
+msgctxt "dn1:98.8"
+msgid ""
+"Evaṃ mayaṃ tamhā kāyā cutā aniccā addhuvā appāyukā cavanadhammā itthattaṃ "
+"āgatā’ti."
+msgstr ""
+"and we passed away from that group of gods. We are impermanent, not lasting, "
+"short-lived, perishable, and have come to this state of existence.’"
+
+msgctxt "dn1:98.9"
+msgid ""
+"Idaṃ, bhikkhave, tatiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"ekaccasassatikā ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ "
+"attānañca lokañca paññapenti."
+msgstr ""
+"This is the third ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos are partially eternal."
+
+msgctxt "dn1:98.10"
+msgid "(3: 7)"
+msgstr ""
+
+#. </p><p><a class="sc" id="84"></a>
+msgctxt "dn1:99.1"
+msgid ""
+"Catutthe ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha ekaccasassatikā "
+"ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca "
+"paññapenti?"
+msgstr "And what is the fourth ground on which they rely?"
+
+msgctxt "dn1:99.2"
+msgid "Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā takkī hoti vīmaṃsī."
+msgstr ""
+"It’s when some ascetic or brahmin relies on logic and inquiry. They speak of "
+"what they have worked out by logic, following a line of inquiry, expressing "
+"their own perspective:"
+
+#, fuzzy
+msgctxt "dn1:99.3"
+msgid "So takkapariyāhataṃ vīmaṃsānucaritaṃ sayampaṭibhānaṃ evamāha:"
+msgstr " "
+
+msgctxt "dn1:99.4"
+msgid ""
+"‘yaṃ kho idaṃ vuccati cakkhuṃ itipi sotaṃ itipi ghānaṃ itipi jivhā itipi "
+"kāyo itipi, ayaṃ attā anicco addhuvo asassato vipariṇāmadhammo."
+msgstr ""
+"‘That which is called “the eye” or “the ear” or “the nose” or “the tongue” "
+"or “the body”: that self is impermanent, not lasting, transient, perishable"
+
+msgctxt "dn1:99.5"
+msgid ""
+"Yañca kho idaṃ vuccati cittanti vā manoti vā viññāṇanti vā ayaṃ attā nicco "
+"dhuvo sassato avipariṇāmadhammo sassatisamaṃ tatheva ṭhassatī’ti."
+msgstr ""
+"That which is called “mind” or “sentience” or “consciousness”: that self is "
+"permanent, everlasting, eternal, imperishable, remaining the same for all "
+"eternity.’"
+
+msgctxt "dn1:99.6"
+msgid ""
+"Idaṃ, bhikkhave, catutthaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"ekaccasassatikā ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ "
+"attānañca lokañca paññapenti."
+msgstr ""
+"This is the fourth ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos are partially eternal."
+
+msgctxt "dn1:99.7"
+msgid "(4: 8)"
+msgstr ""
+
+#. </p><p><a class="sc" id="85"></a>
+msgctxt "dn1:100.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā ekaccasassatikā ekaccaasassatikā "
+"ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca paññapenti catūhi "
+"vatthūhi."
+msgstr ""
+"These are the four grounds on which those ascetics and brahmins assert that "
+"the self and the cosmos are partially eternal and partially not eternal."
+
+msgctxt "dn1:100.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā ekaccasassatikā "
+"ekaccaasassatikā ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca "
+"paññapenti, sabbe te imeheva catūhi vatthūhi, etesaṃ vā aññatarena;"
+msgstr ""
+"Any ascetics and brahmins who assert that the self and the cosmos are "
+"partially eternal and partially not eternal do so on one or other of these "
+"four grounds."
+
+msgctxt "dn1:100.3"
+msgid "natthi ito bahiddhā."
+msgstr "Outside of this there is none."
+
+#. </p><p><a class="sc" id="86"></a><a class="pts" id="pts1.22"></a>
+msgctxt "dn1:101.1"
+msgid "Tayidaṃ, bhikkhave, tathāgato pajānāti:"
+msgstr "The Realized One understands this:"
+
+#, fuzzy
+msgctxt "dn1:101.2"
+msgid ""
+"‘ime diṭṭhiṭṭhānā evaṅgahitā evaṃparāmaṭṭhā evaṅgatikā bhavanti "
+"evaṃabhisamparāyā’ti."
+msgstr ""
+"‘If you hold on to and attach to these grounds for views it leads to such "
+"and such a destiny in the next life.’ He understands this, and what goes "
+"beyond this."
+
+msgctxt "dn1:101.3"
+msgid ""
+"Tañca tathāgato pajānāti, tato ca uttaritaraṃ pajānāti, tañca pajānanaṃ na "
+"parāmasati, aparāmasato cassa paccattaññeva nibbuti viditā."
+msgstr ""
+"Yet since he does not misapprehend that understanding, he has realized "
+"extinguishment within himself."
+
+msgctxt "dn1:101.4"
+msgid ""
+"Vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca "
+"yathābhūtaṃ viditvā anupādāvimutto, bhikkhave, tathāgato."
+msgstr ""
+"Having truly understood the origin, ending, gratification, drawback and "
+"escape from feelings, the Realized One is freed through not grasping."
+
+#. </p><p><a class="sc" id="87"></a>
+msgctxt "dn1:102.1"
+msgid ""
+"Ime kho te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā paṇītā "
+"atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā "
+"pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"These are the principles—deep, hard to see, hard to understand, peaceful, "
+"sublime, beyond the scope of reason, subtle, comprehensible to the astute—"
+"which the Realized One makes known after realizing them with his own "
+"insight. And those who genuinely praise the Realized One would rightly speak "
+"of these things."
+
+#. </p><h4>
+msgctxt "dn1:103.1"
+msgid "3.1.3. Antānantavāda"
+msgstr "The Cosmos is Finite or Infinite"
+
+#. </h4><p><a class="sc" id="88"></a>
+msgctxt "dn1:104.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā antānantikā antānantaṃ lokassa "
+"paññapenti catūhi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who theorize about size, and assert "
+"that the cosmos is finite or infinite on four grounds."
+
+msgctxt "dn1:104.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha antānantikā antānantaṃ "
+"lokassa paññapenti catūhi vatthūhi?"
+msgstr "And what are the four grounds on which they rely?"
+
+#. </p><p><a class="sc" id="89"></a>
+msgctxt "dn1:105.1"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte antasaññī lokasmiṃ viharati."
+msgstr ""
+"It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
+"diligent effort, and right focus—experiences a samādhi of the heart of such "
+"a kind that they meditate perceiving the cosmos as finite."
+
+#. </p><p><a class="sc" id="90"></a>
+msgctxt "dn1:106.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:106.2"
+msgid "‘antavā ayaṃ loko parivaṭumo."
+msgstr "‘The cosmos is finite and bounded."
+
+msgctxt "dn1:106.3"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:106.4"
+msgid ""
+"Ahañhi ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya "
+"sammāmanasikāramanvāya tathārūpaṃ cetosamādhiṃ phusāmi, yathāsamāhite citte "
+"antasaññī lokasmiṃ viharāmi."
+msgstr ""
+"Because by dint of keen, resolute, committed, and diligent effort, and right "
+"focus I experience a samādhi of the heart of such a kind that I meditate "
+"perceiving the cosmos as finite."
+
+msgctxt "dn1:106.5"
+msgid "Imināmahaṃ etaṃ jānāmi:"
+msgstr "Because of this I know:"
+
+msgctxt "dn1:106.6"
+msgid "“yathā antavā ayaṃ loko parivaṭumo”’ti."
+msgstr "“The cosmos is finite and bounded.”’"
+
+msgctxt "dn1:106.7"
+msgid ""
+"Idaṃ, bhikkhave, paṭhamaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"antānantikā antānantaṃ lokassa paññapenti."
+msgstr ""
+"This is the first ground on which some ascetics and brahmins rely to assert "
+"that the cosmos is finite or infinite."
+
+msgctxt "dn1:106.8"
+msgid "(1: 9)"
+msgstr ""
+
+#. </p><p><a class="sc" id="91"></a><a class="pts" id="pts1.23"></a>
+msgctxt "dn1:107.1"
+msgid ""
+"Dutiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha antānantikā antānantaṃ "
+"lokassa paññapenti?"
+msgstr "And what is the second ground on which they rely?"
+
+msgctxt "dn1:107.2"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte anantasaññī lokasmiṃ viharati."
+msgstr ""
+"It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
+"diligent effort, and right focus—experiences a samādhi of the heart of such "
+"a kind that they meditate perceiving the cosmos as infinite."
+
+#. </p><p><a class="sc" id="92"></a>
+msgctxt "dn1:108.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:108.2"
+msgid "‘ananto ayaṃ loko apariyanto."
+msgstr "‘The cosmos is infinite and unbounded."
+
+msgctxt "dn1:108.3"
+msgid "Ye te samaṇabrāhmaṇā evamāhaṃsu:"
+msgstr "The ascetics and brahmins who say that"
+
+msgctxt "dn1:108.4"
+msgid "“antavā ayaṃ loko parivaṭumo”ti, tesaṃ musā."
+msgstr "the cosmos is finite are wrong."
+
+msgctxt "dn1:108.5"
+msgid "Ananto ayaṃ loko apariyanto."
+msgstr "The cosmos is infinite and unbounded."
+
+msgctxt "dn1:108.6"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:108.7"
+msgid ""
+"Ahañhi ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya "
+"sammāmanasikāramanvāya tathārūpaṃ cetosamādhiṃ phusāmi, yathāsamāhite citte "
+"anantasaññī lokasmiṃ viharāmi."
+msgstr ""
+"Because by dint of keen, resolute, committed, and diligent effort, and right "
+"focus I experience a samādhi of the heart of such a kind that I meditate "
+"perceiving the cosmos as infinite."
+
+msgctxt "dn1:108.8"
+msgid "Imināmahaṃ etaṃ jānāmi:"
+msgstr "Because of this I know:"
+
+msgctxt "dn1:108.9"
+msgid "“yathā ananto ayaṃ loko apariyanto”’ti."
+msgstr "“The cosmos is infinite and boundless.”’"
+
+msgctxt "dn1:108.10"
+msgid ""
+"Idaṃ, bhikkhave, dutiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"antānantikā antānantaṃ lokassa paññapenti."
+msgstr ""
+"This is the second ground on which some ascetics and brahmins rely to assert "
+"that the cosmos is finite or infinite."
+
+msgctxt "dn1:108.11"
+msgid "(2: 10)"
+msgstr ""
+
+#. </p><p><a class="sc" id="93"></a>
+msgctxt "dn1:109.1"
+msgid ""
+"Tatiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha antānantikā antānantaṃ "
+"lokassa paññapenti?"
+msgstr "And what is the third ground on which they rely?"
+
+msgctxt "dn1:109.2"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte uddhamadho antasaññī lokasmiṃ "
+"viharati, tiriyaṃ anantasaññī."
+msgstr ""
+"It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
+"diligent effort, and right focus—experiences a samādhi of the heart of such "
+"a kind that they meditate perceiving the cosmos as finite vertically but "
+"infinite horizontally."
+
+#. </p><p><a class="sc" id="94"></a>
+msgctxt "dn1:110.1"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:110.2"
+msgid "‘antavā ca ayaṃ loko ananto ca."
+msgstr "‘The cosmos is both finite and infinite."
+
+msgctxt "dn1:110.3"
+msgid "Ye te samaṇabrāhmaṇā evamāhaṃsu:"
+msgstr "The ascetics and brahmins who say that"
+
+msgctxt "dn1:110.4"
+msgid "“antavā ayaṃ loko parivaṭumo”ti, tesaṃ musā."
+msgstr "the cosmos is finite are wrong,"
+
+msgctxt "dn1:110.5"
+msgid "Yepi te samaṇabrāhmaṇā evamāhaṃsu:"
+msgstr "and so are those who say that"
+
+msgctxt "dn1:110.6"
+msgid "“ananto ayaṃ loko apariyanto”ti, tesampi musā."
+msgstr "the cosmos is infinite."
+
+msgctxt "dn1:110.7"
+msgid "Antavā ca ayaṃ loko ananto ca."
+msgstr "The cosmos is both finite and infinite."
+
+msgctxt "dn1:110.8"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:110.9"
+msgid ""
+"Ahañhi ātappamanvāya padhānamanvāya anuyogamanvāya appamādamanvāya "
+"sammāmanasikāramanvāya tathārūpaṃ cetosamādhiṃ phusāmi, yathāsamāhite citte "
+"uddhamadho antasaññī lokasmiṃ viharāmi, tiriyaṃ anantasaññī."
+msgstr ""
+"Because by dint of keen, resolute, committed, and diligent effort, and right "
+"focus I experience a samādhi of the heart of such a kind that I meditate "
+"perceiving the cosmos as finite vertically but infinite horizontally."
+
+msgctxt "dn1:110.10"
+msgid "Imināmahaṃ etaṃ jānāmi:"
+msgstr "Because of this I know:"
+
+msgctxt "dn1:110.11"
+msgid "“yathā antavā ca ayaṃ loko ananto cā”’ti."
+msgstr "“The cosmos is both finite and infinite.”’"
+
+msgctxt "dn1:110.12"
+msgid ""
+"Idaṃ, bhikkhave, tatiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"antānantikā antānantaṃ lokassa paññapenti."
+msgstr ""
+"This is the third ground on which some ascetics and brahmins rely to assert "
+"that the cosmos is finite or infinite."
+
+msgctxt "dn1:110.13"
+msgid "(3: 11)"
+msgstr ""
+
+#. </p><p><a class="sc" id="95"></a><a class="pts" id="pts1.24"></a>
+msgctxt "dn1:111.1"
+msgid ""
+"Catutthe ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha antānantikā "
+"antānantaṃ lokassa paññapenti?"
+msgstr "And what is the fourth ground on which they rely?"
+
+msgctxt "dn1:111.2"
+msgid "Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā takkī hoti vīmaṃsī."
+msgstr ""
+"It’s when some ascetic or brahmin relies on logic and inquiry. They speak of "
+"what they have worked out by logic, following a line of inquiry, expressing "
+"their own perspective:"
+
+msgctxt "dn1:111.3"
+msgid "So takkapariyāhataṃ vīmaṃsānucaritaṃ sayampaṭibhānaṃ evamāha:"
+msgstr ""
+
+msgctxt "dn1:111.4"
+msgid "‘nevāyaṃ loko antavā, na panānanto."
+msgstr "‘The cosmos is neither finite nor infinite."
+
+msgctxt "dn1:111.5"
+msgid "Ye te samaṇabrāhmaṇā evamāhaṃsu:"
+msgstr "The ascetics and brahmins who say that"
+
+msgctxt "dn1:111.6"
+msgid "“antavā ayaṃ loko parivaṭumo”ti, tesaṃ musā."
+msgstr "the cosmos is finite are wrong,"
+
+msgctxt "dn1:111.7"
+msgid "Yepi te samaṇabrāhmaṇā evamāhaṃsu:"
+msgstr "as are those who say that"
+
+msgctxt "dn1:111.8"
+msgid "“ananto ayaṃ loko apariyanto”ti, tesampi musā."
+msgstr "the cosmos is infinite,"
+
+msgctxt "dn1:111.9"
+msgid "Yepi te samaṇabrāhmaṇā evamāhaṃsu:"
+msgstr "and those who say that"
+
+msgctxt "dn1:111.10"
+msgid "“antavā ca ayaṃ loko ananto cā”ti, tesampi musā."
+msgstr "the cosmos is both finite and infinite."
+
+msgctxt "dn1:111.11"
+msgid "Nevāyaṃ loko antavā, na panānanto’ti."
+msgstr "The cosmos is neither finite nor infinite."
+
+msgctxt "dn1:111.12"
+msgid ""
+"Idaṃ, bhikkhave, catutthaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"antānantikā antānantaṃ lokassa paññapenti."
+msgstr ""
+"This is the fourth ground on which some ascetics and brahmins rely to assert "
+"that the cosmos is finite or infinite."
+
+msgctxt "dn1:111.13"
+msgid "(4: 12)"
+msgstr ""
+
+#. </p><p><a class="sc" id="96"></a>
+msgctxt "dn1:112.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā antānantikā antānantaṃ lokassa "
+"paññapenti catūhi vatthūhi."
+msgstr ""
+"These are the four grounds on which those ascetics and brahmins assert that "
+"the cosmos is finite or infinite."
+
+msgctxt "dn1:112.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā antānantikā antānantaṃ lokassa "
+"paññapenti, sabbe te imeheva catūhi vatthūhi, etesaṃ vā aññatarena;"
+msgstr ""
+"Any ascetics and brahmins who assert that the cosmos is finite or infinite "
+"do so on one or other of these four grounds."
+
+msgctxt "dn1:112.3"
+msgid "natthi ito bahiddhā."
+msgstr "Outside of this there is none."
+
+#. </p><p><a class="sc" id="97"></a>
+msgctxt "dn1:113.1"
+msgid "Tayidaṃ, bhikkhave, tathāgato pajānāti:"
+msgstr "The Realized One understands this:"
+
+msgctxt "dn1:113.2"
+msgid ""
+"‘ime diṭṭhiṭṭhānā evaṅgahitā evaṃparāmaṭṭhā evaṅgatikā bhavanti "
+"evaṃabhisamparāyā’ti."
+msgstr ""
+"‘If you hold on to and attach to these grounds for views it leads to such "
+"and such a destiny in the next life.’ "
+
+msgctxt "dn1:113.3"
+msgid ""
+"Tañca tathāgato pajānāti, tato ca uttaritaraṃ pajānāti, tañca pajānanaṃ na "
+"parāmasati, aparāmasato cassa paccattaññeva nibbuti viditā."
+msgstr ""
+"He understands this, and what goes beyond this. Yet since he does not "
+"misapprehend that understanding, he has realized extinguishment within "
+"himself."
+
+msgctxt "dn1:113.4"
+msgid ""
+"Vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca "
+"yathābhūtaṃ viditvā anupādāvimutto, bhikkhave, tathāgato."
+msgstr ""
+"Having truly understood the origin, ending, gratification, drawback and "
+"escape from feelings, the Realized One is freed through not grasping."
+
+#. </p><p><a class="sc" id="98"></a>
+msgctxt "dn1:114.1"
+msgid ""
+"Ime kho te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā paṇītā "
+"atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā "
+"pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"These are the principles—deep, hard to see, hard to understand, peaceful, "
+"sublime, beyond the scope of reason, subtle, comprehensible to the astute—"
+"which the Realized One makes known after realizing them with his own "
+"insight. And those who genuinely praise the Realized One would rightly speak "
+"of these things."
+
+#. </p><h4>
+msgctxt "dn1:115.1"
+msgid "3.1.4. Amarāvikkhepavāda"
+msgstr "Equivocators"
+
+#. </h4><p><a class="sc" id="99"></a>
+msgctxt "dn1:116.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā amarāvikkhepikā, tattha tattha pañhaṃ "
+"puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ catūhi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who are equivocators. Whenever they’re "
+"asked a question, they resort to evasiveness and equivocation on four "
+"grounds."
+
+msgctxt "dn1:116.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha amarāvikkhepikā tattha "
+"tattha pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ catūhi "
+"vatthūhi?"
+msgstr "And what are the four grounds on which they rely?"
+
+#. </p><p><a class="sc" id="100"></a><a class="pts" id="pts1.25"></a>
+msgctxt "dn1:117.1"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ‘idaṃ kusalan’ti yathābhūtaṃ "
+"nappajānāti, ‘idaṃ akusalan’ti yathābhūtaṃ nappajānāti."
+msgstr ""
+"It’s when some ascetic or brahmin doesn’t truly understand what is skillful "
+"and what is unskillful."
+
+msgctxt "dn1:117.2"
+msgid "Tassa evaṃ hoti:"
+msgstr "They think: "
+
+msgctxt "dn1:117.3"
+msgid ""
+"‘ahaṃ kho “idaṃ kusalan”ti yathābhūtaṃ nappajānāmi, “idaṃ akusalan”ti "
+"yathābhūtaṃ nappajānāmi."
+msgstr "‘I don’t truly understand what is skillful and what is unskillful. "
+
+msgctxt "dn1:117.4"
+msgid ""
+"Ahañce kho pana “idaṃ kusalan”ti yathābhūtaṃ appajānanto, “idaṃ akusalan”ti "
+"yathābhūtaṃ appajānanto, “idaṃ kusalan”ti vā byākareyyaṃ, “idaṃ akusalan”ti "
+"vā byākareyyaṃ, taṃ mamassa musā."
+msgstr ""
+"If I was to declare that something was skillful or unskillful I might be "
+"wrong."
+
+msgctxt "dn1:117.5"
+msgid "Yaṃ mamassa musā, so mamassa vighāto."
+msgstr "That would be stressful for me,"
+
+msgctxt "dn1:117.6"
+msgid "Yo mamassa vighāto so mamassa antarāyo’ti."
+msgstr "and that stress would be an obstacle.’"
+
+msgctxt "dn1:117.7"
+msgid ""
+"Iti so musāvādabhayā musāvādaparijegucchā nevidaṃ kusalanti byākaroti, na "
+"panidaṃ akusalanti byākaroti, tattha tattha pañhaṃ puṭṭho samāno "
+"vācāvikkhepaṃ āpajjati amarāvikkhepaṃ:"
+msgstr ""
+"So from fear and disgust with false speech they avoid stating whether "
+"something is skillful or unskillful. Whenever they’re asked a question, they "
+"resort to evasiveness and equivocation:"
+
+msgctxt "dn1:117.8"
+msgid "‘evantipi me no;"
+msgstr ""
+"‘I don’t say it’s like this. I don’t say it’s like that. I don’t say it’s "
+"otherwise. I don’t say it’s not so. And I don’t deny it’s not so.’"
+
+#, fuzzy
+msgctxt "dn1:117.9"
+msgid "tathātipi me no;"
+msgstr " "
+
+msgctxt "dn1:117.10"
+msgid "aññathātipi me no;"
+msgstr ""
+
+msgctxt "dn1:117.11"
+msgid "notipi me no;"
+msgstr ""
+
+msgctxt "dn1:117.12"
+msgid "no notipi me no’ti."
+msgstr ""
+
+msgctxt "dn1:117.13"
+msgid ""
+"Idaṃ, bhikkhave, paṭhamaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"amarāvikkhepikā tattha tattha pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti "
+"amarāvikkhepaṃ."
+msgstr ""
+"This is the first ground on which some ascetics and brahmins rely to resort "
+"to evasiveness and equivocation."
+
+msgctxt "dn1:117.14"
+msgid "(1: 13)"
+msgstr ""
+
+#. </p><p><a class="sc" id="101"></a><a class="pts" id="pts1.26"></a>
+msgctxt "dn1:118.1"
+msgid ""
+"Dutiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha amarāvikkhepikā tattha "
+"tattha pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ?"
+msgstr "And what is the second ground on which they rely?"
+
+msgctxt "dn1:118.2"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ‘idaṃ kusalan’ti yathābhūtaṃ "
+"nappajānāti, ‘idaṃ akusalan’ti yathābhūtaṃ nappajānāti."
+msgstr ""
+"It’s when some ascetic or brahmin doesn’t truly understand what is skillful "
+"and what is unskillful."
+
+msgctxt "dn1:118.3"
+msgid "Tassa evaṃ hoti:"
+msgstr "They think: "
+
+msgctxt "dn1:118.4"
+msgid ""
+"‘ahaṃ kho “idaṃ kusalan”ti yathābhūtaṃ nappajānāmi, “idaṃ akusalan”ti "
+"yathābhūtaṃ nappajānāmi."
+msgstr "‘I don’t truly understand what is skillful and what is unskillful. "
+
+msgctxt "dn1:118.5"
+msgid ""
+"Ahañce kho pana “idaṃ kusalan”ti yathābhūtaṃ appajānanto, “idaṃ akusalan”ti "
+"yathābhūtaṃ appajānanto, “idaṃ kusalan”ti vā byākareyyaṃ, “idaṃ akusalan”ti "
+"vā byākareyyaṃ, tattha me assa chando vā rāgo vā doso vā paṭigho vā."
+msgstr ""
+"If I was to declare that something was skillful or unskillful I might feel "
+"desire or greed or hate or repulsion."
+
+#. VAR: Yattha → yo (?)
+msgctxt "dn1:118.6"
+msgid ""
+"Yattha me assa chando vā rāgo vā doso vā paṭigho vā, taṃ mamassa upādānaṃ."
+msgstr "That would be grasping on my part."
+
+msgctxt "dn1:118.7"
+msgid "Yaṃ mamassa upādānaṃ, so mamassa vighāto."
+msgstr "That would be stressful for me,"
+
+msgctxt "dn1:118.8"
+msgid "Yo mamassa vighāto, so mamassa antarāyo’ti."
+msgstr "and that stress would be an obstacle.’"
+
+msgctxt "dn1:118.9"
+msgid ""
+"Iti so upādānabhayā upādānaparijegucchā nevidaṃ kusalanti byākaroti, na "
+"panidaṃ akusalanti byākaroti, tattha tattha pañhaṃ puṭṭho samāno "
+"vācāvikkhepaṃ āpajjati amarāvikkhepaṃ:"
+msgstr ""
+"So from fear and disgust with grasping they avoid stating whether something "
+"is skillful or unskillful. Whenever they’re asked a question, they resort to "
+"evasiveness and equivocation:"
+
+msgctxt "dn1:118.10"
+msgid "‘evantipi me no;"
+msgstr ""
+"‘I don’t say it’s like this. I don’t say it’s like that. I don’t say it’s "
+"otherwise. I don’t say it’s not so. And I don’t deny it’s not so.’"
+
+msgctxt "dn1:118.11"
+msgid "tathātipi me no;"
+msgstr ""
+
+msgctxt "dn1:118.12"
+msgid "aññathātipi me no;"
+msgstr ""
+
+msgctxt "dn1:118.13"
+msgid "notipi me no;"
+msgstr ""
+
+msgctxt "dn1:118.14"
+msgid "no notipi me no’ti."
+msgstr ""
+
+msgctxt "dn1:118.15"
+msgid ""
+"Idaṃ, bhikkhave, dutiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"amarāvikkhepikā tattha tattha pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti "
+"amarāvikkhepaṃ."
+msgstr ""
+"This is the second ground on which some ascetics and brahmins rely to resort "
+"to evasiveness and equivocation."
+
+msgctxt "dn1:118.16"
+msgid "(2: 14)"
+msgstr ""
+
+#. </p><p><a class="sc" id="102"></a><a class="pts" id="pts1.27"></a>
+msgctxt "dn1:119.1"
+msgid ""
+"Tatiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha amarāvikkhepikā tattha "
+"tattha pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ?"
+msgstr "And what is the third ground on which they rely?"
+
+msgctxt "dn1:119.2"
+msgid ""
+"Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā ‘idaṃ kusalan’ti yathābhūtaṃ "
+"nappajānāti, ‘idaṃ akusalan’ti yathābhūtaṃ nappajānāti."
+msgstr ""
+"It’s when some ascetic or brahmin doesn’t truly understand what is skillful "
+"and what is unskillful."
+
+msgctxt "dn1:119.3"
+msgid "Tassa evaṃ hoti:"
+msgstr "They think: "
+
+msgctxt "dn1:119.4"
+msgid ""
+"‘ahaṃ kho “idaṃ kusalan”ti yathābhūtaṃ nappajānāmi, “idaṃ akusalan”ti "
+"yathābhūtaṃ nappajānāmi."
+msgstr "‘I don’t truly understand what is skillful and what is unskillful. "
+
+msgctxt "dn1:119.5"
+msgid ""
+"Ahañce kho pana “idaṃ kusalan”ti yathābhūtaṃ appajānanto “idaṃ akusalan”ti "
+"yathābhūtaṃ appajānanto “idaṃ kusalan”ti vā byākareyyaṃ, “idaṃ akusalan”ti "
+"vā byākareyyaṃ;"
+msgstr "Suppose I was to declare that something was skillful or unskillful."
+
+#. VAR: bhindantā → vobhindantā (bj, pts1)
+msgctxt "dn1:119.6"
+msgid ""
+"santi hi kho samaṇabrāhmaṇā paṇḍitā nipuṇā kataparappavādā vālavedhirūpā, te "
+"bhindantā maññe caranti paññāgatena diṭṭhigatāni, te maṃ tattha "
+"samanuyuñjeyyuṃ samanugāheyyuṃ samanubhāseyyuṃ."
+msgstr ""
+"There are clever ascetics and brahmins who are subtle, accomplished in the "
+"doctrines of others, hair-splitters. You’d think they live to demolish "
+"convictions with their intellect. They might question, press, and examine me "
+"about that."
+
+msgctxt "dn1:119.7"
+msgid ""
+"Ye maṃ tattha samanuyuñjeyyuṃ samanugāheyyuṃ samanubhāseyyuṃ, tesāhaṃ na "
+"sampāyeyyaṃ."
+msgstr "I’d be stumped by such examination."
+
+msgctxt "dn1:119.8"
+msgid "Yesāhaṃ na sampāyeyyaṃ, so mamassa vighāto."
+msgstr "That would be stressful for me,"
+
+msgctxt "dn1:119.9"
+msgid "Yo mamassa vighāto, so mamassa antarāyo’ti."
+msgstr "and that stress would be an obstacle.’"
+
+msgctxt "dn1:119.10"
+msgid ""
+"Iti so anuyogabhayā anuyogaparijegucchā nevidaṃ kusalanti byākaroti, na "
+"panidaṃ akusalanti byākaroti, tattha tattha pañhaṃ puṭṭho samāno "
+"vācāvikkhepaṃ āpajjati amarāvikkhepaṃ:"
+msgstr ""
+"So from fear and disgust with examination they avoid stating whether "
+"something is skillful or unskillful. Whenever they’re asked a question, they "
+"resort to evasiveness and equivocation:"
+
+msgctxt "dn1:119.11"
+msgid "‘evantipi me no;"
+msgstr ""
+"‘I don’t say it’s like this. I don’t say it’s like that. I don’t say it’s "
+"otherwise. I don’t say it’s not so. And I don’t deny it’s not so.’"
+
+msgctxt "dn1:119.12"
+msgid "tathātipi me no;"
+msgstr ""
+
+msgctxt "dn1:119.13"
+msgid "aññathātipi me no;"
+msgstr ""
+
+msgctxt "dn1:119.14"
+msgid "notipi me no;"
+msgstr ""
+
+msgctxt "dn1:119.15"
+msgid "no notipi me no’ti."
+msgstr ""
+
+msgctxt "dn1:119.16"
+msgid ""
+"Idaṃ, bhikkhave, tatiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"amarāvikkhepikā tattha tattha pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti "
+"amarāvikkhepaṃ."
+msgstr ""
+"This is the third ground on which some ascetics and brahmins rely to resort "
+"to evasiveness and equivocation."
+
+msgctxt "dn1:119.17"
+msgid "(3: 15)"
+msgstr ""
+
+#. </p><p><a class="sc" id="103"></a>
+msgctxt "dn1:120.1"
+msgid ""
+"Catutthe ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha amarāvikkhepikā "
+"tattha tattha pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ?"
+msgstr "And what is the fourth ground on which they rely?"
+
+msgctxt "dn1:120.2"
+msgid "Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā mando hoti momūho."
+msgstr "It’s when some ascetic or brahmin is dull and stupid."
+
+msgctxt "dn1:120.3"
+msgid ""
+"So mandattā momūhattā tattha tattha pañhaṃ puṭṭho samāno vācāvikkhepaṃ "
+"āpajjati amarāvikkhepaṃ:"
+msgstr ""
+"Because of that, whenever they’re asked a question, they resort to "
+"evasiveness and equivocation:"
+
+#, fuzzy
+msgctxt "dn1:120.4"
+msgid ""
+"‘atthi paro loko’ti iti ce maṃ pucchasi, ‘atthi paro loko’ti iti ce me assa, "
+"‘atthi paro loko’ti iti te naṃ byākareyyaṃ, ‘evantipi me no, tathātipi me "
+"no, aññathātipi me no, notipi me no, no notipi me no’ti."
+msgstr ""
+"‘Suppose you were to ask me whether there is another world. If I believed "
+"there was, I would say so. But I don’t say it’s like this. I don’t say it’s "
+"like that. I don’t say it’s otherwise. I don’t say it’s not so. And I don’t "
+"deny it’s not so."
+
+msgctxt "dn1:120.5"
+msgid "‘Natthi paro loko …"
+msgstr "Suppose you were to ask me whether there is no other world …"
+
+msgctxt "dn1:120.6"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.7"
+msgid "‘atthi ca natthi ca paro loko …"
+msgstr "whether there both is and is not another world …"
+
+msgctxt "dn1:120.8"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.9"
+msgid "‘nevatthi na natthi paro loko …"
+msgstr "whether there neither is nor is not another world …"
+
+msgctxt "dn1:120.10"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.11"
+msgid "‘atthi sattā opapātikā …"
+msgstr "whether there are beings who are reborn spontaneously …"
+
+msgctxt "dn1:120.12"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.13"
+msgid "‘natthi sattā opapātikā …"
+msgstr "whether there are no beings who are reborn spontaneously …"
+
+msgctxt "dn1:120.14"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.15"
+msgid "‘atthi ca natthi ca sattā opapātikā …"
+msgstr ""
+"whether there both are and are not beings who are reborn spontaneously …"
+
+msgctxt "dn1:120.16"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.17"
+msgid "‘nevatthi na natthi sattā opapātikā …"
+msgstr ""
+"whether there neither are nor are not beings who are reborn spontaneously …"
+
+msgctxt "dn1:120.18"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.19"
+msgid "‘atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko …"
+msgstr "whether there is fruit and result of good and bad deeds …"
+
+msgctxt "dn1:120.20"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.21"
+msgid "‘natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko …"
+msgstr "whether there is no fruit and result of good and bad deeds …"
+
+msgctxt "dn1:120.22"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.23"
+msgid "‘atthi ca natthi ca sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko …"
+msgstr ""
+"whether there both is and is not fruit and result of good and bad deeds …"
+
+msgctxt "dn1:120.24"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.25"
+msgid "‘nevatthi na natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko …"
+msgstr ""
+"whether there neither is nor is not fruit and result of good and bad deeds …"
+
+msgctxt "dn1:120.26"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.27"
+msgid "‘hoti tathāgato paraṃ maraṇā …"
+msgstr "whether a Realized One exists after death …"
+
+msgctxt "dn1:120.28"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.29"
+msgid "‘na hoti tathāgato paraṃ maraṇā …"
+msgstr "whether a Realized One doesn’t exist after death …"
+
+msgctxt "dn1:120.30"
+msgid "pe …"
+msgstr ""
+
+#. VAR: hoti ca na ca hoti → hoti ca na hoti ca (bj, pts1, mr)
+msgctxt "dn1:120.31"
+msgid "‘hoti ca na ca hoti tathāgato paraṃ maraṇā …"
+msgstr "whether a Realized One both exists and doesn’t exist after death …"
+
+msgctxt "dn1:120.32"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:120.33"
+msgid ""
+"‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti iti ce maṃ pucchasi, ‘neva "
+"hoti na na hoti tathāgato paraṃ maraṇā’ti iti ce me assa, ‘neva hoti na na "
+"hoti tathāgato paraṃ maraṇā’ti iti te naṃ byākareyyaṃ, ‘evantipi me no, "
+"tathātipi me no, aññathātipi me no, notipi me no, no notipi me no’ti."
+msgstr ""
+"whether a Realized One neither exists nor doesn’t exist after death. If I "
+"believed there was, I would say so. But I don’t say it’s like this. I don’t "
+"say it’s like that. I don’t say it’s otherwise. I don’t say it’s not so. And "
+"I don’t deny it’s not so."
+
+msgctxt "dn1:120.34"
+msgid ""
+"Idaṃ, bhikkhave, catutthaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"amarāvikkhepikā tattha tattha pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti "
+"amarāvikkhepaṃ."
+msgstr ""
+"This is the fourth ground on which some ascetics and brahmins rely to resort "
+"to evasiveness and equivocation."
+
+msgctxt "dn1:120.35"
+msgid "(4: 16)"
+msgstr ""
+
+#. </p><p><a class="sc" id="104"></a><a class="pts" id="pts1.28"></a>
+msgctxt "dn1:121.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā amarāvikkhepikā tattha tattha pañhaṃ "
+"puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ catūhi vatthūhi."
+msgstr ""
+"These are the four grounds on which those ascetics and brahmins who are "
+"equivocators resort to evasiveness and equivocation whenever they’re asked a "
+"question."
+
+#, fuzzy
+msgctxt "dn1:121.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā amarāvikkhepikā tattha tattha "
+"pañhaṃ puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ, sabbe te "
+"imeheva catūhi vatthūhi, etesaṃ vā aññatarena, natthi ito bahiddhā …"
+msgstr ""
+"Any ascetics and brahmins who resort to equivocation do so on one or other "
+"of these four grounds. Outside of this there is none."
+
+msgctxt "dn1:121.3"
+msgid "pe …"
+msgstr "The Realized One understands this …"
+
+msgctxt "dn1:121.4"
+msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"And those who genuinely praise the Realized One would rightly speak of these "
+"things."
+
+#. </p><h4>
+msgctxt "dn1:122.1"
+msgid "3.1.5. Adhiccasamuppannavāda"
+msgstr "Doctrines of Origination by Chance"
+
+#. </h4><p><a class="sc" id="105"></a>
+msgctxt "dn1:123.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā adhiccasamuppannikā adhiccasamuppannaṃ "
+"attānañca lokañca paññapenti dvīhi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who theorize about chance. They assert "
+"that the self and the cosmos arose by chance on two grounds."
+
+msgctxt "dn1:123.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha adhiccasamuppannikā "
+"adhiccasamuppannaṃ attānañca lokañca paññapenti dvīhi vatthūhi?"
+msgstr "And what are the two grounds on which they rely?"
+
+#. </p><p><a class="sc" id="106"></a><a class="pts" id="pts1.29"></a>
+msgctxt "dn1:124.1"
+msgid "Santi, bhikkhave, asaññasattā nāma devā."
+msgstr "There are gods named ‘non-percipient beings’."
+
+msgctxt "dn1:124.2"
+msgid "Saññuppādā ca pana te devā tamhā kāyā cavanti."
+msgstr "When perception arises they pass away from that group of gods."
+
+msgctxt "dn1:124.3"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, bhikkhave, vijjati, yaṃ aññataro satto tamhā kāyā "
+"cavitvā itthattaṃ āgacchati."
+msgstr ""
+"It’s possible that one of those beings passes away from that group and is "
+"reborn in this state of existence."
+
+msgctxt "dn1:124.4"
+msgid "Itthattaṃ āgato samāno agārasmā anagāriyaṃ pabbajati."
+msgstr "Having done so, they go forth from the lay life to homelessness."
+
+msgctxt "dn1:124.5"
+msgid ""
+"Agārasmā anagāriyaṃ pabbajito samāno ātappamanvāya padhānamanvāya "
+"anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte saññuppādaṃ anussarati, tato paraṃ "
+"nānussarati."
+msgstr ""
+"By dint of keen, resolute, committed, and diligent effort, and right focus, "
+"they experience a samādhi of the heart of such a kind that they recollect "
+"the arising of perception, but no further."
+
+msgctxt "dn1:124.6"
+msgid "So evamāha:"
+msgstr "They say:"
+
+msgctxt "dn1:124.7"
+msgid "‘adhiccasamuppanno attā ca loko ca."
+msgstr "‘The self and the cosmos arose by chance."
+
+msgctxt "dn1:124.8"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:124.9"
+msgid "Ahañhi pubbe nāhosiṃ, somhi etarahi ahutvā santatāya pariṇato’ti."
+msgstr ""
+"Because formerly I didn’t exist. Now from not being I’ve changed into being.’"
+
+msgctxt "dn1:124.10"
+msgid ""
+"Idaṃ, bhikkhave, paṭhamaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"adhiccasamuppannikā adhiccasamuppannaṃ attānañca lokañca paññapenti."
+msgstr ""
+"This is the first ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos arose by chance."
+
+msgctxt "dn1:124.11"
+msgid "(1: 17)"
+msgstr ""
+
+#. </p><p><a class="sc" id="107"></a>
+msgctxt "dn1:125.1"
+msgid ""
+"Dutiye ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha adhiccasamuppannikā "
+"adhiccasamuppannaṃ attānañca lokañca paññapenti?"
+msgstr "And what is the second ground on which they rely?"
+
+msgctxt "dn1:125.2"
+msgid "Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā takkī hoti vīmaṃsī."
+msgstr ""
+"It’s when some ascetic or brahmin relies on logic and inquiry. They speak of "
+"what they have worked out by logic, following a line of inquiry, expressing "
+"their own perspective:"
+
+msgctxt "dn1:125.3"
+msgid "So takkapariyāhataṃ vīmaṃsānucaritaṃ sayampaṭibhānaṃ evamāha:"
+msgstr ""
+
+msgctxt "dn1:125.4"
+msgid "‘adhiccasamuppanno attā ca loko cā’ti."
+msgstr "‘The self and the cosmos arose by chance.’"
+
+msgctxt "dn1:125.5"
+msgid ""
+"Idaṃ, bhikkhave, dutiyaṃ ṭhānaṃ, yaṃ āgamma yaṃ ārabbha eke samaṇabrāhmaṇā "
+"adhiccasamuppannikā adhiccasamuppannaṃ attānañca lokañca paññapenti."
+msgstr ""
+"This is the second ground on which some ascetics and brahmins rely to assert "
+"that the self and the cosmos arose by chance."
+
+msgctxt "dn1:125.6"
+msgid "(2: 18)"
+msgstr ""
+
+#. </p><p><a class="sc" id="108"></a>
+msgctxt "dn1:126.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā adhiccasamuppannikā "
+"adhiccasamuppannaṃ attānañca lokañca paññapenti dvīhi vatthūhi."
+msgstr ""
+"These are the two grounds on which those ascetics and brahmins who theorize "
+"about chance assert that the self and the cosmos arose by chance."
+
+msgctxt "dn1:126.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā adhiccasamuppannikā "
+"adhiccasamuppannaṃ attānañca lokañca paññapenti, sabbe te imeheva dvīhi "
+"vatthūhi, etesaṃ vā aññatarena, natthi ito bahiddhā …"
+msgstr ""
+"Any ascetics and brahmins who theorize about do so on one or other of these "
+"two grounds. Outside of this there is none."
+
+msgctxt "dn1:126.3"
+msgid "pe …"
+msgstr "The Realized One understands this …"
+
+msgctxt "dn1:126.4"
+msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"And those who genuinely praise the Realized One would rightly speak of these "
+"things."
+
+#. </p><p><a class="sc" id="109"></a>
+msgctxt "dn1:127.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā pubbantakappikā pubbantānudiṭṭhino "
+"pubbantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti aṭṭhārasahi "
+"vatthūhi."
+msgstr ""
+"These are the eighteen grounds on which those ascetics and brahmins who "
+"theorize about the past assert various hypotheses concerning the past."
+
+msgctxt "dn1:127.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā pubbantakappikā "
+"pubbantānudiṭṭhino pubbantamārabbha anekavihitāni adhimuttipadāni "
+"abhivadanti, sabbe te imeheva aṭṭhārasahi vatthūhi, etesaṃ vā aññatarena, "
+"natthi ito bahiddhā."
+msgstr ""
+"Any ascetics and brahmins who theorize about the past do so on one or other "
+"of these eighteen grounds. Outside of this there is none."
+
+#. </p><p><a class="sc" id="110"></a>
+msgctxt "dn1:128.1"
+msgid "Tayidaṃ, bhikkhave, tathāgato pajānāti:"
+msgstr "The Realized One understands this:"
+
+msgctxt "dn1:128.2"
+msgid ""
+"‘ime diṭṭhiṭṭhānā evaṅgahitā evaṃparāmaṭṭhā evaṅgatikā bhavanti "
+"evaṃabhisamparāyā’ti."
+msgstr ""
+"‘If you hold on to and attach to these grounds for views it leads to such "
+"and such a destiny in the next life.’ "
+
+msgctxt "dn1:128.3"
+msgid ""
+"Tañca tathāgato pajānāti, tato ca uttaritaraṃ pajānāti, tañca pajānanaṃ na "
+"parāmasati, aparāmasato cassa paccattaññeva nibbuti viditā."
+msgstr ""
+"Yet since he does not misapprehend that understanding, he has realized "
+"extinguishment within himself."
+
+msgctxt "dn1:128.4"
+msgid ""
+"Vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca "
+"yathābhūtaṃ viditvā anupādāvimutto, bhikkhave, tathāgato."
+msgstr ""
+"Having truly understood the origin, ending, gratification, drawback and "
+"escape from feelings, the Realized One is freed through not grasping."
+
+#. </p><p><a class="sc" id="111"></a><a class="pts" id="pts1.30"></a>
+msgctxt "dn1:129.1"
+msgid ""
+"Ime kho te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā paṇītā "
+"atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā "
+"pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"These are the principles—deep, hard to see, hard to understand, peaceful, "
+"sublime, beyond the scope of reason, subtle, comprehensible to the astute—"
+"which the Realized One makes known after realizing them with his own "
+"insight. And those who genuinely praise the Realized One would rightly speak "
+"of these things."
+
+#. </p><p class="endsection">
+msgctxt "dn1:130.1"
+msgid "Dutiyabhāṇavāro."
+msgstr ""
+
+#. </p><h3>
+msgctxt "dn1:131.1"
+msgid "3.2. Aparantakappika"
+msgstr "Theories About the Future"
+
+#. </h3><p><a class="sc" id="112"></a>
+msgctxt "dn1:132.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā aparantakappikā aparantānudiṭṭhino, "
+"aparantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti catucattārīsāya "
+"vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who theorize about the future, and "
+"assert various hypotheses concerning the future on forty-four grounds."
+
+msgctxt "dn1:132.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha aparantakappikā "
+"aparantānudiṭṭhino aparantaṃ ārabbha anekavihitāni adhimuttipadāni "
+"abhivadanti catucattārīsāya vatthūhi?"
+msgstr "And what are the forty-four grounds on which they rely?"
+
+#. </p><h4>
+msgctxt "dn1:133.1"
+msgid "3.2.1. Saññīvāda"
+msgstr "Percipient Life After Death"
+
+#. </h4><p><a class="sc" id="113"></a><a class="pts" id="pts1.31"></a>
+msgctxt "dn1:134.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā uddhamāghātanikā saññīvādā "
+"uddhamāghātanaṃ saññiṃ attānaṃ paññapenti soḷasahi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who say there is life after death, and "
+"assert that the self lives on after death in a percipient form on sixteen "
+"grounds."
+
+msgctxt "dn1:134.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha uddhamāghātanikā saññīvādā "
+"uddhamāghātanaṃ saññiṃ attānaṃ paññapenti soḷasahi vatthūhi?"
+msgstr "And what are the sixteen grounds on which they rely?"
+
+#. </p><p><a class="sc" id="114"></a>
+msgctxt "dn1:135.1"
+msgid "‘Rūpī attā hoti arogo paraṃ maraṇā saññī’ti naṃ paññapenti."
+msgstr ""
+"They assert: ‘The self is percipient and sound after death, and it is "
+"physical …"
+
+msgctxt "dn1:135.2"
+msgid "(1: 19)"
+msgstr ""
+
+#. </p><p><a class="sc" id="115"></a>
+msgctxt "dn1:136.1"
+msgid "‘Arūpī attā hoti arogo paraṃ maraṇā saññī’ti naṃ paññapenti."
+msgstr "non-physical …"
+
+msgctxt "dn1:136.2"
+msgid "(2: 20)"
+msgstr ""
+
+#. </p><p><a class="sc" id="116"></a>
+msgctxt "dn1:137.1"
+msgid "‘Rūpī ca arūpī ca attā hoti …"
+msgstr "both physical and non-physical …"
+
+msgctxt "dn1:137.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "dn1:137.3"
+msgid "(3: 21)"
+msgstr ""
+
+#. </p><p><a class="sc" id="117"></a>
+msgctxt "dn1:138.1"
+msgid "‘Nevarūpī nārūpī attā hoti …."
+msgstr "neither physical nor non-physical …"
+
+msgctxt "dn1:138.2"
+msgid "(4: 22)"
+msgstr ""
+
+#. </p><p><a class="sc" id="118"></a>
+msgctxt "dn1:139.1"
+msgid "‘Antavā attā hoti …."
+msgstr "finite …"
+
+msgctxt "dn1:139.2"
+msgid "(5: 23)"
+msgstr ""
+
+#. </p><p><a class="sc" id="119"></a>
+msgctxt "dn1:140.1"
+msgid "‘Anantavā attā hoti …."
+msgstr "infinite …"
+
+msgctxt "dn1:140.2"
+msgid "(6: 24)"
+msgstr ""
+
+#. </p><p><a class="sc" id="120"></a>
+msgctxt "dn1:141.1"
+msgid "‘Antavā ca anantavā ca attā hoti …."
+msgstr "both finite and infinite …"
+
+msgctxt "dn1:141.2"
+msgid "(7: 25)"
+msgstr ""
+
+#. </p><p><a class="sc" id="121"></a>
+msgctxt "dn1:142.1"
+msgid "‘Nevantavā nānantavā attā hoti …."
+msgstr "neither finite nor infinite …"
+
+msgctxt "dn1:142.2"
+msgid "(8: 26)"
+msgstr ""
+
+#. </p><p><a class="sc" id="122"></a>
+msgctxt "dn1:143.1"
+msgid "‘Ekattasaññī attā hoti …."
+msgstr "of unified perception …"
+
+msgctxt "dn1:143.2"
+msgid "(9: 27)"
+msgstr ""
+
+#. </p><p><a class="sc" id="123"></a>
+msgctxt "dn1:144.1"
+msgid "‘Nānattasaññī attā hoti …."
+msgstr "of diverse perception …"
+
+msgctxt "dn1:144.2"
+msgid "(10: 28)"
+msgstr ""
+
+#. </p><p><a class="sc" id="124"></a>
+msgctxt "dn1:145.1"
+msgid "‘Parittasaññī attā hoti …."
+msgstr "of limited perception …"
+
+msgctxt "dn1:145.2"
+msgid "(11: 29)"
+msgstr ""
+
+#. </p><p><a class="sc" id="125"></a>
+msgctxt "dn1:146.1"
+msgid "‘Appamāṇasaññī attā hoti …."
+msgstr "of limitless perception …"
+
+msgctxt "dn1:146.2"
+msgid "(12: 30)"
+msgstr ""
+
+#. </p><p><a class="sc" id="126"></a>
+msgctxt "dn1:147.1"
+msgid "‘Ekantasukhī attā hoti …."
+msgstr "experiences nothing but happiness …"
+
+msgctxt "dn1:147.2"
+msgid "(13: 31)"
+msgstr ""
+
+#. </p><p><a class="sc" id="127"></a>
+msgctxt "dn1:148.1"
+msgid "‘Ekantadukkhī attā hoti …."
+msgstr "experiences nothing but suffering …"
+
+msgctxt "dn1:148.2"
+msgid "(14: 32)"
+msgstr ""
+
+#. </p><p><a class="sc" id="128"></a>
+msgctxt "dn1:149.1"
+msgid "‘Sukhadukkhī attā hoti …."
+msgstr "experiences both happiness and suffering …"
+
+msgctxt "dn1:149.2"
+msgid "(15: 33)"
+msgstr ""
+
+#. </p><p><a class="sc" id="129"></a>
+msgctxt "dn1:150.1"
+msgid "‘Adukkhamasukhī attā hoti arogo paraṃ maraṇā saññī’ti naṃ paññapenti."
+msgstr "experiences neither happiness nor suffering.’"
+
+msgctxt "dn1:150.2"
+msgid "(16: 34)"
+msgstr ""
+
+#. </p><p><a class="sc" id="130"></a><a class="pts" id="pts1.32"></a>
+msgctxt "dn1:151.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā uddhamāghātanikā saññīvādā "
+"uddhamāghātanaṃ saññiṃ attānaṃ paññapenti soḷasahi vatthūhi."
+msgstr ""
+"These are the sixteen grounds on which those ascetics and brahmins assert "
+"that the self lives on after death in a percipient form."
+
+msgctxt "dn1:151.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā uddhamāghātanikā saññīvādā "
+"uddhamāghātanaṃ saññiṃ attānaṃ paññapenti, sabbe te imeheva soḷasahi "
+"vatthūhi, etesaṃ vā aññatarena, natthi ito bahiddhā …"
+msgstr ""
+"Any ascetics and brahmins who assert that the self lives on after death in a "
+"percipient form do so on one or other of these sixteen grounds. Outside of "
+"this there is none."
+
+msgctxt "dn1:151.3"
+msgid "pe …"
+msgstr "The Realized One understands this …"
+
+msgctxt "dn1:151.4"
+msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"And those who genuinely praise the Realized One would rightly speak of these "
+"things."
+
+#. </p><h4>
+msgctxt "dn1:152.1"
+msgid "3.2.2. Asaññīvāda"
+msgstr "Non-Percipient Life After Death"
+
+#. </h4><p><a class="sc" id="131"></a>
+msgctxt "dn1:153.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā "
+"uddhamāghātanaṃ asaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who say there is life after death, and "
+"assert that the self lives on after death in a non-percipient form on eight "
+"grounds."
+
+msgctxt "dn1:153.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha uddhamāghātanikā asaññīvādā "
+"uddhamāghātanaṃ asaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi?"
+msgstr "And what are the eight grounds on which they rely?"
+
+#. </p><p><a class="sc" id="132"></a>
+msgctxt "dn1:154.1"
+msgid "‘Rūpī attā hoti arogo paraṃ maraṇā asaññī’ti naṃ paññapenti."
+msgstr ""
+"They assert: ‘The self is non-percipient and sound after death, and it is "
+"physical …"
+
+msgctxt "dn1:154.2"
+msgid "(1: 35)"
+msgstr ""
+
+#. </p><p><a class="sc" id="133"></a>
+msgctxt "dn1:155.1"
+msgid "‘Arūpī attā hoti arogo paraṃ maraṇā asaññī’ti naṃ paññapenti."
+msgstr "non-physical …"
+
+msgctxt "dn1:155.2"
+msgid "(2: 36)"
+msgstr ""
+
+#. </p><p><a class="sc" id="134"></a>
+msgctxt "dn1:156.1"
+msgid "‘Rūpī ca arūpī ca attā hoti …"
+msgstr "both physical and non-physical …"
+
+msgctxt "dn1:156.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "dn1:156.3"
+msgid "(3: 37)"
+msgstr ""
+
+#. </p><p><a class="sc" id="135"></a>
+msgctxt "dn1:157.1"
+msgid "‘Nevarūpī nārūpī attā hoti …."
+msgstr "neither physical nor non-physical …"
+
+msgctxt "dn1:157.2"
+msgid "(4: 38)"
+msgstr ""
+
+#. </p><p><a class="sc" id="136"></a>
+msgctxt "dn1:158.1"
+msgid "‘Antavā attā hoti …."
+msgstr "finite …"
+
+msgctxt "dn1:158.2"
+msgid "(5: 39)"
+msgstr ""
+
+#. </p><p><a class="sc" id="137"></a>
+msgctxt "dn1:159.1"
+msgid "‘Anantavā attā hoti …."
+msgstr "infinite …"
+
+msgctxt "dn1:159.2"
+msgid "(6: 40)"
+msgstr ""
+
+#. </p><p><a class="sc" id="138"></a>
+msgctxt "dn1:160.1"
+msgid "‘Antavā ca anantavā ca attā hoti …."
+msgstr "both finite and infinite …"
+
+msgctxt "dn1:160.2"
+msgid "(7: 41)"
+msgstr ""
+
+#. </p><p><a class="sc" id="139"></a>
+msgctxt "dn1:161.1"
+msgid ""
+"‘Nevantavā nānantavā attā hoti arogo paraṃ maraṇā asaññī’ti naṃ paññapenti."
+msgstr "neither finite nor infinite.’"
+
+msgctxt "dn1:161.2"
+msgid "(8: 42)"
+msgstr ""
+
+#. </p><p><a class="sc" id="140"></a><a class="pts" id="pts1.33"></a>
+msgctxt "dn1:162.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā "
+"uddhamāghātanaṃ asaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi."
+msgstr ""
+"These are the eight grounds on which those ascetics and brahmins assert that "
+"the self lives on after death in a non-percipient form."
+
+msgctxt "dn1:162.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā uddhamāghātanikā asaññīvādā "
+"uddhamāghātanaṃ asaññiṃ attānaṃ paññapenti, sabbe te imeheva aṭṭhahi "
+"vatthūhi, etesaṃ vā aññatarena, natthi ito bahiddhā …"
+msgstr ""
+"Any ascetics and brahmins who assert that the self lives on after death in a "
+"non-percipient form do so on one or other of these eight grounds. Outside of "
+"this there is none."
+
+msgctxt "dn1:162.3"
+msgid "pe …"
+msgstr "The Realized One understands this …"
+
+msgctxt "dn1:162.4"
+msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"And those who genuinely praise the Realized One would rightly speak of these "
+"things."
+
+#. </p><h4>
+msgctxt "dn1:163.1"
+msgid "3.2.3. Nevasaññīnāsaññīvāda"
+msgstr "Neither Percipient Nor Non-Percipient Life After Death"
+
+#. </h4><p><a class="sc" id="141"></a>
+msgctxt "dn1:164.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā, "
+"uddhamāghātanaṃ nevasaññīnāsaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who say there is life after death, and "
+"assert that the self lives on after death in a neither percipient nor non-"
+"percipient form on eight grounds."
+
+msgctxt "dn1:164.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha uddhamāghātanikā "
+"nevasaññīnāsaññīvādā uddhamāghātanaṃ nevasaññīnāsaññiṃ attānaṃ paññapenti "
+"aṭṭhahi vatthūhi?"
+msgstr "And what are the eight grounds on which they rely?"
+
+#. </p><p><a class="sc" id="142"></a>
+msgctxt "dn1:165.1"
+msgid "‘Rūpī attā hoti arogo paraṃ maraṇā nevasaññīnāsaññī’ti naṃ paññapenti."
+msgstr ""
+"They assert: ‘The self is neither percipient nor non-percipient and sound "
+"after death, and it is physical …"
+
+msgctxt "dn1:165.2"
+msgid "(1: 43)"
+msgstr ""
+
+#. </p><p><a class="sc" id="143"></a>
+msgctxt "dn1:166.1"
+msgid "‘Arūpī attā hoti …"
+msgstr "non-physical …"
+
+msgctxt "dn1:166.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "dn1:166.3"
+msgid "(2: 44)"
+msgstr ""
+
+#. </p><p><a class="sc" id="144"></a>
+msgctxt "dn1:167.1"
+msgid "‘Rūpī ca arūpī ca attā hoti …."
+msgstr "both physical and non-physical …"
+
+msgctxt "dn1:167.2"
+msgid "(3: 45)"
+msgstr ""
+
+#. </p><p><a class="sc" id="145"></a>
+msgctxt "dn1:168.1"
+msgid "‘Nevarūpī nārūpī attā hoti …."
+msgstr "neither physical nor non-physical …"
+
+msgctxt "dn1:168.2"
+msgid "(4: 46)"
+msgstr ""
+
+#. </p><p><a class="sc" id="146"></a>
+msgctxt "dn1:169.1"
+msgid "‘Antavā attā hoti …."
+msgstr "finite …"
+
+msgctxt "dn1:169.2"
+msgid "(5: 47)"
+msgstr ""
+
+#. </p><p><a class="sc" id="147"></a>
+msgctxt "dn1:170.1"
+msgid "‘Anantavā attā hoti …."
+msgstr "infinite …"
+
+msgctxt "dn1:170.2"
+msgid "(6: 48)"
+msgstr ""
+
+#. </p><p><a class="sc" id="148"></a>
+msgctxt "dn1:171.1"
+msgid "‘Antavā ca anantavā ca attā hoti …."
+msgstr "both finite and infinite …"
+
+msgctxt "dn1:171.2"
+msgid "(7: 49)"
+msgstr ""
+
+#. </p><p><a class="sc" id="149"></a>
+msgctxt "dn1:172.1"
+msgid ""
+"‘Nevantavā nānantavā attā hoti arogo paraṃ maraṇā nevasaññīnāsaññī’ti naṃ "
+"paññapenti."
+msgstr "neither finite nor infinite.’"
+
+msgctxt "dn1:172.2"
+msgid "(8: 50)"
+msgstr ""
+
+#. </p><p><a class="sc" id="150"></a>
+msgctxt "dn1:173.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā uddhamāghātanikā "
+"nevasaññīnāsaññīvādā uddhamāghātanaṃ nevasaññīnāsaññiṃ attānaṃ paññapenti "
+"aṭṭhahi vatthūhi."
+msgstr ""
+"These are the eight grounds on which those ascetics and brahmins assert that "
+"the self lives on after death in a neither percipient nor non-percipient "
+"form."
+
+msgctxt "dn1:173.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā uddhamāghātanikā "
+"nevasaññīnāsaññīvādā uddhamāghātanaṃ nevasaññīnāsaññiṃ attānaṃ paññapenti, "
+"sabbe te imeheva aṭṭhahi vatthūhi …"
+msgstr ""
+"Any ascetics and brahmins who assert that the self lives on after death in a "
+"neither percipient nor non-percipient form do so on one or other of these "
+"eight grounds. Outside of this there is none."
+
+msgctxt "dn1:173.3"
+msgid "pe …"
+msgstr "The Realized One understands this …"
+
+msgctxt "dn1:173.4"
+msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"And those who genuinely praise the Realized One would rightly speak of these "
+"things."
+
+#. </p><h4>
+msgctxt "dn1:174.1"
+msgid "3.2.4. Ucchedavāda"
+msgstr "Annihilationism"
+
+#. </h4><p><a class="sc" id="151"></a><a class="pts" id="pts1.34"></a>
+msgctxt "dn1:175.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā ucchedavādā sato sattassa ucchedaṃ "
+"vināsaṃ vibhavaṃ paññapenti sattahi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who are annihilationists. They assert "
+"the annihilation, eradication, and extermination of an existing being on "
+"seven grounds."
+
+msgctxt "dn1:175.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha ucchedavādā sato sattassa "
+"ucchedaṃ vināsaṃ vibhavaṃ paññapenti sattahi vatthūhi?"
+msgstr "And what are the seven grounds on which they rely?"
+
+#. </p><p><a class="sc" id="152"></a>
+#. VAR: evaṃdiṭṭhi → evaṃdiṭṭhī (bj, pts1, mr)
+msgctxt "dn1:176.1"
+msgid "Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā evaṃvādī hoti evaṃdiṭṭhi:"
+msgstr "There are some ascetics and brahmins who have this doctrine and view:"
+
+msgctxt "dn1:176.2"
+msgid ""
+"‘yato kho, bho, ayaṃ attā rūpī cātumahābhūtiko mātāpettikasambhavo kāyassa "
+"bhedā ucchijjati vinassati, na hoti paraṃ maraṇā, ettāvatā kho, bho, ayaṃ "
+"attā sammā samucchinno hotī’ti."
+msgstr ""
+"‘This self is physical, made up of the four primary elements, and produced "
+"by mother and father. When it’s annihilated and destroyed when the body "
+"breaks up, and doesn’t exist after death, that’s how this self becomes "
+"rightly annihilated.’"
+
+msgctxt "dn1:176.3"
+msgid "Ittheke sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññapenti."
+msgstr "That is how some assert the annihilation of an existing being."
+
+msgctxt "dn1:176.4"
+msgid "(1: 51)"
+msgstr ""
+
+#. </p><p><a class="sc" id="153"></a>
+msgctxt "dn1:177.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:177.2"
+msgid "‘atthi kho, bho, eso attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:177.3"
+msgid "no ca kho, bho, ayaṃ attā ettāvatā sammā samucchinno hoti."
+msgstr "But that’s not how <em>this</em> self becomes rightly annihilated."
+
+msgctxt "dn1:177.4"
+msgid "Atthi kho, bho, añño attā dibbo rūpī kāmāvacaro kabaḷīkārāhārabhakkho."
+msgstr ""
+"There is another self that is divine, physical, sensual, consuming solid "
+"food."
+
+msgctxt "dn1:177.5"
+msgid "Taṃ tvaṃ na jānāsi na passasi."
+msgstr "You don’t know or see that."
+
+msgctxt "dn1:177.6"
+msgid "Tamahaṃ jānāmi passāmi."
+msgstr "But I know it and see it."
+
+msgctxt "dn1:177.7"
+msgid ""
+"So kho, bho, attā yato kāyassa bhedā ucchijjati vinassati, na hoti paraṃ "
+"maraṇā, ettāvatā kho, bho, ayaṃ attā sammā samucchinno hotī’ti."
+msgstr ""
+"When this self is annihilated and destroyed when the body breaks up, and "
+"doesn’t exist after death, that’s how this self becomes rightly annihilated.’"
+
+msgctxt "dn1:177.8"
+msgid "Ittheke sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññapenti."
+msgstr "That is how some assert the annihilation of an existing being."
+
+msgctxt "dn1:177.9"
+msgid "(2: 52)"
+msgstr ""
+
+#. </p><p><a class="sc" id="154"></a>
+msgctxt "dn1:178.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:178.2"
+msgid "‘atthi kho, bho, eso attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:178.3"
+msgid "no ca kho, bho, ayaṃ attā ettāvatā sammā samucchinno hoti."
+msgstr "But that’s not how <em>this</em> self becomes rightly annihilated."
+
+msgctxt "dn1:178.4"
+msgid ""
+"Atthi kho, bho, añño attā dibbo rūpī manomayo sabbaṅgapaccaṅgī ahīnindriyo."
+msgstr ""
+"There is another self that is divine, physical, mind-made, complete in all "
+"its various parts, not deficient in any faculty."
+
+msgctxt "dn1:178.5"
+msgid "Taṃ tvaṃ na jānāsi na passasi."
+msgstr "You don’t know or see that."
+
+msgctxt "dn1:178.6"
+msgid "Tamahaṃ jānāmi passāmi."
+msgstr "But I know it and see it."
+
+msgctxt "dn1:178.7"
+msgid ""
+"So kho, bho, attā yato kāyassa bhedā ucchijjati vinassati, na hoti paraṃ "
+"maraṇā, ettāvatā kho, bho, ayaṃ attā sammā samucchinno hotī’ti."
+msgstr ""
+"When this self is annihilated and destroyed when the body breaks up, and "
+"doesn’t exist after death, that’s how this self becomes rightly annihilated.’"
+
+msgctxt "dn1:178.8"
+msgid "Ittheke sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññapenti."
+msgstr "That is how some assert the annihilation of an existing being."
+
+msgctxt "dn1:178.9"
+msgid "(3: 53)"
+msgstr ""
+
+#. </p><p><a class="sc" id="155"></a><a class="pts" id="pts1.35"></a>
+msgctxt "dn1:179.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:179.2"
+msgid "‘atthi kho, bho, eso attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:179.3"
+msgid "no ca kho, bho, ayaṃ attā ettāvatā sammā samucchinno hoti."
+msgstr "But that’s not how <em>this</em> self becomes rightly annihilated."
+
+#. VAR: atthaṅgamā → atthagamā (bj, pts1)
+msgctxt "dn1:179.4"
+msgid ""
+"Atthi kho, bho, añño attā sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ "
+"atthaṅgamā nānattasaññānaṃ amanasikārā “ananto ākāso”ti ākāsānañcāyatanūpago."
+msgstr ""
+"There is another self which has gone totally beyond perceptions of form. "
+"With the ending of perceptions of impingement, not focusing on perceptions "
+"of diversity, aware that “space is infinite”, it’s reborn in the dimension "
+"of infinite space."
+
+msgctxt "dn1:179.5"
+msgid "Taṃ tvaṃ na jānāsi na passasi."
+msgstr "You don’t know or see that."
+
+msgctxt "dn1:179.6"
+msgid "Tamahaṃ jānāmi passāmi."
+msgstr "But I know it and see it."
+
+msgctxt "dn1:179.7"
+msgid ""
+"So kho, bho, attā yato kāyassa bhedā ucchijjati vinassati, na hoti paraṃ "
+"maraṇā, ettāvatā kho, bho, ayaṃ attā sammā samucchinno hotī’ti."
+msgstr ""
+"When this self is annihilated and destroyed when the body breaks up, and "
+"doesn’t exist after death, that’s how this self becomes rightly annihilated.’"
+
+msgctxt "dn1:179.8"
+msgid "Ittheke sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññapenti."
+msgstr "That is how some assert the annihilation of an existing being."
+
+msgctxt "dn1:179.9"
+msgid "(4: 54)"
+msgstr ""
+
+#. </p><p><a class="sc" id="156"></a>
+msgctxt "dn1:180.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:180.2"
+msgid "‘atthi kho, bho, eso attā yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:180.3"
+msgid "no ca kho, bho, ayaṃ attā ettāvatā sammā samucchinno hoti."
+msgstr "But that’s not how <em>this</em> self becomes rightly annihilated."
+
+msgctxt "dn1:180.4"
+msgid ""
+"Atthi kho, bho, añño attā sabbaso ākāsānañcāyatanaṃ samatikkamma “anantaṃ "
+"viññāṇan”ti viññāṇañcāyatanūpago."
+msgstr ""
+"There is another self which has gone totally beyond the dimension of "
+"infinite space. Aware that “consciousness is infinite”, it’s reborn in the "
+"dimension of infinite consciousness."
+
+msgctxt "dn1:180.5"
+msgid "Taṃ tvaṃ na jānāsi na passasi."
+msgstr "You don’t know or see that."
+
+msgctxt "dn1:180.6"
+msgid "Tamahaṃ jānāmi passāmi."
+msgstr "But I know it and see it."
+
+msgctxt "dn1:180.7"
+msgid ""
+"So kho, bho, attā yato kāyassa bhedā ucchijjati vinassati, na hoti paraṃ "
+"maraṇā, ettāvatā kho, bho, ayaṃ attā sammā samucchinno hotī’ti."
+msgstr ""
+"Since this self is annihilated and destroyed when the body breaks up, and "
+"doesn’t exist after death, that’s how this self becomes rightly annihilated.’"
+
+msgctxt "dn1:180.8"
+msgid "Ittheke sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññapenti."
+msgstr "That is how some assert the annihilation of an existing being."
+
+msgctxt "dn1:180.9"
+msgid "(5: 55)"
+msgstr ""
+
+#. </p><p><a class="sc" id="157"></a>
+msgctxt "dn1:181.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:181.2"
+msgid "‘atthi kho, bho, so attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:181.3"
+msgid "no ca kho, bho, ayaṃ attā ettāvatā sammā samucchinno hoti."
+msgstr "But that’s not how this self becomes rightly annihilated."
+
+msgctxt "dn1:181.4"
+msgid ""
+"Atthi kho, bho, añño attā sabbaso viññāṇañcāyatanaṃ samatikkamma “natthi "
+"kiñcī”ti ākiñcaññāyatanūpago."
+msgstr ""
+"There is another self that has gone totally beyond the dimension of infinite "
+"consciousness. Aware that “there is nothing at all”, it’s been reborn in the "
+"dimension of nothingness."
+
+msgctxt "dn1:181.5"
+msgid "Taṃ tvaṃ na jānāsi na passasi."
+msgstr "You don’t know or see that."
+
+msgctxt "dn1:181.6"
+msgid "Tamahaṃ jānāmi passāmi."
+msgstr "But I know it and see it."
+
+msgctxt "dn1:181.7"
+msgid ""
+"So kho, bho, attā yato kāyassa bhedā ucchijjati vinassati, na hoti paraṃ "
+"maraṇā, ettāvatā kho, bho, ayaṃ attā sammā samucchinno hotī’ti."
+msgstr ""
+"Since this self is annihilated and destroyed when the body breaks up, and "
+"doesn’t exist after death, that’s how this self becomes rightly annihilated.’"
+
+msgctxt "dn1:181.8"
+msgid "Ittheke sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññapenti."
+msgstr "That is how some assert the annihilation of an existing being."
+
+msgctxt "dn1:181.9"
+msgid "(6: 56)"
+msgstr ""
+
+#. </p><p><a class="sc" id="158"></a>
+msgctxt "dn1:182.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:182.2"
+msgid "‘atthi kho, bho, eso attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:182.3"
+msgid "no ca kho, bho, ayaṃ attā ettāvatā sammā samucchinno hoti."
+msgstr "But that’s not how <em>this</em> self becomes rightly annihilated."
+
+msgctxt "dn1:182.4"
+msgid ""
+"Atthi kho, bho, añño attā sabbaso ākiñcaññāyatanaṃ samatikkamma “santametaṃ "
+"paṇītametan”ti nevasaññānāsaññāyatanūpago."
+msgstr ""
+"There is another self that has gone totally beyond the dimension of "
+"nothingness. Aware that “this is peaceful, this is sublime”, it’s been "
+"reborn in the dimension of neither perception nor non-perception."
+
+msgctxt "dn1:182.5"
+msgid "Taṃ tvaṃ na jānāsi na passasi."
+msgstr "You don’t know or see that."
+
+msgctxt "dn1:182.6"
+msgid "Tamahaṃ jānāmi passāmi."
+msgstr "But I know it and see it."
+
+msgctxt "dn1:182.7"
+msgid ""
+"So kho, bho, attā yato kāyassa bhedā ucchijjati vinassati, na hoti paraṃ "
+"maraṇā, ettāvatā kho, bho, ayaṃ attā sammā samucchinno hotī’ti."
+msgstr ""
+"Since this self is annihilated and destroyed when the body breaks up, and "
+"doesn’t exist after death, that’s how this self becomes rightly annihilated.’"
+
+msgctxt "dn1:182.8"
+msgid "Ittheke sato sattassa ucchedaṃ vināsaṃ vibhavaṃ paññapenti."
+msgstr "That is how some assert the annihilation of an existing being."
+
+msgctxt "dn1:182.9"
+msgid "(7: 57)"
+msgstr ""
+
+#. </p><p><a class="sc" id="159"></a><a class="pts" id="pts1.36"></a>
+msgctxt "dn1:183.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā ucchedavādā sato sattassa ucchedaṃ "
+"vināsaṃ vibhavaṃ paññapenti sattahi vatthūhi."
+msgstr ""
+"These are the seven grounds on which those ascetics and brahmins assert the "
+"annihilation, eradication, and extermination of an existing being."
+
+msgctxt "dn1:183.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā ucchedavādā sato sattassa "
+"ucchedaṃ vināsaṃ vibhavaṃ paññapenti, sabbe te imeheva sattahi vatthūhi …"
+msgstr ""
+"Any ascetics and brahmins who assert the annihilation, eradication, and "
+"extermination of an existing being do so on one or other of these eight "
+"grounds. Outside of this there is none."
+
+msgctxt "dn1:183.3"
+msgid "pe …"
+msgstr "The Realized One understands this …"
+
+msgctxt "dn1:183.4"
+msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"And those who genuinely praise the Realized One would rightly speak of these "
+"things."
+
+#. </p><h4>
+msgctxt "dn1:184.1"
+msgid "3.2.5. Diṭṭhadhammanibbānavāda"
+msgstr "Extinguishment in the Present Life"
+
+#. </h4><p><a class="sc" id="160"></a>
+msgctxt "dn1:185.1"
+msgid ""
+"Santi, bhikkhave, eke samaṇabrāhmaṇā diṭṭhadhammanibbānavādā sato sattassa "
+"paramadiṭṭhadhammanibbānaṃ paññapenti pañcahi vatthūhi."
+msgstr ""
+"There are some ascetics and brahmins who speak of extinguishment in the "
+"present life. They assert the ultimate extinguishment of an existing being "
+"in the present life on five grounds."
+
+msgctxt "dn1:185.2"
+msgid ""
+"Te ca bhonto samaṇabrāhmaṇā kimāgamma kimārabbha diṭṭhadhammanibbānavādā "
+"sato sattassa paramadiṭṭhadhammanibbānaṃ paññapenti pañcahi vatthūhi?"
+msgstr "And what are the five grounds on which they rely?"
+
+#. </p><p><a class="sc" id="161"></a>
+msgctxt "dn1:186.1"
+msgid "Idha, bhikkhave, ekacco samaṇo vā brāhmaṇo vā evaṃvādī hoti evaṃdiṭṭhi:"
+msgstr "There are some ascetics and brahmins who have this doctrine and view:"
+
+msgctxt "dn1:186.2"
+msgid ""
+"‘yato kho, bho, ayaṃ attā pañcahi kāmaguṇehi samappito samaṅgībhūto "
+"paricāreti, ettāvatā kho, bho, ayaṃ attā paramadiṭṭhadhammanibbānaṃ patto "
+"hotī’ti."
+msgstr ""
+"‘When this self amuses itself, supplied and provided with the five kinds of "
+"sensual stimulation, that’s how this self attains ultimate extinguishment in "
+"the present life.’"
+
+msgctxt "dn1:186.3"
+msgid "Ittheke sato sattassa paramadiṭṭhadhammanibbānaṃ paññapenti."
+msgstr ""
+"That is how some assert the extinguishment of an existing being in the "
+"present life."
+
+msgctxt "dn1:186.4"
+msgid "(1: 58)"
+msgstr ""
+
+#. </p><p><a class="sc" id="162"></a><a class="pts" id="pts1.37"></a>
+msgctxt "dn1:187.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:187.2"
+msgid "‘atthi kho, bho, eso attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:187.3"
+msgid ""
+"no ca kho, bho, ayaṃ attā ettāvatā paramadiṭṭhadhammanibbānaṃ patto hoti."
+msgstr ""
+"But that’s not how <em>this</em> self attains ultimate extinguishment in the "
+"present life."
+
+msgctxt "dn1:187.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:187.5"
+msgid ""
+"Kāmā hi, bho, aniccā dukkhā vipariṇāmadhammā, tesaṃ vipariṇāmaññathābhāvā "
+"uppajjanti sokaparidevadukkhadomanassupāyāsā."
+msgstr ""
+"Because sensual pleasures are impermanent, suffering, and perishable. Their "
+"decay and perishing give rise to sorrow, lamentation, pain, sadness, and "
+"distress."
+
+msgctxt "dn1:187.6"
+msgid ""
+"Yato kho, bho, ayaṃ attā vivicceva kāmehi vivicca akusalehi dhammehi "
+"savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja "
+"viharati, ettāvatā kho, bho, ayaṃ attā paramadiṭṭhadhammanibbānaṃ patto "
+"hotī’ti."
+msgstr ""
+"Quite secluded from sensual pleasures, secluded from unwholesome qualities, "
+"this self enters and remains in the first absorption, which has the rapture "
+"and bliss born of seclusion, while placing the mind and keeping it "
+"connected. That’s how this self attains ultimate extinguishment in the "
+"present life.’"
+
+msgctxt "dn1:187.7"
+msgid "Ittheke sato sattassa paramadiṭṭhadhammanibbānaṃ paññapenti."
+msgstr ""
+"That is how some assert the extinguishment of an existing being in the "
+"present life."
+
+msgctxt "dn1:187.8"
+msgid "(2: 59)"
+msgstr ""
+
+#. </p><p><a class="sc" id="163"></a>
+msgctxt "dn1:188.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:188.2"
+msgid "‘atthi kho, bho, eso attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:188.3"
+msgid ""
+"no ca kho, bho, ayaṃ attā ettāvatā paramadiṭṭhadhammanibbānaṃ patto hoti."
+msgstr ""
+"But that’s not how <em>this</em> self attains ultimate extinguishment in the "
+"present life."
+
+msgctxt "dn1:188.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:188.5"
+msgid "Yadeva tattha vitakkitaṃ vicāritaṃ, etenetaṃ oḷārikaṃ akkhāyati."
+msgstr ""
+"Because the placing of the mind and the keeping it in place there are coarse."
+
+msgctxt "dn1:188.6"
+msgid ""
+"Yato kho, bho, ayaṃ attā vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ "
+"cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ "
+"upasampajja viharati, ettāvatā kho, bho, ayaṃ attā "
+"paramadiṭṭhadhammanibbānaṃ patto hotī’ti."
+msgstr ""
+"But when the placing of the mind and keeping it connected are stilled, this "
+"self enters and remains in the second absorption, which has the rapture and "
+"bliss born of samādhi, with internal clarity and confidence, and unified "
+"mind, without placing the mind and keeping it connected. That’s how this "
+"self attains ultimate extinguishment in the present life.’"
+
+msgctxt "dn1:188.7"
+msgid "Ittheke sato sattassa paramadiṭṭhadhammanibbānaṃ paññapenti."
+msgstr ""
+"That is how some assert the extinguishment of an existing being in the "
+"present life."
+
+msgctxt "dn1:188.8"
+msgid "(3: 60)"
+msgstr ""
+
+#. </p><p><a class="sc" id="164"></a>
+msgctxt "dn1:189.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:189.2"
+msgid "‘atthi kho, bho, eso attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘<em>That</em> self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:189.3"
+msgid ""
+"no ca kho, bho, ayaṃ attā ettāvatā paramadiṭṭhadhammanibbānaṃ patto hoti."
+msgstr ""
+"But that’s not how <em>this</em> self attains ultimate extinguishment in the "
+"present life."
+
+msgctxt "dn1:189.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:189.5"
+msgid ""
+"Yadeva tattha pītigataṃ cetaso uppilāvitattaṃ, etenetaṃ oḷārikaṃ akkhāyati."
+msgstr "Because the rapture and emotional excitement there are coarse."
+
+msgctxt "dn1:189.6"
+msgid ""
+"Yato kho, bho, ayaṃ attā pītiyā ca virāgā upekkhako ca viharati, sato ca "
+"sampajāno, sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti “"
+"upekkhako satimā sukhavihārī”ti, tatiyaṃ jhānaṃ upasampajja viharati, "
+"ettāvatā kho, bho, ayaṃ attā paramadiṭṭhadhammanibbānaṃ patto hotī’ti."
+msgstr ""
+"But with the fading away of rapture, this self enters and remains in the "
+"third absorption, where it meditates with equanimity, mindful and aware, "
+"personally experiencing the bliss of which the noble ones declare, “"
+"Equanimous and mindful, one meditates in bliss”. That’s how this self "
+"attains ultimate extinguishment in the present life.’"
+
+msgctxt "dn1:189.7"
+msgid "Ittheke sato sattassa paramadiṭṭhadhammanibbānaṃ paññapenti."
+msgstr ""
+"That is how some assert the extinguishment of an existing being in the "
+"present life."
+
+msgctxt "dn1:189.8"
+msgid "(4: 61)"
+msgstr ""
+
+#. </p><p><a class="sc" id="165"></a><a class="pts" id="pts1.38"></a>
+msgctxt "dn1:190.1"
+msgid "Tamañño evamāha:"
+msgstr "But someone else says to them:"
+
+msgctxt "dn1:190.2"
+msgid "‘atthi kho, bho, eso attā, yaṃ tvaṃ vadesi, neso natthīti vadāmi;"
+msgstr "‘That self of which you speak does exist, I don’t deny it."
+
+msgctxt "dn1:190.3"
+msgid ""
+"no ca kho, bho, ayaṃ attā ettāvatā paramadiṭṭhadhammanibbānaṃ patto hoti."
+msgstr ""
+"But that’s not how this self attains ultimate extinguishment in the present "
+"life."
+
+msgctxt "dn1:190.4"
+msgid "Taṃ kissa hetu?"
+msgstr "Why is that? "
+
+msgctxt "dn1:190.5"
+msgid "Yadeva tattha sukhamiti cetaso ābhogo, etenetaṃ oḷārikaṃ akkhāyati."
+msgstr "Because the bliss and enjoyment there are coarse."
+
+msgctxt "dn1:190.6"
+msgid ""
+"Yato kho, bho, ayaṃ attā sukhassa ca pahānā dukkhassa ca pahānā pubbeva "
+"somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ "
+"catutthaṃ jhānaṃ upasampajja viharati, ettāvatā kho, bho, ayaṃ attā "
+"paramadiṭṭhadhammanibbānaṃ patto hotī’ti."
+msgstr ""
+"But giving up pleasure and pain, and ending former happiness and sadness, "
+"this self enters and remains in the fourth absorption, without pleasure or "
+"pain, with pure equanimity and mindfulness. That’s how this self attains "
+"ultimate extinguishment in the present life.’"
+
+msgctxt "dn1:190.7"
+msgid "Ittheke sato sattassa paramadiṭṭhadhammanibbānaṃ paññapenti."
+msgstr ""
+"That is how some assert the extinguishment of an existing being in the "
+"present life."
+
+msgctxt "dn1:190.8"
+msgid "(5: 62)"
+msgstr ""
+
+#. </p><p><a class="sc" id="166"></a>
+msgctxt "dn1:191.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā diṭṭhadhammanibbānavādā sato "
+"sattassa paramadiṭṭhadhammanibbānaṃ paññapenti pañcahi vatthūhi."
+msgstr ""
+"These are the five grounds on which those ascetics and brahmins assert the "
+"ultimate extinguishment of an existing being in the present life."
+
+msgctxt "dn1:191.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā diṭṭhadhammanibbānavādā sato "
+"sattassa paramadiṭṭhadhammanibbānaṃ paññapenti, sabbe te imeheva pañcahi "
+"vatthūhi …"
+msgstr ""
+"Any ascetics and brahmins who assert the ultimate extinguishment of an "
+"existing being in the present life do so on one or other of these five "
+"grounds. Outside of this there is none."
+
+msgctxt "dn1:191.3"
+msgid "pe …"
+msgstr "The Realized One understands this …"
+
+msgctxt "dn1:191.4"
+msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"And those who genuinely praise the Realized One would rightly speak of these "
+"things."
+
+#. </p><p><a class="sc" id="167"></a><a class="pts" id="pts1.39"></a>
+msgctxt "dn1:192.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā aparantakappikā aparantānudiṭṭhino "
+"aparantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti catucattārīsāya "
+"vatthūhi."
+msgstr ""
+"These are the forty-four grounds on which those ascetics and brahmins who "
+"theorize about the future assert various hypotheses concerning the future."
+
+msgctxt "dn1:192.2"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā aparantakappikā "
+"aparantānudiṭṭhino aparantaṃ ārabbha anekavihitāni adhimuttipadāni "
+"abhivadanti, sabbe te imeheva catucattārīsāya vatthūhi …"
+msgstr ""
+"Any ascetics and brahmins who theorize about the future do so on one or "
+"other of these forty-four grounds. Outside of this there is none."
+
+msgctxt "dn1:192.3"
+msgid "pe …"
+msgstr "The Realized One understands this …"
+
+msgctxt "dn1:192.4"
+msgid "yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"And those who genuinely praise the Realized One would rightly speak of these "
+"things."
+
+#. </p><p><a class="sc" id="168"></a>
+msgctxt "dn1:193.1"
+msgid ""
+"Imehi kho te, bhikkhave, samaṇabrāhmaṇā pubbantakappikā ca aparantakappikā "
+"ca pubbantāparantakappikā ca pubbantāparantānudiṭṭhino pubbantāparantaṃ "
+"ārabbha anekavihitāni adhimuttipadāni abhivadanti dvāsaṭṭhiyā vatthūhi."
+msgstr ""
+"These are the sixty-two grounds on which those ascetics and brahmins who "
+"theorize about the past and the future assert various hypotheses concerning "
+"the past and the future."
+
+#. </p><p><a class="sc" id="169"></a>
+msgctxt "dn1:194.1"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā pubbantakappikā vā "
+"aparantakappikā vā pubbantāparantakappikā vā pubbantāparantānudiṭṭhino "
+"pubbantāparantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti, sabbe te "
+"imeheva dvāsaṭṭhiyā vatthūhi, etesaṃ vā aññatarena;"
+msgstr ""
+"Any ascetics and brahmins who theorize about the past or the future do so on "
+"one or other of these sixty-two grounds. Outside of this there is none."
+
+msgctxt "dn1:194.2"
+msgid "natthi ito bahiddhā."
+msgstr ""
+
+#. </p><p><a class="sc" id="170"></a>
+msgctxt "dn1:195.1"
+msgid "Tayidaṃ, bhikkhave, tathāgato pajānāti:"
+msgstr "The Realized One understands this:"
+
+msgctxt "dn1:195.2"
+msgid ""
+"‘ime diṭṭhiṭṭhānā evaṅgahitā evaṃparāmaṭṭhā evaṅgatikā bhavanti "
+"evaṃabhisamparāyā’ti."
+msgstr ""
+"‘If you hold on to and attach to these grounds for views it leads to such "
+"and such a destiny in the next life.’ "
+
+msgctxt "dn1:195.3"
+msgid ""
+"Tañca tathāgato pajānāti, tato ca uttaritaraṃ pajānāti, tañca pajānanaṃ na "
+"parāmasati, aparāmasato cassa paccattaññeva nibbuti viditā."
+msgstr ""
+"Yet since he does not misapprehend that understanding, he has realized "
+"extinguishment within himself."
+
+msgctxt "dn1:195.4"
+msgid ""
+"Vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca "
+"yathābhūtaṃ viditvā anupādāvimutto, bhikkhave, tathāgato."
+msgstr ""
+"Having truly understood the origin, ending, gratification, drawback and "
+"escape from feelings, the Realized One is freed through not grasping."
+
+#. </p><p><a class="sc" id="171"></a>
+msgctxt "dn1:196.1"
+msgid ""
+"Ime kho te, bhikkhave, dhammā gambhīrā duddasā duranubodhā santā paṇītā "
+"atakkāvacarā nipuṇā paṇḍitavedanīyā, ye tathāgato sayaṃ abhiññā sacchikatvā "
+"pavedeti, yehi tathāgatassa yathābhuccaṃ vaṇṇaṃ sammā vadamānā vadeyyuṃ."
+msgstr ""
+"These are the principles—deep, hard to see, hard to understand, peaceful, "
+"sublime, beyond the scope of reason, subtle, comprehensible to the astute—"
+"which the Realized One makes known after realizing them with his own "
+"insight. And those who genuinely praise the Realized One would rightly speak "
+"of these things."
+
+#. </p><h2>
+msgctxt "dn1:197.1"
+msgid "4. Attālokapaññattivatthu"
+msgstr "The Grounds For Assertions About the Self and the Cosmos"
+
+#. </h2><h3>
+msgctxt "dn1:198.1"
+msgid "4.1. Paritassitavipphanditavāra"
+msgstr "Anxiety and Evasiveness"
+
+#. </h3><p><a class="sc" id="172"></a><a class="pts" id="pts1.40"></a>
+msgctxt "dn1:199.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā sassatavādā sassataṃ attānañca "
+"lokañca paññapenti catūhi vatthūhi, tadapi tesaṃ bhavataṃ samaṇabrāhmaṇānaṃ "
+"ajānataṃ apassataṃ vedayitaṃ taṇhāgatānaṃ paritassitavipphanditameva."
+msgstr ""
+"Now, these things are only the feeling of those who do not know or see, the "
+"agitation and evasiveness of those under the sway of craving. Namely, when "
+"those ascetics and brahmins assert that the self and the cosmos are eternal "
+"on four grounds …"
+
+#. </p><p><a class="sc" id="173"></a>
+msgctxt "dn1:200.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā ekaccasassatikā ekaccaasassatikā "
+"ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca paññapenti catūhi "
+"vatthūhi, tadapi tesaṃ bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ "
+"vedayitaṃ taṇhāgatānaṃ paritassitavipphanditameva."
+msgstr "partially eternal on four grounds …"
+
+#. </p><p><a class="sc" id="174"></a>
+msgctxt "dn1:201.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā antānantikā antānantaṃ lokassa "
+"paññapenti catūhi vatthūhi, tadapi tesaṃ bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ "
+"apassataṃ vedayitaṃ taṇhāgatānaṃ paritassitavipphanditameva."
+msgstr "finite or infinite on four grounds …"
+
+#. </p><p><a class="sc" id="175"></a>
+msgctxt "dn1:202.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā amarāvikkhepikā tattha tattha pañhaṃ "
+"puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ catūhi vatthūhi, tadapi "
+"tesaṃ bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ vedayitaṃ taṇhāgatānaṃ "
+"paritassitavipphanditameva."
+msgstr "or they resort to equivocation on four grounds …"
+
+#. </p><p><a class="sc" id="176"></a>
+msgctxt "dn1:203.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā adhiccasamuppannikā "
+"adhiccasamuppannaṃ attānañca lokañca paññapenti dvīhi vatthūhi, tadapi tesaṃ "
+"bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ vedayitaṃ taṇhāgatānaṃ "
+"paritassitavipphanditameva."
+msgstr ""
+"or they assert that the self and the cosmos arose by chance on two grounds …"
+
+#. </p><p><a class="sc" id="177"></a>
+msgctxt "dn1:204.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā pubbantānudiṭṭhino "
+"pubbantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti aṭṭhārasahi "
+"vatthūhi, tadapi tesaṃ bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ "
+"vedayitaṃ taṇhāgatānaṃ paritassitavipphanditameva."
+msgstr "they theorize about the past on these eighteen grounds …"
+
+#. </p><p><a class="sc" id="178"></a>
+msgctxt "dn1:205.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā saññīvādā "
+"uddhamāghātanaṃ saññiṃ attānaṃ paññapenti soḷasahi vatthūhi, tadapi tesaṃ "
+"bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ vedayitaṃ taṇhāgatānaṃ "
+"paritassitavipphanditameva."
+msgstr ""
+"or they assert that the self lives on after death in a percipient form on "
+"sixteen grounds …"
+
+#. </p><p><a class="sc" id="179"></a><a class="pts" id="pts1.41"></a>
+msgctxt "dn1:206.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā "
+"uddhamāghātanaṃ asaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi, tadapi tesaṃ "
+"bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ vedayitaṃ taṇhāgatānaṃ "
+"paritassitavipphanditameva."
+msgstr ""
+"or that the self lives on after death in a non-percipient form on eight "
+"grounds …"
+
+#. </p><p><a class="sc" id="180"></a>
+msgctxt "dn1:207.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā "
+"uddhamāghātanaṃ nevasaññīnāsaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi, "
+"tadapi tesaṃ bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ vedayitaṃ "
+"taṇhāgatānaṃ paritassitavipphanditameva."
+msgstr ""
+"or that the self lives on after death in a neither percipient nor non-"
+"percipient form on eight grounds …"
+
+#. </p><p><a class="sc" id="181"></a>
+msgctxt "dn1:208.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā ucchedavādā sato sattassa ucchedaṃ "
+"vināsaṃ vibhavaṃ paññapenti sattahi vatthūhi, tadapi tesaṃ bhavataṃ "
+"samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ vedayitaṃ taṇhāgatānaṃ "
+"paritassitavipphanditameva."
+msgstr "or they assert the annihilation of an existing being on seven grounds …"
+
+#. </p><p><a class="sc" id="182"></a>
+msgctxt "dn1:209.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā diṭṭhadhammanibbānavādā sato sattassa "
+"paramadiṭṭhadhammanibbānaṃ paññapenti pañcahi vatthūhi, tadapi tesaṃ "
+"bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ vedayitaṃ taṇhāgatānaṃ "
+"paritassitavipphanditameva."
+msgstr ""
+"or they assert the ultimate extinguishment of an existing being in the "
+"present life on five grounds …"
+
+#. </p><p><a class="sc" id="183"></a>
+msgctxt "dn1:210.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā aparantakappikā aparantānudiṭṭhino "
+"aparantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti catucattārīsāya "
+"vatthūhi, tadapi tesaṃ bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ "
+"vedayitaṃ taṇhāgatānaṃ paritassitavipphanditameva."
+msgstr "they theorize about the future on these forty-four grounds …"
+
+#. </p><p><a class="sc" id="184"></a>
+msgctxt "dn1:211.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā ca aparantakappikā ca "
+"pubbantāparantakappikā ca pubbantāparantānudiṭṭhino pubbantāparantaṃ ārabbha "
+"anekavihitāni adhimuttipadāni abhivadanti dvāsaṭṭhiyā vatthūhi, tadapi tesaṃ "
+"bhavataṃ samaṇabrāhmaṇānaṃ ajānataṃ apassataṃ vedayitaṃ taṇhāgatānaṃ "
+"paritassitavipphanditameva."
+msgstr ""
+"When those ascetics and brahmins theorize about the past and the future on "
+"these sixty-two grounds, these things are only the feeling of those who do "
+"not know or see, the agitation and evasiveness of those under the sway of "
+"craving. "
+
+#. </p><h3>
+msgctxt "dn1:212.1"
+msgid "4.2. Phassapaccayāvāra"
+msgstr "Conditioned by Contact"
+
+#. </h3><p><a class="sc" id="185"></a><a class="pts" id="pts1.42"></a>
+msgctxt "dn1:213.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā sassatavādā sassataṃ attānañca "
+"lokañca paññapenti catūhi vatthūhi, tadapi phassapaccayā."
+msgstr ""
+"Now, these things are conditioned by contact. Namely, when those ascetics "
+"and brahmins assert that the self and the cosmos are eternal on four grounds "
+"…"
+
+#. </p><p><a class="sc" id="186"></a>
+msgctxt "dn1:214.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā ekaccasassatikā ekaccaasassatikā "
+"ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca paññapenti catūhi "
+"vatthūhi, tadapi phassapaccayā."
+msgstr "partially eternal on four grounds …"
+
+#. </p><p><a class="sc" id="187"></a>
+msgctxt "dn1:215.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā antānantikā antānantaṃ lokassa "
+"paññapenti catūhi vatthūhi, tadapi phassapaccayā."
+msgstr "finite or infinite on four grounds …"
+
+#. </p><p><a class="sc" id="188"></a>
+msgctxt "dn1:216.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā amarāvikkhepikā tattha tattha pañhaṃ "
+"puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ catūhi vatthūhi, tadapi "
+"phassapaccayā."
+msgstr "or they resort to equivocation on four grounds …"
+
+#. </p><p><a class="sc" id="189"></a>
+msgctxt "dn1:217.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā adhiccasamuppannikā "
+"adhiccasamuppannaṃ attānañca lokañca paññapenti dvīhi vatthūhi, tadapi "
+"phassapaccayā."
+msgstr ""
+"or they assert that the self and the cosmos arose by chance on two grounds …"
+
+#. </p><p><a class="sc" id="190"></a>
+msgctxt "dn1:218.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā pubbantānudiṭṭhino "
+"pubbantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti aṭṭhārasahi "
+"vatthūhi, tadapi phassapaccayā."
+msgstr "they theorize about the past on these eighteen grounds …"
+
+#. </p><p><a class="sc" id="191"></a>
+msgctxt "dn1:219.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā saññīvādā "
+"uddhamāghātanaṃ saññiṃ attānaṃ paññapenti soḷasahi vatthūhi, tadapi "
+"phassapaccayā."
+msgstr ""
+"or they assert that the self lives on after death in a percipient form on "
+"sixteen grounds …"
+
+#. </p><p><a class="sc" id="192"></a>
+msgctxt "dn1:220.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā "
+"uddhamāghātanaṃ asaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi, tadapi "
+"phassapaccayā."
+msgstr ""
+"or that the self lives on after death in a non-percipient form on eight "
+"grounds …"
+
+#. </p><p><a class="sc" id="193"></a>
+msgctxt "dn1:221.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā "
+"uddhamāghātanaṃ nevasaññīnāsaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi, "
+"tadapi phassapaccayā."
+msgstr ""
+"or that the self lives on after death in a neither percipient nor non-"
+"percipient form on eight grounds …"
+
+#. </p><p><a class="sc" id="194"></a>
+msgctxt "dn1:222.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā ucchedavādā sato sattassa ucchedaṃ "
+"vināsaṃ vibhavaṃ paññapenti sattahi vatthūhi, tadapi phassapaccayā."
+msgstr "or they assert the annihilation of an existing being on seven grounds …"
+
+#. </p><p><a class="sc" id="195"></a>
+msgctxt "dn1:223.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā diṭṭhadhammanibbānavādā sato sattassa "
+"paramadiṭṭhadhammanibbānaṃ paññapenti pañcahi vatthūhi, tadapi phassapaccayā."
+msgstr ""
+"or they assert the ultimate extinguishment of an existing being in the "
+"present life on five grounds …"
+
+#. </p><p><a class="sc" id="196"></a><a class="pts" id="pts1.43"></a>
+msgctxt "dn1:224.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā aparantakappikā aparantānudiṭṭhino "
+"aparantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti catucattārīsāya "
+"vatthūhi, tadapi phassapaccayā."
+msgstr "they theorize about the future on these forty-four grounds …"
+
+#. </p><p><a class="sc" id="197"></a>
+msgctxt "dn1:225.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā ca aparantakappikā ca "
+"pubbantāparantakappikā ca pubbantāparantānudiṭṭhino pubbantāparantaṃ ārabbha "
+"anekavihitāni adhimuttipadāni abhivadanti dvāsaṭṭhiyā vatthūhi, tadapi "
+"phassapaccayā."
+msgstr ""
+"When those ascetics and brahmins theorize about the past and the future on "
+"these sixty-two grounds, that too is conditioned by contact."
+
+#. </p><h3>
+msgctxt "dn1:226.1"
+msgid "4.3. Netaṃṭhānaṃvijjativāra"
+msgstr "Not Possible"
+
+#. </h3><p><a class="sc" id="198"></a>
+msgctxt "dn1:227.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā sassatavādā sassataṃ attānañca "
+"lokañca paññapenti catūhi vatthūhi, te vata aññatra phassā "
+"paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="199"></a>
+msgctxt "dn1:228.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā ekaccasassatikā ekaccaasassatikā "
+"ekaccaṃ sassataṃ ekaccaṃ asassataṃ attānañca lokañca paññapenti catūhi "
+"vatthūhi, te vata aññatra phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="200"></a>
+msgctxt "dn1:229.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā antānantikā antānantaṃ lokassa "
+"paññapenti catūhi vatthūhi, te vata aññatra phassā paṭisaṃvedissantīti netaṃ "
+"ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="201"></a>
+msgctxt "dn1:230.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā amarāvikkhepikā tattha tattha pañhaṃ "
+"puṭṭhā samānā vācāvikkhepaṃ āpajjanti amarāvikkhepaṃ catūhi vatthūhi, te "
+"vata aññatra phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="202"></a>
+msgctxt "dn1:231.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā adhiccasamuppannikā "
+"adhiccasamuppannaṃ attānañca lokañca paññapenti dvīhi vatthūhi, te vata "
+"aññatra phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="203"></a>
+msgctxt "dn1:232.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā pubbantānudiṭṭhino "
+"pubbantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti aṭṭhārasahi "
+"vatthūhi, te vata aññatra phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="204"></a><a class="pts" id="pts1.44"></a>
+msgctxt "dn1:233.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā saññīvādā "
+"uddhamāghātanaṃ saññiṃ attānaṃ paññapenti soḷasahi vatthūhi, te vata aññatra "
+"phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="205"></a>
+msgctxt "dn1:234.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā, "
+"uddhamāghātanaṃ asaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi, te vata aññatra "
+"phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="206"></a>
+msgctxt "dn1:235.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā "
+"uddhamāghātanaṃ nevasaññīnāsaññiṃ attānaṃ paññapenti aṭṭhahi vatthūhi, te "
+"vata aññatra phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="207"></a>
+msgctxt "dn1:236.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā ucchedavādā sato sattassa ucchedaṃ "
+"vināsaṃ vibhavaṃ paññapenti sattahi vatthūhi, te vata aññatra phassā "
+"paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="208"></a>
+msgctxt "dn1:237.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā diṭṭhadhammanibbānavādā sato sattassa "
+"paramadiṭṭhadhammanibbānaṃ paññapenti pañcahi vatthūhi, te vata aññatra "
+"phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="209"></a>
+msgctxt "dn1:238.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā aparantakappikā aparantānudiṭṭhino "
+"aparantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti catucattārīsāya "
+"vatthūhi, te vata aññatra phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+
+#. </p><p><a class="sc" id="210"></a>
+msgctxt "dn1:239.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā pubbantakappikā ca aparantakappikā ca "
+"pubbantāparantakappikā ca pubbantāparantānudiṭṭhino pubbantāparantaṃ ārabbha "
+"anekavihitāni adhimuttipadāni abhivadanti dvāsaṭṭhiyā vatthūhi, te vata "
+"aññatra phassā paṭisaṃvedissantīti netaṃ ṭhānaṃ vijjati."
+msgstr ""
+"Now, when those ascetics and brahmins theorize about the past and the future "
+"on these sixty-two grounds, it is not possible that they should experience "
+"these things without contact."
+
+#. </p><h3>
+msgctxt "dn1:240.1"
+msgid "4.4. Diṭṭhigatikādhiṭṭhānavaṭṭakathā"
+msgstr "Dependent Origination"
+
+#. </h3><p><a class="sc" id="211"></a><a class="pts" id="pts1.45"></a>
+msgctxt "dn1:241.1"
+msgid ""
+"Tatra, bhikkhave, ye te samaṇabrāhmaṇā sassatavādā sassataṃ attānañca "
+"lokañca paññapenti catūhi vatthūhi, yepi te samaṇabrāhmaṇā ekaccasassatikā "
+"ekaccaasassatikā …"
+msgstr ""
+
+msgctxt "dn1:241.2"
+msgid "pe …"
+msgstr ""
+
+msgctxt "dn1:241.3"
+msgid "yepi te samaṇabrāhmaṇā antānantikā …"
+msgstr ""
+
+msgctxt "dn1:241.4"
+msgid "yepi te samaṇabrāhmaṇā amarāvikkhepikā …"
+msgstr ""
+
+msgctxt "dn1:241.5"
+msgid "yepi te samaṇabrāhmaṇā adhiccasamuppannikā …"
+msgstr ""
+
+msgctxt "dn1:241.6"
+msgid "yepi te samaṇabrāhmaṇā pubbantakappikā …"
+msgstr ""
+
+msgctxt "dn1:241.7"
+msgid "yepi te samaṇabrāhmaṇā uddhamāghātanikā saññīvādā …"
+msgstr ""
+
+msgctxt "dn1:241.8"
+msgid "yepi te samaṇabrāhmaṇā uddhamāghātanikā asaññīvādā …"
+msgstr ""
+
+msgctxt "dn1:241.9"
+msgid "yepi te samaṇabrāhmaṇā uddhamāghātanikā nevasaññīnāsaññīvādā …"
+msgstr ""
+
+msgctxt "dn1:241.10"
+msgid "yepi te samaṇabrāhmaṇā ucchedavādā …"
+msgstr ""
+
+msgctxt "dn1:241.11"
+msgid "yepi te samaṇabrāhmaṇā diṭṭhadhammanibbānavādā …"
+msgstr ""
+
+msgctxt "dn1:241.12"
+msgid "yepi te samaṇabrāhmaṇā aparantakappikā …"
+msgstr ""
+
+msgctxt "dn1:241.13"
+msgid ""
+"yepi te samaṇabrāhmaṇā pubbantakappikā ca aparantakappikā ca "
+"pubbantāparantakappikā ca pubbantāparantānudiṭṭhino pubbantāparantaṃ ārabbha "
+"anekavihitāni adhimuttipadāni abhivadanti dvāsaṭṭhiyā vatthūhi, sabbe te "
+"chahi phassāyatanehi phussa phussa paṭisaṃvedenti tesaṃ vedanāpaccayā taṇhā, "
+"taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā "
+"jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti."
+msgstr ""
+"Now, when those ascetics and brahmins theorize about the past and the future "
+"on these sixty-two grounds, all of them experience this by repeated contact "
+"through the six fields of contact. Their feeling is a condition for craving. "
+"Craving is a condition for grasping. Grasping is a condition for future "
+"existence. Future existence is a condition for rebirth. Rebirth is a "
+"condition for old age and death, sorrow, crying, pain, sadness, and distress "
+"to come to be."
+
+#. </p><h2>
+msgctxt "dn1:242.1"
+msgid "5. Vivaṭṭakathādi"
+msgstr ""
+
+#. </h2><p><a class="sc" id="212"></a>
+msgctxt "dn1:243.1"
+msgid ""
+"Yato kho, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca "
+"atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti, ayaṃ "
+"imehi sabbeheva uttaritaraṃ pajānāti."
+msgstr ""
+"When a mendicant truly understands the six fields of contact’s origin, "
+"ending, gratification, drawback, and escape, they understand what lies "
+"beyond all these things."
+
+#. </p><p><a class="sc" id="213"></a>
+msgctxt "dn1:244.1"
+msgid ""
+"Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā pubbantakappikā vā "
+"aparantakappikā vā pubbantāparantakappikā vā pubbantāparantānudiṭṭhino "
+"pubbantāparantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti, sabbe te "
+"imeheva dvāsaṭṭhiyā vatthūhi antojālīkatā, ettha sitāva ummujjamānā "
+"ummujjanti, ettha pariyāpannā antojālīkatāva ummujjamānā ummujjanti."
+msgstr ""
+"All of these ascetics and brahmins who theorize about the past or the future "
+"are trapped in the net of these sixty-two grounds, so that wherever they "
+"emerge they are caught and trapped in this very net."
+
+#. </p><p><a class="sc" id="214"></a><a class="pts" id="pts1.46"></a>
+#. VAR: udakadahaṃ → udakarahadaṃ (s1-3)
+msgctxt "dn1:245.1"
+msgid ""
+"Seyyathāpi, bhikkhave, dakkho kevaṭṭo vā kevaṭṭantevāsī vā sukhumacchikena "
+"jālena parittaṃ udakadahaṃ otthareyya."
+msgstr ""
+"Suppose and expert fisherman or his apprentice was to cast a fine-meshed net "
+"over a small pond."
+
+msgctxt "dn1:245.2"
+msgid "Tassa evamassa:"
+msgstr "They’d think:"
+
+msgctxt "dn1:245.3"
+msgid "‘ye kho keci imasmiṃ udakadahe oḷārikā pāṇā, sabbe te antojālīkatā."
+msgstr "‘Any sizable creatures in this pond will be trapped in the net."
+
+msgctxt "dn1:245.4"
+msgid "Ettha sitāva ummujjamānā ummujjanti;"
+msgstr "Wherever they emerge they are caught and trapped in this very net.’"
+
+msgctxt "dn1:245.5"
+msgid "ettha pariyāpannā antojālīkatāva ummujjamānā ummujjantī’ti;"
+msgstr ""
+
+msgctxt "dn1:245.6"
+msgid ""
+"evameva kho, bhikkhave, ye hi keci samaṇā vā brāhmaṇā vā pubbantakappikā vā "
+"aparantakappikā vā pubbantāparantakappikā vā pubbantāparantānudiṭṭhino "
+"pubbantāparantaṃ ārabbha anekavihitāni adhimuttipadāni abhivadanti, sabbe te "
+"imeheva dvāsaṭṭhiyā vatthūhi antojālīkatā ettha sitāva ummujjamānā "
+"ummujjanti, ettha pariyāpannā antojālīkatāva ummujjamānā ummujjanti."
+msgstr ""
+"in the same way, all of these ascetics and brahmins who theorize about the "
+"past or the future are trapped in the net of these sixty-two grounds, so "
+"that wherever they emerge they are caught and trapped in this very net."
+
+#. </p><p><a class="sc" id="215"></a>
+msgctxt "dn1:246.1"
+msgid "Ucchinnabhavanettiko, bhikkhave, tathāgatassa kāyo tiṭṭhati."
+msgstr ""
+"The Realized One’s body remains, but his attachment to being reborn has been "
+"cut off."
+
+msgctxt "dn1:246.2"
+msgid "Yāvassa kāyo ṭhassati, tāva naṃ dakkhanti devamanussā."
+msgstr "As long as his body remains he will be seen by gods and humans."
+
+msgctxt "dn1:246.3"
+msgid "Kāyassa bhedā uddhaṃ jīvitapariyādānā na naṃ dakkhanti devamanussā."
+msgstr ""
+"But when his body breaks up, after life has ended, gods and men will see him "
+"no more."
+
+#. </p><p><a class="sc" id="216"></a>
+msgctxt "dn1:247.1"
+msgid ""
+"Seyyathāpi, bhikkhave, ambapiṇḍiyā vaṇṭacchinnāya yāni kānici ambāni "
+"vaṇṭapaṭibandhāni, sabbāni tāni tadanvayāni bhavanti;"
+msgstr ""
+"When the stalk of a bunch of mangoes is cut, all the mangoes attached to the "
+"stalk will follow along."
+
+#, fuzzy
+msgctxt "dn1:247.2"
+msgid ""
+"evameva kho, bhikkhave, ucchinnabhavanettiko tathāgatassa kāyo tiṭṭhati, "
+"yāvassa kāyo ṭhassati, tāva naṃ dakkhanti devamanussā, kāyassa bhedā uddhaṃ "
+"jīvitapariyādānā na naṃ dakkhanti devamanussā”ti."
+msgstr ""
+"In the same way, the Realized One’s body remains, but his attachment to "
+"being reborn has been cut off. As long as his body remains he will be seen "
+"by gods and humans. But when his body breaks up, after life has ended, gods "
+"and men will see him no more.”"
+
+#. </p><p><a class="sc" id="217"></a>
+msgctxt "dn1:248.1"
+msgid "Evaṃ vutte, āyasmā ānando bhagavantaṃ etadavoca:"
+msgstr "When he said this, Venerable Ānanda said to the Buddha: "
+
+msgctxt "dn1:248.2"
+msgid ""
+"“acchariyaṃ, bhante, abbhutaṃ, bhante, ko nāmo ayaṃ, bhante, "
+"dhammapariyāyo”ti?"
+msgstr ""
+"“It’s incredible, sir, it’s amazing! What is the name of this explanation of "
+"the teaching?”"
+
+msgctxt "dn1:248.3"
+msgid ""
+"“Tasmātiha tvaṃ, ānanda, imaṃ dhammapariyāyaṃ atthajālantipi naṃ dhārehi, "
+"dhammajālantipi naṃ dhārehi, brahmajālantipi naṃ dhārehi, diṭṭhijālantipi "
+"naṃ dhārehi, anuttaro saṅgāmavijayotipi naṃ dhārehī”ti."
+msgstr ""
+"“Well, then, Ānanda, you may remember this explanation of the teaching as ‘"
+"The Net of Meaning’, or else ‘The Net of the Teaching’, or else ‘The Prime "
+"Net’, or else ‘The Net of Views’, or else ‘The Supreme Victory in Battle’.”"
+
+#. </p><p><a class="sc" id="218"></a>
+msgctxt "dn1:249.1"
+msgid "Idamavoca bhagavā."
+msgstr "This is what the Buddha said."
+
+msgctxt "dn1:249.2"
+msgid "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti."
+msgstr "Uplifted, the mendicants approved of what the Buddha said."
+
+#. VAR: dasasahassī → sahassī (pts1)
+msgctxt "dn1:249.3"
+msgid ""
+"Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne dasasahassī lokadhātu akampitthāti."
+msgstr "And while this discourse was being spoken, the galaxy shook."
+
+#. </p><p class="endsutta">
+msgctxt "dn1:250.1"
+msgid "Brahmajālasuttaṃ niṭṭhitaṃ paṭhamaṃ."
+msgstr ""
