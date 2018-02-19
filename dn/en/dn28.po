@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-10 08:42+0000\n"
+"POT-Creation-Date: 2018-02-19 00:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,53 +10,48 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn28.po\n"
-"X-Pootle-Revision: 178345\n"
+"X-Pootle-Revision: 195711\n"
 
-#. <html><head><meta charset="utf8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="dn28"><article><div class="hgroup"><p
-#. class="division">
-msgctxt "dn28:1.1"
+#. <section class="sutta" id="dn28"><article><div class="hgroup"><p class="division">
+msgctxt "dn28:0.1"
 msgid "Dīgha Nikāya 28"
 msgstr "Long Discourses 28"
 
 #. </p><h1>
-msgctxt "dn28:2.1"
+msgctxt "dn28:0.2"
 msgid "Sampasādanīyasutta"
 msgstr "Inspiring Confidence"
 
 #. </h1></div><h2>
-msgctxt "dn28:3.1"
+msgctxt "dn28:0.3"
 msgid "1. Sāriputtasīhanāda"
-msgstr "Sāriputta’s Lion’s Roar"
+msgstr "1. Sāriputta’s Lion’s Roar"
 
-#. </h2><p><a class="sc" id="1"></a><a class="wp" id="wp1"></a><a class="pts"
-#. id="pts3.99"></a>
-msgctxt "dn28:4.1"
-msgid "<span class=\"evam\">Evaṃ me sutaṃ—​</span>"
-msgstr "<span class=”evam”>So I have heard.</span>"
+#. </h2><p>
+#. <a class="pts-cs" id="pts-cs1"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.99"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "dn28:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr "So I have heard."
 
-msgctxt "dn28:4.2"
+msgctxt "dn28:1.2"
 msgid "ekaṃ samayaṃ bhagavā nāḷandāyaṃ viharati pāvārikambavane."
 msgstr ""
-"At one time the Buddha was staying near Nālandā in Pāvārika’s mango grove. "
+"At one time the Buddha was staying near Nālandā in Pāvārika’s mango grove."
 
-msgctxt "dn28:4.3"
-msgid "Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami;"
-msgstr "Then Sāriputta went up to the Buddha,"
+msgctxt "dn28:1.3"
+msgid ""
+"Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā "
+"bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā "
+"sāriputto bhagavantaṃ etadavoca:"
+msgstr ""
+"Then Sāriputta went up to the Buddha, bowed, sat down to one side, and said "
+"to him:"
 
-msgctxt "dn28:4.4"
-msgid "upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi."
-msgstr "bowed, sat down to one side, "
-
-msgctxt "dn28:4.5"
-msgid "Ekamantaṃ nisinno kho āyasmā sāriputto bhagavantaṃ etadavoca:"
-msgstr "and said to him:"
-
-msgctxt "dn28:4.6"
+msgctxt "dn28:1.4"
 msgid ""
 "“evaṃpasanno ahaṃ, bhante, bhagavati, na cāhu na ca bhavissati na cetarahi "
 "vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro yadidaṃ "
@@ -66,8 +61,10 @@ msgstr ""
 "ascetic or brahmin—whether past, future, or present—whose direct knowledge "
 "is superior to the Buddha when it comes to awakening.”"
 
-#. </p><p><a class="sc" id="2"></a><a class="pts" id="pts3.100"></a>
-msgctxt "dn28:5.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.100"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "dn28:1.5"
 msgid ""
 "“Uḷārā kho te ayaṃ, sāriputta, āsabhī vācā bhāsitā, ekaṃso gahito, sīhanādo "
 "nadito:"
@@ -75,11 +72,11 @@ msgstr ""
 "“That’s a grand and dramatic statement, Sāriputta. You’ve roared a "
 "definitive, categorical lion’s roar, saying:"
 
-msgctxt "dn28:5.2"
+msgctxt "dn28:1.6"
 msgid "‘evaṃpasanno ahaṃ, bhante, bhagavati;"
 msgstr "‘I have such confidence in the Buddha that"
 
-msgctxt "dn28:5.3"
+msgctxt "dn28:1.7"
 msgid ""
 "na cāhu na ca bhavissati na cetarahi vijjati añño samaṇo vā brāhmaṇo vā "
 "bhagavatā bhiyyobhiññataro yadidaṃ sambodhiyan’ti."
@@ -88,95 +85,76 @@ msgstr ""
 "present—whose direct knowledge is superior to the Buddha when it comes to "
 "awakening.’"
 
-msgctxt "dn28:5.4"
+msgctxt "dn28:1.8"
 msgid ""
 "Kiṃ te, sāriputta, ye te ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā, "
 "sabbe te bhagavanto cetasā ceto paricca viditā:"
 msgstr ""
-"What about all the Perfected Ones, the fully awakened Buddhas who lived in "
+"What about all the perfected ones, the fully awakened Buddhas who lived in "
 "the past? Have you comprehended their minds to know that"
 
-msgctxt "dn28:5.5"
+msgctxt "dn28:1.9"
 msgid ""
 "‘evaṃsīlā te bhagavanto ahesuṃ itipi, evaṃdhammā te bhagavanto ahesuṃ itipi, "
 "evaṃpaññā te bhagavanto ahesuṃ itipi, evaṃvihārī te bhagavanto ahesuṃ itipi, "
 "evaṃvimuttā te bhagavanto ahesuṃ itipī’”ti?"
 msgstr ""
-"those Buddhas had such ethics, or such teachings, or such wisdom, or such "
+"those Buddhas had such ethics, or such qualities, or such wisdom, or such "
 "meditation, or such freedom?”"
 
-msgctxt "dn28:5.6"
+msgctxt "dn28:1.10"
 msgid "“No hetaṃ, bhante”."
 msgstr "“No, sir.”"
 
-#. </p><p><a class="sc" id="3"></a>
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
 #. VAR: pana te → kiṃ pana (pts1)
-msgctxt "dn28:6.1"
+msgctxt "dn28:1.11"
 msgid ""
 "“Kiṃ pana te, sāriputta, ye te bhavissanti anāgatamaddhānaṃ arahanto "
 "sammāsambuddhā, sabbe te bhagavanto cetasā ceto paricca viditā:"
 msgstr ""
-"“And what about all the Perfected Ones, the fully awakened Buddhas who will "
+"“And what about all the perfected ones, the fully awakened Buddhas who will "
 "live in the future? Have you comprehended their minds to know that"
 
-msgctxt "dn28:6.2"
-msgid "‘evaṃsīlā te bhagavanto bhavissanti itipi, evaṃdhammā …"
+msgctxt "dn28:1.12"
+msgid ""
+"‘evaṃsīlā te bhagavanto bhavissanti itipi, evaṃdhammā … evaṃpaññā … "
+"evaṃvihārī … evaṃvimuttā te bhagavanto bhavissanti itipī’”ti?"
 msgstr ""
-"those Buddhas will have such ethics, or such teachings, or such wisdom, or "
+"those Buddhas will have such ethics, or such qualities, or such wisdom, or "
 "such meditation, or such freedom?”"
 
-#, fuzzy
-msgctxt "dn28:6.3"
-msgid "evaṃpaññā …"
-msgstr " "
-
-msgctxt "dn28:6.4"
-msgid "evaṃvihārī …"
-msgstr ""
-
-msgctxt "dn28:6.5"
-msgid "evaṃvimuttā te bhagavanto bhavissanti itipī’”ti?"
-msgstr ""
-
-msgctxt "dn28:6.6"
+msgctxt "dn28:1.13"
 msgid "“No hetaṃ, bhante”."
 msgstr "“No, sir.”"
 
-#. </p><p><a class="sc" id="4"></a>
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
 #. VAR: pana te → kiṃ pana (pts1)
-msgctxt "dn28:7.1"
+msgctxt "dn28:1.14"
 msgid ""
 "“Kiṃ pana te, sāriputta, ahaṃ etarahi arahaṃ sammāsambuddho cetasā ceto "
 "paricca vidito:"
 msgstr ""
-"“And what about me, the Perfected One, the fully awakened Buddha at present? "
+"“And what about me, the perfected one, the fully awakened Buddha at present? "
 "Have you comprehended my mind to know that"
 
-msgctxt "dn28:7.2"
-msgid "‘evaṃsīlo bhagavā itipi, evaṃdhammo …"
+msgctxt "dn28:1.15"
+msgid ""
+"‘evaṃsīlo bhagavā itipi, evaṃdhammo … evaṃpañño … evaṃvihārī … evaṃvimutto "
+"bhagavā itipī’”ti?"
 msgstr ""
-"I have such ethics, or such teachings, or such wisdom, or such meditation, "
+"I have such ethics, or such qualities, or such wisdom, or such meditation, "
 "or such freedom?”"
 
-msgctxt "dn28:7.3"
-msgid "evaṃpañño …"
-msgstr ""
-
-msgctxt "dn28:7.4"
-msgid "evaṃvihārī …"
-msgstr ""
-
-msgctxt "dn28:7.5"
-msgid "evaṃvimutto bhagavā itipī’”ti?"
-msgstr ""
-
-msgctxt "dn28:7.6"
+msgctxt "dn28:1.16"
 msgid "“No hetaṃ, bhante”."
 msgstr "“No, sir.”"
 
-#. </p><p><a class="sc" id="5"></a>
-#, fuzzy
-msgctxt "dn28:8.1"
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "dn28:1.17"
 msgid ""
 "“Ettha ca hi te, sāriputta, atītānāgatapaccuppannesu arahantesu "
 "sammāsambuddhesu cetopariyañāṇaṃ natthi."
@@ -184,48 +162,49 @@ msgstr ""
 "“Well then, Sāriputta, given that you don’t comprehend the minds of Buddhas "
 "past, future, or present,"
 
-msgctxt "dn28:8.2"
+msgctxt "dn28:1.18"
 msgid ""
 "Atha kiṃ carahi te ayaṃ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṃso "
 "gahito, sīhanādo nadito:"
 msgstr ""
-"what exactly are you doing, making such an grand and dramatic statement, "
-"roaring such a definitive, categorical lions roar?”"
+"what exactly are you doing, making such a grand and dramatic statement, "
+"roaring such a definitive, categorical lion’s roar?”"
 
-msgctxt "dn28:8.3"
+msgctxt "dn28:1.19"
 msgid ""
 "‘evaṃpasanno ahaṃ, bhante, bhagavati, na cāhu na ca bhavissati na cetarahi "
 "vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro yadidaṃ "
 "sambodhiyan’”ti?"
 msgstr ""
 
-#. </p><p><a class="sc" id="6"></a><a class="wp" id="wp2"></a><a class="pts"
-#. id="pts3.101"></a>
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs2"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.101"></a>
+#. <a class="sc" id="sc6"></a>
 #. VAR: Na kho me → na kho panetaṃ (s1-3, mr)
-msgctxt "dn28:9.1"
+msgctxt "dn28:2.1"
 msgid ""
 "“Na kho me, bhante, atītānāgatapaccuppannesu arahantesu sammāsambuddhesu "
-"cetopariyañāṇaṃ atthi."
+"cetopariyañāṇaṃ atthi. "
 msgstr ""
 "“Sir, though I don’t comprehend the minds of Buddhas past, future, and "
-"present, still I understand this by inference from the teaching."
+"present, "
 
 #. VAR: Api ca me → kho me bhante (bj, pts1, mr)
-#, fuzzy
-msgctxt "dn28:9.2"
+msgctxt "dn28:2.2"
 msgid "Api ca me dhammanvayo vidito."
-msgstr " "
+msgstr "still I understand this by inference from the teaching."
 
 #. VAR: daḷhuddhāpaṃ → daḷhuddāpaṃ (bj, pts1, mr) | daḷhaddhālaṃ (s1-3)
-msgctxt "dn28:9.3"
+msgctxt "dn28:2.3"
 msgid ""
 "Seyyathāpi, bhante, rañño paccantimaṃ nagaraṃ daḷhuddhāpaṃ "
 "daḷhapākāratoraṇaṃ ekadvāraṃ."
 msgstr ""
-"Suppose there was a king’s frontier citadel with fortified embankments, "
+"Suppose there were a king’s frontier citadel with fortified embankments, "
 "ramparts, and arches, and a single gate."
 
-msgctxt "dn28:9.4"
+msgctxt "dn28:2.4"
 msgid ""
 "Tatrassa dovāriko paṇḍito byatto medhāvī aññātānaṃ nivāretā, ñātānaṃ "
 "pavesetā."
@@ -233,7 +212,7 @@ msgstr ""
 "And it has a gatekeeper who is astute, competent, and clever. He keeps "
 "strangers out and lets known people in."
 
-msgctxt "dn28:9.5"
+msgctxt "dn28:2.5"
 msgid ""
 "So tassa nagarassa samantā anupariyāyapathaṃ anukkamamāno na passeyya "
 "pākārasandhiṃ vā pākāravivaraṃ vā antamaso biḷāranikkhamanamattampi."
@@ -241,11 +220,11 @@ msgstr ""
 "As he walks around the patrol path, he doesn’t see a hole or cleft in the "
 "wall, not even one big enough for a cat to slip out."
 
-msgctxt "dn28:9.6"
+msgctxt "dn28:2.6"
 msgid "Tassa evamassa:"
 msgstr "They’d think:"
 
-msgctxt "dn28:9.7"
+msgctxt "dn28:2.7"
 msgid ""
 "‘ye kho keci oḷārikā pāṇā imaṃ nagaraṃ pavisanti vā nikkhamanti vā, sabbe te "
 "imināva dvārena pavisanti vā nikkhamanti vā’ti."
@@ -253,11 +232,11 @@ msgstr ""
 "‘Whatever sizable creatures enter or leave the citadel, all of them do so "
 "via this gate.’"
 
-msgctxt "dn28:9.8"
+msgctxt "dn28:2.8"
 msgid "Evameva kho me, bhante, dhammanvayo vidito."
 msgstr "In the same way, I understand this by inference from the teaching:"
 
-msgctxt "dn28:9.9"
+msgctxt "dn28:2.9"
 msgid ""
 "Ye te, bhante, ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā, sabbe te "
 "bhagavanto pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
@@ -268,9 +247,9 @@ msgstr ""
 "present—give up the five hindrances, corruptions of the heart that weaken "
 "wisdom. Their mind is firmly established in the four kinds of mindfulness "
 "meditation. They correctly develop the seven awakening factors. And they "
-"wake up to the supreme perfect awakening.’”"
+"wake up to the supreme perfect awakening.’"
 
-msgctxt "dn28:9.10"
+msgctxt "dn28:2.10"
 msgid ""
 "Yepi te, bhante, bhavissanti anāgatamaddhānaṃ arahanto sammāsambuddhā, sabbe "
 "te bhagavanto pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
@@ -278,7 +257,7 @@ msgid ""
 "bhāvetvā anuttaraṃ sammāsambodhiṃ abhisambujjhissanti."
 msgstr ""
 
-msgctxt "dn28:9.11"
+msgctxt "dn28:2.11"
 msgid ""
 "Bhagavāpi, bhante, etarahi arahaṃ sammāsambuddho pañca nīvaraṇe pahāya "
 "cetaso upakkilese paññāya dubbalīkaraṇe catūsu satipaṭṭhānesu "
@@ -286,12 +265,14 @@ msgid ""
 "sammāsambodhiṃ abhisambuddho."
 msgstr ""
 
-#. </p><p><a class="sc" id="7"></a><a class="pts" id="pts3.102"></a>
-msgctxt "dn28:10.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.102"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "dn28:2.12"
 msgid "Idhāhaṃ, bhante, yena bhagavā tenupasaṅkamiṃ dhammassavanāya."
 msgstr "Sir, once I approached the Buddha to listen to the teaching."
 
-msgctxt "dn28:10.2"
+msgctxt "dn28:2.13"
 msgid ""
 "Tassa me, bhante, bhagavā dhammaṃ deseti uttaruttaraṃ paṇītapaṇītaṃ "
 "kaṇhasukkasappaṭibhāgaṃ."
@@ -299,36 +280,33 @@ msgstr ""
 "He explained Dhamma with its higher and higher stages, with its better and "
 "better stages, with its dark and bright sides."
 
-msgctxt "dn28:10.3"
+msgctxt "dn28:2.14"
 msgid ""
 "Yathā yathā me, bhante, bhagavā dhammaṃ desesi uttaruttaraṃ paṇītapaṇītaṃ "
 "kaṇhasukkasappaṭibhāgaṃ tathā tathāhaṃ tasmiṃ dhamme abhiññā idhekaccaṃ "
-"dhammaṃ dhammesu niṭṭhamagamaṃ;"
+"dhammaṃ dhammesu niṭṭhamagamaṃ; satthari pasīdiṃ:"
 msgstr ""
 "When I directly knew a certain principle of those teachings, in accordance "
 "with how I was taught, I came to a conclusion about the teachings. I had "
 "confidence in the Teacher:"
 
-#, fuzzy
-msgctxt "dn28:10.4"
-msgid "satthari pasīdiṃ:"
-msgstr " "
-
-msgctxt "dn28:10.5"
+msgctxt "dn28:2.15"
 msgid ""
 "‘sammāsambuddho bhagavā, svākkhāto bhagavatā dhammo, suppaṭipanno "
 "sāvakasaṅgho’ti."
 msgstr ""
-"‘The Blessed One is a fully awakened Buddha. The Dharma is well explained. "
+"‘The Blessed One is a fully awakened Buddha. The teaching is well explained. "
 "The Saṅgha is practicing well.’"
 
 #. </p><h3>
-msgctxt "dn28:11.1"
+msgctxt "dn28:2.16"
 msgid "1.1. Kusaladhammadesanā"
-msgstr "Teaching Skillful Qualities"
+msgstr "1.1. Teaching Skillful Qualities"
 
-#. </h3><p><a class="sc" id="8"></a><a class="wp" id="wp3"></a>
-msgctxt "dn28:12.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs3"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "dn28:3.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti kusalesu "
 "dhammesu."
@@ -336,33 +314,33 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches skillful qualities is "
 "unsurpassable."
 
-msgctxt "dn28:12.2"
+msgctxt "dn28:3.2"
 msgid "Tatrime kusalā dhammā seyyathidaṃ—"
 msgstr "This consists of such skillful qualities as"
 
-msgctxt "dn28:12.3"
+msgctxt "dn28:3.3"
 msgid ""
 "cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, "
 "pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo."
 msgstr ""
-"the four kinds of mindfulness meditation, the four right endeavors, the four "
+"the four kinds of mindfulness meditation, the four right efforts, the four "
 "bases for psychic power, the five faculties, the five powers, the seven "
-"factors of awakening, and the eightfold noble path."
+"awakening factors, and the noble eightfold path."
 
-msgctxt "dn28:12.4"
+msgctxt "dn28:3.4"
 msgid ""
 "Idha, bhante, bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ "
 "diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati."
 msgstr ""
 "By these a mendicant realizes the undefiled freedom of heart and freedom by "
-"wisdom in this very life. And they live having achieved it with their own "
-"insight due to the end of defilements."
+"wisdom in this very life. And they live having realized it with their own "
+"insight due to the ending of defilements."
 
-msgctxt "dn28:12.5"
+msgctxt "dn28:3.5"
 msgid "Etadānuttariyaṃ, bhante, kusalesu dhammesu."
 msgstr "This is unsurpassable when it comes to skillful qualities."
 
-msgctxt "dn28:12.6"
+msgctxt "dn28:3.6"
 msgid ""
 "Taṃ bhagavā asesamabhijānāti, taṃ bhagavato asesamabhijānato uttari "
 "abhiññeyyaṃ natthi, yadabhijānaṃ añño samaṇo vā brāhmaṇo vā bhagavatā "
@@ -373,13 +351,15 @@ msgstr ""
 "in direct knowledge to the Buddha when it comes to skillful qualities."
 
 #. </p><h3>
-msgctxt "dn28:13.1"
+msgctxt "dn28:3.7"
 msgid "1.2. Āyatanapaṇṇattidesanā"
-msgstr "Describing the Sense Fields"
+msgstr "1.2. Describing the Sense Fields"
 
-#. </h3><p><a class="sc" id="9"></a><a class="wp" id="wp4"></a><a class="pts"
-#. id="pts3.103"></a>
-msgctxt "dn28:14.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs4"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.103"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "dn28:4.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "āyatanapaṇṇattīsu."
@@ -387,12 +367,12 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the description of the sense "
 "fields is unsurpassable."
 
-msgctxt "dn28:14.2"
+msgctxt "dn28:4.2"
 msgid "Chayimāni, bhante, ajjhattikabāhirāni āyatanāni."
 msgstr "There are these six interior and exterior sense fields."
 
 #. VAR: rūpā → rūpāni (bj, mr)
-msgctxt "dn28:14.3"
+msgctxt "dn28:4.3"
 msgid ""
 "Cakkhuñceva rūpā ca, sotañceva saddā ca, ghānañceva gandhā ca, jivhā ceva "
 "rasā ca, kāyo ceva phoṭṭhabbā ca, mano ceva dhammā ca."
@@ -400,11 +380,11 @@ msgstr ""
 "The eye and sights, the ear and sounds, the nose and smells, the tongue and "
 "tastes, the body and touches, and the mind and thoughts."
 
-msgctxt "dn28:14.4"
+msgctxt "dn28:4.4"
 msgid "Etadānuttariyaṃ, bhante, āyatanapaṇṇattīsu."
 msgstr "This is unsurpassable when it comes to describing the sense fields."
 
-msgctxt "dn28:14.5"
+msgctxt "dn28:4.5"
 msgid ""
 "Taṃ bhagavā asesamabhijānāti, taṃ bhagavato asesamabhijānato uttari "
 "abhiññeyyaṃ natthi, yadabhijānaṃ añño samaṇo vā brāhmaṇo vā bhagavatā "
@@ -416,12 +396,14 @@ msgstr ""
 "fields."
 
 #. </p><h3>
-msgctxt "dn28:15.1"
+msgctxt "dn28:4.6"
 msgid "1.3. Gabbhāvakkantidesanā"
-msgstr "The Conception of the Embryo"
+msgstr "1.3. The Conception of the Embryo"
 
-#. </h3><p><a class="sc" id="10"></a><a class="wp" id="wp5"></a>
-msgctxt "dn28:16.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs5"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "dn28:5.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "gabbhāvakkantīsu."
@@ -429,101 +411,69 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the conception of the embryo is "
 "unsurpassable."
 
-msgctxt "dn28:16.2"
+msgctxt "dn28:5.2"
 msgid "Catasso imā, bhante, gabbhāvakkantiyo."
 msgstr "There are these four kinds of conception."
 
-msgctxt "dn28:16.3"
-msgid "Idha, bhante, ekacco asampajāno mātukucchiṃ okkamati;"
+msgctxt "dn28:5.3"
+msgid ""
+"Idha, bhante, ekacco asampajāno mātukucchiṃ okkamati; asampajāno "
+"mātukucchismiṃ ṭhāti; asampajāno mātukucchimhā nikkhamati. Ayaṃ paṭhamā "
+"gabbhāvakkanti."
 msgstr ""
 "Firstly, someone is unaware when conceived in their mother’s womb, unaware "
 "as they remain there, and unaware as they emerge. This is the first kind of "
 "conception."
 
-#, fuzzy
-msgctxt "dn28:16.4"
-msgid "asampajāno mātukucchismiṃ ṭhāti;"
-msgstr " "
-
-msgctxt "dn28:16.5"
-msgid "asampajāno mātukucchimhā nikkhamati."
-msgstr ""
-
-msgctxt "dn28:16.6"
-msgid "Ayaṃ paṭhamā gabbhāvakkanti."
-msgstr ""
-
-#. </p><p><a class="sc" id="11"></a>
-msgctxt "dn28:17.1"
-msgid "Puna caparaṃ, bhante, idhekacco sampajāno mātukucchiṃ okkamati;"
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "dn28:5.4"
+msgid ""
+"Puna caparaṃ, bhante, idhekacco sampajāno mātukucchiṃ okkamati; asampajāno "
+"mātukucchismiṃ ṭhāti; asampajāno mātukucchimhā nikkhamati. Ayaṃ dutiyā "
+"gabbhāvakkanti."
 msgstr ""
 "Furthermore, someone is aware when conceived in their mother’s womb, but "
 "unaware as they remain there, and unaware as they emerge. This is the second "
 "kind of conception."
 
-msgctxt "dn28:17.2"
-msgid "asampajāno mātukucchismiṃ ṭhāti;"
-msgstr ""
-
-msgctxt "dn28:17.3"
-msgid "asampajāno mātukucchimhā nikkhamati."
-msgstr ""
-
-msgctxt "dn28:17.4"
-msgid "Ayaṃ dutiyā gabbhāvakkanti."
-msgstr ""
-
-#. </p><p><a class="sc" id="12"></a>
-msgctxt "dn28:18.1"
-msgid "Puna caparaṃ, bhante, idhekacco sampajāno mātukucchiṃ okkamati;"
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "dn28:5.5"
+msgid ""
+"Puna caparaṃ, bhante, idhekacco sampajāno mātukucchiṃ okkamati; sampajāno "
+"mātukucchismiṃ ṭhāti; asampajāno mātukucchimhā nikkhamati. Ayaṃ tatiyā "
+"gabbhāvakkanti."
 msgstr ""
 "Furthermore, someone is aware when conceived in their mother’s womb, aware "
 "as they remain there, but unaware as they emerge. This is the third kind of "
 "conception."
 
-msgctxt "dn28:18.2"
-msgid "sampajāno mātukucchismiṃ ṭhāti;"
-msgstr ""
-
-msgctxt "dn28:18.3"
-msgid "asampajāno mātukucchimhā nikkhamati."
-msgstr ""
-
-msgctxt "dn28:18.4"
-msgid "Ayaṃ tatiyā gabbhāvakkanti."
-msgstr ""
-
-#. </p><p><a class="sc" id="13"></a>
-msgctxt "dn28:19.1"
-msgid "Puna caparaṃ, bhante, idhekacco sampajāno mātukucchiṃ okkamati;"
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "dn28:5.6"
+msgid ""
+"Puna caparaṃ, bhante, idhekacco sampajāno mātukucchiṃ okkamati; sampajāno "
+"mātukucchismiṃ ṭhāti; sampajāno mātukucchimhā nikkhamati. Ayaṃ catutthā "
+"gabbhāvakkanti."
 msgstr ""
 "Furthermore, someone is aware when conceived in their mother’s womb, aware "
 "as they remain there, and aware as they emerge. This is the fourth kind of "
 "conception."
 
-msgctxt "dn28:19.2"
-msgid "sampajāno mātukucchismiṃ ṭhāti;"
-msgstr ""
-
-msgctxt "dn28:19.3"
-msgid "sampajāno mātukucchimhā nikkhamati."
-msgstr ""
-
-msgctxt "dn28:19.4"
-msgid "Ayaṃ catutthā gabbhāvakkanti."
-msgstr ""
-
-msgctxt "dn28:19.5"
+msgctxt "dn28:5.7"
 msgid "Etadānuttariyaṃ, bhante, gabbhāvakkantīsu."
 msgstr "This is unsurpassable when it comes to the conception of the embryo."
 
 #. </p><h3>
-msgctxt "dn28:20.1"
+msgctxt "dn28:5.8"
 msgid "1.4. Ādesanavidhādesanā"
-msgstr "Ways of Revealing"
+msgstr "1.4. Ways of Revealing"
 
-#. </h3><p><a class="sc" id="14"></a><a class="wp" id="wp6"></a>
-msgctxt "dn28:21.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs6"></a>
+#. <a class="sc" id="sc14"></a>
+msgctxt "dn28:6.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "ādesanavidhāsu."
@@ -532,140 +482,129 @@ msgstr ""
 "unsurpassable."
 
 # Called ādesanāpāṭihāriya at AN 3.60
-msgctxt "dn28:21.2"
+msgctxt "dn28:6.2"
 msgid "Catasso imā, bhante, ādesanavidhā."
 msgstr "There are these four ways of revealing."
 
-msgctxt "dn28:21.3"
+msgctxt "dn28:6.3"
 msgid "Idha, bhante, ekacco nimittena ādisati:"
 msgstr "Firstly, someone reveals by means of a sign:"
 
-msgctxt "dn28:21.4"
+msgctxt "dn28:6.4"
 msgid "‘evampi te mano, itthampi te mano, itipi te cittan’ti."
 msgstr ""
 "‘This is what you’re thinking, such is your thought, and thus is your state "
-"of mind.’ "
+"of mind.’"
 
-msgctxt "dn28:21.5"
+msgctxt "dn28:6.5"
 msgid "So bahuñcepi ādisati, tatheva taṃ hoti, no aññathā."
 msgstr ""
 "And even if they reveal this many times, it turns out exactly so, not "
 "otherwise."
 
-msgctxt "dn28:21.6"
+msgctxt "dn28:6.6"
 msgid "Ayaṃ paṭhamā ādesanavidhā."
 msgstr "This is the first way of revealing."
 
-#. </p><p><a class="sc" id="15"></a>
-msgctxt "dn28:22.1"
-msgid "Puna caparaṃ, bhante, idhekacco na heva kho nimittena ādisati."
-msgstr ""
-"Furthermore, someone reveals after hearing it from a human or a non-human or "
-"a god:  "
-
-#, fuzzy
-msgctxt "dn28:22.2"
+#. </p><p>
+#. <a class="sc" id="sc15"></a>
+msgctxt "dn28:6.7"
 msgid ""
-"Api ca kho manussānaṃ vā amanussānaṃ vā devatānaṃ vā saddaṃ sutvā ādisati:"
-msgstr " "
+"Puna caparaṃ, bhante, idhekacco na heva kho nimittena ādisati. Api ca kho "
+"manussānaṃ vā amanussānaṃ vā devatānaṃ vā saddaṃ sutvā ādisati:"
+msgstr ""
+"Furthermore, someone reveals after hearing it from humans or non-humans or "
+"deities:"
 
-msgctxt "dn28:22.3"
+msgctxt "dn28:6.8"
 msgid "‘evampi te mano, itthampi te mano, itipi te cittan’ti."
 msgstr ""
 "‘This is what you’re thinking, such is your thought, and thus is your state "
-"of mind.’ "
+"of mind.’"
 
-msgctxt "dn28:22.4"
+msgctxt "dn28:6.9"
 msgid "So bahuñcepi ādisati, tatheva taṃ hoti, no aññathā."
 msgstr ""
 "And even if they reveal this many times, it turns out exactly so, not "
 "otherwise."
 
-msgctxt "dn28:22.5"
+msgctxt "dn28:6.10"
 msgid "Ayaṃ dutiyā ādesanavidhā."
 msgstr "This is the second way of revealing."
 
-#. </p><p><a class="sc" id="16"></a><a class="pts" id="pts3.104"></a>
-msgctxt "dn28:23.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.104"></a>
+#. <a class="sc" id="sc16"></a>
+msgctxt "dn28:6.11"
 msgid ""
 "Puna caparaṃ, bhante, idhekacco na heva kho nimittena ādisati, nāpi "
-"manussānaṃ vā amanussānaṃ vā devatānaṃ vā saddaṃ sutvā ādisati."
+"manussānaṃ vā amanussānaṃ vā devatānaṃ vā saddaṃ sutvā ādisati. Api ca kho "
+"vitakkayato vicārayato vitakkavipphārasaddaṃ sutvā ādisati:"
 msgstr ""
 "Furthermore, someone reveals by hearing the sound of thought spreading as "
 "someone thinks and considers:"
 
-#, fuzzy
-msgctxt "dn28:23.2"
-msgid "Api ca kho vitakkayato vicārayato vitakkavipphārasaddaṃ sutvā ādisati:"
-msgstr " "
-
-msgctxt "dn28:23.3"
+msgctxt "dn28:6.12"
 msgid "‘evampi te mano, itthampi te mano, itipi te cittan’ti."
 msgstr ""
 "‘This is what you’re thinking, such is your thought, and thus is your state "
-"of mind.’ "
+"of mind.’"
 
-msgctxt "dn28:23.4"
+msgctxt "dn28:6.13"
 msgid "So bahuñcepi ādisati, tatheva taṃ hoti, no aññathā."
 msgstr ""
 "And even if they reveal this many times, it turns out exactly so, not "
 "otherwise."
 
-msgctxt "dn28:23.5"
+msgctxt "dn28:6.14"
 msgid "Ayaṃ tatiyā ādesanavidhā."
 msgstr "This is the third way of revealing."
 
-#. </p><p><a class="sc" id="17"></a>
-msgctxt "dn28:24.1"
+#. </p><p>
+#. <a class="sc" id="sc17"></a>
+#. VAR: avitakkaṃ avicāraṃ samādhiṃ → vitak­ka­vicāra­samā­dhi­samā­pannassa (bj) | vitak­ka­vicāra­samā­dhiṃ (s1-3, mr)
+msgctxt "dn28:6.15"
 msgid ""
 "Puna caparaṃ, bhante, idhekacco na heva kho nimittena ādisati, nāpi "
 "manussānaṃ vā amanussānaṃ vā devatānaṃ vā saddaṃ sutvā ādisati, nāpi "
-"vitakkayato vicārayato vitakkavipphārasaddaṃ sutvā ādisati."
+"vitakkayato vicārayato vitakkavipphārasaddaṃ sutvā ādisati. Api ca kho "
+"avitakkaṃ avicāraṃ samādhiṃ samāpannassa cetasā ceto paricca pajānāti:"
 msgstr ""
 "Furthermore, someone comprehends the mind of a person who has attained the "
 "immersion that’s free of placing the mind and keeping it connected. They "
 "understand:"
 
-#. VAR: avitakkaṃ avicāraṃ samādhiṃ → vitak­ka­vicāra­samā­dhi­samā­pannassa
-#. (bj) | vitak­ka­vicāra­samā­dhiṃ (s1-3, mr)
-msgctxt "dn28:24.2"
+msgctxt "dn28:6.16"
 msgid ""
-"Api ca kho avitakkaṃ avicāraṃ samādhiṃ samāpannassa cetasā ceto paricca "
-"pajānāti:"
-msgstr ""
-
-msgctxt "dn28:24.3"
-msgid "‘yathā imassa bhoto manosaṅkhārā paṇihitā."
+"‘yathā imassa bhoto manosaṅkhārā paṇihitā. Tathā imassa cittassa anantarā "
+"imaṃ nāma vitakkaṃ vitakkessatī’ti."
 msgstr ""
 "‘Judging by the way this person’s intentions are directed, immediately after "
 "this mind state, they’ll think this thought.’"
 
-#, fuzzy
-msgctxt "dn28:24.4"
-msgid "Tathā imassa cittassa anantarā imaṃ nāma vitakkaṃ vitakkessatī’ti."
-msgstr " "
-
-msgctxt "dn28:24.5"
+msgctxt "dn28:6.17"
 msgid "So bahuñcepi ādisati, tatheva taṃ hoti, no aññathā."
 msgstr ""
 "And even if they reveal this many times, it turns out exactly so, not "
 "otherwise."
 
-msgctxt "dn28:24.6"
+msgctxt "dn28:6.18"
 msgid "Ayaṃ catutthā ādesanavidhā."
 msgstr "This is the fourth way of revealing."
 
-msgctxt "dn28:24.7"
+msgctxt "dn28:6.19"
 msgid "Etadānuttariyaṃ, bhante, ādesanavidhāsu."
 msgstr "This is unsurpassable when it comes to the ways of revealing."
 
 #. </p><h3>
-msgctxt "dn28:25.1"
+msgctxt "dn28:6.20"
 msgid "1.5. Dassanasamāpattidesanā"
-msgstr "Attainments of Vision"
+msgstr "1.5. Attainments of Vision"
 
-#. </h3><p><a class="sc" id="18"></a><a class="wp" id="wp7"></a>
-msgctxt "dn28:26.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs7"></a>
+#. <a class="sc" id="sc18"></a>
+msgctxt "dn28:7.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "dassanasamāpattīsu."
@@ -673,11 +612,11 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the attainments of vision is "
 "unsurpassable."
 
-msgctxt "dn28:26.2"
+msgctxt "dn28:7.2"
 msgid "Catasso imā, bhante, dassanasamāpattiyo."
 msgstr "There are these four attainments of vision."
 
-msgctxt "dn28:26.3"
+msgctxt "dn28:7.3"
 msgid ""
 "Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya padhānamanvāya "
 "anuyogamanvāya appamādamanvāya sammāmanasikāramanvāya tathārūpaṃ "
@@ -690,7 +629,7 @@ msgstr ""
 "and down from the tips of the hairs, wrapped in skin and full of many kinds "
 "of filth."
 
-msgctxt "dn28:26.4"
+msgctxt "dn28:7.4"
 msgid ""
 "‘atthi imasmiṃ kāye kesā lomā nakhā dantā taco maṃsaṃ nhāru aṭṭhi "
 "aṭṭhimiñjaṃ vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ "
@@ -699,84 +638,55 @@ msgid ""
 msgstr ""
 "‘In this body there is head hair, body hair, nails, teeth, skin, flesh, "
 "sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, "
-"intestines, mesentry, undigested food, feces, bile, phlegm, pus, blood, "
-"sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’ "
+"intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, "
+"sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’"
 
-msgctxt "dn28:26.5"
+msgctxt "dn28:7.5"
 msgid "Ayaṃ paṭhamā dassanasamāpatti."
 msgstr "This is the first attainment of vision."
 
-#. </p><p><a class="sc" id="19"></a><a class="pts" id="pts3.105"></a>
-msgctxt "dn28:27.1"
-msgid "Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
-msgstr "Furthermore, some ascetic or brahmin attains that and goes beyond it."
-
-msgctxt "dn28:27.2"
-msgid "pe …"
-msgstr ""
-
-#, fuzzy
-msgctxt "dn28:27.3"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.105"></a>
+#. <a class="sc" id="sc19"></a>
+msgctxt "dn28:7.6"
 msgid ""
+"Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … "
 "tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte imameva kāyaṃ uddhaṃ "
 "pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino "
 "paccavekkhati:"
-msgstr " "
+msgstr "Furthermore, some ascetic or brahmin attains that and goes beyond it."
 
-msgctxt "dn28:27.4"
-msgid "‘atthi imasmiṃ kāye kesā lomā …"
+msgctxt "dn28:7.7"
+msgid "‘atthi imasmiṃ kāye kesā lomā … pe … lasikā muttan’ti."
 msgstr ""
 
-msgctxt "dn28:27.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn28:27.6"
-msgid "lasikā muttan’ti."
-msgstr ""
-
-msgctxt "dn28:27.7"
+msgctxt "dn28:7.8"
 msgid "Atikkamma ca purisassa chavimaṃsalohitaṃ aṭṭhiṃ paccavekkhati."
 msgstr "They examine a person’s bones with skin, flesh, and blood."
 
-msgctxt "dn28:27.8"
+msgctxt "dn28:7.9"
 msgid "Ayaṃ dutiyā dassanasamāpatti."
 msgstr "This is the second attainment of vision."
 
-#. </p><p><a class="sc" id="20"></a>
-msgctxt "dn28:28.1"
-msgid "Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
-msgstr "Furthermore, some ascetic or brahmin attains that and goes beyond it."
-
-#, fuzzy
-msgctxt "dn28:28.2"
-msgid "pe …"
-msgstr " "
-
-msgctxt "dn28:28.3"
+#. </p><p>
+#. <a class="sc" id="sc20"></a>
+msgctxt "dn28:7.10"
 msgid ""
+"Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … "
 "tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte imameva kāyaṃ uddhaṃ "
 "pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino "
 "paccavekkhati:"
+msgstr "Furthermore, some ascetic or brahmin attains that and goes beyond it."
+
+msgctxt "dn28:7.11"
+msgid "‘atthi imasmiṃ kāye kesā lomā … pe … lasikā muttan’ti."
 msgstr ""
 
-msgctxt "dn28:28.4"
-msgid "‘atthi imasmiṃ kāye kesā lomā …"
-msgstr ""
-
-msgctxt "dn28:28.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn28:28.6"
-msgid "lasikā muttan’ti."
-msgstr ""
-
-msgctxt "dn28:28.7"
+msgctxt "dn28:7.12"
 msgid "Atikkamma ca purisassa chavimaṃsalohitaṃ aṭṭhiṃ paccavekkhati."
 msgstr ""
 
-msgctxt "dn28:28.8"
+msgctxt "dn28:7.13"
 msgid ""
 "Purisassa ca viññāṇasotaṃ pajānāti, ubhayato abbocchinnaṃ idha loke "
 "patiṭṭhitañca paraloke patiṭṭhitañca."
@@ -784,43 +694,29 @@ msgstr ""
 "They understand a person’s stream of consciousness, unbroken on both sides, "
 "established in both this world and the next."
 
-msgctxt "dn28:28.9"
+msgctxt "dn28:7.14"
 msgid "Ayaṃ tatiyā dassanasamāpatti."
 msgstr "This is the third attainment of vision."
 
-#. </p><p><a class="sc" id="21"></a>
-msgctxt "dn28:29.1"
-msgid "Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
-msgstr "Furthermore, some ascetic or brahmin attains that and goes beyond it."
-
-msgctxt "dn28:29.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn28:29.3"
+#. </p><p>
+#. <a class="sc" id="sc21"></a>
+msgctxt "dn28:7.15"
 msgid ""
+"Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … "
 "tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte imameva kāyaṃ uddhaṃ "
 "pādatalā adho kesamatthakā tacapariyantaṃ pūraṃ nānappakārassa asucino "
 "paccavekkhati:"
+msgstr "Furthermore, some ascetic or brahmin attains that and goes beyond it."
+
+msgctxt "dn28:7.16"
+msgid "‘atthi imasmiṃ kāye kesā lomā … pe … lasikā muttan’ti."
 msgstr ""
 
-msgctxt "dn28:29.4"
-msgid "‘atthi imasmiṃ kāye kesā lomā …"
-msgstr ""
-
-msgctxt "dn28:29.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn28:29.6"
-msgid "lasikā muttan’ti."
-msgstr ""
-
-msgctxt "dn28:29.7"
+msgctxt "dn28:7.17"
 msgid "Atikkamma ca purisassa chavimaṃsalohitaṃ aṭṭhiṃ paccavekkhati."
 msgstr ""
 
-msgctxt "dn28:29.8"
+msgctxt "dn28:7.18"
 msgid ""
 "Purisassa ca viññāṇasotaṃ pajānāti, ubhayato abbocchinnaṃ idha loke "
 "appatiṭṭhitañca paraloke appatiṭṭhitañca."
@@ -828,21 +724,23 @@ msgstr ""
 "They understand a person’s stream of consciousness, unbroken on both sides, "
 "not established in either this world or the next."
 
-msgctxt "dn28:29.9"
+msgctxt "dn28:7.19"
 msgid "Ayaṃ catutthā dassanasamāpatti."
 msgstr "This is the fourth attainment of vision."
 
-msgctxt "dn28:29.10"
+msgctxt "dn28:7.20"
 msgid "Etadānuttariyaṃ, bhante, dassanasamāpattīsu."
 msgstr "This is unsurpassable when it comes to attainments of vision."
 
 #. </p><h3>
-msgctxt "dn28:30.1"
+msgctxt "dn28:7.21"
 msgid "1.6. Puggalapaṇṇattidesanā"
-msgstr "Descriptions of Individuals"
+msgstr "1.6. Descriptions of Individuals"
 
-#. </h3><p><a class="sc" id="22"></a><a class="wp" id="wp8"></a>
-msgctxt "dn28:31.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs8"></a>
+#. <a class="sc" id="sc22"></a>
+msgctxt "dn28:8.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "puggalapaṇṇattīsu."
@@ -850,37 +748,39 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the description of individuals is "
 "unsurpassable."
 
-msgctxt "dn28:31.2"
+msgctxt "dn28:8.2"
 msgid "Sattime, bhante, puggalā."
 msgstr "There are these seven individuals."
 
-msgctxt "dn28:31.3"
+msgctxt "dn28:8.3"
 msgid ""
 "Ubhatobhāgavimutto paññāvimutto kāyasakkhi diṭṭhippatto saddhāvimutto "
 "dhammānusārī saddhānusārī."
 msgstr ""
 "One freed both ways, one freed by wisdom, a direct witness, one attained to "
-"view, one freed by faith, a follower of principle, a follower by faith."
+"view, one freed by faith, a follower of the teachings, a follower by faith."
 
-msgctxt "dn28:31.4"
+msgctxt "dn28:8.4"
 msgid "Etadānuttariyaṃ, bhante, puggalapaṇṇattīsu."
 msgstr "This is unsurpassable when it comes to the description of individuals."
 
 #. </p><h3>
-msgctxt "dn28:32.1"
+msgctxt "dn28:8.5"
 msgid "1.7. Padhānadesanā"
-msgstr "Kinds of Striving"
+msgstr "1.7. Kinds of Striving"
 
-#. </h3><p><a class="sc" id="23"></a><a class="wp" id="wp9"></a><a class="pts"
-#. id="pts3.106"></a>
-msgctxt "dn28:33.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs9"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.106"></a>
+#. <a class="sc" id="sc23"></a>
+msgctxt "dn28:9.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti padhānesu."
 msgstr ""
 "And moreover, sir, how the Buddha teaches the kinds of striving is "
 "unsurpassable."
 
-msgctxt "dn28:33.2"
+msgctxt "dn28:9.2"
 msgid ""
 "Sattime, bhante, sambojjhaṅgā satisambojjhaṅgo dhammavicayasambojjhaṅgo "
 "vīriyasambojjhaṅgo pītisambojjhaṅgo passaddhisambojjhaṅgo "
@@ -888,19 +788,21 @@ msgid ""
 msgstr ""
 "There are these seven awakening factors: the awakening factors of "
 "mindfulness, investigation of principles, energy, rapture, tranquility, "
-"immersion, and equanimity. "
+"immersion, and equanimity."
 
-msgctxt "dn28:33.3"
+msgctxt "dn28:9.3"
 msgid "Etadānuttariyaṃ, bhante, padhānesu."
 msgstr "This is unsurpassable when it comes to the kinds of striving."
 
 #. </p><h3>
-msgctxt "dn28:34.1"
+msgctxt "dn28:9.4"
 msgid "1.8. Paṭipadādesanā"
-msgstr "Ways of Practice"
+msgstr "1.8. Ways of Practice"
 
-#. </h3><p><a class="sc" id="24"></a><a class="wp" id="wp10"></a>
-msgctxt "dn28:35.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs10"></a>
+#. <a class="sc" id="sc24"></a>
+msgctxt "dn28:10.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "paṭipadāsu."
@@ -908,7 +810,7 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the ways of practice is "
 "unsurpassable."
 
-msgctxt "dn28:35.2"
+msgctxt "dn28:10.2"
 msgid ""
 "Catasso imā, bhante, paṭipadā dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā "
 "khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññāti."
@@ -917,7 +819,7 @@ msgstr ""
 "pleasant practice with slow insight, and ~pleasant practice with swift "
 "insight."
 
-msgctxt "dn28:35.3"
+msgctxt "dn28:10.3"
 msgid ""
 "Tatra, bhante, yāyaṃ paṭipadā dukkhā dandhābhiññā, ayaṃ, bhante, paṭipadā "
 "ubhayeneva hīnā akkhāyati dukkhattā ca dandhattā ca."
@@ -925,7 +827,7 @@ msgstr ""
 "Of these, the painful practice with slow insight is said to be inferior both "
 "ways: because it’s painful and because it’s slow."
 
-msgctxt "dn28:35.4"
+msgctxt "dn28:10.4"
 msgid ""
 "Tatra, bhante, yāyaṃ paṭipadā dukkhā khippābhiññā, ayaṃ pana, bhante, "
 "paṭipadā dukkhattā hīnā akkhāyati."
@@ -933,7 +835,7 @@ msgstr ""
 "The painful practice with swift insight is said to be inferior because it’s "
 "painful."
 
-msgctxt "dn28:35.5"
+msgctxt "dn28:10.5"
 msgid ""
 "Tatra, bhante, yāyaṃ paṭipadā sukhā dandhābhiññā, ayaṃ pana, bhante, "
 "paṭipadā dandhattā hīnā akkhāyati."
@@ -941,25 +843,27 @@ msgstr ""
 "The pleasant practice with slow insight is said to be inferior because it’s "
 "slow."
 
-msgctxt "dn28:35.6"
+msgctxt "dn28:10.6"
 msgid ""
 "Tatra, bhante, yāyaṃ paṭipadā sukhā khippābhiññā, ayaṃ pana, bhante, "
 "paṭipadā ubhayeneva paṇītā akkhāyati sukhattā ca khippattā ca."
 msgstr ""
 "But the pleasant practice with swift insight is said to be superior both "
-"ways: because it’s pleasant, and because it’s swift."
+"ways: because it’s pleasant and because it’s swift."
 
-msgctxt "dn28:35.7"
+msgctxt "dn28:10.7"
 msgid "Etadānuttariyaṃ, bhante, paṭipadāsu."
 msgstr "This is unsurpassable when it comes to the ways of practice."
 
 #. </p><h3>
-msgctxt "dn28:36.1"
+msgctxt "dn28:10.8"
 msgid "1.9. Bhassasamācārādidesanā"
-msgstr "Behavior in Speech"
+msgstr "1.9. Behavior in Speech"
 
-#. </h3><p><a class="sc" id="25"></a><a class="wp" id="wp11"></a>
-msgctxt "dn28:37.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs11"></a>
+#. <a class="sc" id="sc25"></a>
+msgctxt "dn28:11.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "bhassasamācāre."
@@ -968,26 +872,28 @@ msgstr ""
 "unsurpassable."
 
 # Vehbutiya is only used here and DN 30, where the context shows it is a synonym for pesuniya.
-msgctxt "dn28:37.2"
+msgctxt "dn28:11.2"
 msgid ""
 "Idha, bhante, ekacco na ceva musāvādupasañhitaṃ vācaṃ bhāsati na ca "
 "vebhūtiyaṃ na ca pesuṇiyaṃ na ca sārambhajaṃ jayāpekkho;"
 msgstr ""
-"It’s when someone doesn’t use speech that’s connected with lying, nor "
-"divisive, nor backbiting, nor aggressively trying to win."
+"It’s when someone doesn’t use speech that’s connected with lying, or "
+"divisive, or backbiting, or aggressively trying to win."
 
-msgctxt "dn28:37.3"
+msgctxt "dn28:11.3"
 msgid "mantā mantā ca vācaṃ bhāsati nidhānavatiṃ kālena."
 msgstr "They speak only wise counsel, valuable and timely."
 
-msgctxt "dn28:37.4"
+msgctxt "dn28:11.4"
 msgid "Etadānuttariyaṃ, bhante, bhassasamācāre."
 msgstr "This is unsurpassable when it comes to behavior in speech."
 
 # For some reason Mahasangiti edition omits the heading here.
-#. </p><p><a class="sc" id="26"></a><a class="wp" id="wp12"></a><a class="pts"
-#. id="pts3.107"></a>
-msgctxt "dn28:38.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs12"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.107"></a>
+#. <a class="sc" id="sc26"></a>
+msgctxt "dn28:12.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "purisasīlasamācāre."
@@ -996,9 +902,8 @@ msgstr ""
 "unsurpassable."
 
 # Note that the sequence from satima to matima is related to the good qualities of Ananda, and pertain to textual fluency. Satima here is memory, not mindfulness, which is sato at the end.
-#. VAR: nijigīsanako → nijihiṃsanako (bj) | nijigiṃsanako (s1-3) | nijigiṃsitā
-#. (pts1)
-msgctxt "dn28:38.2"
+#. VAR: nijigīsanako → nijihiṃsanako (bj) | nijigiṃsanako (s1-3) | nijigiṃsitā (pts1)
+msgctxt "dn28:12.2"
 msgid ""
 "Idha, bhante, ekacco sacco cassa saddho ca, na ca kuhako, na ca lapako, na "
 "ca nemittiko, na ca nippesiko, na ca lābhena lābhaṃ nijigīsanako, indriyesu "
@@ -1010,21 +915,23 @@ msgstr ""
 "flattery, hinting, or belittling, and they don’t use material possessions to "
 "pursue other material possessions. They guard the sense doors and eat in "
 "moderation. They’re fair, committed to wakefulness, not slacking off, "
-"energetic, and meditating. They have good memory, eloquence, range, "
+"energetic, and meditative. They have good memory, eloquence, range, "
 "retention, and thoughtfulness. They’re not greedy for sensual pleasures. "
 "They are mindful and self-disciplined."
 
-msgctxt "dn28:38.3"
+msgctxt "dn28:12.3"
 msgid "Etadānuttariyaṃ, bhante, purisasīlasamācāre."
 msgstr "This is unsurpassable when it comes to a person’s ethical behavior."
 
 #. </p><h3>
-msgctxt "dn28:39.1"
+msgctxt "dn28:12.4"
 msgid "1.10. Anusāsanavidhādesanā"
-msgstr "Responsiveness to Instruction"
+msgstr "1.10. Responsiveness to Instruction"
 
-#. </h3><p><a class="sc" id="27"></a><a class="wp" id="wp13"></a>
-msgctxt "dn28:40.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs13"></a>
+#. <a class="sc" id="sc27"></a>
+msgctxt "dn28:13.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "anusāsanavidhāsu."
@@ -1032,27 +939,29 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the different degrees of "
 "responsiveness to instruction is unsurpassable."
 
-msgctxt "dn28:40.2"
+msgctxt "dn28:13.2"
 msgid "Catasso imā, bhante, anusāsanavidhā—"
 msgstr "There are these four degrees of responsiveness to instruction."
 
-# paccattaṃ yonisomanasikārā occurs at SN 46.8, MN 50, and DN 28. In MN 50 it clearly means "investigate inside himself". The same meaning makes sense in SN 46.8. In DN 28, it is applied to another.
-msgctxt "dn28:40.3"
-msgid ""
-"jānāti, bhante, bhagavā aparaṃ puggalaṃ paccattaṃ yonisomanasikārā ‘ayaṃ "
-"puggalo yathānusiṭṭhaṃ tathā paṭipajjamāno tiṇṇaṃ saṃyojanānaṃ parikkhayā "
-"sotāpanno bhavissati avinipātadhammo niyato sambodhiparāyaṇo’ti."
-msgstr ""
-"The Buddha knows by investigating inside another individual: ‘By practicing "
-"as instructed this individual will, with the ending of three fetters, become "
-"a stream-enterer, not liable to be reborn in the underworld, bound for "
-"awakening.’"
+# paccattaṃ yonisomanasikārā occurs at SN 46.8, MN 50, and DN 28. In MN 50 it clearly means “investigate inside himself”. The same meaning makes sense in SN 46.8. In DN 28, it is applied to another.
+msgctxt "dn28:13.3"
+msgid "jānāti, bhante, bhagavā aparaṃ puggalaṃ paccattaṃ yonisomanasikārā "
+msgstr "The Buddha knows by investigating inside another individual: "
 
-msgctxt "dn28:40.4"
+msgctxt "dn28:13.4"
+msgid ""
+"‘ayaṃ puggalo yathānusiṭṭhaṃ tathā paṭipajjamāno tiṇṇaṃ saṃyojanānaṃ "
+"parikkhayā sotāpanno bhavissati avinipātadhammo niyato sambodhiparāyaṇo’ti."
+msgstr ""
+"‘By practicing as instructed this individual will, with the ending of three "
+"fetters, become a stream-enterer, not liable to be reborn in the underworld, "
+"bound for awakening.’"
+
+msgctxt "dn28:13.5"
 msgid "Jānāti, bhante, bhagavā paraṃ puggalaṃ paccattaṃ yonisomanasikārā:"
 msgstr "The Buddha knows by investigating inside another individual:"
 
-msgctxt "dn28:40.5"
+msgctxt "dn28:13.6"
 msgid ""
 "‘ayaṃ puggalo yathānusiṭṭhaṃ tathā paṭipajjamāno tiṇṇaṃ saṃyojanānaṃ "
 "parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmī bhavissati, sakideva imaṃ "
@@ -1060,14 +969,14 @@ msgid ""
 msgstr ""
 "‘By practicing as instructed this individual will, with the ending of three "
 "fetters, and the weakening of greed, hate, and delusion, become a once-"
-"returner. They will back to this world once only, then make an end of "
+"returner. They will come back to this world once only, then make an end of "
 "suffering.’"
 
-msgctxt "dn28:40.6"
+msgctxt "dn28:13.7"
 msgid "Jānāti, bhante, bhagavā paraṃ puggalaṃ paccattaṃ yonisomanasikārā:"
 msgstr "The Buddha knows by investigating inside another individual:"
 
-msgctxt "dn28:40.7"
+msgctxt "dn28:13.8"
 msgid ""
 "‘ayaṃ puggalo yathānusiṭṭhaṃ tathā paṭipajjamāno pañcannaṃ orambhāgiyānaṃ "
 "saṃyojanānaṃ parikkhayā opapātiko bhavissati tattha parinibbāyī "
@@ -1077,11 +986,11 @@ msgstr ""
 "five lower fetters, be reborn spontaneously. They will be extinguished "
 "there, and are not liable to return from that world.’"
 
-msgctxt "dn28:40.8"
+msgctxt "dn28:13.9"
 msgid "Jānāti, bhante, bhagavā paraṃ puggalaṃ paccattaṃ yonisomanasikārā:"
 msgstr "The Buddha knows by investigating inside another individual:"
 
-msgctxt "dn28:40.9"
+msgctxt "dn28:13.10"
 msgid ""
 "‘ayaṃ puggalo yathānusiṭṭhaṃ tathā paṭipajjamāno āsavānaṃ khayā anāsavaṃ "
 "cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
@@ -1089,22 +998,24 @@ msgid ""
 msgstr ""
 "‘By practicing as instructed this individual will realize the undefiled "
 "freedom of heart and freedom by wisdom in this very life, and live having "
-"achieved it with their own insight due to the end of defilements.’"
+"realized it with their own insight due to the ending of defilements.’"
 
-msgctxt "dn28:40.10"
+msgctxt "dn28:13.11"
 msgid "Etadānuttariyaṃ, bhante, anusāsanavidhāsu."
 msgstr ""
 "This is unsurpassable when it comes to the different degrees of "
 "responsiveness to instruction."
 
 #. </p><h3>
-msgctxt "dn28:41.1"
+msgctxt "dn28:13.12"
 msgid "1.11. Parapuggalavimuttiñāṇadesanā"
-msgstr "The Knowledge and Freedom of Others"
+msgstr "1.11. The Knowledge and Freedom of Others"
 
-#. </h3><p><a class="sc" id="28"></a><a class="wp" id="wp14"></a><a class="pts"
-#. id="pts3.108"></a>
-msgctxt "dn28:42.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs14"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.108"></a>
+#. <a class="sc" id="sc28"></a>
+msgctxt "dn28:14.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "parapuggalavimuttiñāṇe."
@@ -1112,11 +1023,11 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the knowledge and freedom of other "
 "individuals is unsurpassable."
 
-msgctxt "dn28:42.2"
+msgctxt "dn28:14.2"
 msgid "Jānāti, bhante, bhagavā paraṃ puggalaṃ paccattaṃ yonisomanasikārā:"
 msgstr "The Buddha knows by investigating inside another individual:"
 
-msgctxt "dn28:42.3"
+msgctxt "dn28:14.3"
 msgid ""
 "‘ayaṃ puggalo tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno bhavissati "
 "avinipātadhammo niyato sambodhiparāyaṇo’ti."
@@ -1124,25 +1035,25 @@ msgstr ""
 "‘With the ending of three fetters this individual will become a stream-"
 "enterer, not liable to be reborn in the underworld, bound for awakening.’"
 
-msgctxt "dn28:42.4"
+msgctxt "dn28:14.4"
 msgid "Jānāti, bhante, bhagavā paraṃ puggalaṃ paccattaṃ yonisomanasikārā:"
 msgstr "The Buddha knows by investigating inside another individual:"
 
-msgctxt "dn28:42.5"
+msgctxt "dn28:14.5"
 msgid ""
 "‘ayaṃ puggalo tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā "
 "sakadāgāmī bhavissati, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ "
 "karissatī’ti."
 msgstr ""
 "‘With the ending of three fetters, and the weakening of greed, hate, and "
-"delusion, this individual will become a once-returner. They will back to "
-"this world once only, then make an end of suffering.’"
+"delusion, this individual will become a once-returner. They will come back "
+"to this world once only, then make an end of suffering.’"
 
-msgctxt "dn28:42.6"
+msgctxt "dn28:14.6"
 msgid "Jānāti, bhante, bhagavā paraṃ puggalaṃ paccattaṃ yonisomanasikārā:"
 msgstr "The Buddha knows by investigating inside another individual:"
 
-msgctxt "dn28:42.7"
+msgctxt "dn28:14.7"
 msgid ""
 "‘ayaṃ puggalo pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko "
 "bhavissati tattha parinibbāyī anāvattidhammo tasmā lokā’ti."
@@ -1151,33 +1062,35 @@ msgstr ""
 "spontaneously. They will be extinguished there, and are not liable to return "
 "from that world.’"
 
-msgctxt "dn28:42.8"
+msgctxt "dn28:14.8"
 msgid "Jānāti, bhante, bhagavā paraṃ puggalaṃ paccattaṃ yonisomanasikārā:"
 msgstr "The Buddha knows by investigating inside another individual:"
 
-msgctxt "dn28:42.9"
+msgctxt "dn28:14.9"
 msgid ""
 "‘ayaṃ puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva "
 "dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissatī’ti."
 msgstr ""
 "‘This individual will realize the undefiled freedom of heart and freedom by "
-"wisdom in this very life, and live having achieved it with their own insight "
-"due to the end of defilements.’"
+"wisdom in this very life, and live having realized it with their own insight "
+"due to the ending of defilements.’"
 
-msgctxt "dn28:42.10"
+msgctxt "dn28:14.10"
 msgid "Etadānuttariyaṃ, bhante, parapuggalavimuttiñāṇe."
 msgstr ""
 "This is unsurpassable when it comes to the knowledge and freedom of other "
 "individuals."
 
 #. </p><h3>
-msgctxt "dn28:43.1"
+msgctxt "dn28:14.11"
 msgid "1.12. Sassatavādadesanā"
-msgstr "Eternalism"
+msgstr "1.12. Eternalism"
 
-#. </h3><p><a class="sc" id="29"></a><a class="wp" id="wp15"></a><a class="pts"
-#. id="pts3.109"></a>
-msgctxt "dn28:44.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs15"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.109"></a>
+#. <a class="sc" id="sc29"></a>
+msgctxt "dn28:15.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "sassatavādesu."
@@ -1185,153 +1098,104 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches eternalist doctrines is "
 "unsurpassable."
 
-msgctxt "dn28:44.2"
+msgctxt "dn28:15.2"
 msgid "Tayome, bhante, sassatavādā."
 msgstr "There are these three eternalist doctrines."
 
-msgctxt "dn28:44.3"
-msgid "Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
+msgctxt "dn28:15.3"
+msgid ""
+"Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ pubbenivāsaṃ "
+"anussarati."
 msgstr ""
 "Firstly, some ascetic or brahmin—by dint of keen, resolute, committed, and "
 "diligent effort, and right focus—experiences an immersion of the heart of "
 "such a kind that they recollect many hundreds of thousands of past lives,"
 
-msgctxt "dn28:44.4"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn28:44.5"
+msgctxt "dn28:15.4"
 msgid ""
-"tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ "
-"pubbenivāsaṃ anussarati."
-msgstr ""
-
-msgctxt "dn28:44.6"
-msgid "Seyyathidaṃ—"
-msgstr ""
-
-msgctxt "dn28:44.7"
-msgid ""
-"ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo "
-"dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi "
-"jātiyo jātisatampi jātisahassampi jātisatasahassampi anekānipi jātisatāni "
-"anekānipi jātisahassāni anekānipi jātisatasahassāni, ‘amutrāsiṃ evaṃnāmo "
+"Seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo "
+"pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi "
+"jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi "
+"anekānipi jātisatāni anekānipi jātisahassāni anekānipi jātisatasahassāni, ‘"
+"amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī "
+"evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo "
 "evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, "
-"so tato cuto amutra udapādiṃ;"
-msgstr ""
-
-msgctxt "dn28:44.8"
-msgid ""
-"tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro "
-"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti."
-msgstr ""
-
-msgctxt "dn28:44.9"
-msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
+"so tato cuto idhūpapanno’ti. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ "
+"anussarati."
 msgstr "with features and details."
 
-msgctxt "dn28:44.10"
+msgctxt "dn28:15.5"
 msgid "So evamāha:"
 msgstr "They say:"
 
-msgctxt "dn28:44.11"
-msgid "‘atītampāhaṃ addhānaṃ jānāmi—"
+msgctxt "dn28:15.6"
+msgid "‘atītampāhaṃ addhānaṃ jānāmi—saṃvaṭṭi vā loko vivaṭṭi vāti."
 msgstr "‘I know that in the past the cosmos expanded or contracted."
 
-#, fuzzy
-msgctxt "dn28:44.12"
-msgid "saṃvaṭṭi vā loko vivaṭṭi vāti."
-msgstr " "
-
 # PTS has na jānāmi. Neither text has variants, and comm and tika are silent. Anyway, either works.
-msgctxt "dn28:44.13"
-msgid "Anāgataṃpāhaṃ addhānaṃ jānāmi—"
+msgctxt "dn28:15.7"
+msgid "Anāgataṃpāhaṃ addhānaṃ jānāmi—saṃvaṭṭissati vā loko vivaṭṭissati vāti."
 msgstr "I don’t know whether in the future the cosmos will expand or contract."
 
-#, fuzzy
-msgctxt "dn28:44.14"
-msgid "saṃvaṭṭissati vā loko vivaṭṭissati vāti."
-msgstr " "
-
-msgctxt "dn28:44.15"
-msgid "Sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito."
+msgctxt "dn28:15.8"
+msgid ""
+"Sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito. Te ca sattā "
+"sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva sassatisaman’ti."
 msgstr ""
 "The self and the cosmos are eternal, barren, steady as a mountain peak, "
-"standing firm like a pillar."
+"standing firm like a pillar. They remain the same for all eternity, while "
+"these sentient beings wander and transmigrate and pass away and rearise.’"
 
-msgctxt "dn28:44.16"
-msgid ""
-"Te ca sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
-"sassatisaman’ti."
-msgstr ""
-"They remain the same for all eternity, while these sentient beings wander "
-"and transmigrate and pass away and rearise.’"
-
-msgctxt "dn28:44.17"
+msgctxt "dn28:15.9"
 msgid "Ayaṃ paṭhamo sassatavādo."
 msgstr "This is the first eternalist doctrine."
 
 # PTS has twenty.
-#. </p><p><a class="sc" id="30"></a><a class="pts" id="pts3.110"></a>
-msgctxt "dn28:45.1"
-msgid "Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.110"></a>
+#. <a class="sc" id="sc30"></a>
+msgctxt "dn28:15.10"
+msgid ""
+"Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … "
+"tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ "
+"pubbenivāsaṃ anussarati."
 msgstr ""
 "Furthermore, some ascetic or brahmin—by dint of keen, resolute, committed, "
 "and diligent effort, and right focus—experiences an immersion of the heart "
 "of such a kind that they recollect their past lives for as many as ten eons "
 "of the expansion and contraction of the cosmos,"
 
-msgctxt "dn28:45.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn28:45.3"
+msgctxt "dn28:15.11"
 msgid ""
-"tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ "
-"pubbenivāsaṃ anussarati."
-msgstr ""
-
-msgctxt "dn28:45.4"
-msgid "Seyyathidaṃ—"
-msgstr ""
-
-msgctxt "dn28:45.5"
-msgid ""
-"ekampi saṃvaṭṭavivaṭṭaṃ dvepi saṃvaṭṭavivaṭṭāni tīṇipi saṃvaṭṭavivaṭṭāni "
-"cattāripi saṃvaṭṭavivaṭṭāni pañcapi saṃvaṭṭavivaṭṭāni dasapi "
-"saṃvaṭṭavivaṭṭāni, ‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
-"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ;"
-msgstr ""
-
-msgctxt "dn28:45.6"
-msgid ""
+"Seyyathidaṃ—ekampi saṃvaṭṭavivaṭṭaṃ dvepi saṃvaṭṭavivaṭṭāni tīṇipi "
+"saṃvaṭṭavivaṭṭāni cattāripi saṃvaṭṭavivaṭṭāni pañcapi saṃvaṭṭavivaṭṭāni "
+"dasapi saṃvaṭṭavivaṭṭāni, ‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; "
 "tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
-"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti."
-msgstr ""
-
-msgctxt "dn28:45.7"
-msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. "
+"Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
 msgstr "with features and details."
 
-msgctxt "dn28:45.8"
+msgctxt "dn28:15.12"
 msgid "So evamāha:"
 msgstr "They say:"
 
-msgctxt "dn28:45.9"
+msgctxt "dn28:15.13"
 msgid "‘atītampāhaṃ addhānaṃ jānāmi saṃvaṭṭi vā loko vivaṭṭi vāti."
 msgstr "‘I know that in the past the cosmos expanded or contracted."
 
-msgctxt "dn28:45.10"
+msgctxt "dn28:15.14"
 msgid "Anāgataṃpāhaṃ addhānaṃ jānāmi saṃvaṭṭissati vā loko vivaṭṭissati vāti."
 msgstr "I don’t know whether in the future the cosmos will expand or contract."
 
-msgctxt "dn28:45.11"
+msgctxt "dn28:15.15"
 msgid "Sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito."
 msgstr ""
 "The self and the cosmos are eternal, barren, steady as a mountain peak, "
 "standing firm like a pillar."
 
-msgctxt "dn28:45.12"
+msgctxt "dn28:15.16"
 msgid ""
 "Te ca sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
 "sassatisaman’ti."
@@ -1339,70 +1203,52 @@ msgstr ""
 "They remain the same for all eternity, while these sentient beings wander "
 "and transmigrate and pass away and rearise.’"
 
-msgctxt "dn28:45.13"
+msgctxt "dn28:15.17"
 msgid "Ayaṃ dutiyo sassatavādo."
 msgstr "This is the second eternalist doctrine."
 
-#. </p><p><a class="sc" id="31"></a>
-msgctxt "dn28:46.1"
-msgid "Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
+#. </p><p>
+#. <a class="sc" id="sc31"></a>
+msgctxt "dn28:15.18"
+msgid ""
+"Puna caparaṃ, bhante, idhekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … "
+"tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ "
+"pubbenivāsaṃ anussarati."
 msgstr ""
 "Furthermore, some ascetic or brahmin—by dint of keen, resolute, committed, "
 "and diligent effort, and right focus—experiences an immersion of the heart "
 "of such a kind that they recollect their past lives for as many as forty "
 "eons of the expansion and contraction of the cosmos,"
 
-msgctxt "dn28:46.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn28:46.3"
+msgctxt "dn28:15.19"
 msgid ""
-"tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ "
-"pubbenivāsaṃ anussarati."
-msgstr ""
-
-msgctxt "dn28:46.4"
-msgid "Seyyathidaṃ—"
-msgstr ""
-
-msgctxt "dn28:46.5"
-msgid ""
-"dasapi saṃvaṭṭavivaṭṭāni vīsampi saṃvaṭṭavivaṭṭāni tiṃsampi "
+"Seyyathidaṃ—dasapi saṃvaṭṭavivaṭṭāni vīsampi saṃvaṭṭavivaṭṭāni tiṃsampi "
 "saṃvaṭṭavivaṭṭāni cattālīsampi saṃvaṭṭavivaṭṭāni, ‘amutrāsiṃ evaṃnāmo "
 "evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, "
-"so tato cuto amutra udapādiṃ;"
-msgstr ""
-
-msgctxt "dn28:46.6"
-msgid ""
-"tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
-"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti."
-msgstr ""
-
-msgctxt "dn28:46.7"
-msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
+"so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo "
+"evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto "
+"idhūpapanno’ti. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
 msgstr "with features and details."
 
-msgctxt "dn28:46.8"
+msgctxt "dn28:15.20"
 msgid "So evamāha:"
 msgstr "They say:"
 
-msgctxt "dn28:46.9"
+msgctxt "dn28:15.21"
 msgid "‘atītampāhaṃ addhānaṃ jānāmi saṃvaṭṭipi loko vivaṭṭipīti;"
 msgstr "‘I know that in the past the cosmos expanded or contracted."
 
-msgctxt "dn28:46.10"
+msgctxt "dn28:15.22"
 msgid "anāgataṃpāhaṃ addhānaṃ jānāmi saṃvaṭṭissatipi loko vivaṭṭissatipīti."
 msgstr "I don’t know whether in the future the cosmos will expand or contract."
 
-msgctxt "dn28:46.11"
+msgctxt "dn28:15.23"
 msgid "Sassato attā ca loko ca vañjho kūṭaṭṭho esikaṭṭhāyiṭṭhito."
 msgstr ""
 "The self and the cosmos are eternal, barren, steady as a mountain peak, "
 "standing firm like a pillar."
 
-msgctxt "dn28:46.12"
+msgctxt "dn28:15.24"
 msgid ""
 "Te ca sattā sandhāvanti saṃsaranti cavanti upapajjanti, atthi tveva "
 "sassatisaman’ti."
@@ -1410,21 +1256,24 @@ msgstr ""
 "They remain the same for all eternity, while these sentient beings wander "
 "and transmigrate and pass away and rearise.’"
 
-#, fuzzy
-msgctxt "dn28:46.13"
-msgid "Ayaṃ tatiyo sassatavādo, etadānuttariyaṃ, bhante, sassatavādesu."
-msgstr ""
-"This is the third eternalist doctrine. This is unsurpassable when it comes "
-"to eternalist doctrines."
+msgctxt "dn28:15.25"
+msgid "Ayaṃ tatiyo sassatavādo, "
+msgstr "This is the third eternalist doctrine. "
+
+msgctxt "dn28:15.26"
+msgid "etadānuttariyaṃ, bhante, sassatavādesu."
+msgstr "This is unsurpassable when it comes to eternalist doctrines."
 
 #. </p><h3>
-msgctxt "dn28:47.1"
+msgctxt "dn28:15.27"
 msgid "1.13. Pubbenivāsānussatiñāṇadesanā"
-msgstr "Recollecting Past Lives"
+msgstr "1.13. Recollecting Past Lives"
 
-#. </h3><p><a class="sc" id="32"></a><a class="wp" id="wp16"></a><a class="pts"
-#. id="pts3.111"></a>
-msgctxt "dn28:48.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs16"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.111"></a>
+#. <a class="sc" id="sc32"></a>
+msgctxt "dn28:16.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "pubbenivāsānussatiñāṇe."
@@ -1432,68 +1281,51 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the knowledge of recollecting past "
 "lives is unsurpassable."
 
-msgctxt "dn28:48.2"
-msgid "Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
+msgctxt "dn28:16.2"
+msgid ""
+"Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ pubbenivāsaṃ "
+"anussarati."
 msgstr ""
 "It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
 "diligent effort, and right focus—experiences an immersion of the heart of "
 "such a kind that they recollect their many kinds of past lives."
 
-msgctxt "dn28:48.3"
-msgid "pe …"
+msgctxt "dn28:16.3"
+msgid ""
+"Seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo "
+"pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi "
+"jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi "
+"anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe, "
 msgstr ""
+"That is: one, two, three, four, five, ten, twenty, thirty, forty, fifty, a "
+"hundred, a thousand, a hundred thousand rebirths; many eons of the world "
+"contracting, many eons of the world evolving, many eons of the world "
+"contracting and evolving. They remember: "
 
-#, fuzzy
-msgctxt "dn28:48.4"
+msgctxt "dn28:16.4"
 msgid ""
-"tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ "
-"pubbenivāsaṃ anussarati."
-msgstr " "
-
-msgctxt "dn28:48.5"
-msgid "Seyyathidaṃ—"
-msgstr "That is:"
-
-#, fuzzy
-msgctxt "dn28:48.6"
-msgid ""
-"ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo "
-"dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi "
-"jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe "
-"anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe, ‘amutrāsiṃ evaṃnāmo "
-"evaṃgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, "
-"so tato cuto amutra udapādiṃ;"
-msgstr ""
-"one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a "
-"thousand, a hundred thousand lives; many eons of the world contracting, many "
-"eons of the world evolving, many eons of the world contracting and evolving. "
-"They remember: ‘There, I was named this, my clan was that, I looked like "
-"this, and that was my food. This was how I felt pleasure and pain, and that "
-"was how my life ended. When I passed away from that place I was reborn "
-"somewhere else. "
-
-msgctxt "dn28:48.7"
-msgid ""
+"‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ; "
 "tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro "
-"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti."
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. "
+"Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
 msgstr ""
+"‘There, I was named this, my clan was that, I looked like this, and that was "
+"my food. This was how I felt pleasure and pain, and that was how my life "
+"ended. When I passed away from that place I was reborn somewhere else. "
 "There, too, I was named this, my clan was that, I looked like this, and that "
 "was my food. This was how I felt pleasure and pain, and that was how my life "
-"ended. When I passed away from that place I was reborn here.’"
-
-msgctxt "dn28:48.8"
-msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
-msgstr ""
-"And so they recollect their many kinds of past lives, with features and "
-"details. "
+"ended. When I passed away from that place I was reborn here.’ And so they "
+"recollect their many kinds of past lives, with features and details."
 
 #. VAR: devā → sattā (s1-3)
-msgctxt "dn28:48.9"
+msgctxt "dn28:16.5"
 msgid ""
 "Santi, bhante, devā, yesaṃ na sakkā gaṇanāya vā saṅkhānena vā āyu saṅkhātuṃ."
 msgstr "Sir, there are gods whose life span cannot be reckoned or calculated."
 
-msgctxt "dn28:48.10"
+msgctxt "dn28:16.6"
 msgid ""
 "Api ca yasmiṃ yasmiṃ attabhāve abhinivuṭṭhapubbo hoti yadi vā rūpīsu yadi vā "
 "arūpīsu yadi vā saññīsu yadi vā asaññīsu yadi vā nevasaññīnāsaññīsu."
@@ -1502,25 +1334,27 @@ msgstr ""
 "whether physical or formless or percipient or non-percipient or neither "
 "percipient nor non-percipient—"
 
-msgctxt "dn28:48.11"
+msgctxt "dn28:16.7"
 msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
 msgstr ""
 "they recollect their many kinds of past lives, with features and details."
 
-msgctxt "dn28:48.12"
+msgctxt "dn28:16.8"
 msgid "Etadānuttariyaṃ, bhante, pubbenivāsānussatiñāṇe."
 msgstr ""
 "This is unsurpassable when it comes to the knowledge of recollecting past "
 "lives."
 
 #. </p><h3>
-msgctxt "dn28:49.1"
+msgctxt "dn28:16.9"
 msgid "1.14. Cutūpapātañāṇadesanā"
-msgstr "Death and Rebirth"
+msgstr "1.14. Death and Rebirth"
 
-#. </h3><p><a class="sc" id="33"></a><a class="wp" id="wp17"></a><a class="pts"
-#. id="pts3.112"></a>
-msgctxt "dn28:50.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs17"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.112"></a>
+#. <a class="sc" id="sc33"></a>
+msgctxt "dn28:17.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti sattānaṃ "
 "cutūpapātañāṇe."
@@ -1528,246 +1362,179 @@ msgstr ""
 "And moreover, sir, how the Buddha teaches the knowledge of the death and "
 "rebirth of sentient beings is unsurpassable."
 
-msgctxt "dn28:50.2"
-msgid "Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
+msgctxt "dn28:17.2"
+msgid ""
+"Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte dibbena cakkhunā visuddhena "
+"atikkantamānusakena satte passati cavamāne upapajjamāne "
 msgstr ""
 "It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
 "diligent effort, and right focus—experiences an immersion of the heart of "
 "such a kind that with clairvoyance that is purified and superhuman, they see "
-"sentient beings passing away and being reborn—inferior and superior, "
-"beautiful and ugly, in a good place or a bad place. They understand how "
-"sentient beings are reborn according to their deeds:"
+"sentient beings passing away and being reborn "
 
-#, fuzzy
-msgctxt "dn28:50.3"
-msgid "pe …"
-msgstr " "
-
-msgctxt "dn28:50.4"
+msgctxt "dn28:17.3"
 msgid ""
-"tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte dibbena cakkhunā "
-"visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne "
-"paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāti:"
-msgstr ""
-
-msgctxt "dn28:50.5"
-msgid ""
-"‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena "
+"hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāti: ‘"
+"ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena "
 "samannāgatā manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā "
-"micchādiṭṭhikammasamādānā."
+"micchādiṭṭhikammasamādānā. Te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ "
+"vinipātaṃ nirayaṃ upapannā. Ime vā pana bhonto sattā kāyasucaritena "
+"samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ "
+"anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā. Te kāyassa bhedā paraṃ "
+"maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti. Iti dibbena cakkhunā visuddhena "
+"atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe "
+"dubbaṇṇe sugate duggate yathākammūpage satte pajānāti."
 msgstr ""
-"‘These dear beings did bad things by way of body, speech, and mind. They "
+"—inferior and superior, beautiful and ugly, in a good place or a bad place. "
+"They understand how sentient beings are reborn according to their deeds: ‘"
+"These dear beings did bad things by way of body, speech, and mind. They "
 "spoke ill of the noble ones; they had wrong view; and they chose to act out "
 "of that wrong view. When their body breaks up, after death, they’re reborn "
-"in a place of loss, a bad place, the underworld, hell."
+"in a place of loss, a bad place, the underworld, hell. These dear beings, "
+"however, did good things by way of body, speech, and mind. They never spoke "
+"ill of the noble ones; they had right view; and they chose to act out of "
+"that right view. When their body breaks up, after death, they’re reborn in a "
+"good place, a heavenly realm.’ And so, with clairvoyance that is purified "
+"and superhuman, they see sentient beings passing away and being reborn—"
+"inferior and superior, beautiful and ugly, in a good place or a bad place. "
+"They understand how sentient beings are reborn according to their deeds."
 
-#, fuzzy
-msgctxt "dn28:50.6"
-msgid ""
-"Te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā."
-msgstr " "
-
-msgctxt "dn28:50.7"
-msgid ""
-"Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena "
-"samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā "
-"sammādiṭṭhikammasamādānā."
-msgstr ""
-"These dear beings, however, did good things by way of body, speech, and "
-"mind. They never spoke ill of the noble ones; they had right view; and they "
-"chose to act out of that right view. When their body breaks up, after death, "
-"they’re reborn in a good place, a heavenly realm.’"
-
-#, fuzzy
-msgctxt "dn28:50.8"
-msgid "Te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti."
-msgstr " "
-
-msgctxt "dn28:50.9"
-msgid ""
-"Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne "
-"upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage "
-"satte pajānāti."
-msgstr ""
-"And so, with clairvoyance that is purified and superhuman, they see sentient "
-"beings passing away and being reborn—inferior and superior, beautiful and "
-"ugly, in a good place or a bad place. They understand how sentient beings "
-"are reborn according to their deeds."
-
-msgctxt "dn28:50.10"
+msgctxt "dn28:17.4"
 msgid "Etadānuttariyaṃ, bhante, sattānaṃ cutūpapātañāṇe."
 msgstr ""
 "This is unsurpassable when it comes to the knowledge of death and rebirth."
 
 #. </p><h3>
-msgctxt "dn28:51.1"
+msgctxt "dn28:17.5"
 msgid "1.15. Iddhividhadesanā"
-msgstr "Psychic Powers"
+msgstr "1.15. Psychic Powers"
 
-#. </h3><p><a class="sc" id="34"></a><a class="wp" id="wp18"></a>
-msgctxt "dn28:52.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs18"></a>
+#. <a class="sc" id="sc34"></a>
+msgctxt "dn28:18.1"
 msgid ""
 "Aparaṃ pana, bhante, etadānuttariyaṃ, yathā bhagavā dhammaṃ deseti "
 "iddhividhāsu."
 msgstr ""
-"And moreover, sir, how the Buddha teaches psychic powers is unsurpassable."
+"And moreover, sir, how the Buddha teaches psychic power is unsurpassable."
 
-msgctxt "dn28:52.2"
+msgctxt "dn28:18.2"
 msgid "Dvemā, bhante, iddhividhāyo—"
-msgstr "There are these two kinds of psychic power:"
+msgstr "There are these two kinds of psychic power."
 
-msgctxt "dn28:52.3"
+msgctxt "dn28:18.3"
 msgid "atthi, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati."
 msgstr ""
 "There are psychic powers that are accompanied by defilements and "
 "attachments, and are said to be ignoble."
 
-msgctxt "dn28:52.4"
+msgctxt "dn28:18.4"
 msgid "Atthi, bhante, iddhi anāsavā anupadhikā ‘ariyā’ti vuccati."
 msgstr ""
-"There are psychic powers that are free of defilements and attachments, and "
-"are said to be noble."
+"And there are psychic powers that are free of defilements and attachments, "
+"and are said to be noble."
 
-msgctxt "dn28:52.5"
+msgctxt "dn28:18.5"
 msgid "Katamā ca, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati?"
 msgstr ""
 "What are the psychic powers that are accompanied by defilements and "
 "attachments, and are said to be ignoble?"
 
-msgctxt "dn28:52.6"
-msgid "Idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya …"
+msgctxt "dn28:18.6"
+msgid ""
+"idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya … pe … tathārūpaṃ "
+"cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ iddhividhaṃ "
+"paccanubhoti—"
 msgstr ""
 "It’s when some ascetic or brahmin—by dint of keen, resolute, committed, and "
 "diligent effort, and right focus—experiences an immersion of the heart of "
 "such a kind that they wield the many kinds of psychic power:"
 
-msgctxt "dn28:52.7"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn28:52.8"
+msgctxt "dn28:18.7"
 msgid ""
-"tathārūpaṃ cetosamādhiṃ phusati, yathāsamāhite citte anekavihitaṃ "
-"iddhividhaṃ paccanubhoti—"
+"ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṃ tirobhāvaṃ "
+"tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gacchati seyyathāpi ākāse; "
+"pathaviyāpi ummujjanimujjaṃ karoti seyyathāpi udake; udakepi abhijjamāne "
+"gacchati seyyathāpi pathaviyaṃ; ākāsepi pallaṅkena kamati seyyathāpi pakkhī "
+"sakuṇo; imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parāmasati "
+"parimajjati; yāva brahmalokāpi kāyena vasaṃ vatteti."
 msgstr ""
+"multiplying themselves and becoming one again; going unimpeded through a "
+"wall, a rampart, or a mountain as if through space; diving in and out of the "
+"earth as if it was water; walking on water as if it was earth; flying cross-"
+"legged through the sky like a bird; touching and stroking with the hand the "
+"sun and moon, so mighty and powerful; controlling the body as far as the "
+"Brahmā realm."
 
-msgctxt "dn28:52.9"
-msgid "ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti;"
-msgstr "multiplying themselves and becoming one again; "
-
-msgctxt "dn28:52.10"
-msgid ""
-"āvibhāvaṃ tirobhāvaṃ tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno gacchati "
-"seyyathāpi ākāse;"
-msgstr ""
-"going unimpeded through a wall, a rampart, or a mountain as if through space;"
-" "
-
-msgctxt "dn28:52.11"
-msgid "pathaviyāpi ummujjanimujjaṃ karoti seyyathāpi udake;"
-msgstr "diving in and out of the earth as if it was water; "
-
-msgctxt "dn28:52.12"
-msgid "udakepi abhijjamāne gacchati seyyathāpi pathaviyaṃ;"
-msgstr "walking on water as if it was earth; "
-
-msgctxt "dn28:52.13"
-msgid "ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo;"
-msgstr "flying cross-legged through the air like a bird;"
-
-msgctxt "dn28:52.14"
-msgid ""
-"imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve pāṇinā parāmasati "
-"parimajjati;"
-msgstr ""
-"touching and stroking with the hand the sun and moon, so mighty and powerful;"
-
-msgctxt "dn28:52.15"
-msgid "yāva brahmalokāpi kāyena vasaṃ vatteti."
-msgstr "controlling the body as far as the Brahmā realm. "
-
-msgctxt "dn28:52.16"
+msgctxt "dn28:18.8"
 msgid "Ayaṃ, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati."
 msgstr ""
 "These are the psychic powers that are accompanied by defilements and "
 "attachments, and are said to be ignoble."
 
-#. </p><p><a class="sc" id="35"></a><a class="pts" id="pts3.113"></a>
-msgctxt "dn28:53.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.113"></a>
+#. <a class="sc" id="sc35"></a>
+msgctxt "dn28:18.9"
 msgid "Katamā pana, bhante, iddhi anāsavā anupadhikā, ‘ariyā’ti vuccati?"
 msgstr ""
 "But what are the psychic powers that are free of defilements and "
 "attachments, and are said to be noble?"
 
-#, fuzzy
-msgctxt "dn28:53.2"
-msgid "Idha, bhante, bhikkhu sace ākaṅkhati:"
-msgstr " "
-
-msgctxt "dn28:53.3"
+msgctxt "dn28:18.10"
 msgid ""
-"‘paṭikūle appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati."
+"Idha, bhante, bhikkhu sace ākaṅkhati: ‘paṭikūle appaṭikūlasaññī vihareyyan’"
+"ti, appaṭikūlasaññī tattha viharati."
 msgstr ""
 "It’s when, if a mendicant wishes: ‘May I meditate perceiving the unrepulsive "
-"in the repulsive and the unrepulsive,’ that’s what they do. "
+"in the repulsive,’ that’s what they do."
 
-msgctxt "dn28:53.4"
-msgid "Sace ākaṅkhati:"
-msgstr ""
-
-msgctxt "dn28:53.5"
-msgid "‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati."
+msgctxt "dn28:18.11"
+msgid ""
+"Sace ākaṅkhati: ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī "
+"tattha viharati."
 msgstr ""
 "If they wish: ‘May I meditate perceiving the repulsive in the unrepulsive,’ "
 "that’s what they do."
 
-msgctxt "dn28:53.6"
-msgid "Sace ākaṅkhati:"
-msgstr ""
-
-msgctxt "dn28:53.7"
+msgctxt "dn28:18.12"
 msgid ""
-"‘paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī "
-"tattha viharati."
+"Sace ākaṅkhati: ‘paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyyan’ti, "
+"appaṭikūlasaññī tattha viharati."
 msgstr ""
 "If they wish: ‘May I meditate perceiving the unrepulsive in the repulsive "
-"and the unrepulsive,’ that’s what they do. "
+"and the unrepulsive,’ that’s what they do."
 
-msgctxt "dn28:53.8"
-msgid "Sace ākaṅkhati:"
-msgstr ""
-
-msgctxt "dn28:53.9"
+msgctxt "dn28:18.13"
 msgid ""
-"‘paṭikūle ca appaṭikūle ca paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha "
-"viharati."
+"Sace ākaṅkhati: ‘paṭikūle ca appaṭikūle ca paṭikūlasaññī vihareyyan’ti, "
+"paṭikūlasaññī tattha viharati."
 msgstr ""
 "If they wish: ‘May I meditate perceiving the repulsive in the unrepulsive "
-"and the repulsive,’ that’s what they do. "
+"and the repulsive,’ that’s what they do."
 
-msgctxt "dn28:53.10"
-msgid "Sace ākaṅkhati:"
-msgstr ""
-
-msgctxt "dn28:53.11"
+msgctxt "dn28:18.14"
 msgid ""
-"‘paṭikūlañca appaṭikūlañca tadubhayaṃ abhinivajjetvā upekkhako vihareyyaṃ "
-"sato sampajāno’ti, upekkhako tattha viharati sato sampajāno."
+"Sace ākaṅkhati: ‘paṭikūlañca appaṭikūlañca tadubhayaṃ abhinivajjetvā "
+"upekkhako vihareyyaṃ sato sampajāno’ti, upekkhako tattha viharati sato "
+"sampajāno."
 msgstr ""
 "If they wish: ‘May I meditate staying equanimous, mindful and aware, "
-"rejecting both the repulsive and the unrepulsive,’ that’s what they do. "
+"rejecting both the repulsive and the unrepulsive,’ that’s what they do."
 
-msgctxt "dn28:53.12"
+msgctxt "dn28:18.15"
 msgid "Ayaṃ, bhante, iddhi anāsavā anupadhikā ‘ariyā’ti vuccati."
 msgstr ""
 "These are the psychic powers that are free of defilements and attachments, "
 "and are said to be noble."
 
-msgctxt "dn28:53.13"
+msgctxt "dn28:18.16"
 msgid "Etadānuttariyaṃ, bhante, iddhividhāsu."
 msgstr "This is unsurpassable when it comes to psychic powers."
 
-msgctxt "dn28:53.14"
+msgctxt "dn28:18.17"
 msgid ""
 "Taṃ bhagavā asesamabhijānāti, taṃ bhagavato asesamabhijānato uttari "
 "abhiññeyyaṃ natthi, yadabhijānaṃ añño samaṇo vā brāhmaṇo vā bhagavatā "
@@ -1778,32 +1545,34 @@ msgstr ""
 "in direct knowledge to the Buddha when it comes to psychic powers."
 
 #. </p><h3>
-msgctxt "dn28:54.1"
+msgctxt "dn28:18.18"
 msgid "1.16. Aññathāsatthuguṇadassana"
-msgstr "The Four Absorptions"
+msgstr "1.16. The Four Absorptions"
 
-#. </h3><p><a class="sc" id="36"></a><a class="wp" id="wp19"></a>
-msgctxt "dn28:55.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs19"></a>
+#. <a class="sc" id="sc36"></a>
+msgctxt "dn28:19.1"
 msgid ""
 "Yaṃ taṃ, bhante, saddhena kulaputtena pattabbaṃ āraddhavīriyena thāmavatā "
 "purisathāmena purisavīriyena purisaparakkamena purisadhorayhena, anuppattaṃ "
 "taṃ bhagavatā."
 msgstr ""
-"The Buddha has achieved what should be achieved by a faithful person of "
-"respectable family by being energetic and strong, by manly strength, energy, "
-"vigor, and exertion."
+"The Buddha has achieved what should be achieved by a faithful person of good "
+"family by being energetic and strong, by manly strength, energy, vigor, and "
+"exertion."
 
-msgctxt "dn28:55.2"
+msgctxt "dn28:19.2"
 msgid ""
 "Na ca, bhante, bhagavā kāmesu kāmasukhallikānuyogamanuyutto hīnaṃ gammaṃ "
 "pothujjanikaṃ anariyaṃ anatthasaṃhitaṃ, na ca attakilamathānuyogamanuyutto "
 "dukkhaṃ anariyaṃ anatthasaṃhitaṃ."
 msgstr ""
-"The Buddha doesn’t indulge in sensual pleasures, which are low, crass, "
+"The Buddha doesn’t indulge in sensual pleasures, which are low, crude, "
 "ordinary, ignoble, and pointless. And he doesn’t indulge in self-"
 "mortification, which is painful, ignoble, and pointless."
 
-msgctxt "dn28:55.3"
+msgctxt "dn28:19.3"
 msgid ""
 "Catunnañca bhagavā jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ "
 "nikāmalābhī akicchalābhī akasiralābhī."
@@ -1812,16 +1581,18 @@ msgstr ""
 "belong to the higher mind—when he wants, without trouble or difficulty."
 
 #. </p><h3>
-msgctxt "dn28:56.1"
+msgctxt "dn28:19.4"
 msgid "1.17. Anuyogadānappakāra"
-msgstr "On Being Questioned"
+msgstr "1.17. On Being Questioned"
 
-#. </h3><p><a class="sc" id="37"></a><a class="pts" id="pts3.114"></a>
-msgctxt "dn28:57.1"
+#. </h3><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.114"></a>
+#. <a class="sc" id="sc37"></a>
+msgctxt "dn28:19.5"
 msgid "Sace maṃ, bhante, evaṃ puccheyya:"
 msgstr "Sir, if they were to ask me:"
 
-msgctxt "dn28:57.2"
+msgctxt "dn28:19.6"
 msgid ""
 "‘kiṃ nu kho, āvuso sāriputta, ahesuṃ atītamaddhānaṃ aññe samaṇā vā brāhmaṇā "
 "vā bhagavatā bhiyyobhiññatarā sambodhiyan’ti, evaṃ puṭṭho ahaṃ, bhante, ‘no’"
@@ -1831,25 +1602,26 @@ msgstr ""
 "future, or present—whose direct knowledge is superior to the Buddha when it "
 "comes to awakening?’ I would tell them ‘No.’"
 
-msgctxt "dn28:57.3"
+msgctxt "dn28:19.7"
 msgid ""
 "‘Kiṃ panāvuso sāriputta, bhavissanti anāgatamaddhānaṃ aññe samaṇā vā "
 "brāhmaṇā vā bhagavatā bhiyyobhiññatarā sambodhiyan’ti, evaṃ puṭṭho ahaṃ, "
 "bhante, ‘no’ti vadeyyaṃ."
 msgstr ""
 
-msgctxt "dn28:57.4"
+msgctxt "dn28:19.8"
 msgid ""
 "‘Kiṃ panāvuso sāriputta, atthetarahi añño samaṇo vā brāhmaṇo vā bhagavatā "
 "bhiyyobhiññataro sambodhiyan’ti, evaṃ puṭṭho ahaṃ, bhante, ‘no’ti vadeyyaṃ."
 msgstr ""
 
-#. </p><p><a class="sc" id="38"></a>
-msgctxt "dn28:58.1"
+#. </p><p>
+#. <a class="sc" id="sc38"></a>
+msgctxt "dn28:19.9"
 msgid "Sace pana maṃ, bhante, evaṃ puccheyya:"
 msgstr "But if they were to ask me:"
 
-msgctxt "dn28:58.2"
+msgctxt "dn28:19.10"
 msgid ""
 "‘kiṃ nu kho, āvuso sāriputta, ahesuṃ atītamaddhānaṃ aññe samaṇā vā brāhmaṇā "
 "vā bhagavatā samasamā sambodhiyan’ti, evaṃ puṭṭho ahaṃ, bhante, ‘evan’ti "
@@ -1859,14 +1631,14 @@ msgstr ""
 "future—whose direct knowledge is equal to the Buddha when it comes to "
 "awakening?’ I would tell them ‘Yes.’"
 
-msgctxt "dn28:58.3"
+msgctxt "dn28:19.11"
 msgid ""
 "‘Kiṃ panāvuso sāriputta, bhavissanti anāgatamaddhānaṃ aññe samaṇā vā "
 "brāhmaṇā vā bhagavatā samasamā sambodhiyan’ti, evaṃ puṭṭho ahaṃ, bhante, "
 "‘evan’ti vadeyyaṃ."
 msgstr ""
 
-msgctxt "dn28:58.4"
+msgctxt "dn28:19.12"
 msgid ""
 "‘Kiṃ panāvuso sāriputta, atthetarahi aññe samaṇā vā brāhmaṇā vā bhagavatā "
 "samasamā sambodhiyan’ti, evaṃ puṭṭho ahaṃ, bhante, ‘no’ti vadeyyaṃ."
@@ -1875,13 +1647,14 @@ msgstr ""
 "brahmin at present whose direct knowledge is equal to the Buddha when it "
 "comes to awakening?’ I would tell them ‘No.’"
 
-#. </p><p><a class="sc" id="39"></a>
-msgctxt "dn28:59.1"
+#. </p><p>
+#. <a class="sc" id="sc39"></a>
+msgctxt "dn28:19.13"
 msgid "Sace pana maṃ, bhante, evaṃ puccheyya:"
 msgstr "But if they were to ask me:"
 
-# here the abhi- in abbhanujanati doesn't have an elevated sense, but the "meta-" sense: you grant this regarding one but not the other.
-msgctxt "dn28:59.2"
+# here the abhi-in abbhanujanati doesn’t have an elevated sense, but the “meta-” sense: you grant this regarding one but not the other.
+msgctxt "dn28:19.14"
 msgid ""
 "‘kiṃ panāyasmā sāriputto ekaccaṃ abbhanujānāti, ekaccaṃ na abbhanujānātī’ti, "
 "evaṃ puṭṭho ahaṃ, bhante, evaṃ byākareyyaṃ:"
@@ -1889,46 +1662,45 @@ msgstr ""
 "‘But why does Venerable Sāriputta grant this in respect of some but not "
 "others?’ I would answer them like this:"
 
-#. VAR: paṭiggahitaṃ → ^mn115#14 [Bahu­dhātu­ka­sutta]; ^an1.268-277#277.1
-#. [268/277]; ^ne4#414 [Vibhaṅga/ Vicaya­hā­rasam­pāta]; ^mi6.1.1#1
-#. [Dvin­naṃ­buddhā­na­ṃa­nup­paj­ja­māna­pañha] ^vb16#353 [Mātikā/
-#. Dasakaniddesa]
-msgctxt "dn28:59.3"
+msgctxt "dn28:19.15"
 msgid "‘sammukhā metaṃ, āvuso, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:"
-msgstr "‘Reverends, I have heard and learned this directly from the Buddha:"
+msgstr ""
+"‘Reverends, I have heard and learned this in the presence of the Buddha:"
 
-msgctxt "dn28:59.4"
+msgctxt "dn28:19.16"
 msgid ""
 "“ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā mayā samasamā sambodhiyan”ti."
 msgstr ""
 "“The perfected ones, fully awakened Buddhas of the past and the future are "
 "equal to myself when it comes to awakening.”"
 
-msgctxt "dn28:59.5"
+msgctxt "dn28:19.17"
 msgid "Sammukhā metaṃ, āvuso, bhagavato sutaṃ, sammukhā paṭiggahitaṃ:"
 msgstr ""
 
-msgctxt "dn28:59.6"
+msgctxt "dn28:19.18"
 msgid ""
 "“bhavissanti anāgatamaddhānaṃ arahanto sammāsambuddhā mayā samasamā "
 "sambodhiyan”ti."
 msgstr ""
 
-msgctxt "dn28:59.7"
+msgctxt "dn28:19.19"
 msgid "Sammukhā metaṃ, āvuso, bhagavato sutaṃ sammukhā paṭiggahitaṃ:"
-msgstr "And I have also heard and learned this directly from the Buddha:"
+msgstr "And I have also heard and learned this in the presence of the Buddha:"
 
-msgctxt "dn28:59.8"
+msgctxt "dn28:19.20"
 msgid ""
 "“aṭṭhānametaṃ anavakāso yaṃ ekissā lokadhātuyā dve arahanto sammāsambuddhā "
 "apubbaṃ acarimaṃ uppajjeyyuṃ, netaṃ ṭhānaṃ vijjatī”’ti."
 msgstr ""
-"“It’s impossible that two Perfect Ones, fully awakened Buddhas, could arise "
-"in the same solar system at the same time.”"
+"“It’s impossible for two perfected ones, fully awakened Buddhas to arise in "
+"the same solar system at the same time.”’"
 
-#. </p><p><a class="sc" id="40"></a><a class="pts" id="pts3.115"></a>
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.115"></a>
+#. <a class="sc" id="sc40"></a>
 #. VAR: vādānuvādo → vādānupāto (bj)
-msgctxt "dn28:60.1"
+msgctxt "dn28:19.21"
 msgid ""
 "Kaccāhaṃ, bhante, evaṃ puṭṭho evaṃ byākaramāno vuttavādī ceva bhagavato "
 "homi, na ca bhagavantaṃ abhūtena abbhācikkhāmi, dhammassa cānudhammaṃ "
@@ -1939,8 +1711,9 @@ msgstr ""
 "with the teaching, and that there are no legitimate grounds for rebuke or "
 "criticism.”"
 
-#. </p><p><a class="sc" id="41"></a>
-msgctxt "dn28:61.1"
+#. </p><p>
+#. <a class="sc" id="sc41"></a>
+msgctxt "dn28:19.22"
 msgid ""
 "“Taggha tvaṃ, sāriputta, evaṃ puṭṭho evaṃ byākaramāno vuttavādī ceva me "
 "hosi, na ca maṃ abhūtena abbhācikkhasi, dhammassa cānudhammaṃ byākarosi, na "
@@ -1951,16 +1724,18 @@ msgstr ""
 "teaching, and there are no legitimate grounds for rebuke or criticism.”"
 
 #. </p><h2>
-msgctxt "dn28:62.1"
+msgctxt "dn28:19.23"
 msgid "2. Acchariyaabbhuta"
-msgstr "Incredible and Amazing"
+msgstr "2. Incredible and Amazing"
 
-#. </h2><p><a class="sc" id="42"></a><a class="wp" id="wp20"></a>
-msgctxt "dn28:63.1"
+#. </h2><p>
+#. <a class="pts-cs" id="pts-cs20"></a>
+#. <a class="sc" id="sc42"></a>
+msgctxt "dn28:20.1"
 msgid "Evaṃ vutte, āyasmā udāyī bhagavantaṃ etadavoca:"
 msgstr "When he had spoken, Venerable Udāyī said to the Buddha:"
 
-msgctxt "dn28:63.2"
+msgctxt "dn28:20.2"
 msgid ""
 "“acchariyaṃ, bhante, abbhutaṃ, bhante, tathāgatassa appicchatā santuṭṭhitā "
 "sallekhatā."
@@ -1968,7 +1743,7 @@ msgstr ""
 "“It’s incredible, sir, it’s amazing! The Realized One has so few wishes, "
 "such contentment, such self-effacement!"
 
-msgctxt "dn28:63.3"
+msgctxt "dn28:20.3"
 msgid ""
 "Yatra hi nāma tathāgato evaṃmahiddhiko evaṃmahānubhāvo, atha ca pana "
 "nevattānaṃ pātukarissati."
@@ -1976,7 +1751,7 @@ msgstr ""
 "For even though the Realized One has such power and might, he will not make "
 "a display of himself."
 
-msgctxt "dn28:63.4"
+msgctxt "dn28:20.4"
 msgid ""
 "Ekamekañcepi ito, bhante, dhammaṃ aññatitthiyā paribbājakā attani "
 "samanupasseyyuṃ, te tāvatakeneva paṭākaṃ parihareyyuṃ."
@@ -1984,7 +1759,7 @@ msgstr ""
 "If the wanderers following other paths were to see even a single one of "
 "these qualities in themselves they’d carry around a banner to that effect."
 
-msgctxt "dn28:63.5"
+msgctxt "dn28:20.5"
 msgid ""
 "Acchariyaṃ, bhante, abbhutaṃ, bhante, tathāgatassa appicchatā santuṭṭhitā "
 "sallekhatā."
@@ -1992,26 +1767,24 @@ msgstr ""
 "It’s incredible, sir, it’s amazing! The Realized One has so few wishes, such "
 "contentment, such self-effacement!"
 
-msgctxt "dn28:63.6"
-msgid "Yatra hi nāma tathāgato evaṃmahiddhiko evaṃmahānubhāvo."
+msgctxt "dn28:20.6"
+msgid ""
+"Yatra hi nāma tathāgato evaṃmahiddhiko evaṃmahānubhāvo. Atha ca pana "
+"nevattānaṃ pātukarissatī”ti."
 msgstr ""
 "For even though the Realized One has such power and might, he will not make "
 "a display of himself.”"
 
-#, fuzzy
-msgctxt "dn28:63.7"
-msgid "Atha ca pana nevattānaṃ pātukarissatī”ti."
-msgstr " "
-
-#. </p><p><a class="sc" id="43"></a>
-msgctxt "dn28:64.1"
+#. </p><p>
+#. <a class="sc" id="sc43"></a>
+msgctxt "dn28:20.7"
 msgid ""
 "“Passa kho tvaṃ, udāyi, ‘tathāgatassa appicchatā santuṭṭhitā sallekhatā."
 msgstr ""
 "“See, Udāyī, how the Realized One has so few wishes, such contentment, such "
 "self-effacement."
 
-msgctxt "dn28:64.2"
+msgctxt "dn28:20.8"
 msgid ""
 "Yatra hi nāma tathāgato evaṃmahiddhiko evaṃmahānubhāvo, atha ca pana "
 "nevattānaṃ pātukarissati’."
@@ -2019,7 +1792,7 @@ msgstr ""
 "For even though the Realized One has such power and might, he will not make "
 "a display of himself."
 
-msgctxt "dn28:64.3"
+msgctxt "dn28:20.9"
 msgid ""
 "Ekamekañcepi ito, udāyi, dhammaṃ aññatitthiyā paribbājakā attani "
 "samanupasseyyuṃ, te tāvatakeneva paṭākaṃ parihareyyuṃ."
@@ -2027,13 +1800,13 @@ msgstr ""
 "If the wanderers following other paths were to see even a single one of "
 "these qualities in themselves they’d carry around a banner to that effect."
 
-msgctxt "dn28:64.4"
+msgctxt "dn28:20.10"
 msgid "Passa kho tvaṃ, udāyi, ‘tathāgatassa appicchatā santuṭṭhitā sallekhatā."
 msgstr ""
 "See, Udāyī, how the Realized One has so few wishes, such contentment, such "
 "self-effacement."
 
-msgctxt "dn28:64.5"
+msgctxt "dn28:20.11"
 msgid ""
 "Yatra hi nāma tathāgato evaṃmahiddhiko evaṃmahānubhāvo, atha ca pana "
 "nevattānaṃ pātukarissatī’”ti."
@@ -2041,41 +1814,43 @@ msgstr ""
 "For even though the Realized One has such power and might, he will not make "
 "a display of himself.”"
 
-#. </p><p><a class="sc" id="44"></a><a class="wp" id="wp21"></a><a class="pts"
-#. id="pts3.116"></a>
-msgctxt "dn28:65.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs21"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.116"></a>
+#. <a class="sc" id="sc44"></a>
+msgctxt "dn28:21.1"
 msgid "Atha kho bhagavā āyasmantaṃ sāriputtaṃ āmantesi:"
 msgstr "Then the Buddha said to Venerable Sāriputta:"
 
-msgctxt "dn28:65.2"
+msgctxt "dn28:21.2"
 msgid ""
 "“Tasmātiha tvaṃ, sāriputta, imaṃ dhammapariyāyaṃ abhikkhaṇaṃ bhāseyyāsi "
 "bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ."
 msgstr ""
-"“So Sāriputta, you should frequently speak this explanation of the teaching "
+"“So Sāriputta, you should frequently speak this exposition of the teaching "
 "to the monks, nuns, laymen, and laywomen."
 
-msgctxt "dn28:65.3"
+msgctxt "dn28:21.3"
 msgid ""
 "Yesampi hi, sāriputta, moghapurisānaṃ bhavissati tathāgate kaṅkhā vā vimati "
 "vā, tesamimaṃ dhammapariyāyaṃ sutvā tathāgate kaṅkhā vā vimati vā, sā "
 "pahīyissatī”ti."
 msgstr ""
 "Though there will be some foolish people who have doubt or uncertainty "
-"regarding the Realized One, when they hear this explanation of the teaching "
+"regarding the Realized One, when they hear this exposition of the teaching "
 "they’ll give up that doubt or uncertainty.”"
 
-msgctxt "dn28:65.4"
+msgctxt "dn28:21.4"
 msgid "Iti hidaṃ āyasmā sāriputto bhagavato sammukhā sampasādaṃ pavedesi."
 msgstr ""
 "That’s how Venerable Sāriputta declared his confidence in the Buddha’s "
 "presence."
 
-msgctxt "dn28:65.5"
+msgctxt "dn28:21.5"
 msgid "Tasmā imassa veyyākaraṇassa sampasādanīyantveva adhivacananti."
 msgstr "And that’s why the name of this discussion is “Inspiring Confidence”."
 
 #. </p><p class="endsutta">
-msgctxt "dn28:66.1"
+msgctxt "dn28:21.6"
 msgid "Sampasādanīyasuttaṃ niṭṭhitaṃ pañcamaṃ."
 msgstr ""

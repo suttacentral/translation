@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-10 08:42+0000\n"
+"POT-Creation-Date: 2018-02-19 00:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,43 +10,41 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn25.po\n"
-"X-Pootle-Revision: 174613\n"
+"X-Pootle-Revision: 195656\n"
 
-#. <html><head><meta charset="utf8"><meta content="Pali text from the
-#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
-#. name="description"><title></title></head><body><div id="text"
-#. lang="pi"><section class="sutta" id="dn25"><article><div class="hgroup"><p
-#. class="division">
-msgctxt "dn25:1.1"
+#. <section class="sutta" id="dn25"><article><div class="hgroup"><p class="division">
+msgctxt "dn25:0.1"
 msgid "Dīgha Nikāya 25"
 msgstr "Long Discourses 25"
 
 #. </p><h1>
-msgctxt "dn25:2.1"
+msgctxt "dn25:0.2"
 msgid "Udumbarikasutta"
 msgstr "The Lion’s Roar at Udumbarikā’s Monastery"
 
 #. </h1></div><h2>
-msgctxt "dn25:3.1"
+msgctxt "dn25:0.3"
 msgid "1. Nigrodhaparibbājakavatthu"
-msgstr "On the Wanderer Nigrodha"
+msgstr "1. On the Wanderer Nigrodha"
 
-#. </h2><p><a class="sc" id="1"></a><a class="wp" id="wp1"></a><a class="pts"
-#. id="pts3.36"></a>
-msgctxt "dn25:4.1"
-msgid "<span class=\"evam\">Evaṃ me sutaṃ—​</span>"
-msgstr "<span class=”evam”>So I have heard.</span>"
+#. </h2><p>
+#. <a class="pts-cs" id="pts-cs1"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.36"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "dn25:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr "So I have heard."
 
-msgctxt "dn25:4.2"
+msgctxt "dn25:1.2"
 msgid "ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate."
 msgstr ""
 "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak "
 "Mountain."
 
-# RD and MW oddly have "discourse to the udumbarikans". Comm explains the term as "Udumbarikāya paribbājakārāmeti udumbarikāya deviyā santake paribbājakārāme" In Chinese, DA 8 has "烏暫婆利梵志女林" The forest of the Udumbara brahmin lady", MA 104 has "優曇婆邏林" Udumbara forest", T 11 has "烏曇末梨園" "Udumbara park".
-msgctxt "dn25:4.3"
+# RD and MW oddly have “discourse to the udumbarikans”. Comm explains the term as “Udumbarikāya paribbājakārāmeti udumbarikāya deviyā santake paribbājakārāme” In Chinese, DA 8 has “烏暫婆利梵志女林” The forest of the Udumbara brahmin lady “, MA 104 has” 優曇婆邏林 “Udumbara forest”, T 11 has “烏曇末梨園” “Udumbara park”.
+msgctxt "dn25:1.3"
 msgid ""
 "Tena kho pana samayena nigrodho paribbājako udumbarikāya paribbājakārāme "
 "paṭivasati mahatiyā paribbājakaparisāya saddhiṃ tiṃsamattehi "
@@ -57,7 +55,7 @@ msgstr ""
 "wanderers."
 
 #. VAR: divassa → divādivasseva (s1-3, pts1)
-msgctxt "dn25:4.4"
+msgctxt "dn25:1.4"
 msgid ""
 "Atha kho sandhāno gahapati divā divassa rājagahā nikkhami bhagavantaṃ "
 "dassanāya."
@@ -65,27 +63,27 @@ msgstr ""
 "Then the householder Sandhana left Rājagaha in the middle of the day to see "
 "the Buddha."
 
-msgctxt "dn25:4.5"
+msgctxt "dn25:1.5"
 msgid "Atha kho sandhānassa gahapatissa etadahosi:"
 msgstr "Then it occurred to him:"
 
-msgctxt "dn25:4.6"
+msgctxt "dn25:1.6"
 msgid "“akālo kho bhagavantaṃ dassanāya."
-msgstr "“It’s the wrong time to see the Buddha, "
+msgstr "“It’s the wrong time to see the Buddha,"
 
-msgctxt "dn25:4.7"
+msgctxt "dn25:1.7"
 msgid "Paṭisallīno bhagavā."
 msgstr "as he’s in retreat."
 
-msgctxt "dn25:4.8"
+msgctxt "dn25:1.8"
 msgid "Manobhāvanīyānampi bhikkhūnaṃ asamayo dassanāya."
 msgstr "And it’s the wrong time to see the esteemed mendicants,"
 
-msgctxt "dn25:4.9"
+msgctxt "dn25:1.9"
 msgid "Paṭisallīnā manobhāvanīyā bhikkhū."
 msgstr "as they’re in retreat."
 
-msgctxt "dn25:4.10"
+msgctxt "dn25:1.10"
 msgid ""
 "Yannūnāhaṃ yena udumbarikāya paribbājakārāmo, yena nigrodho paribbājako "
 "tenupasaṅkameyyan”ti."
@@ -93,14 +91,16 @@ msgstr ""
 "Why don’t I visit the wanderer Nigrodha at the lady Udumbarikā’s monastery "
 "for wanderers?”"
 
-msgctxt "dn25:4.11"
+msgctxt "dn25:1.11"
 msgid ""
 "Atha kho sandhāno gahapati yena udumbarikāya paribbājakārāmo, tenupasaṅkami."
 msgstr "So he went to the monastery of the wanderers."
 
-#. </p><p><a class="sc" id="2"></a><a class="wp" id="wp2"></a><a class="pts"
-#. id="pts3.37"></a>
-msgctxt "dn25:5.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs2"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.37"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "dn25:2.1"
 msgid ""
 "Tena kho pana samayena nigrodho paribbājako mahatiyā paribbājakaparisāya "
 "saddhiṃ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṃ "
@@ -110,17 +110,14 @@ msgstr ""
 "wanderers making an uproar, a dreadful racket. They engaged in all kinds of "
 "unworthy talk, such as"
 
-msgctxt "dn25:5.2"
-msgid "Seyyathidaṃ—"
-msgstr ""
-
-msgctxt "dn25:5.3"
+msgctxt "dn25:2.2"
 msgid ""
-"rājakathaṃ corakathaṃ mahāmattakathaṃ senākathaṃ bhayakathaṃ yuddhakathaṃ "
-"annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ gandhakathaṃ "
-"ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ janapadakathaṃ "
-"itthikathaṃ sūrakathaṃ visikhākathaṃ kumbhaṭṭhānakathaṃ pubbapetakathaṃ "
-"nānattakathaṃ lokakkhāyikaṃ samuddakkhāyikaṃ itibhavābhavakathaṃ iti vā."
+"Seyyathidaṃ—rājakathaṃ corakathaṃ mahāmattakathaṃ senākathaṃ bhayakathaṃ "
+"yuddhakathaṃ annakathaṃ pānakathaṃ vatthakathaṃ sayanakathaṃ mālākathaṃ "
+"gandhakathaṃ ñātikathaṃ yānakathaṃ gāmakathaṃ nigamakathaṃ nagarakathaṃ "
+"janapadakathaṃ itthikathaṃ sūrakathaṃ visikhākathaṃ kumbhaṭṭhānakathaṃ "
+"pubbapetakathaṃ nānattakathaṃ lokakkhāyikaṃ samuddakkhāyikaṃ "
+"itibhavābhavakathaṃ iti vā."
 msgstr ""
 "talk about kings, bandits, and ministers; talk about armies, threats, and "
 "wars; talk about food, drink, clothes, and beds; talk about garlands and "
@@ -129,25 +126,27 @@ msgstr ""
 "about the departed; motley talk; tales of land and sea; and talk about being "
 "reborn in this or that state of existence."
 
-#. </p><p><a class="sc" id="3"></a><a class="wp" id="wp3"></a>
-msgctxt "dn25:6.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs3"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "dn25:3.1"
 msgid ""
 "Addasā kho nigrodho paribbājako sandhānaṃ gahapatiṃ dūratova āgacchantaṃ."
 msgstr "Nigrodha saw Sandhāna coming off in the distance,"
 
-msgctxt "dn25:6.2"
+msgctxt "dn25:3.2"
 msgid "Disvā sakaṃ parisaṃ saṇṭhāpesi:"
 msgstr "and hushed his own assembly:"
 
-msgctxt "dn25:6.3"
+msgctxt "dn25:3.3"
 msgid "“appasaddā bhonto hontu, mā bhonto saddamakattha."
 msgstr "“Be quiet, good sirs, don’t make a sound."
 
-msgctxt "dn25:6.4"
+msgctxt "dn25:3.4"
 msgid "Ayaṃ samaṇassa gotamassa sāvako āgacchati sandhāno gahapati."
 msgstr "The householder Sandhāna, a disciple of the ascetic Gotama, is coming."
 
-msgctxt "dn25:6.5"
+msgctxt "dn25:3.5"
 msgid ""
 "Yāvatā kho pana samaṇassa gotamassa sāvakā gihī odātavasanā rājagahe "
 "paṭivasanti, ayaṃ tesaṃ aññataro sandhāno gahapati."
@@ -155,44 +154,43 @@ msgstr ""
 "He is included among the white-clothed lay disciples of the ascetic Gotama, "
 "who is residing near Rājagaha."
 
-msgctxt "dn25:6.6"
+msgctxt "dn25:3.6"
 msgid ""
 "Appasaddakāmā kho panete āyasmanto appasaddavinītā, appasaddassa vaṇṇavādino."
 msgstr ""
 "Such venerables like the quiet, are educated to be quiet, and praise quiet."
 
-msgctxt "dn25:6.7"
+msgctxt "dn25:3.7"
 msgid "Appeva nāma appasaddaṃ parisaṃ viditvā upasaṅkamitabbaṃ maññeyyā”ti."
 msgstr ""
 "Hopefully if he sees that our assembly is quiet he’ll see fit to approach.”"
 
-msgctxt "dn25:6.8"
+msgctxt "dn25:3.8"
 msgid "Evaṃ vutte, te paribbājakā tuṇhī ahesuṃ."
 msgstr "Then those wanderers fell silent."
 
-#. </p><p><a class="sc" id="4"></a><a class="wp" id="wp4"></a><a class="pts"
-#. id="pts3.38"></a>
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs4"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.38"></a>
+#. <a class="sc" id="sc4"></a>
 #. VAR: kho → ca (pts1)
-msgctxt "dn25:7.1"
+msgctxt "dn25:4.1"
 msgid ""
 "Atha kho sandhāno gahapati yena nigrodho paribbājako tenupasaṅkami, "
 "upasaṅkamitvā nigrodhena paribbājakena saddhiṃ sammodi."
 msgstr ""
-"Then Anāthapiṇḍika went up to the wanderer Nigrodha, and exchanged greetings "
-"with him. "
+"Then Sandhāna went up to the wanderer Nigrodha, and exchanged greetings with "
+"him."
 
-msgctxt "dn25:7.2"
-msgid "Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi."
+msgctxt "dn25:4.2"
+msgid ""
+"Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ "
+"nisinno kho sandhāno gahapati nigrodhaṃ paribbājakaṃ etadavoca:"
 msgstr ""
 "When the greetings and polite conversation were over, he sat down to one "
-"side,"
+"side and said to Nigrodha:"
 
-msgctxt "dn25:7.3"
-msgid ""
-"Ekamantaṃ nisinno kho sandhāno gahapati nigrodhaṃ paribbājakaṃ etadavoca:"
-msgstr "and said to Nigrodha:"
-
-msgctxt "dn25:7.4"
+msgctxt "dn25:4.3"
 msgid ""
 "“aññathā kho ime bhonto aññatitthiyā paribbājakā saṅgamma samāgamma unnādino "
 "uccāsaddamahāsaddā anekavihitaṃ tiracchānakathaṃ anuyuttā viharanti."
@@ -200,23 +198,11 @@ msgstr ""
 "“The way the wanderers make an uproar as they sit together and talk about "
 "all kinds of unworthy topics is one thing."
 
-msgctxt "dn25:7.5"
-msgid "Seyyathidaṃ—"
+msgctxt "dn25:4.4"
+msgid "Seyyathidaṃ—rājakathaṃ … pe … itibhavābhavakathaṃ iti vā."
 msgstr ""
 
-msgctxt "dn25:7.6"
-msgid "rājakathaṃ …"
-msgstr ""
-
-msgctxt "dn25:7.7"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:7.8"
-msgid "itibhavābhavakathaṃ iti vā."
-msgstr ""
-
-msgctxt "dn25:7.9"
+msgctxt "dn25:4.5"
 msgid ""
 "Aññathā kho pana so bhagavā araññavanapatthāni pantāni senāsanāni paṭisevati "
 "appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni "
@@ -226,12 +212,14 @@ msgstr ""
 "wilderness and the forest that are quiet and still, far from the madding "
 "crowd, remote from human settlements, and appropriate for retreat.”"
 
-#. </p><p><a class="sc" id="5"></a><a class="wp" id="wp5"></a>
-msgctxt "dn25:8.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs5"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "dn25:5.1"
 msgid "Evaṃ vutte, nigrodho paribbājako sandhānaṃ gahapatiṃ etadavoca:"
 msgstr "When Sandhāna said this, Nigrodha said to him:"
 
-msgctxt "dn25:8.2"
+msgctxt "dn25:5.2"
 msgid ""
 "“yagghe, gahapati, jāneyyāsi, kena samaṇo gotamo saddhiṃ sallapati, kena "
 "sākacchaṃ samāpajjati, kena paññāveyyattiyaṃ samāpajjati?"
@@ -240,7 +228,7 @@ msgstr ""
 "Gotama converse? With whom does he engage in discussion? With whom does he "
 "achieve proficiency in wisdom?"
 
-msgctxt "dn25:8.3"
+msgctxt "dn25:5.3"
 msgid ""
 "Suññāgārahatā samaṇassa gotamassa paññā aparisāvacaro samaṇo gotamo nālaṃ "
 "sallāpāya."
@@ -249,35 +237,35 @@ msgstr ""
 "frequenting assemblies, he is unable to hold a discussion."
 
 #. VAR: antamantāneva → antapantāneva (s1-3)
-msgctxt "dn25:8.4"
+msgctxt "dn25:5.4"
 msgid "So antamantāneva sevati."
 msgstr "He just lurks on the periphery."
 
-msgctxt "dn25:8.5"
+msgctxt "dn25:5.5"
 msgid "Seyyathāpi nāma gokāṇā pariyantacārinī antamantāneva sevati."
 msgstr ""
 "He’s just like the nilgai antelope, circling around and lurking on the "
 "periphery."
 
-msgctxt "dn25:8.6"
+msgctxt "dn25:5.6"
 msgid "Evameva suññāgārahatā samaṇassa gotamassa paññā;"
 msgstr ""
 
-msgctxt "dn25:8.7"
+msgctxt "dn25:5.7"
 msgid "aparisāvacaro samaṇo gotamo;"
 msgstr ""
 
-msgctxt "dn25:8.8"
+msgctxt "dn25:5.8"
 msgid "nālaṃ sallāpāya."
 msgstr ""
 
-msgctxt "dn25:8.9"
+msgctxt "dn25:5.9"
 msgid "So antamantāneva sevati."
 msgstr ""
 
 # orodheyyāmā is unclear. I follow comm: Orodheyyāmāti vinandheyyāma. Pūritaghaṭo hi ito cito ca parivattetvā na suvinandhanīyo hoti. Rittako yathāruci parivattetvā sakkā hoti vinandhituṃ, evameva hatapaññatāya rittakumbhisadisaṃ samaṇaṃ gotamaṃ vādavinandhanena samantā vinandhissāmāti vadati.
 #. VAR: saṃsādeyyāma → saṃhareyyāma (mr)
-msgctxt "dn25:8.10"
+msgctxt "dn25:5.10"
 msgid ""
 "Iṅgha, gahapati, samaṇo gotamo imaṃ parisaṃ āgaccheyya, ekapañheneva naṃ "
 "saṃsādeyyāma, tucchakumbhīva naṃ maññe orodheyyāmā”ti."
@@ -286,9 +274,11 @@ msgstr ""
 "him with just one question! I’ll roll him over and wrap him up like an empty "
 "pot!”"
 
-#. </p><p><a class="sc" id="6"></a><a class="wp" id="wp6"></a><a class="pts"
-#. id="pts3.39"></a>
-msgctxt "dn25:9.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs6"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.39"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "dn25:6.1"
 msgid ""
 "Assosi kho bhagavā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya "
 "sandhānassa gahapatissa nigrodhena paribbājakena saddhiṃ imaṃ kathāsallāpaṃ."
@@ -296,29 +286,27 @@ msgstr ""
 "With clairaudience that is purified and superhuman, the Buddha heard this "
 "discussion between the householder Sandhāna and the wanderer Nigrodha."
 
-msgctxt "dn25:9.2"
+msgctxt "dn25:6.2"
 msgid ""
 "Atha kho bhagavā gijjhakūṭā pabbatā orohitvā yena sumāgadhāya tīre "
-"moranivāpo tenupasaṅkami;"
+"moranivāpo tenupasaṅkami; upasaṅkamitvā sumāgadhāya tīre moranivāpe "
+"abbhokāse caṅkami."
 msgstr ""
 "Then the Buddha descended Vulture’s Peak Mountain and went to the peacock’s "
-"feeding ground on the bank of the Sumāgadhā,"
+"feeding ground on the bank of the Sumāgadhā, where he practiced walking "
+"meditation in the open air."
 
-msgctxt "dn25:9.3"
-msgid "upasaṅkamitvā sumāgadhāya tīre moranivāpe abbhokāse caṅkami."
-msgstr "where he practiced walking meditation in the open air."
-
-msgctxt "dn25:9.4"
+msgctxt "dn25:6.3"
 msgid ""
 "Addasā kho nigrodho paribbājako bhagavantaṃ sumāgadhāya tīre moranivāpe "
 "abbhokāse caṅkamantaṃ."
 msgstr "Nigrodha saw him,"
 
-msgctxt "dn25:9.5"
+msgctxt "dn25:6.4"
 msgid "Disvāna sakaṃ parisaṃ saṇṭhāpesi:"
 msgstr "and hushed his own assembly:"
 
-msgctxt "dn25:9.6"
+msgctxt "dn25:6.5"
 msgid ""
 "“appasaddā bhonto hontu, mā bhonto saddamakattha, ayaṃ samaṇo gotamo "
 "sumāgadhāya tīre moranivāpe abbhokāse caṅkamati."
@@ -326,21 +314,21 @@ msgstr ""
 "“Be quiet, good sirs, don’t make a sound. The ascetic Gotama is walking "
 "meditation on the bank of the Sumāgadhā."
 
-msgctxt "dn25:9.7"
+msgctxt "dn25:6.6"
 msgid "Appasaddakāmo kho pana so āyasmā, appasaddassa vaṇṇavādī."
 msgstr "The venerable likes quiet and praises quiet."
 
-msgctxt "dn25:9.8"
+msgctxt "dn25:6.7"
 msgid "Appeva nāma appasaddaṃ parisaṃ viditvā upasaṅkamitabbaṃ maññeyya."
 msgstr ""
 "Hopefully if he sees that our assembly is quiet he’ll see fit to approach."
 
-msgctxt "dn25:9.9"
+msgctxt "dn25:6.8"
 msgid ""
 "Sace samaṇo gotamo imaṃ parisaṃ āgaccheyya, imaṃ taṃ pañhaṃ puccheyyāma:"
 msgstr "If he comes, I’ll ask him this question:"
 
-msgctxt "dn25:9.10"
+msgctxt "dn25:6.9"
 msgid ""
 "‘ko nāma so, bhante, bhagavato dhammo, yena bhagavā sāvake vineti, yena "
 "bhagavatā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṃ "
@@ -349,51 +337,53 @@ msgstr ""
 "‘Sir, what teaching do you use to guide your disciples, through which they "
 "claim solace in the fundamental purpose of the spiritual life?’”"
 
-msgctxt "dn25:9.11"
+msgctxt "dn25:6.10"
 msgid "Evaṃ vutte, te paribbājakā tuṇhī ahesuṃ."
 msgstr "Then those wanderers fell silent."
 
 #. </p><h2>
-msgctxt "dn25:10.1"
+msgctxt "dn25:6.11"
 msgid "2. Tapojigucchāvāda"
-msgstr "Mortification in Disgust of Sin"
+msgstr "2. Mortification in Disgust of Sin"
 
-#. </h2><p><a class="sc" id="7"></a><a class="wp" id="wp7"></a><a class="pts"
-#. id="pts3.40"></a>
-msgctxt "dn25:11.1"
+#. </h2><p>
+#. <a class="pts-cs" id="pts-cs7"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.40"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "dn25:7.1"
 msgid "Atha kho bhagavā yena nigrodho paribbājako tenupasaṅkami."
 msgstr "Then the Buddha went up to the wanderer Nigrodha,"
 
-msgctxt "dn25:11.2"
+msgctxt "dn25:7.2"
 msgid "Atha kho nigrodho paribbājako bhagavantaṃ etadavoca:"
 msgstr "who said to him:"
 
-msgctxt "dn25:11.3"
+msgctxt "dn25:7.3"
 msgid "“etu kho, bhante, bhagavā, svāgataṃ, bhante, bhagavato."
 msgstr "“Come, Blessed One! Welcome, Blessed One!"
 
-msgctxt "dn25:11.4"
+msgctxt "dn25:7.4"
 msgid "Cirassaṃ kho, bhante, bhagavā imaṃ pariyāyamakāsi yadidaṃ idhāgamanāya."
 msgstr "It’s been a long time since you took the opportunity to come here."
 
-msgctxt "dn25:11.5"
+msgctxt "dn25:7.5"
 msgid "Nisīdatu, bhante, bhagavā, idamāsanaṃ paññattan”ti."
 msgstr "Please, sir, sit down, this seat is ready.”"
 
-msgctxt "dn25:11.6"
+msgctxt "dn25:7.6"
 msgid "Nisīdi bhagavā paññatte āsane."
 msgstr "The Buddha sat on the seat spread out,"
 
-msgctxt "dn25:11.7"
+msgctxt "dn25:7.7"
 msgid ""
 "Nigrodhopi kho paribbājako aññataraṃ nīcāsanaṃ gahetvā ekamantaṃ nisīdi."
 msgstr "while Nigrodha took a low seat and sat to one side."
 
-msgctxt "dn25:11.8"
+msgctxt "dn25:7.8"
 msgid "Ekamantaṃ nisinnaṃ kho nigrodhaṃ paribbājakaṃ bhagavā etadavoca:"
 msgstr "The Buddha said to him:"
 
-msgctxt "dn25:11.9"
+msgctxt "dn25:7.9"
 msgid ""
 "“kāya nuttha, nigrodha, etarahi kathāya sannisinnā, kā ca pana vo "
 "antarākathā vippakatā”ti?"
@@ -401,22 +391,22 @@ msgstr ""
 "“Nigrodha, what were you sitting talking about just now? What conversation "
 "was unfinished?”"
 
-msgctxt "dn25:11.10"
+msgctxt "dn25:7.10"
 msgid "Evaṃ vutte, nigrodho paribbājako bhagavantaṃ etadavoca:"
 msgstr "Nigrodha said:"
 
-msgctxt "dn25:11.11"
+msgctxt "dn25:7.11"
 msgid ""
 "“idha mayaṃ, bhante, addasāma bhagavantaṃ sumāgadhāya tīre moranivāpe "
 "abbhokāse caṅkamantaṃ, disvāna evaṃ avocumhā:"
 msgstr "“Well, sir, I saw you walking meditation and said:"
 
-msgctxt "dn25:11.12"
+msgctxt "dn25:7.12"
 msgid ""
 "‘sace samaṇo gotamo imaṃ parisaṃ āgaccheyya, imaṃ taṃ pañhaṃ puccheyyāma:"
 msgstr "‘If the ascetic Gotama comes, I’ll ask him this question:"
 
-msgctxt "dn25:11.13"
+msgctxt "dn25:7.13"
 msgid ""
 "“ko nāma so, bhante, bhagavato dhammo, yena bhagavā sāvake vineti, yena "
 "bhagavatā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṃ "
@@ -425,16 +415,13 @@ msgstr ""
 "“Sir, what teaching do you use to guide your disciples, through which they "
 "claim solace in the fundamental purpose of the spiritual life?”’"
 
-msgctxt "dn25:11.14"
-msgid "Ayaṃ kho no, bhante, antarākathā vippakatā;"
-msgstr "This is the conversation that was unfinished"
+msgctxt "dn25:7.14"
+msgid "Ayaṃ kho no, bhante, antarākathā vippakatā; atha bhagavā anuppatto”ti."
+msgstr "This is the conversation that was unfinished when the Buddha arrived.”"
 
-msgctxt "dn25:11.15"
-msgid "atha bhagavā anuppatto”ti."
-msgstr "when the Buddha arrived.”"
-
-#. </p><p><a class="sc" id="8"></a>
-msgctxt "dn25:12.1"
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "dn25:7.15"
 msgid ""
 "“Dujjānaṃ kho etaṃ, nigrodha, tayā aññadiṭṭhikena aññakhantikena "
 "aññarucikena aññatrāyogena aññatrācariyakena, yenāhaṃ sāvake vinemi, yena "
@@ -443,14 +430,14 @@ msgstr ""
 "“It’s hard for you to understand this, Nigrodha, since you have a different "
 "view, creed, belief, practice, and tradition."
 
-msgctxt "dn25:12.2"
+msgctxt "dn25:7.16"
 msgid "Iṅgha tvaṃ maṃ, nigrodha, sake ācariyake adhijegucche pañhaṃ puccha:"
 msgstr ""
 "Please ask me a question about the higher mortification in disgust of sin in "
 "your own tradition:"
 
 # The idiom katham santā is unusual, but it clearly echoes evaṃ sante below
-msgctxt "dn25:12.3"
+msgctxt "dn25:7.17"
 msgid ""
 "‘kathaṃ santā nu kho, bhante, tapojigucchā paripuṇṇā hoti, kathaṃ "
 "aparipuṇṇā’”ti?"
@@ -458,12 +445,13 @@ msgstr ""
 "‘How are the conditions for the mortification in disgust of sin completed, "
 "and how are they incomplete?’”"
 
-#. </p><p><a class="sc" id="9"></a>
-msgctxt "dn25:13.1"
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "dn25:7.18"
 msgid "Evaṃ vutte, te paribbājakā unnādino uccāsaddamahāsaddā ahesuṃ:"
 msgstr "When he said this, those wanderers made an uproar:"
 
-msgctxt "dn25:13.2"
+msgctxt "dn25:7.19"
 msgid ""
 "“acchariyaṃ vata bho, abbhutaṃ vata bho, samaṇassa gotamassa mahiddhikatā "
 "mahānubhāvatā, yatra hi nāma sakavādaṃ ṭhapessati, paravādena pavāressatī”ti."
@@ -472,14 +460,16 @@ msgstr ""
 "For he sets aside his own doctrine and invites discussion on the doctrine of "
 "others!”"
 
-#. </p><p><a class="sc" id="10"></a><a class="wp" id="wp8"></a>
-msgctxt "dn25:14.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs8"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "dn25:8.1"
 msgid ""
 "Atha kho nigrodho paribbājako te paribbājake appasadde katvā bhagavantaṃ "
 "etadavoca:"
 msgstr "Then Nigrodha, having quieted those wanderers, said to the Buddha:"
 
-msgctxt "dn25:14.2"
+msgctxt "dn25:8.2"
 msgid ""
 "“mayaṃ kho, bhante, tapojigucchāvādā tapojigucchāsārā tapojigucchāallīnā "
 "viharāma."
@@ -487,7 +477,7 @@ msgstr ""
 "“Sir, we teach mortification in disgust of sin, regarding it as essential "
 "and clinging to it."
 
-msgctxt "dn25:14.3"
+msgctxt "dn25:8.3"
 msgid ""
 "Kathaṃ santā nu kho, bhante, tapojigucchā paripuṇṇā hoti, kathaṃ "
 "aparipuṇṇā”ti?"
@@ -495,35 +485,46 @@ msgstr ""
 "How are the conditions for the mortification in disgust of sin completed, "
 "and how are they incomplete?”"
 
-#. </p><p><a class="sc" id="11"></a><a class="pts" id="pts3.41"></a>
-#, fuzzy
-msgctxt "dn25:15.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.41"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "dn25:8.4"
 msgid ""
 "“Idha, nigrodha, tapassī acelako hoti muttācāro, hatthāpalekhano, "
 "naehibhaddantiko, natiṭṭhabhaddantiko, nābhihaṭaṃ, na uddissakataṃ, na "
-"nimantanaṃ sādiyati, so na kumbhimukhā paṭiggaṇhāti, na kaḷopimukhā "
-"paṭiggaṇhāti, na eḷakamantaraṃ, na daṇḍamantaraṃ, na musalamantaraṃ, na "
-"dvinnaṃ bhuñjamānānaṃ, na gabbhiniyā, na pāyamānāya, na purisantaragatāya, "
-"na saṅkittīsu, na yattha sā upaṭṭhito hoti, na yattha makkhikā "
-"saṇḍasaṇḍacārinī, na macchaṃ, na maṃsaṃ, na suraṃ, na merayaṃ, na thusodakaṃ "
-"pivati, so ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko, "
-"sattāgāriko vā hoti sattālopiko, ekissāpi dattiyā yāpeti, dvīhipi dattīhi "
-"yāpeti, sattahipi dattīhi yāpeti;"
+"nimantanaṃ sādiyati, "
 msgstr ""
 "“It’s when a mortifier goes naked, ignoring conventions. They lick their "
 "hands, and don’t come or wait when asked. They don’t consent to food brought "
 "to them, or food prepared on purpose for them, or an invitation for a meal. "
+
+msgctxt "dn25:8.5"
+msgid ""
+"so na kumbhimukhā paṭiggaṇhāti, na kaḷopimukhā paṭiggaṇhāti, na "
+"eḷakamantaraṃ, na daṇḍamantaraṃ, na musalamantaraṃ, na dvinnaṃ "
+"bhuñjamānānaṃ, na gabbhiniyā, na pāyamānāya, na purisantaragatāya, na "
+"saṅkittīsu, na yattha sā upaṭṭhito hoti, na yattha makkhikā "
+"saṇḍasaṇḍacārinī, na macchaṃ, na maṃsaṃ, na suraṃ, na merayaṃ, na thusodakaṃ "
+"pivati, "
+msgstr ""
 "They don’t receive anything from a pot or bowl; or from someone who keeps "
 "sheep, or who has a weapon or a shovel in their home; or where a couple is "
 "eating; or where there is a woman who is pregnant, breast-feeding, or who "
 "has a man in her home; or where there’s a dog waiting or flies buzzing. They "
-"accept no fish or meat or liquor or wine, and drink no beer. They go to just "
-"one house for alms, taking just one mouthful, or two houses and two "
-"mouthfuls, up to seven houses and seven mouthfuls. They feed on one saucer a "
-"day, two saucers a day, up to seven saucers a day."
+"accept no fish or meat or liquor or wine, and drink no beer. "
+
+msgctxt "dn25:8.6"
+msgid ""
+"so ekāgāriko vā hoti ekālopiko, dvāgāriko vā hoti dvālopiko, sattāgāriko vā "
+"hoti sattālopiko, ekissāpi dattiyā yāpeti, dvīhipi dattīhi yāpeti, sattahipi "
+"dattīhi yāpeti;"
+msgstr ""
+"They go to just one house for alms, taking just one mouthful, or two houses "
+"and two mouthfuls, up to seven houses and seven mouthfuls. They feed on one "
+"saucer a day, two saucers a day, up to seven saucers a day."
 
 #. VAR: dvīhikampi → dvāhikaṃpi (bj, s1-3)
-msgctxt "dn25:15.2"
+msgctxt "dn25:8.7"
 msgid ""
 "ekāhikampi āhāraṃ āhāreti, dvīhikampi āhāraṃ āhāreti, sattāhikampi āhāraṃ "
 "āhāreti, iti evarūpaṃ addhamāsikampi pariyāyabhattabhojanānuyogamanuyutto "
@@ -533,78 +534,114 @@ msgstr ""
 "even up to once a fortnight. They live committed to the practice of eating "
 "food at set intervals."
 
-msgctxt "dn25:15.3"
+msgctxt "dn25:8.8"
 msgid ""
 "So sākabhakkho vā hoti, sāmākabhakkho vā hoti, nīvārabhakkho vā hoti, "
 "daddulabhakkho vā hoti, haṭabhakkho vā hoti, kaṇabhakkho vā hoti, "
 "ācāmabhakkho vā hoti, piññākabhakkho vā hoti, tiṇabhakkho vā hoti, "
-"gomayabhakkho vā hoti;"
+"gomayabhakkho vā hoti; vanamūlaphalāhāro yāpeti pavattaphalabhojī."
 msgstr ""
 "They eat herbs, millet, wild rice, poor rice, water lettuce, rice bran, scum "
 "from boiling rice, sesame flour, grass, or cow dung. They survive on forest "
 "roots and fruits, or eating fallen fruit."
 
-msgctxt "dn25:15.4"
-msgid "vanamūlaphalāhāro yāpeti pavattaphalabhojī."
-msgstr "They feed on forest roots and fruits, or eating fallen fruit."
-
-#. VAR: ubbhaṭṭhakopi → ubhaṭṭhakopi (s1-3) | ubbhaṭṭhikopi (mr)
 #. VAR: ajinampi → ajinānipi (bj, s1-3, pts1, c1)
-msgctxt "dn25:15.5"
+msgctxt "dn25:8.9"
 msgid ""
 "So sāṇānipi dhāreti, masāṇānipi dhāreti, chavadussānipi dhāreti, "
 "paṃsukūlānipi dhāreti, tirīṭānipi dhāreti, ajinampi dhāreti, ajinakkhipampi "
 "dhāreti, kusacīrampi dhāreti, vākacīrampi dhāreti, phalakacīrampi dhāreti, "
 "kesakambalampi dhāreti, vāḷakambalampi dhāreti, ulūkapakkhampi dhāreti, "
-"kesamassulocakopi hoti kesamassulocanānuyogamanuyutto, ubbhaṭṭhakopi hoti "
-"āsanapaṭikkhitto, ukkuṭikopi hoti ukkuṭikappadhānamanuyutto, "
-"kaṇṭakāpassayikopi hoti kaṇṭakāpassaye seyyaṃ kappeti, phalakaseyyampi "
-"kappeti, thaṇḍilaseyyampi kappeti, ekapassayikopi hoti rajojalladharo, "
-"abbhokāsikopi hoti yathāsanthatiko, vekaṭikopi hoti "
-"vikaṭabhojanānuyogamanuyutto, apānakopi hoti apānakattamanuyutto, "
-"sāyatatiyakampi udakorohanānuyogamanuyutto viharati."
 msgstr ""
 "They wear robes of sunn hemp, mixed hemp, corpse-wrapping cloth, rags, lodh "
 "tree bark, antelope hide (whole or in strips), kusa grass, bark, wood-chips, "
-"human hair, horse-tail hair, or owls’ wings. They tear out hair and beard, "
-"committed to this practice. They constantly stand, refusing seats. They "
-"squat, committed to persisting in the squatting position. They lie on a mat "
-"of thorns, making a mat of thorns their bed. They make their bed on a plank, "
-"or the bare ground. They lie only on one side. They wear dust and dirt. They "
-"stay in the open air. They sleep wherever they lay their mat. They eat "
-"unnatural things, committed to the practice of eating unnatural foods. They "
-"don’t drink, committed to the practice of not drinking liquids. They’re "
-"committed to the practice of immersion in water three times a day, including "
-"the evening."
+"human hair, horse-tail hair, or owls’ wings. "
 
-msgctxt "dn25:15.6"
-msgid ""
-"Taṃ kiṃ maññasi, nigrodha, yadi evaṃ sante tapojigucchā paripuṇṇā vā hoti "
-"aparipuṇṇā vā”ti?"
+msgctxt "dn25:8.10"
+msgid "kesamassulocakopi hoti kesamassulocanānuyogamanuyutto, "
+msgstr "They tear out their hair and beard, committed to this practice. "
+
+#. VAR: ubbhaṭṭhakopi → ubhaṭṭhakopi (s1-3) | ubbhaṭṭhikopi (mr)
+msgctxt "dn25:8.11"
+msgid "ubbhaṭṭhakopi hoti āsanapaṭikkhitto, "
+msgstr "They constantly stand, refusing seats. "
+
+msgctxt "dn25:8.12"
+msgid "ukkuṭikopi hoti ukkuṭikappadhānamanuyutto, "
+msgstr "They squat, committed to persisting in the squatting position. "
+
+msgctxt "dn25:8.13"
+msgid "kaṇṭakāpassayikopi hoti kaṇṭakāpassaye seyyaṃ kappeti, "
+msgstr "They lie on a mat of thorns, making a mat of thorns their bed. "
+
+msgctxt "dn25:8.14"
+msgid "phalakaseyyampi kappeti, thaṇḍilaseyyampi kappeti, "
+msgstr "They make their bed on a plank, or the bare ground. "
+
+msgctxt "dn25:8.15"
+msgid "ekapassayikopi hoti "
+msgstr "They lie only on one side. "
+
+msgctxt "dn25:8.16"
+msgid "rajojalladharo, "
+msgstr "They wear dust and dirt. "
+
+msgctxt "dn25:8.17"
+msgid "abbhokāsikopi hoti "
+msgstr "They stay in the open air. "
+
+msgctxt "dn25:8.18"
+msgid "yathāsanthatiko, "
+msgstr "They sleep wherever they lay their mat. "
+
+msgctxt "dn25:8.19"
+msgid "vekaṭikopi hoti vikaṭabhojanānuyogamanuyutto, "
 msgstr ""
-"What do you think, Nigrodha? If this is so, is the mortification in disgust "
-"of sin completed, or incomplete?”"
+"They eat unnatural things, committed to the practice of eating unnatural "
+"foods. "
 
-msgctxt "dn25:15.7"
+msgctxt "dn25:8.20"
+msgid "apānakopi hoti apānakattamanuyutto, "
+msgstr "They don’t drink, committed to the practice of not drinking liquids. "
+
+msgctxt "dn25:8.21"
+msgid "sāyatatiyakampi udakorohanānuyogamanuyutto viharati."
+msgstr ""
+"They’re committed to the practice of immersion in water three times a day, "
+"including the evening."
+
+msgctxt "dn25:8.22"
+msgid "Taṃ kiṃ maññasi, nigrodha, "
+msgstr "What do you think, Nigrodha? "
+
+msgctxt "dn25:8.23"
+msgid "yadi evaṃ sante tapojigucchā paripuṇṇā vā hoti aparipuṇṇā vā”ti?"
+msgstr ""
+"If this is so, is the mortification in disgust of sin complete, or "
+"incomplete?”"
+
+msgctxt "dn25:8.24"
 msgid ""
 "“Addhā kho, bhante, evaṃ sante tapojigucchā paripuṇṇā hoti, no aparipuṇṇā”ti."
 msgstr ""
 "“Clearly, sir, if that is so the mortification in disgust of sin is "
-"completed, not incomplete.”"
+"complete, not incomplete.”"
 
-msgctxt "dn25:15.8"
+msgctxt "dn25:8.25"
 msgid ""
 "“Evaṃ paripuṇṇāyapi kho ahaṃ, nigrodha, tapojigucchāya anekavihite "
 "upakkilese vadāmī”ti."
 msgstr "“But even such a completed mortification has many flaws, I say.”"
 
 #. </p><h3>
-msgctxt "dn25:16.1"
+msgctxt "dn25:8.26"
 msgid "2.1. Upakkilesa"
-msgstr "Flaws"
+msgstr "2.1. Flaws"
 
-#. </h3><p><a class="sc" id="12"></a><a class="wp" id="wp9"></a>
-msgctxt "dn25:17.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs9"></a>
+#. <a class="sc" id="sc12"></a>
+msgctxt "dn25:9.1"
 msgid ""
 "“Yathā kathaṃ pana, bhante, bhagavā evaṃ paripuṇṇāya tapojigucchāya "
 "anekavihite upakkilese vadatī”ti?"
@@ -612,8 +649,9 @@ msgstr ""
 "“But how does the Buddha say that even such a completed mortification has "
 "many flaws?”"
 
-#. </p><p><a class="sc" id="13"></a>
-msgctxt "dn25:18.1"
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "dn25:9.2"
 msgid ""
 "“Idha, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā attamano hoti "
 "paripuṇṇasaṅkappo."
@@ -621,18 +659,19 @@ msgstr ""
 "“Firstly, a mortifier undertakes a practice of mortification. They’re happy "
 "with that, as they’ve got all they wished for."
 
-msgctxt "dn25:18.2"
+msgctxt "dn25:9.3"
 msgid ""
 "Yampi, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā attamano hoti "
 "paripuṇṇasaṅkappo."
 msgstr ""
 
-msgctxt "dn25:18.3"
+msgctxt "dn25:9.4"
 msgid "Ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="14"></a>
-msgctxt "dn25:19.1"
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+msgctxt "dn25:9.5"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "attānukkaṃseti paraṃ vambheti."
@@ -640,18 +679,20 @@ msgstr ""
 "Furthermore, a mortifier undertakes a practice of mortification. They "
 "glorify themselves and put others down on account of that."
 
-msgctxt "dn25:19.2"
+msgctxt "dn25:9.6"
 msgid ""
 "Yampi, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā attānukkaṃseti "
 "paraṃ vambheti."
 msgstr ""
 
-msgctxt "dn25:19.3"
+msgctxt "dn25:9.7"
 msgid "Ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="15"></a><a class="pts" id="pts3.43"></a>
-msgctxt "dn25:20.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.43"></a>
+#. <a class="sc" id="sc15"></a>
+msgctxt "dn25:9.8"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā majjati "
 "mucchati pamādamāpajjati."
@@ -659,18 +700,20 @@ msgstr ""
 "Furthermore, a mortifier undertakes a practice of mortification. They become "
 "indulgent and stupefied and fall into negligence on account of that."
 
-msgctxt "dn25:20.2"
+msgctxt "dn25:9.9"
 msgid ""
 "Yampi, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā majjati mucchati "
 "pamādamāpajjati."
 msgstr ""
 
-msgctxt "dn25:20.3"
+msgctxt "dn25:9.10"
 msgid "Ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="16"></a><a class="wp" id="wp10"></a>
-msgctxt "dn25:21.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs10"></a>
+#. <a class="sc" id="sc16"></a>
+msgctxt "dn25:10.1"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena attamano "
@@ -680,19 +723,20 @@ msgstr ""
 "generate possessions, honor, and popularity through that mortification. They’"
 "re happy with that, as they’ve got all they wished for."
 
-msgctxt "dn25:21.2"
+msgctxt "dn25:10.2"
 msgid ""
 "Yampi, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena attamano "
 "hoti paripuṇṇasaṅkappo."
 msgstr ""
 
-msgctxt "dn25:21.3"
+msgctxt "dn25:10.3"
 msgid "Ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="17"></a>
-msgctxt "dn25:22.1"
+#. </p><p>
+#. <a class="sc" id="sc17"></a>
+msgctxt "dn25:10.4"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena "
@@ -702,19 +746,20 @@ msgstr ""
 "generate possessions, honor, and popularity through that mortification. They "
 "glorify themselves and put others down on account of that."
 
-msgctxt "dn25:22.2"
+msgctxt "dn25:10.5"
 msgid ""
 "Yampi, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena "
 "attānukkaṃseti paraṃ vambheti."
 msgstr ""
 
-msgctxt "dn25:22.3"
+msgctxt "dn25:10.6"
 msgid "Ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="18"></a>
-msgctxt "dn25:23.1"
+#. </p><p>
+#. <a class="sc" id="sc18"></a>
+msgctxt "dn25:10.7"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena majjati "
@@ -724,322 +769,291 @@ msgstr ""
 "generate possessions, honor, and popularity through that mortification. They "
 "become indulgent and stupefied and fall into negligence on account of that."
 
-msgctxt "dn25:23.2"
+msgctxt "dn25:10.8"
 msgid ""
 "Yampi, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena majjati "
 "mucchati pamādamāpajjati."
 msgstr ""
 
-msgctxt "dn25:23.3"
+msgctxt "dn25:10.9"
 msgid "Ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="19"></a>
-msgctxt "dn25:24.1"
+#. </p><p>
+#. <a class="sc" id="sc19"></a>
+msgctxt "dn25:10.10"
 msgid "Puna caparaṃ, nigrodha, tapassī bhojanesu vodāsaṃ āpajjati:"
 msgstr "Furthermore, a mortifier becomes fussy about food, saying:"
 
-msgctxt "dn25:24.2"
+msgctxt "dn25:10.11"
 msgid "‘idaṃ me khamati, idaṃ me nakkhamatī’ti."
 msgstr "‘This agrees with me, this doesn’t agree with me.’"
 
-# Usually sapekkha is used in the sense of missing something, or longing for it when it's gone.
+# Usually sapekkha is used in the sense of missing something, or longing for it when it’s gone.
 #. VAR: yañca → yaṃ hi (pts1)
-msgctxt "dn25:24.3"
+msgctxt "dn25:10.12"
 msgid "So yañca khvassa nakkhamati, taṃ sāpekkho pajahati."
 msgstr "What doesn’t agree with them they reluctantly give up."
 
 #. VAR: gadhito → gathito (bj, pts1)
-msgctxt "dn25:24.4"
+msgctxt "dn25:10.13"
 msgid ""
 "Yaṃ panassa khamati, taṃ gadhito mucchito ajjhāpanno anādīnavadassāvī "
-"anissaraṇapañño paribhuñjati …"
+"anissaraṇapañño paribhuñjati … pe …"
 msgstr ""
 "But what does agree with them they eat tied, stupefied, attached, blind to "
 "the drawbacks, and not understanding the escape."
 
-msgctxt "dn25:24.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:24.6"
+msgctxt "dn25:10.14"
 msgid "ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="20"></a><a class="pts" id="pts3.44"></a>
-msgctxt "dn25:25.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.44"></a>
+#. <a class="sc" id="sc20"></a>
+msgctxt "dn25:10.15"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati "
 "lābhasakkārasilokanikantihetu:"
 msgstr ""
-"Furthermore, a mortifier undertakes a practice of mortification out of  "
+"Furthermore, a mortifier undertakes a practice of mortification out of "
 "longing for possessions, honor, and popularity, thinking:"
 
-msgctxt "dn25:25.2"
+msgctxt "dn25:10.16"
 msgid ""
 "‘sakkarissanti maṃ rājāno rājamahāmattā khattiyā brāhmaṇā gahapatikā "
-"titthiyā’ti …"
+"titthiyā’ti … pe …"
 msgstr ""
 "‘Kings, royal ministers, aristocrats, brahmins, householders, and sectarians "
 "will honor me!’"
 
-msgctxt "dn25:25.3"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:25.4"
+msgctxt "dn25:10.17"
 msgid "ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="21"></a><a class="wp" id="wp11"></a>
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs11"></a>
+#. <a class="sc" id="sc21"></a>
 #. VAR: apasādetā → apasāretā (mr)
-msgctxt "dn25:26.1"
+msgctxt "dn25:11.1"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī aññataraṃ samaṇaṃ vā brāhmaṇaṃ vā apasādetā "
 "hoti:"
 msgstr "Furthermore, a mortifier rebukes a certain ascetic or brahmin:"
 
 #. VAR: sambahulājīvo → bahulājīvo (pts1)
-msgctxt "dn25:26.2"
+msgctxt "dn25:11.2"
 msgid "‘kiṃ panāyaṃ sambahulājīvo sabbaṃ sambhakkheti."
 msgstr ""
 "‘But what is this one doing, living in abundance! According to this ascetic’"
 "s doctrine, everything—"
 
-msgctxt "dn25:26.3"
-msgid "Seyyathidaṃ—"
-msgstr ""
-
-msgctxt "dn25:26.4"
+msgctxt "dn25:11.3"
 msgid ""
-"mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva pañcamaṃ, "
-"asanivicakkaṃ dantakūṭaṃ, samaṇappavādenā’ti …"
+"Seyyathidaṃ—mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva "
+"pañcamaṃ, asanivicakkaṃ dantakūṭaṃ, samaṇappavādenā’ti … pe …"
 msgstr ""
 "plants propagated from roots, stems, cuttings, or joints; and those from "
 "regular seeds as the fifth—is crunched together like the thunder of a tooth-"
 "hammer!’"
 
-msgctxt "dn25:26.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:26.6"
+msgctxt "dn25:11.4"
 msgid "ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="22"></a>
-msgctxt "dn25:27.1"
+#. </p><p>
+#. <a class="sc" id="sc22"></a>
+msgctxt "dn25:11.5"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī passati aññataraṃ samaṇaṃ vā brāhmaṇaṃ vā "
 "kulesu sakkariyamānaṃ garukariyamānaṃ māniyamānaṃ pūjiyamānaṃ."
 msgstr ""
 "Furthermore, a mortifier sees a certain ascetic or brahmin being honored, "
-"respected, esteemed, and venerated among respectable families."
+"respected, esteemed, and venerated among good families."
 
-msgctxt "dn25:27.2"
+msgctxt "dn25:11.6"
 msgid "Disvā tassa evaṃ hoti:"
 msgstr "They think:"
 
-msgctxt "dn25:27.3"
+msgctxt "dn25:11.7"
 msgid ""
 "‘imañhi nāma sambahulājīvaṃ kulesu sakkaronti garuṃ karonti mānenti pūjenti."
 msgstr ""
 "‘This one, who lives in abundance, is honored, respected, esteemed, and "
-"venerated among respectable families."
+"venerated among good families."
 
-msgctxt "dn25:27.4"
+msgctxt "dn25:11.8"
 msgid ""
 "Maṃ pana tapassiṃ lūkhājīviṃ kulesu na sakkaronti na garuṃ karonti na "
-"mānenti na pūjentī’ti, iti so issāmacchariyaṃ kulesu uppādetā hoti …"
+"mānenti na pūjentī’ti, iti so issāmacchariyaṃ kulesu uppādetā hoti … pe …"
 msgstr ""
 "But I, a self-mortifier who lives rough, am not honored, respected, "
-"esteemed, and venerated among respectable families.’ Thus they give rise to "
-"envy and jealousy regarding families."
+"esteemed, and venerated among good families.’ Thus they give rise to envy "
+"and jealousy regarding families."
 
-msgctxt "dn25:27.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:27.6"
+msgctxt "dn25:11.9"
 msgid "ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-# Note that while PTS dict derives nisādī from sad and has "lying down", comm has "dassanaṭṭhāne nisīdati". This is supported by the other uses at ja538#37 and tha-ap407#45 (vl. nisīdetvana)
-#. </p><p><a class="sc" id="23"></a>
-msgctxt "dn25:28.1"
-msgid "Puna caparaṃ, nigrodha, tapassī āpāthakanisādī hoti …"
+#. </p><p>
+#. <a class="sc" id="sc23"></a>
+msgctxt "dn25:11.10"
+msgid "Puna caparaṃ, nigrodha, tapassī āpāthakanisādī hoti … pe …"
 msgstr "Furthermore, a mortifier sits meditation only when people can see them."
 
-msgctxt "dn25:28.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:28.3"
+msgctxt "dn25:11.11"
 msgid "ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-# As noted by MW, comm here says "adassayamānoti ettha a-kāro nipātamattaṃ, dassayamānoti attho". But this seems odd. Tika says ‘‘Ādassayamāno’’ti vā pāṭho. Again, this seems odd. If the first explanation is good, why need another? And if it is a genuine reading, it does not seem to be attested. Further, ādassana doesn't seem to be attested as a genuine Pali term. 
-#. </p><p><a class="sc" id="24"></a>
-msgctxt "dn25:29.1"
+# As noted by MW, comm here says “adassayamānoti ettha a-kāro nipātamattaṃ, dassayamānoti attho”. But this seems odd. Tika says ‘‘Ādassayamāno’’ti vā pāṭho. Again, this seems odd. If the first explanation is good, why need another? And if it is a genuine reading, it does not seem to be attested. Further, ādassana doesn’t seem to be attested as a genuine Pali term.
+#. </p><p>
+#. <a class="sc" id="sc24"></a>
+msgctxt "dn25:11.12"
 msgid "Puna caparaṃ, nigrodha, tapassī attānaṃ adassayamāno kulesu carati:"
 msgstr "Furthermore, a mortifier sneaks about among families, thinking:"
 
-msgctxt "dn25:29.2"
-msgid "‘idampi me tapasmiṃ idampi me tapasmin’ti …"
+msgctxt "dn25:11.13"
+msgid "‘idampi me tapasmiṃ idampi me tapasmin’ti … pe …"
 msgstr "‘This is part of my mortification; this is part of my mortification.’"
 
-msgctxt "dn25:29.3"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:29.4"
+msgctxt "dn25:11.14"
 msgid "ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="25"></a><a class="pts" id="pts3.45"></a>
-msgctxt "dn25:30.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.45"></a>
+#. <a class="sc" id="sc25"></a>
+msgctxt "dn25:11.15"
 msgid "Puna caparaṃ, nigrodha, tapassī kiñcideva paṭicchannaṃ sevati."
 msgstr "Furthermore, a mortifier sometimes behaves in an underhand manner."
 
-# Note that comm applies this to views "Kiñcidevāti kiñci vajjaṃ diṭṭhigataṃ vā", but earlier in the sutta "idaṃ me khamati, idaṃ me nakkhamatī’ti." is applied to preferences regarding food. 
-msgctxt "dn25:30.2"
-msgid "So ‘khamati te idan’ti puṭṭho samāno akkhamamānaṃ āha:"
+# Note that comm applies this to views “Kiñcidevāti kiñci vajjaṃ diṭṭhigataṃ vā”, but earlier in the sutta “idaṃ me khamati, idaṃ me nakkhamatī’ti.” is applied to preferences regarding food.
+msgctxt "dn25:11.16"
+msgid "So ‘khamati te idan’ti puṭṭho samāno akkhamamānaṃ āha: ‘khamatī’ti."
 msgstr ""
 "When asked whether something agrees with them, they say it does, even though "
 "it doesn’t."
 
-msgctxt "dn25:30.3"
-msgid "‘khamatī’ti."
-msgstr ""
-
-msgctxt "dn25:30.4"
-msgid "Khamamānaṃ āha:"
+msgctxt "dn25:11.17"
+msgid "Khamamānaṃ āha: ‘nakkhamatī’ti."
 msgstr "Or they say it doesn’t, even though it does."
 
-#, fuzzy
-msgctxt "dn25:30.5"
-msgid "‘nakkhamatī’ti."
-msgstr " "
-
-msgctxt "dn25:30.6"
-msgid "Iti so sampajānamusā bhāsitā hoti …"
+msgctxt "dn25:11.18"
+msgid "Iti so sampajānamusā bhāsitā hoti … pe …"
 msgstr "Thus they tell a deliberate lie."
 
-msgctxt "dn25:30.7"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:30.8"
+msgctxt "dn25:11.19"
 msgid "ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="26"></a><a class="wp" id="wp12"></a>
-msgctxt "dn25:31.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs12"></a>
+#. <a class="sc" id="sc26"></a>
+msgctxt "dn25:12.1"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tathāgatassa vā tathāgatasāvakassa vā "
-"dhammaṃ desentassa santaṃyeva pariyāyaṃ anuññeyyaṃ nānujānāti …"
+"dhammaṃ desentassa santaṃyeva pariyāyaṃ anuññeyyaṃ nānujānāti … pe …"
 msgstr ""
 "Furthermore, a mortifier disagrees with the way that the Realized One or "
 "their disciple teaches Dhamma, even when they make a valid point."
 
-msgctxt "dn25:31.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:31.3"
+msgctxt "dn25:12.2"
 msgid "ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="27"></a>
-msgctxt "dn25:32.1"
+#. </p><p>
+#. <a class="sc" id="sc27"></a>
+msgctxt "dn25:12.3"
 msgid "Puna caparaṃ, nigrodha, tapassī kodhano hoti upanāhī."
 msgstr "Furthermore, a mortifier is angry and hostile …"
 
-msgctxt "dn25:32.2"
+msgctxt "dn25:12.4"
 msgid "Yampi, nigrodha, tapassī kodhano hoti upanāhī."
 msgstr ""
 
-msgctxt "dn25:32.3"
+msgctxt "dn25:12.5"
 msgid "Ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr ""
 
-#. </p><p><a class="sc" id="28"></a>
+#. </p><p>
+#. <a class="sc" id="sc28"></a>
 #. VAR: paḷāsī → palāsī (s1-3, pts1)
-msgctxt "dn25:33.1"
-msgid "Puna caparaṃ, nigrodha, tapassī makkhī hoti paḷāsī …"
-msgstr "offensive and insolent …"
+msgctxt "dn25:12.6"
+msgid "Puna caparaṃ, nigrodha, tapassī makkhī hoti paḷāsī … pe …"
+msgstr "offensive and contemptuous …"
 
-msgctxt "dn25:33.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:33.3"
+msgctxt "dn25:12.7"
 msgid "issukī hoti maccharī …"
 msgstr "envious and stingy …"
 
-msgctxt "dn25:33.4"
+msgctxt "dn25:12.8"
 msgid "saṭho hoti māyāvī …"
-msgstr "manipulative and deceitful …"
+msgstr "devious and deceitful …"
 
-msgctxt "dn25:33.5"
+msgctxt "dn25:12.9"
 msgid "thaddho hoti atimānī …"
 msgstr "obstinate and vain …"
 
-msgctxt "dn25:33.6"
+msgctxt "dn25:12.10"
 msgid "pāpiccho hoti pāpikānaṃ icchānaṃ vasaṃ gato …"
 msgstr "they have wicked desires, falling under the sway of wicked desires …"
 
-msgctxt "dn25:33.7"
+msgctxt "dn25:12.11"
 msgid "micchādiṭṭhiko hoti antaggāhikāya diṭṭhiyā samannāgato …"
 msgstr "they have wrong view, being attached to an extremist view …"
 
-msgctxt "dn25:33.8"
+msgctxt "dn25:12.12"
 msgid "sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī."
 msgstr ""
 "they’re attached to their own views, holding them tight, and refusing to let "
 "go."
 
-msgctxt "dn25:33.9"
+msgctxt "dn25:12.13"
 msgid ""
 "Yampi, nigrodha, tapassī sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī."
 msgstr ""
 
-msgctxt "dn25:33.10"
+msgctxt "dn25:12.14"
 msgid "Ayampi kho, nigrodha, tapassino upakkileso hoti."
 msgstr "This too is a flaw in that mortifier."
 
-#. </p><p><a class="sc" id="29"></a>
+#. </p><p>
+#. <a class="sc" id="sc29"></a>
+msgctxt "dn25:12.15"
+msgid "Taṃ kiṃ maññasi, nigrodha, "
+msgstr "What do you think, Nigrodha? "
+
 #. VAR: upakkilesā → upakkilesā hoti (mr)
 #. VAR: tapojigucchā → tapojigucchāya (?)
-msgctxt "dn25:34.1"
-msgid ""
-"Taṃ kiṃ maññasi, nigrodha, yadime tapojigucchā upakkilesā vā anupakkilesā "
-"vā”ti?"
-msgstr "What do you think, Nigrodha? Are such mortifications flawed or not?”"
+msgctxt "dn25:12.16"
+msgid "yadime tapojigucchā upakkilesā vā anupakkilesā vā”ti?"
+msgstr "Are such mortifications flawed or not?”"
 
-msgctxt "dn25:34.2"
+msgctxt "dn25:12.17"
 msgid "“Addhā kho ime, bhante, tapojigucchā upakkilesā, no anupakkilesā."
-msgstr "“Clearly, sir, they’re flawed. "
+msgstr "“Clearly, sir, they’re flawed."
 
-msgctxt "dn25:34.3"
+msgctxt "dn25:12.18"
 msgid ""
 "Ṭhānaṃ kho panetaṃ, bhante, vijjati yaṃ idhekacco tapassī sabbeheva imehi "
 "upakkilesehi samannāgato assa;"
 msgstr "It’s possible that a mortifier might have all of these flaws,"
 
-msgctxt "dn25:34.4"
+msgctxt "dn25:12.19"
 msgid "ko pana vādo aññataraññatarenā”ti."
 msgstr "not to speak of one or other of them.”"
 
 #. </p><h3>
-msgctxt "dn25:35.1"
+msgctxt "dn25:12.20"
 msgid "2.2. Parisuddhapapaṭikappattakathā"
-msgstr "On Reaching the Shoots"
+msgstr "2.2. On Reaching the Shoots"
 
-#. </h3><p><a class="sc" id="30"></a><a class="wp" id="wp13"></a><a class="pts"
-#. id="pts3.46"></a>
-msgctxt "dn25:36.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs13"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.46"></a>
+#. <a class="sc" id="sc30"></a>
+msgctxt "dn25:13.1"
 msgid ""
 "“Idha, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā na attamano hoti "
 "na paripuṇṇasaṅkappo."
@@ -1047,132 +1061,115 @@ msgstr ""
 "“Firstly, Nigrodha, a mortifier undertakes a practice of mortification. But "
 "they’re not happy with that, as they still haven’t got all they wished for."
 
-msgctxt "dn25:36.2"
+msgctxt "dn25:13.2"
 msgid ""
 "Yampi, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā na attamano hoti "
 "na paripuṇṇasaṅkappo."
 msgstr ""
 
-msgctxt "dn25:36.3"
+msgctxt "dn25:13.3"
 msgid "Evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="31"></a>
-msgctxt "dn25:37.1"
+#. </p><p>
+#. <a class="sc" id="sc31"></a>
+msgctxt "dn25:13.4"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā na "
-"attānukkaṃseti na paraṃ vambheti …"
+"attānukkaṃseti na paraṃ vambheti … pe …"
 msgstr ""
 "Furthermore, a mortifier undertakes a practice of mortification. They don’t "
 "glorify themselves or put others down on account of that."
 
-msgctxt "dn25:37.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:37.3"
+msgctxt "dn25:13.5"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="32"></a>
-msgctxt "dn25:38.1"
+#. </p><p>
+#. <a class="sc" id="sc32"></a>
+msgctxt "dn25:13.6"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā na majjati "
-"na mucchati na pamādamāpajjati …"
+"na mucchati na pamādamāpajjati … pe …"
 msgstr "They don’t become indulgent …"
 
-msgctxt "dn25:38.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:38.3"
+msgctxt "dn25:13.7"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr ""
 
-#. </p><p><a class="sc" id="33"></a>
-msgctxt "dn25:39.1"
+#. </p><p>
+#. <a class="sc" id="sc33"></a>
+msgctxt "dn25:13.8"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena na attamano "
-"hoti na paripuṇṇasaṅkappo …"
+"hoti na paripuṇṇasaṅkappo … pe …"
 msgstr ""
 "Furthermore, a mortifier undertakes a practice of mortification. They "
 "generate possessions, honor, and popularity through that mortification. They’"
 "re not happy with that, as they still haven’t got all they wished for …"
 
-msgctxt "dn25:39.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:39.3"
+msgctxt "dn25:13.9"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr ""
 
-#. </p><p><a class="sc" id="34"></a>
-msgctxt "dn25:40.1"
+#. </p><p>
+#. <a class="sc" id="sc34"></a>
+msgctxt "dn25:13.10"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena na "
-"attānukkaṃseti na paraṃ vambheti …"
+"attānukkaṃseti na paraṃ vambheti … pe …"
 msgstr ""
 "They don’t glorify themselves and put others down on account of possessions, "
 "honor, and popularity …"
 
-msgctxt "dn25:40.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:40.3"
+msgctxt "dn25:13.11"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr ""
 
-#. </p><p><a class="sc" id="35"></a>
-msgctxt "dn25:41.1"
+#. </p><p>
+#. <a class="sc" id="sc35"></a>
+msgctxt "dn25:13.12"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tapaṃ samādiyati, so tena tapasā "
 "lābhasakkārasilokaṃ abhinibbatteti, so tena lābhasakkārasilokena na majjati "
-"na mucchati na pamādamāpajjati …"
+"na mucchati na pamādamāpajjati … pe …"
 msgstr "They don’t become indulgent because of it …"
 
-msgctxt "dn25:41.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:41.3"
+msgctxt "dn25:13.13"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="36"></a>
-msgctxt "dn25:42.1"
+#. </p><p>
+#. <a class="sc" id="sc36"></a>
+msgctxt "dn25:13.14"
 msgid "Puna caparaṃ, nigrodha, tapassī bhojanesu na vodāsaṃ āpajjati:"
 msgstr "Furthermore, a mortifier doesn’t become fussy about food, saying:"
 
-msgctxt "dn25:42.2"
+msgctxt "dn25:13.15"
 msgid "‘idaṃ me khamati, idaṃ me nakkhamatī’ti."
 msgstr "‘This agrees with me, this doesn’t agree with me.’"
 
-msgctxt "dn25:42.3"
+msgctxt "dn25:13.16"
 msgid "So yañca khvassa nakkhamati, taṃ anapekkho pajahati."
 msgstr "What doesn’t agree with them they readily give up."
 
-msgctxt "dn25:42.4"
+msgctxt "dn25:13.17"
 msgid ""
 "Yaṃ panassa khamati, taṃ agadhito amucchito anajjhāpanno ādīnavadassāvī "
-"nissaraṇapañño paribhuñjati …"
+"nissaraṇapañño paribhuñjati … pe …"
 msgstr ""
 "But what does agree with them they eat without being tied, stupefied, "
 "attached, blind to the drawbacks, and not understanding the escape."
 
-msgctxt "dn25:42.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:42.6"
+msgctxt "dn25:13.18"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="37"></a>
-msgctxt "dn25:43.1"
+#. </p><p>
+#. <a class="sc" id="sc37"></a>
+msgctxt "dn25:13.19"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī na tapaṃ samādiyati "
 "lābhasakkārasilokanikantihetu:"
@@ -1180,249 +1177,226 @@ msgstr ""
 "Furthermore, a mortifier doesn’t undertake a practice of mortification out "
 "of longing for possessions, honor, and popularity …"
 
-msgctxt "dn25:43.2"
+msgctxt "dn25:13.20"
 msgid ""
 "‘sakkarissanti maṃ rājāno rājamahāmattā khattiyā brāhmaṇā gahapatikā "
-"titthiyā’ti …"
+"titthiyā’ti … pe …"
 msgstr ""
 "‘Kings, royal ministers, aristocrats, brahmins, householders, and sectarians "
 "will honor me!’"
 
-msgctxt "dn25:43.3"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:43.4"
+msgctxt "dn25:13.21"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="38"></a><a class="pts" id="pts3.47"></a>
-msgctxt "dn25:44.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.47"></a>
+#. <a class="sc" id="sc38"></a>
+msgctxt "dn25:13.22"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī aññataraṃ samaṇaṃ vā brāhmaṇaṃ vā nāpasādetā "
 "hoti:"
 msgstr "Furthermore, a mortifier doesn’t rebuke a certain ascetic or brahmin:"
 
-msgctxt "dn25:44.2"
+msgctxt "dn25:13.23"
 msgid "‘kiṃ panāyaṃ sambahulājīvo sabbaṃ sambhakkheti."
 msgstr ""
 "‘But what is this one doing, living in abundance! According to this ascetic’"
 "s doctrine, everything—"
 
-msgctxt "dn25:44.3"
-msgid "Seyyathidaṃ—"
-msgstr ""
-
-msgctxt "dn25:44.4"
+msgctxt "dn25:13.24"
 msgid ""
-"mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva pañcamaṃ, "
-"asanivicakkaṃ dantakūṭaṃ, samaṇappavādenā’ti …"
+"Seyyathidaṃ—mūlabījaṃ khandhabījaṃ phaḷubījaṃ aggabījaṃ bījabījameva "
+"pañcamaṃ, asanivicakkaṃ dantakūṭaṃ, samaṇappavādenā’ti … pe …"
 msgstr ""
 "plants propagated from roots, stems, cuttings, or joints; and those from "
 "regular seeds as the fifth—is crunched together like the thunder of a tooth-"
 "hammer!’"
 
-msgctxt "dn25:44.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:44.6"
+msgctxt "dn25:13.25"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="39"></a><a class="wp" id="wp14"></a>
-msgctxt "dn25:45.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs14"></a>
+#. <a class="sc" id="sc39"></a>
+msgctxt "dn25:14.1"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī passati aññataraṃ samaṇaṃ vā brāhmaṇaṃ vā "
 "kulesu sakkariyamānaṃ garu kariyamānaṃ māniyamānaṃ pūjiyamānaṃ."
 msgstr ""
 "Furthermore, a mortifier sees a certain ascetic or brahmin being honored, "
-"respected, esteemed, and venerated among respectable families."
+"respected, esteemed, and venerated among good families."
 
-msgctxt "dn25:45.2"
+msgctxt "dn25:14.2"
 msgid "Disvā tassa na evaṃ hoti:"
 msgstr "It never occurs to them:"
 
-msgctxt "dn25:45.3"
+msgctxt "dn25:14.3"
 msgid ""
 "‘imañhi nāma sambahulājīvaṃ kulesu sakkaronti garuṃ karonti mānenti pūjenti."
 msgstr ""
 "‘This one, who lives in abundance, is honored, respected, esteemed, and "
-"venerated among respectable families."
+"venerated among good families."
 
-msgctxt "dn25:45.4"
+msgctxt "dn25:14.4"
 msgid ""
 "Maṃ pana tapassiṃ lūkhājīviṃ kulesu na sakkaronti na garuṃ karonti na "
-"mānenti na pūjentī’ti, iti so issāmacchariyaṃ kulesu nuppādetā hoti …"
+"mānenti na pūjentī’ti, iti so issāmacchariyaṃ kulesu nuppādetā hoti … pe …"
 msgstr ""
 "But I, a self-mortifier who lives rough, am not honored, respected, "
-"esteemed, and venerated among respectable families.’ Thus they don’t give "
-"rise to envy and jealousy regarding families."
+"esteemed, and venerated among good families.’ Thus they don’t give rise to "
+"envy and jealousy regarding families."
 
-msgctxt "dn25:45.5"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:45.6"
+msgctxt "dn25:14.5"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="40"></a>
-msgctxt "dn25:46.1"
-msgid "Puna caparaṃ, nigrodha, tapassī na āpāthakanisādī hoti …"
+#. </p><p>
+#. <a class="sc" id="sc40"></a>
+msgctxt "dn25:14.6"
+msgid "Puna caparaṃ, nigrodha, tapassī na āpāthakanisādī hoti … pe …"
 msgstr ""
 "Furthermore, a mortifier doesn’t sit meditation only when people can see "
 "them."
 
-msgctxt "dn25:46.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:46.3"
+msgctxt "dn25:14.7"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="41"></a>
-msgctxt "dn25:47.1"
+#. </p><p>
+#. <a class="sc" id="sc41"></a>
+msgctxt "dn25:14.8"
 msgid "Puna caparaṃ, nigrodha, tapassī na attānaṃ adassayamāno kulesu carati:"
 msgstr "Furthermore, a mortifier doesn’t sneak about among families, thinking:"
 
-msgctxt "dn25:47.2"
-msgid "‘idampi me tapasmiṃ, idampi me tapasmin’ti …"
+msgctxt "dn25:14.9"
+msgid "‘idampi me tapasmiṃ, idampi me tapasmin’ti … pe …"
 msgstr "‘This is part of my mortification; this is part of my mortification.’"
 
-msgctxt "dn25:47.3"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:47.4"
+msgctxt "dn25:14.10"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="42"></a>
-msgctxt "dn25:48.1"
+#. </p><p>
+#. <a class="sc" id="sc42"></a>
+msgctxt "dn25:14.11"
 msgid "Puna caparaṃ, nigrodha, tapassī na kiñcideva paṭicchannaṃ sevati, so:"
 msgstr "Furthermore, a mortifier never behaves in an underhand manner."
 
-msgctxt "dn25:48.2"
+msgctxt "dn25:14.12"
 msgid "‘khamati te idan’ti puṭṭho samāno akkhamamānaṃ āha:"
 msgstr ""
 "When asked whether something agrees with them, they say it doesn’t when it "
 "doesn’t."
 
-msgctxt "dn25:48.3"
+msgctxt "dn25:14.13"
 msgid "‘nakkhamatī’ti."
 msgstr ""
 
-msgctxt "dn25:48.4"
+msgctxt "dn25:14.14"
 msgid "Khamamānaṃ āha:"
 msgstr "Or they say it does when it does."
 
-msgctxt "dn25:48.5"
+msgctxt "dn25:14.15"
 msgid "‘khamatī’ti."
 msgstr ""
 
-msgctxt "dn25:48.6"
-msgid "Iti so sampajānamusā na bhāsitā hoti …"
+msgctxt "dn25:14.16"
+msgid "Iti so sampajānamusā na bhāsitā hoti … pe …"
 msgstr "Thus they don’t tell a deliberate lie."
 
-msgctxt "dn25:48.7"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:48.8"
+msgctxt "dn25:14.17"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="43"></a><a class="wp" id="wp15"></a>
-msgctxt "dn25:49.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs15"></a>
+#. <a class="sc" id="sc43"></a>
+msgctxt "dn25:15.1"
 msgid ""
 "Puna caparaṃ, nigrodha, tapassī tathāgatassa vā tathāgatasāvakassa vā "
-"dhammaṃ desentassa santaṃyeva pariyāyaṃ anuññeyyaṃ anujānāti …"
+"dhammaṃ desentassa santaṃyeva pariyāyaṃ anuññeyyaṃ anujānāti … pe …"
 msgstr ""
 "Furthermore, a mortifier agrees with the way that the Realized One or their "
 "disciple teaches Dhamma when they make a valid point."
 
-msgctxt "dn25:49.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:49.3"
+msgctxt "dn25:15.2"
 msgid "evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="44"></a>
-msgctxt "dn25:50.1"
+#. </p><p>
+#. <a class="sc" id="sc44"></a>
+msgctxt "dn25:15.3"
 msgid "Puna caparaṃ, nigrodha, tapassī akkodhano hoti anupanāhī."
 msgstr "Furthermore, a mortifier is not angry and hostile …"
 
-msgctxt "dn25:50.2"
+msgctxt "dn25:15.4"
 msgid ""
 "Yampi, nigrodha, tapassī akkodhano hoti anupanāhī evaṃ so tasmiṃ ṭhāne "
 "parisuddho hoti."
 msgstr ""
 
-#. </p><p><a class="sc" id="45"></a><a class="pts" id="pts3.48"></a>
-msgctxt "dn25:51.1"
-msgid "Puna caparaṃ, nigrodha, tapassī amakkhī hoti apaḷāsī …"
-msgstr "offensive and insolent …"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.48"></a>
+#. <a class="sc" id="sc45"></a>
+msgctxt "dn25:15.5"
+msgid "Puna caparaṃ, nigrodha, tapassī amakkhī hoti apaḷāsī … pe …"
+msgstr "offensive and contemptuous …"
 
-msgctxt "dn25:51.2"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:51.3"
+msgctxt "dn25:15.6"
 msgid "anissukī hoti amaccharī …"
 msgstr "envious and stingy …"
 
-msgctxt "dn25:51.4"
+msgctxt "dn25:15.7"
 msgid "asaṭho hoti amāyāvī …"
-msgstr "manipulative and deceitful …"
+msgstr "devious and deceitful …"
 
-msgctxt "dn25:51.5"
+msgctxt "dn25:15.8"
 msgid "atthaddho hoti anatimānī …"
 msgstr "obstinate and vain …"
 
-msgctxt "dn25:51.6"
+msgctxt "dn25:15.9"
 msgid "na pāpiccho hoti na pāpikānaṃ icchānaṃ vasaṃ gato …"
 msgstr "they don’t have wicked desires …"
 
-msgctxt "dn25:51.7"
+msgctxt "dn25:15.10"
 msgid "na micchādiṭṭhiko hoti na antaggāhikāya diṭṭhiyā samannāgato …"
 msgstr "and wrong view …"
 
-msgctxt "dn25:51.8"
+msgctxt "dn25:15.11"
 msgid "na sandiṭṭhiparāmāsī hoti na ādhānaggāhī suppaṭinissaggī."
 msgstr ""
 "they’re not attached to their own views, holding them tight, and refusing to "
 "let go."
 
-msgctxt "dn25:51.9"
+msgctxt "dn25:15.12"
 msgid ""
 "Yampi, nigrodha, tapassī na sandiṭṭhiparāmāsī hoti na ādhānaggāhī "
 "suppaṭinissaggī."
 msgstr ""
 
-msgctxt "dn25:51.10"
+msgctxt "dn25:15.13"
 msgid "Evaṃ so tasmiṃ ṭhāne parisuddho hoti."
 msgstr "So they’re pure on that point."
 
-#. </p><p><a class="sc" id="46"></a>
-msgctxt "dn25:52.1"
-msgid ""
-"Taṃ kiṃ maññasi, nigrodha, yadi evaṃ sante tapojigucchā parisuddhā vā hoti "
-"aparisuddhā vā”ti?"
-msgstr ""
-"What do you think, Nigrodha? If this is so, is the mortification in disgust "
-"of sin purified or not?”"
+#. </p><p>
+#. <a class="sc" id="sc46"></a>
+msgctxt "dn25:15.14"
+msgid "Taṃ kiṃ maññasi, nigrodha, "
+msgstr "What do you think, Nigrodha? "
 
-msgctxt "dn25:52.2"
+msgctxt "dn25:15.15"
+msgid "yadi evaṃ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti?"
+msgstr "If this is so, is the mortification in disgust of sin purified or not?”"
+
+msgctxt "dn25:15.16"
 msgid ""
 "“Addhā kho, bhante, evaṃ sante tapojigucchā parisuddhā hoti no aparisuddhā, "
 "aggappattā ca sārappattā cā”ti."
 msgstr "“Clearly, sir, it is purified. It has reached the peak and the pith.”"
 
-msgctxt "dn25:52.3"
+msgctxt "dn25:15.17"
 msgid ""
 "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca;"
 msgstr ""
@@ -1430,43 +1404,46 @@ msgstr ""
 "reached the peak and the pith."
 
 #. VAR: papaṭikappattā → pappaṭikapattā (s1-3, mr) | papaṭikapattā (pts1)
-msgctxt "dn25:52.4"
+msgctxt "dn25:15.18"
 msgid "api ca kho papaṭikappattā hotī”ti."
 msgstr "Rather, it has only reached the shoots.”"
 
 #. </p><h3>
-msgctxt "dn25:53.1"
+msgctxt "dn25:15.19"
 msgid "2.3. Parisuddhatacappattakathā"
-msgstr "On Reaching the Bark"
+msgstr "2.3. On Reaching the Bark"
 
-#. </h3><p><a class="sc" id="47"></a><a class="wp" id="wp16"></a>
-#. VAR: aggappattā ca hoti sārappattā ca → aggappattā ca sārappattā ca hoti
-#. (s1-3, c1)
-msgctxt "dn25:54.1"
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs16"></a>
+#. <a class="sc" id="sc47"></a>
+#. VAR: aggappattā ca hoti sārappattā ca → aggappattā ca sārappattā ca hoti (s1-3, c1)
+msgctxt "dn25:16.1"
 msgid "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca?"
 msgstr ""
 "“But at what point, sir, does the mortification in disgust of sin reach the "
 "peak and the pith?"
 
-msgctxt "dn25:54.2"
+msgctxt "dn25:16.2"
 msgid ""
 "Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva "
 "pāpetū”ti."
 msgstr "Please help me reach the peak and the pith!”"
 
-#. </p><p><a class="sc" id="48"></a><a class="pts" id="pts3.49"></a>
-msgctxt "dn25:55.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.49"></a>
+#. <a class="sc" id="sc48"></a>
+msgctxt "dn25:16.3"
 msgid "“Idha, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti."
 msgstr ""
 "“Nigrodha, take a mortifier who is restrained in the fourfold restraint."
 
-msgctxt "dn25:55.2"
+msgctxt "dn25:16.4"
 msgid "Kathañca, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti?"
 msgstr "And how is a mortifier restrained in the fourfold restraint?"
 
 # Cp AN 3.163
 #. VAR: atipāteti → atipāpeti (si, pts1, mr)
-msgctxt "dn25:55.3"
+msgctxt "dn25:16.5"
 msgid ""
 "Idha, nigrodha, tapassī na pāṇaṃ atipāteti, na pāṇaṃ atipātayati, na "
 "pāṇamatipātayato samanuñño hoti."
@@ -1474,40 +1451,41 @@ msgstr ""
 "It’s when a mortifier doesn’t kill living creatures, doesn’t get others to "
 "kill, and doesn’t approve of killing."
 
-msgctxt "dn25:55.4"
+msgctxt "dn25:16.6"
 msgid ""
 "Na adinnaṃ ādiyati, na adinnaṃ ādiyāpeti, na adinnaṃ ādiyato samanuñño hoti."
 msgstr "They don’t steal, get others to steal, or approve of stealing."
 
-msgctxt "dn25:55.5"
+msgctxt "dn25:16.7"
 msgid "Na musā bhaṇati, na musā bhaṇāpeti, na musā bhaṇato samanuñño hoti."
 msgstr "They don’t lie, get others to lie, or approve of lying."
 
-# This term is unique. Comm has "Na bhāvitamāsīsatīti bhāvitaṃ nāma tesaṃ saññāya pañca kāmaguṇā, te na āsīsati na sevatīti attho."
-msgctxt "dn25:55.6"
+# This term is unique. Comm has “Na bhāvitamāsīsatīti bhāvitaṃ nāma tesaṃ saññāya pañca kāmaguṇā, te na āsīsati na sevatīti attho.”
+msgctxt "dn25:16.8"
 msgid ""
 "Na bhāvitamāsīsati, na bhāvitamāsīsāpeti, na bhāvitamāsīsato samanuñño hoti."
 msgstr ""
-"They don’t expect rewards from their practice, they don’t lead other others "
-"to expect rewards, and they don’t approve of expecting rewards."
+"They don’t expect rewards from their practice, they don’t lead others to "
+"expect rewards, and they don’t approve of expecting rewards."
 
-msgctxt "dn25:55.7"
+msgctxt "dn25:16.9"
 msgid "Evaṃ kho, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti."
 msgstr "That’s how a mortifier is restrained in the fourfold restraint."
 
-#. </p><p><a class="sc" id="49"></a>
-msgctxt "dn25:56.1"
+#. </p><p>
+#. <a class="sc" id="sc49"></a>
+msgctxt "dn25:16.10"
 msgid ""
 "Yato kho, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti, aduṃ cassa hoti "
 "tapassitāya."
 msgstr ""
 "When a mortifier has the fourfold restraint, that is their mortification."
 
-msgctxt "dn25:56.2"
+msgctxt "dn25:16.11"
 msgid "So abhiharati no hīnāyāvattati."
 msgstr "They step forward, not falling back."
 
-msgctxt "dn25:56.3"
+msgctxt "dn25:16.12"
 msgid ""
 "So vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ "
 "giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ."
@@ -1516,15 +1494,15 @@ msgstr ""
 "ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of "
 "straw."
 
-msgctxt "dn25:56.4"
+msgctxt "dn25:16.13"
 msgid ""
 "So pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ "
 "paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā."
 msgstr ""
-"After the meal, they return from alms-round, sit down in the meditation "
-"posture with their body erect, and establish mindfulness right there."
+"After the meal, they return from alms-round, sit down cross-legged with "
+"their body straight, and establish mindfulness right there."
 
-msgctxt "dn25:56.5"
+msgctxt "dn25:16.14"
 msgid ""
 "So abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṃ "
 "parisodheti."
@@ -1532,7 +1510,7 @@ msgstr ""
 "Giving up desire for the world, they meditate with a heart rid of desire, "
 "cleansing the mind of desire."
 
-msgctxt "dn25:56.6"
+msgctxt "dn25:16.15"
 msgid ""
 "Byāpādappadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī, "
 "byāpādappadosā cittaṃ parisodheti."
@@ -1541,7 +1519,7 @@ msgstr ""
 "will, full of compassion for all creatures, cleansing the mind of ill will."
 
 #. VAR: Thinamiddhaṃ → thīnamiddhaṃ (bj, s1-3, pts1)
-msgctxt "dn25:56.7"
+msgctxt "dn25:16.16"
 msgid ""
 "Thinamiddhaṃ pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno, "
 "thinamiddhā cittaṃ parisodheti."
@@ -1550,7 +1528,7 @@ msgstr ""
 "and drowsiness, perceiving light, mindful and aware, cleansing the mind of "
 "dullness and drowsiness."
 
-msgctxt "dn25:56.8"
+msgctxt "dn25:16.17"
 msgid ""
 "Uddhaccakukkuccaṃ pahāya anuddhato viharati ajjhattaṃ vūpasantacitto, "
 "uddhaccakukkuccā cittaṃ parisodheti."
@@ -1558,67 +1536,50 @@ msgstr ""
 "Giving up restlessness and remorse, they meditate without restlessness, "
 "their mind peaceful inside, cleansing the mind of restlessness and remorse."
 
-msgctxt "dn25:56.9"
+msgctxt "dn25:16.18"
 msgid ""
 "Vicikicchaṃ pahāya tiṇṇavicikiccho viharati akathaṃkathī kusalesu dhammesu, "
 "vicikicchāya cittaṃ parisodheti."
 msgstr ""
 "Giving up doubt, they meditate having gone beyond doubt, not undecided about "
-"wholesome qualities, cleansing the mind of doubt."
+"skillful qualities, cleansing the mind of doubt."
 
-#. </p><p><a class="sc" id="50"></a><a class="wp" id="wp17"></a><a class="pts"
-#. id="pts3.50"></a>
-#, fuzzy
-msgctxt "dn25:57.1"
-msgid ""
-"So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
-"mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati."
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs17"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.50"></a>
+#. <a class="sc" id="sc50"></a>
+msgctxt "dn25:17.1"
+msgid "So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe"
 msgstr ""
 "They give up these five hindrances, corruptions of the heart that weaken "
-"wisdom. "
+"wisdom."
 
-msgctxt "dn25:57.2"
-msgid "Tathā dutiyaṃ."
+msgctxt "dn25:17.2"
+msgid ""
+"mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati. Tathā dutiyaṃ. Tathā "
+"tatiyaṃ. Tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya "
+"sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena "
+"averena abyāpajjena pharitvā viharati."
 msgstr ""
 "Then they meditate spreading a heart full of love to one direction, and to "
 "the second, and to the third, and to the fourth. In the same way above, "
 "below, across, everywhere, all around, they spread a heart full of love to "
 "the whole world—abundant, expansive, limitless, free of enmity and ill will."
 
-#, fuzzy
-msgctxt "dn25:57.3"
-msgid "Tathā tatiyaṃ."
-msgstr " "
-
-msgctxt "dn25:57.4"
-msgid "Tathā catutthaṃ."
-msgstr ""
-
-msgctxt "dn25:57.5"
-msgid ""
-"Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ "
-"mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena "
-"pharitvā viharati."
-msgstr ""
-
-msgctxt "dn25:57.6"
-msgid "Karuṇāsahagatena cetasā …"
+msgctxt "dn25:17.3"
+msgid "Karuṇāsahagatena cetasā … pe …"
 msgstr "They meditate spreading a heart full of compassion …"
 
-msgctxt "dn25:57.7"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:57.8"
-msgid "muditāsahagatena cetasā …"
+msgctxt "dn25:17.4"
+msgid "muditāsahagatena cetasā … pe …"
 msgstr "They meditate spreading a heart full of rejoicing …"
 
-msgctxt "dn25:57.9"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:57.10"
-msgid "upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati."
+msgctxt "dn25:17.5"
+msgid ""
+"upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati. Tathā dutiyaṃ. Tathā "
+"tatiyaṃ. Tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya "
+"sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena "
+"averena abyāpajjena pharitvā viharati."
 msgstr ""
 "They meditate spreading a heart full of equanimity to one direction, and to "
 "the second, and to the third, and to the fourth. In the same way above, "
@@ -1626,371 +1587,287 @@ msgstr ""
 "equanimity to the whole world—abundant, expansive, limitless, free of enmity "
 "and ill will."
 
-msgctxt "dn25:57.11"
-msgid "Tathā dutiyaṃ."
-msgstr ""
-
-msgctxt "dn25:57.12"
-msgid "Tathā tatiyaṃ."
-msgstr ""
-
-msgctxt "dn25:57.13"
-msgid "Tathā catutthaṃ."
-msgstr ""
-
-msgctxt "dn25:57.14"
-msgid ""
-"Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ "
-"upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena "
-"pharitvā viharati."
-msgstr ""
-
-#. </p><p><a class="sc" id="51"></a>
-msgctxt "dn25:58.1"
+#. </p><p>
+#. <a class="sc" id="sc51"></a>
+msgctxt "dn25:17.6"
 msgid "Taṃ kiṃ maññasi, nigrodha."
 msgstr "What do you think, Nigrodha?"
 
-msgctxt "dn25:58.2"
+msgctxt "dn25:17.7"
 msgid "Yadi evaṃ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti?"
 msgstr "If this is so, is the mortification in disgust of sin purified or not?”"
 
-msgctxt "dn25:58.3"
+msgctxt "dn25:17.8"
 msgid ""
 "“Addhā kho, bhante, evaṃ sante tapojigucchā parisuddhā hoti no aparisuddhā, "
 "aggappattā ca sārappattā cā”ti."
 msgstr "“Clearly, sir, it is purified. It has reached the peak and the pith.”"
 
-msgctxt "dn25:58.4"
+msgctxt "dn25:17.9"
 msgid ""
 "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca;"
 msgstr ""
 "“No, Nigrodha, at this point the mortification in disgust of sin has not yet "
 "reached the peak and the pith."
 
-msgctxt "dn25:58.5"
+msgctxt "dn25:17.10"
 msgid "api ca kho tacappattā hotī”ti."
 msgstr "Rather, it has only reached the bark.”"
 
 #. </p><h3>
-msgctxt "dn25:59.1"
+msgctxt "dn25:17.11"
 msgid "2.4. Parisuddhaphegguppattakathā"
-msgstr "On Reaching the Softwood"
+msgstr "2.4. On Reaching the Softwood"
 
-#. </h3><p><a class="sc" id="52"></a><a class="wp" id="wp18"></a>
+#. </h3><p>
+#. <a class="pts-cs" id="pts-cs18"></a>
+#. <a class="sc" id="sc52"></a>
 #. VAR: pana → ca kho pana (bj) | kho pana (c1)
-msgctxt "dn25:60.1"
+msgctxt "dn25:18.1"
 msgid "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca?"
 msgstr ""
 "“But at what point, sir, does the mortification in disgust of sin reach the "
 "peak and the pith?"
 
-msgctxt "dn25:60.2"
+msgctxt "dn25:18.2"
 msgid ""
 "Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva "
 "pāpetū”ti."
 msgstr "Please help me reach the peak and the pith!”"
 
-#. </p><p><a class="sc" id="53"></a><a class="pts" id="pts3.51"></a>
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.51"></a>
+#. <a class="sc" id="sc53"></a>
 #. VAR: tapassī → tapassī evaṃ (bj, c1)
-msgctxt "dn25:61.1"
+msgctxt "dn25:18.3"
 msgid "“Idha, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti."
 msgstr ""
 "“Nigrodha, take a mortifier who is restrained in the fourfold restraint."
 
 #. VAR: Kathañca → kathañca pana (bj, c1)
-msgctxt "dn25:61.2"
-msgid "Kathañca, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti …"
+msgctxt "dn25:18.4"
+msgid "Kathañca, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti … pe …"
 msgstr ""
 
-msgctxt "dn25:61.3"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:61.4"
+msgctxt "dn25:18.5"
 msgid ""
 "yato kho, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti, aduṃ cassa hoti "
 "tapassitāya."
 msgstr ""
 
-msgctxt "dn25:61.5"
+msgctxt "dn25:18.6"
 msgid "So abhiharati no hīnāyāvattati."
 msgstr ""
 
-msgctxt "dn25:61.6"
-msgid "So vivittaṃ senāsanaṃ bhajati …"
+msgctxt "dn25:18.7"
+msgid "So vivittaṃ senāsanaṃ bhajati … pe …"
 msgstr ""
 
-msgctxt "dn25:61.7"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:61.8"
-msgid ""
-"so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
-"mettāsahagatena cetasā …"
+msgctxt "dn25:18.8"
+msgid "so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
 msgstr ""
 "They give up these five hindrances, corruptions of the heart that weaken "
-"wisdom. Then they meditate spreading a heart full of love …"
+"wisdom. "
 
-msgctxt "dn25:61.9"
-msgid "pe …"
-msgstr ""
+msgctxt "dn25:18.9"
+msgid "mettāsahagatena cetasā … pe …"
+msgstr "Then they meditate spreading a heart full of love …"
 
-msgctxt "dn25:61.10"
-msgid "karuṇāsahagatena cetasā …"
+msgctxt "dn25:18.10"
+msgid "karuṇāsahagatena cetasā … pe …"
 msgstr "compassion …"
 
-msgctxt "dn25:61.11"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:61.12"
-msgid "muditāsahagatena cetasā …"
+msgctxt "dn25:18.11"
+msgid "muditāsahagatena cetasā … pe …"
 msgstr "rejoicing …"
 
-msgctxt "dn25:61.13"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:61.14"
+msgctxt "dn25:18.12"
 msgid ""
 "upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena "
 "pharitvā viharati."
 msgstr "equanimity."
 
-msgctxt "dn25:61.15"
-msgid "So anekavihitaṃ pubbenivāsaṃ anussarati seyyathidaṃ—"
-msgstr "They recollect many kinds of past lives, that is,"
-
-msgctxt "dn25:61.16"
+msgctxt "dn25:18.13"
 msgid ""
-"ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo "
-"dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi "
-"jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe "
-"anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe:"
+"So anekavihitaṃ pubbenivāsaṃ anussarati seyyathidaṃ—ekampi jātiṃ dvepi "
+"jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi "
+"jātiyo tiṃsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi "
+"jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe "
+"anekepi saṃvaṭṭavivaṭṭakappe: ‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo "
+"evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra "
+"udapādiṃ, tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. "
+"Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
 msgstr ""
-"one, two, three, four, five, ten, twenty, thirty, forty, fifty, a hundred, a "
-"thousand, a hundred thousand lives; many eons of the world contracting, many "
-"eons of the world evolving, many eons of the world contracting and evolving. "
-"They remember: "
-
-msgctxt "dn25:61.17"
-msgid ""
-"‘amutrāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro "
-"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra udapādiṃ, "
-"tatrāpāsiṃ evaṃnāmo evaṃgotto evaṃvaṇṇo evamāhāro "
-"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti."
-msgstr ""
-"‘There, I was named this, my clan was that, I looked like this, and that was "
-"my food. This was how I felt pleasure and pain, and that was how my life "
-"ended. When I passed away from that place I was reborn somewhere else. "
-"There, too, I was named this, my clan was that, I looked like this, and that "
-"was my food. This was how I felt pleasure and pain, and that was how my life "
-"ended. When I passed away from that place I was reborn here.’"
-
-msgctxt "dn25:61.18"
-msgid "Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
-msgstr ""
+"They recollect many kinds of past lives, that is, one, two, three, four, "
+"five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred "
+"thousand rebirths; many eons of the world contracting, many eons of the "
+"world evolving, many eons of the world contracting and evolving. They "
+"remember: ‘There, I was named this, my clan was that, I looked like this, "
+"and that was my food. This was how I felt pleasure and pain, and that was "
+"how my life ended. When I passed away from that place I was reborn somewhere "
+"else. There, too, I was named this, my clan was that, I looked like this, "
+"and that was my food. This was how I felt pleasure and pain, and that was "
+"how my life ended. When I passed away from that place I was reborn here.’ "
 "And so they recollect their many kinds of past lives, with features and "
-"details. "
+"details."
 
-#. </p><p><a class="sc" id="54"></a>
-msgctxt "dn25:62.1"
-msgid ""
-"Taṃ kiṃ maññasi, nigrodha, yadi evaṃ sante tapojigucchā parisuddhā vā hoti "
-"aparisuddhā vā”ti?"
-msgstr ""
-"What do you think, Nigrodha? If this is so, is the mortification in disgust "
-"of sin purified or not?”"
+#. </p><p>
+#. <a class="sc" id="sc54"></a>
+msgctxt "dn25:18.14"
+msgid "Taṃ kiṃ maññasi, nigrodha, "
+msgstr "What do you think, Nigrodha? "
 
-msgctxt "dn25:62.2"
+msgctxt "dn25:18.15"
+msgid "yadi evaṃ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti?"
+msgstr "If this is so, is the mortification in disgust of sin purified or not?”"
+
+msgctxt "dn25:18.16"
 msgid ""
 "“Addhā kho, bhante, evaṃ sante tapojigucchā parisuddhā hoti, no aparisuddhā, "
 "aggappattā ca sārappattā cā”ti."
 msgstr "“Clearly, sir, it is purified. It has reached the peak and the pith.”"
 
-msgctxt "dn25:62.3"
+msgctxt "dn25:18.17"
 msgid ""
 "“Na kho, nigrodha, ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca;"
 msgstr ""
 "“No, Nigrodha, at this point the mortification in disgust of sin has not yet "
 "reached the peak and the pith."
 
-msgctxt "dn25:62.4"
+msgctxt "dn25:18.18"
 msgid "api ca kho phegguppattā hotī”ti."
 msgstr "Rather, it has only reached the softwood.”"
 
 #. </p><h2>
-msgctxt "dn25:63.1"
+msgctxt "dn25:18.19"
 msgid "3. Parisuddhaaggappattasārappattakathā"
-msgstr "On Reaching the Heartwood"
+msgstr "3. On Reaching the Heartwood"
 
-#. </h2><p><a class="sc" id="55"></a><a class="wp" id="wp19"></a>
-msgctxt "dn25:64.1"
+#. </h2><p>
+#. <a class="pts-cs" id="pts-cs19"></a>
+#. <a class="sc" id="sc55"></a>
+msgctxt "dn25:19.1"
 msgid "“Kittāvatā pana, bhante, tapojigucchā aggappattā ca hoti sārappattā ca?"
 msgstr ""
 "“But at what point, sir, does the mortification in disgust of sin reach the "
 "peak and the pith?"
 
-msgctxt "dn25:64.2"
+msgctxt "dn25:19.2"
 msgid ""
 "Sādhu me, bhante, bhagavā tapojigucchāya aggaññeva pāpetu, sāraññeva "
 "pāpetū”ti."
 msgstr "Please help me reach the peak and the pith!”"
 
-#. </p><p><a class="sc" id="56"></a><a class="pts" id="pts3.52"></a>
-msgctxt "dn25:65.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.52"></a>
+#. <a class="sc" id="sc56"></a>
+msgctxt "dn25:19.3"
 msgid "“Idha, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti."
 msgstr ""
 "“Nigrodha, take a mortifier who is restrained in the fourfold restraint."
 
-msgctxt "dn25:65.2"
-msgid "Kathañca, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti …"
+msgctxt "dn25:19.4"
+msgid "Kathañca, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti … pe …"
 msgstr ""
 
-msgctxt "dn25:65.3"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:65.4"
+msgctxt "dn25:19.5"
 msgid ""
 "yato kho, nigrodha, tapassī cātuyāmasaṃvarasaṃvuto hoti, aduṃ cassa hoti "
 "tapassitāya."
 msgstr ""
 
-msgctxt "dn25:65.5"
+msgctxt "dn25:19.6"
 msgid "So abhiharati no hīnāyāvattati."
 msgstr ""
 
-msgctxt "dn25:65.6"
-msgid "So vivittaṃ senāsanaṃ bhajati …"
+msgctxt "dn25:19.7"
+msgid "So vivittaṃ senāsanaṃ bhajati … pe …"
 msgstr ""
 
-msgctxt "dn25:65.7"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:65.8"
-msgid ""
-"so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
-"mettāsahagatena cetasā …"
+msgctxt "dn25:19.8"
+msgid "so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
 msgstr ""
 "They give up these five hindrances, corruptions of the heart that weaken "
-"wisdom. Then they meditate spreading a heart full of love …"
+"wisdom. "
 
-msgctxt "dn25:65.9"
-msgid "pe …"
-msgstr ""
+msgctxt "dn25:19.9"
+msgid "mettāsahagatena cetasā … pe …"
+msgstr "Then they meditate spreading a heart full of love …"
 
-msgctxt "dn25:65.10"
+msgctxt "dn25:19.10"
 msgid ""
 "upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena "
 "pharitvā viharati."
-msgstr ""
+msgstr "equanimity …"
 
-msgctxt "dn25:65.11"
-msgid "So anekavihitaṃ pubbenivāsaṃ anussarati."
-msgstr "They recollect many kinds of past lives …"
-
-msgctxt "dn25:65.12"
-msgid "Seyyathidaṃ—"
-msgstr ""
-
-msgctxt "dn25:65.13"
+msgctxt "dn25:19.11"
 msgid ""
-"ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo …"
-msgstr ""
+"So anekavihitaṃ pubbenivāsaṃ anussarati. Seyyathidaṃ—ekampi jātiṃ dvepi "
+"jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo … pe … iti sākāraṃ "
+"sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
+msgstr "They recollect many kinds of past lives, with features and details."
 
-msgctxt "dn25:65.14"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:65.15"
-msgid "iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati."
-msgstr ""
-
-msgctxt "dn25:65.16"
+msgctxt "dn25:19.12"
 msgid ""
 "So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne "
 "upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage "
-"satte pajānāti:"
+"satte pajānāti: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā "
+"vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṃ upavādakā "
+"micchādiṭṭhikā micchādiṭṭhikammasamādānā. Te kāyassa bhedā paraṃ maraṇā "
+"apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā. Ime vā pana bhonto sattā "
+"kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena "
+"samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā. Te "
+"kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti. Iti dibbena "
+"cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne "
+"hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage satte pajānāti."
 msgstr ""
 "With clairvoyance that is purified and superhuman, they see sentient beings "
 "passing away and being reborn—inferior and superior, beautiful and ugly, in "
-"a good place or a bad place. They understood how sentient beings are reborn "
-"according to their deeds:"
-
-msgctxt "dn25:65.17"
-msgid ""
-"‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena "
-"samannāgatā manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā "
-"micchādiṭṭhikammasamādānā."
-msgstr ""
-"‘These dear beings did bad things by way of body, speech, and mind. They "
-"spoke ill of the noble ones; they had wrong view; and they chose to act out "
-"of that wrong view. When their body breaks up, after death, they’re reborn "
-"in a place of loss, a bad place, the underworld, hell."
-
-#, fuzzy
-msgctxt "dn25:65.18"
-msgid ""
-"Te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapannā."
-msgstr " "
-
-msgctxt "dn25:65.19"
-msgid ""
-"Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena "
-"samannāgatā manosucaritena samannāgatā ariyānaṃ anupavādakā sammādiṭṭhikā "
-"sammādiṭṭhikammasamādānā."
-msgstr ""
+"a good place or a bad place. They understand how sentient beings are reborn "
+"according to their deeds: ‘These dear beings did bad things by way of body, "
+"speech, and mind. They spoke ill of the noble ones; they had wrong view; and "
+"they chose to act out of that wrong view. When their body breaks up, after "
+"death, they’re reborn in a place of loss, a bad place, the underworld, hell. "
 "These dear beings, however, did good things by way of body, speech, and "
 "mind. They never spoke ill of the noble ones; they had right view; and they "
 "chose to act out of that right view. When their body breaks up, after death, "
-"they’re reborn in a good place, a heavenly realm.’"
+"they’re reborn in a good place, a heavenly realm.’ And so, with clairvoyance "
+"that is purified and superhuman, they see sentient beings passing away and "
+"being reborn—inferior and superior, beautiful and ugly, in a good place or a "
+"bad place. They understand how sentient beings are reborn according to their "
+"deeds."
 
-msgctxt "dn25:65.20"
-msgid "Te kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapannā’ti."
-msgstr ""
+#. </p><p>
+#. <a class="sc" id="sc57"></a>
+msgctxt "dn25:19.13"
+msgid "Taṃ kiṃ maññasi, nigrodha, "
+msgstr "What do you think, Nigrodha? "
 
-msgctxt "dn25:65.21"
-msgid ""
-"Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne "
-"upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate, yathākammūpage "
-"satte pajānāti."
-msgstr ""
-"And so, with clairvoyance that is purified and superhuman, they see sentient "
-"beings passing away and being reborn—inferior and superior, beautiful and "
-"ugly, in a good place or a bad place. They understand how sentient beings "
-"are reborn according to their deeds."
+msgctxt "dn25:19.14"
+msgid "yadi evaṃ sante tapojigucchā parisuddhā vā hoti aparisuddhā vā”ti?"
+msgstr "If this is so, is the mortification in disgust of sin purified or not?”"
 
-#. </p><p><a class="sc" id="57"></a>
-msgctxt "dn25:66.1"
-msgid ""
-"Taṃ kiṃ maññasi, nigrodha, yadi evaṃ sante tapojigucchā parisuddhā vā hoti "
-"aparisuddhā vā”ti?"
-msgstr ""
-"What do you think, Nigrodha? If this is so, is the mortification in disgust "
-"of sin purified or not?”"
-
-msgctxt "dn25:66.2"
+msgctxt "dn25:19.15"
 msgid ""
 "“Addhā kho, bhante, evaṃ sante tapojigucchā parisuddhā hoti no aparisuddhā, "
 "aggappattā ca sārappattā cā”ti."
 msgstr "“Clearly, sir, it is purified. It has reached the peak and the pith.”"
 
-#. </p><p><a class="sc" id="58"></a>
+#. </p><p>
+#. <a class="sc" id="sc58"></a>
 #. VAR: kho, nigrodha → iti nigrodha (s1-3) | atha taṃ nigrodha (km)
-msgctxt "dn25:67.1"
+msgctxt "dn25:19.16"
 msgid "“Ettāvatā kho, nigrodha, tapojigucchā aggappattā ca hoti sārappattā ca."
 msgstr ""
 "“Nigrodha, at this point the mortification in disgust of sin has reached the "
 "peak and the pith."
 
-msgctxt "dn25:67.2"
+msgctxt "dn25:19.17"
 msgid "Iti kho, nigrodha, yaṃ maṃ tvaṃ avacāsi:"
 msgstr "Nigrodha, remember you said this to me:"
 
-msgctxt "dn25:67.3"
+msgctxt "dn25:19.18"
 msgid ""
 "‘ko nāma so, bhante, bhagavato dhammo, yena bhagavā sāvake vineti, yena "
 "bhagavatā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṃ "
@@ -1999,22 +1876,23 @@ msgstr ""
 "‘Sir, what teaching do you use to guide your disciples, through which they "
 "claim solace in the fundamental purpose of the spiritual life?’"
 
-msgctxt "dn25:67.4"
+msgctxt "dn25:19.19"
 msgid ""
 "Iti kho taṃ, nigrodha, ṭhānaṃ uttaritarañca paṇītatarañca, yenāhaṃ sāvake "
 "vinemi, yena mayā sāvakā vinītā assāsappattā paṭijānanti ajjhāsayaṃ "
 "ādibrahmacariyan”ti."
 msgstr ""
 "Well, there is something better and finer than this. That’s what I use to "
-"use to guide my disciples, through which they claim solace in the "
-"fundamental purpose of the spiritual life.”"
+"guide my disciples, through which they claim solace in the fundamental "
+"purpose of the spiritual life.”"
 
-#. </p><p><a class="sc" id="59"></a>
-msgctxt "dn25:68.1"
+#. </p><p>
+#. <a class="sc" id="sc59"></a>
+msgctxt "dn25:19.20"
 msgid "Evaṃ vutte, te paribbājakā unnādino uccāsaddamahāsaddā ahesuṃ:"
 msgstr "When he said this, those wanderers made an uproar:"
 
-msgctxt "dn25:68.2"
+msgctxt "dn25:19.21"
 msgid ""
 "“ettha mayaṃ anassāma sācariyakā, na mayaṃ ito bhiyyo uttaritaraṃ "
 "pajānāmā”ti."
@@ -2023,17 +1901,19 @@ msgstr ""
 "better or finer than that!”"
 
 #. </p><h2>
-msgctxt "dn25:69.1"
+msgctxt "dn25:19.22"
 msgid "4. Nigrodhassapajjhāyana"
-msgstr "Nigrodha Feels Depressed"
+msgstr "4. Nigrodha Feels Depressed"
 
-#. </h2><p><a class="sc" id="60"></a><a class="wp" id="wp20"></a><a class="pts"
-#. id="pts3.53"></a>
-msgctxt "dn25:70.1"
+#. </h2><p>
+#. <a class="pts-cs" id="pts-cs20"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.53"></a>
+#. <a class="sc" id="sc60"></a>
+msgctxt "dn25:20.1"
 msgid "Yadā aññāsi sandhāno gahapati:"
 msgstr "Then the householder Sandhāna realized:"
 
-msgctxt "dn25:70.2"
+msgctxt "dn25:20.2"
 msgid ""
 "“aññadatthu kho dānime aññatitthiyā paribbājakā bhagavato bhāsitaṃ "
 "sussūsanti, sotaṃ odahanti, aññācittaṃ upaṭṭhāpentī”ti."
@@ -2042,46 +1922,46 @@ msgstr ""
 "re paying attention and applying their minds to understand!”"
 
 #. VAR: Atha → atha naṃ (mr)
-msgctxt "dn25:70.3"
+msgctxt "dn25:20.3"
 msgid "Atha nigrodhaṃ paribbājakaṃ etadavoca:"
 msgstr "So he said to the wanderer Nigrodha:"
 
-msgctxt "dn25:70.4"
+msgctxt "dn25:20.4"
 msgid "“iti kho, bhante nigrodha, yaṃ maṃ tvaṃ avacāsi:"
 msgstr "“Nigrodha, remember you said this to me:"
 
-#, fuzzy
-msgctxt "dn25:70.5"
+msgctxt "dn25:20.5"
 msgid ""
 "‘yagghe, gahapati, jāneyyāsi, kena samaṇo gotamo saddhiṃ sallapati, kena "
-"sākacchaṃ samāpajjati, kena paññāveyyattiyaṃ samāpajjati, suññāgārahatā "
-"samaṇassa gotamassa paññā, aparisāvacaro samaṇo gotamo nālaṃ sallāpāya, so "
-"antamantāneva sevati;"
+"sākacchaṃ samāpajjati, kena paññāveyyattiyaṃ samāpajjati, "
 msgstr ""
 "‘Surely, householder, you should know better! With whom does the ascetic "
 "Gotama converse? With whom does he engage in discussion? With whom does he "
-"achieve proficiency in wisdom? Staying in empty huts has destroyed the "
-"ascetic Gotama’s wisdom. Not frequenting assemblies, he is unable to hold a "
-"discussion. He just lurks on the periphery."
+"achieve proficiency in wisdom? "
 
-msgctxt "dn25:70.6"
+msgctxt "dn25:20.6"
+msgid ""
+"suññāgārahatā samaṇassa gotamassa paññā, aparisāvacaro samaṇo gotamo nālaṃ "
+"sallāpāya, so antamantāneva sevati;"
+msgstr ""
+"Staying in empty huts has destroyed the ascetic Gotama’s wisdom. Not "
+"frequenting assemblies, he is unable to hold a discussion. He just lurks on "
+"the periphery."
+
+msgctxt "dn25:20.7"
 msgid "seyyathāpi nāma gokāṇā pariyantacārinī antamantāneva sevati."
 msgstr ""
 "He’s just like the nilgai antelope, circling around and lurking on the "
 "periphery."
 
-msgctxt "dn25:70.7"
+msgctxt "dn25:20.8"
 msgid ""
 "Evameva suññāgārahatā samaṇassa gotamassa paññā, aparisāvacaro samaṇo gotamo "
-"nālaṃ sallāpāya;"
-msgstr ""
-
-msgctxt "dn25:70.8"
-msgid "so antamantāneva sevati;"
+"nālaṃ sallāpāya; so antamantāneva sevati;"
 msgstr ""
 
 #. VAR: iṅgha → iṅgha ca (bj, c1)
-msgctxt "dn25:70.9"
+msgctxt "dn25:20.9"
 msgid ""
 "iṅgha, gahapati, samaṇo gotamo imaṃ parisaṃ āgaccheyya, ekapañheneva naṃ "
 "saṃsādeyyāma, tucchakumbhīva naṃ maññe orodheyyāmā’ti."
@@ -2090,7 +1970,7 @@ msgstr ""
 "him with just one question! I’ll roll him over and wrap him up like an empty "
 "pot!’"
 
-msgctxt "dn25:70.10"
+msgctxt "dn25:20.10"
 msgid ""
 "Ayaṃ kho so, bhante, bhagavā arahaṃ sammāsambuddho idhānuppatto, "
 "aparisāvacaraṃ pana naṃ karotha, gokāṇaṃ pariyantacāriniṃ karotha, "
@@ -2101,7 +1981,7 @@ msgstr ""
 "Why don’t you sink him with just one question? Why don’t you roll him over "
 "and wrap him up like an empty pot?”"
 
-msgctxt "dn25:70.11"
+msgctxt "dn25:20.11"
 msgid ""
 "Evaṃ vutte, nigrodho paribbājako tuṇhībhūto maṅkubhūto pattakkhandho "
 "adhomukho pajjhāyanto appaṭibhāno nisīdi."
@@ -2109,20 +1989,22 @@ msgstr ""
 "When he said this, Nigrodha sat silent, embarrassed, shoulders drooping, "
 "downcast, depressed, with nothing to say."
 
-#. </p><p><a class="sc" id="61"></a><a class="wp" id="wp21"></a><a class="pts"
-#. id="pts3.54"></a>
-msgctxt "dn25:71.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs21"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.54"></a>
+#. <a class="sc" id="sc61"></a>
+msgctxt "dn25:21.1"
 msgid ""
 "Atha kho bhagavā nigrodhaṃ paribbājakaṃ tuṇhībhūtaṃ maṅkubhūtaṃ "
 "pattakkhandhaṃ adhomukhaṃ pajjhāyantaṃ appaṭibhānaṃ viditvā nigrodhaṃ "
 "paribbājakaṃ etadavoca:"
 msgstr "Knowing this, the Buddha said to him:"
 
-msgctxt "dn25:71.2"
+msgctxt "dn25:21.2"
 msgid "“saccaṃ kira, nigrodha, bhāsitā te esā vācā”ti?"
 msgstr "“Is it really true, Nigrodha—are those your words?”"
 
-msgctxt "dn25:71.3"
+msgctxt "dn25:21.3"
 msgid ""
 "“Saccaṃ, bhante, bhāsitā me esā vācā, yathābālena yathāmūḷhena "
 "yathāakusalenā”ti."
@@ -2130,11 +2012,11 @@ msgstr ""
 "“It’s true, sir, those are my words. It was foolish, stupid, and unskillful "
 "of me.”"
 
-msgctxt "dn25:71.4"
+msgctxt "dn25:21.4"
 msgid "“Taṃ kiṃ maññasi, nigrodha."
 msgstr "“What do you think, Nigrodha?"
 
-msgctxt "dn25:71.5"
+msgctxt "dn25:21.5"
 msgid ""
 "Kinti te sutaṃ paribbājakānaṃ vuḍḍhānaṃ mahallakānaṃ ācariyapācariyānaṃ "
 "bhāsamānānaṃ:"
@@ -2143,37 +2025,25 @@ msgstr ""
 "teachers of teachers, said that"
 
 #. VAR: viharanti → vihariṃsu (bj, s1-3, c1)
-msgctxt "dn25:71.6"
+msgctxt "dn25:21.6"
 msgid ""
 "‘ye te ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā, evaṃ su te bhagavanto "
 "saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṃ tiracchānakathaṃ "
 "anuyuttā viharanti."
 msgstr ""
-"when the perfect ones, the fully awakened Buddhas of the past came together, "
-"they made an uproar, a dreadful racket as they sat and talked about all "
-"kinds of unworthy topics,"
+"when the perfected ones, the fully awakened Buddhas of the past came "
+"together, they made an uproar, a dreadful racket as they sat and talked "
+"about all kinds of unworthy topics,"
 
-msgctxt "dn25:71.7"
-msgid "Seyyathidaṃ—"
+msgctxt "dn25:21.7"
+msgid "Seyyathidaṃ—rājakathaṃ corakathaṃ … pe … itibhavābhavakathaṃ iti vā."
 msgstr ""
 
-msgctxt "dn25:71.8"
-msgid "rājakathaṃ corakathaṃ …"
-msgstr ""
-
-msgctxt "dn25:71.9"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:71.10"
-msgid "itibhavābhavakathaṃ iti vā."
-msgstr ""
-
-msgctxt "dn25:71.11"
+msgctxt "dn25:21.8"
 msgid "Seyyathāpi tvaṃ etarahi sācariyako."
 msgstr "like you do in your tradition these days?"
 
-msgctxt "dn25:71.12"
+msgctxt "dn25:21.9"
 msgid ""
 "Udāhu, evaṃ su te bhagavanto araññavanapatthāni pantāni senāsanāni "
 "paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni "
@@ -2184,59 +2054,51 @@ msgstr ""
 "crowd, remote from human settlements, and appropriate for retreat, like I do "
 "these days?”"
 
-#. </p><p><a class="sc" id="62"></a>
-#, fuzzy
-msgctxt "dn25:72.1"
-msgid "“Sutaṃ metaṃ, bhante."
-msgstr " "
-
-msgctxt "dn25:72.2"
-msgid "Paribbājakānaṃ vuḍḍhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ:"
+#. </p><p>
+#. <a class="sc" id="sc62"></a>
+msgctxt "dn25:21.10"
+msgid ""
+"“Sutaṃ metaṃ, bhante. Paribbājakānaṃ vuḍḍhānaṃ mahallakānaṃ "
+"ācariyapācariyānaṃ bhāsamānānaṃ:"
 msgstr ""
 "“I have heard that wanderers of the past who were elderly and senior, said "
 "that"
 
 #. VAR: na evaṃ su te → na evaṃsute (s1-3) | nāssu te (pts1)
-msgctxt "dn25:72.3"
+msgctxt "dn25:21.11"
 msgid ""
 "‘ye te ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā, na evaṃ su te "
 "bhagavanto saṅgamma samāgamma unnādino uccāsaddamahāsaddā anekavihitaṃ "
 "tiracchānakathaṃ anuyuttā viharanti."
 msgstr ""
-"when the perfect ones, the fully awakened Buddhas of the past came together, "
-"they didn’t make an uproar,"
+"when the perfected ones, the fully awakened Buddhas of the past came "
+"together, they didn’t make an uproar,"
 
-msgctxt "dn25:72.4"
-msgid "Seyyathidaṃ—"
+msgctxt "dn25:21.12"
+msgid "Seyyathidaṃ—rājakathaṃ corakathaṃ … pe … itibhavābhavakathaṃ iti vā,"
 msgstr ""
 
-msgctxt "dn25:72.5"
-msgid "rājakathaṃ corakathaṃ …"
-msgstr ""
-
-msgctxt "dn25:72.6"
-msgid "pe …"
-msgstr ""
-
-msgctxt "dn25:72.7"
-msgid "itibhavābhavakathaṃ iti vā, seyyathāpāhaṃ etarahi sācariyako."
+msgctxt "dn25:21.13"
+msgid "seyyathāpāhaṃ etarahi sācariyako."
 msgstr "like I do in my tradition these days."
 
-msgctxt "dn25:72.8"
+msgctxt "dn25:21.14"
 msgid ""
 "Evaṃ su te bhagavanto araññavanapatthāni pantāni senāsanāni paṭisevanti "
 "appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni "
 "paṭisallānasāruppāni, seyyathāpi bhagavā etarahī’”ti."
 msgstr ""
-"They say that the Buddhas of the past frequented remote lodgings in the "
+"They said that the Buddhas of the past frequented remote lodgings in the "
 "wilderness, like the Buddha does these days.”"
 
-#. </p><p><a class="sc" id="63"></a><a class="pts" id="pts3.55"></a>
-msgctxt "dn25:73.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.55"></a>
+#. <a class="sc" id="sc63"></a>
+msgctxt "dn25:21.15"
 msgid "“Tassa te, nigrodha, viññussa sato mahallakassa na etadahosi:"
 msgstr "“Nigrodha, you are a sensible and mature man. Did it not occur to you:"
 
-msgctxt "dn25:73.2"
+msgctxt "dn25:21.16"
 msgid ""
 "‘buddho so bhagavā bodhāya dhammaṃ deseti, danto so bhagavā damathāya "
 "dhammaṃ deseti, santo so bhagavā samathāya dhammaṃ deseti, tiṇṇo so bhagavā "
@@ -2248,16 +2110,18 @@ msgstr ""
 "extinguishment’?”"
 
 #. </p><h2>
-msgctxt "dn25:74.1"
+msgctxt "dn25:21.17"
 msgid "5. Brahmacariyapariyosānasacchikiriyā"
-msgstr "The Culmination of the Spiritual Path"
+msgstr "5. The Culmination of the Spiritual Path"
 
-#. </h2><p><a class="sc" id="64"></a><a class="wp" id="wp22"></a>
-msgctxt "dn25:75.1"
+#. </h2><p>
+#. <a class="pts-cs" id="pts-cs22"></a>
+#. <a class="sc" id="sc64"></a>
+msgctxt "dn25:22.1"
 msgid "Evaṃ vutte, nigrodho paribbājako bhagavantaṃ etadavoca:"
 msgstr "Nigrodha said:"
 
-msgctxt "dn25:75.2"
+msgctxt "dn25:22.2"
 msgid ""
 "“accayo maṃ, bhante, accagamā yathābālaṃ yathāmūḷhaṃ yathāakusalaṃ, yvāhaṃ "
 "evaṃ bhagavantaṃ avacāsiṃ."
@@ -2265,7 +2129,7 @@ msgstr ""
 "“I have made a mistake, sir. It was foolish, stupid, and unskillful of me to "
 "speak in that way."
 
-msgctxt "dn25:75.3"
+msgctxt "dn25:22.3"
 msgid ""
 "Tassa me, bhante, bhagavā accayaṃ accayato paṭiggaṇhātu āyatiṃ saṃvarāyā”ti."
 msgstr ""
@@ -2273,7 +2137,7 @@ msgstr ""
 "future.”"
 
 #. VAR: tvaṃ → taṃ (bj, s1-3, pts1)
-msgctxt "dn25:75.4"
+msgctxt "dn25:22.4"
 msgid ""
 "“Taggha tvaṃ, nigrodha, accayo accagamā yathābālaṃ yathāmūḷhaṃ "
 "yathāakusalaṃ, yo maṃ tvaṃ evaṃ avacāsi."
@@ -2281,7 +2145,7 @@ msgstr ""
 "“Indeed, Nigrodha, you made a mistake. It was foolish, stupid, and "
 "unskillful of you to speak in that way."
 
-msgctxt "dn25:75.5"
+msgctxt "dn25:22.5"
 msgid ""
 "Yato ca kho tvaṃ, nigrodha, accayaṃ accayato disvā yathādhammaṃ paṭikarosi, "
 "taṃ te mayaṃ paṭiggaṇhāma."
@@ -2289,248 +2153,222 @@ msgstr ""
 "But since you have recognized your mistake for what it is, and have dealt "
 "with it properly, I accept it."
 
-msgctxt "dn25:75.6"
+msgctxt "dn25:22.6"
 msgid ""
 "Vuddhi hesā, nigrodha, ariyassa vinaye, yo accayaṃ accayato disvā "
 "yathādhammaṃ paṭikaroti āyatiṃ saṃvaraṃ āpajjati."
 msgstr ""
 "For it is growth in the training of the noble one to recognize a mistake for "
-"what it is, deal with it properly, and commit to restraint in the future.”"
+"what it is, deal with it properly, and commit to restraint in the future."
 
-msgctxt "dn25:75.7"
+msgctxt "dn25:22.7"
 msgid "Ahaṃ kho pana, nigrodha, evaṃ vadāmi:"
 msgstr "Nigrodha, this is what I say:"
 
-#. </p><p><a class="sc" id="65"></a><a class="pts" id="pts3.56"></a>
-msgctxt "dn25:76.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.56"></a>
+#. <a class="sc" id="sc65"></a>
+msgctxt "dn25:22.8"
 msgid ""
 "‘Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṃ dhammaṃ "
 "desemi."
 msgstr ""
 "Let a sensible person come—neither devious nor deceitful, a person of "
-"integrity. I teach and instruct them. "
+"integrity. I teach and instruct them."
 
 #. VAR: Yathānusiṭṭhaṃ tathā → yathānusiṭṭhaṃ (?)
-msgctxt "dn25:76.2"
-msgid "Yathānusiṭṭhaṃ tathā paṭipajjamāno—"
-msgstr "By practicing as instructed they will"
-
-msgctxt "dn25:76.3"
+msgctxt "dn25:22.9"
 msgid ""
-"yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—"
+"Yathānusiṭṭhaṃ tathā paṭipajjamāno—yassatthāya kulaputtā sammadeva agārasmā "
+"anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme "
+"sayaṃ abhiññā sacchikatvā upasampajja viharissati sattavassāni."
 msgstr ""
-"realize the supreme end of the spiritual path in this very life, in seven "
-"years. They will live having achieved with their own insight the goal for "
-"which people from respectable families rightly go forth from the lay life to "
-"homelessness."
+"By practicing as instructed they will realize the supreme end of the "
+"spiritual path in this very life, in seven years. They will live having "
+"achieved with their own insight the goal for which people from good families "
+"rightly go forth from the lay life to homelessness."
 
-msgctxt "dn25:76.4"
-msgid ""
-"brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
-"upasampajja viharissati sattavassāni."
-msgstr ""
-
-msgctxt "dn25:76.5"
+msgctxt "dn25:22.10"
 msgid "Tiṭṭhantu, nigrodha, satta vassāni."
-msgstr "Let alone seven years,"
+msgstr "Let alone seven years."
 
-msgctxt "dn25:76.6"
+msgctxt "dn25:22.11"
 msgid ""
 "Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṃ dhammaṃ desemi."
 msgstr ""
 "Let a sensible person come—neither devious nor deceitful, a person of "
-"integrity. I teach and instruct them. "
+"integrity. I teach and instruct them."
 
-msgctxt "dn25:76.7"
-msgid "Yathānusiṭṭhaṃ tathā paṭipajjamāno—"
-msgstr "By practicing as instructed they will"
-
-msgctxt "dn25:76.8"
+msgctxt "dn25:22.12"
 msgid ""
-"yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—"
+"Yathānusiṭṭhaṃ tathā paṭipajjamāno—yassatthāya kulaputtā sammadeva agārasmā "
+"anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme "
+"sayaṃ abhiññā sacchikatvā upasampajja viharissati cha vassāni."
 msgstr ""
-"realize the supreme end of the spiritual path in this very life, in six "
-"years …"
+"By practicing as instructed they will realize the supreme end of the "
+"spiritual path in this very life, in six years …"
 
-#, fuzzy
-msgctxt "dn25:76.9"
-msgid ""
-"brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
-"upasampajja viharissati cha vassāni."
-msgstr " "
-
-msgctxt "dn25:76.10"
+msgctxt "dn25:22.13"
 msgid "Pañca vassāni …"
 msgstr "five years …"
 
-msgctxt "dn25:76.11"
+msgctxt "dn25:22.14"
 msgid "cattāri vassāni …"
 msgstr "four years …"
 
-msgctxt "dn25:76.12"
+msgctxt "dn25:22.15"
 msgid "tīṇi vassāni …"
 msgstr "three years …"
 
-msgctxt "dn25:76.13"
+msgctxt "dn25:22.16"
 msgid "dve vassāni …"
 msgstr "two years …"
 
-msgctxt "dn25:76.14"
+msgctxt "dn25:22.17"
 msgid "ekaṃ vassaṃ."
 msgstr "one year …"
 
-msgctxt "dn25:76.15"
+msgctxt "dn25:22.18"
 msgid "Tiṭṭhatu, nigrodha, ekaṃ vassaṃ."
 msgstr ""
 
-msgctxt "dn25:76.16"
+msgctxt "dn25:22.19"
 msgid ""
 "Etu viññū puriso asaṭho amāyāvī ujujātiko ahamanusāsāmi ahaṃ dhammaṃ desemi."
 msgstr ""
 
-msgctxt "dn25:76.17"
-msgid "Yathānusiṭṭhaṃ tathā paṭipajjamāno—"
-msgstr ""
-
-msgctxt "dn25:76.18"
+msgctxt "dn25:22.20"
 msgid ""
-"yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—"
-msgstr ""
-
-msgctxt "dn25:76.19"
-msgid ""
-"brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
-"upasampajja viharissati satta māsāni."
+"Yathānusiṭṭhaṃ tathā paṭipajjamāno—yassatthāya kulaputtā sammadeva agārasmā "
+"anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme "
+"sayaṃ abhiññā sacchikatvā upasampajja viharissati satta māsāni."
 msgstr "seven months …"
 
-msgctxt "dn25:76.20"
+msgctxt "dn25:22.21"
 msgid "Tiṭṭhantu, nigrodha, satta māsāni …"
 msgstr ""
 
-msgctxt "dn25:76.21"
+msgctxt "dn25:22.22"
 msgid "cha māsāni …"
 msgstr "six months …"
 
-msgctxt "dn25:76.22"
+msgctxt "dn25:22.23"
 msgid "pañca māsāni …"
 msgstr "five months …"
 
-msgctxt "dn25:76.23"
+msgctxt "dn25:22.24"
 msgid "cattāri māsāni …"
 msgstr "four months …"
 
-msgctxt "dn25:76.24"
+msgctxt "dn25:22.25"
 msgid "tīṇi māsāni …"
 msgstr "three months …"
 
-msgctxt "dn25:76.25"
+msgctxt "dn25:22.26"
 msgid "dve māsāni …"
 msgstr "two months …"
 
-msgctxt "dn25:76.26"
+msgctxt "dn25:22.27"
 msgid "ekaṃ māsaṃ …"
 msgstr "one month …"
 
-msgctxt "dn25:76.27"
+msgctxt "dn25:22.28"
 msgid "aḍḍhamāsaṃ."
 msgstr "a fortnight."
 
-msgctxt "dn25:76.28"
+msgctxt "dn25:22.29"
 msgid "Tiṭṭhatu, nigrodha, aḍḍhamāso."
-msgstr "Let alone a fortnight,"
+msgstr "Let alone a fortnight."
 
-msgctxt "dn25:76.29"
+msgctxt "dn25:22.30"
 msgid ""
 "Etu viññū puriso asaṭho amāyāvī ujujātiko, ahamanusāsāmi ahaṃ dhammaṃ desemi."
 msgstr ""
 "Let a sensible person come—neither devious nor deceitful, a person of "
-"integrity. I teach and instruct them. "
+"integrity. I teach and instruct them."
 
-msgctxt "dn25:76.30"
-msgid "Yathānusiṭṭhaṃ tathā paṭipajjamāno—"
-msgstr "By practicing as instructed they will"
-
-msgctxt "dn25:76.31"
+msgctxt "dn25:22.31"
 msgid ""
-"yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—"
+"Yathānusiṭṭhaṃ tathā paṭipajjamāno—yassatthāya kulaputtā sammadeva agārasmā "
+"anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme "
+"sayaṃ abhiññā sacchikatvā upasampajja viharissati sattāhaṃ’."
 msgstr ""
-"realize the supreme end of the spiritual path in this very life, in seven "
-"days."
-
-msgctxt "dn25:76.32"
-msgid ""
-"brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
-"upasampajja viharissati sattāhaṃ’."
-msgstr ""
+"By practicing as instructed they will realize the supreme end of the "
+"spiritual path in this very life, in seven days."
 
 #. </p><h2>
-msgctxt "dn25:77.1"
+msgctxt "dn25:22.32"
 msgid "6. Paribbājakānaṃpajjhāyana"
-msgstr "The Wanderers Feel Depressed"
+msgstr "6. The Wanderers Feel Depressed"
 
-#. </h2><p><a class="sc" id="66"></a><a class="wp" id="wp23"></a>
+#. </h2><p>
+#. <a class="pts-cs" id="pts-cs23"></a>
+#. <a class="sc" id="sc66"></a>
 #. VAR: pana te → panetaṃ (c1)
-msgctxt "dn25:78.1"
+msgctxt "dn25:23.1"
 msgid "Siyā kho pana te, nigrodha, evamassa:"
-msgstr "Nigrodha, you might think: "
+msgstr "Nigrodha, you might think:"
 
-msgctxt "dn25:78.2"
+msgctxt "dn25:23.2"
 msgid "‘antevāsikamyatā no samaṇo gotamo evamāhā’ti."
 msgstr "‘The ascetic Gotama speaks like this because he wants pupils.’"
 
-msgctxt "dn25:78.3"
+msgctxt "dn25:23.3"
 msgid "Na kho panetaṃ, nigrodha, evaṃ daṭṭhabbaṃ."
 msgstr "But you should not see it like this."
 
 #. VAR: vo → te (bj)
-msgctxt "dn25:78.4"
+msgctxt "dn25:23.4"
 msgid "Yo eva vo ācariyo, so eva vo ācariyo hotu."
 msgstr "Let your teacher remain your teacher."
 
-#. </p><p><a class="sc" id="67"></a>
-msgctxt "dn25:79.1"
+#. </p><p>
+#. <a class="sc" id="sc67"></a>
+msgctxt "dn25:23.5"
 msgid "Siyā kho pana te, nigrodha, evamassa:"
-msgstr "You might think: "
+msgstr "You might think:"
 
-msgctxt "dn25:79.2"
+msgctxt "dn25:23.6"
 msgid "‘uddesā no cāvetukāmo samaṇo gotamo evamāhā’ti."
 msgstr ""
 "‘The ascetic Gotama speaks like this because he wants us to give up our "
 "recitation.’"
 
-msgctxt "dn25:79.3"
+msgctxt "dn25:23.7"
 msgid "Na kho panetaṃ, nigrodha, evaṃ daṭṭhabbaṃ."
 msgstr "But you should not see it like this."
 
-msgctxt "dn25:79.4"
+msgctxt "dn25:23.8"
 msgid "Yo eva vo uddeso so eva vo uddeso hotu."
 msgstr "Let your recitation remain as it is."
 
-#. </p><p><a class="sc" id="68"></a>
-msgctxt "dn25:80.1"
+#. </p><p>
+#. <a class="sc" id="sc68"></a>
+msgctxt "dn25:23.9"
 msgid "Siyā kho pana te, nigrodha, evamassa:"
-msgstr "You might think: "
+msgstr "You might think:"
 
-msgctxt "dn25:80.2"
+msgctxt "dn25:23.10"
 msgid "‘ājīvā no cāvetukāmo samaṇo gotamo evamāhā’ti."
 msgstr ""
 "‘The ascetic Gotama speaks like this because he wants us to give up our "
 "livelihood.’"
 
-msgctxt "dn25:80.3"
+msgctxt "dn25:23.11"
 msgid "Na kho panetaṃ, nigrodha, evaṃ daṭṭhabbaṃ."
 msgstr "But you should not see it like this."
 
-msgctxt "dn25:80.4"
+msgctxt "dn25:23.12"
 msgid "Yo eva vo ājīvo, so eva vo ājīvo hotu."
 msgstr "Let your livelihood remain as it is."
 
-#. </p><p><a class="sc" id="69"></a>
-msgctxt "dn25:81.1"
+#. </p><p>
+#. <a class="sc" id="sc69"></a>
+msgctxt "dn25:23.13"
 msgid "Siyā kho pana te, nigrodha, evamassa:"
-msgstr "You might think: "
+msgstr "You might think:"
 
-msgctxt "dn25:81.2"
+msgctxt "dn25:23.14"
 msgid ""
 "‘ye no dhammā akusalā akusalasaṅkhātā sācariyakānaṃ, tesu patiṭṭhāpetukāmo "
 "samaṇo gotamo evamāhā’ti."
@@ -2538,23 +2376,24 @@ msgstr ""
 "‘The ascetic Gotama speaks like this because he wants us to start doing "
 "things that are unskillful and considered unskillful in our tradition.’"
 
-msgctxt "dn25:81.3"
+msgctxt "dn25:23.15"
 msgid "Na kho panetaṃ, nigrodha, evaṃ daṭṭhabbaṃ."
 msgstr "But you should not see it like this."
 
 #. VAR: ceva vo te dhammā → vo dhammā (bj, mr) | te dhammā (s1-3)
-msgctxt "dn25:81.4"
+msgctxt "dn25:23.16"
 msgid "Akusalā ceva vo te dhammā hontu akusalasaṅkhātā ca sācariyakānaṃ."
 msgstr ""
 "Let those things that are unskillful and considered unskillful in your "
 "tradition remain as they are."
 
-#. </p><p><a class="sc" id="70"></a>
-msgctxt "dn25:82.1"
+#. </p><p>
+#. <a class="sc" id="sc70"></a>
+msgctxt "dn25:23.17"
 msgid "Siyā kho pana te, nigrodha, evamassa:"
-msgstr "You might think: "
+msgstr "You might think:"
 
-msgctxt "dn25:82.2"
+msgctxt "dn25:23.18"
 msgid ""
 "‘ye no dhammā kusalā kusalasaṅkhātā sācariyakānaṃ, tehi vivecetukāmo samaṇo "
 "gotamo evamāhā’ti."
@@ -2562,22 +2401,22 @@ msgstr ""
 "‘The ascetic Gotama speaks like this because he wants us to stop doing "
 "things that are skillful and considered skillful in our tradition.’"
 
-msgctxt "dn25:82.3"
+msgctxt "dn25:23.19"
 msgid "Na kho panetaṃ, nigrodha, evaṃ daṭṭhabbaṃ."
 msgstr "But you should not see it like this."
 
-msgctxt "dn25:82.4"
+msgctxt "dn25:23.20"
 msgid "Kusalā ceva vo te dhammā hontu kusalasaṅkhātā ca sācariyakānaṃ."
 msgstr ""
 "Let those things that are skillful and considered skillful in your tradition "
 "remain as they are."
 
-#. </p><p><a class="sc" id="71"></a><a class="pts" id="pts3.57"></a>
-#. VAR: napi ājīvā cāvetukāmo evaṃ vadāmi, napi ye vo dhammā → napi ye ca kho
-#. dhammā (bj) | napi ye te dhammā (s1-3) | napi ye ca vo dhammā (mr)
-#. VAR: napi ye vo dhammā → napi ye ca kho dhammā (bj) | napi ye te dhammā
-#. (s1-3) | napi ye ca vo dhammā (mr)
-msgctxt "dn25:83.1"
+#. </p><p>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.57"></a>
+#. <a class="sc" id="sc71"></a>
+#. VAR: napi ājīvā cāvetukāmo evaṃ vadāmi, napi ye vo dhammā → napi ye ca kho dhammā (bj) | napi ye te dhammā (s1-3) | napi ye ca vo dhammā (mr)
+#. VAR: napi ye vo dhammā → napi ye ca kho dhammā (bj) | napi ye te dhammā (s1-3) | napi ye ca vo dhammā (mr)
+msgctxt "dn25:23.21"
 msgid ""
 "Iti khvāhaṃ, nigrodha, neva antevāsikamyatā evaṃ vadāmi, napi uddesā "
 "cāvetukāmo evaṃ vadāmi, napi ājīvā cāvetukāmo evaṃ vadāmi, napi ye vo dhammā "
@@ -2588,16 +2427,16 @@ msgstr "I do not speak for any of these reasons."
 
 #. VAR: sadarā → sadarathā (s1-3, mr) | saddarā (pts1, mr)
 #. VAR: ponobbhavikā → ponobhavikā (bj, pts1, mr)
-msgctxt "dn25:83.2"
+msgctxt "dn25:23.22"
 msgid ""
 "Santi ca kho, nigrodha, akusalā dhammā appahīnā saṃkilesikā ponobbhavikā "
 "sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā, yesāhaṃ pahānāya dhammaṃ desemi."
 msgstr ""
 "Nigrodha, there are things that are unskillful, corrupted, leading to future "
-"lives, hurtful, resulting in suffering and future birth, old age, and death. "
-"I teach Dhamma so that those things may be given up."
+"lives, hurtful, resulting in suffering and future rebirth, old age, and "
+"death. I teach Dhamma so that those things may be given up."
 
-msgctxt "dn25:83.3"
+msgctxt "dn25:23.23"
 msgid ""
 "Yathāpaṭipannānaṃ vo saṃkilesikā dhammā pahīyissanti, vodānīyā dhammā "
 "abhivaḍḍhissanti, paññāpāripūriṃ vepullattañca diṭṭheva dhamme sayaṃ abhiññā "
@@ -2608,8 +2447,10 @@ msgstr ""
 "and abundance of wisdom, having realized it with your own insight in this "
 "very life.”"
 
-#. </p><p><a class="sc" id="72"></a><a class="wp" id="wp24"></a>
-msgctxt "dn25:84.1"
+#. </p><p>
+#. <a class="pts-cs" id="pts-cs24"></a>
+#. <a class="sc" id="sc72"></a>
+msgctxt "dn25:24.1"
 msgid ""
 "Evaṃ vutte, te paribbājakā tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā "
 "pajjhāyantā appaṭibhānā nisīdiṃsu yathā taṃ mārena pariyuṭṭhitacittā."
@@ -2618,27 +2459,28 @@ msgstr ""
 "drooping, downcast, depressed, with nothing to say, as if their minds were "
 "possessed by Māra."
 
-msgctxt "dn25:84.2"
+msgctxt "dn25:24.2"
 msgid "Atha kho bhagavato etadahosi:"
 msgstr "Then the Buddha thought:"
 
-msgctxt "dn25:84.3"
+msgctxt "dn25:24.3"
 msgid "“sabbepime moghapurisā phuṭṭhā pāpimatā."
 msgstr "“All these foolish people have been touched by the Wicked One!"
 
-msgctxt "dn25:84.4"
+msgctxt "dn25:24.4"
 msgid "Yatra hi nāma ekassapi na evaṃ bhavissati:"
 msgstr "For not even a single one thinks:"
 
-msgctxt "dn25:84.5"
+msgctxt "dn25:24.5"
 msgid ""
 "‘handa mayaṃ aññāṇatthampi samaṇe gotame brahmacariyaṃ carāma, kiṃ karissati "
 "sattāho’”ti?"
 msgstr ""
 
-#. </p><p><a class="sc" id="73"></a>
+#. </p><p>
+#. <a class="sc" id="sc73"></a>
 #. VAR: paccupaṭṭhāsi → paccuṭṭhāsi (bj, s1-3, pts1)
-msgctxt "dn25:85.1"
+msgctxt "dn25:24.6"
 msgid ""
 "Atha kho bhagavā udumbarikāya paribbājakārāme sīhanādaṃ naditvā vehāsaṃ "
 "abbhuggantvā gijjhakūṭe pabbate paccupaṭṭhāsi."
@@ -2646,11 +2488,11 @@ msgstr ""
 "Then the Buddha, having roared his lion’s roar in the lady Udumbarikā’s "
 "monastery for wanderers, rose into the air and landed on Vulture’s Peak."
 
-msgctxt "dn25:85.2"
+msgctxt "dn25:24.7"
 msgid "Sandhāno pana gahapati tāvadeva rājagahaṃ pāvisīti."
 msgstr "Meanwhile, the householder Sandhāna just went back to Rājagaha."
 
 #. </p><p class="endsutta">
-msgctxt "dn25:86.1"
+msgctxt "dn25:24.8"
 msgid "Udumbarikasuttaṃ niṭṭhitaṃ dutiyaṃ."
 msgstr ""
