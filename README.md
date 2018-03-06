@@ -57,3 +57,9 @@ info.json
 
 In the future we could consider add a .po file specifically for filling
 in such metadata.
+
+## Using these files
+
+The files are in the form we use them to pull into SuttaCentral. For the sutta translations, the original language and translation segments are accompanied by HTML, and a straight HTML version can be readily reconstructed. Please feel free to use the translation files as you wish. 
+
+The translations also contain many notes. These are mere marginal scribbles intended to help translators, and are not meant for publication.
