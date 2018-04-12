@@ -1,0 +1,69 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.32"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.32:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.32:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.32:3.1"
+msgid "Catutthavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.32:4.1"
+msgid "1.32. Suppiyattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc32"></a><a class="verse-num-pts"
+#. id="verse-num-pts32"></a>
+msgctxt "thag1.32:5.1"
+msgid "“Ajaraṃ jīramānena,"
+msgstr "I’ll exchange old age for the un-ageing,"
+
+#. <br>
+msgctxt "thag1.32:5.2"
+msgid "tappamānena nibbutiṃ;"
+msgstr "Burning for extinguishing:"
+
+#. <br>
+msgctxt "thag1.32:5.3"
+msgid "<span class=\"var\" title=\"nimmissaṃ (bj, pts1) | nirāmisaṃ (s2, s3) | nimissaṃ (pts2) | nimineyyaṃ (?)\" id=\"note32\">Nimiyaṃ</span> paramaṃ santiṃ,"
+msgstr "The ultimate peace,"
+
+#. <br>
+msgctxt "thag1.32:5.4"
+msgid "yogakkhemaṃ anuttaran”ti."
+msgstr "The unexcelled safety from the yoke."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.32:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.32:6.2"
+msgid "Suppiyo thero …."
+msgstr ""
+

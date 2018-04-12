@@ -1,0 +1,1659 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-08-20 01:42+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1503193345.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig16.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig16.1:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig16.1:2.1"
+msgid "Mahānipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig16.1:3.1"
+msgid "1. Sumedhātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc450"></a><a class="verse-num-pts"
+#. id="verse-num-pts448"></a>
+msgctxt "thig16.1:4.1"
+msgid "Mantāvatiyā nagare,"
+msgstr "In Mantāvatī city"
+
+#. <br>
+msgctxt "thig16.1:4.2"
+msgid "Rañño koñcassa aggamahesiyā;"
+msgstr "I was Sumedhā"
+
+#. <br>
+msgctxt "thig16.1:4.3"
+msgid "Dhītā āsiṃ sumedhā,"
+msgstr "Daughter of King Koñca’s highest queen"
+
+#. <br>
+msgctxt "thig16.1:4.4"
+msgid "Pasāditā sāsanakarehi."
+msgstr "She became confident in those following the teaching"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc451"></a><a class="verse-num-pts" id="verse-num-pts449"></a>
+msgctxt "thig16.1:5.1"
+msgid "Sīlavatī cittakathā,"
+msgstr "Virtuous, a brilliant speaker"
+
+#. <br>
+msgctxt "thig16.1:5.2"
+msgid "Bahussutā buddhasāsane vinitā;"
+msgstr "Of great learning, trained in the teaching of Buddha"
+
+#. <br>
+msgctxt "thig16.1:5.3"
+msgid "Mātāpitaro upagamma,"
+msgstr "Approaching her mother and father"
+
+#. <br>
+msgctxt "thig16.1:5.4"
+msgid "Bhaṇati “ubhayo nisāmetha."
+msgstr "Saying “listen, both of you"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc452"></a><a class="verse-num-pts" id="verse-num-pts450"></a>
+msgctxt "thig16.1:6.1"
+msgid "Nibbānābhiratāhaṃ,"
+msgstr "I delight in Nibbāna"
+
+#. <br>
+msgctxt "thig16.1:6.2"
+msgid "Asassataṃ bhavagataṃ yadipi dibbaṃ;"
+msgstr "Even divine existence isn’t eternal"
+
+#. <br>
+msgctxt "thig16.1:6.3"
+msgid "<span class=\"var\" title=\"kimaṅga pana (bj, s2, pts1-2) | kiṃ pana (?)\" id=\"note142\">Kimaṅgaṃ pana</span> tucchā kāmā,"
+msgstr "How much more empty are sensual pleasures?"
+
+#. <br>
+msgctxt "thig16.1:6.4"
+msgid "Appassādā bahuvighātā."
+msgstr "Of little enjoyment, plenty of trouble"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc453"></a><a class="verse-num-pts" id="verse-num-pts451"></a>
+msgctxt "thig16.1:7.1"
+msgid "Kāmā kaṭukā āsī,"
+msgstr "Sensual pleasure, pungent like snake poison:"
+
+#. <br>
+msgctxt "thig16.1:7.2"
+msgid "Visūpamā yesu mucchitā bālā;"
+msgstr "Here fools are stupefied"
+
+#. <br>
+msgctxt "thig16.1:7.3"
+msgid "Te dīgharattaṃ niraye,"
+msgstr "Confined in hell for a long time"
+
+#. <br>
+msgctxt "thig16.1:7.4"
+msgid "Samappitā <span class=\"var\" title=\"haññare dukhitā (?)\" id=\"note143\">haññante dukkhitā</span>."
+msgstr "They’re harmed and suffer"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc454"></a><a class="verse-num-pts" id="verse-num-pts452"></a>
+msgctxt "thig16.1:8.1"
+msgid "Socanti pāpakammā,"
+msgstr "Due to evil action they grieve"
+
+#. <br>
+msgctxt "thig16.1:8.2"
+msgid "Vinipāte pāpavaddhino sadā;"
+msgstr "There in a place of suffering"
+
+#. <br>
+msgctxt "thig16.1:8.3"
+msgid "Kāyena ca vācāya ca,"
+msgstr "Faithless, of evil mind, body, speech"
+
+#. <br>
+msgctxt "thig16.1:8.4"
+msgid "Manasā ca asaṃvutā bālā."
+msgstr "These fools are unrestrained"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc455"></a><a class="verse-num-pts" id="verse-num-pts453"></a>
+msgctxt "thig16.1:9.1"
+msgid "Bālā te duppaññā,"
+msgstr "Fools, unwise, senseless"
+
+#. <br>
+msgctxt "thig16.1:9.2"
+msgid "Acetanā dukkhasamudayoruddhā;"
+msgstr "Obstructed by the origin of suffering"
+
+#. <br>
+msgctxt "thig16.1:9.3"
+msgid "Desente ajānantā,"
+msgstr "Whilst the noble truths are taught"
+
+#. <br>
+msgctxt "thig16.1:9.4"
+msgid "Na bujjhare ariyasaccāni."
+msgstr "They’re ignorant of them"
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc456"></a><a class="verse-num-pts"
+#. id="verse-num-pts454"></a><a class="pts" id="pts168"></a>
+msgctxt "thig16.1:10.1"
+msgid "Saccāni amma buddhavaradesitāni,"
+msgstr "The majority, ignorant of the truths "
+
+#. <br>
+msgctxt "thig16.1:10.2"
+msgid "Te bahutarā ajānantā ye;"
+msgstr "Taught by the excellent Buddha"
+
+#. <br>
+msgctxt "thig16.1:10.3"
+msgid "Abhinandanti bhavagataṃ,"
+msgstr "Delight in existence [Mother]"
+
+#. <br>
+msgctxt "thig16.1:10.4"
+msgid "Pihenti devesu upapattiṃ."
+msgstr "Desiring birth amongst devas"
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc457"></a><a class="verse-num-pts" id="verse-num-pts455"></a>
+msgctxt "thig16.1:11.1"
+msgid "Devesupi upapatti,"
+msgstr "Birth amongst devas:"
+
+#. <br>
+msgctxt "thig16.1:11.2"
+msgid "Asassatā bhavagate aniccamhi;"
+msgstr "This also isn’t eternal"
+
+#. <br>
+msgctxt "thig16.1:11.3"
+msgid "Na ca santasanti bālā,"
+msgstr "It’s an impermanent existence"
+
+#. <br>
+msgctxt "thig16.1:11.4"
+msgid "Punappunaṃ jāyitabbassa."
+msgstr "But fools aren’t afraid of birth again and again"
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc458"></a><a class="verse-num-pts" id="verse-num-pts456"></a>
+msgctxt "thig16.1:12.1"
+msgid "Cattāro vinipātā,"
+msgstr "Four lower world states, two upper world states: "
+
+#. <br>
+msgctxt "thig16.1:12.2"
+msgid "<span class=\"var\" title=\"dve (sabbattha)\" id=\"note144\">Duve</span> ca gatiyo kathañci labbhanti;"
+msgstr "These are arrived at one way or another"
+
+#. <br>
+msgctxt "thig16.1:12.3"
+msgid "Na ca vinipātagatānaṃ,"
+msgstr "But for those gone to a lower world"
+
+#. <br>
+msgctxt "thig16.1:12.4"
+msgid "Pabbajjā atthi nirayesu."
+msgstr "There isn’t any going forth in the hells"
+
+#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
+#. id="verse-num-sc459"></a><a class="verse-num-pts" id="verse-num-pts457"></a>
+msgctxt "thig16.1:13.1"
+msgid "Anujānātha maṃ ubhayo,"
+msgstr "Grant me permission, both of you"
+
+#. <br>
+msgctxt "thig16.1:13.2"
+msgid "Pabbajituṃ dasabalassa pāvacane;"
+msgstr "To go forth in the dispensation of the ten powered one"
+
+#. <br>
+msgctxt "thig16.1:13.3"
+msgid "Appossukkā ghaṭissaṃ,"
+msgstr "Living at ease"
+
+#. <br>
+msgctxt "thig16.1:13.4"
+msgid "Jātimaraṇappahānāya."
+msgstr "I’ll apply myself to the end of birth and death"
+
+#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
+#. id="verse-num-sc460"></a><a class="verse-num-pts" id="verse-num-pts458"></a>
+msgctxt "thig16.1:14.1"
+msgid "Kiṃ <span class=\"var\" title=\"bhavagatena (s2, s3, pts1-2)\" id=\"note145\">bhavagate</span> abhinanditena,"
+msgstr "What do I have to do with delight in existence"
+
+#. <br>
+msgctxt "thig16.1:14.2"
+msgid "Kāyakalinā asārena;"
+msgstr "With this disastrous body, worthless?"
+
+#. <br>
+msgctxt "thig16.1:14.3"
+msgid "Bhavataṇhāya nirodhā,"
+msgstr "For the sake of cessation of craving for existence"
+
+#. <br>
+msgctxt "thig16.1:14.4"
+msgid "Anujānātha pabbajissāmi."
+msgstr "Grant me permission to go forth"
+
+#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
+#. id="verse-num-sc461"></a><a class="verse-num-pts" id="verse-num-pts459"></a>
+msgctxt "thig16.1:15.1"
+msgid "Buddhānaṃ uppādo vivajjito,"
+msgstr "There is the arising of Buddhas"
+
+#. <br>
+msgctxt "thig16.1:15.2"
+msgid "Akkhaṇo khaṇo laddho;"
+msgstr "The misfortunate time is avoided, the opportunity is gained"
+
+#. <br>
+msgctxt "thig16.1:15.3"
+msgid "Sīlāni brahmacariyaṃ,"
+msgstr "For the whole of my life"
+
+#. <br>
+msgctxt "thig16.1:15.4"
+msgid "Yāvajīvaṃ na dūseyyaṃ”."
+msgstr "I won’t spoil the virtues of spiritual life”"
+
+#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
+#. id="verse-num-sc462"></a><a class="verse-num-pts" id="verse-num-pts460"></a>
+msgctxt "thig16.1:16.1"
+msgid "Evaṃ bhaṇati sumedhā,"
+msgstr "Sumedhā said to her mother and father:"
+
+#. <br>
+msgctxt "thig16.1:16.2"
+msgid "<span class=\"var\" title=\" atha naṃ mātāpitaro ahaṃsu;\" id=\"note146\">Mātāpitaro “na tāva āhāraṃ;</span>"
+msgstr "“For as long as I’m a householder"
+
+#. <br>
+msgctxt "thig16.1:16.3"
+msgid "<span class=\"var\" title=\"āhariyāmi (bj) | āhariya (pts1-2) | āhārisaṃ (?)\" id=\"note147\">Āharissaṃ</span> gahaṭṭhā,"
+msgstr "I won’t take food”"
+
+#. <br>
+msgctxt "thig16.1:16.4"
+msgid "Maraṇavasaṃ gatāva hessāmi”."
+msgstr "I’ll have gone under the power of death"
+
+#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
+#. id="verse-num-sc463"></a><a class="verse-num-pts" id="verse-num-pts461"></a>
+msgctxt "thig16.1:17.1"
+msgid "Mātā dukkhitā rodati pitā ca,"
+msgstr "Her suffering mother cried"
+
+#. <br>
+msgctxt "thig16.1:17.2"
+msgid "Assā sabbaso samabhihato;"
+msgstr "Grieving in every way,"
+
+#. <br>
+msgctxt "thig16.1:17.3"
+msgid "Ghaṭenti saññāpetuṃ,"
+msgstr "He father tried to calm her"
+
+#. <br>
+msgctxt "thig16.1:17.4"
+msgid "Pāsādatale chamāpatitaṃ."
+msgstr "As she lay on the stilt longhouse floor"
+
+#. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
+#. id="verse-num-sc464"></a><a class="verse-num-pts" id="verse-num-pts462"></a>
+msgctxt "thig16.1:18.1"
+msgid "“Uṭṭhehi puttaka kiṃ soci,"
+msgstr "Stand child, what do you want with grief?"
+
+#. <br>
+msgctxt "thig16.1:18.2"
+msgid "Tena dinnāsi vāraṇavatimhi;"
+msgstr "You’re given in marriage."
+
+#. <br>
+msgctxt "thig16.1:18.3"
+msgid "Rājā <span class=\"var\" title=\"aṇīkadatto (bj) | anikaratto (s2, s3, pts1-2)\" id=\"note149\">anīkaratto</span>,"
+msgstr "King Anīkaratta is in Vāraṇavatī"
+
+#. <br>
+msgctxt "thig16.1:18.4"
+msgid "Abhirūpo tassa tvaṃ dinnā."
+msgstr "He’s handsome, you’re given to him in marriage"
+
+#. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
+#. id="verse-num-sc465"></a><a class="verse-num-pts" id="verse-num-pts463"></a>
+msgctxt "thig16.1:19.1"
+msgid "Aggamahesī bhavissasi,"
+msgstr "You be the queen consort,"
+
+#. <br>
+msgctxt "thig16.1:19.2"
+msgid "Anikarattassa rājino bhariyā;"
+msgstr "Wife of King Anīkaratta"
+
+#. <br>
+msgctxt "thig16.1:19.3"
+msgid "Sīlāni brahmacariyaṃ,"
+msgstr "Virtuous conduct, a spiritual life, the going forth: "
+
+#. <br>
+msgctxt "thig16.1:19.4"
+msgid "Pabbajjā dukkarā puttaka."
+msgstr "These are difficult to do, child"
+
+#. </p><p><a class="sc" id="17"></a><a class="verse-num-sc"
+#. id="verse-num-sc466"></a><a class="verse-num-pts" id="verse-num-pts464"></a>
+msgctxt "thig16.1:20.1"
+msgid "Rajje āṇā dhanamissariyaṃ,"
+msgstr "In kingship there’s"
+
+#. <br>
+msgctxt "thig16.1:20.2"
+msgid "Bhogā sukhā daharikāsi;"
+msgstr "Authority, wealth, supremacy, happiness of possessions"
+
+#. <br>
+msgctxt "thig16.1:20.3"
+msgid "Bhuñjāhi kāmabhoge,"
+msgstr "You’re young – enjoy the delights of sensual pleasure"
+
+#. <br>
+msgctxt "thig16.1:20.4"
+msgid "Vāreyyaṃ hotu te putta”."
+msgstr "Let your wedding take place, child"
+
+#. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
+#. id="verse-num-sc467"></a><a class="verse-num-pts" id="verse-num-pts465"></a>
+msgctxt "thig16.1:21.1"
+msgid "Atha ne bhaṇati sumedhā,"
+msgstr "Then Sumedhā said"
+
+#. <br>
+msgctxt "thig16.1:21.2"
+msgid "“Mā edisikāni bhavagatamasāraṃ;"
+msgstr "“May such not be, existence is vacuous"
+
+#. <br>
+msgctxt "thig16.1:21.3"
+msgid "Pabbajjā vā hohiti,"
+msgstr "For me I’ll either go forth or die:"
+
+#. <br>
+msgctxt "thig16.1:21.4"
+msgid "Maraṇaṃ vā me na ceva vāreyyaṃ."
+msgstr "I won’t marry"
+
+#. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
+#. id="verse-num-sc468"></a><a class="verse-num-pts"
+#. id="verse-num-pts466"></a><a class="pts" id="pts169"></a>
+msgctxt "thig16.1:22.1"
+msgid "Kimiva pūtikāyamasuciṃ,"
+msgstr "Why cling to this foul body, unclean"
+
+#. <br>
+msgctxt "thig16.1:22.2"
+msgid "Savanagandhaṃ bhayānakaṃ kuṇapaṃ;"
+msgstr "Full of worms, flowing, frightful, "
+
+#. <br>
+msgctxt "thig16.1:22.3"
+msgid "Abhisaṃviseyyaṃ bhastaṃ,"
+msgstr "A bag of corpses"
+
+#. <br>
+msgctxt "thig16.1:22.4"
+msgid "Asakiṃ paggharitaṃ asucipuṇṇaṃ."
+msgstr "Oozing, full of dirtiness?"
+
+#. </p><p><a class="sc" id="20"></a><a class="verse-num-sc"
+#. id="verse-num-sc469"></a><a class="verse-num-pts" id="verse-num-pts467"></a>
+msgctxt "thig16.1:23.1"
+msgid "Kimiva tahaṃ jānantī,"
+msgstr "What do I know it’s like?"
+
+#. <br>
+msgctxt "thig16.1:23.2"
+msgid "Vikūlakaṃ maṃsasoṇitupalittaṃ;"
+msgstr "Bodies are disgusting, smeared with flesh and blood"
+
+#. <br>
+msgctxt "thig16.1:23.3"
+msgid "Kimikulālayaṃ sakuṇabhattaṃ,"
+msgstr "Food for crowds of worms and birds"
+
+#. <br>
+msgctxt "thig16.1:23.4"
+msgid "Kaḷevaraṃ kissa diyyati."
+msgstr "Why is it given to us?"
+
+#. </p><p><a class="sc" id="21"></a><a class="verse-num-sc"
+#. id="verse-num-sc470"></a><a class="verse-num-pts" id="verse-num-pts468"></a>
+msgctxt "thig16.1:24.1"
+msgid "Nibbuyhati susānaṃ,"
+msgstr "Before long the body"
+
+#. <br>
+msgctxt "thig16.1:24.2"
+msgid "Aciraṃ kāyo apetaviññāṇo;"
+msgstr "Is led out to the cemetery"
+
+#. <br>
+msgctxt "thig16.1:24.3"
+msgid "<span class=\"var\" title=\"chaḍḍito (s2, s3) | chuṭṭho (pts1-2, mr)\" id=\"note150\">Chuddho</span> kaḷiṅgaraṃ viya,"
+msgstr "Without consciousness"
+
+#. <br>
+msgctxt "thig16.1:24.4"
+msgid "Jigucchamānehi ñātīhi."
+msgstr "Disgusted relatives throw it away like a log"
+
+#. </p><p><a class="sc" id="22"></a><a class="verse-num-sc"
+#. id="verse-num-sc471"></a><a class="verse-num-pts" id="verse-num-pts469"></a>
+msgctxt "thig16.1:25.1"
+msgid "<span class=\"var\" title=\"chaḍḍūna (s2, s3, pts1-2) | chuṭṭhuna (mr)\" id=\"note151\">Chuddhūna</span> naṃ susāne,"
+msgstr "When thrown away in the cemetery,"
+
+#. <br>
+msgctxt "thig16.1:25.2"
+msgid "Parabhattaṃ <span class=\"var\" title=\"nhāyare (?)\" id=\"note152\">nhāyanti</span> jigucchantā;"
+msgstr "Food for others"
+
+#. <br>
+msgctxt "thig16.1:25.3"
+msgid "Niyakā mātāpitaro,"
+msgstr "Disgusted, one’s own mother and father wash themselves"
+
+#. <br>
+msgctxt "thig16.1:25.4"
+msgid "Kiṃ pana sādhāraṇā janatā."
+msgstr "How much more the general population?"
+
+#. </p><p><a class="sc" id="23"></a><a class="verse-num-sc"
+#. id="verse-num-sc472"></a><a class="verse-num-pts" id="verse-num-pts470"></a>
+msgctxt "thig16.1:26.1"
+msgid "Ajjhositā asāre,"
+msgstr "They’re attached to the worthless body"
+
+#. <br>
+msgctxt "thig16.1:26.2"
+msgid "Kaḷevare aṭṭhinhārusaṃghāte;"
+msgstr "A heap of bones and sinews"
+
+#. <br>
+msgctxt "thig16.1:26.3"
+msgid "Kheḷassuccārassava,"
+msgstr "The foul body:"
+
+#. <br>
+msgctxt "thig16.1:26.4"
+msgid "<span class=\"var\" title=\"khelassuccārapassava (bj) | kheḷassumucchāssavaparipuṇṇe (pts1-2)\" id=\"note153\">Paripuṇṇe</span> pūtikāyamhi."
+msgstr "Full of saliva, tears, dung, pus"
+
+#. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
+#. id="verse-num-sc473"></a><a class="verse-num-pts" id="verse-num-pts471"></a>
+msgctxt "thig16.1:27.1"
+msgid "Yo naṃ vinibbhujitvā,"
+msgstr "If anyone dissecting it"
+
+#. <br>
+msgctxt "thig16.1:27.2"
+msgid "Abbhantaramassa bāhiraṃ kayirā;"
+msgstr "Turned it inside out"
+
+#. <br>
+msgctxt "thig16.1:27.3"
+msgid "Gandhassa asahamānā,"
+msgstr "The unendurable smell "
+
+#. <br>
+msgctxt "thig16.1:27.4"
+msgid "Sakāpi mātā jiguccheyya."
+msgstr "Would even repel one’s own mother"
+
+#. </p><p><a class="sc" id="25"></a><a class="verse-num-sc"
+#. id="verse-num-sc474"></a><a class="verse-num-pts" id="verse-num-pts472"></a>
+msgctxt "thig16.1:28.1"
+msgid "Khandhadhātuāyatanaṃ,"
+msgstr "Wisely examining "
+
+#. <br>
+msgctxt "thig16.1:28.2"
+msgid "Saṅkhataṃ jātimūlakaṃ dukkhaṃ;"
+msgstr "Aggregates, elements, sense-bases"
+
+#. <br>
+msgctxt "thig16.1:28.3"
+msgid "Yoniso anuvicinantī,"
+msgstr "Conditioned, rooted in birth, suffering"
+
+#. <br>
+msgctxt "thig16.1:28.4"
+msgid "Vāreyyaṃ kissa iccheyyaṃ."
+msgstr "Why would I wish for marriage?"
+
+#. </p><p><a class="sc" id="26"></a><a class="verse-num-sc"
+#. id="verse-num-sc475"></a><a class="verse-num-pts" id="verse-num-pts473"></a>
+msgctxt "thig16.1:29.1"
+msgid "Divase divase tisatti,"
+msgstr "Let three hundred sharp swords"
+
+#. <br>
+msgctxt "thig16.1:29.2"
+msgid "Satāni navanavā pateyyuṃ kāyamhi;"
+msgstr "Fall on my body everyday"
+
+#. <br>
+msgctxt "thig16.1:29.3"
+msgid "Vassasatampi ca ghāto,"
+msgstr "Even if the slaughter lasted 100 years"
+
+#. <br>
+msgctxt "thig16.1:29.4"
+msgid "Seyyo dukkhassa cevaṃ khayo."
+msgstr "This would be better if it led to end of suffering"
+
+#. </p><p><a class="sc" id="27"></a><a class="verse-num-sc"
+#. id="verse-num-sc476"></a><a class="verse-num-pts" id="verse-num-pts474"></a>
+msgctxt "thig16.1:30.1"
+msgid "Ajjhupagacche ghātaṃ,"
+msgstr "One should acquiesce to this slaughter"
+
+#. <br>
+msgctxt "thig16.1:30.2"
+msgid "Yo viññāyevaṃ satthuno vacanaṃ;"
+msgstr "Knowing the teachers words"
+
+#. <br>
+msgctxt "thig16.1:30.3"
+msgid "‘Dīgho <span class=\"var\" title=\"ca tesaṃ (s2, s3) | vo (mr)\" id=\"note154\">tesaṃ</span> saṃsāro,"
+msgstr "“The round of births is long"
+
+#. <br>
+msgctxt "thig16.1:30.4"
+msgid "Punappunaṃ haññamānānaṃ’."
+msgstr "Being killed again and again”"
+
+#. </p><p><a class="sc" id="28"></a><a class="verse-num-sc"
+#. id="verse-num-sc477"></a><a class="verse-num-pts"
+#. id="verse-num-pts475"></a><a class="pts" id="pts170"></a>
+msgctxt "thig16.1:31.1"
+msgid "Devesu manussesu ca,"
+msgstr "Among devas and humans"
+
+#. <br>
+msgctxt "thig16.1:31.2"
+msgid "Tiracchānayoniyā asurakāye;"
+msgstr "In the animal realm, in the body an Asura"
+
+#. <br>
+msgctxt "thig16.1:31.3"
+msgid "Petesu ca nirayesu ca,"
+msgstr "Among ghosts and hells"
+
+#. <br>
+msgctxt "thig16.1:31.4"
+msgid "Aparimitā dissare ghātā."
+msgstr "Measureless slaughters are seen"
+
+#. </p><p><a class="sc" id="29"></a><a class="verse-num-sc"
+#. id="verse-num-sc478"></a><a class="verse-num-pts" id="verse-num-pts476"></a>
+msgctxt "thig16.1:32.1"
+msgid "Ghātā nirayesu bahū,"
+msgstr "There’s much slaughtering in the hells"
+
+#. <br>
+msgctxt "thig16.1:32.2"
+msgid "Vinipātagatassa <span class=\"var\" title=\"kilissamānassa (s2, s3, pts1-2, mr)\" id=\"note155\">pīḷiyamānassa</span>;"
+msgstr "For those weighed down in a place of suffering"
+
+#. <br>
+msgctxt "thig16.1:32.3"
+msgid "Devesupi attāṇaṃ,"
+msgstr "There isn’t any protection amongst devas"
+
+#. <br>
+msgctxt "thig16.1:32.4"
+msgid "Nibbānasukhā paraṃ natthi."
+msgstr "There isn’t any happiness further than Nibbāna"
+
+#. </p><p><a class="sc" id="30"></a><a class="verse-num-sc"
+#. id="verse-num-sc479"></a><a class="verse-num-pts" id="verse-num-pts477"></a>
+msgctxt "thig16.1:33.1"
+msgid "Pattā te nibbānaṃ,"
+msgstr "Engaged in the word of the ten-powered one"
+
+#. <br>
+msgctxt "thig16.1:33.2"
+msgid "Ye yuttā dasabalassa pāvacane;"
+msgstr "They realize Nibbāna"
+
+#. <br>
+msgctxt "thig16.1:33.3"
+msgid "Appossukkā ghaṭenti,"
+msgstr "Of little longing"
+
+#. <br>
+msgctxt "thig16.1:33.4"
+msgid "Jātimaraṇappahānāya."
+msgstr "Abandoning birth and death"
+
+#. </p><p><a class="sc" id="31"></a><a class="verse-num-sc"
+#. id="verse-num-sc480"></a><a class="verse-num-pts" id="verse-num-pts478"></a>
+msgctxt "thig16.1:34.1"
+msgid "Ajjeva tātabhinikkha-"
+msgstr "On this day father, I’ll go forth"
+
+#. <br>
+msgctxt "thig16.1:34.2"
+msgid "Missaṃ bhogehi kiṃ asārehi;"
+msgstr "What’s with worthless possessions?"
+
+#. <br>
+msgctxt "thig16.1:34.3"
+msgid "Nibbinnā me kāmā,"
+msgstr "I’m disgusted with sensual pleasures"
+
+#. <br>
+msgctxt "thig16.1:34.4"
+msgid "Vantasamā tālavatthukatā”."
+msgstr "They’re given up, made like an uprooted palm-tree”"
+
+#. </p><p><a class="sc" id="32"></a><a class="verse-num-sc"
+#. id="verse-num-sc481"></a><a class="verse-num-pts" id="verse-num-pts479"></a>
+msgctxt "thig16.1:35.1"
+msgid "Sā cevaṃ bhaṇati pitara-"
+msgstr "So she spoke to her father."
+
+#. <br>
+msgctxt "thig16.1:35.2"
+msgid "Manīkaratto ca yassa sā dinnā;"
+msgstr "Just then Anīkaratta "
+
+#. <br>
+msgctxt "thig16.1:35.3"
+msgid "Upayāsi vāraṇavate,"
+msgstr "To whom she was given in marriage"
+
+#. <br>
+msgctxt "thig16.1:35.4"
+msgid "Vāreyyamupaṭṭhite kāle."
+msgstr "Arrived at the proper time"
+
+#. </p><p><a class="sc" id="33"></a><a class="verse-num-sc"
+#. id="verse-num-sc482"></a><a class="verse-num-pts" id="verse-num-pts480"></a>
+msgctxt "thig16.1:36.1"
+msgid "Atha asitanicitamuduke,"
+msgstr "Then with a sword "
+
+#. <br>
+msgctxt "thig16.1:36.2"
+msgid "Kese khaggena chindiya sumedhā;"
+msgstr "Sumedhā cut her black, thick, soft hair"
+
+#. <br>
+msgctxt "thig16.1:36.3"
+msgid "Pāsādaṃ <span class=\"var\" title=\"pidhetvā (bj, s2, s3) | padhatvā (pts1-2) | pidhitvā (mr)\" id=\"note156\">pidahitvā</span>,"
+msgstr "Having concealed herself in the stilt longhouse"
+
+#. <br>
+msgctxt "thig16.1:36.4"
+msgid "Paṭhamajjhānaṃ samāpajji."
+msgstr "She entered first Jhāna "
+
+#. </p><p><a class="sc" id="34"></a><a class="verse-num-sc"
+#. id="verse-num-sc483"></a><a class="verse-num-pts" id="verse-num-pts481"></a>
+msgctxt "thig16.1:37.1"
+msgid "Sā ca tahiṃ samāpannā,"
+msgstr "There as she entered it"
+
+#. <br>
+msgctxt "thig16.1:37.2"
+msgid "Anīkaratto ca āgato nagaraṃ;"
+msgstr "Anīkaratta came to the city"
+
+#. <br>
+msgctxt "thig16.1:37.3"
+msgid "Pāsāde <span class=\"var\" title=\"pāsādeva (bj, s2, s3, pts1-2)\" id=\"note157\">ca</span> sumedhā,"
+msgstr "There in the stilt longhouse"
+
+#. <br>
+msgctxt "thig16.1:37.4"
+msgid "<span class=\"var\" title=\"aniccasaññā (sabbattha)\" id=\"note158\">Aniccasaññaṃ</span> subhāveti."
+msgstr "Sumedhā developed the perception of impermanence"
+
+#. </p><p><a class="sc" id="35"></a><a class="verse-num-sc"
+#. id="verse-num-sc484"></a><a class="verse-num-pts" id="verse-num-pts482"></a>
+msgctxt "thig16.1:38.1"
+msgid "Sā ca manasi karoti,"
+msgstr "As she contemplated"
+
+#. <br>
+msgctxt "thig16.1:38.2"
+msgid "Anīkaratto ca āruhī turitaṃ;"
+msgstr "Anīkaratta quickly acended (the stilt longhouse)"
+
+#. <br>
+msgctxt "thig16.1:38.3"
+msgid "Maṇikanakabhūsitaṅgo,"
+msgstr "Limbs adorned in gems and gold"
+
+#. <br>
+msgctxt "thig16.1:38.4"
+msgid "Katañjalī yācati sumedhaṃ."
+msgstr "He begged Sumedhā with cupped hands "
+
+#. </p><p><a class="sc" id="36"></a><a class="verse-num-sc"
+#. id="verse-num-sc485"></a><a class="verse-num-pts" id="verse-num-pts483"></a>
+msgctxt "thig16.1:39.1"
+msgid "“Rajje āṇādhanamissa-"
+msgstr "“In kingship there’s"
+
+#. <br>
+msgctxt "thig16.1:39.2"
+msgid "Riyaṃ bhogā sukhā daharikāsi;"
+msgstr "Authority, wealth, supremacy, happiness of possessions"
+
+#. <br>
+msgctxt "thig16.1:39.3"
+msgid "Bhuñjāhi kāmabhoge,"
+msgstr "You’re young – enjoy the delights of sensual pleasure"
+
+#. <br>
+msgctxt "thig16.1:39.4"
+msgid "Kāmasukhā dullabhā loke."
+msgstr "Happiness of sensual pleasure is rare to obtain in the world"
+
+#. </p><p><a class="sc" id="37"></a><a class="verse-num-sc"
+#. id="verse-num-sc486"></a><a class="verse-num-pts" id="verse-num-pts484"></a>
+msgctxt "thig16.1:40.1"
+msgid "Nissaṭṭhaṃ te rajjaṃ,"
+msgstr "I’ve handed my kingship to you"
+
+#. <br>
+msgctxt "thig16.1:40.2"
+msgid "Bhoge bhuñjassu dehi dānāni;"
+msgstr "Enjoy possessions, give gifts"
+
+#. <br>
+msgctxt "thig16.1:40.3"
+msgid "Mā dummanā ahosi,"
+msgstr "Don’t be sad"
+
+#. <br>
+msgctxt "thig16.1:40.4"
+msgid "<span class=\"var\" title=\"mātāpitaro ca te dukhitā (?)\" id=\"note159\">Mātāpitaro te dukkhitā</span>”."
+msgstr "Your mother and father are suffering”"
+
+#. </p><p><a class="sc" id="38"></a><a class="verse-num-sc"
+#. id="verse-num-sc487"></a><a class="verse-num-pts" id="verse-num-pts485"></a>
+msgctxt "thig16.1:41.1"
+msgid "Taṃ taṃ bhaṇati sumedhā,"
+msgstr "Then Sumedhā"
+
+#. <br>
+msgctxt "thig16.1:41.2"
+msgid "Kāmehi anatthikā vigatamohā;"
+msgstr "Uninterested in sensual pleasure, with delusion vanished"
+
+#. <br>
+msgctxt "thig16.1:41.3"
+msgid "“Mā kāme abhinandi,"
+msgstr "Said “don’t rejoice in sensual pleasures"
+
+#. <br>
+msgctxt "thig16.1:41.4"
+msgid "Kāmesvādīnavaṃ passa."
+msgstr "See the danger in sensual pleasures"
+
+#. </p><p><a class="sc" id="39"></a><a class="verse-num-sc"
+#. id="verse-num-sc488"></a><a class="verse-num-pts"
+#. id="verse-num-pts486"></a><a class="pts" id="pts171"></a>
+msgctxt "thig16.1:42.1"
+msgid "Cātuddīpo rājā,"
+msgstr "Mandhātar, king of four continents"
+
+#. <br>
+msgctxt "thig16.1:42.2"
+msgid "Mandhātā āsi kāmabhoginamaggo;"
+msgstr "Foremost in enjoying sensual pleasure"
+
+#. <br>
+msgctxt "thig16.1:42.3"
+msgid "Atitto kālaṅkato,"
+msgstr "Died unsatisfied"
+
+#. <br>
+msgctxt "thig16.1:42.4"
+msgid "Na cassa paripūritā icchā."
+msgstr "His wishes were not fulfilled"
+
+#. </p><p><a class="sc" id="40"></a><a class="verse-num-sc"
+#. id="verse-num-sc489"></a><a class="verse-num-pts" id="verse-num-pts487"></a>
+msgctxt "thig16.1:43.1"
+msgid "Satta ratanāni vasseyya,"
+msgstr "Even if the sky-deva"
+
+#. <br>
+msgctxt "thig16.1:43.2"
+msgid "Vuṭṭhimā dasadisā samantena;"
+msgstr "Rained seven gems all over the ten directions"
+
+#. <br>
+msgctxt "thig16.1:43.3"
+msgid "Na catthi titti kāmānaṃ,"
+msgstr "There wouldn’t be any satisfaction in sensual pleasures "
+
+#. <br>
+msgctxt "thig16.1:43.4"
+msgid "Atittāva maranti narā."
+msgstr "Truly, humans die unsatisfied"
+
+#. </p><p><a class="sc" id="41"></a><a class="verse-num-sc"
+#. id="verse-num-sc490"></a><a class="verse-num-pts" id="verse-num-pts488"></a>
+msgctxt "thig16.1:44.1"
+msgid "Asisūnūpamā kāmā,"
+msgstr "Sensual pleasures are like a sword"
+
+#. <br>
+msgctxt "thig16.1:44.2"
+msgid "kāmā sappasiropamā;"
+msgstr "Sensual pleasures are like a snakes head"
+
+#. <br>
+msgctxt "thig16.1:44.3"
+msgid "Ukkopamā anudahanti,"
+msgstr "Burning like a fire-torch"
+
+#. <br>
+msgctxt "thig16.1:44.4"
+msgid "<span class=\"var\" title=\"... kaṅkhala (bj) | ... kaṅkāla (pts1-2)\" id=\"note160\">aṭṭhikaṅkala</span> sannibhā."
+msgstr "Resembling a skeleton"
+
+#. </p><p><a class="sc" id="42"></a><a class="verse-num-sc"
+#. id="verse-num-sc491"></a><a class="verse-num-pts" id="verse-num-pts489"></a>
+msgctxt "thig16.1:45.1"
+msgid "Aniccā adhuvā kāmā,"
+msgstr "Sensual pleasures are impermanent and unstable"
+
+#. <br>
+msgctxt "thig16.1:45.2"
+msgid "bahudukkhā mahāvisā;"
+msgstr "Of much suffering, a great poison"
+
+#. <br>
+msgctxt "thig16.1:45.3"
+msgid "Ayoguḷova santatto,"
+msgstr "Like a hot iron-ball"
+
+#. <br>
+msgctxt "thig16.1:45.4"
+msgid "aghamūlā dukhapphalā."
+msgstr "The root of misery, fruiting in suffering"
+
+#. </p><p><a class="sc" id="43"></a><a class="verse-num-sc"
+#. id="verse-num-sc492"></a><a class="verse-num-pts" id="verse-num-pts490"></a>
+msgctxt "thig16.1:46.1"
+msgid "Rukkhapphalūpamā kāmā,"
+msgstr "Sensual pleasures are like fruits of a tree"
+
+#. <br>
+msgctxt "thig16.1:46.2"
+msgid "maṃsapesūpamā dukhā;"
+msgstr "Like lumps of meat, suffering"
+
+#. <br>
+msgctxt "thig16.1:46.3"
+msgid "Supinopamā vañcaniyā,"
+msgstr "They’re deceiving like dreams"
+
+#. <br>
+msgctxt "thig16.1:46.4"
+msgid "kāmā yācitakūpamā."
+msgstr "Sensual pleasures are like borrowed goods"
+
+#. </p><p><a class="sc" id="44"></a><a class="verse-num-sc"
+#. id="verse-num-sc493"></a><a class="verse-num-pts" id="verse-num-pts491"></a>
+msgctxt "thig16.1:47.1"
+msgid "Sattisūlūpamā kāmā,"
+msgstr "Sensual pleasures are like swords and stakes"
+
+#. <br>
+msgctxt "thig16.1:47.2"
+msgid "rogo gaṇḍo aghaṃ nighaṃ;"
+msgstr "A disease, a boil, suffering damage"
+
+#. <br>
+msgctxt "thig16.1:47.3"
+msgid "Aṅgārakāsusadisā,"
+msgstr "Like a pit of glowing coals"
+
+#. <br>
+msgctxt "thig16.1:47.4"
+msgid "aghamūlaṃ bhayaṃ vadho."
+msgstr "The root of suffering, fear, killing"
+
+#. </p><p><a class="sc" id="45"></a><a class="verse-num-sc"
+#. id="verse-num-sc494"></a><a class="verse-num-pts" id="verse-num-pts492"></a>
+msgctxt "thig16.1:48.1"
+msgid "Evaṃ bahudukkhā kāmā,"
+msgstr "Sensual pleasures are of great suffering"
+
+#. <br>
+msgctxt "thig16.1:48.2"
+msgid "akkhātā antarāyikā;"
+msgstr "Obstacles, so it’s been proclaimed."
+
+#. <br>
+msgctxt "thig16.1:48.3"
+msgid "Gacchatha na me bhavagate,"
+msgstr "Go! As for me, "
+
+#. <br>
+msgctxt "thig16.1:48.4"
+msgid "vissāso atthi attano."
+msgstr "I’ve no trust in existence."
+
+#. </p><p><a class="sc" id="46"></a><a class="verse-num-sc"
+#. id="verse-num-sc485"></a><a class="verse-num-pts" id="verse-num-pts493"></a>
+msgctxt "thig16.1:49.1"
+msgid "Kiṃ mama paro karissati,"
+msgstr "What can another do for me"
+
+#. <br>
+msgctxt "thig16.1:49.2"
+msgid "Attano sīsamhi ḍayhamānamhi;"
+msgstr "When their own head burns?"
+
+#. <br>
+msgctxt "thig16.1:49.3"
+msgid "Anubandhe jarāmaraṇe,"
+msgstr "Bound by old age and death"
+
+#. <br>
+msgctxt "thig16.1:49.4"
+msgid "Tassa ghātāya ghaṭitabbaṃ”."
+msgstr "Let one strive for their end”"
+
+#. </p><p><a class="sc" id="47"></a><a class="verse-num-sc"
+#. id="verse-num-sc486"></a><a class="verse-num-pts" id="verse-num-pts494"></a>
+msgctxt "thig16.1:50.1"
+msgid "Dvāraṃ <span class=\"var\" title=\"avāpuritvāhaṃ (bj) | apāpuṇitvānāyaṃ (s2, s3) | apāpuṇitvāna'yaṃ (pts1-2)\" id=\"note161\">apāpuritvānahaṃ</span>,"
+msgstr "Opening the door"
+
+#. <br>
+msgctxt "thig16.1:50.2"
+msgid "Mātāpitaro anīkarattañca;"
+msgstr "Seeing her mother, father and Anīkaratta"
+
+#. <br>
+msgctxt "thig16.1:50.3"
+msgid "Disvāna chamaṃ nisinne,"
+msgstr "Sitting on the ground crying"
+
+#. <br>
+msgctxt "thig16.1:50.4"
+msgid "Rodante idamavocaṃ."
+msgstr "She said this:"
+
+#. </p><p><a class="sc" id="48"></a><a class="verse-num-sc"
+#. id="verse-num-sc497"></a><a class="verse-num-pts" id="verse-num-pts495"></a>
+msgctxt "thig16.1:51.1"
+msgid "“Dīgho bālānaṃ saṃsāro,"
+msgstr "“The round of births is long for fools"
+
+#. <br>
+msgctxt "thig16.1:51.2"
+msgid "Punappunañca rodataṃ;"
+msgstr "And those who cry again and again"
+
+#. <br>
+msgctxt "thig16.1:51.3"
+msgid "Anamatagge pitu maraṇe,"
+msgstr "At that without beginning"
+
+#. <br>
+msgctxt "thig16.1:51.4"
+msgid "Bhātu vadhe attano ca vadhe."
+msgstr "The death of father, the killing of brother and themselves"
+
+#. </p><p><a class="sc" id="49"></a><a class="verse-num-sc"
+#. id="verse-num-sc498"></a><a class="verse-num-pts" id="verse-num-pts496"></a>
+msgctxt "thig16.1:52.1"
+msgid "Assu thaññaṃ rudhiraṃ,"
+msgstr "Recall the tears, blood and milk"
+
+#. <br>
+msgctxt "thig16.1:52.2"
+msgid "Saṃsāraṃ anamataggato saratha;"
+msgstr "The round of births as without beginning"
+
+#. <br>
+msgctxt "thig16.1:52.3"
+msgid "Sattānaṃ saṃsarataṃ,"
+msgstr "Recall the accumulation of bones"
+
+#. <br>
+msgctxt "thig16.1:52.4"
+msgid "Sarāhi aṭṭhīnañca sannicayaṃ."
+msgstr "Of those in the round of births"
+
+#. </p><p><a class="sc" id="50"></a><a class="verse-num-sc"
+#. id="verse-num-sc499"></a><a class="verse-num-pts" id="verse-num-pts497"></a>
+msgctxt "thig16.1:53.1"
+msgid "<span class=\"var\" title=\"sarassu caturo udadhī (?)\" id=\"note162\">Sara caturodadhī</span>,"
+msgstr "Recall the four oceans"
+
+#. <br>
+msgctxt "thig16.1:53.2"
+msgid "Upanīte assuthaññarudhiramhi;"
+msgstr "Compared with tears, milk, blood"
+
+#. <br>
+msgctxt "thig16.1:53.3"
+msgid "Sara ekakappamaṭṭhīnaṃ,"
+msgstr "Recall the accumulation of bones from person over an eon"
+
+#. <br>
+msgctxt "thig16.1:53.4"
+msgid "Sañcayaṃ vipulena samaṃ."
+msgstr "Same size as Mt Vipulena"
+
+#. </p><p><a class="sc" id="51"></a><a class="verse-num-sc"
+#. id="verse-num-sc500"></a><a class="verse-num-pts"
+#. id="verse-num-pts498"></a><a class="pts" id="pts172"></a>
+msgctxt "thig16.1:54.1"
+msgid "Anamatagge saṃsarato,"
+msgstr "Recall the great earth, Jambudīpa"
+
+#. <br>
+msgctxt "thig16.1:54.2"
+msgid "<span class=\"var\" title=\"mahāmahiṃ (?)\" id=\"note163\">Mahiṃ</span> jambudīpamupanītaṃ;"
+msgstr "Without beginning like the round of births"
+
+#. <br>
+msgctxt "thig16.1:54.3"
+msgid "Kolaṭṭhimattaguḷikā,"
+msgstr "Split up into the size of jujube seeds"
+
+#. <br>
+msgctxt "thig16.1:54.4"
+msgid "Mātā mātusveva nappahonti."
+msgstr "They’re less than his mother’s mothers"
+
+#. </p><p><a class="sc" id="52"></a><a class="verse-num-sc"
+#. id="verse-num-sc501"></a><a class="verse-num-pts" id="verse-num-pts499"></a>
+msgctxt "thig16.1:55.1"
+msgid "<span class=\"var\" title=\"sara tiṇakaṭṭhasākhāpalāsaṃ (bj, s2, s3) | sara tiṇakaṭṭhaṃ sākhāpalāsaṃ (pts1-2)\" id=\"note164\">Tiṇakaṭṭhasākhāpalāsaṃ</span>,"
+msgstr "Recall the grass, sticks, and leaves"
+
+#. <br>
+msgctxt "thig16.1:55.2"
+msgid "Upanītaṃ anamataggato sara;"
+msgstr "Compared to his fathers as without beginning"
+
+#. <br>
+msgctxt "thig16.1:55.3"
+msgid "Caturaṅgulikā ghaṭikā,"
+msgstr "Split up into pieces four finger-breadths"
+
+#. <br>
+msgctxt "thig16.1:55.4"
+msgid "Pitupitusveva nappahonti."
+msgstr "They’re less than his father’s fathers"
+
+#. </p><p><a class="sc" id="53"></a><a class="verse-num-sc"
+#. id="verse-num-sc502"></a><a class="verse-num-pts" id="verse-num-pts500"></a>
+msgctxt "thig16.1:56.1"
+msgid "Sara kāṇakacchapaṃ pubba-"
+msgstr "Recall the blind turtle in the eastern ocean"
+
+#. <br>
+msgctxt "thig16.1:56.2"
+msgid "Samudde aparato ca yugachiddaṃ;"
+msgstr "The hoop with the hole in the west "
+
+#. <br>
+msgctxt "thig16.1:56.3"
+msgid "<span class=\"var\" title=\"sara (bj)\" id=\"note165\">Siraṃ</span> tassa ca paṭimukkaṃ,"
+msgstr "Recall the wearing the hoop round the head"
+
+#. <br>
+msgctxt "thig16.1:56.4"
+msgid "Manussalābhamhi opammaṃ."
+msgstr "As a simile for gaining a human birth"
+
+#. </p><p><a class="sc" id="54"></a><a class="verse-num-sc"
+#. id="verse-num-sc503"></a><a class="verse-num-pts" id="verse-num-pts501"></a>
+msgctxt "thig16.1:57.1"
+msgid "Sara rūpaṃ pheṇapiṇḍopa-"
+msgstr "Recall the form of this worst of bodies"
+
+#. <br>
+msgctxt "thig16.1:57.2"
+msgid "Massa kāyakalino asārassa;"
+msgstr "Substanceless like a lump of foam "
+
+#. <br>
+msgctxt "thig16.1:57.3"
+msgid "Khandhe passa anicce,"
+msgstr "See the aggregates as impermanent"
+
+#. <br>
+msgctxt "thig16.1:57.4"
+msgid "Sarāhi niraye bahuvighāte."
+msgstr "Recall the hells, of much anguish"
+
+#. </p><p><a class="sc" id="55"></a><a class="verse-num-sc"
+#. id="verse-num-sc504"></a><a class="verse-num-pts" id="verse-num-pts502"></a>
+msgctxt "thig16.1:58.1"
+msgid "Sara kaṭasiṃ vaḍḍhente,"
+msgstr "Recall those growing the cemeteries"
+
+#. <br>
+msgctxt "thig16.1:58.2"
+msgid "Punappunaṃ tāsu tāsu jātīsu;"
+msgstr "Again and again in this and that birth"
+
+#. <br>
+msgctxt "thig16.1:58.3"
+msgid "Sara kumbhīlabhayāni ca,"
+msgstr "Recall the fears of the crocodile"
+
+#. <br>
+msgctxt "thig16.1:58.4"
+msgid "Sarāhi cattāri saccāni."
+msgstr "Recall the four truths"
+
+#. </p><p><a class="sc" id="56"></a><a class="verse-num-sc"
+#. id="verse-num-sc505"></a><a class="verse-num-pts" id="verse-num-pts503"></a>
+msgctxt "thig16.1:59.1"
+msgid "Amatamhi vijjamāne,"
+msgstr "When the deathless exists"
+
+#. <br>
+msgctxt "thig16.1:59.2"
+msgid "Kiṃ tava pañcakaṭukena pītena;"
+msgstr "Why drink the five bitter things?"
+
+#. <br>
+msgctxt "thig16.1:59.3"
+msgid "Sabbā hi kāmaratiyo,"
+msgstr "Delight in sensual pleasure:"
+
+#. <br>
+msgctxt "thig16.1:59.4"
+msgid "Kaṭukatarā pañcakaṭukena."
+msgstr "All of it is bitterer than this"
+
+#. </p><p><a class="sc" id="57"></a><a class="verse-num-sc"
+#. id="verse-num-sc506"></a><a class="verse-num-pts" id="verse-num-pts504"></a>
+msgctxt "thig16.1:60.1"
+msgid "Amatamhi vijjamāne,"
+msgstr "When the deathless exists"
+
+#. <br>
+msgctxt "thig16.1:60.2"
+msgid "Kiṃ tava kāmehi ye <span class=\"var\" title=\"sapariḷāhā (bj)\" id=\"note166\">pariḷāhā</span>;"
+msgstr "Why do you want feverish sensual pleasure?"
+
+#. <br>
+msgctxt "thig16.1:60.3"
+msgid "Sabbā hi kāmaratiyo,"
+msgstr "Delight in sensual pleasure:"
+
+#. <br>
+msgctxt "thig16.1:60.4"
+msgid "Jalitā kuthitā kampitā santāpitā."
+msgstr "All of it burns, boils, torments"
+
+#. </p><p><a class="sc" id="58"></a><a class="verse-num-sc"
+#. id="verse-num-sc507"></a><a class="verse-num-pts" id="verse-num-pts505"></a>
+msgctxt "thig16.1:61.1"
+msgid "Asapattamhi samāne,"
+msgstr "When there is peace"
+
+#. <br>
+msgctxt "thig16.1:61.2"
+msgid "Kiṃ tava kāmehi ye bahusapattā;"
+msgstr "Why do you want agitated sensual pleasures?"
+
+#. <br>
+msgctxt "thig16.1:61.3"
+msgid "Rājaggicoraudakappiyehi,"
+msgstr "Like kings, fire, robbers, water and unbeloved people"
+
+#. <br>
+msgctxt "thig16.1:61.4"
+msgid "Sādhāraṇā kāmā bahusapattā."
+msgstr "Sensual pleasures are of no peace"
+
+#. </p><p><a class="sc" id="59"></a><a class="verse-num-sc"
+#. id="verse-num-sc508"></a><a class="verse-num-pts" id="verse-num-pts506"></a>
+msgctxt "thig16.1:62.1"
+msgid "Mokkhamhi vijjamāne,"
+msgstr "When freedom exists"
+
+#. <br>
+msgctxt "thig16.1:62.2"
+msgid "Kiṃ tava kāmehi yesu vadhabandho;"
+msgstr "Why do you want killing and binding sensual pleasure?"
+
+#. <br>
+msgctxt "thig16.1:62.3"
+msgid "Kāmesu hi asakāmā,"
+msgstr "Amongst sensual pleasure"
+
+#. <br>
+msgctxt "thig16.1:62.4"
+msgid "Vadhabandhadukhāni anubhonti."
+msgstr "People undergo the suffering of killing and bonds"
+
+#. </p><p><a class="sc" id="60"></a><a class="verse-num-sc"
+#. id="verse-num-sc509"></a><a class="verse-num-pts"
+#. id="verse-num-pts507"></a><a class="pts" id="pts173"></a>
+msgctxt "thig16.1:63.1"
+msgid "Ādīpitā tiṇukkā,"
+msgstr "Like a grass-torch on fire"
+
+#. <br>
+msgctxt "thig16.1:63.2"
+msgid "Gaṇhantaṃ dahanti neva muñcantaṃ;"
+msgstr "Burns only one who grasps it without letting go"
+
+#. <br>
+msgctxt "thig16.1:63.3"
+msgid "Ukkopamā hi kāmā,"
+msgstr "Sensual pleasures are like a grass-torch"
+
+#. <br>
+msgctxt "thig16.1:63.4"
+msgid "Dahanti ye te na muñcanti."
+msgstr "Burning those who don’t let go"
+
+#. </p><p><a class="sc" id="61"></a><a class="verse-num-sc"
+#. id="verse-num-sc510"></a><a class="verse-num-pts" id="verse-num-pts508"></a>
+msgctxt "thig16.1:64.1"
+msgid "Mā appakassa hetu,"
+msgstr "Don’t give up abundant happiness"
+
+#. <br>
+msgctxt "thig16.1:64.2"
+msgid "Kāmasukhassa vipulaṃ jahī sukhaṃ;"
+msgstr "For sake of insignificant happiness from sensual pleasure"
+
+#. <br>
+msgctxt "thig16.1:64.3"
+msgid "Mā puthulomova baḷisaṃ,"
+msgstr "Don’t suffer later"
+
+#. <br>
+msgctxt "thig16.1:64.4"
+msgid "Gilitvā pacchā vihaññasi."
+msgstr "Like a Purhuloma fish swallowing a hook"
+
+#. </p><p><a class="sc" id="62"></a><a class="verse-num-sc"
+#. id="verse-num-sc511"></a><a class="verse-num-pts" id="verse-num-pts509"></a>
+msgctxt "thig16.1:65.1"
+msgid "Kāmaṃ kāmesu damassu,"
+msgstr "Be tamed among sensual pleasures"
+
+#. <br>
+msgctxt "thig16.1:65.2"
+msgid "Tāva sunakhova saṅkhalābaddho;"
+msgstr "You’re like a dog fixed to a chain"
+
+#. <br>
+msgctxt "thig16.1:65.3"
+msgid "Kāhinti khu taṃ kāmā,"
+msgstr "Sensual pleasures will handle you"
+
+#. <br>
+msgctxt "thig16.1:65.4"
+msgid "Chātā sunakhaṃva caṇḍālā."
+msgstr "Like a hungry outcaste would a dog"
+
+#. </p><p><a class="sc" id="63"></a><a class="verse-num-sc"
+#. id="verse-num-sc512"></a><a class="verse-num-pts" id="verse-num-pts510"></a>
+msgctxt "thig16.1:66.1"
+msgid "Aparimitañca dukkhaṃ,"
+msgstr "Harnessed to sensual pleasure"
+
+#. <br>
+msgctxt "thig16.1:66.2"
+msgid "Bahūni ca cittadomanassāni;"
+msgstr "One undergoes measureless suffering"
+
+#. <br>
+msgctxt "thig16.1:66.3"
+msgid "Anubhohisi kāmayutto,"
+msgstr "Along with much mental pain"
+
+#. <br>
+msgctxt "thig16.1:66.4"
+msgid "<span class=\"var\" title=\"paṭinissara (bj)\" id=\"note167\">Paṭinissaja</span> addhuve kāme."
+msgstr "Give up impermanent sensual pleasures"
+
+#. </p><p><a class="sc" id="64"></a><a class="verse-num-sc"
+#. id="verse-num-sc513"></a><a class="verse-num-pts" id="verse-num-pts511"></a>
+msgctxt "thig16.1:67.1"
+msgid "Ajaramhi vijjamāne,"
+msgstr "When the ageless exists"
+
+#. <br>
+msgctxt "thig16.1:67.2"
+msgid "Kiṃ tava kāmehi <span class=\"var\" title=\" yesu jarāya ca; maraṇabyādhihi gahitā (?)\" id=\"note168\">yesu jarā;</span>"
+msgstr ""
+
+#. <br>
+msgctxt "thig16.1:67.3"
+msgid "Maraṇabyādhigahitā,"
+msgstr "Among it is old age, death, disease"
+
+#. <br>
+msgctxt "thig16.1:67.4"
+msgid "Sabbā sabbattha jātiyo."
+msgstr "All births everywhere are grasped by this"
+
+#. </p><p><a class="sc" id="65"></a><a class="verse-num-sc"
+#. id="verse-num-sc514"></a><a class="verse-num-pts" id="verse-num-pts512"></a>
+msgctxt "thig16.1:68.1"
+msgid "<span class=\"var\" title=\"idaṃ ajaraṃ idaṃ amaraṃ (?)\" id=\"note170\">Idamajaramidamamaraṃ</span>,"
+msgstr "This is the ageless, this is the deathless"
+
+#. <br>
+msgctxt "thig16.1:68.2"
+msgid "Idamajarāmaraṃ padamasokaṃ;"
+msgstr "This is the ageless, deathless sorrowless state"
+
+#. <br>
+msgctxt "thig16.1:68.3"
+msgid "Asapattamasambādhaṃ,"
+msgstr "Peaceful, unobstructed"
+
+#. <br>
+msgctxt "thig16.1:68.4"
+msgid "Akhalitamabhayaṃ nirupatāpaṃ."
+msgstr "Faultless, fearless, without affliction"
+
+#. </p><p><a class="sc" id="66"></a><a class="verse-num-sc"
+#. id="verse-num-sc515"></a><a class="verse-num-pts" id="verse-num-pts513"></a>
+msgctxt "thig16.1:69.1"
+msgid "Adhigatamidaṃ bahūhi,"
+msgstr "By many the deathless is realised"
+
+#. <br>
+msgctxt "thig16.1:69.2"
+msgid "Amataṃ ajjāpi ca labhanīyamidaṃ;"
+msgstr "Even today it can be realised "
+
+#. <br>
+msgctxt "thig16.1:69.3"
+msgid "Yo yoniso payuñjati,"
+msgstr "By one wisely applying themselves"
+
+#. <br>
+msgctxt "thig16.1:69.4"
+msgid "Na ca sakkā aghaṭamānena”."
+msgstr "But it isn’t possible for one not trying”"
+
+#. </p><p><a class="sc" id="67"></a><a class="verse-num-sc"
+#. id="verse-num-sc516"></a><a class="verse-num-pts" id="verse-num-pts514"></a>
+msgctxt "thig16.1:70.1"
+msgid "Evaṃ bhaṇati sumedhā,"
+msgstr "So said Sumedhā"
+
+#. <br>
+msgctxt "thig16.1:70.2"
+msgid "Saṅkhāragate ratiṃ alabhamānā;"
+msgstr "Without delight in conditioned phenomena"
+
+#. <br>
+msgctxt "thig16.1:70.3"
+msgid "Anunentī anikarattaṃ,"
+msgstr "Pacifying Anīkaratta"
+
+#. <br>
+msgctxt "thig16.1:70.4"
+msgid "Kese ca chamaṃ khipi sumedhā."
+msgstr "Sumedhā cast her hair on the ground"
+
+#. </p><p><a class="sc" id="68"></a><a class="verse-num-sc"
+#. id="verse-num-sc517"></a><a class="verse-num-pts" id="verse-num-pts515"></a>
+msgctxt "thig16.1:71.1"
+msgid "Uṭṭhāya anikaratto,"
+msgstr "Standing up, Anīkaratta"
+
+#. <br>
+msgctxt "thig16.1:71.2"
+msgid "Pañjaliko yācatassā pitaraṃ so;"
+msgstr "Raised cupped hands to her father"
+
+#. <br>
+msgctxt "thig16.1:71.3"
+msgid "“Vissajjetha sumedhaṃ,"
+msgstr "Saying “Let Sumedhā go forth"
+
+#. <br>
+msgctxt "thig16.1:71.4"
+msgid "Pabbajituṃ vimokkhasaccadassā”."
+msgstr "She will see the truth of emancipation”"
+
+#. </p><p><a class="sc" id="69"></a><a class="verse-num-sc"
+#. id="verse-num-sc518"></a><a class="verse-num-pts" id="verse-num-pts516"></a>
+msgctxt "thig16.1:72.1"
+msgid "Vissajjitā mātāpitūhi,"
+msgstr "Allowed to go by her mother and father"
+
+#. <br>
+msgctxt "thig16.1:72.2"
+msgid "pabbaji sokabhayabhītā;"
+msgstr "She went forth, terrified by grief and fear"
+
+#. <br>
+msgctxt "thig16.1:72.3"
+msgid "Cha abhiññā sacchikatā,"
+msgstr "Whilst training she realized the six direct knowledges"
+
+#. <br>
+msgctxt "thig16.1:72.4"
+msgid "aggaphalaṃ sikkhamānāya."
+msgstr "Along with the highest fruit"
+
+#. </p><p><a class="sc" id="70"></a><a class="verse-num-sc"
+#. id="verse-num-sc519"></a><a class="verse-num-pts"
+#. id="verse-num-pts517"></a><a class="pts" id="pts174"></a>
+msgctxt "thig16.1:73.1"
+msgid "Acchariyamabbhutaṃ taṃ,"
+msgstr "Wonderful and marvelous"
+
+#. <br>
+msgctxt "thig16.1:73.2"
+msgid "Nibbānaṃ āsi rājakaññāya;"
+msgstr "Was the Nibbāna of the princess"
+
+#. <br>
+msgctxt "thig16.1:73.3"
+msgid "Pubbenivāsacaritaṃ,"
+msgstr "As she spoke at that final time"
+
+#. <br>
+msgctxt "thig16.1:73.4"
+msgid "Yathā byākari pacchime kāle."
+msgstr "Of her activities in former existences"
+
+#. </p><p><a class="sc" id="71"></a><a class="verse-num-sc"
+#. id="verse-num-sc520"></a><a class="verse-num-pts" id="verse-num-pts518"></a>
+msgctxt "thig16.1:74.1"
+msgid "“Bhagavati koṇāgamane,"
+msgstr "At the time of the Blessed One Koṇāgamana"
+
+#. <br>
+msgctxt "thig16.1:74.2"
+msgid "Saṃghārāmamhi navanivesamhi;"
+msgstr "In a monastery of the Saṅgha, a new abode"
+
+#. <br>
+msgctxt "thig16.1:74.3"
+msgid "Sakhiyo tisso janiyo,"
+msgstr "We three friends"
+
+#. <br>
+msgctxt "thig16.1:74.4"
+msgid "Vihāradānaṃ adāsimha."
+msgstr "Gave a dwelling place"
+
+#. </p><p><a class="sc" id="72"></a><a class="verse-num-sc"
+#. id="verse-num-sc521"></a><a class="verse-num-pts" id="verse-num-pts519"></a>
+msgctxt "thig16.1:75.1"
+msgid "Dasakkhattuṃ satakkhattuṃ,"
+msgstr "Ten times, a hundred times"
+
+#. <br>
+msgctxt "thig16.1:75.2"
+msgid "Dasasatakkhattuṃ satāni ca satakkhattuṃ;"
+msgstr "A thousand times, ten thousand times"
+
+#. <br>
+msgctxt "thig16.1:75.3"
+msgid "Devesu uppajjimha,"
+msgstr "We arose amongst devas"
+
+#. <br>
+msgctxt "thig16.1:75.4"
+msgid "Ko pana vādo manussesu."
+msgstr "But why talk about it amongst humans?"
+
+#. </p><p><a class="sc" id="73"></a><a class="verse-num-sc"
+#. id="verse-num-sc522"></a><a class="verse-num-pts" id="verse-num-pts520"></a>
+msgctxt "thig16.1:76.1"
+msgid "Devesu mahiddhikā ahumha,"
+msgstr "Amongst devas we had great magical powers"
+
+#. <br>
+msgctxt "thig16.1:76.2"
+msgid "Mānusakamhi ko pana vādo;"
+msgstr "But why talk about it amongst humans?"
+
+#. <br>
+msgctxt "thig16.1:76.3"
+msgid "Sattaratanassa mahesī,"
+msgstr "I was queen to a seven-jewelled king"
+
+#. <br>
+msgctxt "thig16.1:76.4"
+msgid "Itthiratanaṃ ahaṃ āsiṃ."
+msgstr "I was his jewel-wife"
+
+#. </p><p><a class="sc" id="74"></a><a class="verse-num-sc"
+#. id="verse-num-sc523"></a><a class="verse-num-pts" id="verse-num-pts521"></a>
+msgctxt "thig16.1:77.1"
+msgid "So hetu so pabhavo,"
+msgstr "That was the condition, origin, root"
+
+#. <br>
+msgctxt "thig16.1:77.2"
+msgid "Taṃ mūlaṃ sāva sāsane khantī;"
+msgstr "That patience in the teaching"
+
+#. <br>
+msgctxt "thig16.1:77.3"
+msgid "Taṃ paṭhamasamodhānaṃ,"
+msgstr "That first gathering"
+
+#. <br>
+msgctxt "thig16.1:77.4"
+msgid "Taṃ dhammaratāya nibbānaṃ."
+msgstr "That was Nibbāna for one delighting in Dhamma"
+
+#. </p><p><a class="sc" id="75"></a><a class="verse-num-sc"
+#. id="verse-num-sc524"></a><a class="verse-num-pts" id="verse-num-pts522"></a>
+msgctxt "thig16.1:78.1"
+msgid "Evaṃ karonti ye sadda-"
+msgstr "So say those with faith"
+
+#. <br>
+msgctxt "thig16.1:78.2"
+msgid "Hanti vacanaṃ anomapaññassa;"
+msgstr "In the words of the one of supreme wisdom"
+
+#. <br>
+msgctxt "thig16.1:78.3"
+msgid "Nibbindanti bhavagate,"
+msgstr "They’re revulsed by existence"
+
+#. <br>
+msgctxt "thig16.1:78.4"
+msgid "Nibbinditvā virajjantī”ti."
+msgstr "Being revulsed they’re detached"
+
+#. </p></blockquote><p><a class="sc" id="76"></a>
+msgctxt "thig16.1:79.1"
+msgid "Itthaṃ sudaṃ sumedhā therī gāthāyo abhāsitthāti."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="77"></a>
+msgctxt "thig16.1:80.1"
+msgid "Mahānipāto niṭṭhito."
+msgstr ""
+
+#. </p><p class="endsection summary"><a class="sc" id="78"></a>
+msgctxt "thig16.1:81.1"
+msgid "Samattā therīgāthāyo"
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p><a class="sc" id="79"></a>
+msgctxt "thig16.1:82.1"
+msgid "Gāthāsatāni cattāri,"
+msgstr ""
+
+#. <br>
+msgctxt "thig16.1:82.2"
+msgid "asīti puna <span class=\"var\" title=\"gāthāsaṅkhyā idha anukkamaṇikagaṇanāvasena\" id=\"note171\">cuddasa</span>;"
+msgstr ""
+
+#. <br>
+msgctxt "thig16.1:82.3"
+msgid "<span class=\"var\" title=\"therīyekuttarachasatā (?)\" id=\"note172\">Theriyekuttarasatā</span>,"
+msgstr ""
+
+#. <br>
+msgctxt "thig16.1:82.4"
+msgid "sabbā tā āsavakkhayāti."
+msgstr ""
+
+#. </p></blockquote><p class="endbook"><a class="sc" id="80"></a>
+msgctxt "thig16.1:83.1"
+msgid "Therīgāthāpāḷi niṭṭhitā."
+msgstr ""

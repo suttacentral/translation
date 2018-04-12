@@ -1,0 +1,157 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-01-16 08:07+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1484554025.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig5.12"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig5.12:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig5.12:2.1"
+msgid "Pañcakanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig5.12:3.1"
+msgid "12. Candātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc122"></a><a class="verse-num-pts"
+#. id="verse-num-pts122"></a>
+msgctxt "thig5.12:4.1"
+msgid "“Duggatāhaṃ pure āsiṃ,"
+msgstr "In the past I was in a bad state."
+
+#. <br>
+msgctxt "thig5.12:4.2"
+msgid "vidhavā ca aputtikā;"
+msgstr "A widow without children"
+
+#. <br>
+msgctxt "thig5.12:4.3"
+msgid "Vinā mittehi ñātīhi,"
+msgstr "Without friends and relatives"
+
+#. <br>
+msgctxt "thig5.12:4.4"
+msgid "bhattacoḷassa nādhigaṃ."
+msgstr "I gained neither food nor clothes"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc123"></a><a class="verse-num-pts" id="verse-num-pts123"></a>
+msgctxt "thig5.12:5.1"
+msgid "Pattaṃ daṇḍañca gaṇhitvā,"
+msgstr "Having taken a bowl and stick"
+
+#. <br>
+msgctxt "thig5.12:5.2"
+msgid "bhikkhamānā kulā kulaṃ;"
+msgstr "Begging from family to family"
+
+#. <br>
+msgctxt "thig5.12:5.3"
+msgid "Sītuṇhena ca ḍayhantī,"
+msgstr "Burned by cold and heat"
+
+#. <br>
+msgctxt "thig5.12:5.4"
+msgid "satta vassāni cārihaṃ."
+msgstr "I wandered for seven years"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc124"></a><a class="verse-num-pts" id="verse-num-pts124"></a>
+msgctxt "thig5.12:6.1"
+msgid "Bhikkhuniṃ puna disvāna,"
+msgstr "Then having seen a bhikkhunī"
+
+#. <br>
+msgctxt "thig5.12:6.2"
+msgid "annapānassa lābhiniṃ;"
+msgstr "Gaining food and drink"
+
+#. <br>
+msgctxt "thig5.12:6.3"
+msgid "Upasaṅkamma <span class=\"var\" title=\"avociṃ (mr)\" id=\"note48\">avocaṃ</span>,"
+msgstr "Approaching her I said"
+
+#. <br>
+msgctxt "thig5.12:6.4"
+msgid "‘pabbajjaṃ anagāriyaṃ’."
+msgstr "“Let me go forth into homelessness”"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc125"></a><a class="verse-num-pts"
+#. id="verse-num-pts125"></a><a class="pts" id="pts136"></a>
+msgctxt "thig5.12:7.1"
+msgid "Sā ca maṃ anukampāya,"
+msgstr "Out of compassion to me"
+
+#. <br>
+msgctxt "thig5.12:7.2"
+msgid "pabbājesi paṭācārā;"
+msgstr "Paṭācārā gave me the going forth"
+
+#. <br>
+msgctxt "thig5.12:7.3"
+msgid "Tato maṃ ovaditvāna,"
+msgstr "Instructing me"
+
+#. <br>
+msgctxt "thig5.12:7.4"
+msgid "paramatthe niyojayi."
+msgstr "She urged me to the supreme goal"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc126"></a><a class="verse-num-pts" id="verse-num-pts126"></a>
+msgctxt "thig5.12:8.1"
+msgid "Tassāhaṃ vacanaṃ sutvā,"
+msgstr "Having heard her words"
+
+#. <br>
+msgctxt "thig5.12:8.2"
+msgid "akāsiṃ anusāsaniṃ;"
+msgstr "I did her bidding"
+
+#. <br>
+msgctxt "thig5.12:8.3"
+msgid "Amogho ayyāyovādo,"
+msgstr "The venerable lady's advice wasn't in vain"
+
+#. <br>
+msgctxt "thig5.12:8.4"
+msgid "tevijjāmhi anāsavā”ti."
+msgstr "I've arrived at the three true knowledges, without taints"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="6"></a>
+msgctxt "thig5.12:9.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig5.12:9.2"
+msgid "Candā therī …."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="7"></a>
+msgctxt "thig5.12:10.1"
+msgid "Pañcakanipāto niṭṭhito."
+msgstr ""

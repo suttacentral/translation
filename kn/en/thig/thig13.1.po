@@ -1,0 +1,448 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-07-14 00:48+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1499993298.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig13.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig13.1:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig13.1:2.1"
+msgid "Vīsatinipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig13.1:3.1"
+msgid "1. Ambapālītherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc252"></a><a class="verse-num-pts"
+#. id="verse-num-pts252"></a>
+msgctxt "thig13.1:4.1"
+msgid "“Kāḷakā bhamaravaṇṇasādisā,"
+msgstr "My hair was black like the colour of wasps"
+
+#. <br>
+msgctxt "thig13.1:4.2"
+msgid "Vellitaggā mama muddhajā ahuṃ;"
+msgstr "With curly tips"
+
+#. <br>
+msgctxt "thig13.1:4.3"
+msgid "Te jarāya sāṇavākasādisā,"
+msgstr "Now due to old age it is like bark of sunn hemp"
+
+#. <br>
+msgctxt "thig13.1:4.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc253"></a><a class="verse-num-pts" id="verse-num-pts253"></a>
+msgctxt "thig13.1:5.1"
+msgid "Vāsitova surabhī karaṇḍako,"
+msgstr "Covered with flowers"
+
+#. <br>
+msgctxt "thig13.1:5.2"
+msgid "<span class=\"var\" title=\"pupphapūraṃ (s2, s3, pts1-2)\" id=\"note76\">Pupphapūra</span> mama <span class=\"var\" title=\"uttamaṅgabhūto (s2, s3, mr) | uttamaṅgabhu (pts1-2)\" id=\"note77\">uttamaṅgajo</span>;"
+msgstr "My head was perfumed like a fragment casket"
+
+#. <br>
+msgctxt "thig13.1:5.3"
+msgid "Taṃ jarāyatha salomagandhikaṃ,"
+msgstr "Now due to old age it smells like dog fur"
+
+#. <br>
+msgctxt "thig13.1:5.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth "
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc254"></a><a class="verse-num-pts" id="verse-num-pts254"></a>
+msgctxt "thig13.1:6.1"
+msgid "Kānanaṃva sahitaṃ suropitaṃ,"
+msgstr "Thick as a well-cultivated forest"
+
+#. <br>
+msgctxt "thig13.1:6.2"
+msgid "Kocchasūcivicitaggasobhitaṃ;"
+msgstr "Beautiful, tips parted with brush and hairpins"
+
+#. <br>
+msgctxt "thig13.1:6.3"
+msgid "Taṃ jarāya viralaṃ tahiṃ tahiṃ,"
+msgstr "Now due to old age it’s sparse here and there"
+
+#. <br>
+msgctxt "thig13.1:6.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth "
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc255"></a><a class="verse-num-pts"
+#. id="verse-num-pts255"></a><a class="pts" id="pts148"></a>
+msgctxt "thig13.1:7.1"
+msgid "Kaṇhakhandhakasuvaṇṇamaṇḍitaṃ,"
+msgstr "With plaits of black and adorned with gold"
+
+#. <br>
+msgctxt "thig13.1:7.2"
+msgid "Sobhate suveṇīhilaṅkataṃ;"
+msgstr "it was splendid, ornamented with braids."
+
+#. <br>
+msgctxt "thig13.1:7.3"
+msgid "Taṃ jarāya khalitaṃ siraṃ kataṃ,"
+msgstr "Now due to old age this head has gone bald"
+
+#. <br>
+msgctxt "thig13.1:7.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc256"></a><a class="verse-num-pts" id="verse-num-pts256"></a>
+msgctxt "thig13.1:8.1"
+msgid "Cittakārasukatāva lekhikā,"
+msgstr "Formerly my eyebrows were beautiful"
+
+#. <br>
+msgctxt "thig13.1:8.2"
+msgid "Sobhare su bhamukā pure mama;"
+msgstr "Like crescents decorated by artists"
+
+#. <br>
+msgctxt "thig13.1:8.3"
+msgid "Tā jarāya valibhippalambitā,"
+msgstr "Now due to old age they droop with wrinkles"
+
+#. <br>
+msgctxt "thig13.1:8.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc257"></a><a class="verse-num-pts" id="verse-num-pts257"></a>
+msgctxt "thig13.1:9.1"
+msgid "Bhassarā surucirā yathā maṇī,"
+msgstr "My eyes shined like gems"
+
+#. <br>
+msgctxt "thig13.1:9.2"
+msgid "Nettahesumabhinīlamāyatā;"
+msgstr "Black and long"
+
+#. <br>
+msgctxt "thig13.1:9.3"
+msgid "Te jarāyabhihatā na sobhare,"
+msgstr "Now due to old age they’re not beautiful"
+
+#. <br>
+msgctxt "thig13.1:9.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc258"></a><a class="verse-num-pts" id="verse-num-pts258"></a>
+msgctxt "thig13.1:10.1"
+msgid "Saṇhatuṅgasadisī ca nāsikā,"
+msgstr "Exquisite, high, incomparable"
+
+#. <br>
+msgctxt "thig13.1:10.2"
+msgid "Sobhate su abhiyobbanaṃ pati;"
+msgstr "Such was the beauty of my nose in my youth"
+
+#. <br>
+msgctxt "thig13.1:10.3"
+msgid "Sā jarāya upakūlitā viya,"
+msgstr "Now it’s shrivelled"
+
+#. <br>
+msgctxt "thig13.1:10.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc259"></a><a class="verse-num-pts" id="verse-num-pts259"></a>
+msgctxt "thig13.1:11.1"
+msgid "Kaṅkaṇaṃva sukataṃ suniṭṭhitaṃ,"
+msgstr "My ear-lobes were beautiful"
+
+#. <br>
+msgctxt "thig13.1:11.2"
+msgid "Sobhare su mama kaṇṇapāḷiyo;"
+msgstr "Like bracelets well-made, well-finished"
+
+#. <br>
+msgctxt "thig13.1:11.3"
+msgid "Tā jarāya valibhippalambitā,"
+msgstr "Now due to old age they droop with wrinkles"
+
+#. <br>
+msgctxt "thig13.1:11.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc260"></a><a class="verse-num-pts" id="verse-num-pts260"></a>
+msgctxt "thig13.1:12.1"
+msgid "Pattalīmakulavaṇṇasādisā,"
+msgstr "Formerly my teeth were beautiful"
+
+#. <br>
+msgctxt "thig13.1:12.2"
+msgid "Sobhare su dantā pure mama;"
+msgstr "Incomparable, the colour of plantain buds"
+
+#. <br>
+msgctxt "thig13.1:12.3"
+msgid "Te jarāya <span class=\"var\" title=\" khaṇḍitā ca pītakā (sī1), khaṇḍā yavapītakā (syā2, syā3, pā1-2)\" id=\"note78\">khaṇḍitā cāsitā</span>,"
+msgstr "Now due to old age they’re yellow and broken"
+
+#. <br>
+msgctxt "thig13.1:12.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
+#. id="verse-num-sc261"></a><a class="verse-num-pts" id="verse-num-pts261"></a>
+msgctxt "thig13.1:13.1"
+msgid "Kānanamhi vanasaṇḍacārinī,"
+msgstr "My warbling was sweet"
+
+#. <br>
+msgctxt "thig13.1:13.2"
+msgid "Kokilāva madhuraṃ nikūjihaṃ;"
+msgstr "Like a cuckoo wandering in forest groves"
+
+#. <br>
+msgctxt "thig13.1:13.3"
+msgid "Taṃ jarāya khalitaṃ tahiṃ tahiṃ,"
+msgstr "Now due to old age it falters here and there"
+
+#. <br>
+msgctxt "thig13.1:13.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
+#. id="verse-num-sc262"></a><a class="verse-num-pts" id="verse-num-pts262"></a>
+msgctxt "thig13.1:14.1"
+msgid "Saṇhakamburiva suppamajjitā,"
+msgstr "Previously my neck was beautiful"
+
+#. <br>
+msgctxt "thig13.1:14.2"
+msgid "Sobhate su gīvā pure mama;"
+msgstr "Like a well-rubbed conch shell"
+
+#. <br>
+msgctxt "thig13.1:14.3"
+msgid "Sā jarāya <span class=\"var\" title=\"bhañjitā (?)\" id=\"note80\">bhaggā</span> vināmitā,"
+msgstr "Now due to old age its broken and bent"
+
+#. <br>
+msgctxt "thig13.1:14.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
+#. id="verse-num-sc263"></a><a class="verse-num-pts"
+#. id="verse-num-pts263"></a><a class="pts" id="pts149"></a>
+msgctxt "thig13.1:15.1"
+msgid "Vaṭṭapalighasadisopamā ubho,"
+msgstr "Previously my arms were beautiful"
+
+#. <br>
+msgctxt "thig13.1:15.2"
+msgid "Sobhare su bāhā pure mama;"
+msgstr "Like rounded cross-bars, incomparable"
+
+#. <br>
+msgctxt "thig13.1:15.3"
+msgid "Tā jarāya <span class=\"var\" title=\"yathā pāṭalippalitā (bj, s2, s3, mr) | yathā pāṭalī dubbalikā (pts1-2)\" id=\"note81\">yatha pāṭalibbalitā</span>,"
+msgstr "Now due to old age they’re weak like a Pāṭalī tree"
+
+#. <br>
+msgctxt "thig13.1:15.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
+#. id="verse-num-sc264"></a><a class="verse-num-pts" id="verse-num-pts264"></a>
+msgctxt "thig13.1:16.1"
+msgid "Saṇhamuddikasuvaṇṇamaṇḍitā,"
+msgstr "Previously my hands were beautiful"
+
+#. <br>
+msgctxt "thig13.1:16.2"
+msgid "Sobhare su hatthā pure mama;"
+msgstr "Adorned with golden rings"
+
+#. <br>
+msgctxt "thig13.1:16.3"
+msgid "Te jarāya yathā mūlamūlikā,"
+msgstr "Now due to old age they’re like roots"
+
+#. <br>
+msgctxt "thig13.1:16.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
+#. id="verse-num-sc265"></a><a class="verse-num-pts" id="verse-num-pts265"></a>
+msgctxt "thig13.1:17.1"
+msgid "Pīnavaṭṭasahituggatā ubho,"
+msgstr "Previously my breasts were beautiful"
+
+#. <br>
+msgctxt "thig13.1:17.2"
+msgid "<span class=\"var\" title=\"sobhate (s2, s3, pts1-2)\" id=\"note82\">Sobhare</span> su thanakā pure mama;"
+msgstr "Swelling, round, close together, lofty"
+
+#. <br>
+msgctxt "thig13.1:17.3"
+msgid "Thevikīva lambanti nodakā,"
+msgstr "Now they droop down like water bags "
+
+#. <br>
+msgctxt "thig13.1:17.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
+#. id="verse-num-sc266"></a><a class="verse-num-pts" id="verse-num-pts266"></a>
+msgctxt "thig13.1:18.1"
+msgid "Kañcanassa phalakaṃva sammaṭṭhaṃ,"
+msgstr "Previously my body was beautiful"
+
+#. <br>
+msgctxt "thig13.1:18.2"
+msgid "Sobhate su kāyo pure mama;"
+msgstr "Like a polished slab of gold"
+
+#. <br>
+msgctxt "thig13.1:18.3"
+msgid "So valīhi sukhumāhi otato,"
+msgstr "Now it’s covered with small wrinkles"
+
+#. <br>
+msgctxt "thig13.1:18.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
+#. id="verse-num-sc267"></a><a class="verse-num-pts" id="verse-num-pts267"></a>
+msgctxt "thig13.1:19.1"
+msgid "Nāgabhogasadisopamā ubho,"
+msgstr "Previously both my thighs were beautiful"
+
+#. <br>
+msgctxt "thig13.1:19.2"
+msgid "Sobhare su ūrū pure mama;"
+msgstr "Like an elephant trunk, incomparable"
+
+#. <br>
+msgctxt "thig13.1:19.3"
+msgid "Te jarāya yathā veḷunāḷiyo,"
+msgstr "Now due to old age they’re like bamboo"
+
+#. <br>
+msgctxt "thig13.1:19.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="17"></a><a class="verse-num-sc"
+#. id="verse-num-sc268"></a><a class="verse-num-pts" id="verse-num-pts268"></a>
+msgctxt "thig13.1:20.1"
+msgid "Saṇhanūpurasuvaṇṇamaṇḍitā,"
+msgstr "Formerly my calves were beautiful"
+
+#. <br>
+msgctxt "thig13.1:20.2"
+msgid "Sobhare su jaṅghā pure mama;"
+msgstr "Adorned with golden anklets"
+
+#. <br>
+msgctxt "thig13.1:20.3"
+msgid "Tā jarāya tiladaṇḍakāriva,"
+msgstr "Now due to old age they’re like sesame sticks"
+
+#. <br>
+msgctxt "thig13.1:20.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
+#. id="verse-num-sc269"></a><a class="verse-num-pts" id="verse-num-pts269"></a>
+msgctxt "thig13.1:21.1"
+msgid "Tūlapuṇṇasadisopamā ubho,"
+msgstr "Previously both my feet were beautiful"
+
+#. <br>
+msgctxt "thig13.1:21.2"
+msgid "Sobhare su pādā pure mama;"
+msgstr "Like they were full of cotton, incomparable"
+
+#. <br>
+msgctxt "thig13.1:21.3"
+msgid "Te jarāya phuṭitā valīmatā,"
+msgstr "Now due to old age they’re cracked and wrinkled"
+
+#. <br>
+msgctxt "thig13.1:21.4"
+msgid "Saccavādivacanaṃ anaññathā."
+msgstr "Not otherwise is the word of the speaker of truth"
+
+#. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
+#. id="verse-num-sc270"></a><a class="verse-num-pts"
+#. id="verse-num-pts270"></a><a class="pts" id="pts150"></a>
+msgctxt "thig13.1:22.1"
+msgid "Ediso ahu ayaṃ samussayo,"
+msgstr "This body was such"
+
+#. <br>
+msgctxt "thig13.1:22.2"
+msgid "Jajjaro bahudukkhānamālayo;"
+msgstr "Now it’s withered, an abode of much suffering"
+
+#. <br>
+msgctxt "thig13.1:22.3"
+msgid "Sopalepapatito jarāgharo,"
+msgstr "Plaster falling off, a house in decay"
+
+#. <br>
+msgctxt "thig13.1:22.4"
+msgid "Saccavādivacanaṃ anaññathā”."
+msgstr "Not otherwise is the word of the speaker of truth "
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="20"></a>
+msgctxt "thig13.1:23.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig13.1:23.2"
+msgid "Ambapālī therī …."
+msgstr ""

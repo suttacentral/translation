@@ -1,0 +1,182 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2018-04-01 21:15+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1522617300.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig6.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig6.1:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig6.1:2.1"
+msgid "Chakkanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig6.1:3.1"
+msgid "1. Pañcasatamattātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc127"></a><a class="verse-num-pts"
+#. id="verse-num-pts127"></a>
+msgctxt "thig6.1:4.1"
+msgid "“Yassa maggaṃ na jānāsi,"
+msgstr "“The one whose path you don't know"
+
+#. <br>
+msgctxt "thig6.1:4.2"
+msgid "āgatassa gatassa vā;"
+msgstr "Either coming or going"
+
+#. <br>
+msgctxt "thig6.1:4.3"
+msgid "Taṃ kuto <span class=\"var\" title=\"āgataṃ (bj, s2, s3, pts1-2)\" id=\"note49\">cāgataṃ</span> <span class=\"var\" title=\"puttaṃ (s2, s3, pts1-2)\" id=\"note50\">sattaṃ</span>,"
+msgstr "That one you lament"
+
+#. <br>
+msgctxt "thig6.1:4.4"
+msgid "‘mama putto’ti rodasi."
+msgstr "Crying “my son”"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc128"></a><a class="verse-num-pts" id="verse-num-pts128"></a>
+msgctxt "thig6.1:5.1"
+msgid "Maggañca <span class=\"var\" title=\"kho'tha (mr)\" id=\"note51\">khossa</span> jānāsi,"
+msgstr "But the one whose path you do know"
+
+#. <br>
+msgctxt "thig6.1:5.2"
+msgid "āgatassa gatassa vā;"
+msgstr "Either coming or going"
+
+#. <br>
+msgctxt "thig6.1:5.3"
+msgid "Na naṃ samanusocesi,"
+msgstr "That one you don’t lament"
+
+#. <br>
+msgctxt "thig6.1:5.4"
+msgid "evaṃdhammā hi pāṇino."
+msgstr "Such is the nature of living creatures. "
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc129"></a><a class="verse-num-pts" id="verse-num-pts129"></a>
+msgctxt "thig6.1:6.1"
+msgid "Ayācito tatāgacchi,"
+msgstr "Unasked he came"
+
+#. <br>
+msgctxt "thig6.1:6.2"
+msgid "<span class=\"var\" title=\"ananuññāto (bj, s2, s3, pts1-2)\" id=\"note52\">nānuññāto</span> ito gato;"
+msgstr "Without permission he left"
+
+#. <br>
+msgctxt "thig6.1:6.3"
+msgid "Kutoci nūna āgantvā,"
+msgstr "Certainly having come from someplace or other"
+
+#. <br>
+msgctxt "thig6.1:6.4"
+msgid "vasitvā katipāhakaṃ;"
+msgstr "Having lived a couple of days"
+
+#. <br>
+msgctxt "thig6.1:6.5"
+msgid "Itopi aññena gato,"
+msgstr "He went from here by one road"
+
+#. <br>
+msgctxt "thig6.1:6.6"
+msgid "tatopaññena gacchati."
+msgstr "He will go from there by another"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc130"></a><a class="verse-num-pts" id="verse-num-pts130"></a>
+msgctxt "thig6.1:7.1"
+msgid "Peto manussarūpena,"
+msgstr "Departing with the form of a human"
+
+#. <br>
+msgctxt "thig6.1:7.2"
+msgid "saṃsaranto gamissati;"
+msgstr "Going on in the round of birth"
+
+#. <br>
+msgctxt "thig6.1:7.3"
+msgid "Yathāgato tathā gato,"
+msgstr "As he came, so he went"
+
+#. <br>
+msgctxt "thig6.1:7.4"
+msgid "kā tattha paridevanā”."
+msgstr "What lamenting is there because of that?”"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc131"></a><a class="verse-num-pts" id="verse-num-pts131"></a>
+msgctxt "thig6.1:8.1"
+msgid "“<span class=\"var\" title=\"abbuyhi (s2, s3) | abbuhi (pts1-2)\" id=\"note53\">Abbahī</span> vata me sallaṃ,"
+msgstr "Truly the dart is pulled out"
+
+#. <br>
+msgctxt "thig6.1:8.2"
+msgid "duddasaṃ hadayassitaṃ;"
+msgstr "Difficult to see, abiding in my heat"
+
+#. <br>
+msgctxt "thig6.1:8.3"
+msgid "Yā me sokaparetāya,"
+msgstr "Once overcome by grief"
+
+#. <br>
+msgctxt "thig6.1:8.4"
+msgid "puttasokaṃ byapānudi."
+msgstr "This grief for my son is removed"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc132"></a><a class="verse-num-pts" id="verse-num-pts132"></a>
+msgctxt "thig6.1:9.1"
+msgid "Sājja abbūḷhasallāhaṃ,"
+msgstr "Today I've pulled out the dart"
+
+#. <br>
+msgctxt "thig6.1:9.2"
+msgid "Nicchātā parinibbutā;"
+msgstr "Hungerless, having realised final Nibbāna"
+
+#. <br>
+msgctxt "thig6.1:9.3"
+msgid "Buddhaṃ dhammañca saṃghañca,"
+msgstr "Buddha sage, Dhamma, Saṅgha:"
+
+#. <br>
+msgctxt "thig6.1:9.4"
+msgid "Upemi saraṇaṃ muniṃ”."
+msgstr "I go to these as refuge"
+
+#. </p></blockquote><p><a class="sc" id="7"></a>
+msgctxt "thig6.1:10.1"
+msgid "Itthaṃ sudaṃ <span class=\"var\" title=\"pañcasatā paṭācārā (s2, s3, pts1-2)\" id=\"note54\">pañcasatamattā</span> therī bhikkhuniyo …"
+msgstr ""
+
+msgctxt "thig6.1:10.2"
+msgid "pe …."
+msgstr ""

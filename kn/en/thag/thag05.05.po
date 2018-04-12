@@ -1,0 +1,163 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag5.5"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag5.5:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag5.5:2.1"
+msgid "Pañcakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag5.5:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag5.5:4.1"
+msgid "5.5. Vaḍḍhattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc335"></a><a class="verse-num-pts"
+#. id="verse-num-pts335"></a>
+msgctxt "thag5.5:5.1"
+msgid "“Sādhū hi kira me mātā,"
+msgstr "It was good, how my mother"
+
+#. <br>
+msgctxt "thag5.5:5.2"
+msgid "Patodaṃ upadaṃsayi;"
+msgstr "Spurred me onwards."
+
+#. <br>
+msgctxt "thag5.5:5.3"
+msgid "Yassāhaṃ vacanaṃ sutvā,"
+msgstr "When I heard her words,"
+
+#. <br>
+msgctxt "thag5.5:5.4"
+msgid "Anusiṭṭho janettiyā;"
+msgstr "Advised by my mother,"
+
+#. <br>
+msgctxt "thag5.5:5.5"
+msgid "Āraddhavīriyo pahitatto,"
+msgstr "I became energetic, resolute—"
+
+#. <br>
+msgctxt "thag5.5:5.6"
+msgid "Patto sambodhimuttamaṃ."
+msgstr "I realised supreme awakening."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc336"></a><a class="verse-num-pts" id="verse-num-pts336"></a>
+msgctxt "thag5.5:6.1"
+msgid "Arahā dakkhiṇeyyomhi,"
+msgstr "I’m an Arahant, worthy of offerings,"
+
+#. <br>
+msgctxt "thag5.5:6.2"
+msgid "tevijjo amataddaso;"
+msgstr "With the three knowledges and the vision of the deathless;"
+
+#. <br>
+msgctxt "thag5.5:6.3"
+msgid "Jetvā namucino senaṃ,"
+msgstr "I conquered Namuci’s army,"
+
+#. <br>
+msgctxt "thag5.5:6.4"
+msgid "viharāmi anāsavo."
+msgstr "And now I live without defilements."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc337"></a><a class="verse-num-pts" id="verse-num-pts337"></a>
+msgctxt "thag5.5:7.1"
+msgid "Ajjhattañca bahiddhā ca,"
+msgstr "The defilements which I had,"
+
+#. <br>
+msgctxt "thag5.5:7.2"
+msgid "ye me vijjiṃsu āsavā;"
+msgstr "Both internally and externally,"
+
+#. <br>
+msgctxt "thag5.5:7.3"
+msgid "Sabbe asesā ucchinnā,"
+msgstr "Are now all cut off without remainder;"
+
+#. <br>
+msgctxt "thag5.5:7.4"
+msgid "na ca uppajjare puna."
+msgstr "They won’t arise again."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc338"></a><a class="verse-num-pts" id="verse-num-pts338"></a>
+msgctxt "thag5.5:8.1"
+msgid "Visāradā kho bhaginī,"
+msgstr "My skilful sister"
+
+#. <br>
+msgctxt "thag5.5:8.2"
+msgid "etamatthaṃ abhāsayi;"
+msgstr "said this to me:"
+
+#. <br>
+msgctxt "thag5.5:8.3"
+msgid "‘Apihā nūna mayipi,"
+msgstr "“Now neither you nor I"
+
+#. <br>
+msgctxt "thag5.5:8.4"
+msgid "vanatho te na vijjati’."
+msgstr "Have any entanglements.”"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc339"></a><a class="verse-num-pts" id="verse-num-pts339"></a>
+msgctxt "thag5.5:9.1"
+msgid "Pariyantakataṃ dukkhaṃ,"
+msgstr "Suffering is at an end;"
+
+#. <br>
+msgctxt "thag5.5:9.2"
+msgid "antimoyaṃ samussayo;"
+msgstr "This is the last body"
+
+#. <br>
+msgctxt "thag5.5:9.3"
+msgid "Jātimaraṇasaṃsāro,"
+msgstr "To transmigrate through birth and death:"
+
+#. <br>
+msgctxt "thag5.5:9.4"
+msgid "natthi dāni punabbhavo”ti."
+msgstr "Now there is no more rebirth into any state of existence."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag5.5:10.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag5.5:10.2"
+msgid "Vaḍḍho thero …."
+msgstr ""
+

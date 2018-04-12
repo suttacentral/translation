@@ -1,0 +1,69 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.95"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.95:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.95:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.95:3.1"
+msgid "Dasamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.95:4.1"
+msgid "1.95. Cakkhupālattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc95"></a><a class="verse-num-pts"
+#. id="verse-num-pts95"></a>
+msgctxt "thag1.95:5.1"
+msgid "“Andhohaṃ hatanettosmi,"
+msgstr "I’m blind, my eyes are ruined,"
+
+#. <br>
+msgctxt "thag1.95:5.2"
+msgid "<span class=\"var\" title=\"... pakkhanno (bj, pts1-2) | ... pakkanto (bj-a) | ... pakkhanto (s2, s3)\" id=\"note63\">kantāraddhānapakkhando</span>;"
+msgstr "I’m travelling a desolate road."
+
+#. <br>
+msgctxt "thag1.95:5.3"
+msgid "Sayamānopi gacchissaṃ,"
+msgstr "Even if I have to crawl I’ll keep going—"
+
+#. <br>
+msgctxt "thag1.95:5.4"
+msgid "na sahāyena pāpenā”ti."
+msgstr "Though not with wicked companions."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.95:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.95:6.2"
+msgid "Cakkhupālo thero …."
+msgstr ""
+

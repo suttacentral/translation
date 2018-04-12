@@ -1,0 +1,190 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig7.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig7.1:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig7.1:2.1"
+msgid "Sattakanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig7.1:3.1"
+msgid "1. Uttarātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc175"></a><a class="verse-num-pts"
+#. id="verse-num-pts175"></a>
+msgctxt "thig7.1:4.1"
+msgid "“Musalāni gahetvāna,"
+msgstr "Having taken a pestle"
+
+#. <br>
+msgctxt "thig7.1:4.2"
+msgid "dhaññaṃ koṭṭenti māṇavā;"
+msgstr "Young men pound corn"
+
+#. <br>
+msgctxt "thig7.1:4.3"
+msgid "Puttadārāni posentā,"
+msgstr "Supporting wives and children"
+
+#. <br>
+msgctxt "thig7.1:4.4"
+msgid "dhanaṃ vindanti māṇavā."
+msgstr "Young men acquire wealth"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc176"></a><a class="verse-num-pts" id="verse-num-pts176"></a>
+msgctxt "thig7.1:5.1"
+msgid "Ghaṭetha buddhasāsane,"
+msgstr "May you do the teaching of Buddha"
+
+#. <br>
+msgctxt "thig7.1:5.2"
+msgid "yaṃ katvā nānutappati;"
+msgstr "Having done it one doesn't regret"
+
+#. <br>
+msgctxt "thig7.1:5.3"
+msgid "Khippaṃ pādāni dhovitvā,"
+msgstr "Having quickly washed your feet"
+
+#. <br>
+msgctxt "thig7.1:5.4"
+msgid "ekamantaṃ nisīdatha."
+msgstr "Sit down on one side"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc177"></a><a class="verse-num-pts" id="verse-num-pts177"></a>
+msgctxt "thig7.1:6.1"
+msgid "Cittaṃ upaṭṭhapetvāna,"
+msgstr "Putting the mind forth"
+
+#. <br>
+msgctxt "thig7.1:6.2"
+msgid "ekaggaṃ susamāhitaṃ;"
+msgstr "One-pointed, well-unified"
+
+#. <br>
+msgctxt "thig7.1:6.3"
+msgid "Paccavekkhatha saṅkhāre,"
+msgstr "Look at conditioned phenomena"
+
+#. <br>
+msgctxt "thig7.1:6.4"
+msgid "parato no ca attato”."
+msgstr "As other, non-self"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc178"></a><a class="verse-num-pts" id="verse-num-pts178"></a>
+msgctxt "thig7.1:7.1"
+msgid "“Tassāhaṃ vacanaṃ sutvā,"
+msgstr "Having heard her speaking,"
+
+#. <br>
+msgctxt "thig7.1:7.2"
+msgid "paṭācārānusāsaniṃ;"
+msgstr "Paṭācārā teaching"
+
+#. <br>
+msgctxt "thig7.1:7.3"
+msgid "Pāde pakkhālayitvāna,"
+msgstr "Having washed my feet"
+
+#. <br>
+msgctxt "thig7.1:7.4"
+msgid "ekamante upāvisiṃ."
+msgstr "I sat on one side"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc179"></a><a class="verse-num-pts" id="verse-num-pts179"></a>
+msgctxt "thig7.1:8.1"
+msgid "Rattiyā purime yāme,"
+msgstr "In the first watch of the night,"
+
+#. <br>
+msgctxt "thig7.1:8.2"
+msgid "pubbajātimanussariṃ;"
+msgstr "I remembered my previous births"
+
+#. <br>
+msgctxt "thig7.1:8.3"
+msgid "Rattiyā majjhime yāme,"
+msgstr "In the middle watch of the night,"
+
+#. <br>
+msgctxt "thig7.1:8.4"
+msgid "dibbacakkhuṃ visodhayiṃ."
+msgstr "I purified the divine eye"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc180"></a><a class="verse-num-pts" id="verse-num-pts180"></a>
+msgctxt "thig7.1:9.1"
+msgid "Rattiyā pacchime yāme,"
+msgstr "In the last watch of the night,"
+
+#. <br>
+msgctxt "thig7.1:9.2"
+msgid "tamokhandhaṃ padālayiṃ;"
+msgstr "I put an end to the mass of darkness"
+
+#. <br>
+msgctxt "thig7.1:9.3"
+msgid "Tevijjā atha vuṭṭhāsiṃ,"
+msgstr "Rising up with the three true knowledges:"
+
+#. <br>
+msgctxt "thig7.1:9.4"
+msgid "katā te anusāsanī."
+msgstr "I’ve done your bidding"
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc181"></a><a class="verse-num-pts" id="verse-num-pts181"></a>
+msgctxt "thig7.1:10.1"
+msgid "Sakkaṃva devā tidasā,"
+msgstr "I’ll abide honouring you"
+
+#. <br>
+msgctxt "thig7.1:10.2"
+msgid "saṅgāme aparājitaṃ;"
+msgstr "Like the thirty devas do Sakka"
+
+#. <br>
+msgctxt "thig7.1:10.3"
+msgid "Purakkhatvā vihassāmi,"
+msgstr "Unconquered in battle"
+
+#. <br>
+msgctxt "thig7.1:10.4"
+msgid "tevijjāmhi anāsavā”."
+msgstr "I have the three true knowledges, I’m without taints"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="8"></a>
+msgctxt "thig7.1:11.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig7.1:11.2"
+msgid "Uttarā therī …."
+msgstr ""
+

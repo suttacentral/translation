@@ -1,0 +1,769 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-03-19 09:11+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1489914686.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig14.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig14.1:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig14.1:2.1"
+msgid "Tiṃsanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig14.1:3.1"
+msgid "<span class=\"var\" title=\"jīvakambhavanikasubhātherīgāthā (bj)\" id=\"note112\">1 Subhājīvakambavanikātherīgāthā</span>"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc368"></a><a class="verse-num-pts"
+#. id="verse-num-pts366"></a>
+msgctxt "thig14.1:4.1"
+msgid "Jīvakambavanaṃ rammaṃ,"
+msgstr "Going to the delightful mango grove"
+
+#. <br>
+msgctxt "thig14.1:4.2"
+msgid "Gacchantiṃ bhikkhuniṃ subhaṃ;"
+msgstr "Bhikkhunī Subhā"
+
+#. <br>
+msgctxt "thig14.1:4.3"
+msgid "Dhuttako <span class=\"var\" title=\"taṃ nivāresi (mr)\" id=\"note113\">sannivāresi</span>,"
+msgstr "Was prevented by a rouge"
+
+#. <br>
+msgctxt "thig14.1:4.4"
+msgid "Tamenaṃ abravī subhā."
+msgstr "Subhā said this:"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc369"></a><a class="verse-num-pts" id="verse-num-pts367"></a>
+msgctxt "thig14.1:5.1"
+msgid "“Kiṃ te aparādhitaṃ mayā,"
+msgstr "\"What wrong have I done"
+
+#. <br>
+msgctxt "thig14.1:5.2"
+msgid "Yaṃ maṃ ovariyāna tiṭṭhasi;"
+msgstr "That you stand stopping me?"
+
+#. <br>
+msgctxt "thig14.1:5.3"
+msgid "Na hi pabbajitāya āvuso,"
+msgstr "Friend, it’s not proper"
+
+#. <br>
+msgctxt "thig14.1:5.4"
+msgid "Puriso samphusanāya kappati."
+msgstr "That a man should touch a woman gone forth"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc370"></a><a class="verse-num-pts"
+#. id="verse-num-pts368"></a><a class="pts" id="pts159"></a>
+msgctxt "thig14.1:6.1"
+msgid "Garuke mama satthusāsane,"
+msgstr "This training was taught by the Fourtunate One"
+
+#. <br>
+msgctxt "thig14.1:6.2"
+msgid "Yā sikkhā sugatena desitā;"
+msgstr "It’s the teachers heavy teaching"
+
+#. <br>
+msgctxt "thig14.1:6.3"
+msgid "Parisuddhapadaṃ anaṅgaṇaṃ,"
+msgstr "Why do you stand stopping me?"
+
+#. <br>
+msgctxt "thig14.1:6.4"
+msgid "Kiṃ maṃ ovariyāna tiṭṭhasi."
+msgstr "I've realised that pure blameless state"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc371"></a><a class="verse-num-pts" id="verse-num-pts369"></a>
+msgctxt "thig14.1:7.1"
+msgid "Āvilacitto anāvilaṃ,"
+msgstr "With agitated, defiled mind"
+
+#. <br>
+msgctxt "thig14.1:7.2"
+msgid "Sarajo vītarajaṃ anaṅgaṇaṃ;"
+msgstr "Why do you stand stopping me?"
+
+#. <br>
+msgctxt "thig14.1:7.3"
+msgid "Sabbattha vimuttamānasaṃ,"
+msgstr "I'm unagitated, defilements gone, blameless"
+
+#. <br>
+msgctxt "thig14.1:7.4"
+msgid "Kiṃ maṃ ovariyāna tiṭṭhasi”."
+msgstr "Mind liberated in every aspect”"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc372"></a><a class="verse-num-pts" id="verse-num-pts370"></a>
+msgctxt "thig14.1:8.1"
+msgid "“Daharā ca apāpikā casi,"
+msgstr "“You’re young and good"
+
+#. <br>
+msgctxt "thig14.1:8.2"
+msgid "Kiṃ te pabbajjā karissati;"
+msgstr "What will going-forth do for you?"
+
+#. <br>
+msgctxt "thig14.1:8.3"
+msgid "Nikkhipa kāsāyacīvaraṃ,"
+msgstr "Give up the yellow robe,"
+
+#. <br>
+msgctxt "thig14.1:8.4"
+msgid "Ehi <span class=\"var\" title=\"ramāmase pupphite (bj, pts1-2) | ramāmase supupphite (s2, s3)\" id=\"note114\">ramāma supupphite</span> vane."
+msgstr "Come and delight in the flowering grove"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc373"></a><a class="verse-num-pts" id="verse-num-pts371"></a>
+msgctxt "thig14.1:9.1"
+msgid "Madhurañca pavanti sabbaso,"
+msgstr "In all directions"
+
+#. <br>
+msgctxt "thig14.1:9.2"
+msgid "Kusumarajena samuṭṭhitā dumā;"
+msgstr "Trees blow the sweet smell of flowers"
+
+#. <br>
+msgctxt "thig14.1:9.3"
+msgid "Paṭhamavasanto sukho utu,"
+msgstr "The start of spring is a happy time"
+
+#. <br>
+msgctxt "thig14.1:9.4"
+msgid "Ehi ramāma supupphite vane."
+msgstr "Come and delight in the flowering grove"
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc374"></a><a class="verse-num-pts" id="verse-num-pts372"></a>
+msgctxt "thig14.1:10.1"
+msgid "Kusumitasikharā ca pādapā,"
+msgstr "Trees with flowering tops shout out"
+
+#. <br>
+msgctxt "thig14.1:10.2"
+msgid "Abhigajjantiva māluteritā;"
+msgstr "In the breeze"
+
+#. <br>
+msgctxt "thig14.1:10.3"
+msgid "Kā tuyhaṃ rati bhavissati,"
+msgstr "What delight will there be for you"
+
+#. <br>
+msgctxt "thig14.1:10.4"
+msgid "Yadi ekā <span class=\"var\" title=\"vanamotarissasi (bj) | vanamogāhissasi (s2, s3, pts1-2, mr)\" id=\"note115\">vanamogahissasi</span>."
+msgstr "Going into the grove?"
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc375"></a><a class="verse-num-pts" id="verse-num-pts373"></a>
+msgctxt "thig14.1:11.1"
+msgid "Vāḷamigasaṅghasevitaṃ,"
+msgstr "Frequented by a multitude of snakes, deer"
+
+#. <br>
+msgctxt "thig14.1:11.2"
+msgid "Kuñjaramattakareṇuloḷitaṃ;"
+msgstr "She elephants, bull-elephants"
+
+#. <br>
+msgctxt "thig14.1:11.3"
+msgid "Asahāyikā gantumicchasi,"
+msgstr "You wish to go alone"
+
+#. <br>
+msgctxt "thig14.1:11.4"
+msgid "Rahitaṃ bhiṃsanakaṃ mahāvanaṃ."
+msgstr "To the lonely, awe inspiring, great grove"
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc376"></a><a class="verse-num-pts" id="verse-num-pts374"></a>
+msgctxt "thig14.1:12.1"
+msgid "Tapanīyakatāva dhītikā,"
+msgstr "Like a shining gold doll"
+
+#. <br>
+msgctxt "thig14.1:12.2"
+msgid "Vicarasi cittalateva accharā;"
+msgstr "Like a nymph wandering in Cittaratha"
+
+#. <br>
+msgctxt "thig14.1:12.3"
+msgid "Kāsikasukhumehi vaggubhi,"
+msgstr "You’ll be dressed "
+
+#. <br>
+msgctxt "thig14.1:12.4"
+msgid "Sobhasī suvasanehi nūpame."
+msgstr "In exquisite muslin, lovely one"
+
+#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
+#. id="verse-num-sc377"></a><a class="verse-num-pts" id="verse-num-pts375"></a>
+msgctxt "thig14.1:13.1"
+msgid "Ahaṃ tava vasānugo siyaṃ,"
+msgstr "I’ll be obedient to you"
+
+#. <br>
+msgctxt "thig14.1:13.2"
+msgid "<span class=\"var\" title=\"yadi viharemasi (pts1-2) | yadipi viharesi (mr)\" id=\"note116\">Yadi viharemase</span> kānanantare;"
+msgstr "If we abide in the forest"
+
+#. <br>
+msgctxt "thig14.1:13.3"
+msgid "Na hi matthi tayā piyattaro,"
+msgstr "To me, there’s nothing more beloved than you"
+
+#. <br>
+msgctxt "thig14.1:13.4"
+msgid "Pāṇo kinnarimandalocane."
+msgstr "O nymph with eyes of a queen"
+
+#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
+#. id="verse-num-sc378"></a><a class="verse-num-pts" id="verse-num-pts376"></a>
+msgctxt "thig14.1:14.1"
+msgid "Yadi me vacanaṃ karissasi,"
+msgstr "If you do my bidding"
+
+#. <br>
+msgctxt "thig14.1:14.2"
+msgid "Sukhitā ehi agāramāvasa;"
+msgstr "Being happy in a house"
+
+#. <br>
+msgctxt "thig14.1:14.3"
+msgid "Pāsādanivātavāsinī,"
+msgstr "You’ll abide in a stilt longhouse sheltered from wind"
+
+#. <br>
+msgctxt "thig14.1:14.4"
+msgid "Parikammaṃ te karontu nāriyo."
+msgstr "With women attending on you"
+
+#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
+#. id="verse-num-sc379"></a><a class="verse-num-pts"
+#. id="verse-num-pts377"></a><a class="pts" id="pts160"></a>
+msgctxt "thig14.1:15.1"
+msgid "Kāsikasukhumāni dhāraya,"
+msgstr "Dressed in exquisite muslin"
+
+#. <br>
+msgctxt "thig14.1:15.2"
+msgid "<span class=\"var\" title=\"abhirohehi (bj)\" id=\"note117\">Abhiropehi</span> ca mālavaṇṇakaṃ;"
+msgstr "Paying attention to jewellery and makeup"
+
+#. <br>
+msgctxt "thig14.1:15.3"
+msgid "Kañcanamaṇimuttakaṃ bahuṃ,"
+msgstr "I’ll make a variety of adornments for you"
+
+#. <br>
+msgctxt "thig14.1:15.4"
+msgid "Vividhaṃ ābharaṇaṃ karomi te."
+msgstr "Golden, jeweled, pearled and plentiful"
+
+#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
+#. id="verse-num-sc380"></a><a class="verse-num-pts" id="verse-num-pts378"></a>
+msgctxt "thig14.1:16.1"
+msgid "Sudhotarajapacchadaṃ subhaṃ,"
+msgstr "Climb onto a costly bed"
+
+#. <br>
+msgctxt "thig14.1:16.2"
+msgid "Gonakatūlikasanthataṃ navaṃ;"
+msgstr "Pleasant, cleanly covered, free of dust"
+
+#. <br>
+msgctxt "thig14.1:16.3"
+msgid "Abhiruha sayanaṃ mahārahaṃ,"
+msgstr "With a cotton mattress, covered with a woolen blanket"
+
+#. <br>
+msgctxt "thig14.1:16.4"
+msgid "Candanamaṇḍitasāragandhikaṃ."
+msgstr "Adorned with sandalwood, fragrant"
+
+#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
+#. id="verse-num-sc381"></a><a class="verse-num-pts" id="verse-num-pts379"></a>
+msgctxt "thig14.1:17.1"
+msgid "Uppalaṃ cudakā samuggataṃ,"
+msgstr "Just like a blue lotus risen from the water"
+
+#. <br>
+msgctxt "thig14.1:17.2"
+msgid "Yathā taṃ amanussasevitaṃ;"
+msgstr "Isn’t touched by men"
+
+#. <br>
+msgctxt "thig14.1:17.3"
+msgid "Evaṃ tvaṃ brahmacārinī,"
+msgstr "So too, follower of the spiritual life"
+
+#. <br>
+msgctxt "thig14.1:17.4"
+msgid "Sakesaṅgesu jaraṃ gamissasi”."
+msgstr "Will your limbs will go to old age”"
+
+#. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
+#. id="verse-num-sc382"></a><a class="verse-num-pts" id="verse-num-pts380"></a>
+msgctxt "thig14.1:18.1"
+msgid "“Kiṃ te idha sārasammataṃ,"
+msgstr "“What have you decided is essence of the body"
+
+#. <br>
+msgctxt "thig14.1:18.2"
+msgid "Kuṇapapūramhi susānavaḍḍhane;"
+msgstr "Full of corpses, increasing the cemetery"
+
+#. <br>
+msgctxt "thig14.1:18.3"
+msgid "Bhedanadhamme <span class=\"var\" title=\"kalebare (bj)\" id=\"note118\">kaḷevare</span>,"
+msgstr "Of the nature to perish"
+
+#. <br>
+msgctxt "thig14.1:18.4"
+msgid "Yaṃ disvā vimano udikkhasi”."
+msgstr "What can one see when they’re distracted?”"
+
+#. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
+#. id="verse-num-sc383"></a><a class="verse-num-pts" id="verse-num-pts381"></a>
+msgctxt "thig14.1:19.1"
+msgid "“Akkhīni ca tūriyāriva,"
+msgstr "“Your eyes are like Turī’s"
+
+#. <br>
+msgctxt "thig14.1:19.2"
+msgid "Kinnariyāriva pabbatantare;"
+msgstr "Like a nymph’s in a mountain"
+
+#. <br>
+msgctxt "thig14.1:19.3"
+msgid "Tava me <span class=\"var\" title=\"nayanānudikkhiya (bj)\" id=\"note119\">nayanāni dakkhiya</span>,"
+msgstr "Seeing you"
+
+#. <br>
+msgctxt "thig14.1:19.4"
+msgid "Bhiyyo kāmaratī pavaḍḍhati."
+msgstr "My delight in sensual pleasure grows much more"
+
+#. </p><p><a class="sc" id="17"></a><a class="verse-num-sc"
+#. id="verse-num-sc384"></a><a class="verse-num-pts" id="verse-num-pts382"></a>
+msgctxt "thig14.1:20.1"
+msgid "Uppalasikharopamāni te,"
+msgstr "Seeing "
+
+#. <br>
+msgctxt "thig14.1:20.2"
+msgid "Vimale hāṭakasannibhe mukhe;"
+msgstr "Your eyes and mouth"
+
+#. <br>
+msgctxt "thig14.1:20.3"
+msgid "Tava me nayanāni dakkhiya,"
+msgstr "Like a blue lotus, pure like gold"
+
+#. <br>
+msgctxt "thig14.1:20.4"
+msgid "Bhiyyo kāmaguṇo pavaḍḍhati."
+msgstr "My delight in sensual stimulation grows much more"
+
+#. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
+#. id="verse-num-sc385"></a><a class="verse-num-pts" id="verse-num-pts383"></a>
+msgctxt "thig14.1:21.1"
+msgid "Api dūragatā saramhase,"
+msgstr "Even though you’ve gone far, I’ll think of you"
+
+#. <br>
+msgctxt "thig14.1:21.2"
+msgid "Āyatapamhe visuddhadassane;"
+msgstr "With your long eyelashes and pure appearance"
+
+#. <br>
+msgctxt "thig14.1:21.3"
+msgid "Na hi matthi tayā piyattaro,"
+msgstr "No eyes are more beloved to me than yours"
+
+#. <br>
+msgctxt "thig14.1:21.4"
+msgid "Nayanā kinnarimandalocane”."
+msgstr "O nymph with lovely eyes”"
+
+#. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
+#. id="verse-num-sc386"></a><a class="verse-num-pts" id="verse-num-pts384"></a>
+msgctxt "thig14.1:22.1"
+msgid "“Apathena payātumicchasi,"
+msgstr "“You wish to go the wrong way"
+
+#. <br>
+msgctxt "thig14.1:22.2"
+msgid "Candaṃ kīḷanakaṃ gavesasi;"
+msgstr "You seek the moon as a toy"
+
+#. <br>
+msgctxt "thig14.1:22.3"
+msgid "Meruṃ laṅghetumicchasi,"
+msgstr "Wishing to leap over the world’s highest mountain"
+
+#. <br>
+msgctxt "thig14.1:22.4"
+msgid "Yo tvaṃ buddhasutaṃ maggayasi."
+msgstr "You’ve plans upon a child of Buddha"
+
+#. </p><p><a class="sc" id="20"></a><a class="verse-num-sc"
+#. id="verse-num-sc387"></a><a class="verse-num-pts"
+#. id="verse-num-pts385"></a><a class="pts" id="pts161"></a>
+msgctxt "thig14.1:23.1"
+msgid "Natthi hi loke sadevake,"
+msgstr "In this world together with its devas"
+
+#. <br>
+msgctxt "thig14.1:23.2"
+msgid "Rāgo yatthapi dāni me siyā;"
+msgstr "I know there isn’t any lust for me anywhere"
+
+#. <br>
+msgctxt "thig14.1:23.3"
+msgid "Napi naṃ jānāmi kīriso,"
+msgstr "It’s been ended root and all "
+
+#. <br>
+msgctxt "thig14.1:23.4"
+msgid "Atha maggena hato samūlako."
+msgstr "By the eight-fold path"
+
+#. </p><p><a class="sc" id="21"></a><a class="verse-num-sc"
+#. id="verse-num-sc388"></a><a class="verse-num-pts" id="verse-num-pts386"></a>
+msgctxt "thig14.1:24.1"
+msgid "<span class=\"var\" title=\"iṅghāḷakhuyāva (s2, s3, pts1-2)\" id=\"note120\">Iṅgālakuyāva</span> ujjhito,"
+msgstr "Cast out like sparks from fiery coals"
+
+#. <br>
+msgctxt "thig14.1:24.2"
+msgid "Visapattoriva <span class=\"var\" title=\"aggato (bj, s2, s3, pts1-2)\" id=\"note121\">aggito</span> kato;"
+msgstr "Seen as a bowl of poison"
+
+#. <br>
+msgctxt "thig14.1:24.3"
+msgid "Napi naṃ passāmi kīriso,"
+msgstr "It’s been ended root and all "
+
+#. <br>
+msgctxt "thig14.1:24.4"
+msgid "Atha maggena hato samūlako."
+msgstr "By the eight-fold path"
+
+#. </p><p><a class="sc" id="22"></a><a class="verse-num-sc"
+#. id="verse-num-sc389"></a><a class="verse-num-pts" id="verse-num-pts387"></a>
+msgctxt "thig14.1:25.1"
+msgid "Yassā siyā apaccavekkhitaṃ,"
+msgstr "Well may you try to seduce one who hasn’t seen "
+
+#. <br>
+msgctxt "thig14.1:25.2"
+msgid "Satthā vā anupāsito siyā;"
+msgstr "Or hasn’t served the teacher"
+
+#. <br>
+msgctxt "thig14.1:25.3"
+msgid "Tvaṃ tādisikaṃ palobhaya,"
+msgstr "But if try to one who knows, of such a quality "
+
+#. <br>
+msgctxt "thig14.1:25.4"
+msgid "Jānantiṃ so imaṃ vihaññasi."
+msgstr "You’ll be aggrieved"
+
+#. </p><p><a class="sc" id="23"></a><a class="verse-num-sc"
+#. id="verse-num-sc390"></a><a class="verse-num-pts" id="verse-num-pts388"></a>
+msgctxt "thig14.1:26.1"
+msgid "Mayhañhi akkuṭṭhavandite,"
+msgstr "My mindfulness is established in abuse and honour"
+
+#. <br>
+msgctxt "thig14.1:26.2"
+msgid "Sukhadukkhe ca satī upaṭṭhitā;"
+msgstr "Happiness and pain"
+
+#. <br>
+msgctxt "thig14.1:26.3"
+msgid "Saṅkhatamasubhanti jāniya,"
+msgstr "Knowing all conditioned phenomena are unattractive"
+
+#. <br>
+msgctxt "thig14.1:26.4"
+msgid "Sabbattheva mano na limpati."
+msgstr "My mind isn’t smeared anywhere"
+
+#. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
+#. id="verse-num-sc391"></a><a class="verse-num-pts" id="verse-num-pts389"></a>
+msgctxt "thig14.1:27.1"
+msgid "Sāhaṃ sugatassa sāvikā,"
+msgstr "I’m a disciple of the Fourtunate One"
+
+#. <br>
+msgctxt "thig14.1:27.2"
+msgid "Maggaṭṭhaṅgikayānayāyinī;"
+msgstr "One going in the veicle of the Eightfold Path"
+
+#. <br>
+msgctxt "thig14.1:27.3"
+msgid "Uddhaṭasallā anāsavā,"
+msgstr "Dart pulled out, taintless"
+
+#. <br>
+msgctxt "thig14.1:27.4"
+msgid "Suññāgāragatā ramāmahaṃ."
+msgstr "Delighting, having gone to an empty place"
+
+#. </p><p><a class="sc" id="25"></a><a class="verse-num-sc"
+#. id="verse-num-sc392"></a><a class="verse-num-pts" id="verse-num-pts390"></a>
+msgctxt "thig14.1:28.1"
+msgid "Diṭṭhā hi mayā sucittitā,"
+msgstr "I’ve seen puppets"
+
+#. <br>
+msgctxt "thig14.1:28.2"
+msgid "Sombhā dārukapillakāni vā;"
+msgstr "and dolls painted well"
+
+#. <br>
+msgctxt "thig14.1:28.3"
+msgid "Tantīhi ca khīlakehi ca,"
+msgstr "Held together by sticks and string"
+
+#. <br>
+msgctxt "thig14.1:28.4"
+msgid "Vinibaddhā vividhaṃ panaccakā."
+msgstr "Dancing in various ways"
+
+#. </p><p><a class="sc" id="26"></a><a class="verse-num-sc"
+#. id="verse-num-sc393"></a><a class="verse-num-pts" id="verse-num-pts391"></a>
+msgctxt "thig14.1:29.1"
+msgid "Tamhuddhaṭe tantikhīlake,"
+msgstr "If the sticks and string are thrown away"
+
+#. <br>
+msgctxt "thig14.1:29.2"
+msgid "Vissaṭṭhe vikale <span class=\"var\" title=\"paripakkhite (bj) | paripakkate (s2, s3, pts1-2)\" id=\"note122\">parikrite</span>;"
+msgstr "Gone without, destroyed, strewn"
+
+#. <br>
+msgctxt "thig14.1:29.3"
+msgid "Na vindeyya khaṇḍaso kate,"
+msgstr "Lost, broken into pieces"
+
+#. <br>
+msgctxt "thig14.1:29.4"
+msgid "Kimhi tattha manaṃ nivesaye."
+msgstr "On what would the mind be established?"
+
+#. </p><p><a class="sc" id="27"></a><a class="verse-num-sc"
+#. id="verse-num-sc394"></a><a class="verse-num-pts" id="verse-num-pts392"></a>
+msgctxt "thig14.1:30.1"
+msgid "Tathūpamā dehakāni maṃ,"
+msgstr "The body, being like this"
+
+#. <br>
+msgctxt "thig14.1:30.2"
+msgid "Tehi dhammehi vinā na vattanti;"
+msgstr "Doesn’t exist without these phenomena"
+
+#. <br>
+msgctxt "thig14.1:30.3"
+msgid "Dhammehi vinā na vattati,"
+msgstr "Not existing without phenomena"
+
+#. <br>
+msgctxt "thig14.1:30.4"
+msgid "Kimhi tattha manaṃ nivesaye."
+msgstr "On what would the mind be established?"
+
+#. </p><p><a class="sc" id="28"></a><a class="verse-num-sc"
+#. id="verse-num-sc395"></a><a class="verse-num-pts"
+#. id="verse-num-pts393"></a><a class="pts" id="pts162"></a>
+msgctxt "thig14.1:31.1"
+msgid "Yathā haritālena makkhitaṃ,"
+msgstr "Just like a picture on a wall"
+
+#. <br>
+msgctxt "thig14.1:31.2"
+msgid "Addasa cittikaṃ bhittiyā kataṃ;"
+msgstr "Soiled with yellow orpiment"
+
+#. <br>
+msgctxt "thig14.1:31.3"
+msgid "Tamhi te viparītadassanaṃ,"
+msgstr "Your seeing is wrong"
+
+#. <br>
+msgctxt "thig14.1:31.4"
+msgid "Saññā mānusikā niratthikā."
+msgstr "So perceptions of humans are inadequate"
+
+#. </p><p><a class="sc" id="29"></a><a class="verse-num-sc"
+#. id="verse-num-sc396"></a><a class="verse-num-pts" id="verse-num-pts394"></a>
+msgctxt "thig14.1:32.1"
+msgid "Māyaṃ viya aggato kataṃ,"
+msgstr "Blind"
+
+#. <br>
+msgctxt "thig14.1:32.2"
+msgid "Supinanteva suvaṇṇapādapaṃ;"
+msgstr "Going after something which isn’t real"
+
+#. <br>
+msgctxt "thig14.1:32.3"
+msgid "Upagacchasi andha rittakaṃ,"
+msgstr "Like a golden tree in a dream"
+
+#. <br>
+msgctxt "thig14.1:32.4"
+msgid "Janamajjheriva <span class=\"var\" title=\"rupparūpakā (bj) | rūparūpakaṃ (mr)\" id=\"note123\">rupparūpakaṃ</span>."
+msgstr "Like a puppet show amongst people"
+
+#. </p><p><a class="sc" id="30"></a><a class="verse-num-sc"
+#. id="verse-num-sc397"></a><a class="verse-num-pts" id="verse-num-pts395"></a>
+msgctxt "thig14.1:33.1"
+msgid "Vaṭṭaniriva koṭarohitā,"
+msgstr "An eye is a ball in a hollow"
+
+#. <br>
+msgctxt "thig14.1:33.2"
+msgid "Majjhe pubbuḷakā saassukā;"
+msgstr "With a bubble in the middle "
+
+#. <br>
+msgctxt "thig14.1:33.3"
+msgid "Pīḷakoḷikā cettha jāyati,"
+msgstr "Tears, eye secretion"
+
+#. <br>
+msgctxt "thig14.1:33.4"
+msgid "Vividhā cakkhuvidhā ca piṇḍitā”."
+msgstr "Various eyes are in balls"
+
+#. </p><p><a class="sc" id="31"></a><a class="verse-num-sc"
+#. id="verse-num-sc398"></a><a class="verse-num-pts" id="verse-num-pts396"></a>
+msgctxt "thig14.1:34.1"
+msgid "Uppāṭiya cārudassanā,"
+msgstr "The lovely lady removed her eye"
+
+#. <br>
+msgctxt "thig14.1:34.2"
+msgid "Na ca pajjittha asaṅgamānasā;"
+msgstr "Without attachment, saying"
+
+#. <br>
+msgctxt "thig14.1:34.3"
+msgid "“Handa te cakkhuṃ harassu taṃ”,"
+msgstr "“Come and take this eye”"
+
+#. <br>
+msgctxt "thig14.1:34.4"
+msgid "Tassa narassa adāsi tāvade."
+msgstr "She gave it to the man at that moment"
+
+#. </p><p><a class="sc" id="32"></a><a class="verse-num-sc"
+#. id="verse-num-sc399"></a><a class="verse-num-pts" id="verse-num-pts397"></a>
+msgctxt "thig14.1:35.1"
+msgid "Tassa ca viramāsi tāvade,"
+msgstr "At that moment his desire ended"
+
+#. <br>
+msgctxt "thig14.1:35.2"
+msgid "Rāgo tattha khamāpayī ca naṃ;"
+msgstr "He asked her tolerance"
+
+#. <br>
+msgctxt "thig14.1:35.3"
+msgid "“Sotthi siyā brahmacārinī,"
+msgstr "“May you be well, liver of the spiritual life"
+
+#. <br>
+msgctxt "thig14.1:35.4"
+msgid "Na puno edisakaṃ bhavissati”."
+msgstr "This won’t happen again"
+
+#. </p><p><a class="sc" id="33"></a><a class="verse-num-sc"
+#. id="verse-num-sc400"></a><a class="verse-num-pts" id="verse-num-pts398"></a>
+msgctxt "thig14.1:36.1"
+msgid "“<span class=\"var\" title=\"āhaniya (s2, s3, pts1-2, mr)\" id=\"note124\">Āsādiya</span> edisaṃ janaṃ,"
+msgstr "In harming such a person"
+
+#. <br>
+msgctxt "thig14.1:36.2"
+msgid "Aggiṃ pajjalitaṃva liṅgiya;"
+msgstr "I’ve been holding a blazing fire"
+
+#. <br>
+msgctxt "thig14.1:36.3"
+msgid "Gaṇhiya āsīvisaṃ viya,"
+msgstr "I’ve been grabbing a poisonous snake"
+
+#. <br>
+msgctxt "thig14.1:36.4"
+msgid "Api nu sotthi siyā khamehi no”."
+msgstr "May you be well, forgive me”"
+
+#. </p><p><a class="sc" id="34"></a><a class="verse-num-sc"
+#. id="verse-num-sc401"></a><a class="verse-num-pts" id="verse-num-pts399"></a>
+msgctxt "thig14.1:37.1"
+msgid "Muttā ca tato sā bhikkhunī,"
+msgstr "That Bhikkhunī, liberated"
+
+#. <br>
+msgctxt "thig14.1:37.2"
+msgid "Agamī buddhavarassa santikaṃ;"
+msgstr "Went to the presence of the excellent Buddha"
+
+#. <br>
+msgctxt "thig14.1:37.3"
+msgid "Passiya varapuññalakkhaṇaṃ,"
+msgstr "Seeing the one with characteristics of excellent merit"
+
+#. <br>
+msgctxt "thig14.1:37.4"
+msgid "Cakkhu āsi yathā purāṇakanti."
+msgstr "Her eye was just as it was before"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="35"></a>
+msgctxt "thig14.1:38.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig14.1:38.2"
+msgid "Subhā jīvakambavanikā therī …."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="36"></a>
+msgctxt "thig14.1:39.1"
+msgid "Tiṃsanipāto niṭṭhito."
+msgstr ""

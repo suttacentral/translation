@@ -1,0 +1,1640 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-07-26 09:15+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1501060510.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag20.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag20.1:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag20.1:2.1"
+msgid "Saṭṭhinipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag20.1:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag20.1:4.1"
+msgid "20.1. Mahāmoggallānattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc1150"></a><a class="verse-num-pts"
+#. id="verse-num-pts1146"></a><a class="pts" id="pts104"></a>
+msgctxt "thag20.1:5.1"
+msgid "“Āraññikā piṇḍapātikā,"
+msgstr "“Living in the wilderness, eating only alms-food,"
+
+#. <br>
+msgctxt "thag20.1:5.2"
+msgid "uñchāpattāgate ratā;"
+msgstr "Happy with whatever scraps fall into the alms-bowl,"
+
+#. <br>
+msgctxt "thag20.1:5.3"
+msgid "Dālemu maccuno senaṃ,"
+msgstr "And serene inside:"
+
+#. <br>
+msgctxt "thag20.1:5.4"
+msgid "ajjhattaṃ susamāhitā."
+msgstr "Let us tear apart the army of death."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc1151"></a><a class="verse-num-pts"
+#. id="verse-num-pts1147"></a>
+msgctxt "thag20.1:6.1"
+msgid "Āraññikā piṇḍapātikā,"
+msgstr "Living in the wilderness, eating only alms-food,"
+
+#. <br>
+msgctxt "thag20.1:6.2"
+msgid "uñchāpattāgate ratā;"
+msgstr "Happy with whatever scraps fall into the alms-bowl,"
+
+#. <br>
+msgctxt "thag20.1:6.3"
+msgid "Dhunāma maccuno senaṃ,"
+msgstr "Let us smash the army of death,"
+
+#. <br>
+msgctxt "thag20.1:6.4"
+msgid "naḷāgāraṃva kuñjaro."
+msgstr "Like an elephant smashing a reed hut."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc1152"></a><a class="verse-num-pts"
+#. id="verse-num-pts1148"></a>
+msgctxt "thag20.1:7.1"
+msgid "Rukkhamūlikā sātatikā,"
+msgstr "Living at the foot of a tree, persevering,"
+
+#. <br>
+msgctxt "thag20.1:7.2"
+msgid "uñchāpattāgate ratā;"
+msgstr "Happy with whatever scraps fall into the alms-bowl,"
+
+#. <br>
+msgctxt "thag20.1:7.3"
+msgid "Dālemu maccuno senaṃ,"
+msgstr "And serene inside:"
+
+#. <br>
+msgctxt "thag20.1:7.4"
+msgid "ajjhattaṃ susamāhitā."
+msgstr "Let us tear apart the army of death."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc1153"></a><a class="verse-num-pts"
+#. id="verse-num-pts1149"></a>
+msgctxt "thag20.1:8.1"
+msgid "Rukkhamūlikā sātatikā,"
+msgstr "Living at the foot of a tree, persevering"
+
+#. <br>
+msgctxt "thag20.1:8.2"
+msgid "uñchāpattāgate ratā;"
+msgstr "Happy with whatever scraps fall into the alms-bowl,"
+
+#. <br>
+msgctxt "thag20.1:8.3"
+msgid "Dhunāma maccuno senaṃ,"
+msgstr "Let us crush the army of death,"
+
+#. <br>
+msgctxt "thag20.1:8.4"
+msgid "naḷāgāraṃva kuñjaro”."
+msgstr "Like an elephant crushing a reed hut.”"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc1154"></a><a class="verse-num-pts"
+#. id="verse-num-pts1150"></a>
+msgctxt "thag20.1:9.1"
+msgid "“Aṭṭhikaṅkalakuṭike,"
+msgstr "“With a skeleton as a hut,"
+
+#. <br>
+msgctxt "thag20.1:9.2"
+msgid "maṃsanhārupasibbite;"
+msgstr "Woven together with flesh and tendons—"
+
+#. <br>
+msgctxt "thag20.1:9.3"
+msgid "Dhiratthu pure duggandhe,"
+msgstr "Damn this stinking body!"
+
+#. <br>
+msgctxt "thag20.1:9.4"
+msgid "paragatte mamāyase."
+msgstr "Which cherishes other bodies."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc1155"></a><a class="verse-num-pts"
+#. id="verse-num-pts1151"></a>
+msgctxt "thag20.1:10.1"
+msgid "Gūthabhaste taconaddhe,"
+msgstr "You sack of dung wrapped in skin!"
+
+#. <br>
+msgctxt "thag20.1:10.2"
+msgid "uragaṇḍipisācini;"
+msgstr "You goblin with horns on your chest!"
+
+#. <br>
+msgctxt "thag20.1:10.3"
+msgid "Nava sotāni te kāye,"
+msgstr "Your body has nine streams,"
+
+#. <br>
+msgctxt "thag20.1:10.4"
+msgid "yāni sandanti sabbadā."
+msgstr "Which are flowing all the time."
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc1156"></a><a class="verse-num-pts"
+#. id="verse-num-pts1152"></a>
+msgctxt "thag20.1:11.1"
+msgid "Tava sarīraṃ navasotaṃ,"
+msgstr "With its nine streams,"
+
+#. <br>
+msgctxt "thag20.1:11.2"
+msgid "<span class=\"var\" title=\"duggandhakaṃ (s2, s3) | duggandhaṃ (pts1)\" id=\"note491\">Duggandhakaraṃ</span> <span class=\"var\" title=\"parivajjeyya (s2, s3) | kariparibandha (pts1)\" id=\"note492\">paribandhaṃ</span>;"
+msgstr "Your body stinks, full of dung."
+
+#. <br>
+msgctxt "thag20.1:11.3"
+msgid "Bhikkhu parivajjayate taṃ,"
+msgstr "A monk seeking purity would avoid it altogether,"
+
+#. <br>
+msgctxt "thag20.1:11.4"
+msgid "Mīḷhaṃ ca yathā sucikāmo."
+msgstr "Like excrement."
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc1157"></a><a class="verse-num-pts"
+#. id="verse-num-pts1153"></a>
+msgctxt "thag20.1:12.1"
+msgid "Evañce taṃ jano jaññā,"
+msgstr "If they knew you"
+
+#. <br>
+msgctxt "thag20.1:12.2"
+msgid "yathā jānāmi taṃ ahaṃ;"
+msgstr "Like I do,"
+
+#. <br>
+msgctxt "thag20.1:12.3"
+msgid "Ārakā parivajjeyya,"
+msgstr "They’d keep far away,"
+
+#. <br>
+msgctxt "thag20.1:12.4"
+msgid "gūthaṭṭhānaṃva pāvuse”."
+msgstr "Like a cesspit in the rainy-season.”"
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc1158"></a><a class="verse-num-pts"
+#. id="verse-num-pts1154"></a>
+msgctxt "thag20.1:13.1"
+msgid "“Evametaṃ mahāvīra,"
+msgstr "“So it is, great hero!"
+
+#. <br>
+msgctxt "thag20.1:13.2"
+msgid "yathā samaṇa bhāsasi;"
+msgstr "As you say, ascetic!"
+
+#. <br>
+msgctxt "thag20.1:13.3"
+msgid "Ettha ceke visīdanti,"
+msgstr "But some sink here"
+
+#. <br>
+msgctxt "thag20.1:13.4"
+msgid "paṅkamhiva jaraggavo”."
+msgstr "Like an old bull in mud.”"
+
+#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
+#. id="verse-num-sc1159"></a><a class="verse-num-pts"
+#. id="verse-num-pts1155"></a>
+msgctxt "thag20.1:14.1"
+msgid "“Ākāsamhi haliddiyā,"
+msgstr "“Whoever might think"
+
+#. <br>
+msgctxt "thag20.1:14.2"
+msgid "yo maññetha rajetave;"
+msgstr "Of making the sky yellow,"
+
+#. <br>
+msgctxt "thag20.1:14.3"
+msgid "Aññena vāpi raṅgena,"
+msgstr "Or any other colour,"
+
+#. <br>
+msgctxt "thag20.1:14.4"
+msgid "vighātudayameva taṃ."
+msgstr "Would only be causing trouble for themselves."
+
+#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
+#. id="verse-num-sc1160"></a><a class="verse-num-pts"
+#. id="verse-num-pts1156"></a>
+msgctxt "thag20.1:15.1"
+msgid "Tadākāsasamaṃ cittaṃ,"
+msgstr "This mind is like the sky:"
+
+#. <br>
+msgctxt "thag20.1:15.2"
+msgid "ajjhattaṃ susamāhitaṃ;"
+msgstr "Serene inwardly."
+
+#. <br>
+msgctxt "thag20.1:15.3"
+msgid "Mā pāpacitte <span class=\"var\" title=\"ahati (bj) | āhari (pts1)\" id=\"note493\">āsādi</span>,"
+msgstr "Evil-minded one, don’t attack me"
+
+#. <br>
+msgctxt "thag20.1:15.4"
+msgid "aggikhandhaṃva pakkhimā”."
+msgstr "Like a moth to a bonfire.”"
+
+#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
+#. id="verse-num-sc1161"></a><a class="verse-num-pts"
+#. id="verse-num-pts1157"></a>
+msgctxt "thag20.1:16.1"
+msgid "“Passa cittakataṃ bimbaṃ,"
+msgstr "“See this fancy puppet,"
+
+#. <br>
+msgctxt "thag20.1:16.2"
+msgid "arukāyaṃ samussitaṃ;"
+msgstr "A heap of sores, a composite body,"
+
+#. <br>
+msgctxt "thag20.1:16.3"
+msgid "Āturaṃ bahusaṅkappaṃ,"
+msgstr "Diseased, obsessed over,"
+
+#. <br>
+msgctxt "thag20.1:16.4"
+msgid "yassa natthi dhuvaṃ ṭhiti."
+msgstr "Having no lasting stability."
+
+#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
+#. id="verse-num-sc1162"></a>
+msgctxt "thag20.1:17.1"
+msgid "Passa cittakataṃ rūpaṃ,"
+msgstr "See this fancy shape,"
+
+#. <br>
+msgctxt "thag20.1:17.2"
+msgid "maṇinā kuṇḍalena ca;"
+msgstr "With its gems and earrings;"
+
+#. <br>
+msgctxt "thag20.1:17.3"
+msgid "Aṭṭhiṃ tacena onaddhaṃ,"
+msgstr "It is bones wrapped with skin,"
+
+#. <br>
+msgctxt "thag20.1:17.4"
+msgid "saha vatthehi sobhati."
+msgstr "Made pretty by its clothes."
+
+#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
+#. id="verse-num-sc1163"></a>
+msgctxt "thag20.1:18.1"
+msgid "Alattakakatā pādā,"
+msgstr "Rouged feet"
+
+#. <br>
+msgctxt "thag20.1:18.2"
+msgid "mukhaṃ cuṇṇakamakkhitaṃ;"
+msgstr "And powdered face"
+
+#. <br>
+msgctxt "thag20.1:18.3"
+msgid "Alaṃ bālassa mohāya,"
+msgstr "Is enough to delude a fool,"
+
+#. <br>
+msgctxt "thag20.1:18.4"
+msgid "no ca pāragavesino."
+msgstr "But not a seeker of the far shore."
+
+#. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
+#. id="verse-num-sc1164"></a>
+msgctxt "thag20.1:19.1"
+msgid "Aṭṭhapadakatā kesā,"
+msgstr "Hair in eight braids"
+
+#. <br>
+msgctxt "thag20.1:19.2"
+msgid "nettā añjanamakkhitā;"
+msgstr "And eyeliner applied,"
+
+#. <br>
+msgctxt "thag20.1:19.3"
+msgid "Alaṃ bālassa mohāya,"
+msgstr "Is enough to delude a fool,"
+
+#. <br>
+msgctxt "thag20.1:19.4"
+msgid "no ca pāragavesino."
+msgstr "But not a seeker of the far shore."
+
+#. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
+#. id="verse-num-sc1165"></a>
+msgctxt "thag20.1:20.1"
+msgid "Añjanīva navā cittā,"
+msgstr "Like a newly decorated makeup box,"
+
+#. <br>
+msgctxt "thag20.1:20.2"
+msgid "pūtikāyo alaṅkato;"
+msgstr "The disgusting body all adorned"
+
+#. <br>
+msgctxt "thag20.1:20.3"
+msgid "Alaṃ bālassa mohāya,"
+msgstr "Is enough to delude a fool,"
+
+#. <br>
+msgctxt "thag20.1:20.4"
+msgid "no ca pāragavesino."
+msgstr "But not a seeker of the far shore."
+
+#. </p><p><a class="sc" id="17"></a><a class="verse-num-sc"
+#. id="verse-num-sc1166"></a>
+msgctxt "thag20.1:21.1"
+msgid "Odahi migavo pāsaṃ,"
+msgstr "The hunter laid his trap,"
+
+#. <br>
+msgctxt "thag20.1:21.2"
+msgid "nāsadā vāguraṃ migo;"
+msgstr "But the deer didn’t get caught in the snare;"
+
+#. <br>
+msgctxt "thag20.1:21.3"
+msgid "Bhutvā nivāpaṃ gacchāma,"
+msgstr "Having eaten the bait we go,"
+
+#. <br>
+msgctxt "thag20.1:21.4"
+msgid "kaddante migabandhake."
+msgstr "Leaving the deer-trapper to lament."
+
+#. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
+#. id="verse-num-sc1167"></a>
+msgctxt "thag20.1:22.1"
+msgid "Chinno pāso migavassa,"
+msgstr "The hunter’s trap is broken,"
+
+#. <br>
+msgctxt "thag20.1:22.2"
+msgid "nāsadā vāguraṃ migo;"
+msgstr "And the deer didn’t get caught in the snare;"
+
+#. <br>
+msgctxt "thag20.1:22.3"
+msgid "Bhutvā nivāpaṃ gacchāma,"
+msgstr "Having eaten the bait we go,"
+
+#. <br>
+msgctxt "thag20.1:22.4"
+msgid "socante migaluddake”."
+msgstr "Leaving the deer-hunter to lament.”"
+
+#. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
+#. id="verse-num-sc1168"></a><a class="verse-num-pts"
+#. id="verse-num-pts1158"></a>
+msgctxt "thag20.1:23.1"
+msgid "“Tadāsi yaṃ bhiṃsanakaṃ,"
+msgstr "“Then there was terror!"
+
+#. <br>
+msgctxt "thag20.1:23.2"
+msgid "tadāsi lomahaṃsanaṃ;"
+msgstr "Then they had goose-bumps!"
+
+#. <br>
+msgctxt "thag20.1:23.3"
+msgid "Anekākārasampanne,"
+msgstr "When Sāriputta, endowed with many qualities,"
+
+#. <br>
+msgctxt "thag20.1:23.4"
+msgid "sāriputtamhi nibbute."
+msgstr "Passed into nibbāna."
+
+#. </p><p><a class="sc" id="20"></a><a class="verse-num-sc"
+#. id="verse-num-sc1169"></a><a class="verse-num-pts"
+#. id="verse-num-pts1159"></a><a class="pts" id="pts105"></a>
+msgctxt "thag20.1:24.1"
+msgid "<span class=\"cross\" title=\"^dn16#239 [Mahāparinibbānasutta/36. Parinibbutakathā] | ^dn17#56 [Mahāsudassanasutta/8. Brahmalokūpagama] | ^sn6.15#1 [15. Parinibbānasutta] | ^sn15.20#1 [20. Vepullapabbatasutta] | ^ja95#1 [Mahāsudassanajātaka]\" id=\"note494\">*</span> Aniccā vata saṅkhārā,"
+msgstr "All conditions are impermanent,"
+
+#. <br>
+msgctxt "thag20.1:24.2"
+msgid "uppādavayadhammino;"
+msgstr "Their nature is to rise and fall."
+
+#. <br>
+msgctxt "thag20.1:24.3"
+msgid "Upajjitvā nirujjhanti,"
+msgstr "They arise, then they cease—"
+
+#. <br>
+msgctxt "thag20.1:24.4"
+msgid "tesaṃ vūpasamo sukho."
+msgstr "And their stilling is bliss.”"
+
+#. </p><p><a class="sc" id="21"></a><a class="verse-num-sc"
+#. id="verse-num-sc1170"></a><a class="verse-num-pts"
+#. id="verse-num-pts1160"></a>
+msgctxt "thag20.1:25.1"
+msgid "Sukhumaṃ te paṭivijjhanti,"
+msgstr "“Those who see the five aggregates"
+
+#. <br>
+msgctxt "thag20.1:25.2"
+msgid "vālaggaṃ usunā yathā;"
+msgstr "As other, not as self,"
+
+#. <br>
+msgctxt "thag20.1:25.3"
+msgid "Ye pañcakkhandhe passanti,"
+msgstr "Penetrate a subtle thing,"
+
+#. <br>
+msgctxt "thag20.1:25.4"
+msgid "parato no ca attato."
+msgstr "Like a hair-tip with an arrow."
+
+#. </p><p><a class="sc" id="22"></a><a class="verse-num-sc"
+#. id="verse-num-sc1171"></a><a class="verse-num-pts"
+#. id="verse-num-pts1161"></a>
+msgctxt "thag20.1:26.1"
+msgid "Ye ca passanti saṅkhāre,"
+msgstr "Those who see conditions"
+
+#. <br>
+msgctxt "thag20.1:26.2"
+msgid "parato no ca attato;"
+msgstr "As other, not as self,"
+
+#. <br>
+msgctxt "thag20.1:26.3"
+msgid "Paccabyādhiṃsu nipuṇaṃ,"
+msgstr "Pierce a fine thing,"
+
+#. <br>
+msgctxt "thag20.1:26.4"
+msgid "vālaggaṃ usunā yathā."
+msgstr "Like a hair-tip with an arrow.”"
+
+#. </p><p><a class="sc" id="23"></a><a class="verse-num-sc"
+#. id="verse-num-sc1172"></a><a class="verse-num-pts"
+#. id="verse-num-pts1162"></a>
+msgctxt "thag20.1:27.1"
+msgid "<span class=\"cross\" title=\"(gāthā 1171--1172) ^sn1.21#1 [21. Sattisutta] | ^sn2.16#1 [16. Vāsudattasutta] | ^thag1.39#1 [Tissattheragāthā]-90 | ^ne6#181 [Sāsanapaṭṭhāna] | ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi]\" id=\"note495\">*</span> Sattiyā viya omaṭṭho,"
+msgstr "“As if struck by a sword,"
+
+#. <br>
+msgctxt "thag20.1:27.2"
+msgid "ḍayhamānova matthake;"
+msgstr "As if their head was on fire,"
+
+#. <br>
+msgctxt "thag20.1:27.3"
+msgid "Kāmarāgappahānāya,"
+msgstr "Mindful, a monk should go forth,"
+
+#. <br>
+msgctxt "thag20.1:27.4"
+msgid "sato bhikkhu paribbaje."
+msgstr "To abandon desire for sensual pleasures."
+
+#. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
+#. id="verse-num-sc1173"></a><a class="verse-num-pts"
+#. id="verse-num-pts1163"></a>
+msgctxt "thag20.1:28.1"
+msgid "Sattiyā viya omaṭṭho,"
+msgstr "As if struck by a sword,"
+
+#. <br>
+msgctxt "thag20.1:28.2"
+msgid "ḍayhamānova matthake;"
+msgstr "As if their head was on fire,"
+
+#. <br>
+msgctxt "thag20.1:28.3"
+msgid "Bhavarāgappahānāya,"
+msgstr "Mindful, a monk should go forth,"
+
+#. <br>
+msgctxt "thag20.1:28.4"
+msgid "sato bhikkhu paribbaje."
+msgstr "To abandon desire to be reborn in any state of existence.”"
+
+#. </p><p><a class="sc" id="25"></a><a class="verse-num-sc"
+#. id="verse-num-sc1174"></a><a class="verse-num-pts"
+#. id="verse-num-pts1164"></a>
+msgctxt "thag20.1:29.1"
+msgid "Codito bhāvitattena,"
+msgstr "“Encouraged by the developed one,"
+
+#. <br>
+msgctxt "thag20.1:29.2"
+msgid "sarīrantimadhārinā;"
+msgstr "Bearing his final body,"
+
+#. <br>
+msgctxt "thag20.1:29.3"
+msgid "Migāramātupāsādaṃ,"
+msgstr "I shook the stilt longhouse of Migāra’s mother"
+
+#. <br>
+msgctxt "thag20.1:29.4"
+msgid "pādaṅguṭṭhena kampayiṃ."
+msgstr "With my big toe.”"
+
+#. </p><p><a class="sc" id="26"></a><a class="verse-num-sc"
+#. id="verse-num-sc1175"></a><a class="verse-num-pts"
+#. id="verse-num-pts1165"></a>
+msgctxt "thag20.1:30.1"
+msgid "<span class=\"cross\" title=\"^sn21.4#1 [4. Navasutta] | ^ne6#227 [Sāsanapaṭṭhāna]\" id=\"note496\">*</span> Nayidaṃ sithilamārabbha,"
+msgstr "“This isn’t something you can get by being slack;"
+
+#. <br>
+msgctxt "thag20.1:30.2"
+msgid "nayidaṃ appena thāmasā;"
+msgstr "This isn’t something that takes little strength:"
+
+#. <br>
+msgctxt "thag20.1:30.3"
+msgid "Nibbānamadhigantabbaṃ,"
+msgstr "The realization of nibbāna,"
+
+#. <br>
+msgctxt "thag20.1:30.4"
+msgid "sabbaganthapamocanaṃ."
+msgstr "The release from all attachments.”"
+
+#. </p><p><a class="sc" id="27"></a><a class="verse-num-sc"
+#. id="verse-num-sc1176"></a><a class="verse-num-pts"
+#. id="verse-num-pts1166"></a>
+msgctxt "thag20.1:31.1"
+msgid "Ayañca daharo bhikkhu,"
+msgstr "“This young monk,"
+
+#. <br>
+msgctxt "thag20.1:31.2"
+msgid "ayamuttamaporiso;"
+msgstr "The best of men,"
+
+#. <br>
+msgctxt "thag20.1:31.3"
+msgid "Dhāreti antimaṃ dehaṃ,"
+msgstr "Has vanquished Māra and his mount,"
+
+#. <br>
+msgctxt "thag20.1:31.4"
+msgid "jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (s2, s3, pts1-2, mr)\" id=\"note497\">savāhiniṃ</span>."
+msgstr "And bears his final body.”"
+
+#. </p><p><a class="sc" id="28"></a><a class="verse-num-sc"
+#. id="verse-num-sc1177"></a><a class="verse-num-pts"
+#. id="verse-num-pts1167"></a>
+msgctxt "thag20.1:32.1"
+msgid "Vivaramanupabhanti vijjutā,"
+msgstr "“Lightning flashes down"
+
+#. <br>
+msgctxt "thag20.1:32.2"
+msgid "Vebhārassa ca paṇḍavassa ca;"
+msgstr "On the cleft of Vebhāra and Paṇḍava."
+
+#. <br>
+msgctxt "thag20.1:32.3"
+msgid "Nagavivaragato jhāyati,"
+msgstr "But in the mountain cleft, the son of the inimitable"
+
+#. <br>
+msgctxt "thag20.1:32.4"
+msgid "Putto appaṭimassa tādino."
+msgstr "Is poised and absorbed in jhāna.”"
+
+#. </p><p><a class="sc" id="29"></a><a class="verse-num-sc"
+#. id="verse-num-sc1178"></a><a class="verse-num-pts"
+#. id="verse-num-pts1168"></a>
+msgctxt "thag20.1:33.1"
+msgid "Upasanto uparato,"
+msgstr "“Calm and quiet,"
+
+#. <br>
+msgctxt "thag20.1:33.2"
+msgid "pantasenāsano muni;"
+msgstr "The sage in his secluded lodging,"
+
+#. <br>
+msgctxt "thag20.1:33.3"
+msgid "Dāyādo buddhaseṭṭhassa,"
+msgstr "The heir to the best of Buddhas,"
+
+#. <br>
+msgctxt "thag20.1:33.4"
+msgid "brahmunā abhivandito”."
+msgstr "Is honoured even by Brahmā.”"
+
+#. </p><p><a class="sc" id="30"></a><a class="verse-num-sc"
+#. id="verse-num-sc1179"></a><a class="verse-num-pts"
+#. id="verse-num-pts1169"></a>
+msgctxt "thag20.1:34.1"
+msgid "“Upasantaṃ uparataṃ,"
+msgstr "“Calm and quiet,"
+
+#. <br>
+msgctxt "thag20.1:34.2"
+msgid "pantasenāsanaṃ muniṃ;"
+msgstr "The sage in his secluded lodging,"
+
+#. <br>
+msgctxt "thag20.1:34.3"
+msgid "Dāyādaṃ buddhaseṭṭhassa,"
+msgstr "The heir to the best of Buddhas:"
+
+#. <br>
+msgctxt "thag20.1:34.4"
+msgid "vanda brāhmaṇa kassapaṃ."
+msgstr "Brahman, you should honor Kassapa!"
+
+#. </p><p><a class="sc" id="31"></a><a class="verse-num-sc"
+#. id="verse-num-sc1180"></a><a class="verse-num-pts"
+#. id="verse-num-pts1170"></a>
+msgctxt "thag20.1:35.1"
+msgid "Yo ca jātisataṃ gacche,"
+msgstr "Even if someone were to be born"
+
+#. <br>
+msgctxt "thag20.1:35.2"
+msgid "sabbā brāhmaṇajātiyo;"
+msgstr "A hundred times repeatedly in the human realm,"
+
+#. <br>
+msgctxt "thag20.1:35.3"
+msgid "Sottiyo vedasampanno,"
+msgstr "And always as a brahman,"
+
+#. <br>
+msgctxt "thag20.1:35.4"
+msgid "manussesu punappunaṃ."
+msgstr "A student who memorized the Vedas,"
+
+#. </p><p><a class="sc" id="32"></a><a class="verse-num-sc"
+#. id="verse-num-sc1181"></a><a class="verse-num-pts"
+#. id="verse-num-pts1171"></a>
+msgctxt "thag20.1:36.1"
+msgid "Ajjhāyakopi ce assa,"
+msgstr "And if he were a teacher,"
+
+#. <br>
+msgctxt "thag20.1:36.2"
+msgid "tiṇṇaṃ vedāna pāragū;"
+msgstr "With expertise in the three Vedas:"
+
+#. <br>
+msgctxt "thag20.1:36.3"
+msgid "Etassa <span class=\"var\" title=\"... ekaṃ (s2, s3, pts1)\" id=\"note498\">vandanāyetaṃ</span>,"
+msgstr "Honoring such a person"
+
+#. <br>
+msgctxt "thag20.1:36.4"
+msgid "kalaṃ nāgghati soḷasiṃ."
+msgstr "Isn’t worth a sixteenth of that."
+
+#. </p><p><a class="sc" id="33"></a><a class="verse-num-sc"
+#. id="verse-num-sc1182"></a><a class="verse-num-pts"
+#. id="verse-num-pts1172"></a>
+msgctxt "thag20.1:37.1"
+msgid "Yo so aṭṭha vimokkhāni,"
+msgstr "Whoever attains the eight emancipations"
+
+#. <br>
+msgctxt "thag20.1:37.2"
+msgid "purebhattaṃ <span class=\"var\" title=\"aphussayi (s2, s3) | apassayi (pts1, mr)\" id=\"note499\">aphassayi</span>;"
+msgstr "Forwards and backwards "
+
+#. <br>
+msgctxt "thag20.1:37.3"
+msgid "Anulomaṃ paṭilomaṃ,"
+msgstr "Before breakfast,"
+
+#. <br>
+msgctxt "thag20.1:37.4"
+msgid "tato piṇḍāya gacchati."
+msgstr "And then goes on alms-round—"
+
+#. </p><p><a class="sc" id="34"></a><a class="verse-num-sc"
+#. id="verse-num-sc1183"></a><a class="verse-num-pts"
+#. id="verse-num-pts1173"></a>
+msgctxt "thag20.1:38.1"
+msgid "Tādisaṃ bhikkhuṃ <span class=\"var\" title=\"mā hani (bj) | māhari (pts1)\" id=\"note500\">māsādi</span>,"
+msgstr "Don’t attack such a monk!"
+
+#. <br>
+msgctxt "thag20.1:38.2"
+msgid "māttānaṃ khaṇi brāhmaṇa;"
+msgstr "Don’t ruin yourself, brahman!"
+
+#. <br>
+msgctxt "thag20.1:38.3"
+msgid "Abhippasādehi manaṃ,"
+msgstr "Have faith in the arahant"
+
+#. <br>
+msgctxt "thag20.1:38.4"
+msgid "arahantamhi tādine;"
+msgstr "Quickly venerate him "
+
+#. <br>
+msgctxt "thag20.1:38.5"
+msgid "Khippaṃ pañjaliko vanda,"
+msgstr "With hands in añjalī,"
+
+#. <br>
+msgctxt "thag20.1:38.6"
+msgid "mā te vijaṭi matthakaṃ”."
+msgstr "Don’t let your head explode!”"
+
+#. </p><p><a class="sc" id="35"></a><a class="verse-num-sc"
+#. id="verse-num-sc1184"></a><a class="verse-num-pts"
+#. id="verse-num-pts1174"></a>
+msgctxt "thag20.1:39.1"
+msgid "“Neso passati saddhammaṃ,"
+msgstr "“If you think transmigration is the important thing,"
+
+#. <br>
+msgctxt "thag20.1:39.2"
+msgid "saṃsārena purakkhato;"
+msgstr "You don’t see the Dhamma."
+
+#. <br>
+msgctxt "thag20.1:39.3"
+msgid "<span class=\"var\" title=\"acaṅkamaṃ (s2, s3, pts1)\" id=\"note501\">Adhogamaṃ</span> jimhapathaṃ,"
+msgstr "You’re following a twisted path,"
+
+#. <br>
+msgctxt "thag20.1:39.4"
+msgid "kummaggamanudhāvati."
+msgstr "A bad path that will lead you down."
+
+#. </p><p><a class="sc" id="36"></a><a class="verse-num-sc"
+#. id="verse-num-sc1185"></a><a class="verse-num-pts"
+#. id="verse-num-pts1175"></a>
+msgctxt "thag20.1:40.1"
+msgid "Kimīva mīḷhasallitto,"
+msgstr "Like a worm smeared with dung,"
+
+#. <br>
+msgctxt "thag20.1:40.2"
+msgid "saṅkhāre adhimucchito;"
+msgstr "He is besotted with conditions."
+
+#. <br>
+msgctxt "thag20.1:40.3"
+msgid "Pagāḷho lābhasakkāre,"
+msgstr "Sunk in gain and honour,"
+
+#. <br>
+msgctxt "thag20.1:40.4"
+msgid "tuccho gacchati poṭṭhilo”."
+msgstr "Poṭṭhila goes on, hollow.”"
+
+#. </p><p><a class="sc" id="37"></a><a class="verse-num-sc"
+#. id="verse-num-sc1186"></a><a class="verse-num-pts"
+#. id="verse-num-pts1176"></a>
+msgctxt "thag20.1:41.1"
+msgid "“Imañca passa āyantaṃ,"
+msgstr "“See Sāriputta coming!"
+
+#. <br>
+msgctxt "thag20.1:41.2"
+msgid "sāriputtaṃ sudassanaṃ;"
+msgstr "It is good to see him."
+
+#. <br>
+msgctxt "thag20.1:41.3"
+msgid "Vimuttaṃ ubhatobhāge,"
+msgstr "Liberated in both ways,"
+
+#. <br>
+msgctxt "thag20.1:41.4"
+msgid "ajjhattaṃ susamāhitaṃ."
+msgstr "Serene inside himself."
+
+#. </p><p><a class="sc" id="38"></a><a class="verse-num-sc"
+#. id="verse-num-sc1187"></a><a class="verse-num-pts"
+#. id="verse-num-pts1177"></a><a class="pts" id="pts106"></a>
+msgctxt "thag20.1:42.1"
+msgid "Visallaṃ khīṇasaṃyogaṃ,"
+msgstr "free of thorns, with fetters ended,"
+
+#. <br>
+msgctxt "thag20.1:42.2"
+msgid "tevijjaṃ maccuhāyinaṃ;"
+msgstr "With the three knowledges, destroyer of death,"
+
+#. <br>
+msgctxt "thag20.1:42.3"
+msgid "Dakkhiṇeyyaṃ manussānaṃ,"
+msgstr "Worthy of offerings,"
+
+#. <br>
+msgctxt "thag20.1:42.4"
+msgid "puññakkhettaṃ anuttaraṃ”."
+msgstr "An unsurpassed field of merit for people.”"
+
+#. </p><p><a class="sc" id="39"></a><a class="verse-num-sc"
+#. id="verse-num-sc1188"></a><a class="verse-num-pts"
+#. id="verse-num-pts1178"></a>
+msgctxt "thag20.1:43.1"
+msgid "“Ete sambahulā devā,"
+msgstr "These famous gods"
+
+#. <br>
+msgctxt "thag20.1:43.2"
+msgid "iddhimanto yasassino;"
+msgstr "Endowed with psychic powers,"
+
+#. <br>
+msgctxt "thag20.1:43.3"
+msgid "Dasa devasahassāni,"
+msgstr "All 10,000 of them,"
+
+#. <br>
+msgctxt "thag20.1:43.4"
+msgid "sabbe brahmapurohitā;"
+msgstr "Are ministers of Brahmā."
+
+#. <br>
+msgctxt "thag20.1:43.5"
+msgid "Moggallānaṃ namassantā,"
+msgstr "They stand with hands in añjalī,"
+
+#. <br>
+msgctxt "thag20.1:43.6"
+msgid "tiṭṭhanti pañjalīkatā."
+msgstr "Honouring Moggallāna."
+
+#. </p><p><a class="sc" id="40"></a><a class="verse-num-sc"
+#. id="verse-num-sc1189"></a><a class="verse-num-pts"
+#. id="verse-num-pts1179"></a>
+msgctxt "thag20.1:44.1"
+msgid "‘Namo te purisājañña,"
+msgstr "‘Homage to you, thoroughbred among men!"
+
+#. <br>
+msgctxt "thag20.1:44.2"
+msgid "namo te purisuttama;"
+msgstr "Homage to you, best of men!"
+
+#. <br>
+msgctxt "thag20.1:44.3"
+msgid "Yassa te āsavā khīṇā,"
+msgstr "Since your defilements are ended,"
+
+#. <br>
+msgctxt "thag20.1:44.4"
+msgid "dakkhiṇeyyosi mārisa’."
+msgstr "You, sir, are worthy of offerings!’”"
+
+#. </p><p><a class="sc" id="41"></a><a class="verse-num-sc"
+#. id="verse-num-sc1190"></a><a class="verse-num-pts"
+#. id="verse-num-pts1180"></a>
+msgctxt "thag20.1:45.1"
+msgid "Pūjito naradevena,"
+msgstr "“Venerated by men and gods,"
+
+#. <br>
+msgctxt "thag20.1:45.2"
+msgid "uppanno maraṇābhibhū;"
+msgstr "He has arisen, the transcender of death."
+
+#. <br>
+msgctxt "thag20.1:45.3"
+msgid "Puṇḍarīkaṃva toyena,"
+msgstr "He is undefiled by conditions,"
+
+#. <br>
+msgctxt "thag20.1:45.4"
+msgid "saṅkhārenupalippati."
+msgstr "As a lotus-flower by water."
+
+#. </p><p><a class="sc" id="42"></a><a class="verse-num-sc"
+#. id="verse-num-sc1191"></a><a class="verse-num-pts"
+#. id="verse-num-pts1181"></a>
+msgctxt "thag20.1:46.1"
+msgid "Yassa muhuttena sahassadhā loko,"
+msgstr "Knowing in an hour the thousand-fold world,"
+
+#. <br>
+msgctxt "thag20.1:46.2"
+msgid "Saṃvidito sabrahmakappo vasi;"
+msgstr "Including the Brahmā realm;"
+
+#. <br>
+msgctxt "thag20.1:46.3"
+msgid "Iddhiguṇe cutupapāte kāle,"
+msgstr "Having mastery of psychic powers, and the knowledge"
+
+#. <br>
+msgctxt "thag20.1:46.4"
+msgid "Passati devatā sa bhikkhu”."
+msgstr ""
+"Of the passing away and rebirth of beings in time: that monk sees the gods.”"
+
+#. </p><p><a class="sc" id="43"></a><a class="verse-num-sc"
+#. id="verse-num-sc1192"></a><a class="verse-num-pts"
+#. id="verse-num-pts1182"></a>
+msgctxt "thag20.1:47.1"
+msgid "“Sāriputtova paññāya,"
+msgstr "“Sāriputta, the monk who has crossed over,"
+
+#. <br>
+msgctxt "thag20.1:47.2"
+msgid "sīlena upasamena ca;"
+msgstr "Would be supreme"
+
+#. <br>
+msgctxt "thag20.1:47.3"
+msgid "Yopi pāraṅgato bhikkhu,"
+msgstr "Because of his wisdom,"
+
+#. <br>
+msgctxt "thag20.1:47.4"
+msgid "etāvaparamo siyā."
+msgstr "Virtue, and peace."
+
+#. </p><p><a class="sc" id="44"></a><a class="verse-num-sc"
+#. id="verse-num-sc1193"></a><a class="verse-num-pts"
+#. id="verse-num-pts1183"></a>
+msgctxt "thag20.1:48.1"
+msgid "Koṭisatasahassassa,"
+msgstr "But in a moment I can create the likenesses"
+
+#. <br>
+msgctxt "thag20.1:48.2"
+msgid "Attabhāvaṃ khaṇena nimmine;"
+msgstr "Of ten million times 100,000 people!"
+
+#. <br>
+msgctxt "thag20.1:48.3"
+msgid "Ahaṃ vikubbanāsu kusalo,"
+msgstr "I’m skilled in transformations;"
+
+#. <br>
+msgctxt "thag20.1:48.4"
+msgid "Vasībhūtomhi iddhiyā."
+msgstr "I’m a master of physic powers."
+
+#. </p><p><a class="sc" id="45"></a><a class="verse-num-sc"
+#. id="verse-num-sc1194"></a><a class="verse-num-pts"
+#. id="verse-num-pts1184"></a>
+msgctxt "thag20.1:49.1"
+msgid "Samādhivijjāvasipāramīgato,"
+msgstr "A member of the Moggallāna clan, attained to perfection and mastery"
+
+#. <br>
+msgctxt "thag20.1:49.2"
+msgid "Moggallānagotto asitassa sāsane;"
+msgstr "In samādhi and knowledge, wise in the teachings of the unattached,"
+
+#. <br>
+msgctxt "thag20.1:49.3"
+msgid "Dhīro samucchindi samāhitindriyo,"
+msgstr "With serene faculties, has burst his bonds,"
+
+#. <br>
+msgctxt "thag20.1:49.4"
+msgid "Nāgo yathā pūtilataṃva bandhanaṃ."
+msgstr "Like an elephant bursts a rope of creeper."
+
+#. </p><p><a class="sc" id="46"></a><a class="verse-num-sc"
+#. id="verse-num-sc1195"></a><a class="verse-num-pts"
+#. id="verse-num-pts1185"></a>
+msgctxt "thag20.1:50.1"
+msgid "Pariciṇṇo mayā satthā,"
+msgstr "I’ve attended on the teacher"
+
+#. <br>
+msgctxt "thag20.1:50.2"
+msgid "kataṃ buddhassa sāsanaṃ;"
+msgstr "And fulfilled the Buddha’s instructions."
+
+#. <br>
+msgctxt "thag20.1:50.3"
+msgid "Ohito garuko bhāro,"
+msgstr "The heavy burden is laid down,"
+
+#. <br>
+msgctxt "thag20.1:50.4"
+msgid "bhavanetti samūhatā."
+msgstr "I’ve undone the attachment to being reborn in any state of existence."
+
+#. </p><p><a class="sc" id="47"></a><a class="verse-num-sc"
+#. id="verse-num-sc1196"></a><a class="verse-num-pts"
+#. id="verse-num-pts1186"></a>
+msgctxt "thag20.1:51.1"
+msgid "Yassa catthāya pabbajito,"
+msgstr "I’ve attained the goal"
+
+#. <br>
+msgctxt "thag20.1:51.2"
+msgid "agārasmānagāriyaṃ;"
+msgstr "For the sake of which I went forth"
+
+#. <br>
+msgctxt "thag20.1:51.3"
+msgid "So me attho anuppatto,"
+msgstr "From home life into homelessness—"
+
+#. <br>
+msgctxt "thag20.1:51.4"
+msgid "sabbasaṃyojanakkhayo."
+msgstr "The ending of all fetters.”"
+
+#. </p><p><a class="sc" id="48"></a>
+msgctxt "thag20.1:52.1"
+msgid "<a class=\"verse-num-sc\" id=\"verse-num-sc1197\"><span class=\"cross\" title=\"^mn50#21 [Māratajjanīyasutta]\" id=\"note502\">*</span> </a><a class=\"sc\" id=\"1197\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1187\"></a>Kīdiso nirayo āsi,"
+msgstr "“‘What kind of hell was that,"
+
+#. <br>
+msgctxt "thag20.1:52.2"
+msgid "yattha dussī apaccatha;"
+msgstr "Where Dussī was boiled,"
+
+#. <br>
+msgctxt "thag20.1:52.3"
+msgid "Vidhuraṃ sāvakamāsajja,"
+msgstr "After attacking the disciple Vidhura,"
+
+#. <br>
+msgctxt "thag20.1:52.4"
+msgid "kakusandhañca brāhmaṇaṃ."
+msgstr "Along with the brahmin Kakusandha?’"
+
+#. </p><p><a class="sc" id="49"></a>
+msgctxt "thag20.1:53.1"
+msgid "<a class=\"verse-num-sc\" id=\"verse-num-sc1198\"><span class=\"cross\" title=\"^mn50#21 [Māratajjanīyasutta] | ^pe1#35 [Ariyasaccappakāsanapaṭhamabhūmi]\" id=\"note503\">*</span> </a><a class=\"sc\" id=\"1198\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1188\"></a>Sataṃ āsi ayosaṅkū,"
+msgstr "‘There were 100 iron spikes,"
+
+#. <br>
+msgctxt "thag20.1:53.2"
+msgid "sabbe paccattavedanā;"
+msgstr "Each one individually causing pain:"
+
+#. <br>
+msgctxt "thag20.1:53.3"
+msgid "Īdiso nirayo āsi,"
+msgstr "That was the kind of hell"
+
+#. <br>
+msgctxt "thag20.1:53.4"
+msgid "yattha dussī apaccatha;"
+msgstr "Where Dussī was boiled,"
+
+#. <br>
+msgctxt "thag20.1:53.5"
+msgid "Vidhuraṃ sāvakamāsajja,"
+msgstr "After attacking the disciple Vidhura"
+
+#. <br>
+msgctxt "thag20.1:53.6"
+msgid "kakusandhañca brāhmaṇaṃ."
+msgstr "Along with the brahmin Kakusandha.’"
+
+#. </p><p><a class="sc" id="50"></a><a class="verse-num-sc"
+#. id="verse-num-sc1199"></a><a class="verse-num-pts"
+#. id="verse-num-pts1189"></a>
+msgctxt "thag20.1:54.1"
+msgid "Yo etamabhijānāti,"
+msgstr "‘Dark One, if you attack"
+
+#. <br>
+msgctxt "thag20.1:54.2"
+msgid "bhikkhu buddhassa sāvako;"
+msgstr "A monk who knows this from their own experience,"
+
+#. <br>
+msgctxt "thag20.1:54.3"
+msgid "Tādisaṃ bhikkhumāsajja,"
+msgstr "A disciple of the Buddha,"
+
+#. <br>
+msgctxt "thag20.1:54.4"
+msgid "kaṇha dukkhaṃ nigacchasi."
+msgstr "You will fall into suffering."
+
+#. </p><p><a class="sc" id="51"></a><a class="verse-num-sc"
+#. id="verse-num-sc1200"></a><a class="verse-num-pts"
+#. id="verse-num-pts1190"></a><a class="pts" id="pts107"></a>
+msgctxt "thag20.1:55.1"
+msgid "<span class=\"var\" title=\"... sarassa (bj, pts2) | ... sāgarasmiṃ (s2, s3, pts1, mr)\" id=\"note504\">Majjhesarasmiṃ</span> tiṭṭhanti,"
+msgstr "‘Mansions that last for an aeon"
+
+#. <br>
+msgctxt "thag20.1:55.2"
+msgid "vimānā kappaṭhāyino;"
+msgstr "Stand in the middle of a lake;"
+
+#. <br>
+msgctxt "thag20.1:55.3"
+msgid "Veḷuriyavaṇṇā rucirā,"
+msgstr "The colour of lapis lazuli,"
+
+#. <br>
+msgctxt "thag20.1:55.4"
+msgid "accimanto pabhassarā;"
+msgstr "Brilliant, sparkling, and shining;"
+
+#. <br>
+msgctxt "thag20.1:55.5"
+msgid "Accharā tattha naccanti,"
+msgstr "Many nymphs of diverse colours"
+
+#. <br>
+msgctxt "thag20.1:55.6"
+msgid "puthu nānattavaṇṇiyo."
+msgstr "Dance there."
+
+#. </p><p><a class="sc" id="52"></a><a class="verse-num-sc"
+#. id="verse-num-sc1201"></a><a class="verse-num-pts"
+#. id="verse-num-pts1191"></a>
+msgctxt "thag20.1:56.1"
+msgid "Yo etamabhijānāti,"
+msgstr "‘Dark One, if you attack "
+
+#. <br>
+msgctxt "thag20.1:56.2"
+msgid "…"
+msgstr "A monk who knows this from their own experience,"
+
+msgctxt "thag20.1:56.3"
+msgid "pe …"
+msgstr "A disciple of the Buddha,"
+
+#. <br>
+msgctxt "thag20.1:56.4"
+msgid "kaṇha dukkhaṃ nigacchasi."
+msgstr "You will fall into suffering. "
+
+#. </p><p><a class="sc" id="53"></a><a class="verse-num-sc"
+#. id="verse-num-sc1202"></a><a class="verse-num-pts"
+#. id="verse-num-pts1192"></a>
+msgctxt "thag20.1:57.1"
+msgid "Yo ve buddhena codito,"
+msgstr "‘The one who, encouraged by the Buddha,"
+
+#. <br>
+msgctxt "thag20.1:57.2"
+msgid "bhikkhusaṃghassa pekkhato;"
+msgstr "With the mendicant Saṅgha looking on,"
+
+#. <br>
+msgctxt "thag20.1:57.3"
+msgid "Migāramātupāsādaṃ,"
+msgstr "Shook the stilt longhouse of Migāra’s mother"
+
+#. <br>
+msgctxt "thag20.1:57.4"
+msgid "pādaṅguṭṭhena kampayi."
+msgstr "With their big toe:"
+
+#. </p><p><a class="sc" id="54"></a><a class="verse-num-sc"
+#. id="verse-num-sc1203"></a><a class="verse-num-pts"
+#. id="verse-num-pts1193"></a>
+msgctxt "thag20.1:58.1"
+msgid "Yo etamabhijānāti,"
+msgstr "‘Dark One, if you attack "
+
+#. <br>
+msgctxt "thag20.1:58.2"
+msgid "…"
+msgstr "A monk who knows this from their own experience,"
+
+msgctxt "thag20.1:58.3"
+msgid "pe …"
+msgstr "A disciple of the Buddha,"
+
+#. <br>
+msgctxt "thag20.1:58.4"
+msgid "kaṇha dukkhaṃ nigacchasi."
+msgstr "You will fall into suffering. "
+
+#. </p><p><a class="sc" id="55"></a><a class="verse-num-sc"
+#. id="verse-num-sc1204"></a><a class="verse-num-pts"
+#. id="verse-num-pts1194"></a>
+msgctxt "thag20.1:59.1"
+msgid "Yo vejayantapāsādaṃ,"
+msgstr "‘The one who shook the Palace of Victory"
+
+#. <br>
+msgctxt "thag20.1:59.2"
+msgid "pādaṅguṭṭhena kampayi;"
+msgstr "With their big toe,"
+
+#. <br>
+msgctxt "thag20.1:59.3"
+msgid "Iddhibalenupatthaddho,"
+msgstr "Relying on psychic power,"
+
+#. <br>
+msgctxt "thag20.1:59.4"
+msgid "saṃvejesi ca devatā."
+msgstr "Inspiring awe among the gods:"
+
+#. </p><p><a class="sc" id="56"></a><a class="verse-num-sc"
+#. id="verse-num-sc1205"></a><a class="verse-num-pts"
+#. id="verse-num-pts1195"></a>
+msgctxt "thag20.1:60.1"
+msgid "Yo etamabhijānāti,"
+msgstr "‘Dark One, if you attack "
+
+#. <br>
+msgctxt "thag20.1:60.2"
+msgid "…"
+msgstr "A monk who knows this from their own experience,"
+
+msgctxt "thag20.1:60.3"
+msgid "pe …"
+msgstr "A disciple of the Buddha,"
+
+#. <br>
+msgctxt "thag20.1:60.4"
+msgid "kaṇha dukkhaṃ nigacchasi."
+msgstr "You will fall into suffering. "
+
+#. </p><p><a class="sc" id="57"></a><a class="verse-num-sc"
+#. id="verse-num-sc1206"></a><a class="verse-num-pts"
+#. id="verse-num-pts1196"></a>
+msgctxt "thag20.1:61.1"
+msgid "Yo vejayantapāsāde,"
+msgstr "‘The one who asked Sakka"
+
+#. <br>
+msgctxt "thag20.1:61.2"
+msgid "sakkaṃ so paripucchati;"
+msgstr "in the Palace of Triumph:"
+
+#. <br>
+msgctxt "thag20.1:61.3"
+msgid "Api āvuso jānāsi,"
+msgstr "“Friend, do you know the freedom"
+
+#. <br>
+msgctxt "thag20.1:61.4"
+msgid "taṇhakkhayavimuttiyo;"
+msgstr "That comes with the end of craving?”"
+
+#. <br>
+msgctxt "thag20.1:61.5"
+msgid "Tassa sakko viyākāsi,"
+msgstr "And to whom, when asked this question,"
+
+#. <br>
+msgctxt "thag20.1:61.6"
+msgid "pañhaṃ puṭṭho yathātathaṃ”."
+msgstr "Sakka answered truthfully:"
+
+#. </p><p><a class="sc" id="58"></a><a class="verse-num-sc"
+#. id="verse-num-sc1207"></a><a class="verse-num-pts"
+#. id="verse-num-pts1197"></a>
+msgctxt "thag20.1:62.1"
+msgid "“Yo etamabhijānāti,"
+msgstr ""
+
+#. <br>
+msgctxt "thag20.1:62.2"
+msgid "…"
+msgstr "A monk who knows this from their own experience,"
+
+msgctxt "thag20.1:62.3"
+msgid "pe …"
+msgstr ""
+
+#. <br>
+msgctxt "thag20.1:62.4"
+msgid "kaṇha dukkhaṃ nigacchasi."
+msgstr ""
+
+#. </p><p><a class="sc" id="59"></a><a class="verse-num-sc"
+#. id="verse-num-sc1208"></a><a class="verse-num-pts"
+#. id="verse-num-pts1198"></a>
+msgctxt "thag20.1:63.1"
+msgid "Yo brahmānaṃ paripucchati,"
+msgstr "‘The one who asked Brahmā"
+
+#. <br>
+msgctxt "thag20.1:63.2"
+msgid "<span class=\"var\" title=\"sudhammāyaṃ abhitosabhaṃ (s2, s3, pts1-2)\" id=\"note505\">Sudhammāyaṃ ṭhito sabhaṃ</span>;"
+msgstr "In the Hall of Justice before the assembly:"
+
+#. <br>
+msgctxt "thag20.1:63.3"
+msgid "Ajjāpi tyāvuso sā diṭṭhi,"
+msgstr "“Friend, do you still have the same view"
+
+#. <br>
+msgctxt "thag20.1:63.4"
+msgid "Yā te diṭṭhi pure ahu;"
+msgstr "That you had in the past?"
+
+#. <br>
+msgctxt "thag20.1:63.5"
+msgid "Passasi vītivattantaṃ,"
+msgstr "Or do you see the radiance"
+
+#. <br>
+msgctxt "thag20.1:63.6"
+msgid "Brahmaloke pabhassaraṃ."
+msgstr "transcending the Brahmā realm?”"
+
+#. </p><p><a class="sc" id="60"></a><a class="verse-num-sc"
+#. id="verse-num-sc1209"></a><a class="verse-num-pts"
+#. id="verse-num-pts1199"></a>
+msgctxt "thag20.1:64.1"
+msgid "Tassa brahmā viyākāsi,"
+msgstr "‘And to whom, when asked this question,"
+
+#. <br>
+msgctxt "thag20.1:64.2"
+msgid "pañhaṃ puṭṭho yathātathaṃ;"
+msgstr "Brahmā answered truthfully:"
+
+#. <br>
+msgctxt "thag20.1:64.3"
+msgid "Na me mārisa sā diṭṭhi,"
+msgstr "“Friend, I don’t have that view"
+
+#. <br>
+msgctxt "thag20.1:64.4"
+msgid "yā me diṭṭhi pure ahu."
+msgstr "That I had in the past."
+
+#. </p><p><a class="sc" id="61"></a><a class="verse-num-sc"
+#. id="verse-num-sc1210"></a><a class="verse-num-pts"
+#. id="verse-num-pts1200"></a>
+msgctxt "thag20.1:65.1"
+msgid "Passāmi vītivattantaṃ,"
+msgstr "I see the radiance"
+
+#. <br>
+msgctxt "thag20.1:65.2"
+msgid "brahmaloke pabhassaraṃ;"
+msgstr "transcending the Brahmā realm."
+
+#. <br>
+msgctxt "thag20.1:65.3"
+msgid "Sohaṃ ajja kathaṃ vajjaṃ,"
+msgstr "So how could I say today"
+
+#. <br>
+msgctxt "thag20.1:65.4"
+msgid "ahaṃ niccomhi sassato”."
+msgstr "That I am permanent and eternal?”"
+
+#. </p><p><a class="sc" id="62"></a><a class="verse-num-sc"
+#. id="verse-num-sc1211"></a><a class="verse-num-pts"
+#. id="verse-num-pts1201"></a>
+msgctxt "thag20.1:66.1"
+msgid "“Yo etamabhijānāti,"
+msgstr "‘Dark One, if you attack"
+
+#. <br>
+msgctxt "thag20.1:66.2"
+msgid "…"
+msgstr "A monk who knows this from their own experience,"
+
+msgctxt "thag20.1:66.3"
+msgid "pe …"
+msgstr "A disciple of the Buddha,"
+
+#. <br>
+msgctxt "thag20.1:66.4"
+msgid "kaṇha dukkhaṃ nigacchasi."
+msgstr "You will fall into suffering."
+
+#. </p><p><a class="sc" id="63"></a><a class="verse-num-sc"
+#. id="verse-num-sc1212"></a><a class="verse-num-pts"
+#. id="verse-num-pts1202"></a>
+msgctxt "thag20.1:67.1"
+msgid "Yo mahāneruno kūṭaṃ,"
+msgstr "‘The one who through emancipation has touched"
+
+#. <br>
+msgctxt "thag20.1:67.2"
+msgid "vimokkhena <span class=\"var\" title=\"apassayi (s2, s3, pts1, mr)\" id=\"note506\">aphassayi</span>;"
+msgstr "The peak of the mighty Mount Neru,"
+
+#. <br>
+msgctxt "thag20.1:67.3"
+msgid "Vanaṃ pubbavidehānaṃ,"
+msgstr "The forests of Pubbavideha,"
+
+#. <br>
+msgctxt "thag20.1:67.4"
+msgid "ye ca bhūmisayā narā."
+msgstr "And the people who live there:"
+
+#. </p><p><a class="sc" id="64"></a><a class="verse-num-sc"
+#. id="verse-num-sc1213"></a><a class="verse-num-pts"
+#. id="verse-num-pts1203"></a>
+msgctxt "thag20.1:68.1"
+msgid "Yo etamabhijānāti,"
+msgstr "‘Dark One, if you attack"
+
+#. <br>
+msgctxt "thag20.1:68.2"
+msgid "bhikkhu buddhassa sāvako;"
+msgstr "A monk who directly knows this,"
+
+#. <br>
+msgctxt "thag20.1:68.3"
+msgid "Tādisaṃ bhikkhumāsajja,"
+msgstr "A disciple of the Buddha,"
+
+#. <br>
+msgctxt "thag20.1:68.4"
+msgid "kaṇha dukkhaṃ nigacchasi."
+msgstr "You will fall into suffering."
+
+#. </p><p><a class="sc" id="65"></a><a class="verse-num-sc"
+#. id="verse-num-sc1214"></a><a class="verse-num-pts"
+#. id="verse-num-pts1204"></a>
+msgctxt "thag20.1:69.1"
+msgid "Na ve aggi cetayati,"
+msgstr "‘Though a fire doesn’t think"
+
+#. <br>
+msgctxt "thag20.1:69.2"
+msgid "ahaṃ bālaṃ ḍahāmīti;"
+msgstr "“I’ll burn the fool”"
+
+#. <br>
+msgctxt "thag20.1:69.3"
+msgid "Bālova jalitaṃ aggiṃ,"
+msgstr "Still the fool who comes too close"
+
+#. <br>
+msgctxt "thag20.1:69.4"
+msgid "āsajja naṃ paḍayhati."
+msgstr "To the fire gets burnt."
+
+#. </p><p><a class="sc" id="66"></a><a class="verse-num-sc"
+#. id="verse-num-sc1215"></a><a class="verse-num-pts"
+#. id="verse-num-pts1205"></a>
+msgctxt "thag20.1:70.1"
+msgid "<span class=\"var\" title=\"evameva (c1)\" id=\"note507\">Evamevaṃ</span> tuvaṃ māra,"
+msgstr "‘In the same way Māra,"
+
+#. <br>
+msgctxt "thag20.1:70.2"
+msgid "āsajja naṃ tathāgataṃ;"
+msgstr "Having attacked the Tathāgata,"
+
+#. <br>
+msgctxt "thag20.1:70.3"
+msgid "Sayaṃ <span class=\"var\" title=\"dahissasi (bj, pts2) | ḍahissati (s2, s3) | dahissam (pts1)\" id=\"note508\">ḍahissasi</span> attānaṃ,"
+msgstr "You’ll burn yourself,"
+
+#. <br>
+msgctxt "thag20.1:70.4"
+msgid "bālo aggiṃva samphusaṃ."
+msgstr "Like a fool touching the flames."
+
+#. </p><p><a class="sc" id="67"></a><a class="verse-num-sc"
+#. id="verse-num-sc1216"></a><a class="verse-num-pts"
+#. id="verse-num-pts1206"></a>
+msgctxt "thag20.1:71.1"
+msgid "Apuññaṃ pasavī māro,"
+msgstr "‘Having attacked the Tathāgata,"
+
+#. <br>
+msgctxt "thag20.1:71.2"
+msgid "āsajja naṃ tathāgataṃ;"
+msgstr "Māra produced demerit."
+
+#. <br>
+msgctxt "thag20.1:71.3"
+msgid "Kiṃ nu maññasi pāpima,"
+msgstr "Wicked One, do you imagine:"
+
+#. <br>
+msgctxt "thag20.1:71.4"
+msgid "na me pāpaṃ vipaccati."
+msgstr "“My wickedness won’t bear fruit?”"
+
+#. </p><p><a class="sc" id="68"></a><a class="verse-num-sc"
+#. id="verse-num-sc1217"></a><a class="verse-num-pts"
+#. id="verse-num-pts1207"></a>
+msgctxt "thag20.1:72.1"
+msgid "<span class=\"var\" title=\"karato te miyyate (bj, s2, s3, pts1) | karato cīyate (^mn50#21 [Māratajjanīyasutta])\" id=\"note509\">Karato te cīyate</span> pāpaṃ,"
+msgstr "‘For a long time you’ve piled up"
+
+#. <br>
+msgctxt "thag20.1:72.2"
+msgid "cirarattāya antaka;"
+msgstr "The wickedness that you’ve created."
+
+#. <br>
+msgctxt "thag20.1:72.3"
+msgid "Māra nibbinda buddhamhā,"
+msgstr "Keep away from the Buddha, Māra!"
+
+#. <br>
+msgctxt "thag20.1:72.4"
+msgid "āsaṃ mākāsi bhikkhusu”."
+msgstr "Give up hope in tricking the monks.’"
+
+#. </p><p><a class="sc" id="69"></a><a class="verse-num-sc"
+#. id="verse-num-sc1218"></a><a class="verse-num-pts"
+#. id="verse-num-pts1208"></a><a class="pts" id="pts108"></a>
+msgctxt "thag20.1:73.1"
+msgid "“Iti māraṃ atajjesi,"
+msgstr "That is how, in the Bhesekaḷā grove"
+
+#. <br>
+msgctxt "thag20.1:73.2"
+msgid "bhikkhu bhesakaḷāvane;"
+msgstr "The monk rebuked Māra."
+
+#. <br>
+msgctxt "thag20.1:73.3"
+msgid "Tato so dummano yakkho,"
+msgstr "That spirit, downcast,"
+
+#. <br>
+msgctxt "thag20.1:73.4"
+msgid "tatthevantaradhāyathā”<span class=\"var\" title=\"... dhāyatīti (s2, s3, pts1)\" id=\"note510\">ti</span>."
+msgstr "Disappeared right there!”"
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag20.1:74.1"
+msgid "Itthaṃ sudaṃ āyasmā <span class=\"var\" title=\"mahāmoggalāno (mr)\" id=\"note511\">mahāmoggallāno</span> thero gāthāyo abhāsitthāti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "thag20.1:75.1"
+msgid "Saṭṭhinipāto niṭṭhito."
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "thag20.1:76.1"
+msgid "Tatruddānaṃ"
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p><a class="sc" id="70"></a>
+msgctxt "thag20.1:77.1"
+msgid "Saṭṭhikamhi nipātamhi,"
+msgstr ""
+
+#. <br>
+msgctxt "thag20.1:77.2"
+msgid "moggallāno mahiddhiko;"
+msgstr ""
+
+#. <br>
+msgctxt "thag20.1:77.3"
+msgid "Ekova theragāthāyo,"
+msgstr ""
+
+#. <br>
+msgctxt "thag20.1:77.4"
+msgid "aṭṭhasaṭṭhi bhavanti tāti."
+msgstr ""

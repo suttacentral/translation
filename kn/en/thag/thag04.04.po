@@ -1,0 +1,137 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2016-08-12 00:07+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1470960460.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag4.4"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag4.4:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag4.4:2.1"
+msgid "Catukkanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag4.4:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag4.4:4.1"
+msgid "4.4. Nandakattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc279"></a><a class="verse-num-pts"
+#. id="verse-num-pts279"></a>
+msgctxt "thag4.4:5.1"
+msgid "“Dhiratthu pūre duggandhe,"
+msgstr "Damn these stinking bodies!"
+
+#. <br>
+msgctxt "thag4.4:5.2"
+msgid "mārapakkhe avassute;"
+msgstr "They’re on Māra’s side, they ooze;"
+
+#. <br>
+msgctxt "thag4.4:5.3"
+msgid "Navasotāni te kāye,"
+msgstr "And bodies have nine streams"
+
+#. <br>
+msgctxt "thag4.4:5.4"
+msgid "yāni sandanti sabbadā."
+msgstr "That are always flowing."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc280"></a><a class="verse-num-pts"
+#. id="verse-num-pts280"></a><a class="pts" id="pts34"></a>
+msgctxt "thag4.4:6.1"
+msgid "Mā purāṇaṃ amaññittho,"
+msgstr "Don’t think much of bodies;"
+
+#. <br>
+msgctxt "thag4.4:6.2"
+msgid "māsādesi tathāgate;"
+msgstr "Don’t disparage the Tathāgatas."
+
+#. <br>
+msgctxt "thag4.4:6.3"
+msgid "Saggepi te na rajjanti,"
+msgstr "They’re not even aroused by heaven,"
+
+#. <br>
+msgctxt "thag4.4:6.4"
+msgid "<span class=\"var\" title=\"kimaṅga pana (bj, pts1-2)\" id=\"note172\">kimaṅgaṃ pana</span> mānuse."
+msgstr "Let alone by humans."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc281"></a><a class="verse-num-pts" id="verse-num-pts281"></a>
+msgctxt "thag4.4:7.1"
+msgid "Ye ca kho bālā dummedhā,"
+msgstr "But those dumb fools,"
+
+#. <br>
+msgctxt "thag4.4:7.2"
+msgid "dummantī mohapārutā;"
+msgstr "With bad advisors, shrouded in delusion,"
+
+#. <br>
+msgctxt "thag4.4:7.3"
+msgid "Tādisā tattha rajjanti,"
+msgstr "That kind of person is aroused by bodies,"
+
+#. <br>
+msgctxt "thag4.4:7.4"
+msgid "mārakhittamhi bandhane."
+msgstr "When Māra has thrown the snare."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc282"></a><a class="verse-num-pts" id="verse-num-pts282"></a>
+msgctxt "thag4.4:8.1"
+msgid "Yesaṃ rāgo ca doso ca,"
+msgstr "Those who have discarded"
+
+#. <br>
+msgctxt "thag4.4:8.2"
+msgid "avijjā ca virājitā;"
+msgstr "Lust, hatred, and ignorance:"
+
+#. <br>
+msgctxt "thag4.4:8.3"
+msgid "Tādī tattha na rajjanti,"
+msgstr "They’ve cut the strings, they’re no longer bound—"
+
+# Compare SN 41.5, this maybe should be chinnasota
+#. <br>
+msgctxt "thag4.4:8.4"
+msgid "chinnasuttā abandhanā”ti."
+msgstr "Such people are not aroused by bodies."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag4.4:9.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag4.4:9.2"
+msgid "Nandako thero …."
+msgstr ""

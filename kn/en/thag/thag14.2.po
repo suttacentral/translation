@@ -1,0 +1,376 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2018-04-01 21:14+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1522617287.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag14.2"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag14.2:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag14.2:2.1"
+msgid "Cuddasakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag14.2:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag14.2:4.1"
+msgid "14.2. Godattattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc659"></a><a class="verse-num-pts"
+#. id="verse-num-pts659"></a>
+msgctxt "thag14.2:5.1"
+msgid "“Yathāpi bhaddo ājañño,"
+msgstr "Just as a fine thoroughbred,"
+
+#. <br>
+msgctxt "thag14.2:5.2"
+msgid "dhure yutto dhurassaho;"
+msgstr "Yoked to a carriage, endures the load,"
+
+#. <br>
+msgctxt "thag14.2:5.3"
+msgid "Mathito atibhārena,"
+msgstr "Oppressed by the heavy burden,"
+
+#. <br>
+msgctxt "thag14.2:5.4"
+msgid "<span class=\"var\" title=\"saṃyuttaṃ (s2, s3) | saṃ yugaṃ (pts2)\" id=\"note305\">saṃyugaṃ</span> nātivattati."
+msgstr "And yet doesn’t try to escape the yoke;"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc660"></a><a class="verse-num-pts" id="verse-num-pts660"></a>
+msgctxt "thag14.2:6.1"
+msgid "Evaṃ paññāya ye tittā,"
+msgstr "So too, those who are as filled with understanding"
+
+#. <br>
+msgctxt "thag14.2:6.2"
+msgid "samuddo vārinā yathā;"
+msgstr "As the ocean is with water,"
+
+#. <br>
+msgctxt "thag14.2:6.3"
+msgid "Na pare atimaññanti,"
+msgstr "Don’t look down on others;"
+
+#. <br>
+msgctxt "thag14.2:6.4"
+msgid "ariyadhammova pāṇinaṃ."
+msgstr "This is the noble Dhamma regarding living creatures."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc661"></a><a class="verse-num-pts"
+#. id="verse-num-pts661"></a><a class="pts" id="pts68"></a>
+msgctxt "thag14.2:7.1"
+msgid "Kāle kālavasaṃ pattā,"
+msgstr "People who fall under the dominion of time,"
+
+#. <br>
+msgctxt "thag14.2:7.2"
+msgid "bhavābhavavasaṃ gatā;"
+msgstr "Under the dominion of being reborn in one state of existence after another,"
+
+#. <br>
+msgctxt "thag14.2:7.3"
+msgid "Narā dukkhaṃ nigacchanti,"
+msgstr "Undergo suffering,"
+
+#. <br>
+msgctxt "thag14.2:7.4"
+msgid "tedha socanti <span class=\"var\" title=\"mānavā (bj)\" id=\"note306\">māṇavā</span>."
+msgstr "And those young men grieve in this life."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc662"></a><a class="verse-num-pts" id="verse-num-pts662"></a>
+msgctxt "thag14.2:8.1"
+msgid "Unnatā sukhadhammena,"
+msgstr "Elated by anything happy,"
+
+#. <br>
+msgctxt "thag14.2:8.2"
+msgid "dukkhadhammena conatā;"
+msgstr "Downcast by anything suffering:"
+
+#. <br>
+msgctxt "thag14.2:8.3"
+msgid "Dvayena bālā haññanti,"
+msgstr "These both destroy the fool,"
+
+#. <br>
+msgctxt "thag14.2:8.4"
+msgid "yathābhūtaṃ adassino."
+msgstr "Who doesn’t see in accordance with reality."
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc663"></a><a class="verse-num-pts" id="verse-num-pts663"></a>
+msgctxt "thag14.2:9.1"
+msgid "Ye ca dukkhe sukhasmiñca,"
+msgstr "But those who in suffering and in happiness,"
+
+#. <br>
+msgctxt "thag14.2:9.2"
+msgid "majjhe <span class=\"var\" title=\"sibbanimaccagū (s2, s3) | sabbaniṃ ajjhagū (pts1) | sabbaniṃ accagū (pts2)\" id=\"note307\">sibbinimaccagū</span>;"
+msgstr "And in the middle have overcome the weaver;"
+
+#. <br>
+msgctxt "thag14.2:9.3"
+msgid "Ṭhitā te indakhīlova,"
+msgstr "They stand like a boundary post,"
+
+#. <br>
+msgctxt "thag14.2:9.4"
+msgid "na te unnataonatā."
+msgstr "Neither elated nor downcast."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc664"></a><a class="verse-num-pts" id="verse-num-pts664"></a>
+msgctxt "thag14.2:10.1"
+msgid "Na heva lābhe nālābhe,"
+msgstr "Not to gain or loss,"
+
+#. <br>
+msgctxt "thag14.2:10.2"
+msgid "na yase na ca kittiyā;"
+msgstr "Not to fame or reputation,"
+
+#. <br>
+msgctxt "thag14.2:10.3"
+msgid "Na nindāyaṃ pasaṃsāya,"
+msgstr "Not to criticism or praise,"
+
+#. <br>
+msgctxt "thag14.2:10.4"
+msgid "na te dukkhe sukhamhi ca."
+msgstr "Not to suffering or happiness—"
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc665"></a><a class="verse-num-pts" id="verse-num-pts665"></a>
+msgctxt "thag14.2:11.1"
+msgid "Sabbattha te na limpanti,"
+msgstr "The wise cling to nothing,"
+
+#. <br>
+msgctxt "thag14.2:11.2"
+msgid "udabinduva pokkhare;"
+msgstr "Like a droplet on a lotus-leaf."
+
+#. <br>
+msgctxt "thag14.2:11.3"
+msgid "Sabbattha sukhitā dhīrā,"
+msgstr "They are happy everywhere,"
+
+#. <br>
+msgctxt "thag14.2:11.4"
+msgid "sabbattha aparājitā."
+msgstr "And unconquered everywhere."
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc666"></a><a class="verse-num-pts" id="verse-num-pts666"></a>
+msgctxt "thag14.2:12.1"
+msgid "Dhammena ca alābho yo,"
+msgstr "There’s principled loss,"
+
+#. <br>
+msgctxt "thag14.2:12.2"
+msgid "yo ca lābho adhammiko;"
+msgstr "And there’s unprincipled gain."
+
+#. <br>
+msgctxt "thag14.2:12.3"
+msgid "Alābho dhammiko seyyo,"
+msgstr "Principled loss is better"
+
+#. <br>
+msgctxt "thag14.2:12.4"
+msgid "yañce lābho adhammiko."
+msgstr "Than unprincipled gain."
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc667"></a><a class="verse-num-pts" id="verse-num-pts667"></a>
+msgctxt "thag14.2:13.1"
+msgid "Yaso ca appabuddhīnaṃ,"
+msgstr "There’s the fame of the unintelligent,"
+
+#. <br>
+msgctxt "thag14.2:13.2"
+msgid "viññūnaṃ ayaso ca yo;"
+msgstr "And there’s the disrepute of the discerning."
+
+#. <br>
+msgctxt "thag14.2:13.3"
+msgid "Ayasova seyyo viññūnaṃ,"
+msgstr "Disrepute of the discerning is better"
+
+#. <br>
+msgctxt "thag14.2:13.4"
+msgid "na yaso appabuddhinaṃ."
+msgstr "Than the fame of the unintelligent."
+
+#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
+#. id="verse-num-sc668"></a><a class="verse-num-pts" id="verse-num-pts668"></a>
+msgctxt "thag14.2:14.1"
+msgid "Dummedhehi pasaṃsā ca,"
+msgstr "There’s praise by fools,"
+
+#. <br>
+msgctxt "thag14.2:14.2"
+msgid "viññūhi garahā ca yā;"
+msgstr "And there’s criticism by the discerning."
+
+#. <br>
+msgctxt "thag14.2:14.3"
+msgid "Garahāva seyyo viññūhi,"
+msgstr "Criticism by the discerning is better"
+
+#. <br>
+msgctxt "thag14.2:14.4"
+msgid "yañce bālappasaṃsanā."
+msgstr "Than praise by fools."
+
+#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
+#. id="verse-num-sc669"></a><a class="verse-num-pts" id="verse-num-pts669"></a>
+msgctxt "thag14.2:15.1"
+msgid "Sukhañca kāmamayikaṃ,"
+msgstr "There’s the happiness of sensual pleasures,"
+
+#. <br>
+msgctxt "thag14.2:15.2"
+msgid "dukkhañca pavivekiyaṃ;"
+msgstr "And there’s the suffering of seclusion."
+
+#. <br>
+msgctxt "thag14.2:15.3"
+msgid "<span class=\"var\" title=\"pavivekiyaṃ (s2, s3, pts1)\" id=\"note308\">Pavivekadukkhaṃ</span> seyyo,"
+msgstr "The suffering of seclusion is better"
+
+#. <br>
+msgctxt "thag14.2:15.4"
+msgid "yañce kāmamayaṃ sukhaṃ."
+msgstr "Than the happiness of sensual pleasures."
+
+#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
+#. id="verse-num-sc670"></a><a class="verse-num-pts" id="verse-num-pts670"></a>
+msgctxt "thag14.2:16.1"
+msgid "Jīvitañca adhammena,"
+msgstr "There’s life without principles,"
+
+#. <br>
+msgctxt "thag14.2:16.2"
+msgid "dhammena maraṇañca yaṃ;"
+msgstr "And there’s death with principles."
+
+#. <br>
+msgctxt "thag14.2:16.3"
+msgid "Maraṇaṃ dhammikaṃ seyyo,"
+msgstr "Death with principles is better"
+
+#. <br>
+msgctxt "thag14.2:16.4"
+msgid "yañce jīve adhammikaṃ."
+msgstr "Than life without principles."
+
+#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
+#. id="verse-num-sc671"></a><a class="verse-num-pts" id="verse-num-pts671"></a>
+msgctxt "thag14.2:17.1"
+msgid "Kāmakopappahīnā ye,"
+msgstr "Those who have abandoned sensual pleasures and anger,"
+
+#. <br>
+msgctxt "thag14.2:17.2"
+msgid "santacittā bhavābhave;"
+msgstr "Their minds at peace regarding being reborn in one state of existence or another,"
+
+#. <br>
+msgctxt "thag14.2:17.3"
+msgid "Caranti loke asitā,"
+msgstr "They wander in the world unattached,"
+
+#. <br>
+msgctxt "thag14.2:17.4"
+msgid "natthi tesaṃ piyāpiyaṃ."
+msgstr "For them nothing is beloved or unloved."
+
+#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
+#. id="verse-num-sc672"></a><a class="verse-num-pts" id="verse-num-pts672"></a>
+msgctxt "thag14.2:18.1"
+msgid "Bhāvayitvāna bojjhaṅge,"
+msgstr "Having developed the factors of awakening,"
+
+#. <br>
+msgctxt "thag14.2:18.2"
+msgid "indriyāni balāni ca;"
+msgstr "The spiritual faculties, and the powers,"
+
+#. <br>
+msgctxt "thag14.2:18.3"
+msgid "Pappuyya paramaṃ santiṃ,"
+msgstr "I’ve attained ultimate peace:"
+
+#. <br>
+msgctxt "thag14.2:18.4"
+msgid "parinibbantināsavā”ti."
+msgstr "Nibbāna without defilements."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag14.2:19.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag14.2:19.2"
+msgid "Godatto thero …."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "thag14.2:20.1"
+msgid "Cuddasakanipāto niṭṭhito."
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "thag14.2:21.1"
+msgid "Tatruddānaṃ"
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p><a class="sc" id="15"></a>
+msgctxt "thag14.2:22.1"
+msgid "Revato ceva godatto,"
+msgstr ""
+
+#. <br>
+msgctxt "thag14.2:22.2"
+msgid "therā dve te mahiddhikā;"
+msgstr ""
+
+#. <br>
+msgctxt "thag14.2:22.3"
+msgid "Cuddasamhi nipātamhi,"
+msgstr ""
+
+#. <br>
+msgctxt "thag14.2:22.4"
+msgid "gāthāyo aṭṭhavīsatīti."
+msgstr ""

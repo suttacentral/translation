@@ -1,0 +1,120 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2016-07-13 02:58+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1468378735.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig3.5"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig3.5:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig3.5:2.1"
+msgid "Tikanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig3.5:3.1"
+msgid "5. Ubbiritherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc51"></a><a class="verse-num-pts"
+#. id="verse-num-pts51"></a>
+msgctxt "thig3.5:4.1"
+msgid "“Amma jīvāti vanamhi kandasi,"
+msgstr "“Mother, you cry ‘Oh Jīva’ in the forest"
+
+#. <br>
+msgctxt "thig3.5:4.2"
+msgid "Attānaṃ adhigaccha ubbiri;"
+msgstr "Ubbirī, understand yourself"
+
+#. <br>
+msgctxt "thig3.5:4.3"
+msgid "<span class=\"var\" title=\"cūḷāsītisahassāni (bj, s2, s3, pts1-2)\" id=\"note22\">Cullāsītisahassāni</span>,"
+msgstr "eighty-four thousand people"
+
+#. <br>
+msgctxt "thig3.5:4.4"
+msgid "Sabbā jīvasanāmikā;"
+msgstr "all called Jīva"
+
+#. <br>
+msgctxt "thig3.5:4.5"
+msgid "Etamhāḷāhane daḍḍhā,"
+msgstr "Have been burnt in this funeral fire"
+
+#. <br>
+msgctxt "thig3.5:4.6"
+msgid "Tāsaṃ kamanusocasi”."
+msgstr "Which of these do you grieve for?”"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc52"></a><a class="verse-num-pts" id="verse-num-pts52"></a><a
+#. class="pts" id="pts129"></a>
+msgctxt "thig3.5:5.1"
+msgid "“<span class=\"var\" title=\"abbuhi (s2, s3, pts1-2) | abbuḷhaṃ (mr)\" id=\"note23\">Abbahī</span> vata me sallaṃ,"
+msgstr "“Truly the dart is pulled out"
+
+#. <br>
+msgctxt "thig3.5:5.2"
+msgid "duddasaṃ <span class=\"var\" title=\"hadayanissitaṃ (bj, s2, s3, pts1-2)\" id=\"note24\">hadayassitaṃ</span>;"
+msgstr "Difficult to see, abiding in my heart"
+
+#. <br>
+msgctxt "thig3.5:5.3"
+msgid "Yaṃ me sokaparetāya,"
+msgstr "Once overcome by grief"
+
+#. <br>
+msgctxt "thig3.5:5.4"
+msgid "dhītusokaṃ byapānudi."
+msgstr "This grief for my daughter is now removed"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc53"></a><a class="verse-num-pts" id="verse-num-pts53"></a>
+msgctxt "thig3.5:6.1"
+msgid "Sājja abbūḷhasallāhaṃ,"
+msgstr "Today I've pulled out the dart"
+
+#. <br>
+msgctxt "thig3.5:6.2"
+msgid "Nicchātā parinibbutā;"
+msgstr "Hungerless, I’ve realised final Nibbāna"
+
+#. <br>
+msgctxt "thig3.5:6.3"
+msgid "Buddhaṃ dhammañca saṃghañca,"
+msgstr "Buddha sage, Dhamma, Saṅgha:"
+
+#. <br>
+msgctxt "thig3.5:6.4"
+msgid "Upemi saraṇaṃ munin”ti."
+msgstr "I go to these as refuge.”"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="4"></a>
+msgctxt "thig3.5:7.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig3.5:7.2"
+msgid "Ubbirī therī …."
+msgstr ""

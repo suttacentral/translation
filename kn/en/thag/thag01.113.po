@@ -1,0 +1,72 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-04-29 01:19+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1493428743.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.113"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.113:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.113:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.113:3.1"
+msgid "Dvādasamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.113:4.1"
+msgid "1.113. Vanavacchattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc113"></a><a class="verse-num-pts"
+#. id="verse-num-pts113"></a>
+msgctxt "thag1.113:5.1"
+msgid "“Acchodikā puthusilā,"
+msgstr "The water is clear and the crags are large,"
+
+#. <br>
+msgctxt "thag1.113:5.2"
+msgid "gonaṅgulamigāyutā;"
+msgstr "Monkeys and deer are all around;"
+
+#. <br>
+msgctxt "thag1.113:5.3"
+msgid "Ambusevālasañchannā,"
+msgstr "Festooned with dewy moss,"
+
+#. <br>
+msgctxt "thag1.113:5.4"
+msgid "te selā ramayanti man”ti."
+msgstr "These rocky crags delight me!"
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.113:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.113:6.2"
+msgid "Vanavaccho thero …."
+msgstr ""

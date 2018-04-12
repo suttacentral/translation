@@ -1,0 +1,177 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2016-10-10 00:16+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1476058588.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag6.10"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag6.10:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag6.10:2.1"
+msgid "Chakkanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag6.10:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag6.10:4.1"
+msgid "6.10. Sumanattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc429"></a><a class="verse-num-pts"
+#. id="verse-num-pts429"></a>
+msgctxt "thag6.10:5.1"
+msgid "“Yadā navo pabbajito,"
+msgstr "I had just gone forth,"
+
+#. <br>
+msgctxt "thag6.10:5.2"
+msgid "jātiyā sattavassiko;"
+msgstr "I was seven years old,"
+
+#. <br>
+msgctxt "thag6.10:5.3"
+msgid "Iddhiyā abhibhotvāna,"
+msgstr "When I overcome the dragon king, so mighty,"
+
+#. <br>
+msgctxt "thag6.10:5.4"
+msgid "pannagindaṃ mahiddhikaṃ."
+msgstr "With my psychic powers."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc430"></a><a class="verse-num-pts" id="verse-num-pts430"></a>
+msgctxt "thag6.10:6.1"
+msgid "Upajjhāyassa udakaṃ,"
+msgstr "And I brought water for my mentor"
+
+#. <br>
+msgctxt "thag6.10:6.2"
+msgid "anotattā mahāsarā;"
+msgstr "From the great lake Anotatta."
+
+#. <br>
+msgctxt "thag6.10:6.3"
+msgid "Āharāmi tato disvā,"
+msgstr "When he saw me,"
+
+#. <br>
+msgctxt "thag6.10:6.4"
+msgid "maṃ satthā etadabravi”."
+msgstr "My teacher said this:"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc431"></a><a class="verse-num-pts" id="verse-num-pts431"></a>
+msgctxt "thag6.10:7.1"
+msgid "“Sāriputta imaṃ passa,"
+msgstr "“Sāriputta, see this"
+
+#. <br>
+msgctxt "thag6.10:7.2"
+msgid "āgacchantaṃ kumārakaṃ;"
+msgstr "Young boy coming,"
+
+#. <br>
+msgctxt "thag6.10:7.3"
+msgid "<span class=\"var\" title=\"udakumbhakamādāya (bj, s2, s3, pts1)\" id=\"note221\">Udakakumbhamādāya</span>,"
+msgstr "Carrying a water pot,"
+
+#. <br>
+msgctxt "thag6.10:7.4"
+msgid "ajjhattaṃ susamāhitaṃ."
+msgstr "Serene inside himself."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc432"></a><a class="verse-num-pts" id="verse-num-pts432"></a>
+msgctxt "thag6.10:8.1"
+msgid "Pāsādikena vattena,"
+msgstr "His conduct inspires confidence,"
+
+#. <br>
+msgctxt "thag6.10:8.2"
+msgid "kalyāṇairiyāpatho;"
+msgstr "He is of lovely deportment:"
+
+#. <br>
+msgctxt "thag6.10:8.3"
+msgid "Sāmaṇeronuruddhassa,"
+msgstr "He is Anuruddha’s novice,"
+
+#. <br>
+msgctxt "thag6.10:8.4"
+msgid "iddhiyā ca visārado."
+msgstr "Excelling in psychic powers."
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc433"></a><a class="verse-num-pts" id="verse-num-pts433"></a>
+msgctxt "thag6.10:9.1"
+msgid "Ājānīyena ājañño,"
+msgstr "Made a thoroughbred by a thoroughbred,"
+
+#. <br>
+msgctxt "thag6.10:9.2"
+msgid "sādhunā sādhukārito;"
+msgstr "Made good by the good,"
+
+#. <br>
+msgctxt "thag6.10:9.3"
+msgid "Vinīto anuruddhena,"
+msgstr "Educated and trained by Anuruddha,"
+
+#. <br>
+msgctxt "thag6.10:9.4"
+msgid "katakiccena sikkhito."
+msgstr "Who has completed the task."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc434"></a><a class="verse-num-pts" id="verse-num-pts434"></a>
+msgctxt "thag6.10:10.1"
+msgid "So patvā paramaṃ santiṃ,"
+msgstr "Having attained the highest peace"
+
+#. <br>
+msgctxt "thag6.10:10.2"
+msgid "sacchikatvā akuppataṃ;"
+msgstr "And witnessed the unshakable,"
+
+#. <br>
+msgctxt "thag6.10:10.3"
+msgid "Sāmaṇero sa sumano,"
+msgstr "That novice Sumana"
+
+#. <br>
+msgctxt "thag6.10:10.4"
+msgid "mā maṃ jaññāti icchatī”ti."
+msgstr "Wants no-one to know about him.”"
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag6.10:11.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag6.10:11.2"
+msgid "Sumano thero …."
+msgstr ""

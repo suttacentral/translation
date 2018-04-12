@@ -1,0 +1,69 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.74"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.74:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.74:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.74:3.1"
+msgid "Aṭṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.74:4.1"
+msgid "1.74. Suyāmanattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc74"></a><a class="verse-num-pts"
+#. id="verse-num-pts74"></a>
+msgctxt "thag1.74:5.1"
+msgid "“Kāmacchando ca byāpādo,"
+msgstr "Sensual desire, ill will,"
+
+#. <br>
+msgctxt "thag1.74:5.2"
+msgid "<span class=\"var\" title=\"thīnamiddhañca (bj, s2, s3, pts1-2)\" id=\"note58\">Thinamiddhañca</span> bhikkhuno;"
+msgstr "Dullness & drowsiness,"
+
+#. <br>
+msgctxt "thag1.74:5.3"
+msgid "Uddhaccaṃ vicikicchā ca,"
+msgstr "Restlessness, and doubt"
+
+#. <br>
+msgctxt "thag1.74:5.4"
+msgid "Sabbasova na vijjatī”ti."
+msgstr "Are not found in a monk at all."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.74:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.74:6.2"
+msgid "Suyāmano thero …."
+msgstr ""
+

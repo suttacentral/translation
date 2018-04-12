@@ -1,0 +1,69 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.62"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.62:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.62:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.62:3.1"
+msgid "Sattamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.62:4.1"
+msgid "1.62. Vajjiputtattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc62"></a><a class="verse-num-pts"
+#. id="verse-num-pts62"></a><a class="pts" id="pts10"></a>
+msgctxt "thag1.62:5.1"
+msgid "“Ekakā mayaṃ araññe viharāma,"
+msgstr "We dwell alone in the wilderness,"
+
+#. <br>
+msgctxt "thag1.62:5.2"
+msgid "Apaviddhaṃva vanasmiṃ dārukaṃ;"
+msgstr "Like a log rejected in a forest."
+
+#. <br>
+msgctxt "thag1.62:5.3"
+msgid "Tassa me bahukā pihayanti,"
+msgstr "Lots of people are jealous of me,"
+
+#. <br>
+msgctxt "thag1.62:5.4"
+msgid "Nerayikā viya saggagāminan”ti."
+msgstr "Like beings in hell are jealous of someone going to heaven."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.62:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.62:6.2"
+msgid "<span class=\"var\" title=\"vajjiputtako (s2, s3)\" id=\"note48\">Vajjiputto</span> thero …."
+msgstr ""
+

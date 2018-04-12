@@ -1,0 +1,156 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-06-05 23:58+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1496707128.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag5.7"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag5.7:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag5.7:2.1"
+msgid "Pañcakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag5.7:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag5.7:4.1"
+msgid "5.7. Gayākassapattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc345"></a><a class="verse-num-pts"
+#. id="verse-num-pts345"></a>
+msgctxt "thag5.7:5.1"
+msgid "“Pāto <span class=\"var\" title=\"majjhantikaṃ (bj, s2, s3, pts1) | majjhaṇhikaṃ (pts2)\" id=\"note193\">majjhanhikaṃ</span> sāyaṃ,"
+msgstr "Three times a day—"
+
+#. <br>
+msgctxt "thag5.7:5.2"
+msgid "tikkhattuṃ divasassahaṃ;"
+msgstr "Morning, midday, and evening—"
+
+#. <br>
+msgctxt "thag5.7:5.3"
+msgid "Otariṃ udakaṃ sohaṃ,"
+msgstr "I went down into the water at Gayā,"
+
+#. <br>
+msgctxt "thag5.7:5.4"
+msgid "gayāya gayaphagguyā."
+msgstr "For the Gayā spring festival."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc346"></a><a class="verse-num-pts" id="verse-num-pts346"></a>
+msgctxt "thag5.7:6.1"
+msgid "‘Yaṃ mayā pakataṃ pāpaṃ,"
+msgstr "“Whatever bad things I’ve done"
+
+#. <br>
+msgctxt "thag5.7:6.2"
+msgid "pubbe aññāsu jātisu;"
+msgstr "In previous births,"
+
+#. <br>
+msgctxt "thag5.7:6.3"
+msgid "Taṃ dānīdha pavāhemi’,"
+msgstr "I’ll now wash away right here”—"
+
+#. <br>
+msgctxt "thag5.7:6.4"
+msgid "evaṃdiṭṭhi pure ahuṃ."
+msgstr "This is the view I previously held."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc347"></a><a class="verse-num-pts" id="verse-num-pts347"></a>
+msgctxt "thag5.7:7.1"
+msgid "Sutvā subhāsitaṃ vācaṃ,"
+msgstr "Having heard the well-spoken words"
+
+#. <br>
+msgctxt "thag5.7:7.2"
+msgid "dhammatthasahitaṃ padaṃ;"
+msgstr "Regarding the Dhamma and the goal,"
+
+#. <br>
+msgctxt "thag5.7:7.3"
+msgid "Tathaṃ yāthāvakaṃ atthaṃ,"
+msgstr "I wisely reflected"
+
+#. <br>
+msgctxt "thag5.7:7.4"
+msgid "yoniso paccavekkhisaṃ."
+msgstr "On the true, essential goal."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc348"></a><a class="verse-num-pts" id="verse-num-pts348"></a>
+msgctxt "thag5.7:8.1"
+msgid "Ninhātasabbapāpomhi,"
+msgstr "I’ve washed away all bad things"
+
+#. <br>
+msgctxt "thag5.7:8.2"
+msgid "nimmalo payato suci;"
+msgstr "I’m stainless, clean, pristine;"
+
+#. <br>
+msgctxt "thag5.7:8.3"
+msgid "Suddho suddhassa dāyādo,"
+msgstr "The pure heir of the pure one,"
+
+#. <br>
+msgctxt "thag5.7:8.4"
+msgid "putto buddhassa oraso."
+msgstr "A rightful son of the Buddha."
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc349"></a><a class="verse-num-pts" id="verse-num-pts349"></a>
+msgctxt "thag5.7:9.1"
+msgid "Ogayhaṭṭhaṅgikaṃ sotaṃ,"
+msgstr "When I plunged into the eight-fold stream,"
+
+#. <br>
+msgctxt "thag5.7:9.2"
+msgid "sabbapāpaṃ pavāhayiṃ;"
+msgstr "All bad things were washed away."
+
+#. <br>
+msgctxt "thag5.7:9.3"
+msgid "Tisso vijjā ajjhagamiṃ,"
+msgstr "I’ve attained the three knowledges,"
+
+#. <br>
+msgctxt "thag5.7:9.4"
+msgid "kataṃ buddhassa sāsanan”ti."
+msgstr "And fulfilled the Buddha’s instructions."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag5.7:10.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag5.7:10.2"
+msgid "Gayākassapo thero …."
+msgstr ""

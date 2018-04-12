@@ -1,0 +1,199 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-05-09 02:18+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1494296327.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig7.3"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig7.3:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig7.3:2.1"
+msgid "Sattakanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig7.3:3.1"
+msgid "3. Upacālātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc189"></a><a class="verse-num-pts"
+#. id="verse-num-pts189"></a>
+msgctxt "thig7.3:4.1"
+msgid "“Satimatī cakkhumatī,"
+msgstr "Endowed with mindfulness, endowed with vision"
+
+#. <br>
+msgctxt "thig7.3:4.2"
+msgid "bhikkhunī bhāvitindriyā;"
+msgstr "As a bhikkhunī with faculties developed"
+
+#. <br>
+msgctxt "thig7.3:4.3"
+msgid "Paṭivijjhi padaṃ santaṃ,"
+msgstr "I discovered that peaceful state"
+
+#. <br>
+msgctxt "thig7.3:4.4"
+msgid "akāpurisasevitaṃ”."
+msgstr "Not practiced by corrupt people"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc190"></a><a class="verse-num-pts" id="verse-num-pts190"></a>
+msgctxt "thig7.3:5.1"
+msgid "“Kiṃ nu jātiṃ na rocesi,"
+msgstr "“Why don’t you approve of birth?"
+
+#. <br>
+msgctxt "thig7.3:5.2"
+msgid "jāto kāmāni bhuñjati;"
+msgstr "Those that are born enjoy sensual pleasures"
+
+#. <br>
+msgctxt "thig7.3:5.3"
+msgid "Bhuñjāhi kāmaratiyo,"
+msgstr "Enjoy sensual pleasures:"
+
+#. <br>
+msgctxt "thig7.3:5.4"
+msgid "māhu pacchānutāpinī”."
+msgstr "Don’t regret it later”"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc191"></a><a class="verse-num-pts" id="verse-num-pts191"></a>
+msgctxt "thig7.3:6.1"
+msgid "“Jātassa maraṇaṃ hoti,"
+msgstr "For those born there’s death"
+
+#. <br>
+msgctxt "thig7.3:6.2"
+msgid "hatthapādāna chedanaṃ;"
+msgstr "The cutting off of hands and feet"
+
+#. <br>
+msgctxt "thig7.3:6.3"
+msgid "Vadhabandhapariklesaṃ,"
+msgstr "Execution, bonds, hardship"
+
+#. <br>
+msgctxt "thig7.3:6.4"
+msgid "jāto dukkhaṃ nigacchati."
+msgstr "Those born undergo suffering"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc192"></a><a class="verse-num-pts" id="verse-num-pts192"></a>
+msgctxt "thig7.3:7.1"
+msgid "Atthi sakyakule jāto,"
+msgstr "The Enlightened one, unconquered"
+
+#. <br>
+msgctxt "thig7.3:7.2"
+msgid "sambuddho aparājito;"
+msgstr "Born in the Sakya clan"
+
+#. <br>
+msgctxt "thig7.3:7.3"
+msgid "So me dhammamadesesi,"
+msgstr "He taught me Dhamma:"
+
+#. <br>
+msgctxt "thig7.3:7.4"
+msgid "jātiyā samatikkamaṃ."
+msgstr "The passing beyond birth"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc193"></a><a class="verse-num-pts" id="verse-num-pts193"></a>
+msgctxt "thig7.3:8.1"
+msgid "Dukkhaṃ dukkhasamuppādaṃ,"
+msgstr "Suffering, the origin of suffering"
+
+#. <br>
+msgctxt "thig7.3:8.2"
+msgid "dukkhassa ca atikkamaṃ;"
+msgstr "The overcoming of suffering"
+
+#. <br>
+msgctxt "thig7.3:8.3"
+msgid "Ariyaṃ caṭṭhaṅgikaṃ maggaṃ,"
+msgstr "The noble eight-fold path"
+
+#. <br>
+msgctxt "thig7.3:8.4"
+msgid "dukkhūpasamagāminaṃ."
+msgstr "Leading to the stilling of suffering"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc194"></a><a class="verse-num-pts" id="verse-num-pts194"></a>
+msgctxt "thig7.3:9.1"
+msgid "Tassāhaṃ vacanaṃ sutvā,"
+msgstr "Having heard him speaking"
+
+#. <br>
+msgctxt "thig7.3:9.2"
+msgid "vihariṃ sāsane ratā;"
+msgstr "I abided delighting in his teaching"
+
+#. <br>
+msgctxt "thig7.3:9.3"
+msgid "Tisso vijjā anuppattā,"
+msgstr "I've arrived at the three true knowledges"
+
+#. <br>
+msgctxt "thig7.3:9.4"
+msgid "kataṃ buddhassa sāsanaṃ."
+msgstr "I've done what Buddha taught"
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc195"></a><a class="verse-num-pts"
+#. id="verse-num-pts195"></a><a class="pts" id="pts142"></a>
+msgctxt "thig7.3:10.1"
+msgid "Sabbattha vihatā nandī,"
+msgstr "This delight is defeated everywhere"
+
+#. <br>
+msgctxt "thig7.3:10.2"
+msgid "tamokhandho padālito;"
+msgstr "I put an end to the mass of darkness"
+
+#. <br>
+msgctxt "thig7.3:10.3"
+msgid "Evaṃ jānāhi pāpima,"
+msgstr "So know this evil one:"
+
+#. <br>
+msgctxt "thig7.3:10.4"
+msgid "nihato tvamasi antaka”."
+msgstr "You're defeated, ended"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="8"></a>
+msgctxt "thig7.3:11.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig7.3:11.2"
+msgid "Upacālā therī …."
+msgstr ""
+
+#. </p><p class="endsection"><a class="sc" id="9"></a>
+msgctxt "thig7.3:12.1"
+msgid "Sattakanipāto niṭṭhito."
+msgstr ""

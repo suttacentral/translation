@@ -1,0 +1,342 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-06-20 02:06+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1497924382.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag14.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag14.1:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag14.1:2.1"
+msgid "Cuddasakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag14.1:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag14.1:4.1"
+msgid "14.1. Khadiravaniyarevatattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc645"></a><a class="verse-num-pts"
+#. id="verse-num-pts645"></a><a class="pts" id="pts67"></a>
+msgctxt "thag14.1:5.1"
+msgid "“Yadā ahaṃ pabbajito,"
+msgstr "Since I’ve gone forth"
+
+#. <br>
+msgctxt "thag14.1:5.2"
+msgid "agārasmānagāriyaṃ;"
+msgstr "From home life into homelessness,"
+
+#. <br>
+msgctxt "thag14.1:5.3"
+msgid "Nābhijānāmi saṅkappaṃ,"
+msgstr "I’m not aware of any intention"
+
+#. <br>
+msgctxt "thag14.1:5.4"
+msgid "anariyaṃ dosasaṃhitaṃ."
+msgstr "That is ignoble and hateful."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc646"></a><a class="verse-num-pts" id="verse-num-pts646"></a>
+msgctxt "thag14.1:6.1"
+msgid "‘Ime haññantu vajjhantu,"
+msgstr "“May these beings be killed! May they be slaughtered!"
+
+#. <br>
+msgctxt "thag14.1:6.2"
+msgid "dukkhaṃ pappontu pāṇino’;"
+msgstr "May they suffer!”—"
+
+#. <br>
+msgctxt "thag14.1:6.3"
+msgid "Saṅkappaṃ nābhijānāmi,"
+msgstr "I’m not aware of having any such intentions"
+
+#. <br>
+msgctxt "thag14.1:6.4"
+msgid "imasmiṃ dīghamantare."
+msgstr "In all this long period of time."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc647"></a><a class="verse-num-pts" id="verse-num-pts647"></a>
+msgctxt "thag14.1:7.1"
+msgid "Mettañca abhijānāmi,"
+msgstr "I have been aware of loving-kindness,"
+
+#. <br>
+msgctxt "thag14.1:7.2"
+msgid "appamāṇaṃ subhāvitaṃ;"
+msgstr "Measureless and well-developed,"
+
+#. <br>
+msgctxt "thag14.1:7.3"
+msgid "Anupubbaṃ paricitaṃ,"
+msgstr "Gradually built up,"
+
+#. <br>
+msgctxt "thag14.1:7.4"
+msgid "yathā buddhena desitaṃ."
+msgstr "Just as the Buddha taught."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc648"></a><a class="verse-num-pts" id="verse-num-pts648"></a>
+msgctxt "thag14.1:8.1"
+msgid "Sabbamitto sabbasakho,"
+msgstr "I’m friend and comrade to all,"
+
+#. <br>
+msgctxt "thag14.1:8.2"
+msgid "sabbabhūtānukampako;"
+msgstr "Compassionate to all beings,"
+
+#. <br>
+msgctxt "thag14.1:8.3"
+msgid "<span class=\"var\" title=\"mettaṃ cittañca (bj, s2, s3, pts1-2)\" id=\"note300\">Mettacittañca</span> bhāvemi,"
+msgstr "Developing a mind of loving-kindness,"
+
+#. <br>
+msgctxt "thag14.1:8.4"
+msgid "<span class=\"var\" title=\"abyāpajjharato (bj, s2, s3, pts1-2)\" id=\"note301\">abyāpajjarato</span> sadā."
+msgstr "And always delighting in harmlessness."
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc649"></a><a class="verse-num-pts" id="verse-num-pts649"></a>
+msgctxt "thag14.1:9.1"
+msgid "Asaṃhīraṃ asaṃkuppaṃ,"
+msgstr "Unfaltering, unshakable,"
+
+#. <br>
+msgctxt "thag14.1:9.2"
+msgid "cittaṃ āmodayāmahaṃ;"
+msgstr "I gladden the mind."
+
+#. <br>
+msgctxt "thag14.1:9.3"
+msgid "Brahmavihāraṃ bhāvemi,"
+msgstr "I develop the sublime abidings,"
+
+#. <br>
+msgctxt "thag14.1:9.4"
+msgid "akāpurisasevitaṃ."
+msgstr "Which corrupt people do not cultivate."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc650"></a><a class="verse-num-pts" id="verse-num-pts650"></a>
+msgctxt "thag14.1:10.1"
+msgid "Avitakkaṃ samāpanno,"
+msgstr "Having entered a meditation state without thought,"
+
+#. <br>
+msgctxt "thag14.1:10.2"
+msgid "sammāsambuddhasāvako;"
+msgstr "A disciple of the Buddha"
+
+#. <br>
+msgctxt "thag14.1:10.3"
+msgid "Ariyena tuṇhībhāvena,"
+msgstr "Is at that moment blessed"
+
+#. <br>
+msgctxt "thag14.1:10.4"
+msgid "upeto hoti tāvade."
+msgstr "With noble silence."
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc651"></a><a class="verse-num-pts" id="verse-num-pts651"></a>
+msgctxt "thag14.1:11.1"
+msgid "Yathāpi pabbato selo,"
+msgstr "Just like a rocky mountain"
+
+#. <br>
+msgctxt "thag14.1:11.2"
+msgid "acalo suppatiṭṭhito;"
+msgstr "Is unshakable and firmly grounded;"
+
+#. <br>
+msgctxt "thag14.1:11.3"
+msgid "Evaṃ mohakkhayā bhikkhu,"
+msgstr "So when delusion ends,"
+
+#. <br>
+msgctxt "thag14.1:11.4"
+msgid "pabbatova na vedhati."
+msgstr "A monk, like a mountain, doesn’t tremble."
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc652"></a><a class="verse-num-pts" id="verse-num-pts652"></a>
+msgctxt "thag14.1:12.1"
+msgid "Anaṅgaṇassa posassa,"
+msgstr "To the blameless man"
+
+#. <br>
+msgctxt "thag14.1:12.2"
+msgid "niccaṃ sucigavesino;"
+msgstr "Who is always seeking purity,"
+
+#. <br>
+msgctxt "thag14.1:12.3"
+msgid "Vālaggamattaṃ pāpassa,"
+msgstr "Even a hair-tip of evil"
+
+#. <br>
+msgctxt "thag14.1:12.4"
+msgid "abbhamattaṃva khāyati."
+msgstr "Seems the size of a cloud."
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc653"></a><a class="verse-num-pts" id="verse-num-pts653"></a>
+msgctxt "thag14.1:13.1"
+msgid "Nagaraṃ yathā paccantaṃ,"
+msgstr "Just like a frontier city,"
+
+#. <br>
+msgctxt "thag14.1:13.2"
+msgid "guttaṃ santarabāhiraṃ;"
+msgstr "Is guarded inside and out,"
+
+#. <br>
+msgctxt "thag14.1:13.3"
+msgid "Evaṃ gopetha attānaṃ,"
+msgstr "So you should ward yourselves—"
+
+#. <br>
+msgctxt "thag14.1:13.4"
+msgid "khaṇo vo mā upaccagā."
+msgstr "Don’t let the moment pass you by."
+
+#. </p><p><a class="sc" id="10"></a>
+msgctxt "thag14.1:14.1"
+msgid "<span class=\"cross\" title=\"^thag11.1#10 [Saṅkiccattheragāthā] | ^mi3.2.4#1 [Paṭisandahanapuggalavediyanapañha]\" id=\"note302\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc654\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts654\"></a>Nābhinandāmi maraṇaṃ,"
+msgstr "I don’t long for death;"
+
+#. <br>
+msgctxt "thag14.1:14.2"
+msgid "nābhinandāmi jīvitaṃ;"
+msgstr "I don’t long for life;"
+
+#. <br>
+msgctxt "thag14.1:14.3"
+msgid "Kālañca paṭikaṅkhāmi,"
+msgstr "I await my time,"
+
+#. <br>
+msgctxt "thag14.1:14.4"
+msgid "nibbisaṃ bhatako yathā."
+msgstr "Like a worker waiting for their wages."
+
+#. </p><p><a class="sc" id="11"></a>
+msgctxt "thag14.1:15.1"
+msgid "<span class=\"cross\" title=\"^thag2.38#2 [Nisabhattheragāthā] | ^thag11.1#11 [Saṅkiccattheragāthā] | ^mi3.2.4#1 [Paṭisandahanapuggalavediyanapañha]\" id=\"note303\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc655\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts655\"></a>Nābhinandāmi maraṇaṃ,"
+msgstr "I don’t long for death;"
+
+#. <br>
+msgctxt "thag14.1:15.2"
+msgid "…"
+msgstr "I don’t long for life;"
+
+msgctxt "thag14.1:15.3"
+msgid "pe …"
+msgstr "I await my time,"
+
+#. <br>
+msgctxt "thag14.1:15.4"
+msgid "sampajāno patissato."
+msgstr "Aware and mindful."
+
+#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
+#. id="verse-num-sc656"></a><a class="verse-num-pts" id="verse-num-pts656"></a>
+msgctxt "thag14.1:16.1"
+msgid "Pariciṇṇo mayā satthā,"
+msgstr "I’ve attended on the teacher"
+
+#. <br>
+msgctxt "thag14.1:16.2"
+msgid "kataṃ buddhassa sāsanaṃ;"
+msgstr "And fulfilled the Buddha’s instructions."
+
+#. <br>
+msgctxt "thag14.1:16.3"
+msgid "Ohito garuko bhāro,"
+msgstr "The heavy burden is laid down,"
+
+#. <br>
+msgctxt "thag14.1:16.4"
+msgid "bhavanetti samūhatā."
+msgstr "I’ve undone the attachment to being reborn in any state of existence."
+
+#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
+#. id="verse-num-sc657"></a><a class="verse-num-pts" id="verse-num-pts657"></a>
+msgctxt "thag14.1:17.1"
+msgid "Yassa catthāya pabbajito,"
+msgstr "I’ve attained the goal"
+
+#. <br>
+msgctxt "thag14.1:17.2"
+msgid "agārasmānagāriyaṃ;"
+msgstr "For the sake of which I went forth"
+
+#. <br>
+msgctxt "thag14.1:17.3"
+msgid "So me attho anuppatto,"
+msgstr "From home life into homelessness—"
+
+#. <br>
+msgctxt "thag14.1:17.4"
+msgid "sabbasaṃyojanakkhayo."
+msgstr "The ending of all fetters."
+
+#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
+#. id="verse-num-sc658"></a><a class="verse-num-pts" id="verse-num-pts658"></a>
+msgctxt "thag14.1:18.1"
+msgid "Sampādethappamādena,"
+msgstr "Persist with heedfulness:"
+
+#. <br>
+msgctxt "thag14.1:18.2"
+msgid "esā me anusāsanī;"
+msgstr "This is my advice."
+
+#. <br>
+msgctxt "thag14.1:18.3"
+msgid "Handāhaṃ parinibbissaṃ,"
+msgstr "Come, I’ll realise nibbāna—"
+
+#. <br>
+msgctxt "thag14.1:18.4"
+msgid "vippamuttomhi sabbadhī”ti."
+msgstr "I’m liberated in every way."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag14.1:19.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag14.1:19.2"
+msgid "<span class=\"var\" title=\"revato (s2, s3, pts1-2)\" id=\"note304\">Khadiravaniyarevato</span> thero …."
+msgstr ""

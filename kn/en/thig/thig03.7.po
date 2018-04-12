@@ -1,0 +1,109 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2016-10-31 00:26+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1477873591.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig3.7"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig3.7:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig3.7:2.1"
+msgid "Tikanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig3.7:3.1"
+msgid "7. Selātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc57"></a><a class="verse-num-pts"
+#. id="verse-num-pts57"></a>
+msgctxt "thig3.7:4.1"
+msgid "“Natthi nissaraṇaṃ loke,"
+msgstr "There isn't any escape in the world"
+
+#. <br>
+msgctxt "thig3.7:4.2"
+msgid "kiṃ vivekena kāhasi;"
+msgstr "What will seclusion do for you?"
+
+#. <br>
+msgctxt "thig3.7:4.3"
+msgid "Bhuñjāhi kāmaratiyo,"
+msgstr "Enjoy the delights of sensual pleasure"
+
+#. <br>
+msgctxt "thig3.7:4.4"
+msgid "māhu pacchānutāpinī”."
+msgstr "Don't regret it later"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc58"></a><a class="verse-num-pts" id="verse-num-pts58"></a>
+msgctxt "thig3.7:5.1"
+msgid "“Sattisūlūpamā kāmā,"
+msgstr "Sensual pleasures are like swords and stakes"
+
+#. <br>
+msgctxt "thig3.7:5.2"
+msgid "khandhāsaṃ adhikuṭṭanā;"
+msgstr "The aggregates are an executioner’s block"
+
+#. <br>
+msgctxt "thig3.7:5.3"
+msgid "Yaṃ tvaṃ ‘kāmaratiṃ’ brūsi,"
+msgstr "What you call 'delight in sensual pleasure'"
+
+#. <br>
+msgctxt "thig3.7:5.4"
+msgid "‘aratī’ dāni sā mama."
+msgstr "Is now non-delight for me"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc59"></a><a class="verse-num-pts" id="verse-num-pts59"></a>
+msgctxt "thig3.7:6.1"
+msgid "Sabbattha vihatā <span class=\"var\" title=\"nandi (bj, s2, s3, pts1-2)\" id=\"note27\">nandī</span>,"
+msgstr "This delight is defeated everywhere"
+
+#. <br>
+msgctxt "thig3.7:6.2"
+msgid "Tamokhandho padālito;"
+msgstr "I’ve put an end to the mass of darkness"
+
+#. <br>
+msgctxt "thig3.7:6.3"
+msgid "Evaṃ jānāhi pāpima,"
+msgstr "So know this evil one:"
+
+#. <br>
+msgctxt "thig3.7:6.4"
+msgid "Nihato tvamasi antakā”ti."
+msgstr "You're defeated, ended"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="4"></a>
+msgctxt "thig3.7:7.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig3.7:7.2"
+msgid "Selā therī …."
+msgstr ""

@@ -1,0 +1,72 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2016-09-10 00:52+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1473468772.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.89"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.89:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.89:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.89:3.1"
+msgid "Navamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.89:4.1"
+msgid "1.89. (Paṭhama) Devasabhattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc89"></a><a class="verse-num-pts"
+#. id="verse-num-pts89"></a>
+msgctxt "thag1.89:5.1"
+msgid "“Uttiṇṇā paṅkapalipā,"
+msgstr "I’ve crossed the marshes,"
+
+#. <br>
+msgctxt "thag1.89:5.2"
+msgid "pātālā parivajjitā;"
+msgstr "I’ve avoided the cliffs,"
+
+#. <br>
+msgctxt "thag1.89:5.3"
+msgid "Mutto oghā ca ganthā ca,"
+msgstr "I’m freed from floods and ties,"
+
+#. <br>
+msgctxt "thag1.89:5.4"
+msgid "sabbe mānā visaṃhatā”ti."
+msgstr "And I've destroyed all conceit."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.89:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.89:6.2"
+msgid "Devasabho thero …."
+msgstr ""

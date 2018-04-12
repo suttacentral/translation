@@ -1,0 +1,114 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-04-30 00:04+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1493510685.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag3.2"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag3.2:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag3.2:2.1"
+msgid "Tikanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag3.2:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag3.2:4.1"
+msgid "3.2. Paccayattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc222"></a><a class="verse-num-pts"
+#. id="verse-num-pts222"></a>
+msgctxt "thag3.2:5.1"
+msgid "“Pañcāhāhaṃ pabbajito,"
+msgstr "I went forth five days ago,"
+
+#. <br>
+msgctxt "thag3.2:5.2"
+msgid "sekho appattamānaso;"
+msgstr "A trainee, with my heart’s desire unfulfilled."
+
+#. <br>
+msgctxt "thag3.2:5.3"
+msgid "Vihāraṃ me paviṭṭhassa,"
+msgstr "I entered my dwelling,"
+
+#. <br>
+msgctxt "thag3.2:5.4"
+msgid "cetaso paṇidhī ahu."
+msgstr "And a wish arose in my mind."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc223"></a><a class="verse-num-pts" id="verse-num-pts223"></a>
+msgctxt "thag3.2:6.1"
+msgid "Nāsissaṃ na pivissāmi,"
+msgstr "I won’t eat; I won’t drink;"
+
+#. <br>
+msgctxt "thag3.2:6.2"
+msgid "<span class=\"var\" title=\"vihārā ca (pts2)\" id=\"note152\">vihārato</span> na nikkhame;"
+msgstr "I won’t leave my dwelling;"
+
+#. <br>
+msgctxt "thag3.2:6.3"
+msgid "Napi passaṃ nipātessaṃ,"
+msgstr "Nor will I lie down on my side—"
+
+#. <br>
+msgctxt "thag3.2:6.4"
+msgid "taṇhāsalle anūhate."
+msgstr "Until the dart of craving is pulled out."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc224"></a><a class="verse-num-pts" id="verse-num-pts224"></a>
+msgctxt "thag3.2:7.1"
+msgid "Tassa mevaṃ viharato,"
+msgstr "See my energy and effort"
+
+#. <br>
+msgctxt "thag3.2:7.2"
+msgid "passa vīriyaparakkamaṃ;"
+msgstr "As I practice this way!"
+
+#. <br>
+msgctxt "thag3.2:7.3"
+msgid "Tisso vijjā anuppattā,"
+msgstr "I’ve attained the three knowledges,"
+
+#. <br>
+msgctxt "thag3.2:7.4"
+msgid "kataṃ buddhassa sāsanan”ti."
+msgstr "And fulfilled the Buddha’s instructions."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag3.2:8.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag3.2:8.2"
+msgid "Paccayo thero …."
+msgstr ""

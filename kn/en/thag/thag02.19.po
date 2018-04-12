@@ -1,0 +1,93 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-01-20 10:22+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1484907747.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag2.19"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag2.19:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag2.19:2.1"
+msgid "Dukanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag2.19:3.1"
+msgid "Dutiyavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag2.19:4.1"
+msgid "2.19. Nandattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc157"></a><a class="verse-num-pts"
+#. id="verse-num-pts157"></a>
+msgctxt "thag2.19:5.1"
+msgid "“Ayoniso manasikārā,"
+msgstr "I used my mind unwisely,"
+
+#. <br>
+msgctxt "thag2.19:5.2"
+msgid "maṇḍanaṃ anuyuñjisaṃ;"
+msgstr "I was addicted to ornamentation."
+
+#. <br>
+msgctxt "thag2.19:5.3"
+msgid "Uddhato capalo cāsiṃ,"
+msgstr "I was vain, fickle,"
+
+#. <br>
+msgctxt "thag2.19:5.4"
+msgid "kāmarāgena aṭṭito."
+msgstr "Tormented by desire for sensual pleasures."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc158"></a><a class="verse-num-pts" id="verse-num-pts158"></a>
+msgctxt "thag2.19:6.1"
+msgid "Upāyakusalenāhaṃ,"
+msgstr "But with the help of the Buddha,"
+
+#. <br>
+msgctxt "thag2.19:6.2"
+msgid "buddhenādiccabandhunā;"
+msgstr "The Kinsman of the Sun, so skilled in means,"
+
+#. <br>
+msgctxt "thag2.19:6.3"
+msgid "Yoniso paṭipajjitvā,"
+msgstr "I practiced wisely,"
+
+#. <br>
+msgctxt "thag2.19:6.4"
+msgid "bhave cittaṃ udabbahin”ti."
+msgstr "And extracted attachment to continued existence from my mind."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag2.19:7.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag2.19:7.2"
+msgid "Nando thero …."
+msgstr ""

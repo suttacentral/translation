@@ -1,0 +1,262 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2018-04-03 23:16+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1522797392.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag10.6"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag10.6:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag10.6:2.1"
+msgid "Dasakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag10.6:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag10.6:4.1"
+msgid "<span class=\"var\" title=\"upasenattheragāthā (bj)\" id=\"note278\">10.6 Vaṅgantaputtaupasenattheragāthā</span>"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc577"></a><a class="verse-num-pts"
+#. id="verse-num-pts577"></a>
+msgctxt "thag10.6:5.1"
+msgid "<span class=\"cross\" title=\"^mi7.2.5#1 [Kummaṅgapañha]\" id=\"note279\">*</span>“Vivittaṃ appanigghosaṃ,"
+msgstr "In order to go on retreat,"
+
+#. <br>
+msgctxt "thag10.6:5.2"
+msgid "vāḷamiganisevitaṃ;"
+msgstr "A monk should stay in lodgings"
+
+#. <br>
+msgctxt "thag10.6:5.3"
+msgid "Seve senāsanaṃ bhikkhu,"
+msgstr "That are secluded and quiet,"
+
+#. <br>
+msgctxt "thag10.6:5.4"
+msgid "paṭisallānakāraṇā."
+msgstr "Frequented by beasts of prey."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc578"></a><a class="verse-num-pts" id="verse-num-pts578"></a>
+msgctxt "thag10.6:6.1"
+msgid "Saṅkārapuñjā <span class=\"var\" title=\"āhitvā (mr)\" id=\"note280\">āhatvā</span>,"
+msgstr "Having gathered scraps from rubbish heaps,"
+
+#. <br>
+msgctxt "thag10.6:6.2"
+msgid "susānā rathiyāhi ca;"
+msgstr "Cemeteries and streets,"
+
+#. <br>
+msgctxt "thag10.6:6.3"
+msgid "Tato saṅghāṭikaṃ katvā,"
+msgstr "And making an outer robe from them,"
+
+#. <br>
+msgctxt "thag10.6:6.4"
+msgid "lūkhaṃ dhāreyya cīvaraṃ."
+msgstr "He should wear that coarse robe."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc579"></a><a class="verse-num-pts" id="verse-num-pts579"></a>
+msgctxt "thag10.6:7.1"
+msgid "Nīcaṃ manaṃ karitvāna,"
+msgstr "Humbling his mind,"
+
+#. <br>
+msgctxt "thag10.6:7.2"
+msgid "sapadānaṃ kulā kulaṃ;"
+msgstr "A monk should walk for alms"
+
+#. <br>
+msgctxt "thag10.6:7.3"
+msgid "Piṇḍikāya care bhikkhu,"
+msgstr "From family to family without exception,"
+
+#. <br>
+msgctxt "thag10.6:7.4"
+msgid "guttadvāro susaṃvuto."
+msgstr "With sense doors guarded, well-restrained ."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc580"></a><a class="verse-num-pts" id="verse-num-pts580"></a>
+msgctxt "thag10.6:8.1"
+msgid "<span class=\"var\" title=\"lūkhenapi ca (bj, s2, s3, pts1-2 ^mi7.5.6#1 [Jarasiṅgālaṅgapañha])\" id=\"note281\">Lūkhenapi vā</span> santusse,"
+msgstr "He should be content even with coarse food,"
+
+#. <br>
+msgctxt "thag10.6:8.2"
+msgid "nāññaṃ patthe rasaṃ bahuṃ;"
+msgstr "Not hoping for lots of flavours."
+
+#. <br>
+msgctxt "thag10.6:8.3"
+msgid "Rasesu anugiddhassa,"
+msgstr "The mind that is greedy for flavours"
+
+#. <br>
+msgctxt "thag10.6:8.4"
+msgid "jhāne na ramatī mano."
+msgstr "Doesn’t delight in jhāna."
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc581"></a><a class="verse-num-pts" id="verse-num-pts581"></a>
+msgctxt "thag10.6:9.1"
+msgid "Appiccho ceva santuṭṭho,"
+msgstr "With few wishes, content,"
+
+#. <br>
+msgctxt "thag10.6:9.2"
+msgid "pavivitto vase muni;"
+msgstr "A sage should live secluded."
+
+#. <br>
+msgctxt "thag10.6:9.3"
+msgid "Asaṃsaṭṭho gahaṭṭhehi,"
+msgstr "Socializing with neither"
+
+#. <br>
+msgctxt "thag10.6:9.4"
+msgid "anāgārehi cūbhayaṃ."
+msgstr "Householders nor the homeless."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc582"></a><a class="verse-num-pts" id="verse-num-pts582"></a>
+msgctxt "thag10.6:10.1"
+msgid "Yathā jaḷo <span class=\"var\" title=\"ca (s2, s3, pts1)\" id=\"note282\">va</span> mūgo <span class=\"var\" title=\"ca (s2, s3, pts1)\" id=\"note283\">va</span>,"
+msgstr "He should appear"
+
+#. <br>
+msgctxt "thag10.6:10.2"
+msgid "attānaṃ dassaye tathā;"
+msgstr "To be stupid or dumb;"
+
+#. <br>
+msgctxt "thag10.6:10.3"
+msgid "Nātivelaṃ sambhāseyya,"
+msgstr "A wise person would not speak overly long"
+
+#. <br>
+msgctxt "thag10.6:10.4"
+msgid "saṃghamajjhamhi paṇḍito."
+msgstr "In the midst of the Saṅgha."
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc583"></a><a class="verse-num-pts" id="verse-num-pts583"></a>
+msgctxt "thag10.6:11.1"
+msgid "Na so upavade kañci,"
+msgstr "He would not insult anyone,"
+
+#. <br>
+msgctxt "thag10.6:11.2"
+msgid "upaghātaṃ vivajjaye;"
+msgstr "And would avoid causing damage."
+
+#. <br>
+msgctxt "thag10.6:11.3"
+msgid "Saṃvuto pātimokkhasmiṃ,"
+msgstr "Restrained in accordance with the monastic code,"
+
+#. <br>
+msgctxt "thag10.6:11.4"
+msgid "mattaññū cassa bhojane."
+msgstr "He would eat in moderation."
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc584"></a><a class="verse-num-pts" id="verse-num-pts584"></a>
+msgctxt "thag10.6:12.1"
+msgid "Suggahītanimittassa,"
+msgstr "Skilled in the arising of thought,"
+
+#. <br>
+msgctxt "thag10.6:12.2"
+msgid "cittassuppādakovido;"
+msgstr "He would grasp well the character of the mind."
+
+#. <br>
+msgctxt "thag10.6:12.3"
+msgid "Samathaṃ anuyuñjeyya,"
+msgstr "He would be devoted to practicing"
+
+#. <br>
+msgctxt "thag10.6:12.4"
+msgid "kālena ca vipassanaṃ."
+msgstr "Serenity and insight at the right time."
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc585"></a><a class="verse-num-pts"
+#. id="verse-num-pts585"></a><a class="pts" id="pts61"></a>
+msgctxt "thag10.6:13.1"
+msgid "Vīriyasātaccasampanno,"
+msgstr "Though endowed with energy and perseverance,"
+
+#. <br>
+msgctxt "thag10.6:13.2"
+msgid "yuttayogo sadā siyā;"
+msgstr "And always devoted to meditation,"
+
+#. <br>
+msgctxt "thag10.6:13.3"
+msgid "Na ca appatvā dukkhantaṃ,"
+msgstr "A wise person would not be too sure of themselves,"
+
+#. <br>
+msgctxt "thag10.6:13.4"
+msgid "vissāsaṃ eyya paṇḍito."
+msgstr "Until they have attained the end of suffering."
+
+#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
+#. id="verse-num-sc586"></a><a class="verse-num-pts" id="verse-num-pts586"></a>
+msgctxt "thag10.6:14.1"
+msgid "Evaṃ viharamānassa,"
+msgstr "For a monk who dwells in this way,"
+
+#. <br>
+msgctxt "thag10.6:14.2"
+msgid "suddhikāmassa bhikkhuno;"
+msgstr "Longing for purification,"
+
+#. <br>
+msgctxt "thag10.6:14.3"
+msgid "Khīyanti āsavā sabbe,"
+msgstr "All his defilements wither away,"
+
+#. <br>
+msgctxt "thag10.6:14.4"
+msgid "nibbutiñcādhigacchatī”ti."
+msgstr "And he attains nibbāna."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag10.6:15.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag10.6:15.2"
+msgid "Upaseno vaṅgantaputto thero …."
+msgstr ""

@@ -1,0 +1,90 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag2.18"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag2.18:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag2.18:2.1"
+msgid "Dukanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag2.18:3.1"
+msgid "Dutiyavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag2.18:4.1"
+msgid "<span class=\"var\" title=\"kimbilattheragāthā (bj)\" id=\"note104\">2.18 Kimilattheragāthā</span>"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc155"></a><a class="verse-num-pts"
+#. id="verse-num-pts155"></a>
+msgctxt "thag2.18:5.1"
+msgid "“Pācīnavaṃsadāyamhi,"
+msgstr "In Pācīnavaṃsa grove"
+
+#. <br>
+msgctxt "thag2.18:5.2"
+msgid "sakyaputtā sahāyakā;"
+msgstr "The companions of the Sakyans,"
+
+#. <br>
+msgctxt "thag2.18:5.3"
+msgid "Pahāyānappake bhoge,"
+msgstr "Having given up much wealth,"
+
+#. <br>
+msgctxt "thag2.18:5.4"
+msgid "uñchāpattāgate ratā."
+msgstr "Are satisfied with whatever is put in their bowls."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc156"></a><a class="verse-num-pts" id="verse-num-pts156"></a>
+msgctxt "thag2.18:6.1"
+msgid "Āraddhavīriyā pahitattā,"
+msgstr "Energetic, resolute,"
+
+#. <br>
+msgctxt "thag2.18:6.2"
+msgid "Niccaṃ daḷhaparakkamā;"
+msgstr "Always strong in striving;"
+
+#. <br>
+msgctxt "thag2.18:6.3"
+msgid "Ramanti dhammaratiyā,"
+msgstr "Having given up mundane satisfaction,"
+
+#. <br>
+msgctxt "thag2.18:6.4"
+msgid "Hitvāna lokiyaṃ ratin”ti."
+msgstr "They delight in the satisfaction of Dhamma."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag2.18:7.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag2.18:7.2"
+msgid "<span class=\"var\" title=\"kimbilo (bj, s2, s3, pts1-2)\" id=\"note105\">Kimilo</span> thero …."
+msgstr ""
+

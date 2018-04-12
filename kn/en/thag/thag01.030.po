@@ -1,0 +1,109 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.30"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.30:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.30:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.30:3.1"
+msgid "Tatiyavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.30:4.1"
+msgid "1.30. Uttiyattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc30"></a><a class="verse-num-pts"
+#. id="verse-num-pts30"></a>
+msgctxt "thag1.30:5.1"
+msgid "“Ābādhe me samuppanne,"
+msgstr "When I was ill in the past,"
+
+#. <br>
+msgctxt "thag1.30:5.2"
+msgid "sati me udapajjatha;"
+msgstr "I was mindful."
+
+#. <br>
+msgctxt "thag1.30:5.3"
+msgid "Ābādho me samuppanno,"
+msgstr "Now I am ill once more—"
+
+#. <br>
+msgctxt "thag1.30:5.4"
+msgid "kālo me nappamajjitun”ti."
+msgstr "It’s time to be heedful."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.30:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.30:6.2"
+msgid "Uttiyo thero …."
+msgstr ""
+
+#. <br>
+msgctxt "thag1.30:6.3"
+msgid "Vaggo tatiyo."
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "thag1.30:7.1"
+msgid "Tassuddānaṃ"
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p><a class="sc" id="2"></a>
+msgctxt "thag1.30:8.1"
+msgid "Nigrodho cittako thero,"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.30:8.2"
+msgid "gosālathero sugandho;"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.30:8.3"
+msgid "Nandiyo abhayo thero,"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.30:8.4"
+msgid "thero lomasakaṅgiyo;"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.30:8.5"
+msgid "Jambugāmikaputto ca,"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.30:8.6"
+msgid "hārito uttiyo isīti."
+msgstr ""
+

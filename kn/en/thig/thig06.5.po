@@ -1,0 +1,172 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-04-18 01:53+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1492480409.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig6.5"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig6.5:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig6.5:2.1"
+msgid "Chakkanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig6.5:3.1"
+msgid "5. Anopamātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc151"></a><a class="verse-num-pts"
+#. id="verse-num-pts151"></a>
+msgctxt "thig6.5:4.1"
+msgid "“Ucce kule ahaṃ jātā,"
+msgstr "I was born into an eminent family"
+
+#. <br>
+msgctxt "thig6.5:4.2"
+msgid "bahuvitte mahaddhane;"
+msgstr "With plentiful property and great wealth"
+
+#. <br>
+msgctxt "thig6.5:4.3"
+msgid "Vaṇṇarūpena sampannā,"
+msgstr "Endowed with good complexion and figure"
+
+#. <br>
+msgctxt "thig6.5:4.4"
+msgid "dhītā <span class=\"var\" title=\"meghassa (bj) | meghissa (s2, s3)\" id=\"note60\">majjhassa</span> atrajā."
+msgstr "Majjha's daughter"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc152"></a><a class="verse-num-pts" id="verse-num-pts152"></a>
+msgctxt "thig6.5:5.1"
+msgid "Patthitā rājaputtehi,"
+msgstr "Desired by princes"
+
+#. <br>
+msgctxt "thig6.5:5.2"
+msgid "<span class=\"var\" title=\"seṭṭhiputtehi bhijjhitā (bj)\" id=\"note61\">seṭṭhiputtehi gijjhitā</span>;"
+msgstr "Along with sons of millionaires"
+
+#. <br>
+msgctxt "thig6.5:5.3"
+msgid "Pitu me pesayī dūtaṃ,"
+msgstr "One desirous of me sent a messenger"
+
+#. <br>
+msgctxt "thig6.5:5.4"
+msgid "detha mayhaṃ anopamaṃ."
+msgstr "[Saying] “Give me Anopamā"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc153"></a><a class="verse-num-pts" id="verse-num-pts153"></a>
+msgctxt "thig6.5:6.1"
+msgid "Yattakaṃ tulitā esā,"
+msgstr "However much"
+
+#. <br>
+msgctxt "thig6.5:6.2"
+msgid "tuyhaṃ dhītā anopamā;"
+msgstr "Your daughter Anopamā weighs"
+
+#. <br>
+msgctxt "thig6.5:6.3"
+msgid "Tato aṭṭhaguṇaṃ dassaṃ,"
+msgstr "I'll give you that eight-fold"
+
+#. <br>
+msgctxt "thig6.5:6.4"
+msgid "hiraññaṃ ratanāni ca."
+msgstr "In gold and gems”"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc154"></a><a class="verse-num-pts" id="verse-num-pts154"></a>
+msgctxt "thig6.5:7.1"
+msgid "Sāhaṃ disvāna sambuddhaṃ,"
+msgstr "Then I saw the Fully-Enlightened One"
+
+#. <br>
+msgctxt "thig6.5:7.2"
+msgid "lokajeṭṭhaṃ anuttaraṃ;"
+msgstr "Elder for the world, unsurpassed"
+
+#. <br>
+msgctxt "thig6.5:7.3"
+msgid "Tassa pādāni vanditvā,"
+msgstr "I paid homage to his feet"
+
+#. <br>
+msgctxt "thig6.5:7.4"
+msgid "ekamantaṃ upāvisiṃ."
+msgstr "Then sat down to one side"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc155"></a><a class="verse-num-pts" id="verse-num-pts155"></a>
+msgctxt "thig6.5:8.1"
+msgid "So me dhammamadesesi,"
+msgstr "Out of compassion"
+
+#. <br>
+msgctxt "thig6.5:8.2"
+msgid "anukampāya gotamo;"
+msgstr "Gotama taught me Dhamma"
+
+#. <br>
+msgctxt "thig6.5:8.3"
+msgid "Nisinnā āsane tasmiṃ,"
+msgstr "Sitting there on that seat"
+
+#. <br>
+msgctxt "thig6.5:8.4"
+msgid "phusayiṃ tatiyaṃ phalaṃ."
+msgstr "I realised the third fruit"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc156"></a><a class="verse-num-pts" id="verse-num-pts156"></a>
+msgctxt "thig6.5:9.1"
+msgid "Tato kesāni chetvāna,"
+msgstr "Then having cut off my hair"
+
+#. <br>
+msgctxt "thig6.5:9.2"
+msgid "pabbajiṃ anagāriyaṃ;"
+msgstr "I went forth into homelessness"
+
+#. <br>
+msgctxt "thig6.5:9.3"
+msgid "Ajja me sattamī ratti,"
+msgstr "Today is the seventh night"
+
+#. <br>
+msgctxt "thig6.5:9.4"
+msgid "yato taṇhā visositā”ti."
+msgstr "Since craving dried up"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="7"></a>
+msgctxt "thig6.5:10.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig6.5:10.2"
+msgid "Anopamā therī …."
+msgstr ""

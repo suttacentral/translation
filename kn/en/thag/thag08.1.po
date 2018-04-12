@@ -1,0 +1,229 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2016-10-18 10:39+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1476787190.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag8.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag8.1:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag8.1:2.1"
+msgid "Aṭṭhakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag8.1:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag8.1:4.1"
+msgid "8.1. Mahākaccāyanattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc494"></a><a class="verse-num-pts"
+#. id="verse-num-pts494"></a><a class="pts" id="pts52"></a>
+msgctxt "thag8.1:5.1"
+msgid "“Kammaṃ bahukaṃ na kāraye,"
+msgstr "Don’t get involved in lots of work,"
+
+#. <br>
+msgctxt "thag8.1:5.2"
+msgid "Parivajjeyya janaṃ na uyyame;"
+msgstr "Avoid people, and don’t try to get more requisites."
+
+#. <br>
+msgctxt "thag8.1:5.3"
+msgid "So ussukko rasānugiddho,"
+msgstr "If you’re eager and greedy for flavours,"
+
+#. <br>
+msgctxt "thag8.1:5.4"
+msgid "Atthaṃ riñcati yo <span class=\"var\" title=\"sukhāvāho (pts2)\" id=\"note249\">sukhādhivāho</span>."
+msgstr "You’ll miss the goal that brings such happiness."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc495"></a><a class="verse-num-pts" id="verse-num-pts495"></a>
+msgctxt "thag8.1:6.1"
+msgid "Paṅkoti hi naṃ avedayuṃ,"
+msgstr "They know that this really is a bog,"
+
+#. <br>
+msgctxt "thag8.1:6.2"
+msgid "Yāyaṃ vandanapūjanā kulesu;"
+msgstr "This homage and veneration among respectable families."
+
+#. <br>
+msgctxt "thag8.1:6.3"
+msgid "Sukhumaṃ sallaṃ durubbahaṃ,"
+msgstr "Honor is a subtle dart, hard to extract,"
+
+#. <br>
+msgctxt "thag8.1:6.4"
+msgid "Sakkāro kāpurisena dujjaho."
+msgstr "And hard for a corrupt person to give up."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc496"></a><a class="verse-num-pts" id="verse-num-pts496"></a>
+msgctxt "thag8.1:7.1"
+msgid "Na parassupanidhāya,"
+msgstr "Your deeds aren’t bad"
+
+#. <br>
+msgctxt "thag8.1:7.2"
+msgid "kammaṃ maccassa pāpakaṃ;"
+msgstr "Because of what others do."
+
+#. <br>
+msgctxt "thag8.1:7.3"
+msgid "Attanā taṃ na seveyya,"
+msgstr "You yourself should not do bad,"
+
+#. <br>
+msgctxt "thag8.1:7.4"
+msgid "kammabandhū hi mātiyā."
+msgstr "For people have deeds as their kin."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc497"></a><a class="verse-num-pts" id="verse-num-pts497"></a>
+msgctxt "thag8.1:8.1"
+msgid "Na pare vacanā coro,"
+msgstr "You’re not a criminal because of what someone else says,"
+
+#. <br>
+msgctxt "thag8.1:8.2"
+msgid "na pare vacanā muni;"
+msgstr "And you’re not a sage because of what someone else says;"
+
+#. <br>
+msgctxt "thag8.1:8.3"
+msgid "Attā <span class=\"var\" title=\"attā ca yathā vetti (bj) | attānañca yathā vedi (s2, s3) | attānaṃ ca yathā veti (pts1)\" id=\"note250\">ca naṃ yathāvedi</span>,"
+msgstr "But as you know yourself,"
+
+#. <br>
+msgctxt "thag8.1:8.4"
+msgid "devāpi naṃ tathā vidū."
+msgstr "So the gods will know you."
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc498"></a><a class="verse-num-pts" id="verse-num-pts498"></a>
+msgctxt "thag8.1:9.1"
+msgid "Pare ca na vijānanti,"
+msgstr "Others don’t understand,"
+
+#. <br>
+msgctxt "thag8.1:9.2"
+msgid "mayamettha yamāmase;"
+msgstr "That here we come to an end."
+
+#. <br>
+msgctxt "thag8.1:9.3"
+msgid "Ye ca tattha vijānanti,"
+msgstr "Those who do understand this"
+
+#. <br>
+msgctxt "thag8.1:9.4"
+msgid "tato sammanti medhagā."
+msgstr "Settle their quarrels."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc499"></a><a class="verse-num-pts" id="verse-num-pts499"></a>
+msgctxt "thag8.1:10.1"
+msgid "Jīvate vāpi sappañño,"
+msgstr "A wise person lives on,"
+
+#. <br>
+msgctxt "thag8.1:10.2"
+msgid "api vittaparikkhayo;"
+msgstr "Even after their wealth is lost;"
+
+#. <br>
+msgctxt "thag8.1:10.3"
+msgid "Paññāya ca alābhena,"
+msgstr "But without gaining wisdom,"
+
+#. <br>
+msgctxt "thag8.1:10.4"
+msgid "vittavāpi na jīvati."
+msgstr "Even a wealthy person doesn’t really live."
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc500"></a><a class="verse-num-pts" id="verse-num-pts500"></a>
+msgctxt "thag8.1:11.1"
+msgid "Sabbaṃ suṇāti sotena,"
+msgstr "All is heard with the ear,"
+
+#. <br>
+msgctxt "thag8.1:11.2"
+msgid "sabbaṃ passati cakkhunā;"
+msgstr "All is seen with the eye;"
+
+#. <br>
+msgctxt "thag8.1:11.3"
+msgid "Na ca diṭṭhaṃ sutaṃ dhīro,"
+msgstr "The wise would not think that all that is seen and heard"
+
+#. <br>
+msgctxt "thag8.1:11.4"
+msgid "sabbaṃ ujjhitumarahati."
+msgstr "Is worthy of rejection."
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc501"></a><a class="verse-num-pts" id="verse-num-pts501"></a>
+msgctxt "thag8.1:12.1"
+msgid "Cakkhumāssa yathā andho,"
+msgstr "Though you have eyes, be as if blind;"
+
+#. <br>
+msgctxt "thag8.1:12.2"
+msgid "sotavā badhiro yathā;"
+msgstr "Though you have ears, be as if deaf,"
+
+#. <br>
+msgctxt "thag8.1:12.3"
+msgid "Paññavāssa yathā mūgo,"
+msgstr "Though you have wisdom, be as if stupid,"
+
+#. <br>
+msgctxt "thag8.1:12.4"
+msgid "balavā dubbaloriva;"
+msgstr "Though you have strength, be as if feeble."
+
+#. <br>
+msgctxt "thag8.1:12.5"
+msgid "<span class=\"var\" title=\"attaatthe (^mi7.2.1#4 [Gadrabhavagga/ Kukkuṭaṅgapañha])\" id=\"note251\">Atha atthe</span> samuppanne,"
+msgstr "Then, when the goal has been realised,"
+
+#. <br>
+msgctxt "thag8.1:12.6"
+msgid "<span class=\"var\" title=\"passetha (mr)\" id=\"note252\">sayetha</span> matasāyikan”ti."
+msgstr "You may lie on your death-bed."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag8.1:13.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag8.1:13.2"
+msgid "Mahākaccāyano thero …."
+msgstr ""

@@ -1,0 +1,195 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag7.3"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag7.3:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag7.3:2.1"
+msgid "Sattakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag7.3:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag7.3:4.1"
+msgid "7.3. Bhaddattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc473"></a><a class="verse-num-pts"
+#. id="verse-num-pts473"></a><a class="pts" id="pts50"></a>
+msgctxt "thag7.3:5.1"
+msgid "“Ekaputto ahaṃ āsiṃ,"
+msgstr "I was an only child,"
+
+#. <br>
+msgctxt "thag7.3:5.2"
+msgid "piyo mātu piyo pitu;"
+msgstr "Loved by my mother and father."
+
+#. <br>
+msgctxt "thag7.3:5.3"
+msgid "Bahūhi vatacariyāhi,"
+msgstr "They had me by practising"
+
+#. <br>
+msgctxt "thag7.3:5.4"
+msgid "laddho āyācanāhi ca."
+msgstr "Many prayers and observances."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc474"></a><a class="verse-num-pts" id="verse-num-pts474"></a>
+msgctxt "thag7.3:6.1"
+msgid "Te ca maṃ anukampāya,"
+msgstr "Out of compassion,"
+
+#. <br>
+msgctxt "thag7.3:6.2"
+msgid "atthakāmā hitesino;"
+msgstr "Wishing me well and seeking my welfare,"
+
+#. <br>
+msgctxt "thag7.3:6.3"
+msgid "Ubho pitā ca mātā ca,"
+msgstr "My mother and father"
+
+#. <br>
+msgctxt "thag7.3:6.4"
+msgid "buddhassa upanāmayuṃ."
+msgstr "Took me up to the Buddha."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc475"></a><a class="verse-num-pts" id="verse-num-pts475"></a>
+msgctxt "thag7.3:7.1"
+msgid "‘Kicchā laddho ayaṃ putto,"
+msgstr "“We had this son with difficulty;"
+
+#. <br>
+msgctxt "thag7.3:7.2"
+msgid "sukhumālo sukhedhito;"
+msgstr "He is delicate, and has grown up in comfort."
+
+#. <br>
+msgctxt "thag7.3:7.3"
+msgid "Imaṃ dadāma te nātha,"
+msgstr "We offer him to you, Lord,"
+
+#. <br>
+msgctxt "thag7.3:7.4"
+msgid "jinassa paricārakaṃ’."
+msgstr "To attend upon the conqueror.”"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc476"></a><a class="verse-num-pts" id="verse-num-pts476"></a>
+msgctxt "thag7.3:8.1"
+msgid "Satthā ca maṃ paṭiggayha,"
+msgstr "The teacher, having accepted me,"
+
+#. <br>
+msgctxt "thag7.3:8.2"
+msgid "ānandaṃ etadabravi;"
+msgstr "Declared to Ānanda:"
+
+#. <br>
+msgctxt "thag7.3:8.3"
+msgid "‘Pabbājehi imaṃ khippaṃ,"
+msgstr "“Quickly give him the going-forth—"
+
+#. <br>
+msgctxt "thag7.3:8.4"
+msgid "hessatyājāniyo ayaṃ’."
+msgstr "This one will be a thoroughbred.”"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc477"></a><a class="verse-num-pts" id="verse-num-pts477"></a>
+msgctxt "thag7.3:9.1"
+msgid "Pabbājetvāna maṃ satthā,"
+msgstr "After he, the teacher, had sent me forth,"
+
+#. <br>
+msgctxt "thag7.3:9.2"
+msgid "vihāraṃ pāvisī jino;"
+msgstr "The conqueror entered his dwelling."
+
+#. <br>
+msgctxt "thag7.3:9.3"
+msgid "Anoggatasmiṃ sūriyasmiṃ,"
+msgstr "Before the sun set,"
+
+#. <br>
+msgctxt "thag7.3:9.4"
+msgid "tato cittaṃ vimucci me."
+msgstr "My mind was liberated."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc478"></a><a class="verse-num-pts" id="verse-num-pts478"></a>
+msgctxt "thag7.3:10.1"
+msgid "Tato satthā nirākatvā,"
+msgstr "The teacher didn’t neglect me;"
+
+#. <br>
+msgctxt "thag7.3:10.2"
+msgid "paṭisallānavuṭṭhito;"
+msgstr "When he came out from seclusion,"
+
+#. <br>
+msgctxt "thag7.3:10.3"
+msgid "‘Ehi bhaddā’ti maṃ āha,"
+msgstr "He said: “Come Bhadda!”"
+
+#. <br>
+msgctxt "thag7.3:10.4"
+msgid "sā me āsūpasampadā."
+msgstr "That was my full ordination."
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc479"></a><a class="verse-num-pts" id="verse-num-pts479"></a>
+msgctxt "thag7.3:11.1"
+msgid "Jātiyā sattavassena,"
+msgstr "At seven years old"
+
+#. <br>
+msgctxt "thag7.3:11.2"
+msgid "laddhā me upasampadā;"
+msgstr "I received full ordination."
+
+#. <br>
+msgctxt "thag7.3:11.3"
+msgid "Tisso vijjā anuppattā,"
+msgstr "I’ve attained the three knowledges;"
+
+#. <br>
+msgctxt "thag7.3:11.4"
+msgid "aho dhammasudhammatā”ti."
+msgstr "Oh, the excellence of the Dhamma!"
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag7.3:12.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag7.3:12.2"
+msgid "Bhaddo thero …."
+msgstr ""
+

@@ -1,0 +1,64 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig1.7"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig1.7:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig1.7:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig1.7:3.1"
+msgid "7. Vīrātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc7"></a><a class="verse-num-pts"
+#. id="verse-num-pts7"></a>
+msgctxt "thig1.7:4.1"
+msgid "“Vīrā <span class=\"var\" title=\"dhīrā dhīrehi (s2, s3, pts1-2, mr)\" id=\"note4\">vīrehi</span> dhammehi,"
+msgstr "You're Dhīrā because of your good qualities"
+
+#. <br>
+msgctxt "thig1.7:4.2"
+msgid "bhikkhunī bhāvitindriyā;"
+msgstr "A Bhikkhunī with faculties developed"
+
+#. <br>
+msgctxt "thig1.7:4.3"
+msgid "Dhāreti antimaṃ dehaṃ,"
+msgstr "Bear your final body"
+
+#. <br>
+msgctxt "thig1.7:4.4"
+msgid "jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (s2, s3, pts1-2) | savāhananti (mr)\" id=\"note5\">savāhinin”ti</span>."
+msgstr "Having conquered Māra and his army"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="2"></a>
+msgctxt "thig1.7:5.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig1.7:5.2"
+msgid "<span class=\"var\" title=\"aññatarā dhīrā (s2, s3, pts1-2)\" id=\"note6\">Vīrā</span> therī …."
+msgstr ""
+

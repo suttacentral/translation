@@ -1,0 +1,151 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-04-29 09:01+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1493456489.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig5.2"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig5.2:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig5.2:2.1"
+msgid "Pañcakanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig5.2:3.1"
+msgid "2. Vimalātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc72"></a><a class="verse-num-pts"
+#. id="verse-num-pts72"></a>
+msgctxt "thig5.2:4.1"
+msgid "“Mattā vaṇṇena rūpena,"
+msgstr "Intoxicated "
+
+#. <br>
+msgctxt "thig5.2:4.2"
+msgid "sobhaggena yasena ca;"
+msgstr "By my appearance, form, beauty, fame"
+
+#. <br>
+msgctxt "thig5.2:4.3"
+msgid "Yobbanena cupatthaddhā,"
+msgstr "Conceited by my youth"
+
+#. <br>
+msgctxt "thig5.2:4.4"
+msgid "aññāsamatimaññihaṃ."
+msgstr "I despised other women"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc73"></a><a class="verse-num-pts" id="verse-num-pts73"></a>
+msgctxt "thig5.2:5.1"
+msgid "Vibhūsetvā imaṃ kāyaṃ,"
+msgstr "Having adorned this body"
+
+#. <br>
+msgctxt "thig5.2:5.2"
+msgid "sucittaṃ bālalāpanaṃ;"
+msgstr "so very fancy, cooed over by fools"
+
+#. <br>
+msgctxt "thig5.2:5.3"
+msgid "Aṭṭhāsiṃ vesidvāramhi,"
+msgstr "There I stood at the door of the prostitute house"
+
+#. <br>
+msgctxt "thig5.2:5.4"
+msgid "luddo pāsamivoḍḍiya."
+msgstr "Like a snare laid by a hunter"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc74"></a><a class="verse-num-pts" id="verse-num-pts74"></a>
+msgctxt "thig5.2:6.1"
+msgid "Piḷandhanaṃ vidaṃsentī,"
+msgstr "Showing my ornamentation"
+
+#. <br>
+msgctxt "thig5.2:6.2"
+msgid "guyhaṃ pakāsikaṃ bahuṃ;"
+msgstr "Many things fit to be hidden were revealed"
+
+#. <br>
+msgctxt "thig5.2:6.3"
+msgid "Akāsiṃ vividhaṃ māyaṃ,"
+msgstr "I did various tricks"
+
+#. <br>
+msgctxt "thig5.2:6.4"
+msgid "ujjagghantī bahuṃ janaṃ."
+msgstr "Making fun of many people"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc75"></a><a class="verse-num-pts" id="verse-num-pts75"></a>
+msgctxt "thig5.2:7.1"
+msgid "Sājja piṇḍaṃ caritvāna,"
+msgstr "Today I wandered for alms"
+
+#. <br>
+msgctxt "thig5.2:7.2"
+msgid "muṇḍā saṅghāṭipārutā;"
+msgstr "With shaven head, wearing the outer robe"
+
+#. <br>
+msgctxt "thig5.2:7.3"
+msgid "Nisinnā rukkhamūlamhi,"
+msgstr "Sitting at the root of a tree"
+
+#. <br>
+msgctxt "thig5.2:7.4"
+msgid "avitakkassa lābhinī."
+msgstr "I've gained freedom from thought"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc76"></a><a class="verse-num-pts" id="verse-num-pts76"></a>
+msgctxt "thig5.2:8.1"
+msgid "Sabbe yogā samucchinnā,"
+msgstr "I've cut off all bonds"
+
+#. <br>
+msgctxt "thig5.2:8.2"
+msgid "ye dibbā ye ca mānusā;"
+msgstr "Those both divine and human"
+
+#. <br>
+msgctxt "thig5.2:8.3"
+msgid "Khepetvā āsave sabbe,"
+msgstr "Having ended all taints"
+
+#. <br>
+msgctxt "thig5.2:8.4"
+msgid "sītibhūtāmhi nibbutā”ti."
+msgstr "I've become calm, cooled"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="6"></a>
+msgctxt "thig5.2:9.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig5.2:9.2"
+msgid "Vimalā purāṇagaṇikā <span class=\"var\" title=\"vimalātherī (bj)\" id=\"note32\">therī</span> …."
+msgstr ""

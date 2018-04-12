@@ -1,0 +1,178 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-06-06 10:08+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1496743724.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag6.9"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag6.9:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag6.9:2.1"
+msgid "Chakkanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag6.9:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag6.9:4.1"
+msgid "<span class=\"var\" title=\"jentattheragāthā (bj)\" id=\"note219\">6.9 Purohitaputtajentattheragāthā</span>"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc423"></a><a class="verse-num-pts"
+#. id="verse-num-pts423"></a>
+msgctxt "thag6.9:5.1"
+msgid "“Jātimadena mattohaṃ,"
+msgstr "I was intoxicated with the pride of birth,"
+
+#. <br>
+msgctxt "thag6.9:5.2"
+msgid "bhogaissariyena ca;"
+msgstr "And wealth and sovereignty,"
+
+#. <br>
+msgctxt "thag6.9:5.3"
+msgid "Saṇṭhānavaṇṇarūpena,"
+msgstr "I lived intoxicated"
+
+#. <br>
+msgctxt "thag6.9:5.4"
+msgid "madamatto acārihaṃ."
+msgstr "With the beauty and form of my body."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc424"></a><a class="verse-num-pts" id="verse-num-pts424"></a>
+msgctxt "thag6.9:6.1"
+msgid "Nāttano samakaṃ kañci,"
+msgstr "No-one was my equal or my better—"
+
+#. <br>
+msgctxt "thag6.9:6.2"
+msgid "atirekaṃ ca maññisaṃ;"
+msgstr "Or so I thought."
+
+#. <br>
+msgctxt "thag6.9:6.3"
+msgid "Atimānahato bālo,"
+msgstr "I was such an arrogant fool,"
+
+#. <br>
+msgctxt "thag6.9:6.4"
+msgid "patthaddho ussitaddhajo."
+msgstr "Stuck up, waving my own flag."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc425"></a><a class="verse-num-pts" id="verse-num-pts425"></a>
+msgctxt "thag6.9:7.1"
+msgid "Mātaraṃ pitarañcāpi,"
+msgstr "I didn’t pay respects to anyone:"
+
+#. <br>
+msgctxt "thag6.9:7.2"
+msgid "aññepi garusammate;"
+msgstr "Not my mother or father,"
+
+#. <br>
+msgctxt "thag6.9:7.3"
+msgid "Na kañci abhivādesiṃ,"
+msgstr "Nor others considered to be honorable."
+
+#. <br>
+msgctxt "thag6.9:7.4"
+msgid "mānatthaddho anādaro."
+msgstr "I was stiff with pride, and disrespectful."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc426"></a><a class="verse-num-pts" id="verse-num-pts426"></a>
+msgctxt "thag6.9:8.1"
+msgid "Disvā vināyakaṃ aggaṃ,"
+msgstr "When I saw the supreme leader,"
+
+#. <br>
+msgctxt "thag6.9:8.2"
+msgid "sārathīnaṃ varuttamaṃ;"
+msgstr "The most excellent of charioteers,"
+
+#. <br>
+msgctxt "thag6.9:8.3"
+msgid "Tapantamiva ādiccaṃ,"
+msgstr "Shining like the sun,"
+
+#. <br>
+msgctxt "thag6.9:8.4"
+msgid "bhikkhusaṃghapurakkhataṃ."
+msgstr "And revered by the mendicant Saṅgha,"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc427"></a><a class="verse-num-pts" id="verse-num-pts427"></a>
+msgctxt "thag6.9:9.1"
+msgid "Mānaṃ madañca chaḍḍetvā,"
+msgstr "I discarded conceit and intoxication,"
+
+#. <br>
+msgctxt "thag6.9:9.2"
+msgid "vippasannena cetasā;"
+msgstr "And, with a clear and confident heart,"
+
+#. <br>
+msgctxt "thag6.9:9.3"
+msgid "Sirasā abhivādesiṃ,"
+msgstr "I bowed down with my head"
+
+#. <br>
+msgctxt "thag6.9:9.4"
+msgid "sabbasattānamuttamaṃ."
+msgstr "To the highest of all beings."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc428"></a><a class="verse-num-pts"
+#. id="verse-num-pts428"></a><a class="pts" id="pts46"></a>
+msgctxt "thag6.9:10.1"
+msgid "Atimāno ca omāno,"
+msgstr "The conceit of superiority and the conceit of inferiority"
+
+#. <br>
+msgctxt "thag6.9:10.2"
+msgid "pahīnā susamūhatā;"
+msgstr "Have been abandoned and uprooted."
+
+#. <br>
+msgctxt "thag6.9:10.3"
+msgid "Asmimāno samucchinno,"
+msgstr "The conceit “I am” has been eradicated,"
+
+#. <br>
+msgctxt "thag6.9:10.4"
+msgid "sabbe mānavidhā hatā”ti."
+msgstr "And every kind of conceit has been destroyed."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag6.9:11.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag6.9:11.2"
+msgid "Jento purohitaputto <span class=\"var\" title=\"jento thero (bj)\" id=\"note220\">thero</span> …."
+msgstr ""

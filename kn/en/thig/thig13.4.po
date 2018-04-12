@@ -1,0 +1,650 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-04-12 01:20+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1491960023.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig13.4"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig13.4:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig13.4:2.1"
+msgid "Vīsatinipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig13.4:3.1"
+msgid "4. Sundarītherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc313"></a><a class="verse-num-pts"
+#. id="verse-num-pts312"></a>
+msgctxt "thig13.4:4.1"
+msgid "“Petāni bhoti puttāni,"
+msgstr "“In the past "
+
+#. <br>
+msgctxt "thig13.4:4.2"
+msgid "khādamānā tuvaṃ pure;"
+msgstr "When you caused your sons to be eaten"
+
+#. <br>
+msgctxt "thig13.4:4.3"
+msgid "Tuvaṃ divā ca ratto ca,"
+msgstr "You mourned greatly"
+
+#. <br>
+msgctxt "thig13.4:4.4"
+msgid "atīva paritappasi."
+msgstr "Day and night"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc314"></a><a class="verse-num-pts" id="verse-num-pts313"></a>
+msgctxt "thig13.4:5.1"
+msgid "Sājja sabbāni khāditvā,"
+msgstr "Today"
+
+#. <br>
+msgctxt "thig13.4:5.2"
+msgid "<span class=\"var\" title=\"satta puttāni (s2, s3, pts1-2)\" id=\"note96\">sataputtāni</span> brāhmaṇī;"
+msgstr "When you caused seven sons to be eaten"
+
+#. <br>
+msgctxt "thig13.4:5.3"
+msgid "Vāseṭṭhi kena vaṇṇena,"
+msgstr "Brahman lady Vāseṭṭhī,"
+
+#. <br>
+msgctxt "thig13.4:5.4"
+msgid "na bāḷhaṃ paritappasi”."
+msgstr "Why don’t you mourn greatly?”"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc315"></a><a class="verse-num-pts" id="verse-num-pts314"></a>
+msgctxt "thig13.4:6.1"
+msgid "“Bahūni puttasatāni,"
+msgstr "“Many hundreds of sons"
+
+#. <br>
+msgctxt "thig13.4:6.2"
+msgid "ñātisaṅghasatāni ca;"
+msgstr "Hundreds of groups of relatives"
+
+#. <br>
+msgctxt "thig13.4:6.3"
+msgid "Khāditāni atītaṃse,"
+msgstr "Both mine and yours, Brahman"
+
+#. <br>
+msgctxt "thig13.4:6.4"
+msgid "mama tuyhañca brāhmaṇa."
+msgstr "Have been eaten in the past"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc316"></a><a class="verse-num-pts" id="verse-num-pts315"></a>
+msgctxt "thig13.4:7.1"
+msgid "Sāhaṃ nissaraṇaṃ ñatvā,"
+msgstr "Having known the escape"
+
+#. <br>
+msgctxt "thig13.4:7.2"
+msgid "jātiyā maraṇassa ca;"
+msgstr "From birth and death"
+
+#. <br>
+msgctxt "thig13.4:7.3"
+msgid "Na socāmi na rodāmi,"
+msgstr "I don’t grieve or lament"
+
+#. <br>
+msgctxt "thig13.4:7.4"
+msgid "na cāpi paritappayiṃ”."
+msgstr "Nor do I mourn”"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc317"></a><a class="verse-num-pts"
+#. id="verse-num-pts316"></a><a class="pts" id="pts154"></a>
+msgctxt "thig13.4:8.1"
+msgid "“Abbhutaṃ vata vāseṭṭhi,"
+msgstr "“Vāseṭṭhī "
+
+#. <br>
+msgctxt "thig13.4:8.2"
+msgid "vācaṃ bhāsasi edisiṃ;"
+msgstr "These words are marvellous"
+
+#. <br>
+msgctxt "thig13.4:8.3"
+msgid "Kassa tvaṃ dhammamaññāya,"
+msgstr "Whose teaching do you know"
+
+#. <br>
+msgctxt "thig13.4:8.4"
+msgid "<span class=\"var\" title=\"thiraṃ (bj)\" id=\"note97\">giraṃ</span> bhāsasi edisiṃ”."
+msgstr "When you say this?”"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc318"></a><a class="verse-num-pts" id="verse-num-pts317"></a>
+msgctxt "thig13.4:9.1"
+msgid "“Esa brāhmaṇa sambuddho,"
+msgstr "“Brahman, the Enlightened One"
+
+#. <br>
+msgctxt "thig13.4:9.2"
+msgid "nagaraṃ mithilaṃ pati;"
+msgstr "Near Mithilā city"
+
+#. <br>
+msgctxt "thig13.4:9.3"
+msgid "Sabbadukkhappahānāya,"
+msgstr "Taught Dhamma to beings"
+
+#. <br>
+msgctxt "thig13.4:9.4"
+msgid "dhammaṃ desesi pāṇinaṃ."
+msgstr "For the abandonment of all suffering"
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc319"></a><a class="verse-num-pts" id="verse-num-pts318"></a>
+msgctxt "thig13.4:10.1"
+msgid "<span class=\"var\" title=\"tassāhaṃ (s2, s3, pts1-2)\" id=\"note98\">Tassa</span> <span class=\"var\" title=\"brāhmaṇa (bj, s2, s3, pts1-2)\" id=\"note99\">brahme</span> arahato,"
+msgstr "Having heard the arahant’s teaching"
+
+#. <br>
+msgctxt "thig13.4:10.2"
+msgid "dhammaṃ sutvā nirūpadhiṃ;"
+msgstr "Which is without the basis of rebirth"
+
+#. <br>
+msgctxt "thig13.4:10.3"
+msgid "Tattha viññātasaddhammā,"
+msgstr "Understanding the true Dhamma"
+
+#. <br>
+msgctxt "thig13.4:10.4"
+msgid "puttasokaṃ byapānudiṃ”."
+msgstr "I’ve abandoned grief for sons”"
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc320"></a><a class="verse-num-pts" id="verse-num-pts319"></a>
+msgctxt "thig13.4:11.1"
+msgid "“So ahampi gamissāmi,"
+msgstr "“I’ll go near "
+
+#. <br>
+msgctxt "thig13.4:11.2"
+msgid "nagaraṃ mithilaṃ pati;"
+msgstr "Mithilā city"
+
+#. <br>
+msgctxt "thig13.4:11.3"
+msgid "Appeva maṃ so bhagavā,"
+msgstr "It’d be good if the Blessed One releases me "
+
+#. <br>
+msgctxt "thig13.4:11.4"
+msgid "sabbadukkhā pamocaye”."
+msgstr "From all suffering”"
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc321"></a><a class="verse-num-pts" id="verse-num-pts320"></a>
+msgctxt "thig13.4:12.1"
+msgid "Addasa brāhmaṇo buddhaṃ,"
+msgstr "The brahman saw Buddha"
+
+#. <br>
+msgctxt "thig13.4:12.2"
+msgid "vippamuttaṃ nirūpadhiṃ;"
+msgstr "Completely released without basis for rebirth"
+
+#. <br>
+msgctxt "thig13.4:12.3"
+msgid "Svassa dhammamadesesi,"
+msgstr "The sage that reached the far shore of suffering"
+
+#. <br>
+msgctxt "thig13.4:12.4"
+msgid "muni dukkhassa pāragū."
+msgstr "Taught him Dhamma:"
+
+#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
+#. id="verse-num-sc322"></a><a class="verse-num-pts" id="verse-num-pts321"></a>
+msgctxt "thig13.4:13.1"
+msgid "Dukkhaṃ dukkhasamuppādaṃ,"
+msgstr "Suffering, the origin of suffering"
+
+#. <br>
+msgctxt "thig13.4:13.2"
+msgid "dukkhassa ca atikkamaṃ;"
+msgstr "The overcoming of suffering"
+
+#. <br>
+msgctxt "thig13.4:13.3"
+msgid "Ariyaṃ caṭṭhaṅgikaṃ maggaṃ,"
+msgstr "The noble eight-fold path"
+
+#. <br>
+msgctxt "thig13.4:13.4"
+msgid "dukkhūpasamagāminaṃ."
+msgstr "Leading to the stilling of suffering"
+
+#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
+#. id="verse-num-sc323"></a><a class="verse-num-pts" id="verse-num-pts322"></a>
+msgctxt "thig13.4:14.1"
+msgid "Tattha viññātasaddhammo,"
+msgstr "Knowing the true Dhamma"
+
+#. <br>
+msgctxt "thig13.4:14.2"
+msgid "pabbajjaṃ samarocayi;"
+msgstr "He delighted in going forth"
+
+#. <br>
+msgctxt "thig13.4:14.3"
+msgid "Sujāto tīhi rattīhi,"
+msgstr "After three nights"
+
+#. <br>
+msgctxt "thig13.4:14.4"
+msgid "tisso vijjā aphassayi."
+msgstr "Sujāta realised the three true knowledges"
+
+#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
+#. id="verse-num-sc324"></a><a class="verse-num-pts" id="verse-num-pts323"></a>
+msgctxt "thig13.4:15.1"
+msgid "“Ehi sārathi gacchāhi,"
+msgstr "“Come charioteer"
+
+#. <br>
+msgctxt "thig13.4:15.2"
+msgid "rathaṃ niyyādayāhimaṃ;"
+msgstr "Go, take back this chariot"
+
+#. <br>
+msgctxt "thig13.4:15.3"
+msgid "Ārogyaṃ brāhmaṇiṃ <span class=\"var\" title=\"vajjā (bj)\" id=\"note100\">vajja</span>,"
+msgstr "Bidding the brahman-lady good health"
+
+#. <br>
+msgctxt "thig13.4:15.4"
+msgid "‘<span class=\"var\" title=\"pabbajito (bj, s2, s3, pts1-2)\" id=\"note101\">pabbaji</span> dāni brāhmaṇo;"
+msgstr "Say ‘The brahman has now gone forth"
+
+#. <br>
+msgctxt "thig13.4:15.5"
+msgid "Sujāto tīhi rattīhi,"
+msgstr "After three nights"
+
+#. <br>
+msgctxt "thig13.4:15.6"
+msgid "tisso vijjā aphassayi’”."
+msgstr "Sujāta realised the three true knowledges’”"
+
+#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
+#. id="verse-num-sc325"></a><a class="verse-num-pts" id="verse-num-pts324"></a>
+msgctxt "thig13.4:16.1"
+msgid "Tato ca rathamādāya,"
+msgstr "Then taking the chariot"
+
+#. <br>
+msgctxt "thig13.4:16.2"
+msgid "sahassañcāpi sārathi;"
+msgstr "Along with a thousand pieces to the charioteer"
+
+#. <br>
+msgctxt "thig13.4:16.3"
+msgid "Ārogyaṃ brāhmaṇiṃvoca,"
+msgstr "Bade the barman-lady good health "
+
+#. <br>
+msgctxt "thig13.4:16.4"
+msgid "“pabbaji dāni brāhmaṇo;"
+msgstr "Saying “The Brahman has now gone forth"
+
+#. <br>
+msgctxt "thig13.4:16.5"
+msgid "Sujāto tīhi rattīhi,"
+msgstr "After three nights"
+
+#. <br>
+msgctxt "thig13.4:16.6"
+msgid "tisso vijjā aphassayi”."
+msgstr "Sujāta realised the three true knowledges”"
+
+#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
+#. id="verse-num-sc326"></a><a class="verse-num-pts" id="verse-num-pts325"></a>
+msgctxt "thig13.4:17.1"
+msgid "“Etañcāhaṃ assarathaṃ,"
+msgstr "“Hearing the Brahman has the three true knowledges"
+
+#. <br>
+msgctxt "thig13.4:17.2"
+msgid "sahassañcāpi sārathi;"
+msgstr "This horse carriage, "
+
+#. <br>
+msgctxt "thig13.4:17.3"
+msgid "Tevijjaṃ brāhmaṇaṃ <span class=\"var\" title=\"ñatvā (bj)\" id=\"note102\">sutvā</span>,"
+msgstr "Along with 1000 pieces and charioteer "
+
+#. <br>
+msgctxt "thig13.4:17.4"
+msgid "puṇṇapattaṃ dadāmi te”."
+msgstr "I’ll give you this as a present”"
+
+#. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
+#. id="verse-num-sc327"></a><a class="verse-num-pts" id="verse-num-pts326"></a>
+msgctxt "thig13.4:18.1"
+msgid "“Tuyheva hotvassaratho,"
+msgstr "“Keep the horse carriage"
+
+#. <br>
+msgctxt "thig13.4:18.2"
+msgid "sahassañcāpi brāhmaṇi;"
+msgstr "1000 pieces and charioteer, brahman-lady"
+
+#. <br>
+msgctxt "thig13.4:18.3"
+msgid "Ahampi pabbajissāmi,"
+msgstr "I’ll go forth"
+
+#. <br>
+msgctxt "thig13.4:18.4"
+msgid "varapaññassa santike”."
+msgstr "In the presence of this man of splendid wisdom.”"
+
+#. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
+#. id="verse-num-sc328"></a><a class="verse-num-pts"
+#. id="verse-num-pts327"></a><a class="pts" id="pts155"></a>
+msgctxt "thig13.4:19.1"
+msgid "“Hatthī gavassaṃ maṇikuṇḍalañca,"
+msgstr "“Elephants, cattle, jewellery"
+
+#. <br>
+msgctxt "thig13.4:19.2"
+msgid "Phītañcimaṃ gahavibhavaṃ pahāya;"
+msgstr "Rich domestic wealth:"
+
+#. <br>
+msgctxt "thig13.4:19.3"
+msgid "Pitā pabbajito tuyhaṃ,"
+msgstr "Having abandoned it, your father went forth"
+
+#. <br>
+msgctxt "thig13.4:19.4"
+msgid "Bhuñja bhogāni sundarī;"
+msgstr "Enjoy these enjoyments Sundarī"
+
+#. <br>
+msgctxt "thig13.4:19.5"
+msgid "Tuvaṃ dāyādikā kule”."
+msgstr "You’re the family’s heir”"
+
+#. </p><p><a class="sc" id="17"></a><a class="verse-num-sc"
+#. id="verse-num-sc329"></a><a class="verse-num-pts" id="verse-num-pts328"></a>
+msgctxt "thig13.4:20.1"
+msgid "“Hatthī gavassaṃ maṇikuṇḍalañca,"
+msgstr "“Elephants, cattle, jewllery"
+
+#. <br>
+msgctxt "thig13.4:20.2"
+msgid "Rammaṃ cimaṃ gahavibhavaṃ pahāya;"
+msgstr "Delightful domestic weath:"
+
+#. <br>
+msgctxt "thig13.4:20.3"
+msgid "Pitā pabbajito mayhaṃ,"
+msgstr "Having abandoned it, my father went forth"
+
+#. <br>
+msgctxt "thig13.4:20.4"
+msgid "Puttasokena aṭṭito;"
+msgstr "Afflicted by grief for his son"
+
+#. <br>
+msgctxt "thig13.4:20.5"
+msgid "Ahampi pabbajissāmi,"
+msgstr "Now I’ll go forth"
+
+#. <br>
+msgctxt "thig13.4:20.6"
+msgid "Bhātusokena aṭṭitā”."
+msgstr "Afflicted by grief for my brother”"
+
+#. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
+#. id="verse-num-sc330"></a><a class="verse-num-pts" id="verse-num-pts329"></a>
+msgctxt "thig13.4:21.1"
+msgid "“So te ijjhatu saṅkappo,"
+msgstr "“Sundarī"
+
+#. <br>
+msgctxt "thig13.4:21.2"
+msgid "yaṃ tvaṃ patthesi sundarī;"
+msgstr "May your desired intention succeed"
+
+#. <br>
+msgctxt "thig13.4:21.3"
+msgid "Uttiṭṭhapiṇḍo uñcho ca,"
+msgstr "With left overs and anything gathered for sustenance as food"
+
+#. <br>
+msgctxt "thig13.4:21.4"
+msgid "paṃsukūlañca cīvaraṃ;"
+msgstr "Rags from the rubbish-heap as robes:"
+
+#. <br>
+msgctxt "thig13.4:21.5"
+msgid "Etāni abhisambhontī,"
+msgstr "These are sufficient"
+
+#. <br>
+msgctxt "thig13.4:21.6"
+msgid "paraloke anāsavā”."
+msgstr "You’ll be taintless in the next world”"
+
+#. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
+#. id="verse-num-sc331"></a><a class="verse-num-pts" id="verse-num-pts330"></a>
+msgctxt "thig13.4:22.1"
+msgid "“Sikkhamānāya me ayye,"
+msgstr "“Lady, as I train"
+
+#. <br>
+msgctxt "thig13.4:22.2"
+msgid "dibbacakkhu visodhitaṃ;"
+msgstr "My divine eye is purified"
+
+#. <br>
+msgctxt "thig13.4:22.3"
+msgid "Pubbenivāsaṃ jānāmi,"
+msgstr "I know my past abodes"
+
+#. <br>
+msgctxt "thig13.4:22.4"
+msgid "yattha me vusitaṃ pure."
+msgstr "Where I previously dwelt"
+
+#. </p><p><a class="sc" id="20"></a><a class="verse-num-sc"
+#. id="verse-num-sc332"></a><a class="verse-num-pts" id="verse-num-pts331"></a>
+msgctxt "thig13.4:23.1"
+msgid "Tuvaṃ nissāya kalyāṇi,"
+msgstr "Depending on a good one like you"
+
+#. <br>
+msgctxt "thig13.4:23.2"
+msgid "theri saṃghassa sobhane;"
+msgstr "The beauty of the senior nuns order"
+
+#. <br>
+msgctxt "thig13.4:23.3"
+msgid "Tisso vijjā anuppattā,"
+msgstr "I've realised the three true knowledges"
+
+#. <br>
+msgctxt "thig13.4:23.4"
+msgid "kataṃ buddhassa sāsanaṃ."
+msgstr "I've done what Buddha taught"
+
+#. </p><p><a class="sc" id="21"></a><a class="verse-num-sc"
+#. id="verse-num-sc333"></a><a class="verse-num-pts" id="verse-num-pts332"></a>
+msgctxt "thig13.4:24.1"
+msgid "Anujānāhi me ayye,"
+msgstr "Give me permission noble lady"
+
+#. <br>
+msgctxt "thig13.4:24.2"
+msgid "icche sāvatthi gantave;"
+msgstr "I wish to go from Sāvatthi"
+
+#. <br>
+msgctxt "thig13.4:24.3"
+msgid "Sīhanādaṃ nadissāmi,"
+msgstr "In the presence of the best of Buddhas"
+
+#. <br>
+msgctxt "thig13.4:24.4"
+msgid "buddhaseṭṭhassa santike”."
+msgstr "I’ll roar a lion’s roar"
+
+#. </p><p><a class="sc" id="22"></a><a class="verse-num-sc"
+#. id="verse-num-sc334"></a><a class="verse-num-pts" id="verse-num-pts333"></a>
+msgctxt "thig13.4:25.1"
+msgid "“Passa sundari satthāraṃ,"
+msgstr "See the teacher Sundarī"
+
+#. <br>
+msgctxt "thig13.4:25.2"
+msgid "hemavaṇṇaṃ harittacaṃ;"
+msgstr "Golden coloured, golden skinned"
+
+#. <br>
+msgctxt "thig13.4:25.3"
+msgid "Adantānaṃ dametāraṃ,"
+msgstr "Tamer of the untamed"
+
+#. <br>
+msgctxt "thig13.4:25.4"
+msgid "sambuddhamakutobhayaṃ”."
+msgstr "The Enlightened One, fearing nothing from any quarter"
+
+#. </p><p><a class="sc" id="23"></a><a class="verse-num-sc"
+#. id="verse-num-sc335"></a><a class="verse-num-pts" id="verse-num-pts334"></a>
+msgctxt "thig13.4:26.1"
+msgid "“Passa sundarimāyantiṃ,"
+msgstr "See Sundarī coming"
+
+#. <br>
+msgctxt "thig13.4:26.2"
+msgid "vippamuttaṃ nirūpadhiṃ;"
+msgstr "Completely released, without basis for rebirth"
+
+#. <br>
+msgctxt "thig13.4:26.3"
+msgid "Vītarāgaṃ visaṃyuttaṃ,"
+msgstr "Desireless, without fetters"
+
+#. <br>
+msgctxt "thig13.4:26.4"
+msgid "katakiccamanāsavaṃ."
+msgstr "Her task completed, without defilements.”"
+
+#. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
+#. id="verse-num-sc336"></a><a class="verse-num-pts" id="verse-num-pts335"></a>
+msgctxt "thig13.4:27.1"
+msgid "Bārāṇasito nikkhamma,"
+msgstr "“Having set forth from Bārāṇasī"
+
+#. <br>
+msgctxt "thig13.4:27.2"
+msgid "tava santikamāgatā;"
+msgstr "Having come to your presence"
+
+#. <br>
+msgctxt "thig13.4:27.3"
+msgid "Sāvikā te mahāvīra,"
+msgstr "Disciple Sundarī"
+
+#. <br>
+msgctxt "thig13.4:27.4"
+msgid "pāde vandati sundarī."
+msgstr "Venerating your feet, great hero"
+
+#. </p><p><a class="sc" id="25"></a><a class="verse-num-sc"
+#. id="verse-num-sc337"></a><a class="verse-num-pts" id="verse-num-pts336"></a>
+msgctxt "thig13.4:28.1"
+msgid "Tuvaṃ buddho tuvaṃ satthā,"
+msgstr "You’re Buddha, you’re the teacher"
+
+#. <br>
+msgctxt "thig13.4:28.2"
+msgid "tuyhaṃ dhītāmhi brāhmaṇa;"
+msgstr "I’m your daughter, Brahman"
+
+#. <br>
+msgctxt "thig13.4:28.3"
+msgid "Orasā mukhato jātā,"
+msgstr "rightful, born from your mouth"
+
+#. <br>
+msgctxt "thig13.4:28.4"
+msgid "katakiccā anāsavā”."
+msgstr "My task is completed, I’m without defilements.”"
+
+#. </p><p><a class="sc" id="26"></a><a class="verse-num-sc"
+#. id="verse-num-sc338"></a><a class="verse-num-pts"
+#. id="verse-num-pts337"></a><a class="pts" id="pts156"></a>
+msgctxt "thig13.4:29.1"
+msgid "“Tassā te svāgataṃ bhadde,"
+msgstr "“It was welcome, good lady"
+
+#. <br>
+msgctxt "thig13.4:29.2"
+msgid "<span class=\"var\" title=\"atho (mr)\" id=\"note103\">tato</span> te adurāgataṃ;"
+msgstr "Not unwelcome "
+
+#. <br>
+msgctxt "thig13.4:29.3"
+msgid "Evañhi dantā āyanti,"
+msgstr "In this way the tamed come"
+
+#. <br>
+msgctxt "thig13.4:29.4"
+msgid "satthu pādāni vandikā;"
+msgstr "Venerating the teacher’s feet"
+
+#. <br>
+msgctxt "thig13.4:29.5"
+msgid "Vītarāgā visaṃyuttā,"
+msgstr "Desireless, unfettered"
+
+#. <br>
+msgctxt "thig13.4:29.6"
+msgid "katakiccā anāsavā”."
+msgstr "Their task completed, without defilements.”"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="27"></a>
+msgctxt "thig13.4:30.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig13.4:30.2"
+msgid "Sundarī therī …."
+msgstr ""

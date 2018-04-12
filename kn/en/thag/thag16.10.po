@@ -1,0 +1,712 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-04-26 02:44+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1493174651.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag16.10"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag16.10:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag16.10:2.1"
+msgid "Vīsatinipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag16.10:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag16.10:4.1"
+msgid "<span class=\"var\" title=\"pārāsariyattheragāthā (bj)\" id=\"note414\">16.10 Pārāpariyattheragāthā</span>"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc920"></a><a class="verse-num-pts"
+#. id="verse-num-pts920"></a>
+msgctxt "thag16.10:5.1"
+msgid "Samaṇassa ahu cintā,"
+msgstr "While the ascetic practiced jhāna,"
+
+#. <br>
+msgctxt "thag16.10:5.2"
+msgid "pupphitamhi mahāvane;"
+msgstr "Seated in seclusion, unified,"
+
+#. <br>
+msgctxt "thag16.10:5.3"
+msgid "Ekaggassa nisinnassa,"
+msgstr "In the forest full of flowers,"
+
+#. <br>
+msgctxt "thag16.10:5.4"
+msgid "pavivittassa jhāyino."
+msgstr "This thought came to him:"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc921"></a><a class="verse-num-pts" id="verse-num-pts921"></a>
+msgctxt "thag16.10:6.1"
+msgid "“Aññathā lokanāthamhi,"
+msgstr "“The behaviour of the monks"
+
+#. <br>
+msgctxt "thag16.10:6.2"
+msgid "tiṭṭhante purisuttame;"
+msgstr "These days seems different"
+
+#. <br>
+msgctxt "thag16.10:6.3"
+msgid "Iriyaṃ āsi bhikkhūnaṃ,"
+msgstr "From when the lord of the world,"
+
+#. <br>
+msgctxt "thag16.10:6.4"
+msgid "aññathā dāni dissati."
+msgstr "The best of men, was still here."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc922"></a><a class="verse-num-pts" id="verse-num-pts922"></a>
+msgctxt "thag16.10:7.1"
+msgid "Sītavātaparittāṇaṃ,"
+msgstr "Their robes were only for covering the private parts,"
+
+#. <br>
+msgctxt "thag16.10:7.2"
+msgid "hirikopīnachādanaṃ;"
+msgstr "And protection from the cold and wind;"
+
+#. <br>
+msgctxt "thag16.10:7.3"
+msgid "Mattaṭṭhiyaṃ abhuñjiṃsu,"
+msgstr "They ate in moderation,"
+
+#. <br>
+msgctxt "thag16.10:7.4"
+msgid "santuṭṭhā itarītare."
+msgstr "Content with whatever they were offered."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc923"></a><a class="verse-num-pts" id="verse-num-pts923"></a>
+msgctxt "thag16.10:8.1"
+msgid "Paṇītaṃ yadi vā lūkhaṃ,"
+msgstr "Whether refined or rough,"
+
+#. <br>
+msgctxt "thag16.10:8.2"
+msgid "appaṃ vā yadi vā bahuṃ;"
+msgstr "Little or much,"
+
+#. <br>
+msgctxt "thag16.10:8.3"
+msgid "Yāpanatthaṃ abhuñjiṃsu,"
+msgstr "They ate only for sustenance,"
+
+#. <br>
+msgctxt "thag16.10:8.4"
+msgid "agiddhā nādhimucchitā."
+msgstr "Without greed or gluttony."
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc924"></a><a class="verse-num-pts"
+#. id="verse-num-pts924"></a><a class="pts" id="pts85"></a>
+msgctxt "thag16.10:9.1"
+msgid "Jīvitānaṃ parikkhāre,"
+msgstr "They weren’t so very eager,"
+
+#. <br>
+msgctxt "thag16.10:9.2"
+msgid "bhesajje atha paccaye;"
+msgstr "For the requisites of life,"
+
+#. <br>
+msgctxt "thag16.10:9.3"
+msgid "Na bāḷhaṃ ussukā āsuṃ,"
+msgstr "Such as tonics and other necessities,"
+
+#. <br>
+msgctxt "thag16.10:9.4"
+msgid "yathā te āsavakkhaye."
+msgstr "As they were for the end of defilements."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc925"></a><a class="verse-num-pts" id="verse-num-pts925"></a>
+msgctxt "thag16.10:10.1"
+msgid "Araññe rukkhamūlesu,"
+msgstr "In the wilderness, at the foot of trees,"
+
+#. <br>
+msgctxt "thag16.10:10.2"
+msgid "kandarāsu guhāsu ca;"
+msgstr "In caves and caverns,"
+
+#. <br>
+msgctxt "thag16.10:10.3"
+msgid "Vivekamanubrūhantā,"
+msgstr "Committed to seclusion,"
+
+#. <br>
+msgctxt "thag16.10:10.4"
+msgid "vihaṃsu tapparāyaṇā."
+msgstr "They lived with that as their final goal."
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc926"></a><a class="verse-num-pts" id="verse-num-pts926"></a>
+msgctxt "thag16.10:11.1"
+msgid "Nīcā niviṭṭhā subharā,"
+msgstr "They were used to simple things, and were easy to look after,"
+
+#. <br>
+msgctxt "thag16.10:11.2"
+msgid "mudū atthaddhamānasā;"
+msgstr "Gentle, their hearts not stubborn,"
+
+#. <br>
+msgctxt "thag16.10:11.3"
+msgid "Abyāsekā amukharā,"
+msgstr "Unsullied, not talkative,"
+
+#. <br>
+msgctxt "thag16.10:11.4"
+msgid "atthacintā vasānugā."
+msgstr "Their minds were intent on the goal."
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc927"></a><a class="verse-num-pts" id="verse-num-pts927"></a>
+msgctxt "thag16.10:12.1"
+msgid "Tato pāsādikaṃ āsi,"
+msgstr "In this way they inspired confidence,"
+
+#. <br>
+msgctxt "thag16.10:12.2"
+msgid "gataṃ bhuttaṃ nisevitaṃ;"
+msgstr "In their movements, eating, and practice;"
+
+#. <br>
+msgctxt "thag16.10:12.3"
+msgid "Siniddhā teladhārāva,"
+msgstr "Their deportment was smooth"
+
+#. <br>
+msgctxt "thag16.10:12.4"
+msgid "ahosi iriyāpatho."
+msgstr "As a stream of oil."
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc928"></a><a class="verse-num-pts" id="verse-num-pts928"></a>
+msgctxt "thag16.10:13.1"
+msgid "Sabbāsavaparikkhīṇā,"
+msgstr "With the ending of all defilements,"
+
+#. <br>
+msgctxt "thag16.10:13.2"
+msgid "mahājhāyī mahāhitā;"
+msgstr "Those senior monks have now realised nibbāna;"
+
+#. <br>
+msgctxt "thag16.10:13.3"
+msgid "Nibbutā dāni te therā,"
+msgstr "They were great meditators and great benefactors—"
+
+#. <br>
+msgctxt "thag16.10:13.4"
+msgid "parittā dāni tādisā."
+msgstr "There are few like them today."
+
+#. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
+#. id="verse-num-sc929"></a><a class="verse-num-pts" id="verse-num-pts929"></a>
+msgctxt "thag16.10:14.1"
+msgid "Kusalānañca dhammānaṃ,"
+msgstr "With the ending"
+
+#. <br>
+msgctxt "thag16.10:14.2"
+msgid "paññāya ca parikkhayā;"
+msgstr "Of good principles and understanding,"
+
+#. <br>
+msgctxt "thag16.10:14.3"
+msgid "Sabbākāravarūpetaṃ,"
+msgstr "The conqueror’s teaching,"
+
+#. <br>
+msgctxt "thag16.10:14.4"
+msgid "lujjate jinasāsanaṃ."
+msgstr "Full of all excellent qualities, has fallen apart."
+
+#. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
+#. id="verse-num-sc930"></a><a class="verse-num-pts" id="verse-num-pts930"></a>
+msgctxt "thag16.10:15.1"
+msgid "Pāpakānañca dhammānaṃ,"
+msgstr "This is the season"
+
+#. <br>
+msgctxt "thag16.10:15.2"
+msgid "kilesānañca yo utu;"
+msgstr "For bad principles and defilements."
+
+#. <br>
+msgctxt "thag16.10:15.3"
+msgid "Upaṭṭhitā vivekāya,"
+msgstr "Those who are ready for seclusion"
+
+#. <br>
+msgctxt "thag16.10:15.4"
+msgid "ye ca saddhammasesakā."
+msgstr "Are all that’s left of the true Dhamma."
+
+#. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
+#. id="verse-num-sc931"></a><a class="verse-num-pts" id="verse-num-pts931"></a>
+msgctxt "thag16.10:16.1"
+msgid "Te kilesā pavaḍḍhantā,"
+msgstr "As they grow, the defilements"
+
+#. <br>
+msgctxt "thag16.10:16.2"
+msgid "āvisanti bahuṃ janaṃ;"
+msgstr "Possess many people;"
+
+#. <br>
+msgctxt "thag16.10:16.3"
+msgid "Kīḷanti maññe bālehi,"
+msgstr "They play with fools, it seems to me,"
+
+#. <br>
+msgctxt "thag16.10:16.4"
+msgid "ummattehiva rakkhasā."
+msgstr "Like demons with the mad."
+
+#. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
+#. id="verse-num-sc932"></a><a class="verse-num-pts" id="verse-num-pts932"></a>
+msgctxt "thag16.10:17.1"
+msgid "Kilesehābhibhūtā te,"
+msgstr "Overcome by defilements,"
+
+#. <br>
+msgctxt "thag16.10:17.2"
+msgid "tena tena vidhāvitā;"
+msgstr "They run here and there"
+
+#. <br>
+msgctxt "thag16.10:17.3"
+msgid "Narā kilesavatthūsu,"
+msgstr "Among the causes for defilement,"
+
+#. <br>
+msgctxt "thag16.10:17.4"
+msgid "<span class=\"var\" title=\"sayaṃgāheva (s2, s3, pts1)\" id=\"note415\">sasaṅgāmeva</span> ghosite."
+msgstr "As if they had declared war on themselves."
+
+#. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
+#. id="verse-num-sc933"></a><a class="verse-num-pts" id="verse-num-pts933"></a>
+msgctxt "thag16.10:18.1"
+msgid "Pariccajitvā saddhammaṃ,"
+msgstr "Having abandoned true Dhamma,"
+
+#. <br>
+msgctxt "thag16.10:18.2"
+msgid "aññamaññehi bhaṇḍare;"
+msgstr "They argue with each other;"
+
+#. <br>
+msgctxt "thag16.10:18.3"
+msgid "Diṭṭhigatāni anventā,"
+msgstr "Following wrong views"
+
+#. <br>
+msgctxt "thag16.10:18.4"
+msgid "idaṃ seyyoti maññare."
+msgstr "They think, ‘This is better.’"
+
+#. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
+#. id="verse-num-sc934"></a><a class="verse-num-pts" id="verse-num-pts934"></a>
+msgctxt "thag16.10:19.1"
+msgid "Dhanañca puttaṃ bhariyañca,"
+msgstr "They cut off their wealth,"
+
+#. <br>
+msgctxt "thag16.10:19.2"
+msgid "chaḍḍayitvāna niggatā;"
+msgstr "Children, and wife to go forth;"
+
+#. <br>
+msgctxt "thag16.10:19.3"
+msgid "Kaṭacchubhikkhahetūpi,"
+msgstr "But then they do what they shouldn’t,"
+
+#. <br>
+msgctxt "thag16.10:19.4"
+msgid "akicchāni nisevare."
+msgstr "For the sake of a measly spoon of alms-food."
+
+#. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
+#. id="verse-num-sc935"></a><a class="verse-num-pts" id="verse-num-pts935"></a>
+msgctxt "thag16.10:20.1"
+msgid "Udarāvadehakaṃ bhutvā,"
+msgstr "They eat until their bellies are full,"
+
+#. <br>
+msgctxt "thag16.10:20.2"
+msgid "sayantuttānaseyyakā;"
+msgstr "And then they lie to sleep on their backs."
+
+#. <br>
+msgctxt "thag16.10:20.3"
+msgid "<span class=\"var\" title=\"kathā vaḍḍhenti (bj, mr) | kathā vadenti (pts1)\" id=\"note416\">Kathaṃ vattenti</span> paṭibuddhā,"
+msgstr "When they wake again, they keep on talking,"
+
+#. <br>
+msgctxt "thag16.10:20.4"
+msgid "yā kathā satthugarahitā."
+msgstr "The kind of talk that the teacher criticized."
+
+#. </p><p><a class="sc" id="17"></a><a class="verse-num-sc"
+#. id="verse-num-sc936"></a><a class="verse-num-pts" id="verse-num-pts936"></a>
+msgctxt "thag16.10:21.1"
+msgid "Sabbakārukasippāni,"
+msgstr "Valuing all the arts and crafts,"
+
+#. <br>
+msgctxt "thag16.10:21.2"
+msgid "cittiṃ <span class=\"var\" title=\"cittīkatvāna (bj) | cittaṃ katvāna (s2, s3) | cittikatvāna (pts1-2)\" id=\"note417\">katvāna</span> sikkhare;"
+msgstr "They train themselves in them;"
+
+#. <br>
+msgctxt "thag16.10:21.3"
+msgid "Avūpasantā ajjhattaṃ,"
+msgstr "Not being settled inside,"
+
+#. <br>
+msgctxt "thag16.10:21.4"
+msgid "<span class=\"var\" title=\"tiriñcati (?)\" id=\"note418\">sāmaññatthotiacchati</span>."
+msgstr "They think, ‘This is the purpose of the ascetic life’."
+
+#. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
+#. id="verse-num-sc937"></a><a class="verse-num-pts" id="verse-num-pts937"></a>
+msgctxt "thag16.10:22.1"
+msgid "Mattikaṃ telacuṇṇañca,"
+msgstr "They provide clay, oil, and talcum powder,"
+
+#. <br>
+msgctxt "thag16.10:22.2"
+msgid "udakāsanabhojanaṃ;"
+msgstr "Water, lodgings, and food"
+
+#. <br>
+msgctxt "thag16.10:22.3"
+msgid "Gihīnaṃ upanāmenti,"
+msgstr "For householders,"
+
+#. <br>
+msgctxt "thag16.10:22.4"
+msgid "ākaṅkhantā bahuttaraṃ."
+msgstr "Expecting more in return."
+
+#. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
+#. id="verse-num-sc938"></a><a class="verse-num-pts" id="verse-num-pts938"></a>
+msgctxt "thag16.10:23.1"
+msgid "Dantaponaṃ kapitthañca,"
+msgstr "As well as tooth-picks, wood-apples,"
+
+#. <br>
+msgctxt "thag16.10:23.2"
+msgid "pupphaṃ khādaniyāni ca;"
+msgstr "Flowers, food to eat,"
+
+#. <br>
+msgctxt "thag16.10:23.3"
+msgid "Piṇḍapāte ca sampanne,"
+msgstr "Well-cooked alms-food,"
+
+#. <br>
+msgctxt "thag16.10:23.4"
+msgid "ambe āmalakāni ca."
+msgstr "Mangoes and myrobalans."
+
+#. </p><p><a class="sc" id="20"></a><a class="verse-num-sc"
+#. id="verse-num-sc939"></a><a class="verse-num-pts" id="verse-num-pts939"></a>
+msgctxt "thag16.10:24.1"
+msgid "Bhesajjesu yathā vejjā,"
+msgstr "In medicine they are like doctors,"
+
+#. <br>
+msgctxt "thag16.10:24.2"
+msgid "kiccākicce yathā gihī;"
+msgstr "In business like householders,"
+
+#. <br>
+msgctxt "thag16.10:24.3"
+msgid "Gaṇikāva vibhūsāyaṃ,"
+msgstr "In decoration like prostitutes,"
+
+#. <br>
+msgctxt "thag16.10:24.4"
+msgid "issare khattiyā yathā."
+msgstr "In sovereignty like lords."
+
+#. </p><p><a class="sc" id="21"></a><a class="verse-num-sc"
+#. id="verse-num-sc940"></a><a class="verse-num-pts"
+#. id="verse-num-pts940"></a><a class="pts" id="pts86"></a>
+msgctxt "thag16.10:25.1"
+msgid "Nekatikā vañcanikā,"
+msgstr "Cheats, frauds,"
+
+#. <br>
+msgctxt "thag16.10:25.2"
+msgid "kūṭasakkhī <span class=\"var\" title=\"avāṭukā (s2, s3, pts1)\" id=\"note419\">apāṭukā</span>;"
+msgstr "False witnesses, sly:"
+
+#. <br>
+msgctxt "thag16.10:25.3"
+msgid "Bahūhi parikappehi,"
+msgstr "Using multiple plans,"
+
+#. <br>
+msgctxt "thag16.10:25.4"
+msgid "āmisaṃ paribhuñjare."
+msgstr "They enjoy material things."
+
+#. </p><p><a class="sc" id="22"></a><a class="verse-num-sc"
+#. id="verse-num-sc941"></a><a class="verse-num-pts" id="verse-num-pts941"></a>
+msgctxt "thag16.10:26.1"
+msgid "Lesakappe pariyāye,"
+msgstr "Pursuing shams, contrivances, and plans,"
+
+#. <br>
+msgctxt "thag16.10:26.2"
+msgid "parikappenudhāvitā;"
+msgstr "By this means"
+
+#. <br>
+msgctxt "thag16.10:26.3"
+msgid "Jīvikatthā upāyena,"
+msgstr "They accumulate a lot of wealth"
+
+#. <br>
+msgctxt "thag16.10:26.4"
+msgid "saṅkaḍḍhanti bahuṃ dhanaṃ."
+msgstr "For the sake of their livelihood."
+
+#. </p><p><a class="sc" id="23"></a><a class="verse-num-sc"
+#. id="verse-num-sc942"></a><a class="verse-num-pts" id="verse-num-pts942"></a>
+msgctxt "thag16.10:27.1"
+msgid "Upaṭṭhāpenti parisaṃ,"
+msgstr "They assemble the community"
+
+#. <br>
+msgctxt "thag16.10:27.2"
+msgid "kammato no ca dhammato;"
+msgstr "For business rather than Dhamma."
+
+#. <br>
+msgctxt "thag16.10:27.3"
+msgid "Dhammaṃ paresaṃ desenti,"
+msgstr "They teach the Dhamma to others"
+
+#. <br>
+msgctxt "thag16.10:27.4"
+msgid "lābhato no ca atthato."
+msgstr "For gain, not for the goal."
+
+#. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
+#. id="verse-num-sc943"></a><a class="verse-num-pts" id="verse-num-pts943"></a>
+msgctxt "thag16.10:28.1"
+msgid "Saṃghalābhassa bhaṇḍanti,"
+msgstr "Those outside the Saṅgha"
+
+#. <br>
+msgctxt "thag16.10:28.2"
+msgid "saṃghato paribāhirā;"
+msgstr "Quarrel over the Saṅgha’s property."
+
+#. <br>
+msgctxt "thag16.10:28.3"
+msgid "Paralābhopajīvantā,"
+msgstr "They’re shameless, and do not care"
+
+#. <br>
+msgctxt "thag16.10:28.4"
+msgid "ahirīkā na lajjare."
+msgstr "That they live on someone else’s property."
+
+#. </p><p><a class="sc" id="25"></a><a class="verse-num-sc"
+#. id="verse-num-sc944"></a><a class="verse-num-pts" id="verse-num-pts944"></a>
+msgctxt "thag16.10:29.1"
+msgid "Nānuyuttā tathā eke,"
+msgstr "Some who have a shaven head and wear the outer robe,"
+
+#. <br>
+msgctxt "thag16.10:29.2"
+msgid "muṇḍā saṅghāṭipārutā;"
+msgstr "Are not devoted to practice,"
+
+#. <br>
+msgctxt "thag16.10:29.3"
+msgid "Sambhāvanaṃyevicchanti,"
+msgstr "But wish only to be honored,"
+
+#. <br>
+msgctxt "thag16.10:29.4"
+msgid "lābhasakkāramucchitā."
+msgstr "Stupefied with property and reverence."
+
+#. </p><p><a class="sc" id="26"></a><a class="verse-num-sc"
+#. id="verse-num-sc945"></a><a class="verse-num-pts" id="verse-num-pts945"></a>
+msgctxt "thag16.10:30.1"
+msgid "Evaṃ nānappayātamhi,"
+msgstr "When things have come to this,"
+
+#. <br>
+msgctxt "thag16.10:30.2"
+msgid "na dāni sukaraṃ tathā;"
+msgstr "It’s not easy these days"
+
+#. <br>
+msgctxt "thag16.10:30.3"
+msgid "Aphusitaṃ vā phusituṃ,"
+msgstr "To realise what has not yet been realised,"
+
+#. <br>
+msgctxt "thag16.10:30.4"
+msgid "phusitaṃ vānurakkhituṃ."
+msgstr "Or to preserve what has been realised."
+
+#. </p><p><a class="sc" id="27"></a><a class="verse-num-sc"
+#. id="verse-num-sc946"></a><a class="verse-num-pts" id="verse-num-pts946"></a>
+msgctxt "thag16.10:31.1"
+msgid "Yathā kaṇṭakaṭṭhānamhi,"
+msgstr "A person with mindfulness established"
+
+#. <br>
+msgctxt "thag16.10:31.2"
+msgid "careyya anupāhano;"
+msgstr "Could walk without shoes"
+
+#. <br>
+msgctxt "thag16.10:31.3"
+msgid "Satiṃ upaṭṭhapetvāna,"
+msgstr "Even in a thorny place;"
+
+#. <br>
+msgctxt "thag16.10:31.4"
+msgid "evaṃ gāme munī care."
+msgstr "That is how a sage should walk in the village."
+
+#. </p><p><a class="sc" id="28"></a><a class="verse-num-sc"
+#. id="verse-num-sc947"></a><a class="verse-num-pts" id="verse-num-pts947"></a>
+msgctxt "thag16.10:32.1"
+msgid "Saritvā pubbake yogī,"
+msgstr "Remembering the meditators of old,"
+
+#. <br>
+msgctxt "thag16.10:32.2"
+msgid "tesaṃ vattamanussaraṃ;"
+msgstr "And recollecting their conduct;"
+
+#. <br>
+msgctxt "thag16.10:32.3"
+msgid "Kiñcāpi pacchimo kālo,"
+msgstr "Even in the latter days,"
+
+#. <br>
+msgctxt "thag16.10:32.4"
+msgid "phuseyya amataṃ padaṃ."
+msgstr "It is still possible to realise the deathless.”"
+
+#. </p><p><a class="sc" id="29"></a><a class="verse-num-sc"
+#. id="verse-num-sc948"></a><a class="verse-num-pts" id="verse-num-pts948"></a>
+msgctxt "thag16.10:33.1"
+msgid "Idaṃ vatvā sālavane,"
+msgstr "That is what the ascetic, whose faculties"
+
+#. <br>
+msgctxt "thag16.10:33.2"
+msgid "samaṇo bhāvitindriyo;"
+msgstr "Were fully developed, said in the sāla tree grove."
+
+#. <br>
+msgctxt "thag16.10:33.3"
+msgid "Brāhmaṇo parinibbāyī,"
+msgstr "The holy man, the sage, realised nibbāna:"
+
+#. <br>
+msgctxt "thag16.10:33.4"
+msgid "isi khīṇapunabbhavo”ti."
+msgstr "Ending more rebirth into any state of existence."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag16.10:34.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag16.10:34.2"
+msgid "<span class=\"var\" title=\"pārāsariyo (bj, s2, s3)\" id=\"note420\">Pārāpariyo</span> thero …."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "thag16.10:35.1"
+msgid "Vīsatinipāto niṭṭhito."
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "thag16.10:36.1"
+msgid "Tatruddānaṃ"
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p><a class="sc" id="30"></a>
+msgctxt "thag16.10:37.1"
+msgid "Adhimutto pārāpariyo,"
+msgstr ""
+
+#. <br>
+msgctxt "thag16.10:37.2"
+msgid "telakāni raṭṭhapālo;"
+msgstr ""
+
+#. <br>
+msgctxt "thag16.10:37.3"
+msgid "Mālukyaselo bhaddiyo,"
+msgstr ""
+
+#. <br>
+msgctxt "thag16.10:37.4"
+msgid "aṅguli dibbacakkhuko;"
+msgstr ""
+
+#. <br>
+msgctxt "thag16.10:37.5"
+msgid "Pārāpariyo dasete,"
+msgstr ""
+
+#. <br>
+msgctxt "thag16.10:37.6"
+msgid "vīsamhi parikittitā;"
+msgstr ""
+
+#. <br>
+msgctxt "thag16.10:37.7"
+msgid "Gāthāyo dve satā honti,"
+msgstr ""
+
+#. <br>
+msgctxt "thag16.10:37.8"
+msgid "<span class=\"var\" title=\"244 gāthāyoyeva\" id=\"note421\">pañcatālīsa</span> uttarinti."
+msgstr ""

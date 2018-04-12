@@ -1,0 +1,272 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2017-05-02 08:33+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1493713992.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag9.1"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag9.1:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag9.1:2.1"
+msgid "Navakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag9.1:3.1"
+msgid "Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag9.1:4.1"
+msgid "9.1. Bhūtattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc518"></a><a class="verse-num-pts"
+#. id="verse-num-pts518"></a><a class="pts" id="pts54"></a>
+msgctxt "thag9.1:5.1"
+msgid "“Yadā dukkhaṃ jarāmaraṇanti paṇḍito,"
+msgstr "When a wise person fully understands that old age and death—"
+
+#. <br>
+msgctxt "thag9.1:5.2"
+msgid "Aviddasū yattha sitā puthujjanā;"
+msgstr "To which an ignorant unawakened person is bound—"
+
+#. <br>
+msgctxt "thag9.1:5.3"
+msgid "Dukkhaṃ pariññāya satova jhāyati,"
+msgstr "Are suffering; and they are mindful, practising jhāna:"
+
+#. <br>
+msgctxt "thag9.1:5.4"
+msgid "Tato ratiṃ paramataraṃ na vindati."
+msgstr "There is no greater pleasure than this."
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc519"></a><a class="verse-num-pts" id="verse-num-pts519"></a>
+msgctxt "thag9.1:6.1"
+msgid "Yadā dukkhassāvahaniṃ visattikaṃ,"
+msgstr "When attachment, the carrier of suffering,"
+
+#. <br>
+msgctxt "thag9.1:6.2"
+msgid "Papañcasaṅghātadukhādhivāhiniṃ;"
+msgstr ""
+"And craving, the carrier of the suffering of this tangle of proliferation,"
+
+#. <br>
+msgctxt "thag9.1:6.3"
+msgid "Taṇhaṃ pahantvāna satova jhāyati,"
+msgstr "Are destroyed; and they are mindful, practising jhāna:"
+
+#. <br>
+msgctxt "thag9.1:6.4"
+msgid "Tato ratiṃ paramataraṃ na vindati."
+msgstr "There is no greater pleasure than this."
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc520"></a><a class="verse-num-pts" id="verse-num-pts520"></a>
+msgctxt "thag9.1:7.1"
+msgid "Yadā sivaṃ dvecaturaṅgagāminaṃ,"
+msgstr "When the blissful eightfold way,"
+
+#. <br>
+msgctxt "thag9.1:7.2"
+msgid "Magguttamaṃ sabbakilesasodhanaṃ;"
+msgstr "The supreme path, cleanser of all stains,"
+
+#. <br>
+msgctxt "thag9.1:7.3"
+msgid "Paññāya passitva satova jhāyati,"
+msgstr "Is seen with wisdom; and they are mindful, practising jhāna:"
+
+#. <br>
+msgctxt "thag9.1:7.4"
+msgid "Tato ratiṃ paramataraṃ na vindati."
+msgstr "There is no greater pleasure than this."
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc521"></a><a class="verse-num-pts" id="verse-num-pts521"></a>
+msgctxt "thag9.1:8.1"
+msgid "Yadā asokaṃ virajaṃ asaṅkhataṃ,"
+msgstr "When one develops that peaceful state,"
+
+#. <br>
+msgctxt "thag9.1:8.2"
+msgid "Santaṃ padaṃ sabbakilesasodhanaṃ;"
+msgstr "Sorrowless, stainless, unconditioned,"
+
+#. <br>
+msgctxt "thag9.1:8.3"
+msgid "Bhāveti saṃyojanabandhanacchidaṃ,"
+msgstr "Cleanser of all stains, and cutter of fetters and bonds:"
+
+#. <br>
+msgctxt "thag9.1:8.4"
+msgid "Tato ratiṃ paramataraṃ na vindati."
+msgstr "There is no greater pleasure than this."
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc522"></a><a class="verse-num-pts" id="verse-num-pts522"></a>
+msgctxt "thag9.1:9.1"
+msgid "Yadā nabhe gajjati meghadundubhi,"
+msgstr "When the thunder-cloud rumbles in the sky,"
+
+#. <br>
+msgctxt "thag9.1:9.2"
+msgid "Dhārākulā <span class=\"var\" title=\"vihaṅgapathe (s2, s3, pts1)\" id=\"note259\">vihagapathe</span> samantato;"
+msgstr "And the rain falls in torrents on the path of birds everywhere,"
+
+#. <br>
+msgctxt "thag9.1:9.3"
+msgid "Bhikkhū ca pabbhāragatova jhāyati,"
+msgstr "And a monk has gone to a mountain cave, practising jhāna:"
+
+#. <br>
+msgctxt "thag9.1:9.4"
+msgid "Tato ratiṃ paramataraṃ na vindati."
+msgstr "There is no greater pleasure than this."
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc523"></a><a class="verse-num-pts" id="verse-num-pts523"></a>
+msgctxt "thag9.1:10.1"
+msgid "Yadā nadīnaṃ kusumākulānaṃ,"
+msgstr "When sitting on a riverbank covered in flowers,"
+
+#. <br>
+msgctxt "thag9.1:10.2"
+msgid "Vicitta-vāneyya-vaṭaṃsakānaṃ;"
+msgstr "Garlanded with many-coloured forest plants"
+
+#. <br>
+msgctxt "thag9.1:10.3"
+msgid "Tīre nisinno sumanova jhāyati,"
+msgstr "One is truly happy, practising jhāna:"
+
+#. <br>
+msgctxt "thag9.1:10.4"
+msgid "Tato ratiṃ paramataraṃ na vindati."
+msgstr "There is no greater pleasure than this."
+
+#. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
+#. id="verse-num-sc524"></a><a class="verse-num-pts" id="verse-num-pts524"></a>
+msgctxt "thag9.1:11.1"
+msgid "Yadā nisīthe rahitamhi kānane,"
+msgstr "When it is midnight in a lonely forest,"
+
+#. <br>
+msgctxt "thag9.1:11.2"
+msgid "Deve gaḷantamhi nadanti dāṭhino;"
+msgstr "And the sky rains, and the lions roar,"
+
+#. <br>
+msgctxt "thag9.1:11.3"
+msgid "Bhikkhū ca pabbhāragatova jhāyati,"
+msgstr "And a monk has gone to a mountain cave, practising jhāna:"
+
+#. <br>
+msgctxt "thag9.1:11.4"
+msgid "Tato ratiṃ paramataraṃ na vindati."
+msgstr "There is no greater pleasure than this."
+
+#. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
+#. id="verse-num-sc525"></a><a class="verse-num-pts" id="verse-num-pts525"></a>
+msgctxt "thag9.1:12.1"
+msgid "Yadā vitakke uparundhiyattano,"
+msgstr "When one’s own thoughts have stopped,"
+
+#. <br>
+msgctxt "thag9.1:12.2"
+msgid "Nagantare nagavivaraṃ samassito;"
+msgstr "Meditating between two mountains, sheltered inside a cleft,"
+
+#. <br>
+msgctxt "thag9.1:12.3"
+msgid "Vītaddaro vītakhilova jhāyati,"
+msgstr "Without stress or heartlessness, practising jhāna:"
+
+#. <br>
+msgctxt "thag9.1:12.4"
+msgid "Tato ratiṃ paramataraṃ na vindati."
+msgstr "There is no greater pleasure than this."
+
+#. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
+#. id="verse-num-sc526"></a><a class="verse-num-pts"
+#. id="verse-num-pts526"></a><a class="pts" id="pts55"></a>
+msgctxt "thag9.1:13.1"
+msgid "Yadā sukhī malakhilasokanāsano,"
+msgstr "When one is happy, destroyer of stains, heartlessness, and sorrow,"
+
+#. <br>
+msgctxt "thag9.1:13.2"
+msgid "Niraggaḷo nibbanatho visallo;"
+msgstr "Without obstructions, entanglements, and thorns,"
+
+#. <br>
+msgctxt "thag9.1:13.3"
+msgid "Sabbāsave byantikatova jhāyati,"
+msgstr "And with all defilements annihilated, practising jhāna:"
+
+#. <br>
+msgctxt "thag9.1:13.4"
+msgid "Tato ratiṃ paramataraṃ na vindatī”ti."
+msgstr "There is no greater pleasure than this."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag9.1:14.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag9.1:14.2"
+msgid "Bhūto thero …."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "thag9.1:15.1"
+msgid "Navakanipāto niṭṭhito."
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "thag9.1:16.1"
+msgid "Tatruddānaṃ"
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p><a class="sc" id="10"></a>
+msgctxt "thag9.1:17.1"
+msgid "Bhūto tathaddaso thero,"
+msgstr ""
+
+#. <br>
+msgctxt "thag9.1:17.2"
+msgid "eko khaggavisāṇavā;"
+msgstr ""
+
+#. <br>
+msgctxt "thag9.1:17.3"
+msgid "Navakamhi nipātamhi,"
+msgstr ""
+
+#. <br>
+msgctxt "thag9.1:17.4"
+msgid "gāthāyopi imā navāti."
+msgstr ""

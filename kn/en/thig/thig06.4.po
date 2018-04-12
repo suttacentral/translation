@@ -1,0 +1,173 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"PO-Revision-Date: 2017-05-09 02:18+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1494296321.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thig6.4"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thig6.4:1.1"
+msgid "Therīgāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thig6.4:2.1"
+msgid "Chakkanipāta"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thig6.4:3.1"
+msgid "4. Sujātātherīgāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc145"></a><a class="verse-num-pts"
+#. id="verse-num-pts145"></a>
+msgctxt "thig6.4:4.1"
+msgid "“Alaṅkatā suvasanā,"
+msgstr "Wearing jewellery, well-dressed"
+
+#. <br>
+msgctxt "thig6.4:4.2"
+msgid "mālinī candanokkhitā;"
+msgstr "Wearing a garland, smeared with sandalwood paste"
+
+#. <br>
+msgctxt "thig6.4:4.3"
+msgid "Sabbābharaṇasañchannā,"
+msgstr "All covered with decorations"
+
+#. <br>
+msgctxt "thig6.4:4.4"
+msgid "dāsīgaṇapurakkhatā."
+msgstr "Attended by a group of slave-women"
+
+#. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
+#. id="verse-num-sc146"></a><a class="verse-num-pts" id="verse-num-pts146"></a>
+msgctxt "thig6.4:5.1"
+msgid "Annaṃ pānañca ādāya,"
+msgstr "Taking food and drink"
+
+#. <br>
+msgctxt "thig6.4:5.2"
+msgid "khajjaṃ bhojjaṃ anappakaṃ;"
+msgstr "Food hard and soft, plenty of it"
+
+#. <br>
+msgctxt "thig6.4:5.3"
+msgid "Gehato nikkhamitvāna,"
+msgstr "Going out from the house"
+
+#. <br>
+msgctxt "thig6.4:5.4"
+msgid "uyyānamabhihārayiṃ."
+msgstr "I went to the park"
+
+#. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
+#. id="verse-num-sc147"></a><a class="verse-num-pts"
+#. id="verse-num-pts147"></a><a class="pts" id="pts138"></a>
+msgctxt "thig6.4:6.1"
+msgid "Tattha ramitvā kīḷitvā,"
+msgstr "Having enjoyed and amused myself there"
+
+#. <br>
+msgctxt "thig6.4:6.2"
+msgid "āgacchantī sakaṃ gharaṃ;"
+msgstr "Coming to my house"
+
+#. <br>
+msgctxt "thig6.4:6.3"
+msgid "Vihāraṃ daṭṭhuṃ pāvisiṃ,"
+msgstr "I saw a mendicant dwelling"
+
+#. <br>
+msgctxt "thig6.4:6.4"
+msgid "sākete añjanaṃ vanaṃ."
+msgstr "I entered Añjana grove at Sāketa"
+
+#. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
+#. id="verse-num-sc148"></a><a class="verse-num-pts" id="verse-num-pts148"></a>
+msgctxt "thig6.4:7.1"
+msgid "Disvāna lokapajjotaṃ,"
+msgstr "Having seen the light of the world"
+
+#. <br>
+msgctxt "thig6.4:7.2"
+msgid "vanditvāna upāvisiṃ;"
+msgstr "I paid homage and sat down"
+
+#. <br>
+msgctxt "thig6.4:7.3"
+msgid "So me dhammamadesesi,"
+msgstr "Out of compassion"
+
+#. <br>
+msgctxt "thig6.4:7.4"
+msgid "anukampāya cakkhumā."
+msgstr "The One endowed with vision taught Dhamma"
+
+#. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
+#. id="verse-num-sc149"></a><a class="verse-num-pts" id="verse-num-pts149"></a>
+msgctxt "thig6.4:8.1"
+msgid "Sutvā ca kho mahesissa,"
+msgstr "Having heard the Great Sage"
+
+#. <br>
+msgctxt "thig6.4:8.2"
+msgid "saccaṃ sampaṭivijjhahaṃ;"
+msgstr "I discovered the truth"
+
+#. <br>
+msgctxt "thig6.4:8.3"
+msgid "Tattheva virajaṃ dhammaṃ,"
+msgstr "There in that place I realised Dhamma"
+
+#. <br>
+msgctxt "thig6.4:8.4"
+msgid "phusayiṃ amataṃ padaṃ."
+msgstr "The deathless"
+
+#. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
+#. id="verse-num-sc150"></a><a class="verse-num-pts" id="verse-num-pts150"></a>
+msgctxt "thig6.4:9.1"
+msgid "Tato viññātasaddhammā,"
+msgstr "Then knowing true Dhamma"
+
+#. <br>
+msgctxt "thig6.4:9.2"
+msgid "pabbajiṃ anagāriyaṃ;"
+msgstr "I went forth into homelessness"
+
+#. <br>
+msgctxt "thig6.4:9.3"
+msgid "Tisso vijjā anuppattā,"
+msgstr "I've arrived at the three true knowledges"
+
+#. <br>
+msgctxt "thig6.4:9.4"
+msgid "amoghaṃ buddhasāsanan”ti."
+msgstr "The teaching of Buddha wasn't in vain"
+
+#. </p></blockquote><p class="endsutta"><a class="sc" id="7"></a>
+msgctxt "thig6.4:10.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thig6.4:10.2"
+msgid "Sujātā therī …."
+msgstr ""

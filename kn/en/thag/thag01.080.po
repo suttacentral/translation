@@ -1,0 +1,109 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.80"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.80:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.80:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.80:3.1"
+msgid "Aṭṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.80:4.1"
+msgid "1.80. Uggattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc80"></a><a class="verse-num-pts"
+#. id="verse-num-pts80"></a>
+msgctxt "thag1.80:5.1"
+msgid "“Yaṃ mayā pakataṃ kammaṃ,"
+msgstr "Whatever actions I have performed,"
+
+#. <br>
+msgctxt "thag1.80:5.2"
+msgid "appaṃ vā yadi vā bahuṃ;"
+msgstr "Whether trivial or important,"
+
+#. <br>
+msgctxt "thag1.80:5.3"
+msgid "Sabbametaṃ parikkhīṇaṃ,"
+msgstr "Are all completely exhausted;"
+
+#. <br>
+msgctxt "thag1.80:5.4"
+msgid "natthi dāni punabbhavo”ti."
+msgstr "Now there is no more rebirth into any state of existence."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.80:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.80:6.2"
+msgid "Uggo thero …."
+msgstr ""
+
+#. <br>
+msgctxt "thag1.80:6.3"
+msgid "Vaggo aṭṭhamo."
+msgstr ""
+
+#. </p><p class="uddana">
+msgctxt "thag1.80:7.1"
+msgid "Tassuddānaṃ"
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p><a class="sc" id="2"></a>
+msgctxt "thag1.80:8.1"
+msgid "Vacchapālo ca yo thero,"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.80:8.2"
+msgid "ātumo māṇavo isi;"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.80:8.3"
+msgid "Suyāmano susārado,"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.80:8.4"
+msgid "thero yo ca piyañjaho;"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.80:8.5"
+msgid "Ārohaputto meṇḍasiro,"
+msgstr ""
+
+#. <br>
+msgctxt "thag1.80:8.6"
+msgid "rakkhito uggasavhayoti."
+msgstr ""
+

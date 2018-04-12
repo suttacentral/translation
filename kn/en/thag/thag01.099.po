@@ -1,0 +1,82 @@
+#Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"PO-Revision-Date: 2016-07-19 22:50+0000\n"
+"Last-Translator: sujato <sujato@gmail.com>\n"
+"Language-Team: SuttaCentral\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1468968645.000000\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="thag1.99"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "thag1.99:1.1"
+msgid "Theragāthā"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.99:2.1"
+msgid "Ekakanipāta"
+msgstr ""
+
+#. </p><p>
+msgctxt "thag1.99:3.1"
+msgid "Dasamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "thag1.99:4.1"
+msgid "1.99. Uttiyattheragāthā"
+msgstr ""
+
+#. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
+#. class="verse-num-sc" id="verse-num-sc99"></a><a class="verse-num-pts"
+#. id="verse-num-pts99"></a>
+msgctxt "thag1.99:5.1"
+msgid "“Saddaṃ sutvā sati muṭṭhā,"
+msgstr "If you focus on the pleasant aspect"
+
+#. <br>
+msgctxt "thag1.99:5.2"
+msgid "<span class=\"var\" title=\"piyanimittaṃ (bj, s2, s3, pts1)\" id=\"note68\">Piyaṃ nimittaṃ</span> manasikaroto;"
+msgstr "Of sounds that you hear, you’ll lose your mindfulness."
+
+#. <br>
+msgctxt "thag1.99:5.3"
+msgid "Sārattacitto vedeti,"
+msgstr "Experiencing it with a mind full of desire,"
+
+#. <br>
+msgctxt "thag1.99:5.4"
+msgid "Tañca ajjhosa tiṭṭhati;"
+msgstr "You keep holding on."
+
+#. <br>
+msgctxt "thag1.99:5.5"
+msgid "Tassa vaḍḍhanti āsavā,"
+msgstr "Your defilements grow,"
+
+#. <br>
+msgctxt "thag1.99:5.6"
+msgid "Saṃsāraṃ upagāmino”ti."
+msgstr "Leading to transmigration."
+
+#. </p></blockquote><p class="endsutta">
+msgctxt "thag1.99:6.1"
+msgid "…"
+msgstr ""
+
+msgctxt "thag1.99:6.2"
+msgid "Uttiyo thero …."
+msgstr ""
