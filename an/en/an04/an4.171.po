@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an04/an4.171.po\n"
-"X-Pootle-Revision: 197210\n"
+"X-Pootle-Path: /en/an/an04/an4.171.po\n"
+"X-Pootle-Revision: 1740\n"
 
 #. <section class="sutta" id="an4.171"><article><div class="hgroup"><p class="division">
 msgctxt "an4.171:0.1"
@@ -33,7 +33,7 @@ msgstr "171. Intention"
 
 # I find BB’s “bodily intention” obscure. Does it means, “the body’s own intention” (which is how it seems to be used in psychology)? Or does it mean “intention expressed via the body”? Since cetana is always a mental factor in Buddhism it must be the latter. My rendering follows the Tika: kāyasañcetanāhetūti kāyakammanimittaṃ, kāyikassa kammassa kaṭattā upacitattāti attho
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.158"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.158"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an4.171:1.1"
 msgid ""
@@ -144,7 +144,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.159"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.159"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an4.171:5.1"
 msgid "Imesu, bhikkhave, dhammesu avijjā anupatitā, "
@@ -222,7 +222,7 @@ msgstr "These are the four kinds of reincarnation.”"
 #. <a class="sc" id="sc7"></a>
 msgctxt "an4.171:7.1"
 msgid "Evaṃ vutte, āyasmā sāriputto bhagavantaṃ etadavoca:"
-msgstr "When he said this, Venerable Sāriputta asked the Buddha:"
+msgstr "When he said this, Venerable Sāriputta said to the Buddha:"
 
 msgctxt "an4.171:7.2"
 msgid ""
@@ -277,7 +277,7 @@ msgstr ""
 "perception nor non-perception.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.160"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.160"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an4.171:8.1"
 msgid ""
@@ -311,7 +311,7 @@ msgid ""
 "tattha ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṃ kurumāno "
 "nevasaññānāsaññāyatanūpagānaṃ devānaṃ sahabyataṃ upapajjati."
 msgstr ""
-"If they’re set on that, committed to it, and meditate on it often without "
+"If they abide in that, are committed to it, and meditate on it often without "
 "losing it, when they die they’re reborn in the company of the gods of the "
 "dimension of neither perception nor non-perception."
 
@@ -342,7 +342,7 @@ msgid ""
 "tattha ṭhito tadadhimutto tabbahulavihārī aparihīno kālaṃ kurumāno "
 "nevasaññānāsaññāyatanūpagānaṃ devānaṃ sahabyataṃ upapajjati."
 msgstr ""
-"If they’re set on that, committed to it, and meditate on it often without "
+"If they abide in that, are committed to it, and meditate on it often without "
 "losing it, when they die they’re reborn in the company of the gods of the "
 "dimension of neither perception nor non-perception."
 

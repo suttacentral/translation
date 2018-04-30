@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an03/an3.016.po\n"
-"X-Pootle-Revision: 196818\n"
+"X-Pootle-Path: /en/an/an03/an3.016.po\n"
+"X-Pootle-Revision: 1116\n"
 
 #. <section class="sutta" id="an3.16"><article><div class="hgroup"><p class="division">
 msgctxt "an3.16:0.1"
@@ -118,7 +118,7 @@ msgid "Evaṃ kho, bhikkhave, bhikkhu indriyesu guttadvāro hoti."
 msgstr "That’s how a mendicant guards the sense doors."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.114"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.114"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an3.16:3.1"
 msgid "Kathañca, bhikkhave, bhikkhu bhojane mattaññū hoti?"
@@ -126,7 +126,7 @@ msgstr "And how does a mendicant eat in moderation?"
 
 msgctxt "an3.16:3.2"
 msgid "Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso āhāraṃ āhāreti:"
-msgstr "It’s when a mendicant properly reflects on the food that they eat."
+msgstr "It’s when a mendicant reflects properly on the food that they eat."
 
 msgctxt "an3.16:3.3"
 msgid ""

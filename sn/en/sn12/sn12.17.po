@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.17.po\n"
-"X-Pootle-Revision: 197773\n"
+"X-Pootle-Revision: 8342\n"
 
 #. <section class="sutta" id="sn12.17"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.17:0.1"
@@ -28,10 +28,10 @@ msgstr "2. Fuel"
 #. VAR: 17. Acelakassapasutta → acela (pts1-2)
 msgctxt "sn12.17:0.3"
 msgid "17. Acelakassapasutta"
-msgstr "17. Kassapa, the Naked Ascetic"
+msgstr "17. With Kassapa, the Naked Ascetic"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.19"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.19"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn12.17:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -126,7 +126,7 @@ msgid "“Puccha, kassapa, yadākaṅkhasī”ti."
 msgstr "“Ask what you wish, Kassapa.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.20"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.20"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn12.17:3.1"
 msgid "“Kiṃ nu kho, bho gotama, ‘sayaṅkataṃ dukkhan’ti?"
@@ -250,7 +250,7 @@ msgstr "Teach me about suffering!”"
 
 # This sentence is gnarly. See BB’s notes. I follow his interpretation, but try to render it more accessibly.
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.21"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.21"></a>
 #. <a class="sc" id="sc5"></a>
 #. VAR: paṭisaṃvedayatī’ti → paṭisaṃvediyatīti (bj, pts1-2, mr)
 msgctxt "sn12.17:5.1"
@@ -258,7 +258,7 @@ msgid ""
 "“‘So karoti so paṭisaṃvedayatī’ti kho, kassapa, ādito sato ‘sayaṃkataṃ "
 "dukkhan’ti iti vadaṃ sassataṃ etaṃ pareti."
 msgstr ""
-"Suppose that the person who does the deed experiences the result. Then for "
+"“Suppose that the person who does the deed experiences the result. Then for "
 "one who has existed since the beginning, suffering is made by oneself. This "
 "statement leans toward eternalism."
 
@@ -300,7 +300,7 @@ msgstr "When choices cease, consciousness ceases. …"
 
 msgctxt "sn12.17:5.9"
 msgid "evametassa kevalassa dukkhakkhandhassa nirodho hotī’”ti."
-msgstr "That is how this entire mass of suffering ceases.”"
+msgstr "That is how this entire mass of suffering ceases.’”"
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
@@ -373,7 +373,7 @@ msgstr ""
 "satisfied, let them give me the going forth, the ordination into monkhood.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.22"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.22"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "sn12.17:9.1"
 msgid ""

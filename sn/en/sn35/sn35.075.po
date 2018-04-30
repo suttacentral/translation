@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.075.po\n"
-"X-Pootle-Revision: 199519\n"
+"X-Pootle-Revision: 5624\n"
 
 #. <section class="sutta" id="sn35.75"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.75:0.1"
@@ -27,7 +27,7 @@ msgstr "8. Sick"
 #. </p><h1>
 msgctxt "sn35.75:0.3"
 msgid "75. Dutiyagilānasutta"
-msgstr "75. Sick"
+msgstr "75. Sick (2nd)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -72,7 +72,7 @@ msgstr "Then the Buddha said to that monk:"
 
 msgctxt "sn35.75:2.5"
 msgid "“alaṃ, bhikkhu, mā tvaṃ mañcake samadhosi."
-msgstr "“It’s all right, Phagguṇa, don’t get up."
+msgstr "“It’s all right, mendicant, don’t get up."
 
 msgctxt "sn35.75:2.6"
 msgid "Santimāni āsanāni paññattāni, tatthāhaṃ nisīdissāmī”ti."
@@ -121,7 +121,7 @@ msgstr ""
 "the sake of ethical purity.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.48"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.48"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "sn35.75:6.1"
 msgid ""
@@ -307,7 +307,7 @@ msgstr "That is what the Buddha said."
 
 msgctxt "sn35.75:18.2"
 msgid "Attamano so bhikkhu bhagavato bhāsitaṃ abhinandi."
-msgstr "Satisfied, that mendicant were happy with what the Buddha said."
+msgstr "Satisfied, that mendicant was happy with what the Buddha said."
 
 #. VAR: vimuccīti → vimuccatīti (s1-3, pts1)
 msgctxt "sn35.75:18.3"

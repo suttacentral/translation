@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an03/an3.088.po\n"
-"X-Pootle-Revision: 198468\n"
+"X-Pootle-Path: /en/an/an03/an3.088.po\n"
+"X-Pootle-Revision: 1260\n"
 
 #. <section class="sutta" id="an3.88"><article><div class="hgroup"><p class="division">
 msgctxt "an3.88:0.1"
@@ -57,7 +57,7 @@ msgid "imā kho, bhikkhave, tisso sikkhā yatthetaṃ sabbaṃ samodhānaṃ gac
 msgstr "These are the three trainings that include them all."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.235"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.235"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an3.88:2.1"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.127.po\n"
-"X-Pootle-Revision: 185852\n"
+"X-Pootle-Revision: 5728\n"
 
 #. <section class="sutta" id="sn35.127"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.127:0.1"
@@ -30,7 +30,7 @@ msgid "127. Bhāradvājasutta"
 msgstr "127. With Bhāradvāja"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.111"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.111"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn35.127:1.1"
 msgid "Ekaṃ samayaṃ āyasmā piṇḍolabhāradvājo kosambiyaṃ viharati ghositārāme."
@@ -120,7 +120,7 @@ msgstr ""
 "and pure spiritual life for their entire life?”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.112"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.112"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn35.127:3.1"
 msgid ""
@@ -135,9 +135,8 @@ msgid ""
 "‘etha tumhe, bhikkhave, imameva kāyaṃ uddhaṃ pādatalā adho kesamatthakā "
 "tacapariyantaṃ pūraṃ nānappakārassa asucino paccavekkhatha—"
 msgstr ""
-"‘Please, monks, examine their own body up from the soles of the feet and "
-"down from the tips of the hairs, wrapped in skin and full of many kinds of "
-"filth."
+"‘Please, monks, examine your own body up from the soles of the feet and down "
+"from the tips of the hairs, wrapped in skin and full of many kinds of filth."
 
 #. VAR: nhāru → nahāru (bj) | nahārū (s1-3, km) | naharu (pts1)
 #. VAR: aṭṭhimiñjaṃ → aṭṭhimiñjā (bj, pts1)
@@ -150,7 +149,7 @@ msgid ""
 msgstr ""
 "‘In this body there is head hair, body hair, nails, teeth, skin, flesh, "
 "sinews, bones, bone marrow, kidneys, heart, liver, diaphragm, spleen, lungs, "
-"intestines, mesentry, undigested food, feces, bile, phlegm, pus, blood, "
+"intestines, mesentery, undigested food, feces, bile, phlegm, pus, blood, "
 "sweat, fat, tears, grease, saliva, snot, synovial fluid, urine.’"
 
 msgctxt "sn35.127:3.4"
@@ -245,8 +244,8 @@ msgctxt "sn35.127:4.9"
 msgid ""
 "manasā dhammaṃ viññāya mā nimittaggāhino ahuvattha, mānubyañjanaggāhino."
 msgstr ""
-"When you cognize a phenomenon with your mind, don’t get caught up in the "
-"features and details."
+"When you know a thought with your mind, don’t get caught up in the features "
+"and details."
 
 msgctxt "sn35.127:4.10"
 msgid ""
@@ -270,7 +269,7 @@ msgstr ""
 "it for a long time.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.113"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.113"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn35.127:5.1"
 msgid "“Acchariyaṃ, bho bhāradvāja; abbhutaṃ, bho bhāradvāja."
@@ -318,7 +317,7 @@ msgstr ""
 
 msgctxt "sn35.127:5.6"
 msgid "Abhikkantaṃ, bho bhāradvāja, abhikkantaṃ, bho bhāradvāja."
-msgstr "“Excellent, Master Bhāradvāja! Excellent!"
+msgstr "Excellent, Master Bhāradvāja! Excellent!"
 
 #. VAR: nikkujjitaṃ → nikujjitaṃ (pts1)
 msgctxt "sn35.127:5.7"

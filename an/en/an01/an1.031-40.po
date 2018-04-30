@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an01/an1.031-40.po\n"
-"X-Pootle-Revision: 196719\n"
+"X-Pootle-Path: /en/an/an01/an1.031-40.po\n"
+"X-Pootle-Revision: 992\n"
 
 #. <section id="vagga"><section class="sutta" data-uid="an1.31" id="31"><article><div class="hgroup"><p class="division">
 msgctxt "an1.31-40:0.1"
@@ -78,7 +78,7 @@ msgid "33"
 msgstr "33"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.7"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.7"></a>
 #. <a class="sc" id="sc33.1"></a>
 msgctxt "an1.31-40:33.1.1"
 msgid ""

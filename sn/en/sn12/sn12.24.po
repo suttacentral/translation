@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.24.po\n"
-"X-Pootle-Revision: 197588\n"
+"X-Pootle-Revision: 8362\n"
 
 #. <section class="sutta" id="sn12.24"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.24:0.1"
 msgid "Saṃyutta Nikāya 12"
-msgstr ""
+msgstr "Linked Discourses 12"
 
 #. </p><p>
 msgctxt "sn12.24:0.2"
@@ -58,7 +58,7 @@ msgstr ""
 "Why don’t I go to the monastery of the wanderers who follow other paths?”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.33"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.33"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn12.24:2.1"
 msgid ""
@@ -148,7 +148,7 @@ msgstr ""
 "teaching, and there would be no legitimate grounds for rebuke and criticism."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.34"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.34"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn12.24:5.1"
 msgid ""
@@ -275,7 +275,7 @@ msgstr ""
 "no legitimate grounds for rebuke and criticism."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.35"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.35"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "sn12.24:9.1"
 msgid ""
@@ -354,13 +354,13 @@ msgstr "Then I thought:"
 
 msgctxt "sn12.24:11.4"
 msgid "‘atippago kho tāva rājagahe piṇḍāya carituṃ."
-msgstr "“It’s too early to wander for alms in Rājagaha."
+msgstr "‘It’s too early to wander for alms in Rājagaha."
 
 msgctxt "sn12.24:11.5"
 msgid ""
 "Yannūnāhaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyyan’ti."
 msgstr ""
-"Why don’t I go to the monastery of the wanderers who follow other paths?”"
+"Why don’t I go to the monastery of the wanderers who follow other paths?’"
 
 #. </p><p>
 #. <a class="sc" id="sc12"></a>
@@ -382,7 +382,7 @@ msgstr ""
 "side. …”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.36"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.36"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "sn12.24:13.1"
 msgid ""
@@ -545,7 +545,7 @@ msgid "Evaṃ puṭṭhohaṃ, bhante, evaṃ byākareyyaṃ."
 msgstr "That’s how I’d answer such a question."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.37"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.37"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "sn12.24:19.1"
 msgid "Sace maṃ, bhante, evaṃ puccheyyuṃ:"
@@ -600,15 +600,15 @@ msgstr "Suppose they were to ask me:"
 
 msgctxt "sn12.24:21.2"
 msgid "upādānaṃ panāvuso … pe …"
-msgstr "‘What is the source of grasping …"
+msgstr "‘What is the source of grasping?’ …"
 
 msgctxt "sn12.24:21.3"
 msgid "taṇhā panāvuso … pe …"
-msgstr "Craving …"
+msgstr "craving …"
 
 msgctxt "sn12.24:21.4"
 msgid "vedanā panāvuso … pe …"
-msgstr "Feeling …"
+msgstr "feeling …"
 
 msgctxt "sn12.24:21.5"
 msgid "sace maṃ, bhante, evaṃ puccheyyuṃ:"

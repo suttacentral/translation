@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an06/an6.055.po\n"
-"X-Pootle-Revision: 198765\n"
+"X-Pootle-Path: /en/an/an06/an6.055.po\n"
+"X-Pootle-Revision: 2606\n"
 
 #. <section class="sutta" id="an6.55"><article><div class="hgroup"><p class="division">
 msgctxt "an6.55:0.1"
@@ -22,7 +22,7 @@ msgstr "Numbered Discourses 6"
 #. </p><p>
 msgctxt "an6.55:0.2"
 msgid "6. Mahāvagga"
-msgstr "6. The Greater Chapter"
+msgstr "6. The Great Chapter"
 
 #. </p><h1>
 msgctxt "an6.55:0.3"
@@ -99,7 +99,7 @@ msgid "Ekamantaṃ nisinnaṃ kho āyasmantaṃ soṇaṃ bhagavā etadavoca:"
 msgstr "The Buddha said to him:"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.375"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.375"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an6.55:3.1"
 msgid ""
@@ -223,7 +223,7 @@ msgstr ""
 "reappeared on the Vulture’s Peak."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.376"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.376"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an6.55:8.1"
 msgid ""
@@ -332,7 +332,7 @@ msgstr ""
 "hate, and delusion."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.377"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.377"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "an6.55:12.1"
 msgid "Siyā kho pana, bhante, idhekaccassa āyasmato evamassa:"
@@ -415,7 +415,7 @@ msgstr ""
 "and delusion with the end of greed, hate, and delusion."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.378"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.378"></a>
 #. <a class="sc" id="sc17"></a>
 #. VAR: āpāthaṃ āgacchanti → āpāthamāgacchanti (bj) | āpātaṃ āgacchanti (mr)
 msgctxt "an6.55:17.1"
@@ -592,7 +592,7 @@ msgid "karaṇīyaṃ na vijjati."
 msgstr "and nothing more to do."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.379"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.379"></a>
 #. <a class="sc" id="sc21"></a>
 msgctxt "an6.55:21.1"
 msgid "Selo yathā ekagghano,"

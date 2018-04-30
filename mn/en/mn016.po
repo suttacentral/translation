@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/mn-/mn016.po\n"
-"X-Pootle-Revision: 196410\n"
+"X-Pootle-Path: /en/mn/mn016.po\n"
+"X-Pootle-Revision: 712\n"
 
 #. <section class="sutta" id="mn16"><article><div class="hgroup"><p class="division">
 msgctxt "mn16:0.1"
@@ -27,7 +27,7 @@ msgstr "Emotional Barrenness"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.101"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.101"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn16:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -219,7 +219,7 @@ msgstr "This is the second emotional shackle."
 
 #. </p><p>
 #. <a class="nya" id="nya10"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.102"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.102"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "mn16:10.1"
 msgid "Puna caparaṃ, bhikkhave, bhikkhu rūpe avītarāgo hoti … pe …"
@@ -382,7 +382,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya19"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.103"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.103"></a>
 #. <a class="sc" id="sc19"></a>
 #. VAR: hoti na anattamano → hoti attamano (bj, pts1)
 msgctxt "mn16:19.1"
@@ -524,32 +524,32 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya26"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.104"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.104"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "mn16:26.1"
 msgid "So chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, "
 msgstr ""
-"They develop the basis for psychic power that has immersion due to "
+"They develop the basis of psychic power that has immersion due to "
 "enthusiasm, and active effort … "
 
 msgctxt "mn16:26.2"
 msgid "vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, "
 msgstr ""
-"the basis for psychic power that has immersion due to energy, and active "
+"the basis of psychic power that has immersion due to energy, and active "
 "effort … "
 
 msgctxt "mn16:26.3"
 msgid "cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, "
 msgstr ""
-"the basis for psychic power that has immersion due to higher mind, and "
-"active effort … "
+"the basis of psychic power that has immersion due to higher mind, and active "
+"effort … "
 
 msgctxt "mn16:26.4"
 msgid ""
 "vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ussoḷhīyeva "
 "pañcamī."
 msgstr ""
-"the basis for psychic power that has immersion due to inquiry, and active "
+"the basis of psychic power that has immersion due to inquiry, and active "
 "effort. And the fifth is sheer vigor."
 
 # Reading abhinibbh-

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/mn-/mn019.po\n"
-"X-Pootle-Revision: 194883\n"
+"X-Pootle-Path: /en/mn/mn019.po\n"
+"X-Pootle-Revision: 718\n"
 
 #. <section class="sutta" id="mn19"><article><div class="hgroup"><p class="division">
 msgctxt "mn19:0.1"
@@ -90,7 +90,7 @@ msgstr "to the second class."
 
 #. </p><p>
 #. <a class="nya" id="nya3"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.115"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.115"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn19:3.1"
 msgid ""
@@ -291,7 +291,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya8"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.116"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.116"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "mn19:8.1"
 msgid ""
@@ -444,7 +444,7 @@ msgstr "So that my mind would not be stressed."
 
 #. </p><p>
 #. <a class="nya" id="nya11"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.117"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.117"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "mn19:11.1"
 msgid ""
@@ -523,8 +523,8 @@ msgid ""
 "savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja "
 "vihāsiṃ."
 msgstr ""
-"Quite secluded from sensual pleasures, secluded from unskillful qualities, "
-"I entered and remained in the first absorption, which has the rapture and "
+"Quite secluded from sensual pleasures, secluded from unskillful qualities, I "
+"entered and remained in the first absorption, which has the rapture and "
 "bliss born of seclusion, while placing the mind and keeping it connected."
 
 #. <a class="nya" id="nya15"></a>
@@ -654,8 +654,8 @@ msgid ""
 "ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ abbhaññāsiṃ."
 msgstr ""
 "I truly understood: ‘This is suffering’ … ‘This is the origin of suffering’ …"
-" ‘This is the cessation of suffering’ … ‘This is the practice that leads to the "
-"cessation of suffering.'"
+" ‘This is the cessation of suffering’ … ‘This is the practice that leads to "
+"the cessation of suffering.'"
 
 #. <a class="nya" id="nya23"></a>
 msgctxt "mn19:23.1"
@@ -757,7 +757,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya26"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.118"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.118"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "mn19:26.1"
 msgid "Upamā kho me ayaṃ, bhikkhave, katā atthassa viññāpanāya."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/mn-/mn132.po\n"
-"X-Pootle-Revision: 196384\n"
+"X-Pootle-Path: /en/mn/mn132.po\n"
+"X-Pootle-Revision: 944\n"
 
 #. <section class="sutta" id="mn132"><article><div class="hgroup"><p class="division">
 msgctxt "mn132:0.1"
@@ -26,7 +26,7 @@ msgstr "Ānanda and One Fine Night"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.190"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.190"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn132:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -372,7 +372,7 @@ msgstr ""
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="nya" id="nya10"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.191"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.191"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "mn132:10.1"
 msgid "Atītaṃ nānvāgameyya,"

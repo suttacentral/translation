@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.031.po\n"
-"X-Pootle-Revision: 185773\n"
+"X-Pootle-Revision: 5570\n"
 
 #. <section class="sutta" id="sn35.31"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.31:0.1"
@@ -28,10 +28,10 @@ msgstr "3. All"
 #. VAR: 31. Paṭhamasamugghātasappāyasutta → sappāyapaṭipadāsuttaṃ (bj) | sappāya 1 (pts1)
 msgctxt "sn35.31:0.3"
 msgid "31. Paṭhamasamugghātasappāyasutta"
-msgstr "30. The Practice Conducive to Uprooting"
+msgstr "31. The Practice Conducive to Uprooting (1st)"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.24"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.24"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn35.31:1.1"
 msgid "“Sabbamaññitasamugghātasappāyaṃ vo, bhikkhave, paṭipadaṃ desessāmi."

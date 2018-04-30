@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:15+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn01/sn1.33.po\n"
-"X-Pootle-Revision: 184920\n"
+"X-Pootle-Revision: 3864\n"
 
 #. <section class="sutta" id="sn1.33"><article><div class="hgroup"><p class="division">
 msgctxt "sn1.33:0.1"
@@ -310,7 +310,7 @@ msgstr "And it’s also good to be restrained when it comes to living creatures.
 #. VAR: pāṇabhūtāni → pāṇabhūtesu (bj, pts1-2)
 msgctxt "sn1.33:16.1"
 msgid "Yo pāṇabhūtāni aheṭhayaṃ caraṃ,"
-msgstr "One who lives without harming any living creature"
+msgstr "One who lives without harming any living being"
 
 # Both PTS and BJT has karoti here. I don’t understand the sense of this verse.
 #. <br>

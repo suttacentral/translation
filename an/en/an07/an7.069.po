@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an07/an7.069.po\n"
-"X-Pootle-Revision: 192282\n"
+"X-Pootle-Path: /en/an/an07/an7.069.po\n"
+"X-Pootle-Revision: 2884\n"
 
 #. <section class="sutta" id="an7.69"><article><div class="hgroup"><p class="division">
 msgctxt "an7.69:0.1"
@@ -22,7 +22,7 @@ msgstr "Numbered Discourses 7"
 #. </p><p>
 msgctxt "an7.69:0.2"
 msgid "7. Mahāvagga"
-msgstr "7. The Greater Chapter"
+msgstr "7. The Great Chapter"
 
 #. </p><h1>
 msgctxt "an7.69:0.3"
@@ -101,7 +101,7 @@ msgstr ""
 "It won’t be long until buds start to form.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.118"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.118"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an7.69:5.1"
 msgid ""
@@ -225,7 +225,7 @@ msgstr ""
 "leaves separately."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.119"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.119"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "an7.69:13.1"
 msgid ""
@@ -278,7 +278,7 @@ msgid ""
 msgstr "they’re like the Shady Orchid tree when it fully blossoms."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.120"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.120"></a>
 #. <a class="sc" id="sc16"></a>
 msgctxt "an7.69:16.1"
 msgid "Tasmiṃ, bhikkhave, samaye bhummā devā saddamanussāventi:"

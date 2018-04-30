@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/mn-/mn112.po\n"
-"X-Pootle-Revision: 195596\n"
+"X-Pootle-Path: /en/mn/mn112.po\n"
+"X-Pootle-Revision: 904\n"
 
 #. <section class="sutta" id="mn112"><article><div class="hgroup"><p class="division">
 msgctxt "mn112:0.1"
@@ -56,7 +56,7 @@ msgstr "The Buddha said this:"
 
 #. </p><p>
 #. <a class="nya" id="nya2"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.30"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.30"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn112:2.1"
 msgid "“Idha, bhikkhave, bhikkhu aññaṃ byākaroti:"
@@ -87,7 +87,8 @@ msgid ""
 "sammāsambuddhena sammadakkhātā."
 msgstr ""
 "‘Reverend, these four kinds of expression have been rightly explained by the "
-"Blessed One, who knows and sees, the perfected one, the fully awakened Buddha."
+"Blessed One, who knows and sees, the perfected one, the fully awakened "
+"Buddha."
 
 msgctxt "mn112:3.4"
 msgid "Katame cattāro?"
@@ -211,7 +212,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.31"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.31"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "mn112:6.1"
 msgid ""
@@ -257,7 +258,7 @@ msgstr ""
 "consciousness is powerless, fading, and unreliable, I understand that my "
 "mind is freed through the ending, fading away, cessation, giving away, and "
 "letting go of attraction, grasping, mental resolve, insistence, and "
-"underlying tendency for form."
+"underlying tendency for consciousness."
 
 msgctxt "mn112:6.7"
 msgid ""
@@ -312,7 +313,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya8"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.32"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.32"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "mn112:8.1"
 msgid ""
@@ -515,7 +516,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya12"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.33"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.33"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "mn112:12.1"
 msgid ""
@@ -566,7 +567,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya13"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.34"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.34"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "mn112:13.1"
 msgid ""
@@ -587,8 +588,8 @@ msgid ""
 msgstr ""
 "Once I had gone forth, I took up the training and livelihood of the "
 "mendicants. I gave up killing living creatures, renouncing the rod and the "
-"sword. I was scrupulous and kind, living full of compassion for all "
-"creatures."
+"sword. I was scrupulous and kind, living full of compassion for all living "
+"beings."
 
 msgctxt "mn112:13.3"
 msgid ""
@@ -759,7 +760,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya15"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.35"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.35"></a>
 #. <a class="sc" id="sc15"></a>
 msgctxt "mn112:15.1"
 msgid "So cakkhunā rūpaṃ disvā na nimittaggāhī ahosiṃ nānubyañjanaggāhī;"
@@ -881,7 +882,7 @@ msgid ""
 "byāpādapadosā cittaṃ parisodhesiṃ."
 msgstr ""
 "Giving up ill will and malevolence, I meditated with a mind rid of ill will, "
-"full of compassion for all creatures, cleansing the mind of ill will."
+"full of compassion for all living beings, cleansing the mind of ill will."
 
 msgctxt "mn112:17.3"
 msgid ""
@@ -910,7 +911,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya18"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.36"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.36"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "mn112:18.1"
 msgid "So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
@@ -946,7 +947,7 @@ msgstr "fourth absorption."
 
 #. </p><p>
 #. <a class="nya" id="nya19"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.37"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.37"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "mn112:19.1"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/mn-/mn115.po\n"
-"X-Pootle-Revision: 196333\n"
+"X-Pootle-Path: /en/mn/mn115.po\n"
+"X-Pootle-Revision: 910\n"
 
 #. <section class="sutta" id="mn115"><article><div class="hgroup"><p class="division">
 msgctxt "mn115:0.1"
@@ -131,7 +131,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya3"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.62"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.62"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn115:3.1"
 msgid "Evaṃ vutte, āyasmā ānando bhagavantaṃ etadavoca:"
@@ -268,7 +268,7 @@ msgstr "they’re qualified to be called ‘skilled in the elements’.”"
 
 #. </p><p>
 #. <a class="nya" id="nya7"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.63"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.63"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "mn115:7.1"
 msgid ""
@@ -399,7 +399,7 @@ msgstr "they’re qualified to be called ‘skilled in the sense fields’.”"
 
 #. </p><p>
 #. <a class="nya" id="nya11"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.64"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.64"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "mn115:11.1"
 msgid ""
@@ -436,7 +436,7 @@ msgstr "Consciousness is a condition for name and form. "
 
 msgctxt "mn115:11.8"
 msgid "nāmarūpapaccayā saḷāyatanaṃ, "
-msgstr "Name and form is a condition for the six sense fields. "
+msgstr "Name and form are conditions for the six sense fields. "
 
 msgctxt "mn115:11.9"
 msgid "saḷāyatanapaccayā phasso, "
@@ -483,11 +483,11 @@ msgstr "When choices cease, consciousness ceases. "
 
 msgctxt "mn115:11.19"
 msgid "viññāṇanirodhā nāmarūpanirodho, "
-msgstr "When consciousness ceases, name and form ceases. "
+msgstr "When consciousness ceases, name and form cease. "
 
 msgctxt "mn115:11.20"
 msgid "nāmarūpanirodhā saḷāyatananirodho, "
-msgstr "When name and form ceases, the six sense fields cease. "
+msgstr "When name and form cease, the six sense fields cease. "
 
 msgctxt "mn115:11.21"
 msgid "saḷāyatananirodhā phassanirodho, "
@@ -588,7 +588,7 @@ msgstr "But it’s possible for an ordinary person to take something as self.’
 
 #. </p><p>
 #. <a class="nya" id="nya13"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.65"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.65"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "mn115:13.1"
 msgid ""
@@ -701,7 +701,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya15"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.66"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.66"></a>
 #. <a class="sc" id="sc15"></a>
 msgctxt "mn115:15.1"
 msgid ""
@@ -824,7 +824,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya18"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.67"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.67"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "mn115:18.1"
 msgid ""

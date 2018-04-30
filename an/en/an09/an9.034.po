@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an09/an9.034.po\n"
-"X-Pootle-Revision: 199303\n"
+"X-Pootle-Path: /en/an/an09/an9.034.po\n"
+"X-Pootle-Revision: 3208\n"
 
 #. <section class="sutta" id="an9.34"><article><div class="hgroup"><p class="division">
 msgctxt "an9.34:0.1"
@@ -22,7 +22,7 @@ msgstr "Numbered Discourses 9"
 #. </p><p>
 msgctxt "an9.34:0.2"
 msgid "4. Mahāvagga"
-msgstr "4. The Greater Chapter"
+msgstr "4. The Great Chapter"
 
 #. </p><h1>
 msgctxt "an9.34:0.3"
@@ -30,7 +30,7 @@ msgid "34. Nibbānasukhasutta"
 msgstr "34. Extinguishment is Bliss"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.415"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.415"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an9.34:1.1"
 msgid ""
@@ -152,7 +152,7 @@ msgid ""
 msgstr "That’s the way to understand how extinguishment is bliss."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.416"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.416"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an9.34:3.1"
 msgid ""
@@ -276,7 +276,7 @@ msgid ""
 msgstr "That too is a way to understand how extinguishment is bliss."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.417"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.417"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an9.34:6.1"
 msgid ""
@@ -450,7 +450,7 @@ msgid ""
 msgstr "That too is a way to understand how extinguishment is bliss."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.418"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.418"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "an9.34:10.1"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn16/sn16.12.po\n"
-"X-Pootle-Revision: 185315\n"
+"X-Pootle-Revision: 8880\n"
 
 #. <section class="sutta" id="sn16.12"><article><div class="hgroup"><p class="division">
 msgctxt "sn16.12:0.1"
@@ -31,7 +31,7 @@ msgid "12. Paraṃmaraṇasutta"
 msgstr "12. The Realized One After Death"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.223"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.223"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn16.12:1.1"
 msgid ""
@@ -147,7 +147,7 @@ msgctxt "sn16.12:2.5"
 msgid "ayaṃ ‘dukkhanirodhagāminī paṭipadā’ti byākataṃ bhagavatā”ti."
 msgstr ""
 "‘This is the practice that leads to the cessation of suffering’ has been "
-"declared by the Buddha."
+"declared by the Buddha.”"
 
 msgctxt "sn16.12:2.6"
 msgid "“Kasmā cetaṃ, āvuso, byākataṃ bhagavatā”ti?"

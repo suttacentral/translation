@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn22/sn22.060.po\n"
-"X-Pootle-Revision: 198761\n"
+"X-Pootle-Revision: 4956\n"
 
 #. <section class="sutta" id="sn22.60"><article><div class="hgroup"><p class="division">
 msgctxt "sn22.60:0.1"
@@ -30,7 +30,7 @@ msgid "60. Mahālisutta"
 msgstr "60. With Mahāli"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.69"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.69"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn22.60:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -127,7 +127,8 @@ msgstr ""
 msgctxt "sn22.60:5.3"
 msgid "sārāgā saṃyujjanti; saṃyogā saṅkilissanti."
 msgstr ""
-"Since they lust after it, they’re caught up in it, and so they become corrupted."
+"Since they lust after it, they’re caught up in it, and so they become "
+"corrupted."
 
 msgctxt "sn22.60:5.4"
 msgid "Ayaṃ kho, mahāli, hetu, ayaṃ paccayo sattānaṃ saṅkilesāya;"
@@ -168,7 +169,7 @@ msgid "Evampi sahetū sappaccayā sattā saṅkilissanti."
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.70"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.70"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "sn22.60:7.1"
 msgid "Saññā ca hidaṃ, mahāli … pe …"
@@ -223,7 +224,8 @@ msgstr ""
 msgctxt "sn22.60:8.3"
 msgid "sārāgā saṃyujjanti; saṃyogā saṅkilissanti."
 msgstr ""
-"Since they lust after it, they’re caught up in it, and so they become corrupted."
+"Since they lust after it, they’re caught up in it, and so they become "
+"corrupted."
 
 msgctxt "sn22.60:8.4"
 msgid "Ayampi kho, mahāli, hetu ayaṃ paccayo sattānaṃ saṅkilesāya."
@@ -276,7 +278,7 @@ msgid "Evaṃ sahetū sappaccayā sattā visujjhanti."
 msgstr "This is how sentient beings are purified with cause and reason."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.71"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.71"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "sn22.60:10.1"
 msgid "Vedanā ca hidaṃ, mahāli, ekantasukhā abhavissa … pe …"

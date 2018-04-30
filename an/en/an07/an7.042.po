@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an07/an7.042.po\n"
-"X-Pootle-Revision: 198885\n"
+"X-Pootle-Path: /en/an/an07/an7.042.po\n"
+"X-Pootle-Revision: 2830\n"
 
 #. <section class="sutta" id="an7.42"><article><div class="hgroup"><p class="division">
 msgctxt "an7.42:0.1"
@@ -28,10 +28,10 @@ msgstr "4. Deities"
 #. VAR: 42. Paṭhamaniddasasutta → paṭhamaniddesavatthusuttaṃ (bj)
 msgctxt "an7.42:0.3"
 msgid "42. Paṭhamaniddasasutta"
-msgstr "42. Graduation"
+msgstr "42. Graduation (1st)"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.35"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.35"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an7.42:1.1"
 msgid ""
@@ -116,7 +116,7 @@ msgstr ""
 "told him what had happened."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.36"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.36"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an7.42:3.1"
 msgid ""
@@ -200,7 +200,7 @@ msgstr ""
 "with my own insight."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.37"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.37"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an7.42:5.1"
 msgid "Katamāni satta?"
@@ -218,8 +218,8 @@ msgid ""
 msgstr ""
 "It’s when a mendicant has a keen enthusiasm to undertake the training … to "
 "examine the teachings … to get rid of desires … for retreat … to rouse up "
-"energy … for mindfulness and alertness … to comprehend theoretically. And they "
-"don’t lose these desires in the future."
+"energy … for mindfulness and alertness … to comprehend theoretically. And "
+"they don’t lose these desires in the future."
 
 msgctxt "an7.42:5.3"
 msgid ""

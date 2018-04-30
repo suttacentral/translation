@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an04/an4.014.po\n"
-"X-Pootle-Revision: 196942\n"
+"X-Pootle-Path: /en/an/an04/an4.014.po\n"
+"X-Pootle-Revision: 1428\n"
 
 #. <section class="sutta" id="an4.14"><article><div class="hgroup"><p class="division">
 msgctxt "an4.14:0.1"
@@ -31,7 +31,7 @@ msgid "14. Saṃvarasutta"
 msgstr "14. Restraint"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.16"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.16"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an4.14:1.1"
 msgid "“Cattārimāni, bhikkhave, padhānāni."
@@ -121,9 +121,9 @@ msgid ""
 msgstr ""
 "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel "
 "thought that’s arisen, but gives it up, gets rid of it, eliminates it, and "
-"exterminates it. They don’t tolerate any bad, unskillful qualities that "
-"have arisen, but give them up, get rid of them, eliminate them, and "
-"exterminate them."
+"exterminates it. They don’t tolerate any bad, unskillful qualities that have "
+"arisen, but give them up, get rid of them, eliminate them, and exterminate "
+"them."
 
 msgctxt "an4.14:2.3"
 msgid "Idaṃ vuccati, bhikkhave, pahānappadhānaṃ."
@@ -154,7 +154,7 @@ msgid "Idaṃ vuccati, bhikkhave, bhāvanāppadhānaṃ."
 msgstr "This is called the effort to develop."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.17"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.17"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "an4.14:4.1"
 msgid "Katamañca, bhikkhave, anurakkhaṇāppadhānaṃ?"

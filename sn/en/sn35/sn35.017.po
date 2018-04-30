@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.017.po\n"
-"X-Pootle-Revision: 185759\n"
+"X-Pootle-Revision: 5542\n"
 
 #. <section class="sutta" id="sn35.17"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.17:0.1"
@@ -31,7 +31,7 @@ msgid "17. Paṭhamanoceassādasutta"
 msgstr "17. If There Were No Gratification (Interior)"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.11"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.11"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn35.17:1.1"
 msgid ""
@@ -68,7 +68,9 @@ msgctxt "sn35.17:1.5"
 msgid ""
 "No cedaṃ, bhikkhave, cakkhussa nissaraṇaṃ abhavissa, nayidaṃ sattā cakkhusmā "
 "nissareyyuṃ."
-msgstr "If there were no escape from the eye, sentient beings wouldn’t love it."
+msgstr ""
+"If there were no escape from the eye, sentient beings wouldn’t escape from "
+"it."
 
 msgctxt "sn35.17:1.6"
 msgid ""
@@ -172,7 +174,7 @@ msgstr ""
 "it."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.12"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.12"></a>
 #. <a class="sc" id="sc2"></a>
 #. VAR: vimariyādīkatena → vimariyādikatena (si) | vipariyādikatena (s1-3, km, mr) | vimariyādikatena (pts1)
 msgctxt "sn35.17:2.1"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/mn-/mn033.po\n"
-"X-Pootle-Revision: 195973\n"
+"X-Pootle-Path: /en/mn/mn033.po\n"
+"X-Pootle-Revision: 746\n"
 
 #. <section class="sutta" id="mn33"><article><div class="hgroup"><p class="division">
 msgctxt "mn33:0.1"
@@ -26,7 +26,7 @@ msgstr "The Longer Discourse on the Cowherd"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.220"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.220"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn33:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -163,7 +163,7 @@ msgstr "That’s how a mendicant isn’t skilled in characteristics."
 
 #. </p><p>
 #. <a class="nya" id="nya6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.221"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.221"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "mn33:6.1"
 msgid "Kathañca, bhikkhave, bhikkhu na āsāṭikaṃ hāretā hoti?"
@@ -177,9 +177,8 @@ msgid ""
 "adhivāseti, nappajahati na vinodeti na byantī karoti na anabhāvaṃ gameti."
 msgstr ""
 "It’s when a mendicant tolerates a sensual, malicious, or cruel thought that’"
-"s arisen. They tolerate any bad, unskillful qualities that have arisen. "
-"They don’t give them up, get rid of them, eliminate them, and exterminate "
-"them."
+"s arisen. They tolerate any bad, unskillful qualities that have arisen. They "
+"don’t give them up, get rid of them, eliminate them, and exterminate them."
 
 msgctxt "mn33:6.3"
 msgid "Evaṃ kho, bhikkhave, bhikkhu na āsāṭikaṃ hāretā hoti. (3)"
@@ -206,10 +205,9 @@ msgid ""
 "pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya na paṭipajjati, na "
 "rakkhati cakkhundriyaṃ, cakkhundriye na saṃvaraṃ āpajjati."
 msgstr ""
-"Since the faculty of sight is left unrestrained, bad unskillful qualities "
-"of desire and aversion become overwhelming. They don’t practice restraint, "
-"they don’t protect the faculty of sight, and they don’t achieve its "
-"restraint."
+"Since the faculty of sight is left unrestrained, bad unskillful qualities of "
+"desire and aversion become overwhelming. They don’t practice restraint, they "
+"don’t protect the faculty of sight, and they don’t achieve its restraint."
 
 msgctxt "mn33:7.4"
 msgid "Sotena saddaṃ sutvā … pe …"
@@ -239,10 +237,10 @@ msgid ""
 "pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya na paṭipajjati, na "
 "rakkhati manindriyaṃ, manindriye na saṃvaraṃ āpajjati."
 msgstr ""
-"Since the faculty of the mind is left unrestrained, bad unskillful "
-"qualities of desire and aversion become overwhelming. They don’t practice "
-"restraint, they don’t protect the faculty of the mind, and they don’t "
-"achieve its restraint."
+"Since the faculty of the mind is left unrestrained, bad unskillful qualities "
+"of desire and aversion become overwhelming. They don’t practice restraint, "
+"they don’t protect the faculty of the mind, and they don’t achieve its "
+"restraint."
 
 msgctxt "mn33:7.10"
 msgid "Evaṃ kho, bhikkhave, bhikkhu na vaṇaṃ paṭicchādetā hoti. (4)"
@@ -345,7 +343,7 @@ msgstr "That’s how a mendicant doesn’t know the trail."
 
 #. </p><p>
 #. <a class="nya" id="nya12"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.222"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.222"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "mn33:12.1"
 msgid "Kathañca, bhikkhave, bhikkhu na gocarakusalo hoti?"
@@ -492,7 +490,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya17"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.223"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.223"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "mn33:17.1"
 msgid "Kathañca, bhikkhave, bhikkhu rūpaññū hoti?"
@@ -673,7 +671,7 @@ msgstr "That’s how a mendicant knows the ford."
 
 #. </p><p>
 #. <a class="nya" id="nya23"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.224"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.224"></a>
 #. <a class="sc" id="sc23"></a>
 msgctxt "mn33:23.1"
 msgid "Kathañca bhikkhave, bhikkhu pītaṃ jānāti?"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an06/an6.029.po\n"
-"X-Pootle-Revision: 198535\n"
+"X-Pootle-Path: /en/an/an06/an6.029.po\n"
+"X-Pootle-Revision: 2554\n"
 
 #. <section class="sutta" id="an6.29"><article><div class="hgroup"><p class="division">
 msgctxt "an6.29:0.1"
@@ -68,7 +68,7 @@ msgid "Tatiyampi kho āyasmā udāyī tuṇhī ahosi."
 msgstr "And a second time and a third time Udāyī kept silent."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.323"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.323"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an6.29:2.1"
 msgid "Atha kho āyasmā ānando āyasmantaṃ udāyiṃ etadavoca:"
@@ -209,7 +209,7 @@ msgstr ""
 "leads to giving up sensual desire."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.324"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.324"></a>
 #. <a class="sc" id="sc7"></a>
 #. VAR: sivathikāya → sīvathikāya (s1-3, pts1)
 #. VAR: chaṭṭitaṃ → chaḍḍitaṃ (bj, s1-3, pts1)
@@ -260,7 +260,7 @@ msgstr ""
 "that.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.325"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.325"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "an6.29:9.1"
 msgid ""
