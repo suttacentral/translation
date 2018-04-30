@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an05/an5.071.po\n"
-"X-Pootle-Revision: 197837\n"
+"X-Pootle-Path: /en/an/an05/an5.071.po\n"
+"X-Pootle-Revision: 2096\n"
 
 #. <section class="sutta" id="an5.71"><article><div class="hgroup"><p class="division">
 msgctxt "an5.71:0.1"
@@ -31,7 +31,7 @@ msgid "71. Paṭhamacetovimuttiphalasutta"
 msgstr "71. Freedom of Heart is the Fruit (1st)"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.84"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.84"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an5.71:1.1"
 msgid ""
@@ -125,7 +125,7 @@ msgid "Evaṃ kho, bhikkhave, bhikkhu saṃkiṇṇaparikho hoti."
 msgstr "That’s how a mendicant has filled in the trench."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.85"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.85"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an5.71:5.1"
 msgid "Kathañca, bhikkhave, bhikkhu abbūḷhesiko hoti?"

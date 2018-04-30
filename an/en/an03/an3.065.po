@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an03/an3.065.po\n"
-"X-Pootle-Revision: 198204\n"
+"X-Pootle-Path: /en/an/an03/an3.065.po\n"
+"X-Pootle-Revision: 8763\n"
 
 #. <section class="sutta" id="an3.65"><article><div class="hgroup"><p class="division">
 msgctxt "an3.65:0.1"
@@ -22,7 +22,7 @@ msgstr "Numbered Discourses 3"
 #. </p><p>
 msgctxt "an3.65:0.2"
 msgid "7. Mahāvagga"
-msgstr "7. The Greater Chapter"
+msgstr "7. The Great Chapter"
 
 #. </p><h1>
 msgctxt "an3.65:0.3"
@@ -87,7 +87,7 @@ msgstr ""
 "while some kept silent. Seated to one side the Kālāmas said to the Buddha:"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.189"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.189"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an3.65:3.1"
 msgid "“Santi, bhante, eke samaṇabrāhmaṇā kesamuttaṃ āgacchanti."
@@ -142,10 +142,11 @@ msgid ""
 "piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā "
 "diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."
 msgstr ""
-"Please, Kālāmas, don’t rely on oral transmission, lineage, testament, "
-"canonical authority, logic, inference, reasoned contemplation, acceptance of "
-"a view after consideration, the appearance of competence, or respect for "
-"your teacher."
+"Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t "
+"go by testament, don’t go by canonical authority, don’t rely on logic, don’t "
+"rely on inference, don’t go by reasoned contemplation, don’t go by the "
+"acceptance of a view after consideration, don’t go by the appearance of "
+"competence, and don’t think ‘The ascetic is our respected teacher.’"
 
 msgctxt "an3.65:4.2"
 msgid "Yadā tumhe, kālāmā, attanāva jāneyyātha:"
@@ -251,7 +252,7 @@ msgid "“Ahitāya, bhante”."
 msgstr "“Harm, sir.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.190"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.190"></a>
 #. <a class="sc" id="sc15"></a>
 msgctxt "an3.65:15.1"
 msgid ""
@@ -273,8 +274,7 @@ msgstr "“Yes, sir.”"
 #. <a class="sc" id="sc17"></a>
 msgctxt "an3.65:17.1"
 msgid "“Taṃ kiṃ maññatha, kālāmā, ime dhammā kusalā vā akusalā vā”ti?"
-msgstr ""
-"“What do you think, Kālāmas, are these things skillful or unskillful?”"
+msgstr "“What do you think, Kālāmas, are these things skillful or unskillful?”"
 
 #. </p><p>
 #. <a class="sc" id="sc18"></a>
@@ -344,9 +344,11 @@ msgid ""
 "takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, "
 "mā bhabbarūpatāya, mā samaṇo no garūti."
 msgstr ""
-"don’t rely on oral transmission, lineage, testament, canonical authority, "
-"logic, inference, reasoned contemplation, acceptance of a view after "
-"consideration, the appearance of competence, or respect for your teacher."
+"don’t go by oral transmission, don’t go by lineage, don’t go by testament, "
+"don’t go by canonical authority, don’t rely on logic, don’t rely on "
+"inference, don’t go by reasoned contemplation, don’t go by the acceptance of "
+"a view after consideration, don’t go by the appearance of competence, and "
+"don’t think “The ascetic is our respected teacher.”"
 
 msgctxt "an3.65:25.4"
 msgid "Yadā tumhe kālāmā attanāva jāneyyātha:"
@@ -374,10 +376,11 @@ msgid ""
 "piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā "
 "diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."
 msgstr ""
-"Please, Kālāmas, don’t rely on oral transmission, lineage, testament, "
-"canonical authority, logic, inference, reasoned contemplation, acceptance of "
-"a view after consideration, the appearance of competence, or respect for "
-"your teacher."
+"Please, Kālāmas, don’t go by oral transmission, don’t go by lineage, don’t "
+"go by testament, don’t go by canonical authority, don’t rely on logic, don’t "
+"rely on inference, don’t go by reasoned contemplation, don’t go by the "
+"acceptance of a view after consideration, don’t go by the appearance of "
+"competence, and don’t think ‘The ascetic is our respected teacher.’"
 
 msgctxt "an3.65:26.2"
 msgid "Yadā tumhe, kālāmā, attanāva jāneyyātha:"
@@ -411,7 +414,7 @@ msgid "“Hitāya, bhante”."
 msgstr "“Welfare, sir.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.191"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.191"></a>
 #. <a class="sc" id="sc29"></a>
 msgctxt "an3.65:29.1"
 msgid ""
@@ -458,8 +461,7 @@ msgstr "“Yes, sir.”"
 #. <a class="sc" id="sc33"></a>
 msgctxt "an3.65:33.1"
 msgid "“Taṃ kiṃ maññatha, kālāmā, ime dhammā kusalā vā akusalā vā”ti?"
-msgstr ""
-"“What do you think, Kālāmas, are these things skillful or unskillful?”"
+msgstr "“What do you think, Kālāmas, are these things skillful or unskillful?”"
 
 #. </p><p>
 #. <a class="sc" id="sc34"></a>
@@ -513,7 +515,7 @@ msgid "Evaṃ no ettha hotī”ti."
 msgstr "That’s how we see it.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.192"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.192"></a>
 #. <a class="sc" id="sc41"></a>
 msgctxt "an3.65:41.1"
 msgid "“Iti kho, kālāmā, yaṃ taṃ avocumhā:"
@@ -529,9 +531,11 @@ msgid ""
 "takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, "
 "mā bhabbarūpatāya, mā samaṇo no garūti."
 msgstr ""
-"don’t rely on oral transmission, lineage, testament, canonical authority, "
-"logic, inference, reasoned contemplation, acceptance of a view after "
-"consideration, the appearance of competence, or respect for your teacher."
+"don’t go by oral transmission, don’t go by lineage, don’t go by testament, "
+"don’t go by canonical authority, don’t rely on logic, don’t rely on "
+"inference, don’t go by reasoned contemplation, don’t go by the acceptance of "
+"a view after consideration, don’t go by the appearance of competence, and "
+"don’t think “The ascetic is our respected teacher.”"
 
 msgctxt "an3.65:41.4"
 msgid "Yadā tumhe, kālāmā, attanāva jāneyyātha—"
@@ -685,7 +689,7 @@ msgid "Tassa diṭṭheva dhamme ime cattāro assāsā adhigatā hontī”ti."
 msgstr "they’ve won these four consolations in the present life.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.193"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.193"></a>
 #. <a class="sc" id="sc48"></a>
 msgctxt "an3.65:48.1"
 msgid "“Evametaṃ, bhagavā, evametaṃ, sugata."

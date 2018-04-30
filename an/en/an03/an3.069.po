@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an03/an3.069.po\n"
-"X-Pootle-Revision: 191451\n"
+"X-Pootle-Path: /en/an/an03/an3.069.po\n"
+"X-Pootle-Revision: 9020\n"
 
 #. <section class="sutta" id="an3.69"><article><div class="hgroup"><p class="division">
 msgctxt "an3.69:0.1"
@@ -22,7 +22,7 @@ msgstr "Numbered Discourses 3"
 #. </p><p>
 msgctxt "an3.69:0.2"
 msgid "7. Mahāvagga"
-msgstr "7. The Greater Chapter"
+msgstr "7. The Great Chapter"
 
 #. </p><h1>
 msgctxt "an3.69:0.3"
@@ -75,11 +75,11 @@ msgid ""
 "Itissame lobhajā lobhanidānā lobhasamudayā lobhapaccayā aneke pāpakā akusalā "
 "dhammā sambhavanti."
 msgstr ""
-"And so these many bad, unskillful things are produced in them born, "
-"sourced, originated, and conditioned by greed."
+"And so these many bad, unskillful things are produced in them born, sourced, "
+"originated, and conditioned by greed."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.202"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.202"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an3.69:3.1"
 msgid "Yadapi, bhikkhave, doso tadapi akusalamūlaṃ;"
@@ -106,8 +106,8 @@ msgid ""
 "Itissame dosajā dosanidānā dosasamudayā dosapaccayā aneke pāpakā akusalā "
 "dhammā sambhavanti."
 msgstr ""
-"And so these many bad, unskillful things are produced in them born, "
-"sourced, originated, and conditioned by hate."
+"And so these many bad, unskillful things are produced in them born, sourced, "
+"originated, and conditioned by hate."
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
@@ -136,8 +136,8 @@ msgid ""
 "Itissame mohajā mohanidānā mohasamudayā mohapaccayā aneke pāpakā akusalā "
 "dhammā sambhavanti."
 msgstr ""
-"And so these many bad, unskillful things are produced in them born, "
-"sourced, originated, and conditioned by delusion."
+"And so these many bad, unskillful things are produced in them born, sourced, "
+"originated, and conditioned by delusion."
 
 msgctxt "an3.69:4.5"
 msgid ""
@@ -175,7 +175,7 @@ msgid ""
 "itipetaṃ abhūtanti."
 msgstr ""
 "When someone makes a baseless criticism, they make no effort to explain, ‘"
-"This why that’s untrue, this is why that’s false.’"
+"This is why that’s untrue, this is why that’s false.’"
 
 msgctxt "an3.69:5.5"
 msgid ""
@@ -203,7 +203,7 @@ msgstr ""
 "place of loss, a bad place, the underworld, hell."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.203"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.203"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "an3.69:7.1"
 msgid "Dosajehi … pe …"
@@ -342,7 +342,7 @@ msgstr ""
 "originated, and conditioned by love."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.204"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.204"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "an3.69:12.1"
 msgid "Yadapi, bhikkhave, amoho tadapi kusalamūlaṃ;"
@@ -411,7 +411,7 @@ msgstr ""
 
 msgctxt "an3.69:13.5"
 msgid "‘itipetaṃ atacchaṃ, itipetaṃ abhūtan’ti."
-msgstr "‘This why that’s untrue, this is why that’s false.’"
+msgstr "‘This is why that’s untrue, this is why that’s false.’"
 
 msgctxt "an3.69:13.6"
 msgid ""
@@ -442,7 +442,7 @@ msgid "Diṭṭheva dhamme parinibbāyati."
 msgstr "and they’re also extinguished in the present life."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.205"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.205"></a>
 #. <a class="sc" id="sc15"></a>
 msgctxt "an3.69:15.1"
 msgid "Dosajā … pe …"

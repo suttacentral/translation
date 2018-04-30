@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an04/an4.164.po\n"
-"X-Pootle-Revision: 197191\n"
+"X-Pootle-Path: /en/an/an04/an4.164.po\n"
+"X-Pootle-Revision: 1726\n"
 
 #. <section class="sutta" id="an4.164"><article><div class="hgroup"><p class="division">
 msgctxt "an4.164:0.1"
@@ -81,7 +81,7 @@ msgid "Ayaṃ vuccati, bhikkhave, khamā paṭipadā."
 msgstr "This is called the patient practice."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.153"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.153"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an4.164:3.1"
 msgid "Katamā ca, bhikkhave, damā paṭipadā?"
@@ -157,8 +157,8 @@ msgid ""
 "pajahati vinodeti sameti byantīkaroti anabhāvaṃ gameti."
 msgstr ""
 "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel "
-"thought. They don’t tolerate any bad, unskillful qualities that have "
-"arisen, but give them up, get rid of them, calm them, eliminate them, and "
+"thought. They don’t tolerate any bad, unskillful qualities that have arisen, "
+"but give them up, get rid of them, calm them, eliminate them, and "
 "exterminate them."
 
 msgctxt "an4.164:4.3"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/mn-/mn139.po\n"
-"X-Pootle-Revision: 196352\n"
+"X-Pootle-Path: /en/mn/mn139.po\n"
+"X-Pootle-Revision: 958\n"
 
 #. <section class="sutta" id="mn139"><article><div class="hgroup"><p class="division">
 msgctxt "mn139:0.1"
@@ -26,7 +26,7 @@ msgstr "The Analysis of Non-Conflict"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.230"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.230"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn139:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -134,7 +134,7 @@ msgstr "This is the recitation passage for the analysis of non-conflict."
 
 #. </p><p>
 #. <a class="nya" id="nya4"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.231"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.231"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn139:4.1"
 msgid ""
@@ -298,7 +298,7 @@ msgid "iti vadaṃ ittheke ussādeti."
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.232"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.232"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "mn139:7.6"
 msgid ""
@@ -490,7 +490,7 @@ msgid "iti vadaṃ dhammameva deseti."
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.233"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.233"></a>
 #. <a class="sc" id="sc15"></a>
 msgctxt "mn139:8.22"
 msgid ""
@@ -558,7 +558,7 @@ msgstr "That’s what I said, and this is why I said it."
 
 #. </p><p>
 #. <a class="nya" id="nya9"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.234"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.234"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "mn139:9.1"
 msgid "‘Sukhavinicchayaṃ jaññā;"
@@ -633,9 +633,9 @@ msgid ""
 "viharati."
 msgstr ""
 "Now, take a mendicant who, quite secluded from sensual pleasures, secluded "
-"from unskillful qualities, enters and remains in the first absorption, "
-"which has the rapture and bliss born of seclusion, while placing the mind "
-"and keeping it connected."
+"from unskillful qualities, enters and remains in the first absorption, which "
+"has the rapture and bliss born of seclusion, while placing the mind and "
+"keeping it connected."
 
 msgctxt "mn139:9.15"
 msgid ""
@@ -796,7 +796,7 @@ msgstr "That’s what I said, and this is why I said it."
 
 #. </p><p>
 #. <a class="nya" id="nya12"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.235"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.235"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "mn139:12.1"
 msgid "‘Janapadaniruttiṃ nābhiniveseyya, samaññaṃ nātidhāveyyā’ti—"
@@ -959,7 +959,7 @@ msgid "Tasmā eso dhammo araṇo."
 msgstr "That’s why this is a principle free of conflict."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.236"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.236"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "mn139:13.13"
 msgid ""
@@ -1100,7 +1100,7 @@ msgid "Tasmā eso dhammo araṇo."
 msgstr "That’s why this is a principle free of conflict."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.237"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.237"></a>
 #. <a class="sc" id="sc28"></a>
 msgctxt "mn139:13.37"
 msgid ""
@@ -1173,7 +1173,7 @@ msgid ""
 "Tatra, bhikkhave, yamidaṃ ataramānassa bhāsitaṃ, adukkho eso dhammo "
 "anupaghāto anupāyāso apariḷāho;"
 msgstr ""
-"Speaking unhurriedly is a behavior free of pain, harm, stress, and fever, "
+"Speaking unhurriedly is a principle free of pain, harm, stress, and fever, "
 "and it is the right way."
 
 msgctxt "mn139:13.50"
@@ -1182,7 +1182,7 @@ msgstr ""
 
 msgctxt "mn139:13.51"
 msgid "Tasmā eso dhammo araṇo."
-msgstr "That’s why this is a behavior free of conflict."
+msgstr "That’s why this is a principle free of conflict."
 
 #. </p><p>
 #. <a class="sc" id="sc30"></a>
@@ -1191,7 +1191,7 @@ msgid ""
 "Tatra, bhikkhave, yvāyaṃ janapadaniruttiyā ca abhiniveso samaññāya ca "
 "atisāro, sadukkho eso dhammo saupaghāto saupāyāso sapariḷāho;"
 msgstr ""
-"Insisting on local terminology and overriding normal usage is a behavior "
+"Insisting on local terminology and overriding normal usage is a principle "
 "beset by pain, harm, stress, and fever, and it is the wrong way."
 
 msgctxt "mn139:13.53"
@@ -1200,7 +1200,7 @@ msgstr ""
 
 msgctxt "mn139:13.54"
 msgid "Tasmā eso dhammo saraṇo."
-msgstr "That’s why this is a behavior beset by conflict."
+msgstr "That’s why this is a principle beset by conflict."
 
 msgctxt "mn139:13.55"
 msgid ""
@@ -1208,7 +1208,7 @@ msgid ""
 "anatisāro, adukkho eso dhammo anupaghāto anupāyāso apariḷāho;"
 msgstr ""
 "Not insisting on local terminology and not overriding normal usage is a "
-"behavior free of pain, harm, stress, and fever, and it is the right way."
+"principle free of pain, harm, stress, and fever, and it is the right way."
 
 msgctxt "mn139:13.56"
 msgid "sammāpaṭipadā."
@@ -1216,7 +1216,7 @@ msgstr ""
 
 msgctxt "mn139:13.57"
 msgid "Tasmā eso dhammo araṇo."
-msgstr "That’s why this is a behavior free of conflict."
+msgstr "That’s why this is a principle free of conflict."
 
 #. </p><p>
 #. <a class="nya" id="nya14"></a>
@@ -1226,8 +1226,8 @@ msgid ""
 "Tasmātiha, bhikkhave, ‘saraṇañca dhammaṃ jānissāma, araṇañca dhammaṃ "
 "jānissāma;"
 msgstr ""
-"So you should train like this: ‘We shall know behavior beset by conflict and "
-"behavior free of conflict."
+"So you should train like this: ‘We shall know the principles beset by "
+"conflict and the principles free of conflict."
 
 msgctxt "mn139:14.2"
 msgid ""

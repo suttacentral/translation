@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an08/an8.053.po\n"
-"X-Pootle-Revision: 192367\n"
+"X-Pootle-Path: /en/an/an08/an8.053.po\n"
+"X-Pootle-Revision: 3054\n"
 
 #. <section class="sutta" id="an8.53"><article><div class="hgroup"><p class="division">
 msgctxt "an8.53:0.1"
@@ -71,7 +71,7 @@ msgstr "to being fettered, not to being unfettered;"
 
 msgctxt "an8.53:2.5"
 msgid "ācayāya saṃvattanti, no apacayāya;"
-msgstr "to increase, not decrease;"
+msgstr "to accumulation, not dispersal;"
 
 msgctxt "an8.53:2.6"
 msgid "mahicchatāya saṃvattanti, no appicchatāya;"
@@ -102,7 +102,7 @@ msgid "‘neso dhammo, neso vinayo, netaṃ satthusāsanan’ti."
 msgstr "not the teaching, not the training, and not the Teacher’s instructions."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.281"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.281"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an8.53:3.1"
 msgid "Ye ca kho tvaṃ, gotami, dhamme jāneyyāsi:"
@@ -118,7 +118,7 @@ msgstr "to being unfettered, not to being fettered;"
 
 msgctxt "an8.53:3.4"
 msgid "apacayāya saṃvattanti, no ācayāya;"
-msgstr "to decrease, not increase;"
+msgstr "to dispersal, not accumulation;"
 
 msgctxt "an8.53:3.5"
 msgid "appicchatāya saṃvattanti, no mahicchatāya;"

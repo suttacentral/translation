@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.65.po\n"
-"X-Pootle-Revision: 197656\n"
+"X-Pootle-Revision: 8806\n"
 
 #. <section class="sutta" id="sn12.65"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.65:0.1"
@@ -22,7 +22,7 @@ msgstr "Linked Discourses 12"
 #. </p><p>
 msgctxt "sn12.65:0.2"
 msgid "7. Mahāvagga"
-msgstr "7. The Greater Chapter"
+msgstr "7. The Great Chapter"
 
 #. </p><h1>
 msgctxt "sn12.65:0.3"
@@ -123,7 +123,7 @@ msgstr "name and form …"
 
 msgctxt "sn12.65:2.10"
 msgid "kiṃpaccayā nāmarūpan’ti?"
-msgstr "What is a conditionm for name and form?’"
+msgstr "What is a condition for name and form?’"
 
 msgctxt "sn12.65:2.11"
 msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
@@ -156,7 +156,7 @@ msgstr ""
 "condition for consciousness.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.105"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.105"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn12.65:3.1"
 msgid "Tassa mayhaṃ, bhikkhave, etadahosi—"
@@ -175,7 +175,7 @@ msgid ""
 "nāmarūpapaccayā viññāṇaṃ;"
 msgstr ""
 "This is the extent to which one may be reborn, grow old, die, pass away, or "
-"reappear. That is: name and form are a condition for consciousness."
+"reappear. That is: name and form are conditions for consciousness."
 
 msgctxt "sn12.65:3.4"
 msgid "viññāṇapaccayā nāmarūpaṃ;"
@@ -183,7 +183,7 @@ msgstr "Consciousness is a condition for name and form."
 
 msgctxt "sn12.65:3.5"
 msgid "nāmarūpapaccayā saḷāyatanaṃ;"
-msgstr "Name and form are a condition for the six sense fields."
+msgstr "Name and form are conditions for the six sense fields."
 
 msgctxt "sn12.65:3.6"
 msgid "saḷāyatanapaccayā phasso … pe …"
@@ -210,7 +210,7 @@ msgstr "Then it occurred to me:"
 
 msgctxt "sn12.65:4.2"
 msgid "‘kimhi nu kho asati, jarāmaraṇaṃ na hoti;"
-msgstr "‘When what exists is there no old age and death?"
+msgstr "‘When what doesn’t exist is there no old age and death?"
 
 msgctxt "sn12.65:4.3"
 msgid "kissa nirodhā jarāmaraṇanirodho’ti?"
@@ -266,7 +266,7 @@ msgstr "name and form?"
 
 msgctxt "sn12.65:4.16"
 msgid "Kissa nirodhā nāmarūpanirodho’ti?"
-msgstr "When what ceases does name and form cease?’"
+msgstr "When what ceases do name and form cease?’"
 
 msgctxt "sn12.65:4.17"
 msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
@@ -274,11 +274,11 @@ msgstr "Then, through proper attention, I comprehended with wisdom:"
 
 msgctxt "sn12.65:4.18"
 msgid "‘viññāṇe kho asati, nāmarūpaṃ na hoti;"
-msgstr "‘When consciousness doesn’t exist name and form doesn’t come to be."
+msgstr "‘When consciousness doesn’t exist name and form don’t come to be."
 
 msgctxt "sn12.65:4.19"
 msgid "viññāṇanirodhā nāmarūpanirodho’ti."
-msgstr "When consciousness ceases name and form ceases.’"
+msgstr "When consciousness ceases name and form cease.’"
 
 #. </p><p>
 #. <a class="sc" id="sc5"></a>
@@ -292,7 +292,7 @@ msgstr "‘When what doesn’t exist is there no consciousness?"
 
 msgctxt "sn12.65:5.3"
 msgid "kissa nirodhā viññāṇanirodho’ti?"
-msgstr "When what ceases does consciousness ceases?’"
+msgstr "When what ceases does consciousness cease?’"
 
 msgctxt "sn12.65:5.4"
 msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
@@ -346,7 +346,7 @@ msgstr ""
 "another."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.106"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.106"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "sn12.65:7.1"
 msgid ""
@@ -354,7 +354,7 @@ msgid ""
 "purāṇañjasaṃ pubbakehi manussehi anuyātaṃ."
 msgstr ""
 "Suppose a person was walking through a forest. They’d see an ancient path, "
-"an ancient road travelled by humans in the past."
+"an ancient road traveled by humans in the past."
 
 msgctxt "sn12.65:7.2"
 msgid "So tamanugaccheyya."
@@ -382,7 +382,7 @@ msgid ""
 "maggaṃ purāṇañjasaṃ pubbakehi manussehi anuyātaṃ tamanugacchiṃ."
 msgstr ""
 "‘Please sir, you should know this. While walking through a forest I saw an "
-"ancient path, an ancient road travelled by humans in the past."
+"ancient path, an ancient road traveled by humans in the past."
 
 msgctxt "sn12.65:7.6"
 msgid ""
@@ -415,18 +415,18 @@ msgid ""
 "Evameva khvāhaṃ, bhikkhave, addasaṃ purāṇaṃ maggaṃ purāṇañjasaṃ pubbakehi "
 "sammāsambuddhehi anuyātaṃ."
 msgstr ""
-"In the same way, I saw an ancient path, an ancient road travelled by fully "
+"In the same way, I saw an ancient path, an ancient road traveled by fully "
 "awakened Buddhas in the past."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.107"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.107"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "sn12.65:8.1"
 msgid ""
 "Katamo ca so, bhikkhave, purāṇamaggo purāṇañjaso pubbakehi sammāsambuddhehi "
 "anuyāto?"
 msgstr ""
-"And what is that ancient path, the ancient road travelled by fully awakened "
+"And what is that ancient path, the ancient road traveled by fully awakened "
 "Buddhas in the past?"
 
 msgctxt "sn12.65:8.2"
@@ -444,7 +444,7 @@ msgid ""
 "Ayaṃ kho so, bhikkhave, purāṇamaggo purāṇañjaso pubbakehi sammāsambuddhehi "
 "anuyāto, tamanugacchiṃ;"
 msgstr ""
-"This is that ancient path, the ancient road travelled by fully awakened "
+"This is that ancient path, the ancient road traveled by fully awakened "
 "Buddhas in the past."
 
 msgctxt "sn12.65:8.5"

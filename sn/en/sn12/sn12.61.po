@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.61.po\n"
-"X-Pootle-Revision: 185219\n"
+"X-Pootle-Revision: 8785\n"
 
 #. <section class="sutta" id="sn12.61"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.61:0.1"
@@ -22,7 +22,7 @@ msgstr "Linked Discourses 12"
 #. </p><p>
 msgctxt "sn12.61:0.2"
 msgid "7. Mahāvagga"
-msgstr "7. The Greater Chapter"
+msgstr "7. The Great Chapter"
 
 #. </p><h1>
 #. VAR: 61. Assutavāsutta → assutavantusuttaṃ (bj) | assutavato (pts1-2)
@@ -31,7 +31,7 @@ msgid "61. Assutavāsutta"
 msgstr "61. Uneducated"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.94"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.94"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn12.61:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -64,8 +64,8 @@ msgid ""
 "Dissati, bhikkhave, imassa cātumahābhūtikassa kāyassa ācayopi apacayopi "
 "ādānampi nikkhepanampi."
 msgstr ""
-"This body made up of the four primary elements is seen to increase and "
-"decrease, to be taken up and laid to rest."
+"This body made up of the four primary elements is seen to accumulate and "
+"disperse, to be taken up and laid to rest."
 
 # Not sure why BB repeats “this body composed of the four great elements” in this sentence. It’s not in the Pali.
 msgctxt "sn12.61:1.6"
@@ -110,15 +110,15 @@ msgstr ""
 "unable to become disillusioned, dispassionate, and freed."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.95"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.95"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn12.61:3.1"
 msgid ""
 "Varaṃ, bhikkhave, assutavā puthujjano imaṃ cātumahābhūtikaṃ kāyaṃ attato "
 "upagaccheyya, na tveva cittaṃ."
 msgstr ""
-"But an uneducated ordinary person would be better off taking as self this "
-"body made up of the four primary elements, rather than the mind."
+"But an uneducated ordinary person would be better off taking this body made "
+"up of the four primary elements to be their self, rather than the mind."
 
 msgctxt "sn12.61:3.2"
 msgid "Taṃ kissa hetu?"
@@ -170,7 +170,7 @@ msgid ""
 "Tatra, bhikkhave, sutavā ariyasāvako paṭiccasamuppādaṃyeva sādhukaṃ yoniso "
 "manasi karoti:"
 msgstr ""
-"In this case, a learned noble disciple carefully and properly attendes on "
+"In this case, a learned noble disciple carefully and properly attends to "
 "dependent origination itself:"
 
 msgctxt "sn12.61:5.2"

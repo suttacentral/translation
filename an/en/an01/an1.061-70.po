@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an01/an1.061-70.po\n"
-"X-Pootle-Revision: 191339\n"
+"X-Pootle-Path: /en/an/an01/an1.061-70.po\n"
+"X-Pootle-Revision: 998\n"
 
 #. <section id="vagga"><section class="sutta" data-uid="an1.61" id="61"><article><div class="hgroup"><p class="division">
 msgctxt "an1.61-70:0.1"
@@ -31,7 +31,7 @@ msgid "61"
 msgstr "61"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.12"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.12"></a>
 #. <a class="sc" id="sc61.1"></a>
 #. VAR: vīriyārambho → viriyārambho (bj, s1-3, km, pts1)
 msgctxt "an1.61-70:61.1.1"
@@ -106,8 +106,8 @@ msgid ""
 "Appicchassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca "
 "akusalā dhammā parihāyantī”ti."
 msgstr ""
-"When you have few wishes, skillful qualities arise, and unskillful "
-"qualities decline.”"
+"When you have few wishes, skillful qualities arise, and unskillful qualities "
+"decline.”"
 
 #. </p><p class="endsection">
 msgctxt "an1.61-70:63.1.3"
@@ -135,8 +135,8 @@ msgid ""
 "Asantuṭṭhassa, bhikkhave, anuppannā ceva akusalā dhammā uppajjanti uppannā "
 "ca kusalā dhammā parihāyantī”ti."
 msgstr ""
-"When you’re discontented, unskillful qualities arise, and skillful "
-"qualities decline.”"
+"When you’re discontented, unskillful qualities arise, and skillful qualities "
+"decline.”"
 
 #. </p><p class="endsection">
 msgctxt "an1.61-70:64.1.3"
@@ -178,7 +178,7 @@ msgid "66"
 msgstr "66"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.13"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.13"></a>
 #. <a class="sc" id="sc66.1"></a>
 msgctxt "an1.61-70:66.1.1"
 msgid ""
@@ -223,8 +223,8 @@ msgid ""
 "Yoniso, bhikkhave, manasi karoto anuppannā ceva kusalā dhammā uppajjanti "
 "uppannā ca akusalā dhammā parihāyantī”ti."
 msgstr ""
-"When you attend properly, skillful qualities arise, and unskillful "
-"qualities decline.”"
+"When you attend properly, skillful qualities arise, and unskillful qualities "
+"decline.”"
 
 #. </p><p class="endsection">
 msgctxt "an1.61-70:67.1.3"
@@ -282,8 +282,8 @@ msgid ""
 "Sampajānassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca "
 "akusalā dhammā parihāyantī”ti."
 msgstr ""
-"When you have situational awareness, unskillful qualities arise, and "
-"skillful qualities decline.”"
+"When you have situational awareness, skillful qualities arise, and "
+"unskillful qualities decline.”"
 
 #. </p><p class="endsection">
 msgctxt "an1.61-70:69.1.3"

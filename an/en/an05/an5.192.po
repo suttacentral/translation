@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an05/an5.192.po\n"
-"X-Pootle-Revision: 198287\n"
+"X-Pootle-Path: /en/an/an05/an5.192.po\n"
+"X-Pootle-Revision: 2338\n"
 
 #. <section class="sutta" id="an5.192"><article><div class="hgroup"><p class="division">
 msgctxt "an5.192:0.1"
@@ -31,7 +31,7 @@ msgid "192. Doṇabrāhmaṇasutta"
 msgstr "192. With the Brahmin Doṇa"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.223"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.223"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an5.192:1.1"
 msgid ""
@@ -123,7 +123,7 @@ msgstr ""
 
 # BB treats pavattar as equivalent to kattar, hence “creator”, and pavutta as from vac, i.e. reciter. However it seems likely that they are from the same root, cf occasional variant pavatta as noted in PTS dict. They relate to pavattita, cf. the rolling forth of the dhammacakka, and have the sense of “roll forth, i.e. propagate, spread” rather than either create or recite. Note that this statement is spoken by the Buddha to brahmins, and is an attack on their notion that the verses were spoken by Brahma, substituting a naturalistic explanation.
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.224"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.224"></a>
 #. <a class="sc" id="sc3"></a>
 #. VAR: yamadaggi → yamataggi (bj)
 msgctxt "an5.192:3.1"
@@ -224,7 +224,7 @@ msgstr ""
 "illegitimate."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.225"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.225"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an5.192:6.1"
 msgid "Tattha ca, doṇa, ko dhammo?"
@@ -297,7 +297,7 @@ msgid "Evaṃ kho, doṇa, brāhmaṇo brahmasamo hoti. (1)"
 msgstr "That’s how a brahmin is equal to Brahmā."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.226"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.226"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "an5.192:7.1"
 msgid "Kathañca, doṇa, brāhmaṇo devasamo hoti?"
@@ -344,7 +344,7 @@ msgstr ""
 "legitimate means, not illegitimate."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.227"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.227"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an5.192:8.1"
 msgid "Tattha ca, doṇa, ko dhammo?"
@@ -429,8 +429,8 @@ msgid ""
 "upasampajja viharati."
 msgstr ""
 "When he has gone forth, quite secluded from sensual pleasures, secluded from "
-"unskillful qualities, he enters and remains in the first absorption … "
-"second absorption … third absorption … fourth absorption."
+"unskillful qualities, he enters and remains in the first absorption … second "
+"absorption … third absorption … fourth absorption."
 
 # Notice the jhanas lead to heaven, not Brahma realms.
 msgctxt "an5.192:8.13"
@@ -568,7 +568,7 @@ msgid "Evaṃ kho, doṇa, brāhmaṇo mariyādo hoti. (3)"
 msgstr "That’s how a brahmin toes the line."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.228"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.228"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "an5.192:11.1"
 msgid "Kathañca, doṇa, brāhmaṇo sambhinnamariyādo hoti?"
@@ -654,7 +654,7 @@ msgid "Evaṃ kho, doṇa, brāhmaṇo sambhinnamariyādo hoti. (4)"
 msgstr "That’s how a brahmin crosses the line."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.229"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.229"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "an5.192:13.1"
 msgid "Kathañca, doṇa, brāhmaṇo brāhmaṇacaṇḍālo hoti?"
@@ -777,7 +777,7 @@ msgid "Evaṃ kho, doṇa, brāhmaṇo brāhmaṇacaṇḍālo hoti."
 msgstr "That’s how a brahmin is a brahmin outcaste."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.230"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.230"></a>
 #. <a class="sc" id="sc15"></a>
 msgctxt "an5.192:15.1"
 msgid ""

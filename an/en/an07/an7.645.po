@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an07/an7.645.po\n"
-"X-Pootle-Revision: 198938\n"
+"X-Pootle-Path: /en/an/an07/an7.645.po\n"
+"X-Pootle-Revision: 2948\n"
 
 #. <section class="sutta" id="an7.645"><article><div class="hgroup"><p class="division">
 msgctxt "an7.645:0.1"
@@ -136,7 +136,7 @@ msgid "ime satta dhammā bhāvetabbā”ti."
 msgstr "these seven things should be developed.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.149"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.149"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an7.645:2.1"
 msgid "Idamavoca bhagavā."

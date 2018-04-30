@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.240.po\n"
-"X-Pootle-Revision: 185935\n"
+"X-Pootle-Revision: 5894\n"
 
 #. <section class="sutta" id="sn35.240"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.240:0.1"
@@ -30,7 +30,7 @@ msgid "240. Kummopamasutta"
 msgstr "240. The Simile of the Tortoise"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.178"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.178"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn35.240:1.1"
 msgid ""
@@ -146,8 +146,8 @@ msgctxt "sn35.240:2.12"
 msgid ""
 "manasā dhammaṃ viññāya mā nimittaggāhino ahuvattha, mā anubyañjanaggāhino."
 msgstr ""
-"When you cognize a phenomenon with your mind, don’t get caught up in the "
-"features and details."
+"When you know a thought with your mind, don’t get caught up in the features "
+"and details."
 
 msgctxt "sn35.240:2.13"
 msgid ""
@@ -172,7 +172,7 @@ msgid "kummamhāva siṅgāloti."
 msgstr "just like the jackal left the tortoise.”"
 
 #. </p><blockquote class="gatha"><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.179"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.179"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn35.240:3.1"
 msgid "Kummova aṅgāni sake kapāle,"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an07/an7.082.po\n"
-"X-Pootle-Revision: 192295\n"
+"X-Pootle-Path: /en/an/an07/an7.082.po\n"
+"X-Pootle-Revision: 2910\n"
 
 #. <section class="sutta" id="an7.82"><article><div class="hgroup"><p class="division">
 msgctxt "an7.82:0.1"
@@ -22,12 +22,12 @@ msgstr "Numbered Discourses 7"
 #. </p><p>
 msgctxt "an7.82:0.2"
 msgid "8. Vinayavagga"
-msgstr "8. The Training Code"
+msgstr "8. The Monastic Law"
 
 #. </p><h1>
 msgctxt "an7.82:0.3"
 msgid "82. Catutthavinayadharasobhanasutta"
-msgstr "82. Shines as an Expert in the Training Code"
+msgstr "82. Shines as an Expert in the Monastic Law (4th)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -36,7 +36,7 @@ msgctxt "an7.82:1.1"
 msgid "“Sattahi, bhikkhave, dhammehi samannāgato vinayadharo sobhati."
 msgstr ""
 "“Mendicants, a mendicant with seven qualities shines as an expert in the "
-"training code."
+"monastic law."
 
 msgctxt "an7.82:1.2"
 msgid "Katamehi sattahi?"
@@ -82,8 +82,8 @@ msgctxt "an7.82:1.10"
 msgid ""
 "Imehi kho, bhikkhave, sattahi dhammehi samannāgato vinayadharo sobhatī”ti."
 msgstr ""
-"A mendicant with these seven qualities shines as an expert in the training "
-"code.”"
+"A mendicant with these seven qualities shines as an expert in the monastic "
+"law.”"
 
 #. </p><p class="endsection">
 msgctxt "an7.82:1.11"

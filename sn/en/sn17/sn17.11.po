@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn17/sn17.11.po\n"
-"X-Pootle-Revision: 185327\n"
+"X-Pootle-Revision: 8982\n"
 
 #. <section class="sutta" id="sn17.11"><article><div class="hgroup"><p class="division">
 msgctxt "sn17.11:0.1"
@@ -23,7 +23,7 @@ msgstr "Linked Discourses 17"
 #. VAR: 2. Dutiyavagga → pāti 1 (pts1-2)
 msgctxt "sn17.11:0.2"
 msgid "2. Dutiyavagga"
-msgstr "2. Second Chapter"
+msgstr "2. The Second Chapter"
 
 #. </p><h1>
 #. VAR: 11. Suvaṇṇapātisutta → pātivaggo (bj)
@@ -32,7 +32,7 @@ msgid "11. Suvaṇṇapātisutta"
 msgstr "11. A Golden Bowl"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.233"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.233"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn17.11:1.1"
 msgid "Sāvatthiyaṃ viharati."
@@ -64,9 +64,7 @@ msgstr ""
 
 msgctxt "sn17.11:1.6"
 msgid "Evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko … pe …"
-msgstr ""
-"That’s how brutal, bitter, and harsh are possessions, honor, and popularity. "
-"…”"
+msgstr "So brutal are possessions, honor, and popularity. …”"
 
 msgctxt "sn17.11:1.7"
 msgid "evañhi vo, bhikkhave, sikkhitabban”ti."

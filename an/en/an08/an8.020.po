@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an08/an8.020.po\n"
-"X-Pootle-Revision: 199044\n"
+"X-Pootle-Path: /en/an/an08/an8.020.po\n"
+"X-Pootle-Revision: 2988\n"
 
 #. <section class="sutta" id="an8.20"><article><div class="hgroup"><p class="division">
 msgctxt "an8.20:0.1"
@@ -66,10 +66,11 @@ msgstr ""
 # It’s doubtful that patimokkha here means the list of rules. More likely it’s the Ovadapatimokkha.
 msgctxt "an8.20:1.5"
 msgid "Uddisatu, bhante, bhagavā bhikkhūnaṃ pātimokkhan”ti."
-msgstr "Please, sir, may the Buddha recite the Code to the mendicants.”"
+msgstr ""
+"Please, sir, may the Buddha recite the monastic code to the mendicants.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.205"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.205"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an8.20:2.1"
 msgid "Evaṃ vutte, bhagavā tuṇhī ahosi."
@@ -95,7 +96,8 @@ msgstr ""
 
 msgctxt "an8.20:2.4"
 msgid "Uddisatu, bhante, bhagavā bhikkhūnaṃ pātimokkhan”ti."
-msgstr "Please, sir, may the Buddha recite the Code to the mendicants.”"
+msgstr ""
+"Please, sir, may the Buddha recite the monastic code to the mendicants.”"
 
 msgctxt "an8.20:2.5"
 msgid "Dutiyampi kho bhagavā tuṇhī ahosi."
@@ -126,7 +128,8 @@ msgstr "And the Saṅgha has been sitting long."
 
 msgctxt "an8.20:2.9"
 msgid "Uddisatu, bhante, bhagavā bhikkhūnaṃ pātimokkhan”ti."
-msgstr "Please, sir, may the Buddha recite the Code to the mendicants.”"
+msgstr ""
+"Please, sir, may the Buddha recite the monastic code to the mendicants.”"
 
 msgctxt "an8.20:2.10"
 msgid "“Aparisuddhā, ānanda, parisā”ti."
@@ -179,7 +182,7 @@ msgid "Natthi te bhikkhūhi saddhiṃ saṃvāso”ti."
 msgstr "You can’t live in communion with the mendicants.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.206"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.206"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "an8.20:4.1"
 msgid "Evaṃ vutte, so puggalo tuṇhī ahosi."
@@ -239,7 +242,8 @@ msgstr "The assembly is pure."
 
 msgctxt "an8.20:5.4"
 msgid "Uddisatu, bhante, bhagavā bhikkhūnaṃ pātimokkhan”ti."
-msgstr "Please, sir, may the Buddha recite the Code to the mendicants.”"
+msgstr ""
+"Please, sir, may the Buddha recite the monastic code to the mendicants.”"
 
 msgctxt "an8.20:5.5"
 msgid "“Acchariyaṃ, moggallāna, abbhutaṃ, moggallāna."
@@ -258,13 +262,17 @@ msgstr "Then the Buddha said to the mendicants:"
 msgctxt "an8.20:6.2"
 msgid ""
 "“tumheva dāni, bhikkhave, uposathaṃ kareyyātha, pātimokkhaṃ uddiseyyātha."
-msgstr "“Now, mendicants, you should perform the sabbath and recite the Code."
+msgstr ""
+"“Now, mendicants, you should perform the sabbath and recite the monastic "
+"code."
 
 msgctxt "an8.20:6.3"
 msgid ""
 "Na dānāhaṃ, bhikkhave, ajjatagge uposathaṃ karissāmi, pātimokkhaṃ "
 "uddisissāmi."
-msgstr "From this day forth, I will not perform the sabbath or recite the Code."
+msgstr ""
+"From this day forth, I will not perform the sabbath or recite the monastic "
+"code."
 
 msgctxt "an8.20:6.4"
 msgid ""
@@ -272,7 +280,7 @@ msgid ""
 "pātimokkhaṃ uddiseyya."
 msgstr ""
 "It’s impossible, mendicants, it can’t happen that a Realized One could "
-"recite the Code in an impure assembly."
+"recite the monastic code in an impure assembly."
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
@@ -314,7 +322,7 @@ msgid "… pe …"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.207"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.207"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an8.20:8.1"
 msgid ""
@@ -348,7 +356,7 @@ msgstr ""
 "Seeing these eight incredible and amazing things the demons love the ocean."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.208"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.208"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "an8.20:9.1"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-30 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.41.po\n"
-"X-Pootle-Revision: 197607\n"
+"X-Pootle-Revision: 8765\n"
 
 #. <section class="sutta" id="sn12.41"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.41:0.1"
@@ -101,7 +101,7 @@ msgstr ""
 "threat is quelled for anyone who refrains from stealing."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.69"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.69"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn12.41:5.1"
 msgid ""
@@ -162,7 +162,7 @@ msgid ""
 "‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū "
 "anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti."
 msgstr ""
-"‘That Blessed One is perfect, a fully awakened Buddha, accomplished in "
+"‘That Blessed One is perfected, a fully awakened Buddha, accomplished in "
 "knowledge and conduct, holy, knower of the world, supreme guide for those "
 "who wish to train, teacher of gods and humans, awakened, blessed.’"
 
@@ -182,7 +182,7 @@ msgstr ""
 "people can know it for themselves.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.70"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.70"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "sn12.41:10.1"
 msgid "Saṅghe aveccappasādena samannāgato hoti:"
@@ -231,12 +231,12 @@ msgid ""
 "Idha, gahapati, ariyasāvako paṭiccasamuppādaññeva sādhukaṃ yoniso manasi "
 "karoti:"
 msgstr ""
-"A noble disciple carefully and properly attendes on dependent origination "
+"A noble disciple carefully and properly attends to dependent origination "
 "itself:"
 
 msgctxt "sn12.41:12.3"
 msgid "‘iti imasmiṃ sati idaṃ hoti, imasmiṃ asati idaṃ na hoti;"
-msgstr "When this exists, that is; when this doesn’t exist, that is not."
+msgstr "‘When this exists, that is; when this doesn’t exist, that is not."
 
 msgctxt "sn12.41:12.4"
 msgid "imassuppādā idaṃ uppajjati, imassa nirodhā idaṃ nirujjhati."
@@ -267,7 +267,7 @@ msgstr "When choices cease, consciousness ceases. …"
 
 msgctxt "sn12.41:12.10"
 msgid "evametassa kevalassa dukkhakkhandhassa nirodho hoti."
-msgstr "That is how this entire mass of suffering ceases."
+msgstr "That is how this entire mass of suffering ceases.’"
 
 msgctxt "sn12.41:12.11"
 msgid "Ayamassa ariyo ñāyo paññāya sudiṭṭho hoti suppaṭividdho."

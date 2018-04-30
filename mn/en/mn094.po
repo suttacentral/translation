@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/mn-/mn094.po\n"
-"X-Pootle-Revision: 196606\n"
+"X-Pootle-Path: /en/mn/mn094.po\n"
+"X-Pootle-Revision: 868\n"
 
 #. <section class="sutta" id="mn94"><article><div class="hgroup"><p class="division">
 msgctxt "mn94:0.1"
@@ -26,7 +26,7 @@ msgstr "Ghoṭamukha"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.158"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.158"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn94:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -89,7 +89,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya3"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.159"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.159"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn94:3.1"
 msgid ""
@@ -275,7 +275,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.160"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.160"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "mn94:6.1"
 msgid "“Kasmā pana te, brāhmaṇa, ime tayo puggalā cittaṃ nārādhentī”ti?"
@@ -353,8 +353,8 @@ msgid ""
 "pariyesati."
 msgstr ""
 "There’s one group of people who, being stupefied with jewels and earrings, "
-"seeks for partners and children, male and female bondservants, fields and "
-"lands, and gold and money."
+"seeks partners and children, male and female bondservants, fields and lands, "
+"and gold and money."
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
@@ -399,7 +399,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.161"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.161"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "mn94:7.9"
 msgid ""
@@ -480,7 +480,7 @@ msgstr "Udena said this:"
 
 #. </p><p>
 #. <a class="nya" id="nya10"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.162"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.162"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "mn94:10.1"
 msgid "“Katamo ca, brāhmaṇa, puggalo attantapo attaparitāpanānuyogamanuyutto?"
@@ -806,7 +806,7 @@ msgstr ""
 "Once they’ve gone forth, they take up the training and livelihood of the "
 "mendicants. They give up killing living creatures, renouncing the rod and "
 "the sword. They’re scrupulous and kind, living full of compassion for all "
-"creatures."
+"living beings."
 
 #. </p><p>
 #. <a class="nya" id="nya16"></a>
@@ -1112,7 +1112,8 @@ msgid ""
 "byāpādapadosā cittaṃ parisodheti;"
 msgstr ""
 "Giving up ill will and malevolence, they meditate with a mind rid of ill "
-"will, full of compassion for all creatures, cleansing the mind of ill will."
+"will, full of compassion for all living beings, cleansing the mind of ill "
+"will."
 
 msgctxt "mn94:21.4"
 msgid ""
@@ -1397,8 +1398,8 @@ msgid ""
 "“Kahaṃ pana, bho udena, etarahi so bhavaṃ gotamo viharati arahaṃ "
 "sammāsambuddho”ti?"
 msgstr ""
-"“But Master Udena, where is the Blessed One at present, the perfected one, the "
-"fully awakened Buddha?”"
+"“But Master Udena, where is the Blessed One at present, the perfected one, "
+"the fully awakened Buddha?”"
 
 msgctxt "mn94:32.4"
 msgid ""
@@ -1406,7 +1407,7 @@ msgid ""
 msgstr "“Brahmin, the Buddha has already become fully extinguished.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.163"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.163"></a>
 #. <a class="sc" id="sc31"></a>
 #. VAR: Sacepi → sace (bj, pts1) | sace hi (s1-3, km)
 msgctxt "mn94:32.5"

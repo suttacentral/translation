@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an03/an3.037.po\n"
-"X-Pootle-Revision: 198044\n"
+"X-Pootle-Path: /en/an/an03/an3.037.po\n"
+"X-Pootle-Revision: 1158\n"
 
 #. <section class="sutta" id="an3.37"><article><div class="hgroup"><p class="division">
 msgctxt "an3.37:0.1"
@@ -30,7 +30,7 @@ msgid "37. Catumahārājasutta"
 msgstr "37. The Four Great Kings (1st)"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.143"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.143"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an3.37:1.1"
 msgid ""
@@ -47,7 +47,7 @@ msgid ""
 "jeṭṭhāpacāyino uposathaṃ upavasanti paṭijāgaronti puññāni karontī’ti."
 msgstr ""
 "‘Hopefully most humans are paying due respect to their parents, ascetics and "
-"brahmins, honoring the elders in their families, observing the Sabbath, "
+"brahmins, honoring the elders in their families, observing the sabbath, "
 "staying awake, and making merit.’"
 
 #. VAR: Cātuddasiṃ → cātuddisaṃ (bj) | cātuddasiyaṃ (s1-3) | cātuddasī (pts1)
@@ -164,11 +164,11 @@ msgid ""
 "Bhūtapubbaṃ, bhikkhave, sakko devānamindo deve tāvatiṃse anunayamāno tāyaṃ "
 "velāyaṃ imaṃ gāthaṃ abhāsi:"
 msgstr ""
-"Once upon a time, Sakka, the lord of gods, guiding the gods of the Thirty-"
-"Three, recited this verse:"
+"Once upon a time, Sakka, lord of gods, guiding the gods of the Thirty-Three, "
+"recited this verse:"
 
 #. </p><blockquote class="gatha"><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.144"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli1.144"></a>
 #. <a class="sc" id="sc5"></a>
 #. VAR: Cātuddasiṃ pañcadasiṃ → cātuddasī pañcadasī (pts1)
 msgctxt "an3.37:5.1"
@@ -209,8 +209,8 @@ msgid ""
 "Sā kho panesā, bhikkhave, sakkena devānamindena gāthā duggītā na sugītā "
 "dubbhāsitā na subhāsitā."
 msgstr ""
-"But that verse was poorly sung by Sakka, the lord of gods, not well sung; "
-"poorly spoken, not well spoken."
+"But that verse was poorly sung by Sakka, lord of gods, not well sung; poorly "
+"spoken, not well spoken."
 
 msgctxt "an3.37:6.2"
 msgid "Taṃ kissa hetu?"
@@ -218,7 +218,7 @@ msgstr "Why is that?"
 
 msgctxt "an3.37:6.3"
 msgid "Sakko hi, bhikkhave, devānamindo avītarāgo avītadoso avītamoho."
-msgstr "Sakka, the lord of gods, is not free of greed, hate, and delusion."
+msgstr "Sakka, lord of gods, is not free of greed, hate, and delusion."
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>

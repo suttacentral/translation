@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an04/an4.159.po\n"
-"X-Pootle-Revision: 197172\n"
+"X-Pootle-Path: /en/an/an04/an4.159.po\n"
+"X-Pootle-Revision: 1716\n"
 
 #. <section class="sutta" id="an4.159"><article><div class="hgroup"><p class="division">
 msgctxt "an4.159:0.1"
@@ -30,7 +30,7 @@ msgid "159. Bhikkhunīsutta"
 msgstr "159. Nun"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.145"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.145"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an4.159:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -172,7 +172,7 @@ msgstr "but why did I say it?"
 
 msgctxt "an4.159:5.4"
 msgid "Idha, bhagini, bhikkhu paṭisaṅkhā yoniso āhāraṃ āhāreti:"
-msgstr "Take a mendicant who properly reflects on the food that they eat:"
+msgstr "Take a mendicant who reflects properly on the food that they eat:"
 
 msgctxt "an4.159:5.5"
 msgid ""
@@ -199,7 +199,7 @@ msgid "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ."
 msgstr "That’s why I said what I said."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.146"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli2.146"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an4.159:6.1"
 msgid "‘Taṇhāsambhūto ayaṃ, bhagini, kāyo taṇhaṃ nissāya."

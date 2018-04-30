@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-27 14:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
-"X-Pootle-Path: /en/an-/an07/an7.047.po\n"
-"X-Pootle-Revision: 198893\n"
+"X-Pootle-Path: /en/an/an07/an7.047.po\n"
+"X-Pootle-Revision: 2840\n"
 
 #. <section class="sutta" id="an7.47"><article><div class="hgroup"><p class="division">
 msgctxt "an7.47:0.1"
@@ -28,7 +28,7 @@ msgstr "5. A Great Sacrifice"
 #. VAR: 47. Dutiyaaggisutta → mahāyaññasuttaṃ (bj)
 msgctxt "an7.47:0.3"
 msgid "47. Dutiyaaggisutta"
-msgstr "47. Fires"
+msgstr "47. Fires (2nd)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -66,7 +66,7 @@ msgstr ""
 "side and said to the Buddha:"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.42"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.42"></a>
 #. <a class="sc" id="sc2"></a>
 #. VAR: ādānaṃ → ādhānaṃ (s1-3, pts1)
 msgctxt "an7.47:2.1"
@@ -168,7 +168,7 @@ msgid ""
 msgstr "and instruct me. It will be for my lasting welfare and happiness.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.43"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.43"></a>
 #. <a class="sc" id="sc5"></a>
 #. VAR: ādento → ādhento (s1-3, pts1)
 #. VAR: dukkhudrayāni → dukkhuddayāni (si)
@@ -300,11 +300,10 @@ msgid ""
 "ussāpeti akusalāni dukkhudrayāni dukkhavipākāni."
 msgstr ""
 "Even before kindling the sacrificial fire and raising the sacrificial post, "
-"one raises these three unskillful knives which ripen and result in "
-"suffering."
+"one raises these three unskillful knives which ripen and result in suffering."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.44"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.44"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an7.47:8.1"
 msgid "Tayome, brāhmaṇa, aggī pahātabbā parivajjetabbā, na sevitabbā."
@@ -406,7 +405,7 @@ msgid "Ime kho tayo, brāhmaṇa, aggī pahātabbā parivajjetabbā, na sevitabb
 msgstr "These three fires should be given up and rejected, not cultivated."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.45"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.45"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "an7.47:12.1"
 msgid ""
@@ -523,7 +522,7 @@ msgstr ""
 "over with equanimity, extinguished, or put aside.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.46"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.46"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "an7.47:17.1"
 msgid "Evaṃ vutte, uggatasarīro brāhmaṇo bhagavantaṃ etadavoca:"

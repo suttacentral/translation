@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:21+0000\n"
+"POT-Creation-Date: 2018-04-27 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn34.po\n"
-"X-Pootle-Revision: 198164\n"
+"X-Pootle-Revision: 680\n"
 
 #. <section class="sutta" id="dn34"><article><div class="hgroup"><p class="division">
 msgctxt "dn34:0.1"
@@ -26,7 +26,7 @@ msgstr "Up to Ten"
 
 #. </h1></div><p>
 #. <a class="pts-cs" id="pts-cs1.1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.272"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.272"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "dn34:1.1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -95,8 +95,8 @@ msgstr ""
 "Reverends, one thing is helpful, one thing should be developed, one thing "
 "should be completely understood, one thing should be given up, one thing "
 "makes things worse, one thing leads to distinction, one thing is hard to "
-"comprehend, one thing should be produced, one thing should be directly known, "
-"one thing should be realized."
+"comprehend, one thing should be produced, one thing should be directly "
+"known, one thing should be realized."
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
@@ -142,7 +142,7 @@ msgid "Ayaṃ eko dhammo pariññeyyo. (3)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.273"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.273"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "dn34:1.2.11"
 msgid "Katamo eko dhammo pahātabbo?"
@@ -267,9 +267,9 @@ msgid ""
 msgstr ""
 "Two things are helpful, two things should be developed, two things should be "
 "completely understood, two things should be given up, two things make things "
-"worse, two things lead to distinction, two things are hard to comprehend, two "
-"things should be produced, two things should be directly known, two things "
-"should be realized."
+"worse, two things lead to distinction, two things are hard to comprehend, "
+"two things should be produced, two things should be directly known, two "
+"things should be realized."
 
 #. </p><p>
 #. <a class="sc" id="sc16"></a>
@@ -314,7 +314,7 @@ msgid "Ime dve dhammā pariññeyyā. (3)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.274"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.274"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "dn34:1.3.11"
 msgid "Katame dve dhammā pahātabbā?"
@@ -489,7 +489,7 @@ msgid "Ime tayo dhammā bhāvetabbā. (2)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.275"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.275"></a>
 #. <a class="sc" id="sc30"></a>
 msgctxt "dn34:1.4.9"
 msgid "Katame tayo dhammā pariññeyyā?"
@@ -646,7 +646,7 @@ msgid "Ime tayo dhammā sacchikātabbā. (10)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.276"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.276"></a>
 #. <a class="sc" id="sc38"></a>
 msgctxt "dn34:1.4.41"
 msgid ""
@@ -811,7 +811,7 @@ msgid "Ime cattāro dhammā visesabhāgiyā. (6)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.277"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.277"></a>
 #. <a class="sc" id="sc46"></a>
 msgctxt "dn34:1.5.29"
 msgid "Katame cattāro dhammā duppaṭivijjhā?"
@@ -962,8 +962,8 @@ msgid ""
 "upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
 msgstr ""
 "They live with energy roused up for giving up unskillful qualities and "
-"gaining skillful qualities. They’re strong, firmly applied, not slacking "
-"off when it comes to developing skillful qualities."
+"gaining skillful qualities. They’re strong, firmly applied, not slacking off "
+"when it comes to developing skillful qualities."
 
 msgctxt "dn34:1.6.9"
 msgid ""
@@ -978,7 +978,7 @@ msgid "Ime pañca dhammā bahukārā. (1)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.278"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.278"></a>
 #. <a class="sc" id="sc53"></a>
 msgctxt "dn34:1.6.11"
 msgid "Katame pañca dhammā bhāvetabbā?"
@@ -1320,7 +1320,7 @@ msgid "Ime pañca dhammā duppaṭivijjhā. (7.5)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.279"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.279"></a>
 #. <a class="sc" id="sc63"></a>
 msgctxt "dn34:1.6.68"
 msgid "Katame pañca dhammā uppādetabbā?"
@@ -1617,7 +1617,7 @@ msgid "Cha dhammā bahukārā … pe … cha dhammā sacchikātabbā."
 msgstr "Six things are helpful, etc."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.280"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.280"></a>
 #. <a class="sc" id="sc72"></a>
 msgctxt "dn34:1.7.2"
 msgid "Katame cha dhammā bahukārā?"
@@ -2031,7 +2031,7 @@ msgid "Ime cha dhammā duppaṭivijjhā. (7.6)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.281"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.281"></a>
 #. <a class="sc" id="sc89"></a>
 msgctxt "dn34:1.7.70"
 msgid "Katame cha dhammā uppādetabbā?"
@@ -2122,7 +2122,7 @@ msgstr ""
 "A mendicant wields the many kinds of psychic power: multiplying themselves "
 "and becoming one again; appearing and disappearing; going unimpeded through "
 "a wall, a rampart, or a mountain as if through space; diving in and out of "
-"the earth as if it was water; walking on water as if it was earth; flying "
+"the earth as if it were water; walking on water as if it were earth; flying "
 "cross-legged through the sky like a bird; touching and stroking with the "
 "hand the sun and moon, so mighty and powerful; controlling the body as far "
 "as the Brahmā realm."
@@ -2202,7 +2202,7 @@ msgstr "7. Groups of Seven"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.8"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.282"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.282"></a>
 #. <a class="sc" id="sc98"></a>
 msgctxt "dn34:1.8.1"
 msgid "Satta dhammā bahukārā … pe … satta dhammā sacchikātabbā."
@@ -2433,7 +2433,7 @@ msgid "Ime satta dhammā visesabhāgiyā. (6)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.283"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.283"></a>
 #. <a class="sc" id="sc111"></a>
 msgctxt "dn34:1.8.39"
 msgid "Katame satta dhammā duppaṭivijjhā?"
@@ -2584,7 +2584,7 @@ msgid "Yaṃpāvuso … pe … ‘khīṇā me āsavā’ti. (10.3)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.284"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.284"></a>
 #. <a class="sc" id="sc117"></a>
 msgctxt "dn34:1.8.65"
 msgid ""
@@ -2681,7 +2681,7 @@ msgid "Aṭṭha dhammā bahukārā … pe … aṭṭha dhammā sacchikātabbā
 msgstr "Eight things are helpful, etc."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.285"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.285"></a>
 #. <a class="sc" id="sc123"></a>
 msgctxt "dn34:2.1.2"
 msgid "Katame aṭṭha dhammā bahukārā?"
@@ -2778,7 +2778,7 @@ msgid ""
 "ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī samādāya sikkhati "
 "sikkhāpadesu."
 msgstr ""
-"Furthermore, a mendicant is ethical, restrained in the code of conduct, and "
+"Furthermore, a mendicant is ethical, restrained in the monastic code, and "
 "has appropriate behavior and means of collecting alms. Seeing danger in the "
 "slightest flaw, they keep the rules they’ve undertaken."
 
@@ -2814,7 +2814,7 @@ msgid ""
 msgstr "This is the fifth cause."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.286"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.286"></a>
 #. <a class="sc" id="sc128"></a>
 msgctxt "dn34:2.1.18"
 msgid ""
@@ -2823,9 +2823,8 @@ msgid ""
 "anikkhittadhuro kusalesu dhammesu."
 msgstr ""
 "Furthermore, a mendicant lives with energy roused up for giving up "
-"unskillful qualities and gaining skillful qualities. They are strong, "
-"firmly applied, not slacking off when it comes to developing skillful "
-"qualities."
+"unskillful qualities and gaining skillful qualities. They are strong, firmly "
+"applied, not slacking off when it comes to developing skillful qualities."
 
 msgctxt "dn34:2.1.19"
 msgid ""
@@ -2943,7 +2942,7 @@ msgid "Ime aṭṭha dhammā pariññeyyā. (3)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.287"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.287"></a>
 #. <a class="sc" id="sc133"></a>
 msgctxt "dn34:2.1.38"
 msgid "Katame aṭṭha dhammā pahātabbā?"
@@ -3838,7 +3837,7 @@ msgid "Ime aṭṭha dhammā abhiññeyyā. (9.8)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.288"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.288"></a>
 #. <a class="sc" id="sc167"></a>
 msgctxt "dn34:2.1.190"
 msgid "Katame aṭṭha dhammā sacchikātabbā?"
@@ -3990,8 +3989,8 @@ msgid ""
 "passati, yathābhūtaṃ jānaṃ passaṃ nibbindati, nibbindaṃ virajjati, virāgā "
 "vimuccati."
 msgstr ""
-"Nine things rooted in proper attention. When you attend properly, joy springs "
-"up. When you’re joyful, rapture springs up. When the mind is full of "
+"Nine things rooted in proper attention. When you attend properly, joy "
+"springs up. When you’re joyful, rapture springs up. When the mind is full of "
 "rapture, the body becomes tranquil. When the body is tranquil, you feel "
 "bliss. And when you’re blissful, the mind becomes immersed. When your mind "
 "is immersed, you truly know and see. When you truly know and see, you become "
@@ -4170,7 +4169,7 @@ msgid "(3.9) Ime nava dhammā pariññeyyā."
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.289"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.289"></a>
 #. <a class="sc" id="sc188"></a>
 msgctxt "dn34:2.2.30"
 msgid "Katame nava dhammā pahātabbā?"
@@ -4339,7 +4338,7 @@ msgid "Ime nava dhammā duppaṭivijjhā. (7)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.290"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.290"></a>
 #. <a class="sc" id="sc192"></a>
 msgctxt "dn34:2.2.62"
 msgid "Katame nava dhammā uppādetabbā?"
@@ -4378,8 +4377,8 @@ msgid ""
 "idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ "
 "savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati."
 msgstr ""
-"A mendicant, quite secluded from sensual pleasures, secluded from "
-"unskillful qualities, enters and remains in the first absorption …"
+"A mendicant, quite secluded from sensual pleasures, secluded from unskillful "
+"qualities, enters and remains in the first absorption …"
 
 msgctxt "dn34:2.2.69"
 msgid "Vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ jhānaṃ upasampajja viharati."
@@ -4529,9 +4528,9 @@ msgid "Dasa dhammā bahukārā … pe … dasa dhammā sacchikātabbā."
 msgstr ""
 "Ten things are helpful, ten things should be developed, ten things should be "
 "completely understood, ten things should be given up, ten things make things "
-"worse, ten things lead to distinction, ten things are hard to comprehend, ten "
-"things should be produced, ten things should be directly known, ten things "
-"should be realized."
+"worse, ten things lead to distinction, ten things are hard to comprehend, "
+"ten things should be produced, ten things should be directly known, ten "
+"things should be realized."
 
 #. </p><p>
 #. <a class="sc" id="sc197"></a>
@@ -4549,7 +4548,7 @@ msgid ""
 "ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī samādāya sikkhati "
 "sikkhāpadesu."
 msgstr ""
-"First, a mendicant is ethical, restrained in the code of conduct, and has "
+"First, a mendicant is ethical, restrained in the monastic code, and has "
 "appropriate behavior and means of collecting alms. Seeing danger in the "
 "slightest flaw, they keep the rules they’ve undertaken."
 
@@ -4848,7 +4847,7 @@ msgid "Ime dasa dhammā hānabhāgiyā. (5)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.291"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.291"></a>
 #. <a class="sc" id="sc211"></a>
 msgctxt "dn34:2.3.60"
 msgid "Katame dasa dhammā visesabhāgiyā?"
@@ -5215,7 +5214,7 @@ msgid "Ime dasa dhammā abhiññeyyā. (9)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.292"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.292"></a>
 #. <a class="sc" id="sc225"></a>
 msgctxt "dn34:2.3.126"
 msgid "Katame dasa dhammā sacchikātabbā?"
@@ -5268,7 +5267,7 @@ msgid "Pāthikavaggo niṭṭhito."
 msgstr ""
 
 #. </p><blockquote class="uddanagatha"><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.293"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli3.293"></a>
 #. <a class="sc" id="sc227"></a>
 #. VAR: Pāthiko ca udumbaraṃ → pāṭikañca udumbaraṃ (s1-3, km) | pāṭi­kodum­barī­ceva (pts1)
 msgctxt "dn34:2.3.135"

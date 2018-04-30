@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-27 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.236.po\n"
-"X-Pootle-Revision: 185931\n"
+"X-Pootle-Revision: 5886\n"
 
 #. <section class="sutta" id="sn35.236"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.236:0.1"
@@ -28,7 +28,7 @@ msgstr "18. The Ocean"
 #. VAR: 236. Paṭhamahatthapādopamasutta → hatthapādūpamasuttaṃ (bj) | hatthapādupamā 1 (pts1)
 msgctxt "sn35.236:0.3"
 msgid "236. Paṭhamahatthapādopamasutta"
-msgstr "236. The Simile of Hands and Feet"
+msgstr "236. The Simile of Hands and Feet (1st)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -65,10 +65,10 @@ msgstr "When there’s an ear … nose … tongue … body …"
 msgctxt "sn35.236:1.7"
 msgid ""
 "manasmiṃ sati manosamphassapaccayā uppajjati ajjhattaṃ sukhaṃ dukkhaṃ … pe …."
-msgstr "mind, pleasure and pain arise internally conditioned by eye contact."
+msgstr "mind, pleasure and pain arise internally conditioned by mind contact."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.172"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pli4.172"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn35.236:2.1"
 msgid "Hatthesu, bhikkhave, asati ādānanikkhepanaṃ na paññāyati;"
@@ -102,7 +102,7 @@ msgctxt "sn35.236:2.7"
 msgid ""
 "manasmiṃ asati manosamphassapaccayā nuppajjati ajjhattaṃ sukhaṃ dukkhan”ti."
 msgstr ""
-"mind, pleasure and pain don’t arise internally conditioned by eye contact.”"
+"mind, pleasure and pain don’t arise internally conditioned by mind contact.”"
 
 #. </p><p class="endsection">
 msgctxt "sn35.236:2.8"
