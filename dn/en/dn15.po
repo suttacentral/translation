@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:21+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn15.po\n"
-"X-Pootle-Revision: 195371\n"
+"X-Pootle-Revision: 199706\n"
 
 #. <section class="sutta" id="dn15"><article><div class="hgroup"><p class="division">
 msgctxt "dn15:0.1"
@@ -31,7 +31,7 @@ msgstr "1. Dependent Origination"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.55"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.55"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "dn15:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -105,7 +105,7 @@ msgstr ""
 "‘Rebirth is a condition for old age and death.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.56"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.56"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "dn15:2.3"
 msgid ""
@@ -241,11 +241,11 @@ msgid ""
 "vacanīyaṃ."
 msgstr ""
 "If they say, ‘What is a condition for consciousness?’ you should answer, ‘"
-"Name and form is a condition for consciousness.’"
+"Name and form are conditions for consciousness.’"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.57"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.57"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "dn15:3.1"
 msgid ""
@@ -254,14 +254,13 @@ msgid ""
 "taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā "
 "jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti."
 msgstr ""
-"So: name and form are a condition for consciousness. Consciousness is a "
-"condition for name and form. Name and form is a condition for the six sense "
-"fields. The six sense fields are conditions for contact. Contact is a "
-"condition for feeling. Feeling is a condition for craving. Craving is a "
-"condition for grasping. Grasping is a condition for continued existence. "
-"Continued existence is a condition for rebirth. Rebirth is a condition for "
-"old age and death, sorrow, lamentation, pain, sadness, and distress to come "
-"to be."
+"So: name and form are conditions for consciousness. Consciousness is a "
+"condition for name and form. Name and form are conditions for contact. "
+"Contact is a condition for feeling. Feeling is a condition for craving. "
+"Craving is a condition for grasping. Grasping is a condition for continued "
+"existence. Continued existence is a condition for rebirth. Rebirth is a "
+"condition for old age and death, sorrow, lamentation, pain, sadness, and "
+"distress to come to be."
 
 msgctxt "dn15:3.2"
 msgid "Evametassa kevalassa dukkhakkhandhassa samudayo hoti."
@@ -352,7 +351,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.58"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.58"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "dn15:6.1"
 msgid ""
@@ -375,7 +374,7 @@ msgid ""
 msgstr ""
 "That is, grasping at sensual pleasures, views, precepts and observances, and "
 "theories of a self. When there’s no grasping at all, with the cessation of "
-"grasping, would rebirth still be found?”"
+"grasping, would continued existence still be found?”"
 
 msgctxt "dn15:6.4"
 msgid "“No hetaṃ, bhante”."
@@ -468,7 +467,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs9"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.59"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.59"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "dn15:9.1"
 msgid ""
@@ -490,9 +489,9 @@ msgid ""
 "daṇḍādānasatthādānakalahaviggahavivādatuvaṃtuvaṃpesuññamusāvādā aneke pāpakā "
 "akusalā dhammā sambhavanti."
 msgstr ""
-"Owing to safeguarding, many bad, unskillful things come to be: taking up "
-"the rod and the sword, quarrels, arguments, and fights, accusations, "
-"divisive speech, and lies."
+"Owing to safeguarding, many bad, unskillful things come to be: taking up the "
+"rod and the sword, quarrels, arguments, and fights, accusations, divisive "
+"speech, and lies."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs10"></a>
@@ -570,7 +569,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs12"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.60"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.60"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "dn15:12.1"
 msgid ""
@@ -670,7 +669,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs15"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.61"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.61"></a>
 #. <a class="sc" id="sc23"></a>
 msgctxt "dn15:15.1"
 msgid ""
@@ -816,7 +815,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs19"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.62"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.62"></a>
 #. <a class="sc" id="sc27"></a>
 msgctxt "dn15:19.1"
 msgid ""
@@ -862,7 +861,7 @@ msgid ""
 "‘Nāmarūpapaccayā phasso’ti iti kho panetaṃ vuttaṃ, tadānanda, imināpetaṃ "
 "pariyāyena veditabbaṃ, yathā nāmarūpapaccayā phasso."
 msgstr ""
-"‘Name and form is a condition for contact’—that’s what I said. And this is a "
+"‘Name and form are conditions for contact’—that’s what I said. And this is a "
 "way to understand how this is so."
 
 msgctxt "dn15:20.2"
@@ -929,14 +928,14 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs21"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.63"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.63"></a>
 #. <a class="sc" id="sc29"></a>
 msgctxt "dn15:21.1"
 msgid ""
 "‘Viññāṇapaccayā nāmarūpan’ti iti kho panetaṃ vuttaṃ, tadānanda, imināpetaṃ "
 "pariyāyena veditabbaṃ, yathā viññāṇapaccayā nāmarūpaṃ."
 msgstr ""
-"‘Consciousness is a condition for mental and physical phemomena’—that’s what "
+"‘Consciousness is a condition for mental and physical phenomena’—that’s what "
 "I said. And this is a way to understand how this is so."
 
 msgctxt "dn15:21.2"
@@ -986,14 +985,14 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs22"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.64"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.64"></a>
 #. <a class="sc" id="sc30"></a>
 msgctxt "dn15:22.1"
 msgid ""
 "‘Nāmarūpapaccayā viññāṇan’ti iti kho panetaṃ vuttaṃ, tadānanda, imināpetaṃ "
 "pariyāyena veditabbaṃ, yathā nāmarūpapaccayā viññāṇaṃ."
 msgstr ""
-"‘Name and form is a condition for consciousness’—that’s what I said. And "
+"‘Name and form are conditions for consciousness’—that’s what I said. And "
 "this is a way to understand how this is so."
 
 # The question here is how the synonyms samudaya and sambhava are to be treated. This phrase only occurs elsewhere at MN 138, where we have “āyatiṃ jātijarāmaraṇadukkhasamudayasambhavo na hoti”. There, in his later rendering, BB has “origination of suffering—of birth, ageing, and death in the future”. Thus he maintains a rendering that essentially collapses the synonyms. RD has “be manifested that concatenation of rebirth, old age, death and the uprising of Ill”. MW has “an arising and coming to be”. Thanissaro has “coming-into-play of the origination”. Now, dukkhasamudaya occurs a couple hundred times elsewhere, invariably in the sense “origin of suffering”. I think we should take it here in the same sense, which would agree with the syntax of RD’s rendering. Comm has “Dukkhasamudayasambhavoti dukkharāsisambhavo”, which at least suggests that dukkhasamudaya is to some degree separate from the rest. At MN 138 it is “Jātijarāmaraṇadukkhasamudayasambhavoti jātijarāmaraṇassa ceva avasesassa ca dukkhassa nibbatti na hotīti attho”. Here, nibbatti applies equally to jati, etc. and dukkha. Also, among the PTS vll. we have “dukkhasamudayo sambhavo”.
@@ -1149,7 +1148,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.65"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.65"></a>
 #. <a class="sc" id="sc35"></a>
 #. VAR: arūpiṃ → arūpī (mr)
 msgctxt "dn15:24.10"
@@ -1279,7 +1278,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.66"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.66"></a>
 #. <a class="sc" id="sc40"></a>
 msgctxt "dn15:26.10"
 msgid "Tatrānanda, yo so arūpiṃ anantaṃ attānaṃ na paññapento na paññapeti."
@@ -1410,7 +1409,7 @@ msgstr "you only feel a neutral feeling."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs29"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.67"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.67"></a>
 #. <a class="sc" id="sc43"></a>
 msgctxt "dn15:29.1"
 msgid ""
@@ -1512,7 +1511,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs31"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.68"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.68"></a>
 #. <a class="sc" id="sc45"></a>
 msgctxt "dn15:31.1"
 msgid "Tatrānanda, yo so evamāha:"
@@ -1643,7 +1642,7 @@ msgstr "5. Planes of Consciousness"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs33"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.69"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.69"></a>
 #. <a class="sc" id="sc47"></a>
 #. VAR: Satta kho, ānanda → satta kho imā ānanda (bj, s1-3, km, pts1)
 msgctxt "dn15:33.1"
@@ -1748,7 +1747,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs34"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.70"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.70"></a>
 #. <a class="sc" id="sc48"></a>
 msgctxt "dn15:34.1"
 msgid ""
@@ -1818,7 +1817,7 @@ msgstr "6. The Eight Liberations"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs35"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.71"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.71"></a>
 #. <a class="sc" id="sc49"></a>
 msgctxt "dn15:35.1"
 msgid "Aṭṭha kho ime, ānanda, vimokkhā."

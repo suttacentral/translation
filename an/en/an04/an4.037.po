@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an04/an4.037.po\n"
-"X-Pootle-Revision: 197027\n"
+"X-Pootle-Revision: 205144\n"
 
 #. <section class="sutta" id="an4.37"><article><div class="hgroup"><p class="division">
 msgctxt "an4.37:0.1"
@@ -63,7 +63,7 @@ msgid ""
 "ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati "
 "sikkhāpadesu."
 msgstr ""
-"It’s when a mendicant is ethical, restrained in the code of conduct, and "
+"It’s when a mendicant is ethical, restrained in the monastic code, and "
 "accomplished in appropriate behavior and means of collecting alms. Seeing "
 "danger in the slightest flaw, they keep the rules they’ve undertaken."
 
@@ -72,7 +72,7 @@ msgid "Evaṃ kho, bhikkhave, bhikkhu sīlasampanno hoti."
 msgstr "That’s how a mendicant is accomplished in ethics."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.40"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.40"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an4.37:3.1"
 msgid "Kathañca, bhikkhave, bhikkhu indriyesu guttadvāro hoti?"
@@ -142,7 +142,7 @@ msgstr "And how does a mendicant eat in moderation?"
 
 msgctxt "an4.37:4.2"
 msgid "Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso āhāraṃ āhāreti:"
-msgstr "It’s when a mendicant properly reflects on the food that they eat:"
+msgstr "It’s when a mendicant reflects properly on the food that they eat:"
 
 msgctxt "an4.37:4.3"
 msgid ""

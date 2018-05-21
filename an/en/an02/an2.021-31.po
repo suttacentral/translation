@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an02/an2.021-31.po\n"
-"X-Pootle-Revision: 196754\n"
+"X-Pootle-Revision: 201646\n"
 
 #. <section id="vagga"><section class="sutta" data-uid="an2.21" id="21"><article><div class="hgroup"><p class="division">
 msgctxt "an2.21-31:0.1"
@@ -103,7 +103,7 @@ msgid "23"
 msgstr "23"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.60"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.60"></a>
 #. <a class="sc" id="sc23.1"></a>
 msgctxt "an2.21-31:23.1.1"
 msgid "“Dveme, bhikkhave, tathāgataṃ abbhācikkhanti."
@@ -301,7 +301,7 @@ msgid "30"
 msgstr "30"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.61"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.61"></a>
 #. <a class="sc" id="sc30.1"></a>
 #. VAR: araññavanapatthāni → araññe vanapatthāni (bj, pts1)
 msgctxt "an2.21-31:30.1.1"

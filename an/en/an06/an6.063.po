@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an06/an6.063.po\n"
-"X-Pootle-Revision: 198834\n"
+"X-Pootle-Revision: 205670\n"
 
 #. <section class="sutta" id="an6.63"><article><div class="hgroup"><p class="division">
 msgctxt "an6.63:0.1"
@@ -22,7 +22,7 @@ msgstr "Numbered Discourses 6"
 #. </p><p>
 msgctxt "an6.63:0.2"
 msgid "6. Mahāvagga"
-msgstr "6. The Greater Chapter"
+msgstr "6. The Great Chapter"
 
 #. </p><h1>
 msgctxt "an6.63:0.3"
@@ -30,7 +30,7 @@ msgid "63. Nibbedhikasutta"
 msgstr "63. Penetrative"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.410"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.410"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an6.63:1.1"
 msgid "“Nibbedhikapariyāyaṃ vo, bhikkhave, dhammapariyāyaṃ desessāmi."
@@ -121,7 +121,7 @@ msgstr ""
 "the practice that leads to its cessation should be known."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.411"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.411"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an6.63:8.1"
 msgid ""
@@ -241,11 +241,12 @@ msgid ""
 "Yaṃ kho, bhikkhave, kāmayamāno tajjaṃ tajjaṃ attabhāvaṃ abhinibbatteti "
 "puññabhāgiyaṃ vā apuññabhāgiyaṃ vā, ayaṃ vuccati, bhikkhave, kāmānaṃ vipāko."
 msgstr ""
-"You create a life-form that corresponds to your desires, with the attributes "
-"of either good or bad deeds."
+"When one who desires sensual pleasures creates a corresponding life-form, "
+"with the attributes of either good or bad deeds—this is called the result of "
+"sensual pleasures."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.412"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.412"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "an6.63:13.1"
 msgid "Katamo ca, bhikkhave, kāmanirodho?"
@@ -282,8 +283,8 @@ msgid ""
 msgstr ""
 "When a noble disciple understands sensual pleasures in this way—and "
 "understands their source, diversity, result, cessation, and the practice "
-"leading to their cessation—they understand that this penetrative spiritual "
-"life is the cessation of sensual pleasures."
+"that leads to their cessation—they understand that this penetrative "
+"spiritual life is the cessation of sensual pleasures."
 
 #. VAR: kāmanirodhagāminī → … gāmini (bj, pts1)
 msgctxt "an6.63:14.2"
@@ -361,12 +362,12 @@ msgid ""
 "Yaṃ kho, bhikkhave, vediyamāno tajjaṃ tajjaṃ attabhāvaṃ abhinibbatteti "
 "puññabhāgiyaṃ vā apuññabhāgiyaṃ vā, "
 msgstr ""
-"You create a life-form that corresponds to your feelings, with the "
-"attributes of either good or bad deeds. "
+"When one who feels creates a corresponding life-form, with the attributes of "
+"either good or bad deeds—"
 
 msgctxt "an6.63:18.3"
 msgid "ayaṃ vuccati, bhikkhave, vedanānaṃ vipāko."
-msgstr "This is called the result of feelings."
+msgstr "this is called the result of feelings."
 
 #. </p><p>
 #. <a class="sc" id="sc19"></a>
@@ -393,7 +394,7 @@ msgstr ""
 "right effort, right mindfulness, and right immersion."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.413"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.413"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "an6.63:20.1"
 msgid ""
@@ -517,7 +518,7 @@ msgstr ""
 "right effort, right mindfulness, and right immersion."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.414"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.414"></a>
 #. <a class="sc" id="sc26"></a>
 msgctxt "an6.63:26.1"
 msgid ""
@@ -603,9 +604,9 @@ msgid ""
 "Yaṃ kho, bhikkhave, avijjāgato tajjaṃ tajjaṃ attabhāvaṃ abhinibbatteti "
 "puññabhāgiyaṃ vā apuññabhāgiyaṃ vā, ayaṃ vuccati, bhikkhave, āsavānaṃ vipāko."
 msgstr ""
-"A person who is deluded and ignorant kills living creatures, steals, commits "
-"adultery, lies, and encourages others to do the same. Is that for their "
-"lasting harm and suffering?”"
+"When one who is ignorant creates a corresponding life-form, with the "
+"attributes of either good or bad deeds—this is called the result of "
+"defilements."
 
 #. </p><p>
 #. <a class="sc" id="sc31"></a>
@@ -632,7 +633,7 @@ msgstr ""
 "right effort, right mindfulness, and right immersion."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.415"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.415"></a>
 #. <a class="sc" id="sc32"></a>
 msgctxt "an6.63:32.1"
 msgid ""
@@ -666,7 +667,8 @@ msgid ""
 "veditabbāti, iti kho panetaṃ vuttaṃ."
 msgstr ""
 "‘Deeds should be known. And their source, diversity, result, cessation, and "
-"the practice that leads to their cessation should be known.’ That’s what I said,"
+"the practice that leads to their cessation should be known.’ That’s what I "
+"said,"
 
 msgctxt "an6.63:33.2"
 msgid "Kiñcetaṃ paṭicca vuttaṃ?"
@@ -759,7 +761,7 @@ msgstr ""
 "right effort, right mindfulness, and right immersion."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.416"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.416"></a>
 #. <a class="sc" id="sc38"></a>
 msgctxt "an6.63:38.1"
 msgid ""
@@ -895,7 +897,7 @@ msgstr ""
 "right effort, right mindfulness, and right immersion."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.417"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.417"></a>
 #. <a class="sc" id="sc44"></a>
 msgctxt "an6.63:44.1"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an07/an7.040.po\n"
-"X-Pootle-Revision: 192253\n"
+"X-Pootle-Revision: 205127\n"
 
 #. <section class="sutta" id="an7.40"><article><div class="hgroup"><p class="division">
 msgctxt "an7.40:0.1"
@@ -28,10 +28,10 @@ msgstr "4. Deities"
 #. VAR: 40. Paṭhamavasasutta → paṭhamacittavasavattanasuttaṃ (bj)
 msgctxt "an7.40:0.3"
 msgid "40. Paṭhamavasasutta"
-msgstr "40. Mastery of the Mind"
+msgstr "40. Mastery of the Mind (1st)"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.34"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.34"></a>
 #. <a class="sc" id="sc1"></a>
 #. VAR: vase → vasaṃ (mr)
 msgctxt "an7.40:1.1"

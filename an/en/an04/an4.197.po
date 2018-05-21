@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an04/an4.197.po\n"
-"X-Pootle-Revision: 198049\n"
+"X-Pootle-Revision: 202016\n"
 
 #. <section class="sutta" id="an4.197"><article><div class="hgroup"><p class="division">
 msgctxt "an4.197:0.1"
@@ -49,7 +49,7 @@ msgstr ""
 "said to him:"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.203"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.203"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an4.197:2.1"
 msgid ""
@@ -152,7 +152,7 @@ msgid "daliddā ca hoti appassakā appabhogā appesakkhā ca."
 msgstr "and poor, with few assets and possessions; and insignificant."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.204"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.204"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "an4.197:7.1"
 msgid "Idha pana, mallike, ekacco mātugāmo kodhanā hoti upāyāsabahulā."
@@ -315,7 +315,7 @@ msgid "aḍḍhā ca hoti mahaddhanā mahābhogā mahesakkhā cā”ti."
 msgstr "and rich … and illustrious.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.205"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.205"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "an4.197:11.1"
 msgid "Evaṃ vutte, mallikā devī bhagavantaṃ etadavoca:"

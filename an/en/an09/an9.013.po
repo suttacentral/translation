@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an09/an9.013.po\n"
-"X-Pootle-Revision: 199253\n"
+"X-Pootle-Revision: 202703\n"
 
 #. <section class="sutta" id="an9.13"><article><div class="hgroup"><p class="division">
 msgctxt "an9.13:0.1"
@@ -153,7 +153,7 @@ msgid "“No hidaṃ, āvuso”."
 msgstr "“Certainly not.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.383"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.383"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an9.13:8.1"
 msgid ""
@@ -246,7 +246,7 @@ msgid ""
 msgstr "deeds to be experienced when ripe are experienced when unripe …"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.384"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.384"></a>
 #. <a class="sc" id="sc16"></a>
 msgctxt "an9.13:16.1"
 msgid ""
@@ -301,7 +301,7 @@ msgstr ""
 "Buddha?”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.385"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.385"></a>
 #. <a class="sc" id="sc21"></a>
 #. VAR: Yaṃ khvassa, āvuso → yaṃ khvassāvuso (bj) | yaṃ khossa āvuso (s1-3) | yaṃ kho āvuso (mr)
 #. VAR: vussatīti → vussati (s1-3)

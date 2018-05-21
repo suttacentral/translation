@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an08/an8.080.po\n"
-"X-Pootle-Revision: 199227\n"
+"X-Pootle-Revision: 202674\n"
 
 #. <section class="sutta" id="an8.80"><article><div class="hgroup"><p class="division">
 msgctxt "an8.80:0.1"
@@ -30,7 +30,7 @@ msgid "80. Kusītārambhavatthusutta"
 msgstr "80. Grounds for Laziness and Arousing Energy"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.332"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.332"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an8.80:1.1"
 msgid "“Aṭṭhimāni, bhikkhave, kusītavatthūni."
@@ -161,7 +161,7 @@ msgstr "This is the fourth ground for laziness."
 
 # BB has “as much as he needs” for yavadattha, but contexts in AN consistently use it in the sense of “as much as he likes”, which is typically more than they need.
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.333"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.333"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an8.80:5.1"
 msgid ""
@@ -295,7 +295,7 @@ msgid "Imāni kho, bhikkhave, aṭṭha kusītavatthūni. (8)"
 msgstr "These are the eight grounds for laziness."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.334"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.334"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "an8.80:9.1"
 msgid "Aṭṭhimāni, bhikkhave, ārambhavatthūni."
@@ -408,7 +408,7 @@ msgid "idaṃ, bhikkhave, catutthaṃ ārambhavatthu. (4)"
 msgstr "This is the fourth ground for arousing energy."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.335"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.335"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "an8.80:13.1"
 msgid ""
@@ -536,7 +536,7 @@ msgid "Yamakavaggo tatiyo."
 msgstr ""
 
 #. </p><blockquote class="uddanagatha"><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.336"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.336"></a>
 #. <a class="sc" id="sc18"></a>
 msgctxt "an8.80:18.1"
 msgid "Dve saddhā dve maraṇassatī,"

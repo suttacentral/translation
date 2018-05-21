@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an09/an9.040.po\n"
-"X-Pootle-Revision: 199310\n"
+"X-Pootle-Revision: 205629\n"
 
 #. <section class="sutta" id="an9.40"><article><div class="hgroup"><p class="division">
 msgctxt "an9.40:0.1"
@@ -22,7 +22,7 @@ msgstr "Numbered Discourses 9"
 #. </p><p>
 msgctxt "an9.40:0.2"
 msgid "4. Mahāvagga"
-msgstr "4. The Greater Chapter"
+msgstr "4. The Great Chapter"
 
 #. </p><h1>
 #. VAR: 40. Nāgasutta → āraññakanāgopamasuttaṃ (bj)
@@ -31,7 +31,7 @@ msgid "40. Nāgasutta"
 msgstr "40. The Simile of the Bull Elephant in the Forest"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.435"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.435"></a>
 #. <a class="sc" id="sc1"></a>
 #. VAR: āraññikassa → āraññakassa (bj, s1-3)
 msgctxt "an9.40:1.1"
@@ -79,7 +79,7 @@ msgstr ""
 "by that."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.436"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.436"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an9.40:2.1"
 msgid "Tasmiṃ, bhikkhave, samaye āraññikassa nāgassa evaṃ hoti:"
@@ -148,7 +148,7 @@ msgstr ""
 "a branch and scratches his body, happily relieving his itches."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.437"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.437"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "an9.40:4.1"
 msgid ""
@@ -206,7 +206,8 @@ msgid ""
 "byāpādapadosā cittaṃ parisodheti;"
 msgstr ""
 "Giving up ill will and malevolence, they meditate with a mind rid of ill "
-"will, full of compassion for all creatures, cleansing the mind of ill will."
+"will, full of compassion for all living beings, cleansing the mind of ill "
+"will."
 
 msgctxt "an9.40:5.3"
 msgid ""
@@ -273,7 +274,7 @@ msgid "So attamano soṇḍaṃ saṃharati."
 msgstr "They happily relieve their itches."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.438"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.438"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an9.40:6.1"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an05/an5.197.po\n"
-"X-Pootle-Revision: 198300\n"
+"X-Pootle-Revision: 204832\n"
 
 #. <section class="sutta" id="an5.197"><article><div class="hgroup"><p class="division">
 msgctxt "an5.197:0.1"
@@ -32,7 +32,7 @@ msgstr "197. Obtacles to Rain"
 
 # Initially I rejected BB’s forecaster here, as I thought this more like soothsaying than science. But in truth there is nothing about the passage itself that suggests this; it’s just as likely that these are simply people who observe the weather and make predictions for harvest, etc. For kamati in this sense, compare the stock phrase Lābhā te, gahapati, saṃ te, gahapati, yassa te gambhīre buddhavacane paññācakkhu kamati
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.243"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.243"></a>
 #. <a class="sc" id="sc1"></a>
 #. VAR: nemittā → nemittakā (katthaci)
 msgctxt "an5.197:1.1"
@@ -67,7 +67,7 @@ msgstr ""
 #. <a class="sc" id="sc2"></a>
 msgctxt "an5.197:2.1"
 msgid "Puna caparaṃ, bhikkhave, upari ākāse vāyodhātu pakuppati."
-msgstr "Furthermore, in the upper atmosphere the wind element flares up,"
+msgstr "Furthermore, in the upper atmosphere the air element flares up,"
 
 msgctxt "an5.197:2.2"
 msgid "Tena uppannā meghā paṭivigacchanti."
@@ -86,7 +86,7 @@ msgid ""
 "Puna caparaṃ, bhikkhave, rāhu asurindo pāṇinā udakaṃ sampaṭicchitvā "
 "mahāsamudde chaḍḍeti."
 msgstr ""
-"Furthermore, Rāhu the lord of demons receives water in his hand and tosses "
+"Furthermore, Rāhu, lord of demons, receives water in his hand and tosses "
 "it in the ocean."
 
 msgctxt "an5.197:3.2"

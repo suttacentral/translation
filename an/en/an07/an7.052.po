@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an07/an7.052.po\n"
-"X-Pootle-Revision: 198899\n"
+"X-Pootle-Revision: 202545\n"
 
 #. <section class="sutta" id="an7.52"><article><div class="hgroup"><p class="division">
 msgctxt "an7.52:0.1"
@@ -98,7 +98,7 @@ msgstr ""
 
 # BB seems to omit the repeated tadisamyeva in his translation, which weakens the force of the question: “exactly the same kind of gift …”
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.60"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.60"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an7.52:3.1"
 msgid ""
@@ -172,7 +172,7 @@ msgid "“Evaṃ, bhante”."
 msgstr "“Yes, sir.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.61"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.61"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an7.52:5.1"
 msgid ""
@@ -268,7 +268,7 @@ msgid ""
 msgstr "Just as they performed great sacrifices, I will share a gift.’ …"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.62"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.62"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "an7.52:10.1"
 msgid ""
@@ -325,7 +325,7 @@ msgid "“Evaṃ, bhante”."
 msgstr "“Yes, sir.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.63"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.63"></a>
 #. <a class="sc" id="sc12"></a>
 #. VAR: na heva → naheva kho (bj, s1-3, pts1)
 msgctxt "an7.52:12.1"

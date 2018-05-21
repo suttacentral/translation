@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an06/an6.043.po\n"
-"X-Pootle-Revision: 198585\n"
+"X-Pootle-Revision: 202411\n"
 
 #. <section class="sutta" id="an6.43"><article><div class="hgroup"><p class="division">
 msgctxt "an6.43:0.1"
@@ -30,7 +30,7 @@ msgid "43. Nāgasutta"
 msgstr "43. The Giant"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.345"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.345"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an6.43:1.1"
 msgid ""
@@ -106,7 +106,7 @@ msgstr ""
 "himself."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.346"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.346"></a>
 #. <a class="sc" id="sc3"></a>
 #. VAR: mahātūriyatāḷitavāditena → mahāturiyatālita … (bj, s1-3, km, pts1)
 msgctxt "an6.43:3.1"
@@ -141,8 +141,8 @@ msgid ""
 "“hatthimeva nu kho, bhante, mahantaṃ brahantaṃ kāyupapannaṃ jano disvā "
 "evamāha:"
 msgstr ""
-"“Sir, is it only when they see elephants with such a huge, massive body that "
-"people exclaim:"
+"“Sir, is it only when they see elephants with such a huge, formidable body "
+"that people exclaim:"
 
 #. VAR: kañci → kiñci (mr)
 msgctxt "an6.43:3.6"
@@ -151,13 +151,13 @@ msgid ""
 "jano disvā evamāha: ‘nāgo vata bho nāgo’”ti?"
 msgstr ""
 "‘A giant, such a giant’? Or do they say it when they see any other creatures "
-"with huge, massive bodies?”"
+"with huge, formidable bodies?”"
 
 msgctxt "an6.43:3.7"
 msgid ""
 "“Hatthimpi kho, udāyi, mahantaṃ brahantaṃ kāyupapannaṃ jano disvā evamāha:"
 msgstr ""
-"“Udāyī, when they see elephants with such a huge, massive body people "
+"“Udāyī, when they see elephants with such a huge, formidable body people "
 "exclaim:"
 
 msgctxt "an6.43:3.8"
@@ -166,26 +166,26 @@ msgstr "‘A giant, such a giant!’"
 
 msgctxt "an6.43:3.9"
 msgid "Assampi kho, udāyi, mahantaṃ brahantaṃ … pe …"
-msgstr "And also when they see a horse with a huge, massive body …"
+msgstr "And also when they see a horse with a huge, formidable body …"
 
 msgctxt "an6.43:3.10"
 msgid "goṇampi kho, udāyi, mahantaṃ brahantaṃ … pe …"
-msgstr "When they see a bull with a huge, massive body …"
+msgstr "When they see a bull with a huge, formidable body …"
 
 #. VAR: uragampi → nāgampi (mr)
 msgctxt "an6.43:3.11"
 msgid "uragampi kho, udāyi, mahantaṃ brahantaṃ … pe …"
-msgstr "When they see a snake with a huge, massive body …"
+msgstr "When they see a snake with a huge, formidable body …"
 
 msgctxt "an6.43:3.12"
 msgid "rukkhampi kho, udāyi, mahantaṃ brahantaṃ … pe …"
-msgstr "When they see a tree with a huge, massive body …"
+msgstr "When they see a tree with a huge, formidable body …"
 
 msgctxt "an6.43:3.13"
 msgid ""
 "manussampi kho, udāyi, mahantaṃ brahantaṃ kāyupapannaṃ jano disvā evamāha:"
 msgstr ""
-"And when they see a human being with such a huge, massive body people "
+"And when they see a human being with such a huge, formidable body people "
 "exclaim:"
 
 msgctxt "an6.43:3.14"
@@ -402,7 +402,7 @@ msgid "ṭhito nāgo samāhito."
 msgstr "the giant is serene when standing,"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.347"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.347"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "an6.43:13.1"
 msgid "Seyyaṃ samāhito nāgo,"

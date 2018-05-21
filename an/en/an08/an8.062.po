@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an08/an8.062.po\n"
-"X-Pootle-Revision: 199183\n"
+"X-Pootle-Revision: 202656\n"
 
 #. <section class="sutta" id="an8.62"><article><div class="hgroup"><p class="division">
 msgctxt "an8.62:0.1"
@@ -30,7 +30,7 @@ msgid "62. Alaṃsutta"
 msgstr "62. Good Enough"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.296"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.296"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "an8.62:1.1"
 msgid ""
@@ -133,7 +133,7 @@ msgstr ""
 "others."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.297"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.297"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an8.62:3.1"
 msgid ""
@@ -236,7 +236,7 @@ msgstr ""
 "themselves."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.298"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.298"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an8.62:5.1"
 msgid ""
@@ -391,7 +391,7 @@ msgstr ""
 "for others."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.299"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.299"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "an8.62:8.1"
 msgid ""

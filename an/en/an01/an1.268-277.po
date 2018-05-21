@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an01/an1.268-277.po\n"
-"X-Pootle-Revision: 191353\n"
+"X-Pootle-Revision: 201633\n"
 
 #. <section id="vagga"><section class="sutta" data-uid="an1.268" id="268"><article><div class="hgroup"><p class="division">
 msgctxt "an1.268-277:0.1"
@@ -30,7 +30,7 @@ msgid "268"
 msgstr "268"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.27"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.27"></a>
 #. <a class="sc" id="sc268.1"></a>
 #. VAR: kañci → kiñci (mr)
 msgctxt "an1.268-277:268.1.1"
@@ -228,7 +228,7 @@ msgid "277"
 msgstr "277"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.28"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.28"></a>
 #. <a class="sc" id="sc277.1"></a>
 msgctxt "an1.268-277:277.1.1"
 msgid ""

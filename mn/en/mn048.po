@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn-/mn048.po\n"
-"X-Pootle-Revision: 196295\n"
+"X-Pootle-Revision: 204468\n"
 
 #. <section class="sutta" id="mn48"><article><div class="hgroup"><p class="division">
 msgctxt "mn48:0.1"
@@ -26,7 +26,7 @@ msgstr "The Mendicants of Kosambi"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.321"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.321"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn48:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -74,7 +74,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya4"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.322"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.322"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn48:4.1"
 msgid "Atha kho bhagavā aññataraṃ bhikkhuṃ āmantesi:"
@@ -86,7 +86,7 @@ msgstr "“Please, monk, in my name tell those mendicants that"
 
 msgctxt "mn48:4.3"
 msgid "‘satthā vo āyasmante āmantetī’”ti."
-msgstr "the teacher calls them."
+msgstr "the teacher summons them."
 
 msgctxt "mn48:4.4"
 msgid ""
@@ -96,7 +96,7 @@ msgstr "“Yes, sir,” that monk replied. He went to those monks and said:"
 
 msgctxt "mn48:4.5"
 msgid "“satthā āyasmante āmantetī”ti."
-msgstr "“Venerables, the teacher calls you.”"
+msgstr "“Venerables, the teacher summons you.”"
 
 msgctxt "mn48:4.6"
 msgid ""
@@ -301,7 +301,7 @@ msgstr ""
 "inclusion, harmony, and unity, without quarreling."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.323"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.323"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "mn48:6.16"
 msgid ""
@@ -477,7 +477,7 @@ msgstr "This is their second knowledge …"
 
 #. </p><p>
 #. <a class="nya" id="nya10"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.324"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.324"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "mn48:10.1"
 msgid "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"
@@ -661,7 +661,7 @@ msgstr "This is their fifth knowledge …"
 
 #. </p><p>
 #. <a class="nya" id="nya13"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.325"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.325"></a>
 #. <a class="sc" id="sc15"></a>
 msgctxt "mn48:13.1"
 msgid "Puna caparaṃ, bhikkhave, ariyasāvako iti paṭisañcikkhati:"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:20+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an04/an4.195.po\n"
-"X-Pootle-Revision: 197300\n"
+"X-Pootle-Revision: 202014\n"
 
 #. <section class="sutta" id="an4.195"><article><div class="hgroup"><p class="division">
 msgctxt "an4.195:0.1"
@@ -91,7 +91,7 @@ msgstr ""
 "But this conversation between Mahāmoggallāna and Vappa was left unfinished."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.197"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.197"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "an4.195:3.1"
 msgid ""
@@ -191,7 +191,7 @@ msgid "Hotu no ettha kathāsallāpo”ti."
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.198"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.198"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an4.195:6.1"
 msgid "“Taṃ kiṃ maññasi, vappa, "
@@ -421,7 +421,7 @@ msgstr ""
 
 # The thūṇa was a post to which animals were led for the sacrifice, something that gives it and its shadow a darker layer of meaning than just “stump”.
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.199"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.199"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "an4.195:11.1"
 msgid "Seyyathāpi, vappa, thūṇaṃ paṭicca chāyā paññāyati."
@@ -544,7 +544,7 @@ msgstr ""
 "here.’”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.200"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.200"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "an4.195:13.1"
 msgid "Evaṃ vutte, vappo sakko nigaṇṭhasāvako bhagavantaṃ etadavoca:"

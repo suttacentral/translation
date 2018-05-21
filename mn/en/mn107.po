@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn-/mn107.po\n"
-"X-Pootle-Revision: 195567\n"
+"X-Pootle-Revision: 205216\n"
 
 #. <section class="sutta" id="mn107"><article><div class="hgroup"><p class="division">
 msgctxt "mn107:0.1"
@@ -26,7 +26,7 @@ msgstr "With Moggallāna the Accountant"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.1"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.1"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn107:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -128,7 +128,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya3"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.2"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.2"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn107:3.1"
 msgid ""
@@ -157,7 +157,7 @@ msgid ""
 "ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhassu "
 "sikkhāpadesū’ti."
 msgstr ""
-"‘Come, mendicant, be ethical and restrained in the code of conduct, with "
+"‘Come, mendicant, be ethical and restrained in the monastic code, with "
 "appropriate behavior and means of collecting alms. Seeing danger in the "
 "slightest flaw, keep the rules you’ve undertaken.’"
 
@@ -237,7 +237,7 @@ msgstr "‘Come, mendicant, eat in moderation."
 
 msgctxt "mn107:5.3"
 msgid "Paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi—"
-msgstr "Properly reflect on the food that you eat:"
+msgstr "Reflect properly on the food that you eat:"
 
 msgctxt "mn107:5.4"
 msgid ""
@@ -253,7 +253,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.3"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.3"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "mn107:6.1"
 msgid ""
@@ -352,7 +352,8 @@ msgid ""
 "byāpādapadosā cittaṃ parisodheti;"
 msgstr ""
 "Giving up ill will and malevolence, they meditate with a mind rid of ill "
-"will, full of compassion for all creatures, cleansing the mind of ill will."
+"will, full of compassion for all living beings, cleansing the mind of ill "
+"will."
 
 #. VAR: thinamiddhaṃ → thīnamiddhaṃ (bj, s1-3, km, pts1)
 msgctxt "mn107:9.5"
@@ -382,7 +383,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya10"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.4"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.4"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "mn107:10.1"
 msgid "So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe "
@@ -493,7 +494,7 @@ msgstr "still some succeed while others fail?”"
 
 #. </p><p>
 #. <a class="nya" id="nya14"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.5"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.5"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "mn107:14.1"
 msgid ""
@@ -720,7 +721,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya16"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.7"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.7"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "mn107:16.1"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn-/mn119.po\n"
-"X-Pootle-Revision: 196339\n"
+"X-Pootle-Revision: 204968\n"
 
 #. <section class="sutta" id="mn119"><article><div class="hgroup"><p class="division">
 msgctxt "mn119:0.1"
@@ -26,7 +26,7 @@ msgstr "Mindfulness of the Body"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.89"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.89"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn119:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -58,9 +58,9 @@ msgid ""
 "Yāvañcidaṃ tena bhagavatā jānatā passatā arahatā sammāsambuddhena "
 "kāyagatāsati bhāvitā bahulīkatā mahapphalā vuttā mahānisaṃsā”ti."
 msgstr ""
-"how the Blessed One, who knows and sees, the perfected one, the fully awakened "
-"Buddha has said that mindfulness of the body, when developed and cultivated, "
-"is very fruitful and beneficial.”"
+"how the Blessed One, who knows and sees, the perfected one, the fully "
+"awakened Buddha has said that mindfulness of the body, when developed and "
+"cultivated, is very fruitful and beneficial.”"
 
 msgctxt "mn119:2.4"
 msgid ""
@@ -114,8 +114,8 @@ msgid ""
 "“Kathaṃ bhāvitā ca, bhikkhave, kāyagatāsati kathaṃ bahulīkatā mahapphalā "
 "hoti mahānisaṃsā?"
 msgstr ""
-"“And how, mendicants, is mindfulness of breathing developed and cultivated "
-"to be very fruitful and beneficial?"
+"“And how, mendicants, is mindfulness of the body developed and cultivated to "
+"be very fruitful and beneficial?"
 
 #. <a class="nya" id="nya4"></a>
 msgctxt "mn119:4.1"
@@ -225,7 +225,7 @@ msgstr "That too is how a mendicant develops mindfulness of the body."
 
 #. </p><p>
 #. <a class="nya" id="nya6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.90"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.90"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "mn119:6.1"
 msgid ""
@@ -351,7 +351,7 @@ msgstr "That too is how a mendicant develops mindfulness of the body."
 
 #. </p><p>
 #. <a class="nya" id="nya8"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.91"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.91"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "mn119:8.1"
 msgid ""
@@ -494,7 +494,7 @@ msgstr "That too is how a mendicant develops mindfulness of the body."
 
 #. </p><p>
 #. <a class="nya" id="nya11-14"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.92"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.92"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "mn119:11-14.1"
 msgid ""
@@ -593,7 +593,7 @@ msgstr "That too is how a mendicant develops mindfulness of the body."
 
 #. </p><p>
 #. <a class="nya" id="nya18"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.93"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.93"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "mn119:18.1"
 msgid ""
@@ -601,9 +601,9 @@ msgid ""
 "upasampajja viharati."
 msgstr ""
 "Furthermore, a mendicant, quite secluded from sensual pleasures, secluded "
-"from unskillful qualities, enters and remains in the first absorption, "
-"which has the rapture and bliss born of seclusion, while placing the mind "
-"and keeping it connected."
+"from unskillful qualities, enters and remains in the first absorption, which "
+"has the rapture and bliss born of seclusion, while placing the mind and "
+"keeping it connected."
 
 msgctxt "mn119:18.2"
 msgid ""
@@ -717,7 +717,7 @@ msgstr "That too is how a mendicant develops mindfulness of the body."
 
 #. </p><p>
 #. <a class="nya" id="nya20"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.94"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.94"></a>
 #. <a class="sc" id="sc15"></a>
 msgctxt "mn119:20.1"
 msgid ""
@@ -860,7 +860,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya23"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.95"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.95"></a>
 #. <a class="sc" id="sc18"></a>
 #. VAR: ārammaṇaṃ → āramaṇaṃ (?)
 msgctxt "mn119:23.1"
@@ -967,7 +967,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya26"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.96"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.96"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "mn119:26.1"
 msgid ""
@@ -1082,7 +1082,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya29"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.97"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.97"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "mn119:29.1"
 msgid ""
@@ -1232,7 +1232,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya36"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.98"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.98"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "mn119:36.1"
 msgid ""
@@ -1283,7 +1283,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya40"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli3.99"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi3.99"></a>
 #. <a class="sc" id="sc28"></a>
 msgctxt "mn119:40.1"
 msgid ""

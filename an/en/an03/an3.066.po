@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an-/an03/an3.066.po\n"
-"X-Pootle-Revision: 198207\n"
+"X-Pootle-Revision: 205656\n"
 
 #. <section class="sutta" id="an3.66"><article><div class="hgroup"><p class="division">
 msgctxt "an3.66:0.1"
@@ -22,7 +22,7 @@ msgstr "Numbered Discourses 3"
 #. </p><p>
 msgctxt "an3.66:0.2"
 msgid "7. Mahāvagga"
-msgstr "7. The Greater Chapter"
+msgstr "7. The Great Chapter"
 
 #. </p><h1>
 msgctxt "an3.66:0.3"
@@ -55,7 +55,7 @@ msgstr ""
 "said to Sāḷha:"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.194"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.194"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an3.66:2.1"
 msgid ""
@@ -63,10 +63,12 @@ msgid ""
 "piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā "
 "diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."
 msgstr ""
-"“Please, Sāḷha, don’t rely on oral transmission, lineage, testament, "
-"canonical authority, logic, inference, reasoned contemplation, acceptance of "
-"a view after consideration, the appearance of competence, or respect for "
-"your teacher."
+"“Please, Sāḷha and friends, don’t go by oral transmission, don’t go by "
+"lineage, don’t go by testament, don’t go by canonical authority, don’t rely "
+"on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t "
+"go by the acceptance of a view after consideration, don’t go by the "
+"appearance of competence, and don’t think ‘The ascetic is our respected "
+"teacher.’"
 
 msgctxt "an3.66:2.2"
 msgid ""
@@ -74,9 +76,9 @@ msgid ""
 "sāvajjā, ime dhammā viññugarahitā, ime dhammā samattā samādinnā ahitāya "
 "dukkhāya saṃvattantī’ti, atha tumhe, sāḷhā, pajaheyyātha."
 msgstr ""
-"But when you know for yourselves: ‘These things are unskillful, "
-"blameworthy, criticized by sensible people, and when you undertake them, "
-"they lead to harm and suffering’, then you should give them up."
+"But when you know for yourselves: ‘These things are unskillful, blameworthy, "
+"criticized by sensible people, and when you undertake them, they lead to "
+"harm and suffering’, then you should give them up."
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
@@ -239,7 +241,7 @@ msgid "Kathaṃ vā ettha hotī”ti?"
 msgstr "Or how do you see this?”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.195"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.195"></a>
 #. <a class="sc" id="sc22"></a>
 msgctxt "an3.66:22.1"
 msgid "“Samattā, bhante, samādinnā ahitāya dukkhāya saṃvattantīti."
@@ -261,10 +263,11 @@ msgid ""
 "piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā "
 "diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."
 msgstr ""
-"‘Please, don’t rely on oral transmission, lineage, testament, canonical "
-"authority, logic, inference, reasoned contemplation, acceptance of a view "
-"after consideration, the appearance of competence, or respect for your "
-"teacher."
+"‘Please, don’t go by oral transmission, don’t go by lineage, don’t go by "
+"testament, don’t go by canonical authority, don’t rely on logic, don’t rely "
+"on inference, don’t go by reasoned contemplation, don’t go by the acceptance "
+"of a view after consideration, don’t go by the appearance of competence, and "
+"don’t think “The ascetic is our respected teacher.”"
 
 msgctxt "an3.66:23.3"
 msgid "Yadā tumhe, sāḷhā, attanāva jāneyyātha—"
@@ -292,10 +295,12 @@ msgid ""
 "piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā "
 "diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."
 msgstr ""
-"Please, Sāḷha, don’t rely on oral transmission, lineage, testament, "
-"canonical authority, logic, inference, reasoned contemplation, acceptance of "
-"a view after consideration, the appearance of competence, or respect for "
-"your teacher."
+"Please, Sāḷha and friends, don’t go by oral transmission, don’t go by "
+"lineage, don’t go by testament, don’t go by canonical authority, don’t rely "
+"on logic, don’t rely on inference, don’t go by reasoned contemplation, don’t "
+"go by the acceptance of a view after consideration, don’t go by the "
+"appearance of competence, and don’t think ‘The ascetic is our respected "
+"teacher.’"
 
 msgctxt "an3.66:24.2"
 msgid "Yadā tumhe, sāḷhā, attanāva jāneyyātha:"
@@ -396,7 +401,7 @@ msgid "“Evaṃ, bhante”."
 msgstr "“Yes, sir.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.196"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.196"></a>
 #. <a class="sc" id="sc35"></a>
 msgctxt "an3.66:35.1"
 msgid "“Vijjāti kho ahaṃ, sāḷhā, etamatthaṃ vadāmi."
@@ -487,10 +492,11 @@ msgid ""
 "piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā "
 "diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garūti."
 msgstr ""
-"‘Please, don’t rely on oral transmission, lineage, testament, canonical "
-"authority, logic, inference, reasoned contemplation, acceptance of a view "
-"after consideration, the appearance of competence, or respect for your "
-"teacher."
+"‘Please, don’t go by oral transmission, don’t go by lineage, don’t go by "
+"testament, don’t go by canonical authority, don’t rely on logic, don’t rely "
+"on inference, don’t go by reasoned contemplation, don’t go by the acceptance "
+"of a view after consideration, don’t go by the appearance of competence, and "
+"don’t think “The ascetic is our respected teacher.”"
 
 msgctxt "an3.66:45.3"
 msgid "Yadā tumhe, sāḷhā, attanāva jāneyyātha—"
@@ -511,7 +517,7 @@ msgid "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttaṃ."
 msgstr "That’s what I said, and this is why I said it."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.197"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.197"></a>
 #. <a class="sc" id="sc46"></a>
 msgctxt "an3.66:46.1"
 msgid ""

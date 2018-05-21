@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:19+0000\n"
+"POT-Creation-Date: 2018-04-06 07:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn-/mn054.po\n"
-"X-Pootle-Revision: 193772\n"
+"X-Pootle-Revision: 204741\n"
 
 #. <section class="sutta" id="mn54"><article><div class="hgroup"><p class="division">
 msgctxt "mn54:0.1"
@@ -98,7 +98,7 @@ msgstr ""
 "Gotama addresses me as ‘householder’!” he stayed silent."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.360"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.360"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn54:3.5"
 msgid "Dutiyampi kho bhagavā … pe …"
@@ -222,8 +222,8 @@ msgstr "What eight?"
 msgctxt "mn54:4.4"
 msgid "Apāṇātipātaṃ nissāya pāṇātipāto pahātabbo;"
 msgstr ""
-"Killing living beings should be given up, relying on not killing living "
-"beings."
+"Killing living creatures should be given up, relying on not killing living "
+"creatures."
 
 msgctxt "mn54:4.5"
 msgid "dinnādānaṃ nissāya adinnādānaṃ pahātabbaṃ;"
@@ -291,15 +291,15 @@ msgstr "The Buddha said this:"
 
 #. </p><p>
 #. <a class="nya" id="nya6"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.361"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.361"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "mn54:6.1"
 msgid ""
 "“‘Apāṇātipātaṃ nissāya pāṇātipāto pahātabbo’ti iti kho panetaṃ vuttaṃ, "
 "kiñcetaṃ paṭicca vuttaṃ?"
 msgstr ""
-"“‘Killing living beings should be given up, relying on not killing living "
-"beings.’ That’s what I said, but why did I say it?"
+"“‘Killing living creatures should be given up, relying on not killing living "
+"creatures.’ That’s what I said, but why did I say it?"
 
 msgctxt "mn54:6.2"
 msgid "Idha, gahapati, ariyasāvako iti paṭisañcikkhati:"
@@ -311,7 +311,7 @@ msgid ""
 "pahānāya samucchedāya paṭipanno."
 msgstr ""
 "‘I am practicing to give up and cut off the fetters that might cause me to "
-"kill living beings."
+"kill living creatures."
 
 #. VAR: Ahañceva → ahañce (?)
 #. VAR: anuviccāpi maṃ viññū → anuvicca viññū (bj, s1-3, pts1)
@@ -321,13 +321,13 @@ msgid ""
 "anuviccāpi maṃ viññū garaheyyuṃ pāṇātipātapaccayā, kāyassa bhedā paraṃ "
 "maraṇā duggati pāṭikaṅkhā pāṇātipātapaccayā."
 msgstr ""
-"But if I were to kill living beings, because of that I would reprimand "
+"But if I were to kill living creatures, because of that I would reprimand "
 "myself; sensible people, after examination, would criticize me; and when my "
 "body breaks up, after death, I could expect to be reborn in a bad place."
 
 msgctxt "mn54:6.5"
 msgid "Etadeva kho pana saṃyojanaṃ etaṃ nīvaraṇaṃ yadidaṃ pāṇātipāto."
-msgstr "And killing living beings is itself a fetter and a hindrance."
+msgstr "And killing living creatures is itself a fetter and a hindrance."
 
 msgctxt "mn54:6.6"
 msgid ""
@@ -335,13 +335,13 @@ msgid ""
 "paṭiviratassa evaṃsa te āsavā vighātapariḷāhā na honti’."
 msgstr ""
 "The distressing and feverish defilements that might arise because of killing "
-"living beings do not occur in someone who does not kill living creatures.’"
+"living creatures do not occur in someone who does not kill living creatures.’"
 
 msgctxt "mn54:6.7"
 msgid "‘Apāṇātipātaṃ nissāya pāṇātipāto pahātabbo’ti—"
 msgstr ""
-"‘Killing living beings should be given up, relying on not killing living "
-"beings.’"
+"‘Killing living creatures should be given up, relying on not killing living "
+"creatures.’"
 
 msgctxt "mn54:6.8"
 msgid "iti yantaṃ vuttaṃ idametaṃ paṭicca vuttaṃ."
@@ -393,7 +393,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya8"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.362"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.362"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "mn54:8.1"
 msgid ""
@@ -526,7 +526,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya11"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.363"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.363"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "mn54:11.1"
 msgid ""
@@ -668,7 +668,7 @@ msgstr "That’s what I said, and this is why I said it."
 
 #. </p><p>
 #. <a class="nya" id="nya14"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.364"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.364"></a>
 #. <a class="sc" id="sc12"></a>
 #. VAR: vibhattā → avibhattā (s1-3, mr)
 msgctxt "mn54:14.1"
@@ -843,7 +843,7 @@ msgid "“Evaṃ, bhante”."
 msgstr "“Yes, sir.” …"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.365"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.365"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "mn54:16.6"
 msgid "“Evameva kho, gahapati, ariyasāvako iti paṭisañcikkhati:"
@@ -1012,7 +1012,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya20"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.366"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.366"></a>
 #. <a class="sc" id="sc29"></a>
 #. VAR: yānaṃ vā → yānaṃ (s1-3, km, pts1)
 #. VAR: poriseyyaṃ → poroseyyaṃ (bj, pts1, mr) | oropeyya (s1-3, km)
@@ -1083,7 +1083,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya21"></a>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.367"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.367"></a>
 #. <a class="sc" id="sc33"></a>
 msgctxt "mn54:21.1"
 msgid "Seyyathāpi, gahapati, gāmassa vā nigamassa vā avidūre tibbo vanasaṇḍo."
@@ -1293,7 +1293,7 @@ msgstr ""
 "in the noble one’s training."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli1.368"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.368"></a>
 #. <a class="sc" id="sc39"></a>
 msgctxt "mn54:25.2"
 msgid "Taṃ kiṃ maññasi, gahapati, "
