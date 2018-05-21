@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn08/sn8.05.po\n"
-"X-Pootle-Revision: 197710\n"
+"X-Pootle-Revision: 203807\n"
 
 #. <section class="sutta" id="sn8.5"><article><div class="hgroup"><p class="division">
 msgctxt "sn8.5:0.1"
@@ -137,7 +137,7 @@ msgctxt "sn8.5:4.4"
 msgid ""
 "Atha kho āyasmā vaṅgīso bhagavantaṃ sammukhā sāruppāhi gāthāhi abhitthavi:"
 msgstr ""
-"Then Vaṅgīsa extolled the Buddha in his presence with appropriate verses."
+"Then Vaṅgīsa extolled the Buddha in his presence with appropriate verses:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc5"></a>
@@ -217,7 +217,7 @@ msgstr "for realizing the sanctuary, extinguishment,"
 #. <br>
 msgctxt "sn8.5:8.3"
 msgid "Dukkhassantakiriyāya,"
-msgstr "to making an end of suffering:"
+msgstr "for making an end of suffering:"
 
 #. <br>
 msgctxt "sn8.5:8.4"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.66.po\n"
-"X-Pootle-Revision: 197657\n"
+"X-Pootle-Revision: 205646\n"
 
 #. <section class="sutta" id="sn12.66"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.66:0.1"
@@ -22,7 +22,7 @@ msgstr "Linked Discourses 12"
 #. </p><p>
 msgctxt "sn12.66:0.2"
 msgid "7. Mahāvagga"
-msgstr "7. The Greater Chapter"
+msgstr "7. The Great Chapter"
 
 #. </p><h1>
 msgctxt "sn12.66:0.3"
@@ -66,7 +66,7 @@ msgstr "“Mendicants, do you perform inner self-examination?”"
 
 msgctxt "sn12.66:1.8"
 msgid "Evaṃ vutte, aññataro bhikkhu bhagavantaṃ etadavoca:"
-msgstr "When he said this, one of the mendicants asked the Buddha:"
+msgstr "When he said this, one of the mendicants said to the Buddha:"
 
 msgctxt "sn12.66:1.9"
 msgid "“ahaṃ kho, bhante, sammasāmi antaraṃ sammasan”ti."
@@ -115,7 +115,7 @@ msgid "Bhagavā etadavoca:"
 msgstr "The Buddha said this:"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.108"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.108"></a>
 #. <a class="sc" id="sc3"></a>
 #. VAR: sammasaṃ → sammasanaṃ (bj)
 msgctxt "sn12.66:3.1"
@@ -134,9 +134,9 @@ msgid ""
 "Idaṃ kho dukkhaṃ kiṃnidānaṃ kiṃsamudayaṃ kiṃjātikaṃ kiṃpabhavaṃ, kismiṃ sati "
 "jarāmaraṇaṃ hoti, kismiṃ asati jarāmaraṇaṃ na hotī’ti?"
 msgstr ""
-"But what is the source of this suffering? When what exists does old age and "
-"death come to be? And when what does not exist does old age and death not "
-"come to be?’"
+"But what is the source of this suffering? When what exists do old age and "
+"death come to be? And when what does not exist do old age and death not come "
+"to be?’"
 
 msgctxt "sn12.66:3.4"
 msgid "So sammasamāno evaṃ jānāti:"
@@ -226,7 +226,7 @@ msgstr ""
 "suffering, for the cessation of attachments."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.109"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.109"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn12.66:5.1"
 msgid "Athāparaṃ sammasamāno sammasati antaraṃ sammasaṃ:"
@@ -246,7 +246,7 @@ msgid ""
 "yaṃ kho loke piyarūpaṃ sātarūpaṃ etthesā taṇhā uppajjamānā uppajjati, ettha "
 "nivisamānā nivisati."
 msgstr ""
-"That craving arises and settles on whatever in the world seems nice and "
+"‘That craving arises and settles on whatever in the world seems nice and "
 "pleasant."
 
 msgctxt "sn12.66:5.5"
@@ -283,7 +283,7 @@ msgid ""
 "nivisamānā nivisati."
 msgstr ""
 "mind in the world seems nice and pleasant, and it is there that craving "
-"arises and settles."
+"arises and settles.’"
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
@@ -389,7 +389,7 @@ msgstr ""
 "freed from suffering, I say."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.110"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.110"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "sn12.66:9.1"
 msgid ""
@@ -452,7 +452,7 @@ msgctxt "sn12.66:9.11"
 msgid ""
 "Evameva kho, bhikkhave, ye hi keci atītamaddhānaṃ samaṇā vā brāhmaṇā vā yaṃ "
 "loke piyarūpaṃ … pe …"
-msgstr "In the same way, there are ascetics and bramins of the past …"
+msgstr "In the same way, there are ascetics and brahmins of the past …"
 
 msgctxt "sn12.66:9.12"
 msgid "anāgatamaddhānaṃ … pe …"
@@ -520,7 +520,7 @@ msgstr ""
 "suffering, I say."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.111"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.111"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "sn12.66:11.1"
 msgid ""
@@ -578,7 +578,7 @@ msgstr ""
 "suffering, I say."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.112"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.112"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "sn12.66:13.1"
 msgid ""
@@ -625,7 +625,7 @@ msgstr ""
 
 msgctxt "sn12.66:13.8"
 msgid "Atha kho, bhikkhave, tassa purisassa evamassa:"
-msgstr "Then that man thought:"
+msgstr "Then that man might think:"
 
 # Reading ahitaya dukkhaya, following PTS and BB. As for Bhatthalonika/matthalonika, I have no idea what it means. The only meaning I can extract from the dicts is mattha=brains. Which, okay, “salted brain” might be tasty, but i’m not sure this is what it means. Comm says Bhaṭṭhaloṇikāyāti saloṇena sattupānīyena. But I also have no idea what this means. upaniya is to infer, bring it. Is satta “beings=meat”? Then this would be meat broth as opposed to grain broth for lonasoviraka? Maybe! Either way, i find BB’s “porridge” just a bit humorous; I can’t image a thirsty man drinking porridge! Lacking a solution, the simile works fine with just three drinks.
 #. VAR: surāpipāsitā → surāpipāsā (?)
@@ -645,7 +645,7 @@ msgstr "He’d reject that beverage. After reflection, he wouldn’t drink it,"
 
 msgctxt "sn12.66:13.11"
 msgid "So tatonidānaṃ na maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ."
-msgstr "and wouldn’t result in death or deadly pain."
+msgstr "and it wouldn’t result in death or deadly pain."
 
 msgctxt "sn12.66:13.12"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.247.po\n"
-"X-Pootle-Revision: 185942\n"
+"X-Pootle-Revision: 200855\n"
 
 #. <section class="sutta" id="sn35.247"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.247:0.1"
@@ -119,9 +119,9 @@ msgid ""
 "manasā dhammaṃ viññāya piyarūpe dhamme adhimuccati, appiyarūpe dhamme "
 "byāpajjati, anupaṭṭhitakāyassati ca viharati parittacetaso, "
 msgstr ""
-"When they know a thought with the mind, if it’s pleasant they hold on "
-"to it, but if it’s unpleasant they dislike it. They live with mindfulness of "
-"the body unestablished and a limited heart. "
+"When they know a thought with the mind, if it’s pleasant they hold on to it, "
+"but if it’s unpleasant they dislike it. They live with mindfulness of the "
+"body unestablished and a limited heart. "
 
 msgctxt "sn35.247:2.9"
 msgid ""
@@ -133,7 +133,7 @@ msgstr ""
 "over."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.199"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.199"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn35.247:3.1"
 msgid ""
@@ -221,15 +221,14 @@ msgstr ""
 msgctxt "sn35.247:3.13"
 msgid "mano āviñchati manāpiyesu dhammesu, amanāpiyā dhammā paṭikūlā honti."
 msgstr ""
-"mind pulls towards pleasant thoughts, but is put off by unpleasant "
-"thoughts."
+"mind pulls towards pleasant thoughts, but is put off by unpleasant thoughts."
 
 msgctxt "sn35.247:3.14"
 msgid "Evaṃ kho, bhikkhave, asaṃvaro hoti."
 msgstr "This is how someone is unrestrained."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.200"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.200"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "sn35.247:4.1"
 msgid "Kathañca, bhikkhave, saṃvaro hoti?"
@@ -262,9 +261,9 @@ msgid ""
 "manasā dhammaṃ viññāya piyarūpe dhamme nādhimuccati, appiyarūpe dhamme na "
 "byāpajjati, upaṭṭhitakāyassati ca viharati appamāṇacetaso, "
 msgstr ""
-"know a thought with the mind. If it’s pleasant they don’t hold on to "
-"it, and if it’s unpleasant they don’t dislike it. They live with mindfulness "
-"of the body established and a limitless heart. "
+"know a thought with the mind. If it’s pleasant they don’t hold on to it, and "
+"if it’s unpleasant they don’t dislike it. They live with mindfulness of the "
+"body established and a limitless heart. "
 
 msgctxt "sn35.247:4.6"
 msgid ""
@@ -357,8 +356,8 @@ msgctxt "sn35.247:5.13"
 msgid ""
 "mano nāviñchati manāpiyesu dhammesu, amanāpiyā dhammā nappaṭikūlā honti."
 msgstr ""
-"mind doesn’t pull towards pleasant thoughts, and isn’t put off by "
-"unpleasant thoughts."
+"mind doesn’t pull towards pleasant thoughts, and isn’t put off by unpleasant "
+"thoughts."
 
 msgctxt "sn35.247:5.14"
 msgid "Evaṃ kho, bhikkhave, saṃvaro hoti."

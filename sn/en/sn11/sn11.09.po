@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn11/sn11.09.po\n"
-"X-Pootle-Revision: 197747\n"
+"X-Pootle-Revision: 205029\n"
 
 #. <section class="sutta" id="sn11.9"><article><div class="hgroup"><p class="division">
 msgctxt "sn11.9:0.1"
@@ -22,7 +22,7 @@ msgstr "Linked Discourses 11"
 #. </p><p>
 msgctxt "sn11.9:0.2"
 msgid "1. Paṭhamavagga"
-msgstr "1. First Chapter"
+msgstr "1. The First Chapter"
 
 #. </p><h1>
 #. VAR: 9. Araññāyatanaisisutta → āraññakasuttaṃ (s1-3) | isayo araññakā (gandha) (pts1)
@@ -50,7 +50,8 @@ msgid ""
 "Atha kho, bhikkhave, sakko ca devānamindo vepacitti ca asurindo yena te "
 "isayo sīlavanto kalyāṇadhammā tenupasaṅkamiṃsu."
 msgstr ""
-"Then Sakka, lord of gods, and Vepacitti, Lord of Demons, went to those seers."
+"Then Sakka, lord of gods, and Vepacitti, lord of demons, went to "
+"those seers."
 
 # Readings of apabyamato are highly uncertain. But it seems odd to me that none of the disctionaries or translations consider taking the most obvious reading. byāma means fathom, apabyāmato means “a fathom away, a good distance off”. This fits much better with the story. Vepacitti was not crudely trying to show arbitrary disrespect: why would he? He’s just come for a visit. No; he’s just repelled by the smell. Being a physical being he is affected by this, but the gods smell only the silagandha.
 #. VAR: paṭaliyo → aṭaliyo (bj, s1-3, km, pts1-2) | āṭaliyo (mr)

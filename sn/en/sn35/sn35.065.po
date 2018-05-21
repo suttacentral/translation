@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.065.po\n"
-"X-Pootle-Revision: 185790\n"
+"X-Pootle-Revision: 205453\n"
 
 #. <section class="sutta" id="sn35.65"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.65:0.1"
@@ -28,7 +28,7 @@ msgstr "7. With Migajāla"
 #. VAR: 65. Paṭhamasamiddhimārapañhāsutta → samidhimārapañhasuttaṃ (bj) | samiddhi 1 (pts1)
 msgctxt "sn35.65:0.3"
 msgid "65. Paṭhamasamiddhimārapañhāsutta"
-msgstr "65. Samiddhi’s Question About Māra"
+msgstr "65. Samiddhi’s Question About Māra (1st)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -56,7 +56,7 @@ msgid "Kittāvatā nu kho, bhante, māro vā assa mārapaññatti vā”ti?"
 msgstr "How do we define Māra or what is known as Māra?”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.39"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.39"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn35.65:2.1"
 msgid ""
@@ -79,32 +79,32 @@ msgid ""
 "Atthi ghānaṃ, atthi gandhā, atthi ghānaviññāṇaṃ, atthi "
 "ghānaviññāṇaviññātabbā dhammā, atthi tattha māro vā mārapaññatti vā."
 msgstr ""
-"Where there is the nose, smells, nose consciousness, and phenomena "
-"to be known by nose consciousness, there is Māra or what is known as Māra."
+"Where there is the nose, smells, nose consciousness, and phenomena to be "
+"known by nose consciousness, there is Māra or what is known as Māra."
 
 msgctxt "sn35.65:2.4"
 msgid ""
 "Atthi jivhā, atthi rasā, atthi jivhāviññāṇaṃ, atthi jivhāviññāṇaviññātabbā "
 "dhammā, atthi tattha māro vā mārapaññatti vā."
 msgstr ""
-"Where there is the tongue, tastes, tongue consciousness, and phenomena "
-"to be known by tongue consciousness, there is Māra or what is known as Māra."
+"Where there is the tongue, tastes, tongue consciousness, and phenomena to be "
+"known by tongue consciousness, there is Māra or what is known as Māra."
 
 msgctxt "sn35.65:2.5"
 msgid ""
 "Atthi kāyo, atthi phoṭṭhabbā, atthi kāyaviññāṇaṃ, atthi "
 "kāyaviññāṇaviññātabbā dhammā, atthi tattha māro vā mārapaññatti vā."
 msgstr ""
-"Where there is the body, touches, body consciousness, and phenomena "
-"to be known by body consciousness, there is Māra or what is known as Māra."
+"Where there is the body, touches, body consciousness, and phenomena to be "
+"known by body consciousness, there is Māra or what is known as Māra."
 
 msgctxt "sn35.65:2.6"
 msgid ""
 "Atthi mano, atthi dhammā, atthi manoviññāṇaṃ, atthi manoviññāṇaviññātabbā "
 "dhammā, atthi tattha māro vā mārapaññatti vā."
 msgstr ""
-"Where there is the mind, thoughts, mind consciousness, and phenomena "
-"to be known by mind consciousness, there is Māra or what is known as Māra."
+"Where there is the mind, thoughts, mind consciousness, and phenomena to be "
+"known by mind consciousness, there is Māra or what is known as Māra."
 
 #. </p><p>
 #. <a class="sc" id="sc3"></a>
@@ -113,8 +113,8 @@ msgid ""
 "Yattha ca kho, samiddhi, natthi cakkhu, natthi rūpā, natthi cakkhuviññāṇaṃ, "
 "natthi cakkhuviññāṇaviññātabbā dhammā, natthi tattha māro vā mārapaññatti vā."
 msgstr ""
-"Where there is no eye, no sights, no eye consciousness, and no phenomena "
-"to be known by eye consciousness, there is no Māra or what is known as Māra."
+"Where there is no eye, no sights, no eye consciousness, and no phenomena to "
+"be known by eye consciousness, there is no Māra or what is known as Māra."
 
 msgctxt "sn35.65:3.2"
 msgid "Natthi sotaṃ … pe …"
@@ -140,7 +140,8 @@ msgid ""
 "manoviññāṇaviññātabbā dhammā, natthi tattha māro vā mārapaññatti vā”ti."
 msgstr ""
 "Where there is no mind, no thoughts, no mind consciousness, and no phenomena "
-"to be known by mind consciousness, there is no Māra or what is known as Māra.”"
+"to be known by mind consciousness, there is no Māra or what is known as "
+"Māra.”"
 
 #. </p><p class="endsection">
 msgctxt "sn35.65:3.7"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn18/sn18.01.po\n"
-"X-Pootle-Revision: 185348\n"
+"X-Pootle-Revision: 200261\n"
 
 #. <section class="sutta" id="sn18.1"><article><div class="hgroup"><p class="division">
 msgctxt "sn18.1:0.1"
@@ -22,13 +22,13 @@ msgstr "Linked Discourses 18"
 #. </p><p>
 msgctxt "sn18.1:0.2"
 msgid "1. Paṭhamavagga"
-msgstr "1. First Chapter"
+msgstr "1. The First Chapter"
 
 #. </p><h1>
 #. VAR: 1. Cakkhusutta → cakkhuādisuttaṃ (bj)
 msgctxt "sn18.1:0.3"
 msgid "1. Cakkhusutta"
-msgstr "1. The Eye, etc."
+msgstr "1. The Eye, Etc."
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -61,7 +61,7 @@ msgstr ""
 "ll live alone, withdrawn, diligent, keen, and resolute.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.245"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.245"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn18.1:2.1"
 msgid "“Taṃ kiṃ maññasi, rāhula, "
@@ -138,7 +138,7 @@ msgstr "“Is the mind permanent or impermanent?”"
 
 msgctxt "sn18.1:3.10"
 msgid "“Anicco, bhante”."
-msgstr "“Impermanent, sir.” …"
+msgstr "“Impermanent, sir.” "
 
 msgctxt "sn18.1:3.11"
 msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"

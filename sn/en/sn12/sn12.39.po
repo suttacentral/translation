@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.39.po\n"
-"X-Pootle-Revision: 197601\n"
+"X-Pootle-Revision: 205381\n"
 
 #. <section class="sutta" id="sn12.39"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.39:0.1"
@@ -27,7 +27,7 @@ msgstr "4. Kaḷāra the Aristocrat"
 #. </p><h1>
 msgctxt "sn12.39:0.3"
 msgid "39. Dutiyacetanāsutta"
-msgstr "39. Intention"
+msgstr "39. Intention (2nd)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -49,11 +49,11 @@ msgstr "When this support exists, consciousness becomes established."
 
 msgctxt "sn12.39:1.4"
 msgid "Tasmiṃ patiṭṭhite viññāṇe virūḷhe nāmarūpassa avakkanti hoti."
-msgstr "When consciousness is established, name and form is conceived."
+msgstr "When consciousness is established, name and form are conceived."
 
 msgctxt "sn12.39:1.5"
 msgid "Nāmarūpapaccayā saḷāyatanaṃ;"
-msgstr "Name and form is a condition for the six sense fields."
+msgstr "Name and form are conditions for the six sense fields."
 
 msgctxt "sn12.39:1.6"
 msgid "saḷāyatanapaccayā phasso;"
@@ -112,7 +112,7 @@ msgstr "When consciousness is established, name and form are conceived."
 
 msgctxt "sn12.39:2.4"
 msgid "Nāmarūpapaccayā saḷāyatanaṃ … pe …"
-msgstr "Name and form are a condition for the six sense fields. …"
+msgstr "Name and form are conditions for the six sense fields. …"
 
 msgctxt "sn12.39:2.5"
 msgid "evametassa kevalassa dukkhakkhandhassa samudayo hoti."
@@ -134,7 +134,7 @@ msgstr "With no support, consciousness is not established."
 
 msgctxt "sn12.39:3.3"
 msgid "Tadappatiṭṭhite viññāṇe avirūḷhe nāmarūpassa avakkanti na hoti."
-msgstr "When consciousness is established, name and form are conceived."
+msgstr "When consciousness is not established, name and form are not conceived."
 
 msgctxt "sn12.39:3.4"
 msgid "Nāmarūpanirodhā saḷāyatananirodho … pe …"

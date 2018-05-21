@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:15+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn04/sn4.18.po\n"
-"X-Pootle-Revision: 196158\n"
+"X-Pootle-Revision: 199954\n"
 
 #. <section class="sutta" id="sn4.18"><article><div class="hgroup"><p class="division">
 msgctxt "sn4.18:0.1"
@@ -35,7 +35,9 @@ msgstr "18. Alms Food"
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn4.18:1.1"
 msgid "Ekaṃ samayaṃ bhagavā magadhesu viharati pañcasālāyaṃ brāhmaṇagāme."
-msgstr "At one time the Buddha was staying in the land of the Magadhans near the brahmin village of Pañcasālā."
+msgstr ""
+"At one time the Buddha was staying in the land of the Magadhans near the "
+"brahmin village of Pañcasālā."
 
 # BB has “the gift-festival of the young people was being held”. This follows the comm. While this is possible, I prefer to follow the principle of least meaning; creating an entire festival out of one word, while charming, makes it bear a great weight. One of the few other uses of pāhunaka is at Mil 5.1.2. There, the story goes that when a guest arrives after the food is used up, and special food must be prepared for them. The host/guest relationship is expressed in dative/genitive, as here, and the similar subject matter suggests a connection. I think the point here is that the women who might normally prepare food were otherwise occupied. This gives a straightforward sense to the sutta; otherwise it is hard to say why the fact that young people were giving each other flowers has anything to do with ascetics collecting alms. Also, I prefer the feminine kumarika here as being more specific.
 msgctxt "sn4.18:1.2"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn14/sn14.05.po\n"
-"X-Pootle-Revision: 197669\n"
+"X-Pootle-Revision: 205394\n"
 
 #. <section class="sutta" id="sn14.5"><article><div class="hgroup"><p class="division">
 msgctxt "sn14.5:0.1"
@@ -28,7 +28,7 @@ msgstr "1. Diversity"
 #. VAR: 5. Dutiyavedanānānattasutta → vedanā 2 (pts1-2)
 msgctxt "sn14.5:0.3"
 msgid "5. Dutiyavedanānānattasutta"
-msgstr "5. Diversity of feelings"
+msgstr "5. Diversity of Feelings (2nd)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -62,7 +62,7 @@ msgid "idaṃ vuccati, bhikkhave, dhātunānattaṃ."
 msgstr "This is called the diversity of elements."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.143"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.143"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn14.5:2.1"
 msgid ""

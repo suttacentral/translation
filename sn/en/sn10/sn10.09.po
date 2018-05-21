@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn10/sn10.09.po\n"
-"X-Pootle-Revision: 185130\n"
+"X-Pootle-Revision: 203957\n"
 
 #. <section class="sutta" id="sn10.9"><article><div class="hgroup"><p class="division">
 msgctxt "sn10.9:0.1"
@@ -27,7 +27,7 @@ msgstr "1. With Indaka"
 #. </p><h1>
 msgctxt "sn10.9:0.3"
 msgid "9. Paṭhamasukkāsutta"
-msgstr "9. With the Nun Sukkā"
+msgstr "9. With the Nun Sukkā (1st)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -92,7 +92,7 @@ msgstr "it’s as if they drink it up,"
 #. <br>
 msgctxt "sn10.9:3.3"
 msgid "Pivanti maññe sappaññā,"
-msgstr "so irresistible, delicious and nutritious,"
+msgstr "so irresistible, delicious, and nutritious,"
 
 #. <br>
 #. VAR: Valāhakamiva panthagū”ti → valāhakamivaddhagūti (bj, pts2)

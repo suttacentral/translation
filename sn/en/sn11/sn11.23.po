@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn11/sn11.23.po\n"
-"X-Pootle-Revision: 185156\n"
+"X-Pootle-Revision: 205038\n"
 
 #. <section class="sutta" id="sn11.23"><article><div class="hgroup"><p class="division">
 msgctxt "sn11.23:0.1"
@@ -22,7 +22,7 @@ msgstr "Linked Discourses 11"
 #. </p><p>
 msgctxt "sn11.23:0.2"
 msgid "3. Tatiyavagga"
-msgstr "3. Third Chapter"
+msgstr "3. The Third Chapter"
 
 #. </p><h1>
 #. VAR: 23. Sambarimāyāsutta → māyāsuttaṃ (bj, s1-3) | māyā (pts1)
@@ -46,7 +46,7 @@ msgid ""
 "“bhūtapubbaṃ, bhikkhave, vepacitti asurindo ābādhiko ahosi dukkhito "
 "bāḷhagilāno."
 msgstr ""
-"“Once upon a time, mendicants, Vepacitti, Lord of Demons, was sick, "
+"“Once upon a time, mendicants, Vepacitti, lord of demons, was sick, "
 "suffering, gravely ill."
 
 # Sweet!
@@ -87,7 +87,8 @@ msgstr "Then Vepacitti, lord of demons, asked the demons:"
 
 msgctxt "sn11.23:1.11"
 msgid "‘vācemahaṃ, mārisā, sakkaṃ devānamindaṃ sambarimāyan’ti?"
-msgstr "‘Good sirs, may I teach the Sambari sorcery to Sakka, lord of gods?’"
+msgstr ""
+"‘Good sirs, may I teach the Sambari sorcery to Sakka, lord of gods?’"
 
 msgctxt "sn11.23:1.12"
 msgid "‘Mā kho tvaṃ, mārisa, vācesi sakkaṃ devānamindaṃ sambarimāyan’ti."

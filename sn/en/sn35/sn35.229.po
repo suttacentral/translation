@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.229.po\n"
-"X-Pootle-Revision: 185924\n"
+"X-Pootle-Revision: 205474\n"
 
 #. <section class="sutta" id="sn35.229"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.229:0.1"
@@ -27,10 +27,10 @@ msgstr "18. The Ocean"
 #. </p><h1>
 msgctxt "sn35.229:0.3"
 msgid "229. Dutiyasamuddasutta"
-msgstr "229. The Ocean"
+msgstr "229. The Ocean (2nd)"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.158"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.158"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn35.229:1.1"
 msgid "“‘Samuddo, samuddo’ti, bhikkhave, assutavā puthujjano bhāsati."
@@ -125,7 +125,7 @@ msgstr "They’ve got over clinging, given up death, and have no attachments."
 #. <br>
 msgctxt "sn35.229:4.2"
 msgid "Pahāsi dukkhaṃ apunabbhavāya;"
-msgstr "They’ve given up suffering, so there’s no more future lives."
+msgstr "They’ve given up suffering, so there are no more future lives."
 
 #. <br>
 #. VAR: na puneti → na pamāṇameti (bj, pts1) | na pamānameti (s1-3, km)
@@ -136,7 +136,7 @@ msgstr "They’ve come to an end, and cannot be measured;"
 #. <br>
 msgctxt "sn35.229:4.4"
 msgid "Amohayī maccurājanti brūmī”ti."
-msgstr "and they’ve confounded the king of death, I say.”"
+msgstr "and they’ve confounded the King of Death, I say.”"
 
 #. </p></blockquote><p class="endsection">
 msgctxt "sn35.229:4.5"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.26.po\n"
-"X-Pootle-Revision: 185184\n"
+"X-Pootle-Revision: 200097\n"
 
 #. <section class="sutta" id="sn12.26"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.26:0.1"
@@ -28,7 +28,7 @@ msgstr "3. The Ten Powers"
 #. VAR: 26. Upavāṇasutta → upavāno (pts1-2)
 msgctxt "sn12.26:0.3"
 msgid "26. Upavāṇasutta"
-msgstr "26. Upavāṇa"
+msgstr "26. With Upavāṇa"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -62,8 +62,8 @@ msgid ""
 "Santi pana, bhante, eke samaṇabrāhmaṇā sayaṅkatañca paraṅkatañca dukkhaṃ "
 "paññapenti."
 msgstr ""
-"There are some who declare that pleasure and pain are made by both oneself "
-"and another."
+"There are some who declare that suffering is made by both oneself and "
+"another."
 
 msgctxt "sn12.26:2.4"
 msgid ""
@@ -136,7 +136,7 @@ msgstr ""
 "by oneself or another, that’s also conditioned by contact."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.42"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.42"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn12.26:5.1"
 msgid ""

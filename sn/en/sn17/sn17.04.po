@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn17/sn17.04.po\n"
-"X-Pootle-Revision: 185320\n"
+"X-Pootle-Revision: 200233\n"
 
 #. <section class="sutta" id="sn17.4"><article><div class="hgroup"><p class="division">
 msgctxt "sn17.4:0.1"
@@ -22,7 +22,7 @@ msgstr "Linked Discourses 17"
 #. </p><p>
 msgctxt "sn17.4:0.2"
 msgid "1. Paṭhamavagga"
-msgstr "1. First Chapter"
+msgstr "1. The First Chapter"
 
 #. </p><h1>
 #. VAR: 4. Dīghalomikasutta → dīghalomieḷakasuttaṃ (bj) | dīghalomi (pts1-2)
@@ -70,9 +70,7 @@ msgstr "They get caught, snagged, and trapped at every turn, coming to ruin."
 
 msgctxt "sn17.4:1.7"
 msgid "Evaṃ dāruṇo kho, bhikkhave, lābhasakkārasiloko … pe …"
-msgstr ""
-"That’s how brutal, bitter, and harsh are possessions, honor, and popularity. "
-"…”"
+msgstr "So brutal are possessions, honor, and popularity. …”"
 
 msgctxt "sn17.4:1.8"
 msgid "evañhi vo, bhikkhave, sikkhitabban”ti."

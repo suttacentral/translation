@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.02.po\n"
-"X-Pootle-Revision: 197757\n"
+"X-Pootle-Revision: 205007\n"
 
 #. <section class="sutta" id="sn12.2"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.2:0.1"
@@ -108,7 +108,7 @@ msgid "Evametassa kevalassa dukkhakkhandhassa samudayo hoti."
 msgstr "That is how this entire mass of suffering originates."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.3"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.3"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn12.2:3.1"
 msgid "Katamañca, bhikkhave, jarāmaraṇaṃ?"
@@ -286,7 +286,7 @@ msgid "idaṃ vuccati, bhikkhave, saḷāyatanaṃ."
 msgstr "These are called the six sense fields."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.4"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.4"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "sn12.2:11.1"
 msgid "Katamañca, bhikkhave, nāmarūpaṃ?"
@@ -294,7 +294,7 @@ msgstr "And what are name and form?"
 
 msgctxt "sn12.2:11.2"
 msgid "Vedanā, saññā, cetanā, phasso, manasikāro—"
-msgstr "Feeling, perception, intention, contact, and focus."
+msgstr "Feeling, perception, intention, contact, and attention."
 
 msgctxt "sn12.2:11.3"
 msgid "idaṃ vuccati nāmaṃ."

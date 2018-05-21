@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.241.po\n"
-"X-Pootle-Revision: 185936\n"
+"X-Pootle-Revision: 205477\n"
 
 #. <section class="sutta" id="sn35.241"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.241:0.1"
@@ -28,7 +28,7 @@ msgstr "19. The Simile of the Vipers"
 #. VAR: 241. Paṭhamadārukkhandhopamasutta → dārukkhandha 1 (pts1)
 msgctxt "sn35.241:0.3"
 msgid "241. Paṭhamadārukkhandhopamasutta"
-msgstr "241. The Simile of the Tree Trunk"
+msgstr "241. The Simile of the Tree Trunk (1st)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -91,7 +91,7 @@ msgstr ""
 "the ocean."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.180"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.180"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn35.241:2.1"
 msgid ""
@@ -100,8 +100,8 @@ msgid ""
 msgstr ""
 "In the same way, assume that you don’t collide with the near shore or the "
 "far shore, or sink in the middle, or get stranded on high ground. And assume "
-"that you don’t get taken by humans or inhumans or caught up in a whirlpool, "
-"and that you don’t rot away."
+"that you don’t get taken by humans or non-humans or caught up in a "
+"whirlpool, and that you don’t rot away."
 
 msgctxt "sn35.241:2.2"
 msgid ""
@@ -211,7 +211,7 @@ msgstr ""
 "stimulation."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.181"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.181"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "sn35.241:6.1"
 msgid "Katamo ca, bhikkhu, antopūtibhāvo?"
@@ -229,7 +229,7 @@ msgstr ""
 
 msgctxt "sn35.241:6.3"
 msgid "Ayaṃ vuccati, bhikkhu, ‘antopūtibhāvo’”ti."
-msgstr "This is called ‘rotting away’."
+msgstr "This is called ‘rotting away’.”"
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>

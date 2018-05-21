@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.23.po\n"
-"X-Pootle-Revision: 197584\n"
+"X-Pootle-Revision: 200094\n"
 
 #. <section class="sutta" id="sn12.23"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.23:0.1"
@@ -74,7 +74,7 @@ msgid "Evaṃ kho, bhikkhave, jānato evaṃ passato āsavānaṃ khayo hoti."
 msgstr "The ending of the defilements is for one who knows and sees this."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.30"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.30"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn12.23:2.1"
 msgid ""
@@ -133,7 +133,7 @@ msgstr "You should say: ‘Truly knowing and seeing.’"
 msgctxt "sn12.23:2.13"
 msgid ""
 "Yathābhūtañāṇadassanampāhaṃ, bhikkhave, saupanisaṃ vadāmi, no anupanisaṃ."
-msgstr "Truly knowing and seeing has a vital condition."
+msgstr "I say that truly knowing and seeing has a vital condition."
 
 msgctxt "sn12.23:2.14"
 msgid "Kā ca, bhikkhave, yathābhūtañāṇadassanassa upanisā?"
@@ -210,7 +210,7 @@ msgid "Saddhampāhaṃ, bhikkhave, saupanisaṃ vadāmi, no anupanisaṃ."
 msgstr "I say that faith has a vital condition."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.31"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.31"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "sn12.23:4.1"
 msgid "Kā ca, bhikkhave, saddhāya upanisā?"
@@ -242,7 +242,7 @@ msgstr "And what is it?"
 
 msgctxt "sn12.23:4.8"
 msgid "‘Bhavo’tissa vacanīyaṃ."
-msgstr "You should say: ‘continued existence.’"
+msgstr "You should say: ‘Continued existence.’"
 
 msgctxt "sn12.23:4.9"
 msgid "Bhavampāhaṃ, bhikkhave, saupanisaṃ vadāmi, no anupanisaṃ."
@@ -316,7 +316,7 @@ msgid "‘Avijjā’tissa vacanīyaṃ."
 msgstr "You should say: ‘Ignorance.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.32"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.32"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "sn12.23:6.1"
 msgid "Iti kho, bhikkhave, avijjūpanisā saṅkhārā, "
@@ -332,7 +332,7 @@ msgstr "Consciousness is a vital condition for name and form. "
 
 msgctxt "sn12.23:6.4"
 msgid "nāmarūpūpanisaṃ saḷāyatanaṃ, "
-msgstr "Name and form are a vital condition for the six sense fields. "
+msgstr "Name and form are vital conditions for the six sense fields. "
 
 msgctxt "sn12.23:6.5"
 msgid "saḷāyatanūpaniso phasso, "

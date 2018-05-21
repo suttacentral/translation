@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.097.po\n"
-"X-Pootle-Revision: 185822\n"
+"X-Pootle-Revision: 200735\n"
 
 #. <section class="sutta" id="sn35.97"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.97:0.1"
@@ -31,7 +31,7 @@ msgid "97. Pamādavihārīsutta"
 msgstr "97. One Who Lives Negligently"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.78"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.78"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn35.97:1.1"
 msgid "“Pamādavihāriñca vo, bhikkhave, desessāmi appamādavihāriñca."
@@ -78,7 +78,8 @@ msgstr "The mind that suffers doesn’t become immersed in samādhi."
 
 msgctxt "sn35.97:1.10"
 msgid "Asamāhite citte dhammā na pātubhavanti."
-msgstr "When the mind has no samādhi, principles do not become clear."
+msgstr ""
+"When the mind is not immersed in samādhi, principles do not become clear."
 
 msgctxt "sn35.97:1.11"
 msgid "Dhammānaṃ apātubhāvā pamādavihārītveva saṅkhaṃ gacchati … pe …"
@@ -130,7 +131,8 @@ msgstr "The mind that suffers doesn’t become immersed in samādhi."
 
 msgctxt "sn35.97:1.21"
 msgid "Asamāhite citte dhammā na pātubhavanti."
-msgstr "When the mind has no samādhi, principles do not become clear."
+msgstr ""
+"When the mind is not immersed in samādhi, principles do not become clear."
 
 msgctxt "sn35.97:1.22"
 msgid "Dhammānaṃ apātubhāvā pamādavihārītveva saṅkhaṃ gacchati."
@@ -143,7 +145,7 @@ msgid "Evaṃ kho, bhikkhave, pamādavihārī hoti."
 msgstr "That’s how someone lives negligently."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.79"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.79"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn35.97:2.1"
 msgid "Kathañca, bhikkhave, appamādavihārī hoti?"

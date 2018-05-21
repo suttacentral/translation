@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.120.po\n"
-"X-Pootle-Revision: 185845\n"
+"X-Pootle-Revision: 203438\n"
 
 #. <section class="sutta" id="sn35.120"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.120:0.1"
@@ -64,7 +64,7 @@ msgstr ""
 "returned to a lesser life.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.104"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.104"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn35.120:2.1"
 msgid ""
@@ -137,7 +137,7 @@ msgstr "When they feel a touch with their body …"
 msgctxt "sn35.120:3.8"
 msgid "manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī."
 msgstr ""
-"When they know a phenomenon with their mind, they don’t get caught up in the "
+"When they know a thought with their mind, they don’t get caught up in the "
 "features and details."
 
 msgctxt "sn35.120:3.9"
@@ -163,7 +163,7 @@ msgstr "And how does someone eat in moderation?"
 
 msgctxt "sn35.120:4.2"
 msgid "Idhāvuso, bhikkhu paṭisaṅkhā yoniso āhāraṃ āhāreti:"
-msgstr "It’s when a mendicant properly reflects on the food that they eat:"
+msgstr "It’s when a mendicant reflects properly on the food that they eat:"
 
 msgctxt "sn35.120:4.3"
 msgid ""
@@ -182,7 +182,7 @@ msgid "Evaṃ kho, āvuso, bhojane mattaññū hoti."
 msgstr "That’s how someone eats in moderation."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli4.105"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.105"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn35.120:5.1"
 msgid "Kathañcāvuso, jāgariyaṃ anuyutto hoti?"

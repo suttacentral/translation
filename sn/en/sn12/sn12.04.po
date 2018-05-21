@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.04.po\n"
-"X-Pootle-Revision: 197764\n"
+"X-Pootle-Revision: 203989\n"
 
 #. <section class="sutta" id="sn12.4"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.4:0.1"
@@ -135,7 +135,7 @@ msgstr ""
 "for continued existence.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.6"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.6"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn12.4:5.1"
 msgid "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
@@ -241,8 +241,8 @@ msgstr "Then, through proper attention, Vipassī comprehended with wisdom:"
 msgctxt "sn12.4:9.4"
 msgid "‘nāmarūpe kho sati saḷāyatanaṃ hoti, nāmarūpapaccayā saḷāyatanan’ti."
 msgstr ""
-"‘When name and form exist there’s the six sense fields. Name and form are a "
-"condition for the six sense fields.’"
+"‘When name and form exist there are the six sense fields. Name and form are "
+"a condition for the six sense fields.’"
 
 #. </p><p>
 #. <a class="sc" id="sc10"></a>
@@ -293,7 +293,7 @@ msgstr ""
 "consciousness.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.7"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.7"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "sn12.4:12.1"
 msgid "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
@@ -438,7 +438,7 @@ msgstr ""
 "grasping ceases.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.8"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.8"></a>
 #. <a class="sc" id="sc18"></a>
 msgctxt "sn12.4:18.1"
 msgid "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"
@@ -590,7 +590,7 @@ msgstr ""
 "consciousness ceases.’"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.9"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.9"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "sn12.4:24.1"
 msgid "Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi:"

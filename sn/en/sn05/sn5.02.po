@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:15+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn05/sn5.02.po\n"
-"X-Pootle-Revision: 185050\n"
+"X-Pootle-Revision: 203746\n"
 
 #. <section class="sutta" id="sn5.2"><article><div class="hgroup"><p class="division">
 msgctxt "sn5.2:0.1"
@@ -50,7 +50,7 @@ msgid ""
 "andhavanaṃ tenupasaṅkami divāvihārāya."
 msgstr ""
 "She wandered for alms in Sāvatthī. After the meal, on her return from alms-"
-"round, she went to the Blind Man’s Wood,"
+"round, she went to the Dark Forest,"
 
 msgctxt "sn5.2:1.4"
 msgid "Andhavanaṃ ajjhogāhetvā aññatarasmiṃ rukkhamūle divāvihāraṃ nisīdi."
@@ -64,8 +64,8 @@ msgid ""
 "upasaṅkamitvā somaṃ bhikkhuniṃ gāthāya ajjhabhāsi:"
 msgstr ""
 "Then Māra the Wicked, wanting to make the nun Somā feel fear, terror, and "
-"goosebumps, wanting to make her fall away from immersion, went up to her "
-"and addressed her in verse:"
+"goosebumps, wanting to make her fall away from immersion, went up to her and "
+"addressed her in verse:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc2"></a>
@@ -143,7 +143,7 @@ msgstr "as you rightly discern the Dhamma."
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn5.2:5.1"
 msgid "Yassa nūna siyā evaṃ,"
-msgstr "Surely someone who might think"
+msgstr "Surely someone who might think:"
 
 #. <br>
 msgctxt "sn5.2:5.2"

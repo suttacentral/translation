@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.40.po\n"
-"X-Pootle-Revision: 185198\n"
+"X-Pootle-Revision: 205382\n"
 
 #. <section class="sutta" id="sn12.40"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.40:0.1"
@@ -27,10 +27,10 @@ msgstr "4. Kaḷāra the Aristocrat"
 #. </p><h1>
 msgctxt "sn12.40:0.3"
 msgid "40. Tatiyacetanāsutta"
-msgstr "40. Intention"
+msgstr "40. Intention (3rd)"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.67"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.67"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn12.40:1.1"
 msgid "Sāvatthiyaṃ viharati."
@@ -58,7 +58,7 @@ msgstr "When there is an inclination, there is coming and going."
 
 msgctxt "sn12.40:1.6"
 msgid "Āgatigatiyā sati cutūpapāto hoti."
-msgstr "When there is coming and coming, there is passing away and reappearing."
+msgstr "When there is coming and going, there is passing away and reappearing."
 
 msgctxt "sn12.40:1.7"
 msgid ""
@@ -96,7 +96,7 @@ msgstr "When there is an inclination, there is coming and going."
 
 msgctxt "sn12.40:2.5"
 msgid "Āgatigatiyā sati cutūpapāto hoti."
-msgstr "When there is coming and coming, there is passing away and reappearing."
+msgstr "When there is coming and going, there is passing away and reappearing."
 
 msgctxt "sn12.40:2.6"
 msgid ""
@@ -137,7 +137,7 @@ msgstr "When there’s no inclination, there’s no coming and going."
 msgctxt "sn12.40:3.5"
 msgid "Āgatigatiyā asati cutūpapāto na hoti."
 msgstr ""
-"When there’s no coming and coming, there’s no passing away and reappearing."
+"When there’s no coming and going, there’s no passing away and reappearing."
 
 msgctxt "sn12.40:3.6"
 msgid ""
@@ -162,7 +162,7 @@ msgid "Kaḷārakhattiyavaggo catuttho."
 msgstr ""
 
 #. </p><blockquote class="uddanagatha"><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.68"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.68"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "sn12.40:4.1"
 msgid "Bhūtamidaṃ kaḷārañca,"

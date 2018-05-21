@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.44.po\n"
-"X-Pootle-Revision: 197613\n"
+"X-Pootle-Revision: 200115\n"
 
 #. <section class="sutta" id="sn12.44"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.44:0.1"
@@ -173,7 +173,7 @@ msgid "Ayaṃ kho, bhikkhave, lokassa atthaṅgamo."
 msgstr "This is the ending of the world."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.74"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.74"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn12.44:5.1"
 msgid "Sotañca paṭicca sadde ca … pe …"

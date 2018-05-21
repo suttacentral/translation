@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn16/sn16.08.po\n"
-"X-Pootle-Revision: 198420\n"
+"X-Pootle-Revision: 205398\n"
 
 #. <section class="sutta" id="sn16.8"><article><div class="hgroup"><p class="division">
 msgctxt "sn16.8:0.1"
@@ -27,7 +27,7 @@ msgstr "1. Kassapa"
 #. </p><h1>
 msgctxt "sn16.8:0.3"
 msgid "8. Tatiyaovādasutta"
-msgstr "8. Advice"
+msgstr "8. Advice (3rd)"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -62,7 +62,7 @@ msgid "ahaṃ vā bhikkhūnaṃ dhammiṃ kathaṃ kareyyaṃ tvaṃ vā”ti."
 msgstr "and give them a Dhamma talk.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.209"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.209"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn16.8:2.1"
 msgid ""
@@ -141,7 +141,7 @@ msgid "tesaṃ taṃ hoti dīgharattaṃ hitāya sukhāya."
 msgstr "That is for their lasting welfare and happiness."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.210"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.210"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn16.8:5.1"
 msgid ""

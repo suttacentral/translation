@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:15+0000\n"
+"POT-Creation-Date: 2018-04-06 06:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn02/sn2.30.po\n"
-"X-Pootle-Revision: 184998\n"
+"X-Pootle-Revision: 205054\n"
 
 #. <section class="sutta" id="sn2.30"><article><div class="hgroup"><p class="division">
 msgctxt "sn2.30:0.1"
@@ -105,7 +105,7 @@ msgid ""
 "gāthaṃ abhāsi:"
 msgstr ""
 "Then the god Sahalī recited this verse about Makkhali Gosala in the Buddha’s "
-"presence."
+"presence:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="pts2ed" id="pts2ed1.153"></a>
@@ -139,7 +139,7 @@ msgid ""
 "gāthaṃ abhāsi:"
 msgstr ""
 "Then the god Niṅka recited this verse about Nigaṇṭha Nātaputta in the Buddha’"
-"s presence."
+"s presence:"
 
 # Here BB’s discerning for nipaka doesn’t fit very well. See my note at AN 3.40
 #. </p><blockquote class="gatha"><p>
@@ -171,13 +171,13 @@ msgid ""
 "gāthaṃ abhāsi:"
 msgstr ""
 "Then the god Ākoṭaka recited this verse about various sectarian teachers in "
-"the Buddha’s presence."
+"the Buddha’s presence:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc8"></a>
 msgctxt "sn2.30:8.1"
 msgid "“Pakudhako kātiyāno nigaṇṭho,"
-msgstr "“Pakudhaka Kātiyāna and Nigaṇṭha,"
+msgstr "“Pakudhaka, Kātiyāna, and Nigaṇṭha,"
 
 #. <br>
 msgctxt "sn2.30:8.2"
@@ -206,12 +206,12 @@ msgstr "Then the god Vetambarī replied to the god Ākoṭaka in verse:"
 #. VAR: sigālo → siṅgālo (mr)
 msgctxt "sn2.30:10.1"
 msgid "“Sahācaritena chavo sigālo,"
-msgstr "“Even if they howl alongside,"
+msgstr "“Though the wretched jackal howls along,"
 
 #. <br>
 msgctxt "sn2.30:10.2"
 msgid "Na kotthuko sīhasamo kadāci;"
-msgstr "“Even if they howl alongside,"
+msgstr "it never equals the lion."
 
 #. <br>
 msgctxt "sn2.30:10.3"
@@ -307,7 +307,7 @@ msgid ""
 "gāthāyo abhāsi:"
 msgstr ""
 "Then the god Māṇavagāmiya recited this verse about the Buddha in his "
-"presence."
+"presence:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc16"></a>

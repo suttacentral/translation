@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-19 00:16+0000\n"
+"POT-Creation-Date: 2018-04-06 07:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn12/sn12.67.po\n"
-"X-Pootle-Revision: 197664\n"
+"X-Pootle-Revision: 205647\n"
 
 #. <section class="sutta" id="sn12.67"><article><div class="hgroup"><p class="division">
 msgctxt "sn12.67:0.1"
@@ -22,7 +22,7 @@ msgstr "Linked Discourses 12"
 #. </p><p>
 msgctxt "sn12.67:0.2"
 msgid "7. Mahāvagga"
-msgstr "7. The Greater Chapter"
+msgstr "7. The Great Chapter"
 
 #. </p><h1>
 #. VAR: 67. Naḷakalāpīsutta → naḷakalāpasuttaṃ (bj)
@@ -31,7 +31,7 @@ msgid "67. Naḷakalāpīsutta"
 msgstr "67. Bundles of Reeds"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.113"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.113"></a>
 #. <a class="sc" id="sc1"></a>
 #. VAR: mahākoṭṭhiko → mahākoṭṭhito (bj, s1-3, km, pts1-2)
 msgctxt "sn12.67:1.1"
@@ -148,7 +148,7 @@ msgid ""
 "adhiccasamuppannaṃ nāmarūpaṃ."
 msgstr ""
 "“No, Reverend Koṭṭhita, name and form are not made by oneself, nor by "
-"another, nor by both oneself and another, nor do they arise randomly, not "
+"another, nor by both oneself and another, nor do they arise by chance, not "
 "made by oneself or another."
 
 msgctxt "sn12.67:3.9"
@@ -164,7 +164,7 @@ msgid ""
 "adhiccasamuppannaṃ viññāṇan”ti?"
 msgstr ""
 "“Well, Reverend Sāriputta, is consciousness made by oneself? Or by another? "
-"Or by both oneself and another? Or does it arise randomly, not made by "
+"Or by both oneself and another? Or does it arise by chance, not made by "
 "oneself or another?”"
 
 msgctxt "sn12.67:4.2"
@@ -174,15 +174,15 @@ msgid ""
 "adhiccasamuppannaṃ viññāṇaṃ."
 msgstr ""
 "“No, Reverend Koṭṭhita, consciousness is not made by oneself, nor by "
-"another, nor by both oneself and another, nor does it arise randomly, not "
+"another, nor by both oneself and another, nor does it arise by chance, not "
 "made by oneself or another."
 
 msgctxt "sn12.67:4.3"
 msgid "Api ca nāmarūpapaccayā viññāṇan”ti."
-msgstr "Rather, name and form are a condition for consciousness.”"
+msgstr "Rather, name and form are conditions for consciousness.”"
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.114"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.114"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn12.67:5.1"
 msgid "“Idāneva kho mayaṃ āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma:"
@@ -195,7 +195,7 @@ msgid ""
 "adhiccasamuppannaṃ nāmarūpaṃ."
 msgstr ""
 "‘No, Reverend Koṭṭhita, name and form are not made by oneself, nor by "
-"another, nor by both oneself and another, nor do they arise randomly, not "
+"another, nor by both oneself and another, nor do they arise by chance, not "
 "made by oneself or another."
 
 msgctxt "sn12.67:5.3"
@@ -215,12 +215,12 @@ msgid ""
 "adhiccasamuppannaṃ viññāṇaṃ."
 msgstr ""
 "‘No, Reverend Koṭṭhita, consciousness is not made by oneself, nor by "
-"another, nor by both oneself and another, nor does it arise randomly, not "
+"another, nor by both oneself and another, nor does it arise by chance, not "
 "made by oneself or another."
 
 msgctxt "sn12.67:6.3"
 msgid "Api ca nāmarūpapaccayā viññāṇan’ti."
-msgstr "Rather, name and form are a condition for consciousness.’"
+msgstr "Rather, name and form are conditions for consciousness.’"
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
@@ -244,7 +244,7 @@ msgstr "Suppose there were two bundles of reeds leaning up against each other."
 
 msgctxt "sn12.67:7.5"
 msgid "Evameva kho, āvuso, nāmarūpapaccayā viññāṇaṃ;"
-msgstr "In the same way, name and form are a condition for consciousness."
+msgstr "In the same way, name and form are conditions for consciousness."
 
 msgctxt "sn12.67:7.6"
 msgid "viññāṇapaccayā nāmarūpaṃ;"
@@ -252,7 +252,7 @@ msgstr "Consciousness is a condition for name and form."
 
 msgctxt "sn12.67:7.7"
 msgid "nāmarūpapaccayā saḷāyatanaṃ;"
-msgstr "Name and form are a condition for the six sense fields."
+msgstr "Name and form are conditions for the six sense fields."
 
 msgctxt "sn12.67:7.8"
 msgid "saḷāyatanapaccayā phasso … pe …"
@@ -296,7 +296,7 @@ msgstr "That is how this entire mass of suffering ceases.”"
 #. <a class="sc" id="sc8"></a>
 msgctxt "sn12.67:8.1"
 msgid "“Acchariyaṃ, āvuso sāriputta;"
-msgstr "It’s incredible, Reverend Sāriputta, it’s amazing!"
+msgstr "“It’s incredible, Reverend Sāriputta, it’s amazing!"
 
 msgctxt "sn12.67:8.2"
 msgid "abbhutaṃ, āvuso sāriputta."
@@ -315,7 +315,7 @@ msgstr ""
 "these thirty-six grounds."
 
 #. </p><p>
-#. <a class="pts-vp-pli" id="pts-vp-pli2.115"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.115"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "sn12.67:9.1"
 msgid ""
