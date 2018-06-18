@@ -1,0 +1,664 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 20:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/pi-vi/np/pi-tv-bu-vb-np19.po\n"
+"X-Pootle-Revision: 9181\n"
+
+#. <html><head><meta charset="UTF-8"><meta content="Pali text from the
+#. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="pi"><section class="sutta" id="pi-tv-bu-vb-np19"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "pi-tv-bu-vb-np19:1.1"
+msgid "Theravāda Vinaya"
+msgstr "COLEÇÃO DAS REGRAS MONÁSTICAS DO BUDISMO THERAVĀDA"
+
+#. </p><p class="division">
+msgctxt "pi-tv-bu-vb-np19:2.1"
+msgid "Mahāvibhaṅga"
+msgstr "O Código de Disciplina Monástica dos Bhikkhus"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:3.1"
+msgid "Nissaggiyakaṇḍa"
+msgstr "Regras Nissaggiya"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:4.1"
+msgid "Kosiyavagga"
+msgstr "  "
+
+msgctxt "pi-tv-bu-vb-np19:4.2"
+msgid ""
+msgstr " "
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-np19:5.1"
+msgid "19. Rūpiyasaṃvohārasikkhāpada"
+msgstr "19: Trocas com dinheiro"
+
+#. </h1></div><h2>
+msgctxt "pi-tv-bu-vb-np19:6.1"
+msgid ""
+msgstr "História de origem"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-cs" id="bu-np.19.1"></a><a
+#. class="pts-vp-en" id="bd.2.106"></a><a class="wt-pa" id="2222"></a>
+msgctxt "pi-tv-bu-vb-np19:6.2"
+msgid ""
+"Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa "
+"ārāme."
+msgstr ""
+"Certa ocasião, o Abençoado estava em Sāvatthī no Bosque de Jeta, no Parque "
+"de Anāthapiṇḍika. "
+
+msgctxt "pi-tv-bu-vb-np19:6.3"
+msgid ""
+"Tena kho pana samayena chabbaggiyā bhikkhū nānappakārakaṃ rūpiyasaṃvohāraṃ "
+"samāpajjanti."
+msgstr ""
+"Naquela ocasião, bhikkhus do Grupo dos Seis negociavam com dinheiro de "
+"várias maneiras."
+
+msgctxt "pi-tv-bu-vb-np19:6.4"
+msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
+msgstr "As pessoas se queixaram e criticaram:"
+
+msgctxt "pi-tv-bu-vb-np19:6.5"
+msgid ""
+"“kathañhi nāma samaṇā sakyaputtiyā nānappakārakaṃ rūpiyasaṃvohāraṃ "
+"samāpajjissanti, seyyathāpi gihī kāmabhogino”ti."
+msgstr ""
+"”Como podem este contemplativos Sákya negociar com dinheiro de várias "
+"maneiras, da mesma forma que fazem chefes de família que se entregam a "
+"prazeres sensuais?”"
+
+#. </p><p><a class="sc" id="2"></a><a class="wt-pa" id="2223"></a>
+msgctxt "pi-tv-bu-vb-np19:7.1"
+msgid ""
+"Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "Os bhikkhus ouviram as queixas e críticas daquelas pessoas,"
+
+msgctxt "pi-tv-bu-vb-np19:7.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "e os bhikkhus de poucos desejos ..."
+
+msgctxt "pi-tv-bu-vb-np19:7.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "se queixaram e criticaram aqueles bhikkhus:"
+
+msgctxt "pi-tv-bu-vb-np19:7.4"
+msgid ""
+"“kathañhi nāma chabbaggiyā bhikkhū nānappakārakaṃ rūpiyasaṃvohāraṃ "
+"samāpajjissantī”ti."
+msgstr "“Como podem estes monges do Grupo dos Seis agir de tal forma?”"
+
+#. </p><p><a class="sc" id="3"></a><a class="wt-pa" id="2224"></a>
+msgctxt "pi-tv-bu-vb-np19:8.1"
+msgid ""
+"Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā "
+"bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+"Após criticar os bhikkhus do Grupo dos Seis de várias maneiras, aqueles "
+"bhikkhus informaram o Abençoado o ocorrido ..."
+
+msgctxt "pi-tv-bu-vb-np19:8.2"
+msgid ""
+"“saccaṃ kira tumhe, bhikkhave, nānappakārakaṃ rūpiyasaṃvohāraṃ "
+"samāpajjathā”ti?"
+msgstr ""
+"“É verdade, bhikkhus, que vocês negociam com dinheiro de várias maneiras?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:8.3"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“É verdade, mestre.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:8.4"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "O Buda então os repreendeu: “…"
+
+msgctxt "pi-tv-bu-vb-np19:8.5"
+msgid ""
+"kathañhi nāma tumhe, moghapurisā, nānappakārakaṃ rūpiyasaṃvohāraṃ "
+"samāpajjissatha."
+msgstr ""
+"Homens tolos, como podem vocês negociar com dinheiro de várias maneiras?"
+
+msgctxt "pi-tv-bu-vb-np19:8.6"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "Isto não fará surgir fé naqueles ainda sem fé … "
+
+msgctxt "pi-tv-bu-vb-np19:8.7"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "E então, bhikkhus, esta regra de treinamento deve ser assim recitada:"
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-np19:9.1"
+msgid ""
+msgstr "Regra Final"
+
+#. </h2><p><a class="sc" id="4"></a><a class="wt-pa" id="2225"></a>
+#. <strong class="rule">
+msgctxt "pi-tv-bu-vb-np19:9.2"
+msgid ""
+"“Yo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ "
+"pācittiyan”ti."
+msgstr ""
+"“Se um bhikkhu negocia com dinheiro de várias maneiras, ele comete uma "
+"ofensa nissaggiya pacittiya, que implica a confissão com renúncia.”"
+
+#. </strong>
+msgctxt "pi-tv-bu-vb-np19:9.3"
+msgid "(<em>19</em>:<strong>38</strong>)"
+msgstr " "
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-np19:10.1"
+msgid ""
+msgstr "Definições"
+
+#. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-np.19.2"></a><a
+#. class="wt-pa" id="2226"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-np19:10.2"
+msgid "Yo panāti"
+msgstr "“Um”:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-np19:10.3"
+msgid "yo yādiso … pe …"
+msgstr ""
+"refere-se a qualquer indivíduo, de tal tipo, de tal ocupação, de tal status "
+"social, de tal nome, de tal família, de tal conduta, de tal comportamento, "
+"de tal associação, seja de muita ou pouca idade, ou não pertencendo a nenhum "
+"grupo específico. …"
+
+#. </span><strong class="term">
+msgctxt "pi-tv-bu-vb-np19:10.4"
+msgid "bhikkhūti"
+msgstr "“Bhikkhu”:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-np19:10.5"
+msgid "… pe …"
+msgstr ""
+"… neste caso, um bhikkhu é alguém que tenha recebido a ordenação completa na "
+"Sangha de bhikkhus através de um procedimento formal, consistindo de três "
+"moções e três proclamações, que é irrefutável e completo."
+
+msgctxt "pi-tv-bu-vb-np19:10.6"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "Isto se entende por bhikkhu."
+
+#. </span></p><p><a class="sc" id="6"></a><a class="pts-vp-en"
+#. id="bd.2.107"></a><a class="wt-pa" id="2227"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-np19:11.1"
+msgid "Nānappakārakaṃ nāma"
+msgstr "“De várias maneiras”:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-np19:11.2"
+msgid "katampi akatampi katākatampi."
+msgstr ""
+"ele negocia coisas fabricadas, coisas não-fabricadas, e coisas ao mesmo "
+"tempo fabricadas e não-fabricadas."
+
+#. </span><strong class="term">
+msgctxt "pi-tv-bu-vb-np19:11.3"
+msgid "Kataṃ nāma"
+msgstr "Coisas fabricadas:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-np19:11.4"
+msgid "sīsūpagaṃ gīvūpagaṃ hatthūpagaṃ pādūpagaṃ kaṭūpagaṃ."
+msgstr "itens para se usar na cabeça, no pescoço, nas mãos, pés e cintura."
+
+#. </span><strong class="term">
+msgctxt "pi-tv-bu-vb-np19:11.5"
+msgid "Akataṃ nāma"
+msgstr "Coisas não-fabricadas:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-np19:11.6"
+msgid "ghanakataṃ vuccati."
+msgstr "coisas que são negociadas aos montes, em lotes."
+
+#. </span><strong class="term">
+msgctxt "pi-tv-bu-vb-np19:11.7"
+msgid "Katākataṃ nāma"
+msgstr "Coisas ao mesmo tempo fabricadas e não fabricadas:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-np19:11.8"
+msgid "tadubhayaṃ."
+msgstr "coisas que podem ser ou fabricadas ou não fabricadas."
+
+#. </span></p><p><a class="sc" id="7"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.240"></a><a class="wt-pa" id="2228"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-np19:12.1"
+msgid "Rūpiyaṃ nāma"
+msgstr "Dinheiro:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-np19:12.2"
+msgid ""
+"satthuvaṇṇo kahāpaṇo, lohamāsako, dārumāsako, jatumāsako ye vohāraṃ "
+"gacchanti."
+msgstr ""
+"uma moeda kahāpaṇa de ouro, uma moeda de cobre māsaka, uma moeda de madeira "
+"māsaka, qualquer outro meio pelo qual são efetuadas transações monetárias."
+
+#. </span></p><p><a class="sc" id="8"></a><a class="wt-pa" id="2229"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-np19:13.1"
+msgid "Samāpajjeyyāti"
+msgstr "“Troca”:"
+
+#. </strong></p><div class="gloss"><p>
+msgctxt "pi-tv-bu-vb-np19:13.2"
+msgid "katena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens fabricados por itens fabricados, ele comete uma ofensa "
+"nissaggiya pacittiya, que implica a confissão com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:13.3"
+msgid "Katena akataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens fabricados por itens não fabricados, ele comete uma "
+"ofensa nissaggiya pacittiya, que implica a confissão com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:13.4"
+msgid "Katena katākataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens fabricados por itens não fabricados fabricados, ele "
+"comete uma ofensa nissaggiya pacittiya, que implica a confissão com renúncia."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:13.5"
+msgid "Akatena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens não fabricados por itens fabricados, ele comete uma "
+"ofensa nissaggiya pacittiya, que implica a confissão com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:13.6"
+msgid "Akatena akataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens não fabricados por itens não fabricados, ele comete uma "
+"ofensa nissaggiya pacittiya, que implica a confissão com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:13.7"
+msgid "Akatena katākataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens não fabricados fabricados por itens não fabricados "
+"fabricados, ele comete uma ofensa nissaggiya pacittiya, que implica a "
+"confissão com renúncia."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:13.8"
+msgid "Katākatena kataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens fabricados por itens fabricados e não fabricados, ele "
+"comete uma ofensa nissaggiya pacittiya, que implica a confissão com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:13.9"
+msgid "Katākatena akataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens não fabricados por itens fabricados e não fabricados, ele "
+"comete uma ofensa nissaggiya pacittiya, que implica a confissão com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:13.10"
+msgid "Katākatena katākataṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se ele troca itens fabricados não fabricados por itens fabricados não "
+"fabricados, ele comete uma ofensa nissaggiya pacittiya, que implica a "
+"confissão com renúncia."
+
+#. </p></div><hr><p>
+msgctxt "pi-tv-bu-vb-np19:13.11"
+msgid "Saṃghamajjhe nissajjitabbaṃ."
+msgstr "E a posse destes deverá ser renunciada em meio a Sangha dos bhikkhus,"
+
+#. <span class="kamma">
+msgctxt "pi-tv-bu-vb-np19:13.12"
+msgid "Evañca pana, bhikkhave, nissajjitabbaṃ."
+msgstr " “E, bhikkhus, esta deverá ser renunciada desta maneira:”"
+
+#. <a class="pts-vp-en" id="bd.2.108"></a>
+msgctxt "pi-tv-bu-vb-np19:13.13"
+msgid ""
+"Tena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ "
+"bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa "
+"vacanīyo—"
+msgstr ""
+"“Após abordar a Sangha dos bhikkhus aquele bhikkhu deverá colocar seu manto "
+"sobre um ombro, prestar homenagem aos pés dos bhikkhus sêniores, ajoelhar-"
+"se, levantar as mãos juntas em anjali, e dizer: "
+
+msgctxt "pi-tv-bu-vb-np19:13.14"
+msgid "“ahaṃ, bhante, nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjiṃ."
+msgstr "“Veneráveis, eu troquei tais itens com dinheiro de várias maneiras,"
+
+msgctxt "pi-tv-bu-vb-np19:13.15"
+msgid "Idaṃ me nissaggiyaṃ."
+msgstr "isto deve ser renunciado. "
+
+msgctxt "pi-tv-bu-vb-np19:13.16"
+msgid "Imāhaṃ saṃghassa nissajjāmī”ti."
+msgstr "Eu o cedo para a Sangha.’"
+
+#. </span>
+msgctxt "pi-tv-bu-vb-np19:13.17"
+msgid "Nissajjitvā āpatti desetabbā."
+msgstr " Após renunciar aquilo, ele deve reconhecer a ofensa cometida."
+
+msgctxt "pi-tv-bu-vb-np19:13.18"
+msgid "Byattena bhikkhunā paṭibalena āpatti paṭiggahetabbā."
+msgstr " A confissão deve ser recebida por um bhikkhu experiente e competente. "
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:13.19"
+msgid "Sace tattha āgacchati ārāmiko vā upāsako vā so vattabbo—"
+msgstr ""
+"Se um assistente do mosteiro ou um discípulo leigo estiver disponível, ele "
+"deve ser instruído:"
+
+msgctxt "pi-tv-bu-vb-np19:13.20"
+msgid "“āvuso, imaṃ jānāhī”ti."
+msgstr "“Veja isto”"
+
+msgctxt "pi-tv-bu-vb-np19:13.21"
+msgid "Sace so bhaṇati—"
+msgstr "Se ele disser:"
+
+msgctxt "pi-tv-bu-vb-np19:13.22"
+msgid "“iminā kiṃ āhariyyatū”ti,"
+msgstr "“O que posso eu obter com isto?”"
+
+msgctxt "pi-tv-bu-vb-np19:13.23"
+msgid "na vattabbo—"
+msgstr "ele não deve ser instruído:"
+
+msgctxt "pi-tv-bu-vb-np19:13.24"
+msgid "“imaṃ vā imaṃ vā āharā”ti."
+msgstr "“Obtenha isto ou aquilo”"
+
+msgctxt "pi-tv-bu-vb-np19:13.25"
+msgid "Kappiyaṃ ācikkhitabbaṃ—"
+msgstr "mas sim lembrado daquilo que é permissível: "
+
+msgctxt "pi-tv-bu-vb-np19:13.26"
+msgid "sappi vā telaṃ vā madhu vā phāṇitaṃ vā."
+msgstr "ghee, óleo, mel ou açúcar."
+
+msgctxt "pi-tv-bu-vb-np19:13.27"
+msgid ""
+"Sace so tena parivattetvā kappiyaṃ āharati, rūpiyacetāpakaṃ ṭhapetvā, "
+"sabbeheva paribhuñjitabbaṃ."
+msgstr ""
+"Se ele compra e traz de volta aquilo que é permissível, todos poderão "
+"usufruir exceto o bhikkhu que recebeu o dinheiro."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:13.28"
+msgid "Evañcetaṃ labhetha, iccetaṃ kusalaṃ;"
+msgstr "Se assim acontece, isso é bom;"
+
+msgctxt "pi-tv-bu-vb-np19:13.29"
+msgid "no ce labhetha, so vattabbo—"
+msgstr "caso contrário, ele deve ser instruído:"
+
+msgctxt "pi-tv-bu-vb-np19:13.30"
+msgid "“āvuso, imaṃ chaḍḍehī”ti."
+msgstr "“Desfaça-se disto”"
+
+msgctxt "pi-tv-bu-vb-np19:13.31"
+msgid "Sace so chaḍḍeti, iccetaṃ kusalaṃ;"
+msgstr "Se o bhikkhu assim age, isso é bom;"
+
+msgctxt "pi-tv-bu-vb-np19:13.32"
+msgid ""
+"no ce chaḍḍeti, pañcahaṅgehi samannāgato bhikkhu rūpiyachaḍḍako "
+"sammannitabbo—"
+msgstr ""
+"caso negativo, deverá ser nomeado para descartar aquele dinheiro um bhikkhu "
+"dotado de cinco qualidades:"
+
+msgctxt "pi-tv-bu-vb-np19:13.33"
+msgid ""
+"yo na chandāgatiṃ gaccheyya, na dosāgatiṃ gaccheyya, na mohāgatiṃ gaccheyya, "
+"na bhayāgatiṃ gaccheyya, chaḍḍitāchaḍḍitañca jāneyya."
+msgstr ""
+"ele não é levado pelo desejo, pela raiva, pela delusão ou pelo medo, e ele "
+"sabe a diferença entre desfazer-se ou não."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-np19:13.34"
+msgid "“Evañca pana, bhikkhave, sammannitabbo."
+msgstr "“E, bhikkhus, é assim que ele deverá ser nomeado:"
+
+msgctxt "pi-tv-bu-vb-np19:13.35"
+msgid "Paṭhamaṃ bhikkhu yācitabbo."
+msgstr "Primeiro o bhikkhu deve ser consultado."
+
+msgctxt "pi-tv-bu-vb-np19:13.36"
+msgid "Yācitvā byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
+msgstr "Um bhikkhu experiente e competente deve em seguida informar a Sangha”:"
+
+#. </p><div class="kamma"><p><a class="sc" id="9"></a><a class="wt-pa"
+#. id="2230"></a>
+msgctxt "pi-tv-bu-vb-np19:14.1"
+msgid "‘Suṇātu me, bhante, saṃgho."
+msgstr "‘Veneráveis, possa a Sangha me escutar. "
+
+msgctxt "pi-tv-bu-vb-np19:14.2"
+msgid ""
+"Yadi saṃghassa pattakallaṃ, saṃgho itthannāmaṃ bhikkhuṃ rūpiyachaḍḍakaṃ "
+"sammanneyya."
+msgstr ""
+"Se conveniente para a Sangha, esta deve nomear tal e tal bhikkhu competente "
+"para descartar este dinheiro."
+
+msgctxt "pi-tv-bu-vb-np19:14.3"
+msgid "Esā ñatti."
+msgstr "Esta é a moção."
+
+#. </p><p><a class="sc" id="10"></a><a class="wt-pa" id="2231"></a>
+msgctxt "pi-tv-bu-vb-np19:15.1"
+msgid "Suṇātu me, bhante, saṃgho."
+msgstr "‘Veneráveis, possa a Sangha me escutar. "
+
+msgctxt "pi-tv-bu-vb-np19:15.2"
+msgid "Saṃgho itthannāmaṃ bhikkhuṃ rūpiyachaḍḍakaṃ sammannati."
+msgstr ""
+"A Sangha nomeia tal e tal bhikkhu competente para descartar este dinheiro."
+
+msgctxt "pi-tv-bu-vb-np19:15.3"
+msgid ""
+"Yassāyasmato khamati itthannāmassa bhikkhuno rūpiyachaḍḍakassa sammuti, so "
+"tuṇhassa;"
+msgstr ""
+"Aqueles que aprovarem a nomeação de tal e tal bhikkhu competente para o "
+"descarte do dinheiro devem permanecer em silêncio."
+
+msgctxt "pi-tv-bu-vb-np19:15.4"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr "Aqueles que não aprovarem devem dizê-lo."
+
+#. </p><p><a class="sc" id="11"></a><a class="wt-pa" id="2232"></a>
+msgctxt "pi-tv-bu-vb-np19:16.1"
+msgid "Sammato saṃghena itthannāmo bhikkhu rūpiyachaḍḍako."
+msgstr "Tal e tal bhikkhu competente foi nomeado para o descarte do dinheiro."
+
+msgctxt "pi-tv-bu-vb-np19:16.2"
+msgid "Khamati saṃghassa, tasmā tuṇhī,"
+msgstr "A Sangha aprova e portanto não se pronuncia."
+
+msgctxt "pi-tv-bu-vb-np19:16.3"
+msgid "evametaṃ dhārayāmī’”ti."
+msgstr "Assim me lembrarei.’”"
+
+#. </p></div><p><a class="sc" id="12"></a><a class="wt-pa" id="2233"></a>
+#. <strong class="rule">
+msgctxt "pi-tv-bu-vb-np19:17.1"
+msgid "Tena sammatena bhikkhunā animittaṃ katvā pātetabbaṃ."
+msgstr "O bhikkhu nomeado deverá descartar este sem tomar nota de onde o faz."
+
+msgctxt "pi-tv-bu-vb-np19:17.2"
+msgid "Sace nimittaṃ katvā pāteti, āpatti dukkaṭassa."
+msgstr ""
+"Se ele toma nota de onde ele descartou este, ele comete uma ofensa dukkata, "
+"de transgressão."
+
+#. </strong></p><h2>
+msgctxt "pi-tv-bu-vb-np19:18.1"
+msgid ""
+msgstr "Permutações"
+
+#. </h2><p><a class="sc" id="13"></a><a class="wt-pa" id="2234"></a>
+#. <span class="note" hidden>The commentarial explanation makes it clear that
+#. what is meant here is that one exchanges money into money. The same is true
+#. for the next two cases. See <span class="ref">Sp.3.696.30</span>: “For one
+#. who is exchanging a relinquishable object with a relinquishable object, in
+#. accordance with the cases spoken of in the previous training rule,” <i
+#. lang="pi">purimasikkhāpade vuttavatthūsu nissaggiyavatthunā
+#. nissaggiyavatthuṃ cetāpentassa</i>.</span>
+msgctxt "pi-tv-bu-vb-np19:18.2"
+msgid "Rūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se se trata de dinheiro, e ele percebe como sendo dinheiro, e ele realiza "
+"trocas, ele comete uma ofensa nissaggiya pacittiya, que implica a confissão "
+"com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:18.3"
+msgid "Rūpiye vematiko rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se se trata de dinheiro, mas ele não tem certeza, e ele realiza trocas, ele "
+"comete uma ofensa nissaggiya pacittiya, que implica a confissão com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:18.4"
+msgid "Rūpiye arūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se se trata de dinheiro, mas ele não percebe como sendo dinheiro, e ele "
+"realiza trocas, ele comete uma ofensa nissaggiya pacittiya, que implica a "
+"confissão com renúncia."
+
+#. </p><p>
+#. <span class="note" hidden>The commentarial explanation makes it clear that
+#. what is meant here is that one exchanges what is not money into money, that
+#. is, one is selling something and therefore ending up with money. The same
+#. is true for the next two cases. See <span class="ref">Sp.3.697.7</span>:
+#. “One exchanges one’s own non-money for someone else’s money,” <i
+#. lang="pi">attano vā hi arūpiyena parassa rūpiyaṃ cetāpeyya</i>.</span>
+msgctxt "pi-tv-bu-vb-np19:18.5"
+msgid "Arūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se não se trata de dinheiro, mas ele percebe como sendo dinheiro, e ele "
+"realiza trocas, ele comete uma ofensa nissaggiya pacittiya, que implica a "
+"confissão com renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:18.6"
+msgid "Arūpiye vematiko rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se não se trata de dinheiro, mas ele não tem certeza, e ele realiza trocas, "
+"ele comete uma ofensa nissaggiya pacittiya, que implica a confissão com "
+"renúncia."
+
+msgctxt "pi-tv-bu-vb-np19:18.7"
+msgid "Arūpiye arūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
+msgstr ""
+"Se não se trata de dinheiro, e ele percebe como não sendo dinheiro, e ele "
+"realiza trocas, ele comete uma ofensa nissaggiya pacittiya, que implica a "
+"confissão com renúncia."
+
+#. </p><p><a class="sc" id="14"></a><a class="wt-pa" id="2235"></a>
+msgctxt "pi-tv-bu-vb-np19:19.1"
+msgid "Arūpiye rūpiyasaññī, āpatti dukkaṭassa."
+msgstr ""
+"Se não se trata de dinheiro, mas ele percebe como sendo dinheiro, e ele "
+"aceita, ele comete uma ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-np19:19.2"
+msgid "Arūpiye vematiko, āpatti dukkaṭassa."
+msgstr ""
+"Se não se trata de dinheiro, mas ele não tem certeza, e ele aceita, ele "
+"comete uma ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-np19:19.3"
+msgid "Arūpiye arūpiyasaññī, anāpatti."
+msgstr ""
+"Se não se trata de dinheiro, e ele não percebe como sendo dinheiro, não há "
+"ofensa."
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-np19:20.1"
+msgid ""
+msgstr "Quando não é uma ofensa"
+
+#. </h2><p><a class="sc" id="15"></a><a class="wt-pa" id="2236"></a>
+msgctxt "pi-tv-bu-vb-np19:20.2"
+msgid "Anāpatti—"
+msgstr "Não há ofensa quando: "
+
+msgctxt "pi-tv-bu-vb-np19:20.3"
+msgid "ummattakassa,"
+msgstr "o indivíduo se encontra louco;"
+
+msgctxt "pi-tv-bu-vb-np19:20.4"
+msgid "ādikammikassāti."
+msgstr "ele é o primeiro a cometer a ofensa."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="16"></a><a class="wt-pa"
+#. id="2237"></a>
+msgctxt "pi-tv-bu-vb-np19:21.1"
+msgid "Rūpiyasaṃvohārasikkhāpadaṃ niṭṭhitaṃ navamaṃ."
+msgstr ""
+"A oitava regra de treinamento - a regra sobre realizar trocas com dinheiro - "
+"se encerra aqui."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span
+#. class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya
+#. Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The
+#. Book of the Discipline</cite>, can be downloaded <a
+#. href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons
+#. Attribution-NonCommercial 3.0 licence (<a
+#. href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC
+#. 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any
+#. medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the
+#. material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the
+#. license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit,
+#. provide a link to the license, and indicate if changes were made. You may
+#. do so in any reasonable manner, but not in any way that suggests the
+#. licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for
+#. commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal
+#. terms or technological measures that legally restrict others from doing
+#. anything the license permits.</li></ul></aside></section>
+#. </div></body></html>
+msgctxt "pi-tv-bu-vb-np19:21.2"
+msgid ""
+msgstr " "

@@ -1,0 +1,934 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an2.011-20.pot\n"
+"X-Pootle-Revision: 12650\n"
+
+#. <section id="vagga"><section class="sutta" data-uid="an2.11" id="11"><article><div class="hgroup"><p class="division">
+msgctxt "an2.11-20:0.1"
+msgid "Aṅguttara Nikāya 2"
+msgstr ""
+
+#. </p><p>
+msgctxt "an2.11-20:0.2"
+msgid "2. Adhikaraṇavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an2.11-20:0.3"
+msgid "11"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc11.1"></a>
+msgctxt "an2.11-20:11.1.1"
+msgid "“Dvemāni, bhikkhave, balāni."
+msgstr ""
+
+msgctxt "an2.11-20:11.1.2"
+msgid "Katamāni dve?"
+msgstr ""
+
+msgctxt "an2.11-20:11.1.3"
+msgid "Paṭisaṅkhānabalañca bhāvanābalañca."
+msgstr ""
+
+msgctxt "an2.11-20:11.1.4"
+msgid "Katamañca, bhikkhave, paṭisaṅkhānabalaṃ?"
+msgstr ""
+
+msgctxt "an2.11-20:11.1.5"
+msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati:"
+msgstr ""
+
+msgctxt "an2.11-20:11.1.6"
+msgid ""
+"‘kāyaduccaritassa kho pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, "
+"vacīduccaritassa pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, "
+"manoduccaritassa pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañcā’ti."
+msgstr ""
+
+msgctxt "an2.11-20:11.1.7"
+msgid ""
+"So iti paṭisaṅkhāya kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, "
+"vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya "
+"manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati."
+msgstr ""
+
+msgctxt "an2.11-20:11.1.8"
+msgid "Idaṃ vuccati, bhikkhave, paṭisaṅkhānabalaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11.2"></a>
+msgctxt "an2.11-20:11.2.1"
+msgid "Katamañca, bhikkhave, bhāvanābalaṃ."
+msgstr ""
+
+#. VAR: yamidaṃ → yadidaṃ (si, s1-3)
+#. VAR: sekhānametaṃ → sekhametaṃ (bj, s1-3, km) | sekhānaṃ etaṃ (pts1)
+msgctxt "an2.11-20:11.2.2"
+msgid "Tatra, bhikkhave, yamidaṃ bhāvanābalaṃ sekhānametaṃ balaṃ."
+msgstr ""
+
+msgctxt "an2.11-20:11.2.3"
+msgid ""
+"Sekhañhi so, bhikkhave, balaṃ āgamma rāgaṃ pajahati, dosaṃ pajahati, mohaṃ "
+"pajahati."
+msgstr ""
+
+msgctxt "an2.11-20:11.2.4"
+msgid ""
+"Rāgaṃ pahāya, dosaṃ pahāya, mohaṃ pahāya yaṃ akusalaṃ na taṃ karoti, yaṃ "
+"pāpaṃ na taṃ sevati."
+msgstr ""
+
+msgctxt "an2.11-20:11.2.5"
+msgid "Idaṃ vuccati, bhikkhave, bhāvanābalaṃ."
+msgstr ""
+
+msgctxt "an2.11-20:11.2.6"
+msgid "Imāni kho, bhikkhave, dve balānī”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.12" id="12"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:11.2.7"
+msgid "12"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc12.1"></a>
+msgctxt "an2.11-20:12.1.1"
+msgid "“Dvemāni, bhikkhave, balāni."
+msgstr ""
+
+msgctxt "an2.11-20:12.1.2"
+msgid "Katamāni dve?"
+msgstr ""
+
+msgctxt "an2.11-20:12.1.3"
+msgid "Paṭisaṅkhānabalañca bhāvanābalañca."
+msgstr ""
+
+msgctxt "an2.11-20:12.1.4"
+msgid "Katamañca, bhikkhave, paṭisaṅkhānabalaṃ?"
+msgstr ""
+
+msgctxt "an2.11-20:12.1.5"
+msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati:"
+msgstr ""
+
+msgctxt "an2.11-20:12.1.6"
+msgid ""
+"‘kāyaduccaritassa kho pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, "
+"vacīduccaritassa pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, "
+"manoduccaritassa pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañcā’ti."
+msgstr ""
+
+msgctxt "an2.11-20:12.1.7"
+msgid ""
+"So iti paṭisaṅkhāya kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, "
+"vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya "
+"manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati."
+msgstr ""
+
+msgctxt "an2.11-20:12.1.8"
+msgid "Idaṃ vuccati, bhikkhave, paṭisaṅkhānabalaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.53"></a>
+#. <a class="sc" id="sc12.2"></a>
+msgctxt "an2.11-20:12.2.1"
+msgid "Katamañca, bhikkhave, bhāvanābalaṃ?"
+msgstr ""
+
+msgctxt "an2.11-20:12.2.2"
+msgid ""
+"Idha, bhikkhave, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ "
+"virāganissitaṃ nirodhanissitaṃ vosaggapariṇāmiṃ, dhammavicayasambojjhaṅgaṃ "
+"bhāveti … vīriyasambojjhaṅgaṃ bhāveti … pītisambojjhaṅgaṃ bhāveti … "
+"passaddhisambojjhaṅgaṃ bhāveti … samādhisambojjhaṅgaṃ bhāveti … "
+"upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ "
+"vosaggapariṇāmiṃ."
+msgstr ""
+
+msgctxt "an2.11-20:12.2.3"
+msgid "Idaṃ vuccati, bhikkhave, bhāvanābalaṃ."
+msgstr ""
+
+msgctxt "an2.11-20:12.2.4"
+msgid "Imāni kho, bhikkhave, dve balānī”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.13" id="13"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:12.2.5"
+msgid "13"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc13.1"></a>
+msgctxt "an2.11-20:13.1.1"
+msgid "“Dvemāni, bhikkhave, balāni."
+msgstr ""
+
+msgctxt "an2.11-20:13.1.2"
+msgid "Katamāni dve?"
+msgstr ""
+
+msgctxt "an2.11-20:13.1.3"
+msgid "Paṭisaṅkhānabalañca bhāvanābalañca."
+msgstr ""
+
+msgctxt "an2.11-20:13.1.4"
+msgid "Katamañca, bhikkhave, paṭisaṅkhānabalaṃ?"
+msgstr ""
+
+msgctxt "an2.11-20:13.1.5"
+msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati:"
+msgstr ""
+
+msgctxt "an2.11-20:13.1.6"
+msgid ""
+"‘kāyaduccaritassa kho pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, "
+"vacīduccaritassa kho pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, "
+"manoduccaritassa kho pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañcā’ti."
+msgstr ""
+
+msgctxt "an2.11-20:13.1.7"
+msgid ""
+"So iti paṭisaṅkhāya kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, "
+"vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya "
+"manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati."
+msgstr ""
+
+msgctxt "an2.11-20:13.1.8"
+msgid "Idaṃ vuccati, bhikkhave, paṭisaṅkhānabalaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc13.2"></a>
+msgctxt "an2.11-20:13.2.1"
+msgid "Katamañca, bhikkhave, bhāvanābalaṃ?"
+msgstr ""
+
+msgctxt "an2.11-20:13.2.2"
+msgid ""
+"Idha, bhikkhave, bhikkhu vivicceva kāmehi, vivicca akusalehi dhammehi "
+"savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja "
+"viharati."
+msgstr ""
+
+msgctxt "an2.11-20:13.2.3"
+msgid ""
+"Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ "
+"avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "an2.11-20:13.2.4"
+msgid ""
+"Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena "
+"paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti "
+"tatiyaṃ jhānaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "an2.11-20:13.2.5"
+msgid ""
+"Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ "
+"atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ "
+"upasampajja viharati."
+msgstr ""
+
+msgctxt "an2.11-20:13.2.6"
+msgid "Idaṃ vuccati, bhikkhave, bhāvanābalaṃ."
+msgstr ""
+
+msgctxt "an2.11-20:13.2.7"
+msgid "Imāni kho, bhikkhave, dve balānī”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.14" id="14"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:13.2.8"
+msgid "14"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc14.1"></a>
+msgctxt "an2.11-20:14.1.1"
+msgid "“Dvemā, bhikkhave, tathāgatassa dhammadesanā."
+msgstr ""
+
+msgctxt "an2.11-20:14.1.2"
+msgid "Katamā dve?"
+msgstr ""
+
+msgctxt "an2.11-20:14.1.3"
+msgid "Saṅkhittena ca vitthārena ca."
+msgstr ""
+
+msgctxt "an2.11-20:14.1.4"
+msgid "Imā kho, bhikkhave, dve tathāgatassa dhammadesanā”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.15" id="15"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:14.1.5"
+msgid "15"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.54"></a>
+#. <a class="sc" id="sc15.1"></a>
+#. VAR: āpanno → āpattāpanno (mr)
+msgctxt "an2.11-20:15.1.1"
+msgid ""
+"“Yasmiṃ, bhikkhave, adhikaraṇe āpanno ca bhikkhu codako ca bhikkhu na "
+"sādhukaṃ attanāva attānaṃ paccavekkhati tasmetaṃ, bhikkhave, adhikaraṇe "
+"pāṭikaṅkhaṃ:"
+msgstr ""
+
+#. VAR: na phāsuṃ → na phāsukaṃ (bj) | na phāsu (mr)
+#. VAR: viharissantī’ti → viharissanti (bj, s1-3, km, mr)
+msgctxt "an2.11-20:15.1.2"
+msgid ""
+"‘dīghattāya kharattāya vāḷattāya saṃvattissati, bhikkhū ca na phāsuṃ "
+"viharissantī’ti."
+msgstr ""
+
+msgctxt "an2.11-20:15.1.3"
+msgid ""
+"Yasmiñca kho, bhikkhave, adhikaraṇe āpanno ca bhikkhu codako ca bhikkhu "
+"sādhukaṃ attanāva attānaṃ paccavekkhati tasmetaṃ, bhikkhave, adhikaraṇe "
+"pāṭikaṅkhaṃ:"
+msgstr ""
+
+#. VAR: phāsuṃ → phāsukaṃ (bj) | phāsu (mr)
+msgctxt "an2.11-20:15.1.4"
+msgid ""
+"‘na dīghattāya kharattāya vāḷattāya saṃvattissati, bhikkhū ca phāsuṃ "
+"viharissantī’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc15.2"></a>
+msgctxt "an2.11-20:15.2.1"
+msgid ""
+"Kathañca, bhikkhave, āpanno bhikkhu sādhukaṃ attanāva attānaṃ paccavekkhati?"
+msgstr ""
+
+msgctxt "an2.11-20:15.2.2"
+msgid "Idha, bhikkhave, āpanno bhikkhu iti paṭisañcikkhati:"
+msgstr ""
+
+#. VAR: kañcideva → kiñcideva (mr)
+msgctxt "an2.11-20:15.2.3"
+msgid "‘ahaṃ kho akusalaṃ āpanno kañcideva desaṃ kāyena."
+msgstr ""
+
+#. VAR: Maṃ so → tasmā maṃ so (s1-3) | taṃ maṃ so (pts1)
+msgctxt "an2.11-20:15.2.4"
+msgid "Maṃ so bhikkhu addasa akusalaṃ āpajjamānaṃ kañcideva desaṃ kāyena."
+msgstr ""
+
+msgctxt "an2.11-20:15.2.5"
+msgid ""
+"No ce ahaṃ akusalaṃ āpajjeyyaṃ kañcideva desaṃ kāyena, na maṃ so bhikkhu "
+"passeyya akusalaṃ āpajjamānaṃ kañcideva desaṃ kāyena."
+msgstr ""
+
+msgctxt "an2.11-20:15.2.6"
+msgid ""
+"Yasmā ca kho, ahaṃ akusalaṃ āpanno kañcideva desaṃ kāyena, tasmā maṃ so "
+"bhikkhu addasa akusalaṃ āpajjamānaṃ kañcideva desaṃ kāyena."
+msgstr ""
+
+msgctxt "an2.11-20:15.2.7"
+msgid ""
+"Disvā ca pana maṃ so bhikkhu akusalaṃ āpajjamānaṃ kañcideva desaṃ kāyena "
+"anattamano ahosi."
+msgstr ""
+
+#. VAR: anattamanavacanaṃ → anattamanavācaṃ (mr)
+msgctxt "an2.11-20:15.2.8"
+msgid "Anattamano samāno anattamanavacanaṃ maṃ so bhikkhu avaca."
+msgstr ""
+
+#. VAR: Anattamanavacanāhaṃ → anattamanavācaṃ nāhaṃ (mr)
+#. VAR: anattamano → attamano (mr)
+msgctxt "an2.11-20:15.2.9"
+msgid "Anattamanavacanāhaṃ tena bhikkhunā vutto samāno anattamano ahosiṃ."
+msgstr ""
+
+msgctxt "an2.11-20:15.2.10"
+msgid "Anattamano samāno paresaṃ ārocesiṃ."
+msgstr ""
+
+msgctxt "an2.11-20:15.2.11"
+msgid "Iti mameva tattha accayo accagamā suṅkadāyakaṃva bhaṇḍasmin’ti."
+msgstr ""
+
+msgctxt "an2.11-20:15.2.12"
+msgid ""
+"Evaṃ kho, bhikkhave, āpanno bhikkhu sādhukaṃ attanāva attānaṃ paccavekkhati."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.55"></a>
+#. <a class="sc" id="sc15.3"></a>
+msgctxt "an2.11-20:15.3.1"
+msgid ""
+"Kathañca, bhikkhave, codako bhikkhu sādhukaṃ attanāva attānaṃ paccavekkhati?"
+msgstr ""
+
+msgctxt "an2.11-20:15.3.2"
+msgid "Idha, bhikkhave, codako bhikkhu iti paṭisañcikkhati:"
+msgstr ""
+
+msgctxt "an2.11-20:15.3.3"
+msgid "‘ayaṃ kho bhikkhu akusalaṃ āpanno kañcideva desaṃ kāyena."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.4"
+msgid "Ahaṃ imaṃ bhikkhuṃ addasaṃ akusalaṃ āpajjamānaṃ kañcideva desaṃ kāyena."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.5"
+msgid ""
+"No ce ayaṃ bhikkhu akusalaṃ āpajjeyya kañcideva desaṃ kāyena, nāhaṃ imaṃ "
+"bhikkhuṃ passeyyaṃ akusalaṃ āpajjamānaṃ kañcideva desaṃ kāyena."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.6"
+msgid ""
+"Yasmā ca kho, ayaṃ bhikkhu akusalaṃ āpanno kañcideva desaṃ kāyena, tasmā "
+"ahaṃ imaṃ bhikkhuṃ addasaṃ akusalaṃ āpajjamānaṃ kañcideva desaṃ kāyena."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.7"
+msgid ""
+"Disvā ca panāhaṃ imaṃ bhikkhuṃ akusalaṃ āpajjamānaṃ kañcideva desaṃ kāyena "
+"anattamano ahosiṃ."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.8"
+msgid "Anattamano samāno anattamanavacanāhaṃ imaṃ bhikkhuṃ avacaṃ."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.9"
+msgid "Anattamanavacanāyaṃ bhikkhu mayā vutto samāno anattamano ahosi."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.10"
+msgid "Anattamano samāno paresaṃ ārocesi."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.11"
+msgid "Iti mameva tattha accayo accagamā suṅkadāyakaṃva bhaṇḍasmin’ti."
+msgstr ""
+
+msgctxt "an2.11-20:15.3.12"
+msgid ""
+"Evaṃ kho, bhikkhave, codako bhikkhu sādhukaṃ attanāva attānaṃ paccavekkhati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc15.4"></a>
+msgctxt "an2.11-20:15.4.1"
+msgid ""
+"Yasmiṃ, bhikkhave, adhikaraṇe āpanno ca bhikkhu codako ca bhikkhu na "
+"sādhukaṃ attanāva attānaṃ paccavekkhati tasmetaṃ, bhikkhave, adhikaraṇe "
+"pāṭikaṅkhaṃ dīghattāya kharattāya vāḷattāya saṃvattissati, bhikkhū ca na "
+"phāsuṃ viharissantīti."
+msgstr ""
+
+msgctxt "an2.11-20:15.4.2"
+msgid ""
+"Yasmiñca kho, bhikkhave, adhikaraṇe āpanno ca bhikkhu codako ca bhikkhu "
+"sādhukaṃ attanāva attānaṃ paccavekkhati tasmetaṃ, bhikkhave, adhikaraṇe "
+"pāṭikaṅkhaṃ na dīghattāya kharattāya vāḷattāya saṃvattissati, bhikkhū ca "
+"phāsuṃ viharissantī”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.16" id="16"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:15.4.3"
+msgid "16"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc16.1"></a>
+msgctxt "an2.11-20:16.1.1"
+msgid ""
+"Atha kho aññataro brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā "
+"bhagavatā saddhiṃ sammodi."
+msgstr ""
+
+msgctxt "an2.11-20:16.1.2"
+msgid ""
+"Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ "
+"nisinno kho so brāhmaṇo bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "an2.11-20:16.1.3"
+msgid ""
+"“ko nu kho, bho gotama, hetu ko paccayo yena m’idhekacce sattā kāyassa bhedā "
+"paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjantī”ti?"
+msgstr ""
+
+msgctxt "an2.11-20:16.1.4"
+msgid ""
+"“Adhammacariyāvisamacariyāhetu kho, brāhmaṇa, evam’idhekacce sattā kāyassa "
+"bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjantī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.56"></a>
+#. <a class="sc" id="sc16.2"></a>
+msgctxt "an2.11-20:16.2.1"
+msgid ""
+"“Ko nu kho, bho gotama, hetu ko paccayo yena m’idhekacce sattā kāyassa bhedā "
+"paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī”ti?"
+msgstr ""
+
+msgctxt "an2.11-20:16.2.2"
+msgid ""
+"“Dhammacariyāsamacariyāhetu kho, brāhmaṇa, evam’idhekacce sattā kāyassa "
+"bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc16.3"></a>
+msgctxt "an2.11-20:16.3.1"
+msgid "“Abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama."
+msgstr ""
+
+#. VAR: nikkujjitaṃ → nikujjitaṃ (mr)
+msgctxt "an2.11-20:16.3.2"
+msgid ""
+"Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā "
+"vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya:"
+" ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhotā gotamena anekapariyāyena "
+"dhammo pakāsito."
+msgstr ""
+
+msgctxt "an2.11-20:16.3.3"
+msgid "Esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṃghañca."
+msgstr ""
+
+msgctxt "an2.11-20:16.3.4"
+msgid ""
+"Upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.17" id="17"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:16.3.5"
+msgid "17"
+msgstr ""
+
+# BB spells jāṇussoṇī throughout, but it has scant manuscript support.
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.57"></a>
+#. <a class="sc" id="sc17.1"></a>
+#. VAR: jāṇussoṇi → jānussoṇī (s1-3) | jāṇusoṇi (mr)
+msgctxt "an2.11-20:17.1.1"
+msgid ""
+"Atha kho jāṇussoṇi brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā "
+"bhagavatā saddhiṃ sammodi."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.2"
+msgid ""
+"Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ "
+"nisinno kho jāṇussoṇi brāhmaṇo bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "an2.11-20:17.1.3"
+msgid ""
+"“ko nu kho, bho gotama, hetu ko paccayo yena m’idhekacce sattā kāyassa bhedā "
+"paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjantī”ti?"
+msgstr ""
+
+msgctxt "an2.11-20:17.1.4"
+msgid "“Katattā ca, brāhmaṇa, akatattā ca."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.5"
+msgid ""
+"Evam’idhekacce sattā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjantī”ti."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.6"
+msgid ""
+"“Ko pana, bho gotama, hetu ko paccayo yena m’idhekacce sattā kāyassa bhedā "
+"paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī”ti?"
+msgstr ""
+
+msgctxt "an2.11-20:17.1.7"
+msgid "“Katattā ca, brāhmaṇa, akatattā ca."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.8"
+msgid ""
+"Evam’idhekacce sattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ "
+"upapajjantī”ti."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.9"
+msgid ""
+"“Na kho ahaṃ imassa bhoto gotamassa saṃkhittena bhāsitassa vitthārena atthaṃ "
+"avibhattassa vitthārena atthaṃ ājānāmi."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.10"
+msgid ""
+"Sādhu me bhavaṃ gotamo tathā dhammaṃ desetu yathā ahaṃ imassa bhoto "
+"gotamassa saṃkhittena bhāsitassa vitthārena atthaṃ avibhattassa vitthārena "
+"atthaṃ ājāneyyan”ti."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.11"
+msgid "“Tena hi, brāhmaṇa, suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī”ti."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.12"
+msgid "“Evaṃ, bho”ti kho jāṇussoṇi brāhmaṇo bhagavato paccassosi."
+msgstr ""
+
+msgctxt "an2.11-20:17.1.13"
+msgid "Bhagavā etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc17.2"></a>
+msgctxt "an2.11-20:17.2.1"
+msgid ""
+"“Idha, brāhmaṇa, ekaccassa kāyaduccaritaṃ kataṃ hoti, akataṃ hoti "
+"kāyasucaritaṃ;"
+msgstr ""
+
+msgctxt "an2.11-20:17.2.2"
+msgid "vacīduccaritaṃ kataṃ hoti, akataṃ hoti vacīsucaritaṃ;"
+msgstr ""
+
+msgctxt "an2.11-20:17.2.3"
+msgid "manoduccaritaṃ kataṃ hoti, akataṃ hoti manosucaritaṃ."
+msgstr ""
+
+msgctxt "an2.11-20:17.2.4"
+msgid ""
+"Evaṃ kho, brāhmaṇa, katattā ca akatattā ca evam’idhekacce sattā kāyassa "
+"bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjanti."
+msgstr ""
+
+msgctxt "an2.11-20:17.2.5"
+msgid ""
+"Idha pana, brāhmaṇa, ekaccassa kāyasucaritaṃ kataṃ hoti, akataṃ hoti "
+"kāyaduccaritaṃ;"
+msgstr ""
+
+msgctxt "an2.11-20:17.2.6"
+msgid "vacīsucaritaṃ kataṃ hoti, akataṃ hoti vacīduccaritaṃ;"
+msgstr ""
+
+msgctxt "an2.11-20:17.2.7"
+msgid "manosucaritaṃ kataṃ hoti, akataṃ hoti manoduccaritaṃ."
+msgstr ""
+
+msgctxt "an2.11-20:17.2.8"
+msgid ""
+"Evaṃ kho, brāhmaṇa, katattā ca akatattā ca evam’idhekacce sattā kāyassa "
+"bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc17.3"></a>
+msgctxt "an2.11-20:17.3.1"
+msgid ""
+"“Abhikkantaṃ, bho gotama … pe … upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge "
+"pāṇupetaṃ saraṇaṃ gatan”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.18" id="18"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:17.3.2"
+msgid "18"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc18.1"></a>
+msgctxt "an2.11-20:18.1.1"
+msgid ""
+"Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ "
+"abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho āyasmantaṃ ānandaṃ "
+"bhagavā etadavoca:"
+msgstr ""
+
+msgctxt "an2.11-20:18.1.2"
+msgid ""
+"“ekaṃsenāhaṃ, ānanda, akaraṇīyaṃ vadāmi kāyaduccaritaṃ vacīduccaritaṃ "
+"manoduccaritan”ti."
+msgstr ""
+
+msgctxt "an2.11-20:18.1.3"
+msgid ""
+"“Yamidaṃ, bhante, bhagavatā ekaṃsena akaraṇīyaṃ akkhātaṃ kāyaduccaritaṃ "
+"vacīduccaritaṃ manoduccaritaṃ tasmiṃ akaraṇīye kayiramāne ko ādīnavo "
+"pāṭikaṅkho”ti?"
+msgstr ""
+
+msgctxt "an2.11-20:18.1.4"
+msgid ""
+"“Yamidaṃ, ānanda, mayā ekaṃsena akaraṇīyaṃ akkhātaṃ kāyaduccaritaṃ "
+"vacīduccaritaṃ manoduccaritaṃ tasmiṃ akaraṇīye kayiramāne ayaṃ ādīnavo "
+"pāṭikaṅkho—"
+msgstr ""
+
+msgctxt "an2.11-20:18.1.5"
+msgid "attāpi attānaṃ upavadati, "
+msgstr ""
+
+msgctxt "an2.11-20:18.1.6"
+msgid "anuvicca viññū garahanti, "
+msgstr ""
+
+msgctxt "an2.11-20:18.1.7"
+msgid "pāpako kittisaddo abbhuggacchati, "
+msgstr ""
+
+msgctxt "an2.11-20:18.1.8"
+msgid "sammūḷho kālaṃ karoti, "
+msgstr ""
+
+msgctxt "an2.11-20:18.1.9"
+msgid ""
+"kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati."
+msgstr ""
+
+msgctxt "an2.11-20:18.1.10"
+msgid ""
+"Yamidaṃ, ānanda, mayā ekaṃsena akaraṇīyaṃ akkhātaṃ kāyaduccaritaṃ "
+"vacīduccaritaṃ manoduccaritaṃ tasmiṃ akaraṇīye kayiramāne ayaṃ ādīnavo "
+"pāṭikaṅkho”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.58"></a>
+#. <a class="sc" id="sc18.2"></a>
+msgctxt "an2.11-20:18.2.1"
+msgid ""
+"“Ekaṃsenāhaṃ, ānanda, karaṇīyaṃ vadāmi kāyasucaritaṃ vacīsucaritaṃ "
+"manosucaritan”ti."
+msgstr ""
+
+msgctxt "an2.11-20:18.2.2"
+msgid ""
+"“Yamidaṃ, bhante, bhagavatā ekaṃsena karaṇīyaṃ akkhātaṃ kāyasucaritaṃ "
+"vacīsucaritaṃ manosucaritaṃ tasmiṃ karaṇīye kayiramāne ko ānisaṃso "
+"pāṭikaṅkho”ti?"
+msgstr ""
+
+msgctxt "an2.11-20:18.2.3"
+msgid ""
+"“Yamidaṃ, ānanda, mayā ekaṃsena karaṇīyaṃ akkhātaṃ kāyasucaritaṃ "
+"vacīsucaritaṃ manosucaritaṃ tasmiṃ karaṇīye kayiramāne ayaṃ ānisaṃso "
+"pāṭikaṅkho—"
+msgstr ""
+
+msgctxt "an2.11-20:18.2.4"
+msgid "attāpi attānaṃ na upavadati, "
+msgstr ""
+
+msgctxt "an2.11-20:18.2.5"
+msgid "anuvicca viññū pasaṃsanti, "
+msgstr ""
+
+msgctxt "an2.11-20:18.2.6"
+msgid "kalyāṇo kittisaddo abbhuggacchati, "
+msgstr ""
+
+msgctxt "an2.11-20:18.2.7"
+msgid "asammūḷho kālaṃ karoti, "
+msgstr ""
+
+msgctxt "an2.11-20:18.2.8"
+msgid "kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati."
+msgstr ""
+
+msgctxt "an2.11-20:18.2.9"
+msgid ""
+"Yamidaṃ, ānanda, mayā ekaṃsena karaṇīyaṃ akkhātaṃ kāyasucaritaṃ "
+"vacīsucaritaṃ manosucaritaṃ tasmiṃ karaṇīye kayiramāne ayaṃ ānisaṃso "
+"pāṭikaṅkho”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.19" id="19"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:18.2.10"
+msgid "19"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc19.1"></a>
+msgctxt "an2.11-20:19.1.1"
+msgid "“Akusalaṃ, bhikkhave, pajahatha."
+msgstr ""
+
+msgctxt "an2.11-20:19.1.2"
+msgid "Sakkā, bhikkhave, akusalaṃ pajahituṃ."
+msgstr ""
+
+#. VAR: cedaṃ → no ce taṃ (bj, s1-3, km, pts1, mr)
+msgctxt "an2.11-20:19.1.3"
+msgid ""
+"No cedaṃ, bhikkhave, sakkā abhavissa akusalaṃ pajahituṃ, nāhaṃ evaṃ vadeyyaṃ:"
+msgstr ""
+
+msgctxt "an2.11-20:19.1.4"
+msgid "‘akusalaṃ, bhikkhave, pajahathā’ti."
+msgstr ""
+
+msgctxt "an2.11-20:19.1.5"
+msgid "Yasmā ca kho, bhikkhave, sakkā akusalaṃ pajahituṃ tasmāhaṃ evaṃ vadāmi:"
+msgstr ""
+
+msgctxt "an2.11-20:19.1.6"
+msgid "‘akusalaṃ, bhikkhave, pajahathā’ti."
+msgstr ""
+
+#. VAR: Akusalañca hidaṃ, bhikkhave → akusalaṃ bhikkhave (mr)
+msgctxt "an2.11-20:19.1.7"
+msgid ""
+"Akusalañca hidaṃ, bhikkhave, pahīnaṃ ahitāya dukkhāya saṃvatteyya nāhaṃ evaṃ "
+"vadeyyaṃ:"
+msgstr ""
+
+msgctxt "an2.11-20:19.1.8"
+msgid "‘akusalaṃ, bhikkhave, pajahathā’ti."
+msgstr ""
+
+msgctxt "an2.11-20:19.1.9"
+msgid ""
+"Yasmā ca kho, bhikkhave, akusalaṃ pahīnaṃ hitāya sukhāya saṃvattati tasmāhaṃ "
+"evaṃ vadāmi:"
+msgstr ""
+
+# MS punctuates as if these were two separate suttas.
+msgctxt "an2.11-20:19.1.10"
+msgid "‘akusalaṃ, bhikkhave, pajahathā’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc19.2"></a>
+msgctxt "an2.11-20:19.2.1"
+msgid "“Kusalaṃ, bhikkhave, bhāvetha."
+msgstr ""
+
+msgctxt "an2.11-20:19.2.2"
+msgid "Sakkā, bhikkhave, kusalaṃ bhāvetuṃ."
+msgstr ""
+
+msgctxt "an2.11-20:19.2.3"
+msgid ""
+"No cedaṃ, bhikkhave, sakkā abhavissa kusalaṃ bhāvetuṃ, nāhaṃ evaṃ vadeyyaṃ:"
+msgstr ""
+
+msgctxt "an2.11-20:19.2.4"
+msgid "‘kusalaṃ, bhikkhave, bhāvethā’ti."
+msgstr ""
+
+msgctxt "an2.11-20:19.2.5"
+msgid "Yasmā ca kho, bhikkhave, sakkā kusalaṃ bhāvetuṃ tasmāhaṃ evaṃ vadāmi:"
+msgstr ""
+
+msgctxt "an2.11-20:19.2.6"
+msgid "‘kusalaṃ, bhikkhave, bhāvethā’ti."
+msgstr ""
+
+msgctxt "an2.11-20:19.2.7"
+msgid ""
+"Kusalañca hidaṃ, bhikkhave, bhāvitaṃ ahitāya dukkhāya saṃvatteyya, nāhaṃ "
+"evaṃ vadeyyaṃ:"
+msgstr ""
+
+msgctxt "an2.11-20:19.2.8"
+msgid "‘kusalaṃ, bhikkhave, bhāvethā’ti."
+msgstr ""
+
+msgctxt "an2.11-20:19.2.9"
+msgid ""
+"Yasmā ca kho, bhikkhave, kusalaṃ bhāvitaṃ hitāya sukhāya saṃvattati tasmāhaṃ "
+"evaṃ vadāmi:"
+msgstr ""
+
+msgctxt "an2.11-20:19.2.10"
+msgid "‘kusalaṃ, bhikkhave, bhāvethā’”ti."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.20" id="20"><article><div class="hgroup"><h1>
+msgctxt "an2.11-20:19.2.11"
+msgid "20"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.59"></a>
+#. <a class="sc" id="sc20.1"></a>
+msgctxt "an2.11-20:20.1.1"
+msgid ""
+"“Dveme, bhikkhave, dhammā saddhammassa sammosāya antaradhānāya saṃvattanti."
+msgstr ""
+
+msgctxt "an2.11-20:20.1.2"
+msgid "Katame dve?"
+msgstr ""
+
+msgctxt "an2.11-20:20.1.3"
+msgid "Dunnikkhittañca padabyañjanaṃ attho ca dunnīto."
+msgstr ""
+
+msgctxt "an2.11-20:20.1.4"
+msgid "Dunnikkhittassa, bhikkhave, padabyañjanassa atthopi dunnayo hoti."
+msgstr ""
+
+msgctxt "an2.11-20:20.1.5"
+msgid ""
+"Ime kho, bhikkhave, dve dhammā saddhammassa sammosāya antaradhānāya "
+"saṃvattantī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc20.2"></a>
+msgctxt "an2.11-20:20.2.1"
+msgid ""
+"“Dveme, bhikkhave, dhammā saddhammassa ṭhitiyā asammosāya anantaradhānāya "
+"saṃvattanti."
+msgstr ""
+
+msgctxt "an2.11-20:20.2.2"
+msgid "Katame dve?"
+msgstr ""
+
+msgctxt "an2.11-20:20.2.3"
+msgid "Sunikkhittañca padabyañjanaṃ attho ca sunīto."
+msgstr ""
+
+msgctxt "an2.11-20:20.2.4"
+msgid "Sunikkhittassa, bhikkhave, padabyañjanassa atthopi sunayo hoti."
+msgstr ""
+
+msgctxt "an2.11-20:20.2.5"
+msgid ""
+"Ime kho, bhikkhave, dve dhammā saddhammassa ṭhitiyā asammosāya "
+"anantaradhānāya saṃvattantī”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.11-20:20.2.6"
+msgid "Adhikaraṇavaggo dutiyo."
+msgstr ""

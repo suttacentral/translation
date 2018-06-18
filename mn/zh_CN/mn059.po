@@ -1,0 +1,601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /zh_CN/mn/mn059.po\n"
+"X-Pootle-Revision: 34984\n"
+
+#. <section class="sutta" id="mn59"><article><div class="hgroup"><p class="division">
+msgctxt "mn59:0.1"
+msgid "Majjhima Nikāya 59"
+msgstr ""
+
+#. </p><h1>
+msgctxt "mn59:0.2"
+msgid "Bahuvedanīyasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="nya" id="nya1"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.397"></a>
+#. <a class="sc" id="sc1"></a>
+#. <span class="evam">
+msgctxt "mn59:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "mn59:1.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+
+#. VAR: thapati → gahapati (s1-3, km, pts1)
+msgctxt "mn59:1.3"
+msgid ""
+"Atha kho pañcakaṅgo thapati yenāyasmā udāyī tenupasaṅkami; upasaṅkamitvā "
+"āyasmantaṃ udāyiṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho "
+"pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn59:1.4"
+msgid "“kati nu kho, bhante udāyi, vedanā vuttā bhagavatā”ti?"
+msgstr ""
+
+msgctxt "mn59:1.5"
+msgid "“Tisso kho, thapati, vedanā vuttā bhagavatā."
+msgstr ""
+
+msgctxt "mn59:1.6"
+msgid "Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—"
+msgstr ""
+
+msgctxt "mn59:1.7"
+msgid "imā kho, thapati, tisso vedanā vuttā bhagavatā”ti."
+msgstr ""
+
+msgctxt "mn59:1.8"
+msgid "Evaṃ vutte, pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn59:1.9"
+msgid "“na kho, bhante udāyi, tisso vedanā vuttā bhagavatā;"
+msgstr ""
+
+msgctxt "mn59:1.10"
+msgid "dve vedanā vuttā bhagavatā—"
+msgstr ""
+
+msgctxt "mn59:1.11"
+msgid "sukhā vedanā, dukkhā vedanā."
+msgstr ""
+
+msgctxt "mn59:1.12"
+msgid ""
+"Yāyaṃ, bhante, adukkhamasukhā vedanā santasmiṃ esā paṇīte sukhe vuttā "
+"bhagavatā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya2"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "mn59:2.1"
+msgid "Dutiyampi kho āyasmā udāyī pañcakaṅgaṃ thapatiṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn59:2.2"
+msgid "“na kho, gahapati, dve vedanā vuttā bhagavatā;"
+msgstr ""
+
+msgctxt "mn59:2.3"
+msgid "tisso vedanā vuttā bhagavatā."
+msgstr ""
+
+msgctxt "mn59:2.4"
+msgid "Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—"
+msgstr ""
+
+msgctxt "mn59:2.5"
+msgid "imā kho, thapati, tisso vedanā vuttā bhagavatā”ti."
+msgstr ""
+
+msgctxt "mn59:2.6"
+msgid "Dutiyampi kho pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn59:2.7"
+msgid "“na kho, bhante udāyi, tisso vedanā vuttā bhagavatā;"
+msgstr ""
+
+msgctxt "mn59:2.8"
+msgid "dve vedanā vuttā bhagavatā—"
+msgstr ""
+
+msgctxt "mn59:2.9"
+msgid "sukhā vedanā, dukkhā vedanā."
+msgstr ""
+
+msgctxt "mn59:2.10"
+msgid ""
+"Yāyaṃ, bhante, adukkhamasukhā vedanā santasmiṃ esā paṇīte sukhe vuttā "
+"bhagavatā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya3"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "mn59:3.1"
+msgid "Tatiyampi kho āyasmā udāyī pañcakaṅgaṃ thapatiṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn59:3.2"
+msgid "“na kho, thapati, dve vedanā vuttā bhagavatā;"
+msgstr ""
+
+msgctxt "mn59:3.3"
+msgid "tisso vedanā vuttā bhagavatā."
+msgstr ""
+
+msgctxt "mn59:3.4"
+msgid "Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—"
+msgstr ""
+
+msgctxt "mn59:3.5"
+msgid "imā kho, thapati, tisso vedanā vuttā bhagavatā”ti."
+msgstr ""
+
+msgctxt "mn59:3.6"
+msgid "Tatiyampi kho pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn59:3.7"
+msgid "“na kho, bhante udāyi, tisso vedanā vuttā bhagavatā, "
+msgstr ""
+
+msgctxt "mn59:3.8"
+msgid "dve vedanā vuttā bhagavatā—"
+msgstr ""
+
+msgctxt "mn59:3.9"
+msgid "sukhā vedanā, dukkhā vedanā."
+msgstr ""
+
+msgctxt "mn59:3.10"
+msgid ""
+"Yāyaṃ, bhante, adukkhamasukhā vedanā santasmiṃ esā paṇīte sukhe vuttā "
+"bhagavatā”ti."
+msgstr ""
+
+msgctxt "mn59:3.11"
+msgid ""
+"Neva kho sakkhi āyasmā udāyī pañcakaṅgaṃ thapatiṃ saññāpetuṃ, na panāsakkhi "
+"pañcakaṅgo thapati āyasmantaṃ udāyiṃ saññāpetuṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya4"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.398"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "mn59:4.1"
+msgid ""
+"Assosi kho āyasmā ānando āyasmato udāyissa pañcakaṅgena thapatinā saddhiṃ "
+"imaṃ kathāsallāpaṃ."
+msgstr ""
+
+msgctxt "mn59:4.2"
+msgid ""
+"Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ "
+"abhivādetvā ekamantaṃ nisīdi."
+msgstr ""
+
+msgctxt "mn59:4.3"
+msgid ""
+"Ekamantaṃ nisinno kho āyasmā ānando yāvatako ahosi āyasmato udāyissa "
+"pañcakaṅgena thapatinā saddhiṃ kathāsallāpo taṃ sabbaṃ bhagavato ārocesi."
+msgstr ""
+
+msgctxt "mn59:4.4"
+msgid "Evaṃ vutte, bhagavā āyasmantaṃ ānandaṃ etadavoca:"
+msgstr ""
+
+#. <a class="nya" id="nya5"></a>
+msgctxt "mn59:5.1"
+msgid ""
+"“santaññeva kho, ānanda, pariyāyaṃ pañcakaṅgo thapati udāyissa nābbhanumodi, "
+"santaññeva ca pana pariyāyaṃ udāyī pañcakaṅgassa thapatissa nābbhanumodi."
+msgstr ""
+
+msgctxt "mn59:5.2"
+msgid ""
+"Dvepānanda, vedanā vuttā mayā pariyāyena, tissopi vedanā vuttā mayā "
+"pariyāyena, pañcapi vedanā vuttā mayā pariyāyena, chapi vedanā vuttā mayā "
+"pariyāyena, aṭṭhārasapi vedanā vuttā mayā pariyāyena, chattiṃsapi vedanā "
+"vuttā mayā pariyāyena, aṭṭhasatampi vedanā vuttā mayā pariyāyena."
+msgstr ""
+
+msgctxt "mn59:5.3"
+msgid "Evaṃ pariyāyadesito kho, ānanda, mayā dhammo."
+msgstr ""
+
+msgctxt "mn59:5.4"
+msgid ""
+"Evaṃ pariyāyadesite kho, ānanda, mayā dhamme ye aññamaññassa subhāsitaṃ "
+"sulapitaṃ na samanujānissanti na samanumaññissanti na samanumodissanti "
+"tesametaṃ pāṭikaṅkhaṃ—bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ "
+"mukhasattīhi vitudantā viharissanti."
+msgstr ""
+
+msgctxt "mn59:5.5"
+msgid "Evaṃ pariyāyadesito kho, ānanda, mayā dhammo."
+msgstr ""
+
+msgctxt "mn59:5.6"
+msgid ""
+"Evaṃ pariyāyadesite kho, ānanda, mayā dhamme ye aññamaññassa subhāsitaṃ "
+"sulapitaṃ samanujānissanti samanumaññissanti samanumodissanti tesametaṃ "
+"pāṭikaṅkhaṃ—samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṃ "
+"piyacakkhūhi sampassantā viharissanti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya6"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "mn59:6.1"
+msgid "Pañca kho ime, ānanda, kāmaguṇā."
+msgstr ""
+
+msgctxt "mn59:6.2"
+msgid "Katame pañca?"
+msgstr ""
+
+msgctxt "mn59:6.3"
+msgid ""
+"Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā, "
+msgstr ""
+
+msgctxt "mn59:6.4"
+msgid "sotaviññeyyā saddā … pe …"
+msgstr ""
+
+msgctxt "mn59:6.5"
+msgid "ghānaviññeyyā gandhā … pe …"
+msgstr ""
+
+msgctxt "mn59:6.6"
+msgid "jivhāviññeyyā rasā … pe …"
+msgstr ""
+
+msgctxt "mn59:6.7"
+msgid ""
+"kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā—"
+msgstr ""
+
+msgctxt "mn59:6.8"
+msgid "ime kho, ānanda, pañca kāmaguṇā."
+msgstr ""
+
+msgctxt "mn59:6.9"
+msgid ""
+"Yaṃ kho, ānanda, ime pañca kāmaguṇe paṭicca uppajjati sukhaṃ somanassaṃ idaṃ "
+"vuccati kāmasukhaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya7"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "mn59:7.1"
+msgid ""
+"Yo kho, ānanda, evaṃ vadeyya: ‘etaparamaṃ sattā sukhaṃ somanassaṃ "
+"paṭisaṃvedentī’ti, idamassa nānujānāmi."
+msgstr ""
+
+msgctxt "mn59:7.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "mn59:7.3"
+msgid "Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+msgctxt "mn59:7.4"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:7.5"
+msgid ""
+"Idhānanda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi … pe … "
+"paṭhamaṃ jhānaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn59:7.6"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya8"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.399"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "mn59:8.1"
+msgid ""
+"Yo kho, ānanda, evaṃ vadeyya: ‘etaparamaṃ sattā sukhaṃ somanassaṃ "
+"paṭisaṃvedentī’ti, idamassa nānujānāmi."
+msgstr ""
+
+msgctxt "mn59:8.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "mn59:8.3"
+msgid "Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+msgctxt "mn59:8.4"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:8.5"
+msgid ""
+"Idhānanda, bhikkhu vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ jhānaṃ "
+"upasampajja viharati."
+msgstr ""
+
+msgctxt "mn59:8.6"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya9"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "mn59:9.1"
+msgid "Yo kho, ānanda, evaṃ vadeyya …"
+msgstr ""
+
+msgctxt "mn59:9.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "mn59:9.3"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:9.4"
+msgid ""
+"Idhānanda, bhikkhu pītiyā ca virāgā … pe … tatiyaṃ jhānaṃ upasampajja "
+"viharati."
+msgstr ""
+
+msgctxt "mn59:9.5"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya10"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "mn59:10.1"
+msgid "Yo kho, ānanda, evaṃ vadeyya …"
+msgstr ""
+
+msgctxt "mn59:10.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "mn59:10.3"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:10.4"
+msgid ""
+"Idhānanda, bhikkhu sukhassa ca pahānā … pe … catutthaṃ jhānaṃ upasampajja "
+"viharati."
+msgstr ""
+
+msgctxt "mn59:10.5"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya11"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "mn59:11.1"
+msgid "Yo kho, ānanda, evaṃ vadeyya …"
+msgstr ""
+
+msgctxt "mn59:11.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "mn59:11.3"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:11.4"
+msgid ""
+"Idhānanda, bhikkhu sabbaso rūpasaññānaṃ samatikkamā, paṭighasaññānaṃ "
+"atthaṅgamā, nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ "
+"upasampajja viharati."
+msgstr ""
+
+msgctxt "mn59:11.5"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya12"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "mn59:12.1"
+msgid "Yo kho, ānanda, evaṃ vadeyya …"
+msgstr ""
+
+msgctxt "mn59:12.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "mn59:12.3"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:12.4"
+msgid ""
+"Idhānanda, bhikkhu sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇan’"
+"ti viññāṇañcāyatanaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn59:12.5"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya13"></a>
+#. <a class="sc" id="sc12"></a>
+msgctxt "mn59:13.1"
+msgid "Yo kho, ānanda, evaṃ vadeyya …"
+msgstr ""
+
+msgctxt "mn59:13.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "mn59:13.3"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:13.4"
+msgid ""
+"Idhānanda, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti "
+"ākiñcaññāyatanaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn59:13.5"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya14"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.400"></a>
+#. <a class="sc" id="sc13"></a>
+msgctxt "mn59:14.1"
+msgid "Yo kho, ānanda, evaṃ vadeyya …"
+msgstr ""
+
+msgctxt "mn59:14.2"
+msgid "pe …."
+msgstr ""
+
+msgctxt "mn59:14.3"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:14.4"
+msgid ""
+"Idhānanda, bhikkhu sabbaso ākiñcaññāyatanaṃ samatikkamma "
+"nevasaññānāsaññāyatanaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn59:14.5"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya15"></a>
+#. <a class="sc" id="sc14"></a>
+msgctxt "mn59:15.1"
+msgid ""
+"Yo kho, ānanda, evaṃ vadeyya: ‘etaparamaṃ sattā sukhaṃ somanassaṃ "
+"paṭisaṃvedentī’ti, idamassa nānujānāmi."
+msgstr ""
+
+msgctxt "mn59:15.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "mn59:15.3"
+msgid "Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+msgctxt "mn59:15.4"
+msgid ""
+"Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca?"
+msgstr ""
+
+msgctxt "mn59:15.5"
+msgid ""
+"Idhānanda, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma "
+"saññāvedayitanirodhaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn59:15.6"
+msgid ""
+"Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya16"></a>
+#. <a class="sc" id="sc15"></a>
+msgctxt "mn59:16.1"
+msgid ""
+"Ṭhānaṃ kho panetaṃ, ānanda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ "
+"vadeyyuṃ:"
+msgstr ""
+
+msgctxt "mn59:16.2"
+msgid "‘saññāvedayitanirodhaṃ samaṇo gotamo āha; tañca sukhasmiṃ paññapeti."
+msgstr ""
+
+msgctxt "mn59:16.3"
+msgid "Tayidaṃ kiṃsu, tayidaṃ kathaṃsū’ti?"
+msgstr ""
+
+msgctxt "mn59:16.4"
+msgid "Evaṃvādino, ānanda, aññatitthiyā paribbājakā evamassu vacanīyā:"
+msgstr ""
+
+msgctxt "mn59:16.5"
+msgid ""
+"‘na kho, āvuso, bhagavā sukhaṃyeva vedanaṃ sandhāya sukhasmiṃ paññapeti;"
+msgstr ""
+
+msgctxt "mn59:16.6"
+msgid ""
+"api ca, āvuso, yattha yattha sukhaṃ upalabbhati yahiṃ yahiṃ taṃ taṃ "
+"tathāgato sukhasmiṃ paññapetī’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc16"></a>
+msgctxt "mn59:16.7"
+msgid "Idamavoca bhagavā."
+msgstr ""
+
+msgctxt "mn59:16.8"
+msgid "Attamano āyasmā ānando bhagavato bhāsitaṃ abhinandīti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "mn59:16.9"
+msgid "Bahuvedanīyasuttaṃ niṭṭhitaṃ navamaṃ."
+msgstr ""

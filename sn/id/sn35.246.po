@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /id/sn/sn35.246.po\n"
+"X-Pootle-Revision: 26555\n"
+
+#. <section class="sutta" id="sn35.246"><article><div class="hgroup"><p class="division">
+msgctxt "sn35.246:0.1"
+msgid "Saṃyutta Nikāya 35"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn35.246:0.2"
+msgid "19. Āsīvisavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 246. Vīṇopamasutta → vīṇā (pts1)
+msgctxt "sn35.246:0.3"
+msgid "246. Vīṇopamasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+#. VAR: paṭighaṃ vāpi → paṭighaṃ vā (bj)
+msgctxt "sn35.246:1.1"
+msgid ""
+"“Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā cakkhuviññeyyesu "
+"rūpesu uppajjeyya chando vā rāgo vā doso vā moho vā paṭighaṃ vāpi cetaso, "
+"tato cittaṃ nivāreyya."
+msgstr ""
+
+# BB rather curiously translates in line with the commentary, while at the same time noting that they are incorrect.
+msgctxt "sn35.246:1.2"
+msgid ""
+"Sabhayo ceso maggo sappaṭibhayo ca sakaṇṭako ca sagahano ca ummaggo ca "
+"kummaggo ca duhitiko ca."
+msgstr ""
+
+msgctxt "sn35.246:1.3"
+msgid "Asappurisasevito ceso maggo, na ceso maggo sappurisehi sevito."
+msgstr ""
+
+msgctxt "sn35.246:1.4"
+msgid "Na tvaṃ etaṃ arahasīti."
+msgstr ""
+
+msgctxt "sn35.246:1.5"
+msgid "Tato cittaṃ nivāraye cakkhuviññeyyehi rūpehi … pe …"
+msgstr ""
+
+msgctxt "sn35.246:1.6"
+msgid ""
+"yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā jivhāviññeyyesu "
+"rasesu … pe …"
+msgstr ""
+
+msgctxt "sn35.246:1.7"
+msgid ""
+"manoviññeyyesu dhammesu uppajjeyya chando vā rāgo vā doso vā moho vā "
+"paṭighaṃ vāpi cetaso tato cittaṃ nivāreyya."
+msgstr ""
+
+msgctxt "sn35.246:1.8"
+msgid ""
+"Sabhayo ceso maggo sappaṭibhayo ca sakaṇṭako ca sagahano ca ummaggo ca "
+"kummaggo ca duhitiko ca."
+msgstr ""
+
+msgctxt "sn35.246:1.9"
+msgid "Asappurisasevito ceso maggo, na ceso maggo sappurisehi sevito."
+msgstr ""
+
+msgctxt "sn35.246:1.10"
+msgid "Na tvaṃ etaṃ arahasīti."
+msgstr ""
+
+msgctxt "sn35.246:1.11"
+msgid "Tato cittaṃ nivāraye manoviññeyyehi dhammehi."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.196"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn35.246:2.1"
+msgid "Seyyathāpi, bhikkhave, kiṭṭhaṃ sampannaṃ."
+msgstr ""
+
+#. VAR: Kiṭṭhārakkho → kiṭṭharakkhako (bj) | kitthārakkho (pts1)
+msgctxt "sn35.246:2.2"
+msgid ""
+"Kiṭṭhārakkho ca pamatto, goṇo ca kiṭṭhādo aduṃ kiṭṭhaṃ otaritvā yāvadatthaṃ "
+"madaṃ āpajjeyya pamādaṃ āpajjeyya;"
+msgstr ""
+
+msgctxt "sn35.246:2.3"
+msgid ""
+"evameva kho, bhikkhave, assutavā puthujjano chasu phassāyatanesu "
+"asaṃvutakārī pañcasu kāmaguṇesu yāvadatthaṃ madaṃ āpajjati pamādaṃ āpajjati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn35.246:3.1"
+msgid ""
+"Seyyathāpi, bhikkhave, kiṭṭhaṃ sampannaṃ kiṭṭhārakkho ca appamatto goṇo ca "
+"kiṭṭhādo aduṃ kiṭṭhaṃ otareyya."
+msgstr ""
+
+msgctxt "sn35.246:3.2"
+msgid "Tamenaṃ kiṭṭhārakkho nāsāyaṃ suggahitaṃ gaṇheyya."
+msgstr ""
+
+# uparighaṭā seems to only appear here. BB has “locks between the horns” which follows the comm, although I’m not sure where he gets “locks” from; nor do Indian oxen, so far as I can see, actually have grabable locks between the horns. The sanskrit dicts have “nape of the neck” for ghāṭā, Surely the reference is to the prominent hump of a brahman bull; ghata therefore = pot. As the following photos show, bulls are in fact caught by this; trigger warning, these show the cruel practice of bull fighting in India: http://1.bp.blogspot.com/_2OnuVo3kYwo/S_ldstChAXI/AAAAAAAABvI/DX5-UinwvSA/s1600/Jallikkattu+in+India+(2).jpg http://cdn.images.express.co.uk/img/dynamic/128/590x/secondary/bulls-432696.jpg http://binscorner.com/mails/t/the-insane-bull-riders-of-tamil-nadu-ind/125075821559.jpg
+msgctxt "sn35.246:3.3"
+msgid "Nāsāyaṃ suggahitaṃ gahetvā uparighaṭāyaṃ suniggahitaṃ niggaṇheyya."
+msgstr ""
+
+msgctxt "sn35.246:3.4"
+msgid "Uparighaṭāyaṃ suniggahitaṃ niggahetvā daṇḍena sutāḷitaṃ tāḷeyya."
+msgstr ""
+
+msgctxt "sn35.246:3.5"
+msgid "Daṇḍena sutāḷitaṃ tāḷetvā osajjeyya."
+msgstr ""
+
+msgctxt "sn35.246:3.6"
+msgid "Dutiyampi kho, bhikkhave … pe …"
+msgstr ""
+
+msgctxt "sn35.246:3.7"
+msgid "tatiyampi kho, bhikkhave, goṇo kiṭṭhādo aduṃ kiṭṭhaṃ otareyya."
+msgstr ""
+
+msgctxt "sn35.246:3.8"
+msgid "Tamenaṃ kiṭṭhārakkho nāsāyaṃ suggahitaṃ gaṇheyya."
+msgstr ""
+
+msgctxt "sn35.246:3.9"
+msgid "Nāsāyaṃ suggahitaṃ gahetvā uparighaṭāyaṃ suniggahitaṃ niggaṇheyya."
+msgstr ""
+
+msgctxt "sn35.246:3.10"
+msgid "Uparighaṭāyaṃ suniggahitaṃ niggahetvā daṇḍena sutāḷitaṃ tāḷeyya."
+msgstr ""
+
+msgctxt "sn35.246:3.11"
+msgid "Daṇḍena sutāḷitaṃ tāḷetvā osajjeyya."
+msgstr ""
+
+# I’m not entirely sure of the force of thanabahulo, nisajjabahulo here. But i think they’re suggesting that the ox would never ever forget, no matter how it takes, or how hungry they get!
+msgctxt "sn35.246:3.12"
+msgid ""
+"Evañhi so, bhikkhave, goṇo kiṭṭhādo gāmagato vā araññagato vā, ṭhānabahulo "
+"vā assa nisajjabahulo vā na taṃ kiṭṭhaṃ puna otareyya—"
+msgstr ""
+
+msgctxt "sn35.246:3.13"
+msgid "tameva purimaṃ daṇḍasamphassaṃ samanussaranto."
+msgstr ""
+
+# See BB’s note on readings here.
+msgctxt "sn35.246:3.14"
+msgid ""
+"Evameva kho, bhikkhave, yato kho bhikkhuno chasu phassāyatanesu cittaṃ "
+"udujitaṃ hoti sudujitaṃ, ajjhattameva santiṭṭhati, sannisīdati, ekodi hoti, "
+"samādhiyati."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.197"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn35.246:4.1"
+msgid ""
+"Seyyathāpi, bhikkhave, rañño vā rājamahāmattassa vā vīṇāya saddo assutapubbo "
+"assa."
+msgstr ""
+
+msgctxt "sn35.246:4.2"
+msgid "So vīṇāsaddaṃ suṇeyya."
+msgstr ""
+
+msgctxt "sn35.246:4.3"
+msgid "So evaṃ vadeyya:"
+msgstr ""
+
+# A similar sequnce is found at AN 5.55, with bandh and mucch reversed.
+#. VAR: kassa → kissa (bj, pts1)
+msgctxt "sn35.246:4.4"
+msgid ""
+"‘ambho, kassa nu kho eso saddo evaṃrajanīyo evaṃkamanīyo evaṃmadanīyo "
+"evaṃmucchanīyo evambandhanīyo’ti?"
+msgstr ""
+
+msgctxt "sn35.246:4.5"
+msgid "Tamenaṃ evaṃ vadeyyuṃ:"
+msgstr ""
+
+msgctxt "sn35.246:4.6"
+msgid ""
+"‘esā, kho, bhante, vīṇā nāma, yassā eso saddo evaṃrajanīyo evaṃkamanīyo "
+"evaṃmadanīyo evaṃmucchanīyo evambandhanīyo’ti."
+msgstr ""
+
+msgctxt "sn35.246:4.7"
+msgid "So evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "sn35.246:4.8"
+msgid "‘gacchatha me, bho, taṃ vīṇaṃ āharathā’ti."
+msgstr ""
+
+msgctxt "sn35.246:4.9"
+msgid "Tassa taṃ vīṇaṃ āhareyyuṃ."
+msgstr ""
+
+msgctxt "sn35.246:4.10"
+msgid "Tamenaṃ evaṃ vadeyyuṃ:"
+msgstr ""
+
+msgctxt "sn35.246:4.11"
+msgid ""
+"‘ayaṃ kho sā, bhante, vīṇā yassā eso saddo evaṃrajanīyo evaṃkamanīyo "
+"evaṃmadanīyo evaṃmucchanīyo evambandhanīyo’ti."
+msgstr ""
+
+msgctxt "sn35.246:4.12"
+msgid "So evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "sn35.246:4.13"
+msgid "‘alaṃ me, bho, tāya vīṇāya, tameva me saddaṃ āharathā’ti."
+msgstr ""
+
+msgctxt "sn35.246:4.14"
+msgid "Tamenaṃ evaṃ vadeyyuṃ:"
+msgstr ""
+
+msgctxt "sn35.246:4.15"
+msgid "‘ayaṃ kho, bhante, vīṇā nāma anekasambhārā mahāsambhārā."
+msgstr ""
+
+msgctxt "sn35.246:4.16"
+msgid "Anekehi sambhārehi samāraddhā vadati, seyyathidaṃ—"
+msgstr ""
+
+msgctxt "sn35.246:4.17"
+msgid ""
+"doṇiñca paṭicca cammañca paṭicca daṇḍañca paṭicca upadhāraṇe ca paṭicca "
+"tantiyo ca paṭicca koṇañca paṭicca purisassa ca tajjaṃ vāyāmaṃ paṭicca "
+"evāyaṃ, bhante, vīṇā nāma anekasambhārā mahāsambhārā."
+msgstr ""
+
+msgctxt "sn35.246:4.18"
+msgid "Anekehi sambhārehi samāraddhā vadatī’ti."
+msgstr ""
+
+msgctxt "sn35.246:4.19"
+msgid ""
+"So taṃ vīṇaṃ dasadhā vā satadhā vā phāleyya, dasadhā vā satadhā vā taṃ "
+"phāletvā sakalikaṃ sakalikaṃ kareyya."
+msgstr ""
+
+msgctxt "sn35.246:4.20"
+msgid ""
+"Sakalikaṃ sakalikaṃ karitvā agginā ḍaheyya, agginā ḍahitvā masiṃ kareyya."
+msgstr ""
+
+#. VAR: ophuneyya → opuneyya (bj, pts1) | ophuṇeyya (?)
+msgctxt "sn35.246:4.21"
+msgid "Masiṃ karitvā mahāvāte vā ophuneyya, nadiyā vā sīghasotāya pavāheyya."
+msgstr ""
+
+msgctxt "sn35.246:4.22"
+msgid "So evaṃ vadeyya:"
+msgstr ""
+
+#. VAR: yathevaṃ yaṃ → yathevayaṃ (pts1)
+#. VAR: ettha ca panāyaṃ jano → ettha panāyaṃ jano (s1-3, km) | ettha ca mahājano (pts1, mr)
+msgctxt "sn35.246:4.23"
+msgid ""
+"‘asatī kirāyaṃ, bho, vīṇā nāma, yathevaṃ yaṃ kiñci vīṇā nāma ettha ca "
+"panāyaṃ jano ativelaṃ pamatto palaḷito’ti."
+msgstr ""
+
+# samanvesati is a rare term, and it is used in SN 4.23 and SN 22.87 to describe Mara looking in vain for the consciousness of an arahant after they’ve died. Given that gati is a normal term of “place where you get reborn”, I think it has the same meaning here. This also agrees with the simile, where the complete dismemberment of the vina suggests death, indeed parinbibbana. More literally, it would “as far as there is a place of rebirth for form …” The point is similar to the notion that it is only the aggregates that get reborn. The mendicant is searching all states of rebirth and finding only khandhas, just as the king searched the vina and found only parts.
+#. VAR: samanvesati → samannesati (bj, s1-3, km) | samanesati (pts1)
+msgctxt "sn35.246:4.24"
+msgid ""
+"Evameva kho, bhikkhave, bhikkhu rūpaṃ samanvesati yāvatā rūpassa gati, "
+"vedanaṃ samanvesati yāvatā vedanāya gati, saññaṃ samanvesati yāvatā saññāya "
+"gati, saṅkhāre samanvesati yāvatā saṅkhārānaṃ gati, viññāṇaṃ samanvesati "
+"yāvatā viññāṇassa gati."
+msgstr ""
+
+msgctxt "sn35.246:4.25"
+msgid "Tassa rūpaṃ samanvesato yāvatā rūpassa gati, vedanaṃ samanvesato … pe …"
+msgstr ""
+
+msgctxt "sn35.246:4.26"
+msgid "saññaṃ …"
+msgstr ""
+
+msgctxt "sn35.246:4.27"
+msgid "saṅkhāre …"
+msgstr ""
+
+msgctxt "sn35.246:4.28"
+msgid "viññāṇaṃ samanvesato yāvatā viññāṇassa gati."
+msgstr ""
+
+msgctxt "sn35.246:4.29"
+msgid ""
+"Yampissa taṃ hoti ahanti vā mamanti vā asmīti vā tampi tassa na hotī”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn35.246:4.30"
+msgid "Navamaṃ."
+msgstr ""

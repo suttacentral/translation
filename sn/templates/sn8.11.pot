@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn8.11.pot\n"
+"X-Pootle-Revision: 21064\n"
+
+#. <section class="sutta" id="sn8.11"><article><div class="hgroup"><p class="division">
+msgctxt "sn8.11:0.1"
+msgid "Saṃyutta Nikāya 8"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn8.11:0.2"
+msgid "1. Vaṅgīsavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn8.11:0.3"
+msgid "11. Gaggarāsutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts2ed" id="pts2ed1.421"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn8.11:1.1"
+msgid ""
+"Ekaṃ samayaṃ bhagavā campāyaṃ viharati gaggarāya pokkharaṇiyā tīre mahatā "
+"bhikkhusaṃghena saddhiṃ pañcamattehi bhikkhusatehi sattahi ca upāsakasatehi "
+"sattahi ca upāsikāsatehi anekehi ca devatāsahassehi."
+msgstr ""
+
+#. VAR: atirocati → ativirocati (mr)
+msgctxt "sn8.11:1.2"
+msgid "Tyāssudaṃ bhagavā atirocati vaṇṇena ceva yasasā ca."
+msgstr ""
+
+msgctxt "sn8.11:1.3"
+msgid "Atha kho āyasmato vaṅgīsassa etadahosi:"
+msgstr ""
+
+msgctxt "sn8.11:1.4"
+msgid ""
+"“ayaṃ kho bhagavā campāyaṃ viharati gaggarāya pokkharaṇiyā tīre mahatā "
+"bhikkhusaṃghena saddhiṃ pañcamattehi bhikkhusatehi sattahi ca upāsakasatehi "
+"sattahi ca upāsikāsatehi anekehi ca devatāsahassehi."
+msgstr ""
+
+msgctxt "sn8.11:1.5"
+msgid "Tyāssudaṃ bhagavā atirocati vaṇṇena ceva yasasā ca."
+msgstr ""
+
+msgctxt "sn8.11:1.6"
+msgid "Yannūnāhaṃ bhagavantaṃ sammukhā sāruppāya gāthāya abhitthaveyyan”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn8.11:2.1"
+msgid ""
+"Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena "
+"bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn8.11:2.2"
+msgid "“paṭibhāti maṃ, bhagavā, paṭibhāti maṃ, sugatā”ti."
+msgstr ""
+
+msgctxt "sn8.11:2.3"
+msgid "“Paṭibhātu taṃ, vaṅgīsā”ti bhagavā avoca."
+msgstr ""
+
+msgctxt "sn8.11:2.4"
+msgid ""
+"Atha kho āyasmā vaṅgīso bhagavantaṃ sammukhā sāruppāya gāthāya abhitthavi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="pts1ed" id="pts1ed1.196"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn8.11:3.1"
+msgid "“Cando yathā vigatavalāhake nabhe,"
+msgstr ""
+
+#. <br>
+msgctxt "sn8.11:3.2"
+msgid "Virocati vigatamalova bhāṇumā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn8.11:3.3"
+msgid "Evampi aṅgīrasa tvaṃ mahāmuni,"
+msgstr ""
+
+#. <br>
+msgctxt "sn8.11:3.4"
+msgid "Atirocasi yasasā sabbalokan”ti."
+msgstr ""

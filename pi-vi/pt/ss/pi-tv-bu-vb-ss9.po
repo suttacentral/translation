@@ -1,0 +1,1671 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 20:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/pi-vi/ss/pi-tv-bu-vb-ss9.po\n"
+"X-Pootle-Revision: 9253\n"
+
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta
+#. content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="en"><section class="sutta" id="pi-tv-bu-vb-ss9"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "pi-tv-bu-vb-ss9:1.1"
+msgid "Theravāda Vinaya"
+msgstr "COLEÇÃO DAS REGRAS MONÁSTICAS DO BUDISMO THERAVĀDA"
+
+#. </p><p class="division">
+msgctxt "pi-tv-bu-vb-ss9:2.1"
+msgid "Mahāvibhaṅga"
+msgstr "O Código de Disciplina Monástica dos Bhikkhus"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:3.1"
+msgid "Saṃ­ghā­di­sesa­kaṇḍa"
+msgstr "Regras Saṅghādisesā"
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-ss9:4.1"
+msgid "Dutiya­duṭṭha­dosa­sikkhā­pada"
+msgstr "9: Raiva (2ª regra)"
+
+#. </h1></div><h2>
+msgctxt "pi-tv-bu-vb-ss9:5.1"
+msgid ""
+msgstr "História de origem"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.167"></a><a class="pts-vp-en" id="bd.1.288"></a><a class="pts-cs-empty"
+#. id="bu-ss.9.1"></a><a class="pts-cs" id="bu-ss.9.1.1"></a><a class="ms-pa"
+#. id="ms-pa1626"></a>
+msgctxt "pi-tv-bu-vb-ss9:5.2"
+msgid ""
+"Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalanda­ka­nivāpe."
+msgstr ""
+"Em certa ocasião o Abençoado estava em Rajagaha no Bambual, no Santuário dos "
+"Esquilos."
+
+#. <span class="note" hidden>See Suspension 8, <span
+#. class="ref">MS.1.1565</span>, for a comment on the present rendering of
+#. these names.</span>
+msgctxt "pi-tv-bu-vb-ss9:5.3"
+msgid ""
+"Tena kho pana samayena metti­ya­bhūma­jakā bhikkhū gijjhakūṭā pabbatā "
+"orohantā addasaṃsu chagalakaṃ ajikāya vippa­ṭi­pajjan­taṃ."
+msgstr ""
+"Naquela ocasião, os bhikkhus de Mettiyā e Bhūmajaka—enquanto desciam da "
+"montanha do Pico do Abutre—viram um bode e uma cabra copulando."
+
+msgctxt "pi-tv-bu-vb-ss9:5.4"
+msgid "Disvāna evamāhaṃsu—"
+msgstr "Eles disseram entre si:"
+
+msgctxt "pi-tv-bu-vb-ss9:5.5"
+msgid "“handa mayaṃ, āvuso, imaṃ chagalakaṃ dabbaṃ mallaputtaṃ nāma karoma."
+msgstr "“Vamos chamar de ‘Dabba’ o bode"
+
+msgctxt "pi-tv-bu-vb-ss9:5.6"
+msgid "Imaṃ ajikaṃ mettiyaṃ nāma bhikkhuniṃ karoma."
+msgstr "e de ‘Mettiyā, a bhikkhuni’ a cabra."
+
+msgctxt "pi-tv-bu-vb-ss9:5.7"
+msgid "Evaṃ mayaṃ voharissāma."
+msgstr "Desta foma, poderemos dizer: "
+
+msgctxt "pi-tv-bu-vb-ss9:5.8"
+msgid "Pubbe mayaṃ, āvuso, dabbaṃ mallaputtaṃ sutena avocumhā."
+msgstr "‘Anteriormente nós falamos do que ouvimos falar sobre Dabba, "
+
+msgctxt "pi-tv-bu-vb-ss9:5.9"
+msgid ""
+"Idāni pana amhehi sāmaṃ diṭṭho mettiyāya bhikkhuniyā vippa­ṭi­pajjanto”ti."
+msgstr ""
+"mas agora nós vimos nós mesmos ele copulando com Mettiyā, a bhikkhuni.’”"
+
+msgctxt "pi-tv-bu-vb-ss9:5.10"
+msgid "Te taṃ chagalakaṃ dabbaṃ mallaputtaṃ nāma akaṃsu."
+msgstr "Eles então assim chamaram "
+
+msgctxt "pi-tv-bu-vb-ss9:5.11"
+msgid "Taṃ ajikaṃ mettiyaṃ nāma bhikkhuniṃ akaṃsu."
+msgstr "aqueles animais e "
+
+msgctxt "pi-tv-bu-vb-ss9:5.12"
+msgid "Te bhikkhūnaṃ ārocesuṃ—"
+msgstr "em seguida informaram aos bhikkhus:"
+
+msgctxt "pi-tv-bu-vb-ss9:5.13"
+msgid "“pubbe mayaṃ, āvuso, dabbaṃ mallaputtaṃ sutena avocumhā."
+msgstr "“Anteriormente nós falamos sobre o que havíamos ouvido falar,"
+
+msgctxt "pi-tv-bu-vb-ss9:5.14"
+msgid ""
+"Idāni pana amhehi sāmaṃ diṭṭho mettiyāya bhikkhuniyā vippa­ṭi­pajjanto”ti."
+msgstr ""
+"mas agora nós vimos nós mesmos Dabba copulando com Mettiyā, a bhikkhuni.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:5.15"
+msgid "Bhikkhū evamāhaṃsu—"
+msgstr "Os bhikkhus responderam:"
+
+msgctxt "pi-tv-bu-vb-ss9:5.16"
+msgid "“māvuso, evaṃ avacuttha."
+msgstr "“Não diga tal coisa."
+
+msgctxt "pi-tv-bu-vb-ss9:5.17"
+msgid "Nāyasmā dabbo mallaputto evaṃ karissatī”ti."
+msgstr "Venerável Dabba não faria tal coisa.”"
+
+#. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1627"></a>
+msgctxt "pi-tv-bu-vb-ss9:6.1"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
+msgstr "Os bhikkhus então informaram o Abençoado do ocorrido."
+
+msgctxt "pi-tv-bu-vb-ss9:6.2"
+msgid ""
+"Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ "
+"sannipātāpetvā āyasmantaṃ dabbaṃ mallaputtaṃ paṭipucchi—"
+msgstr ""
+"O Abençoado então convocou a Sangha dos bhikkhus e perguntou ao Venerável "
+"Dabba:"
+
+msgctxt "pi-tv-bu-vb-ss9:6.3"
+msgid "“sarasi tvaṃ, dabba, evarūpaṃ kattā yathayime bhikkhū āhaṃsū”ti?"
+msgstr "“Dabba, você lembra de ter feito como dizem estes bhikkus?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:6.4"
+msgid "“Yathā maṃ, bhante, bhagavā jānātī”ti."
+msgstr "“Venerável senhor, o Abençoado me conhece.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:6.5"
+msgid "Dutiyampi kho bhagavā … pe …"
+msgstr "Uma segunda"
+
+msgctxt "pi-tv-bu-vb-ss9:6.6"
+msgid "tatiyampi kho bhagavā āyasmantaṃ dabbaṃ mallaputtaṃ etadavoca—"
+msgstr "e uma terceira vez, o Abençoado fez "
+
+msgctxt "pi-tv-bu-vb-ss9:6.7"
+msgid "“sarasi tvaṃ, dabba, evarūpaṃ kattā yathayime bhikkhū āhaṃsū”ti?"
+msgstr "a mesma pergunta"
+
+msgctxt "pi-tv-bu-vb-ss9:6.8"
+msgid "“Yathā maṃ, bhante, bhagavā jānātī”ti."
+msgstr "e obteve a mesma resposta."
+
+#. <a class="pts-vp-en" id="bd.1.289"></a>
+msgctxt "pi-tv-bu-vb-ss9:6.9"
+msgid "“Na kho, dabba, dabbā evaṃ nibbeṭhenti."
+msgstr ""
+"Ele então disse: “Dabba, os Dabbas não dão respostas evasivas como estas."
+
+msgctxt "pi-tv-bu-vb-ss9:6.10"
+msgid "Sace tayā kataṃ katanti vadehi,"
+msgstr "Se você o fez "
+
+msgctxt "pi-tv-bu-vb-ss9:6.11"
+msgid "sace tayā akataṃ akatanti vadehī”ti."
+msgstr "ou não, diga.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:6.12"
+msgid ""
+"“Yato ahaṃ, bhante, jāto nābhijānāmi supinantenapi methunadhammaṃ "
+"paṭisevitā, pageva jāgaro”ti."
+msgstr ""
+"“Venerável senhor, desde que nasci não me lembro de ter tido realizado atos "
+"sexuais, nem mesmo em sonho, e muito menos enquanto acordado.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:6.13"
+msgid ""
+"Atha kho bhagavā bhikkhū āmantesi—“tena hi, bhikkhave, ime bhikkhū "
+"anuyuñjathā”ti."
+msgstr ""
+"Em seguida, o Abençoado se dirigiu aos bhikkhus: “Pois bem, bhikkhus, chamem "
+"esses bhikkhus e os questionem.”"
+
+msgctxt "pi-tv-bu-vb-ss9:6.14"
+msgid "Idaṃ vatvā bhagavā uṭṭhāyāsanā vihāraṃ pāvisi."
+msgstr "O Abençoado então levantou-se do seu assento e entrou em sua morada."
+
+#. </p><p><a class="sc" id="3"></a><a class="pts-cs" id="bu-ss.9.1.2"></a><a
+#. class="ms-pa" id="ms-pa1628"></a>
+msgctxt "pi-tv-bu-vb-ss9:7.1"
+msgid "Atha kho te bhikkhū metti­ya­bhūma­jake bhikkhū anuyuñjiṃsu."
+msgstr ""
+"Os bhikkhus então questionaram os bhikkhus Mettiyā e Bhūmajaka, que por sua "
+"vez lhes contaram o que tinha acontecido."
+
+msgctxt "pi-tv-bu-vb-ss9:7.2"
+msgid "Te bhikkhūhi anuyuñjīyamānā bhikkhūnaṃ etamatthaṃ ārocesuṃ—"
+msgstr "Os bhikkhus então disseram:"
+
+msgctxt "pi-tv-bu-vb-ss9:7.3"
+msgid ""
+"“kiṃ pana tumhe, āvuso, āyasmantaṃ dabbaṃ mallaputtaṃ aññabhāgiyassa "
+"adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena "
+"anuddhaṃsethā”ti?"
+msgstr ""
+"“Vocês acusaram Venerável Dabba de uma ofensa parajika, usando uma questão "
+"não relacionada como pretexto, distorcendo evidências?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:7.4"
+msgid "“Evamāvuso”ti."
+msgstr "“Sim”."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:7.5"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "Os bhikkhus de poucos desejos…"
+
+msgctxt "pi-tv-bu-vb-ss9:7.6"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "se queixaram e criticaram:"
+
+msgctxt "pi-tv-bu-vb-ss9:7.7"
+msgid ""
+"“kathañhi nāma metti­ya­bhūma­jakā bhikkhū āyasmantaṃ dabbaṃ mallaputtaṃ "
+"aññabhāgiyassa adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena "
+"dhammena anuddhaṃ­ses­santī”ti."
+msgstr ""
+"“Como puderam os bhikkhus Mettiya e Bhūmajaka acusar de forma infundada o "
+"Venerável Dabba de ter cometido uma ofensa parajika, que envolve a expulsão?”"
+
+#. </p><p><a class="sc" id="4"></a><a class="ms-pa" id="ms-pa1629"></a>
+msgctxt "pi-tv-bu-vb-ss9:8.1"
+msgid ""
+"Atha kho te bhikkhū metti­ya­bhūma­jake bhikkhū aneka­pariyā­yena "
+"vigarahitvā bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+"Eles repreenderam aqueles dois bhikkhus de muitas maneiras e em seguida, "
+"informaram o Abençoado do ocorrido, que em seguida lhes questionou:"
+
+msgctxt "pi-tv-bu-vb-ss9:8.2"
+msgid ""
+"“saccaṃ kira tumhe, bhikkhave, dabbaṃ mallaputtaṃ aññabhāgiyassa "
+"adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena "
+"anuddhaṃsethā”ti?"
+msgstr ""
+"“É verdade, bhikkhus, que vocês acusaram Venerável Dabba de uma ofensa "
+"parajika, usando uma questão não relacionada como pretexto, distorcendo "
+"evidências?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:8.3"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“É verdade, mestre.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:8.4"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "O Buda então os repreendeu: “…"
+
+msgctxt "pi-tv-bu-vb-ss9:8.5"
+msgid ""
+"“kathañhi nāma tumhe, moghapurisā, dabbaṃ mallaputtaṃ aññabhāgiyassa "
+"adhikaraṇassa kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena "
+"anuddhaṃ­ses­sa­tha."
+msgstr ""
+"“Homens tolos, como puderam vocês ter acusado o Venerável Dabba de forma "
+"infundada de ter cometido uma ofensa parajika, usando uma questão não "
+"relacionada como pretexto, distorcendo evidências?"
+
+msgctxt "pi-tv-bu-vb-ss9:8.6"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "Isto não fará surgir fé naqueles ainda sem fé … "
+
+msgctxt "pi-tv-bu-vb-ss9:8.7"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "E então, bhikkhus, esta regra de treinamento deve ser assim recitada:"
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss9:9.1"
+msgid ""
+msgstr "Regra final"
+
+#. </h2><p><a class="sc" id="5"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.168"></a><a class="ms-pa" id="ms-pa1630"></a><a class="pts-vp-en"
+#. id="bd.1.290"></a>
+#. <strong class="rule">
+msgctxt "pi-tv-bu-vb-ss9:9.2"
+msgid ""
+"“Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa "
+"kiñci desaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya—"
+msgstr ""
+"“Se um bhikkhu, enraivecido e descontente, acusa um outro bhikkhu de ter "
+"cometido uma ofensa parajika, que envolve a expulsão,"
+
+msgctxt "pi-tv-bu-vb-ss9:9.3"
+msgid "‘appeva nāma naṃ imamhā brahmacariyā cāveyyan’ti."
+msgstr ""
+"usando uma questão não relacionada como pretexto—distorcendo evidências—e "
+"com o objetivo de fazê-lo deixar a vida monástica,"
+
+msgctxt "pi-tv-bu-vb-ss9:9.4"
+msgid ""
+"Tato aparena samayena sama­nug­gāhīya­māno vā asama­nug­gāhīya­māno vā "
+"añña­bhāgi­yañ­ceva taṃ adhikaraṇaṃ hoti koci deso lesamatto upādinno, "
+"bhikkhu ca dosaṃ patiṭṭhāti, saṃghādiseso”ti."
+msgstr ""
+"e em seguida depois de algum tempo—tendo sido ele questionado ou não—se "
+"torna claro que a acusação é infundada, e ele admite ter sido motivado pela "
+"raiva, ele comete uma ofensa sanghadisesa, séria e que envolve a suspensão.”"
+
+#. </strong>
+msgctxt "pi-tv-bu-vb-ss9:9.5"
+msgid "(<em>9</em>:<strong>13</strong>)"
+msgstr " "
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss9:10.1"
+msgid ""
+msgstr "Definições"
+
+#. </h2><p><a class="sc" id="6"></a><a class="pts-cs-empty" id="bu-
+#. ss.9.2"></a><a class="pts-cs" id="bu-ss.9.2.1"></a><a class="ms-pa" id="ms-
+#. pa1631"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:10.2"
+msgid "Yo panāti"
+msgstr "Um:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:10.3"
+msgid "yo yādiso … pe …"
+msgstr ""
+"refere-se a qualquer indivíduo, de tal tipo, de tal ocupação, de tal status "
+"social, de tal nome, de tal família, de tal conduta, de tal comportamento, "
+"de tal associação, seja de muita ou pouca idade, ou não pertencendo a nenhum "
+"grupo específico. …"
+
+#. </span>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:10.4"
+msgid "bhikkhūti"
+msgstr "Bhikkhu:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:10.5"
+msgid "… pe …"
+msgstr ""
+"… neste caso, um bhikkhu é alguém que tenha recebido a ordenação completa na "
+"Sangha de bhikkhus através de um procedimento formal, consistindo de três "
+"moções e três proclamações, que é irrefutável e completo."
+
+msgctxt "pi-tv-bu-vb-ss9:10.6"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "Isto se entende por bhikkhu."
+
+#. </span>
+#. </p><p><a class="sc" id="7"></a><a class="ms-pa" id="ms-pa1632"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:11.1"
+msgid "Bhikkhunti"
+msgstr "Um outro bhikkhu:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:11.2"
+msgid "aññaṃ bhikkhuṃ."
+msgstr "um bhikkhu que não aquele que acusa."
+
+#. </span>
+#. </p><p><a class="sc" id="8"></a><a class="ms-pa" id="ms-pa1633"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:12.1"
+msgid "Duṭṭho dosoti"
+msgstr "Enraivecido:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:12.2"
+msgid "kupito anattamano anabhiraddho āhatacitto khilajāto."
+msgstr "irritado, desgostoso, insatisfeito, hostil."
+
+#. </span>
+#. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1634"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:13.1"
+msgid "Appatītoti"
+msgstr "Descontente:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:13.2"
+msgid ""
+"tena ca kopena, tena ca dosena, tāya ca anattamanatāya, tāya ca "
+"anabhiraddhiyā appatīto hoti."
+msgstr ""
+"tomado pela raiva e irritação ele se encontra descontante, desgostoso, "
+"chateado."
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a><a class="pts-cs" id="bu-ss.9.2.2"></a><a
+#. class="ms-pa" id="ms-pa1635"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:14.1"
+msgid "Aññabhāgiyassa adhikaraṇassāti"
+msgstr "Uma questão não relacionada:"
+
+#. </strong></p><div class="gloss"><p>
+msgctxt "pi-tv-bu-vb-ss9:14.2"
+msgid "āpattañ­ña­bhāgi­yaṃ vā hoti adhika­ra­ṇañ­ña­bhāgi­yaṃ vā."
+msgstr ""
+"Uma questão pode ser não relacionada com uma ofensa ou com uma acusação."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss9:14.3"
+msgid "Kathaṃ adhikaraṇaṃ adhikaraṇassa aññabhāgiyaṃ?"
+msgstr "O que constitui uma questão não relacionada?"
+
+msgctxt "pi-tv-bu-vb-ss9:14.4"
+msgid ""
+"Vivā­dādhika­ra­ṇaṃ anuvā­dādhika­ra­ṇassa āpat­tādhika­ra­ṇassa "
+"kic­cādhika­ra­ṇassa aññabhāgiyaṃ."
+msgstr ""
+"Uma questão envolvendo uma disputa não tem relação com uma questão "
+"envolvendo uma denúncia, ou com uma questão envolvendo uma ofensa e tampouco "
+"com uma questão envolvendo um protocolo."
+
+msgctxt "pi-tv-bu-vb-ss9:14.5"
+msgid ""
+"Anuvā­dādhika­ra­ṇaṃ āpat­tādhika­ra­ṇassa kic­cādhika­ra­ṇassa "
+"vivā­dādhika­ra­ṇassa aññabhāgiyaṃ."
+msgstr ""
+"Uma questão envolvendo uma acusação não tem relação com uma questão "
+"envolvendo uma disputa, ou com uma questão envolvendo uma ofensa e tampouco "
+"com uma questão envolvendo um protocolo."
+
+msgctxt "pi-tv-bu-vb-ss9:14.6"
+msgid ""
+"Āpat­tādhika­ra­ṇaṃ kic­cādhika­ra­ṇassa vivā­dādhika­ra­ṇassa "
+"anuvā­dādhika­ra­ṇassa aññabhāgiyaṃ."
+msgstr ""
+"Uma questão envolvendo uma ofensa não tem relação com uma questão envolvendo "
+"uma disputa, ou com uma questão envolvendo uma acusação e tampouco com uma "
+"questão envolvendo um protocolo."
+
+msgctxt "pi-tv-bu-vb-ss9:14.7"
+msgid ""
+"Kic­cādhika­ra­ṇaṃ vivā­dādhika­ra­ṇassa anuvā­dādhika­ra­ṇassa "
+"āpat­tādhika­ra­ṇassa aññabhāgiyaṃ."
+msgstr ""
+"Uma questão envolvendo um protocolo não tem relação com uma questão "
+"envolvendo uma disputa, ou com uma questão envolvendo uma acusação e "
+"tampouco com uma questão envolvendo uma ofensa."
+
+msgctxt "pi-tv-bu-vb-ss9:14.8"
+msgid "Evaṃ adhikaraṇaṃ adhikaraṇassa aññabhāgiyaṃ."
+msgstr "É desta forma que uma questão não é relacionada."
+
+#. </p><p><a class="sc" id="11"></a><a class="ms-pa" id="ms-pa1636"></a>
+msgctxt "pi-tv-bu-vb-ss9:15.1"
+msgid "Kathaṃ adhikaraṇaṃ adhikaraṇassa tabbhāgiyaṃ?"
+msgstr "O que constitui uma questão relacionada?"
+
+msgctxt "pi-tv-bu-vb-ss9:15.2"
+msgid "Vivā­dādhika­ra­ṇaṃ vivā­dādhika­ra­ṇassa tabbhāgiyaṃ."
+msgstr ""
+"Uma questão envolvendo uma disputa tem relação com uma questão envolvendo "
+"uma disputa"
+
+msgctxt "pi-tv-bu-vb-ss9:15.3"
+msgid "Anuvā­dādhika­ra­ṇaṃ anuvā­dādhika­ra­ṇassa tabbhāgiyaṃ."
+msgstr ""
+"Uma questão envolvendo uma denúncia tem relação com uma questão envolvendo "
+"uma denúncia."
+
+msgctxt "pi-tv-bu-vb-ss9:15.4"
+msgid ""
+"Āpat­tādhika­ra­ṇaṃ āpat­tādhika­ra­ṇassa siyā tabbhāgiyaṃ siyā aññabhāgiyaṃ."
+msgstr ""
+"Uma questão envolvendo uma ofensa pode ou não ter relação com uma questão "
+"envolvendo uma ofensa."
+
+#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1637"></a>
+msgctxt "pi-tv-bu-vb-ss9:16.1"
+msgid "Kathaṃ āpat­tādhika­ra­ṇaṃ āpat­tādhika­ra­ṇassa aññabhāgiyaṃ?"
+msgstr ""
+"E como uma questão envolvendo uma ofensa não tem relação com outra questão "
+"envolvendo uma ofensa?"
+
+#. <a class="pts-vp-en" id="bd.1.291"></a>
+msgctxt "pi-tv-bu-vb-ss9:16.2"
+msgid ""
+"Methuna­dhamma­pā­rāji­kā­patti adinnā­dāna­pā­rāji­kā­pattiyā "
+"manus­savig­gaha­pā­rāji­kā­pattiyā uttari­manus­sa­dhamma­pā­rāji­kā­"
+"pattiyā aññabhāgiyā."
+msgstr ""
+"Uma ofensa parajika envolvendo a realização de atos sexuais não tem relação "
+"com uma ofensa parajika envolvendo tomar aquilo que não foi oferecido, ou "
+"com uma ofensa parajika envolvendo matar um ser humano e tampouco com uma "
+"ofensa parajika envolvendo a alegação de estados supra-humanos."
+
+msgctxt "pi-tv-bu-vb-ss9:16.3"
+msgid ""
+"Adinnā­dāna­pā­rāji­kā­patti manus­savig­gaha­pā­rāji­kā­pattiyā "
+"uttari­manus­sa­dhamma­pā­rāji­kā­pattiyā methuna­dhamma­pā­rāji­kā­pattiyā "
+"aññabhāgiyā."
+msgstr ""
+"Uma ofensa parajika envolvendo tomar aquilo que não foi oferecido não tem "
+"relação com uma ofensa parajika envolvendo a realização de atos sexuais, ou "
+"com uma ofensa parajika envolvendo matar um ser humano e tampouco com uma "
+"ofensa parajika envolvendo a alegação de estados supra-humanos."
+
+msgctxt "pi-tv-bu-vb-ss9:16.4"
+msgid ""
+"Manus­savig­gaha­pā­rāji­kā­patti uttari­manus­sa­dhamma­pā­rāji­kā­pattiyā "
+"methuna­dhamma­pā­rāji­kā­pattiyā adinnā­dāna­pā­rāji­kā­pattiyā aññabhāgiyā."
+msgstr ""
+"Uma ofensa parajika envolvendo matar um ser humano não tem relação com uma "
+"ofensa parajika envolvendo a realização de atos sexuais, ou com uma ofensa "
+"parajika envolvendo tomar aquilo que não foi oferecido e tampouco com uma "
+"ofensa parajika envolvendo a alegação de estados supra-humanos."
+
+msgctxt "pi-tv-bu-vb-ss9:16.5"
+msgid ""
+"Uttari­manus­sa­dhamma­pā­rāji­kā­patti methuna­dhamma­pā­rāji­kā­pattiyā "
+"adinnā­dāna­pā­rāji­kā­pattiyā manus­savig­gaha­pā­rāji­kā­pattiyā "
+"aññabhāgiyā."
+msgstr ""
+"Uma ofensa parajika envolvendo a alegação de estados supra-humanos não tem "
+"relação com uma ofensa parajika envolvendo a realização de atos sexuais, ou "
+"com uma ofensa parajika envolvendo tomar aquilo que não foi oferecido e "
+"tampouco com uma ofensa parajika envolvendo matar um ser humano."
+
+msgctxt "pi-tv-bu-vb-ss9:16.6"
+msgid "Evaṃ āpat­tādhika­ra­ṇaṃ āpat­tādhika­ra­ṇassa aññabhāgiyaṃ."
+msgstr ""
+"É desta forma que uma questão envolvendo uma ofensa não tem relação com "
+"outra questão envolvendo uma ofensa."
+
+#. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1638"></a>
+msgctxt "pi-tv-bu-vb-ss9:17.1"
+msgid "Kathaṃ āpat­tādhika­ra­ṇaṃ āpat­tādhika­ra­ṇassa tabbhāgiyaṃ?"
+msgstr ""
+"E como uma questão envolvendo uma ofensa tem relação com outra questão "
+"envolvendo uma ofensa?"
+
+msgctxt "pi-tv-bu-vb-ss9:17.2"
+msgid ""
+"Methuna­dhamma­pā­rāji­kā­patti methuna­dhamma­pā­rāji­kā­pattiyā tabbhāgiyā."
+msgstr ""
+"Uma ofensa parajika envolvendo a realização de atos sexuais tem relação com "
+"uma ofensa parajika envolvendo a realização de atos sexuais."
+
+msgctxt "pi-tv-bu-vb-ss9:17.3"
+msgid "Adinnā­dāna­pā­rāji­kā­patti adinnā­dāna­pā­rāji­kā­pattiyā tabbhāgiyā."
+msgstr ""
+"Uma ofensa parajika envolvendo tomar aquilo que não foi oferecido tem "
+"relação com uma ofensa parajika envolvendo tomar aquilo que não foi "
+"oferecido."
+
+msgctxt "pi-tv-bu-vb-ss9:17.4"
+msgid ""
+"Manus­savig­gaha­pā­rāji­kā­patti manus­savig­gaha­pā­rāji­kā­pattiyā "
+"tabbhāgiyā."
+msgstr ""
+"Uma ofensa parajika envolvendo matar um ser humano tem relação com uma "
+"ofensa parajika envolvendo matar um ser humano."
+
+msgctxt "pi-tv-bu-vb-ss9:17.5"
+msgid ""
+"Uttari­manus­sa­dhamma­pā­rāji­kā­patti uttari­manus­sa­dhamma­pā­rāji­kā­"
+"pattiyā tabbhāgiyā."
+msgstr ""
+"Uma ofensa parajika envolvendo a alegação de estados supra-humanos tem "
+"relação com uma ofensa parajika envolvendo a alegação de estados supra-"
+"humanos."
+
+msgctxt "pi-tv-bu-vb-ss9:17.6"
+msgid "Evaṃ āpat­tādhika­ra­ṇaṃ āpat­tādhika­ra­ṇassa tabbhāgiyaṃ."
+msgstr ""
+"É desta forma que uma questão envolvendo uma ofensa tem relação com outra "
+"questão envolvendo uma ofensa."
+
+#. </p><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1639"></a>
+msgctxt "pi-tv-bu-vb-ss9:18.1"
+msgid "Kic­cādhika­ra­ṇaṃ kic­cādhika­ra­ṇassa tabbhāgiyaṃ."
+msgstr ""
+"Uma questão envolvendo um protocolo é relacionada a uma questão envolvendo "
+"um protocolo."
+
+msgctxt "pi-tv-bu-vb-ss9:18.2"
+msgid "Evaṃ adhikaraṇaṃ adhikaraṇassa tabbhāgiyaṃ."
+msgstr "É desta forma que uma questão é relacionada."
+
+#. </p></div><hr><p><a class="sc" id="15"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.169"></a><a class="pts-cs" id="bu-ss.9.2.3"></a><a class="ms-pa"
+#. id="ms-pa1640"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:19.1"
+msgid "Kiñci desaṃ lesamattaṃ upādāyāti"
+msgstr "Usando […] como pretexto:"
+
+#. </strong></p><div class="gloss"><p><strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:19.2"
+msgid ""
+msgstr "Um pretexto:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:19.3"
+msgid "leso nāma dasa lesā—"
+msgstr "Pretextos podem ser de dez tipos—"
+
+msgctxt "pi-tv-bu-vb-ss9:19.4"
+msgid ""
+"jātileso, nāmaleso, gottaleso, liṅgaleso, āpattileso, pattaleso, cīvaraleso, "
+"upajjhāyaleso, ācariyaleso, senāsanaleso."
+msgstr ""
+"pretexto de casta, pretexto de nome, pretexto de família, pretexto de "
+"característica, pretexto de ofensa, pretexto da tigela, pretexto de manto, "
+"pretexto de preceptor, pretexto de professor, pretexto de alojamento."
+
+#. </span>
+#. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1641"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:20.1"
+msgid "Jātileso nāma"
+msgstr "O pretexto de casta:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:20.2"
+msgid "khattiyo diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr "Um bhikkhu vê alguém da casta nobre cometer uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:20.3"
+msgid "Aññaṃ khattiyaṃ passitvā codeti—"
+msgstr "Se ele vai e acusa um outro nobre, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:20.4"
+msgid "“khattiyo mayā diṭṭho."
+msgstr "“Eu vi uma pessoa da casta nobre."
+
+msgctxt "pi-tv-bu-vb-ss9:20.5"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi,"
+msgstr "Você cometeu uma ofensa parajika."
+
+#. <a class="pts-vp-en" id="bd.1.292"></a>
+msgctxt "pi-tv-bu-vb-ss9:20.6"
+msgid "assamaṇosi, asakya­putti­yosi,"
+msgstr "Você não é mais um contemplativo, um filho do Sákya;"
+
+msgctxt "pi-tv-bu-vb-ss9:20.7"
+msgid "natthi tayā saddhiṃ uposatho vā pavāraṇā vā saṃghakammaṃ vā”ti,"
+msgstr ""
+"você está excluído da observância do uposatha, da cerimônia de abertura do "
+"retiro das chuvas, e também dos procedimentos formais da Sangha.” "
+
+msgctxt "pi-tv-bu-vb-ss9:20.8"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1642"></a><span
+#. class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:21.1"
+msgid "Brāhmaṇo diṭṭho hoti … pe …"
+msgstr "Um bhikkhu vê alguém da casta dos brâmanes …"
+
+msgctxt "pi-tv-bu-vb-ss9:21.2"
+msgid "vesso diṭṭho hoti … pe …"
+msgstr "Um bhikkhu vê alguém da casta dos comerciantes …"
+
+msgctxt "pi-tv-bu-vb-ss9:21.3"
+msgid "suddo diṭṭho hoti"
+msgstr "Um bhikkhu vê alguém da casta dos trabalhadores …"
+
+msgctxt "pi-tv-bu-vb-ss9:21.4"
+msgid "pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr " "
+
+msgctxt "pi-tv-bu-vb-ss9:21.5"
+msgid "Aññaṃ suddaṃ passitvā codeti—"
+msgstr "Se ele vai e acusa um outro nobre, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:21.6"
+msgid "“suddo mayā diṭṭho."
+msgstr "“Eu vi uma pessoa da casta dos trabalhadores."
+
+msgctxt "pi-tv-bu-vb-ss9:21.7"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi, assamaṇosi, asakya­putti­yosi … pe …"
+msgstr ""
+"Você cometeu uma ofensa parajika. Você não é mais um contemplativo, um filho "
+"do Sákya ..."
+
+msgctxt "pi-tv-bu-vb-ss9:21.8"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-pa1643"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:22.1"
+msgid "Nāmaleso nāma"
+msgstr "O pretexto de nome:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:22.2"
+msgid "buddharakkhito diṭṭho hoti … pe …"
+msgstr "Um bhikkhu vê alguém cujo nome é Buddharakkhita …"
+
+msgctxt "pi-tv-bu-vb-ss9:22.3"
+msgid "dhammarakkhito diṭṭho hoti … pe …"
+msgstr "Dhammarakkhita …"
+
+msgctxt "pi-tv-bu-vb-ss9:22.4"
+msgid "saṃgharakkhito diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr "Saṅgharakkhita cometer uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:22.5"
+msgid "Aññaṃ saṃgha­rak­khi­taṃ passitvā codeti—"
+msgstr "Se ele vai e acusa alguém também assim chamado, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:22.6"
+msgid "“saṃgharakkhito mayā diṭṭho."
+msgstr "Eu vi Saṅgharakkhita …"
+
+msgctxt "pi-tv-bu-vb-ss9:22.7"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi, assamaṇosi, asakya­putti­yosi … pe …"
+msgstr ""
+"Você cometeu uma ofensa parajika. Você não é mais um contemplativo, um filho "
+"do Sákya ..."
+
+msgctxt "pi-tv-bu-vb-ss9:22.8"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1644"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:23.1"
+msgid "Gottaleso nāma"
+msgstr "O pretexto da família:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:23.2"
+msgid "gotamo diṭṭho hoti … pe …"
+msgstr "Um bhikkhu vê alguém cujo nome de família é Gotama …"
+
+msgctxt "pi-tv-bu-vb-ss9:23.3"
+msgid "moggallāno diṭṭho hoti … pe …"
+msgstr "Moggallāna …"
+
+msgctxt "pi-tv-bu-vb-ss9:23.4"
+msgid "kaccāyano diṭṭho hoti … pe …"
+msgstr "Kaccāyana …"
+
+msgctxt "pi-tv-bu-vb-ss9:23.5"
+msgid "vāsiṭṭho diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr "Vāsiṭṭha cometer uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:23.6"
+msgid "Aññaṃ vāsiṭṭhaṃ passitvā codeti—"
+msgstr " Se ele vai e acusa alguém também assim chamado, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:23.7"
+msgid "“vāsiṭṭho mayā diṭṭho."
+msgstr "“Eu vi Vāsiṭṭha."
+
+msgctxt "pi-tv-bu-vb-ss9:23.8"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi, assamaṇosi, asakya­putti­yosi … pe …"
+msgstr ""
+"Você cometeu uma ofensa parajika. Você não é mais um contemplativo, um filho "
+"do Sákya ..."
+
+msgctxt "pi-tv-bu-vb-ss9:23.9"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1645"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:24.1"
+msgid "Liṅgaleso nāma"
+msgstr "O pretexto da característica:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:24.2"
+msgid "dīgho diṭṭho hoti … pe …"
+msgstr "Um bhikkhu vê uma pessoa alta … "
+
+msgctxt "pi-tv-bu-vb-ss9:24.3"
+msgid "rasso diṭṭho hoti … pe …"
+msgstr "baixa …"
+
+msgctxt "pi-tv-bu-vb-ss9:24.4"
+msgid "kaṇho diṭṭho hoti … pe …"
+msgstr "de tez escura …"
+
+msgctxt "pi-tv-bu-vb-ss9:24.5"
+msgid "odāto diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr "de tez clara cometer uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:24.6"
+msgid "Aññaṃ odātaṃ passitvā codeti—"
+msgstr "Se ele vai e acusa alguém de similar característica, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:24.7"
+msgid "“odāto mayā diṭṭho."
+msgstr "“Eu vi uma pessoa de tez clara."
+
+msgctxt "pi-tv-bu-vb-ss9:24.8"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi, assamaṇosi, asakya­putti­yosi … pe …"
+msgstr ""
+"Você cometeu uma ofensa parajika. Você não é mais um contemplativo, um filho "
+"do Sákya ..."
+
+msgctxt "pi-tv-bu-vb-ss9:24.9"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1646"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:25.1"
+msgid "Āpattileso nāma"
+msgstr "O pretexto de ofensa:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:25.2"
+msgid "lahukaṃ āpattiṃ āpajjanto diṭṭho hoti."
+msgstr "Um bhikkhu vê alguém a cometer uma ofensa leve."
+
+msgctxt "pi-tv-bu-vb-ss9:25.3"
+msgid "Tañce pārājikena codeti—"
+msgstr "Se ele vai e acusa este de ter cometido uma ofensa parajika, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:25.4"
+msgid "“assamaṇosi, asakya­putti­yosi … pe …"
+msgstr "“Você não é mais um contemplativo, um filho do Sákya ..."
+
+msgctxt "pi-tv-bu-vb-ss9:25.5"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1647"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:26.1"
+msgid "Pattaleso nāma"
+msgstr "O pretexto da tigela:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:26.2"
+msgid "lohapattadharo diṭṭho hoti … pe …"
+msgstr "Um bhikkhu vê alguém carregando uma tigela de metal …"
+
+msgctxt "pi-tv-bu-vb-ss9:26.3"
+msgid "sāṭaka­patta­dharo diṭṭho hoti … pe …"
+msgstr "uma tigela de cerâmica negra …"
+
+msgctxt "pi-tv-bu-vb-ss9:26.4"
+msgid "sum­bha­ka­patta­dharo diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr "uma tigela de cerâmica comum cometer uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:26.5"
+msgid "Aññaṃ sum­bha­kapat­tadharaṃ passitvā codeti—"
+msgstr "Se ele vai e acusa alguém carregando uma tigela similar, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:26.6"
+msgid "“sum­bha­ka­patta­dharo mayā diṭṭho."
+msgstr "“Eu vi uma pessoa carregando uma tigela de cerâmica comum."
+
+msgctxt "pi-tv-bu-vb-ss9:26.7"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi, assamaṇosi, asakya­putti­yosi … pe …"
+msgstr ""
+"Você cometeu uma ofensa parajika. Você não é mais um contemplativo, um filho "
+"do Sákya ..."
+
+msgctxt "pi-tv-bu-vb-ss9:26.8"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="23"></a><a class="pts-vp-en" id="bd.1.293"></a><a
+#. class="ms-pa" id="ms-pa1648"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:27.1"
+msgid "Cīvaraleso nāma"
+msgstr "O pretexto de manto:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:27.2"
+msgid "paṃsukūliko diṭṭho hoti … pe …"
+msgstr "Um bhikkhu vê alguém vestindo um manto feito com trapos …"
+
+msgctxt "pi-tv-bu-vb-ss9:27.3"
+msgid "gahapa­ti­cīva­ra­dharo diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr "vestindo um manto oferecido cometer uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:27.4"
+msgid "Aññaṃ gahapa­ti­cīva­ra­dharaṃ passitvā codeti—"
+msgstr "Se ele vai e acusa alguém vestindo um manto similar, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:27.5"
+msgid "“gahapa­ti­cīva­ra­dharo mayā diṭṭho."
+msgstr "“Eu vi uma pessoa vestindo um manto oferecido . "
+
+msgctxt "pi-tv-bu-vb-ss9:27.6"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi, assamaṇosi, asakya­putti­yosi … pe …"
+msgstr ""
+"Você cometeu uma ofensa parajika. Você não é mais um contemplativo, um filho "
+"do Sákya ..."
+
+msgctxt "pi-tv-bu-vb-ss9:27.7"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1649"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:28.1"
+msgid "Upajjhāyaleso nāma"
+msgstr "O pretexto de preceptor:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:28.2"
+msgid ""
+"itthannāmassa saddhivihāriko diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr ""
+"Um bhikkhu vê o discípulo de tal e tal preceptor cometer uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:28.3"
+msgid "Aññaṃ itthannāmassa sad­dhi­vihā­ri­kaṃ passitvā codeti—"
+msgstr "Se ele vai e acusa um outro discípulo do mesmo preceptor, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:28.4"
+msgid "“itthannāmassa saddhivihāriko mayā diṭṭho."
+msgstr "“Eu vi o discípulo de tal e tal preceptor."
+
+msgctxt "pi-tv-bu-vb-ss9:28.5"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi, assamaṇosi, asakya­putti­yosi … pe …"
+msgstr "Você cometeu uma ofensa parajika. …"
+
+msgctxt "pi-tv-bu-vb-ss9:28.6"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="25"></a><a class="ms-pa" id="ms-pa1650"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:29.1"
+msgid "Ācariyaleso nāma"
+msgstr "O pretexto do professor:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:29.2"
+msgid "itthannāmassa antevāsiko diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr ""
+"Um bhikkhu vê o discípulo de tal e tal professor cometer uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:29.3"
+msgid "Aññaṃ itthannāmassa antevāsikaṃ passitvā codeti—"
+msgstr "Se ele vai e acusa um outro discípulo do mesmo professor, dizendo,"
+
+msgctxt "pi-tv-bu-vb-ss9:29.4"
+msgid "“itthannāmassa antevāsiko mayā diṭṭho."
+msgstr "“Eu vi o discípulo de tal e tal professor."
+
+msgctxt "pi-tv-bu-vb-ss9:29.5"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi, assamaṇosi, asakya­putti­yosi … pe …"
+msgstr ""
+"Você cometeu uma ofensa parajika. Você não é mais um contemplativo, um filho "
+"do Sákya ..."
+
+msgctxt "pi-tv-bu-vb-ss9:29.6"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="26"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.170"></a><a class="ms-pa" id="ms-pa1651"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:30.1"
+msgid "Senāsanaleso nāma"
+msgstr "O pretexto de alojamento:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:30.2"
+msgid ""
+"itthannā­ma­se­nāsa­na­vāsiko diṭṭho hoti pārājikaṃ dhammaṃ ajjhāpajjanto."
+msgstr ""
+"Um bhikkhu vê alguém que mora em tal e tal alojamento cometer uma ofensa "
+"parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:30.3"
+msgid "Aññaṃ itthannā­ma­se­nāsa­na­vāsikaṃ passitvā codeti—"
+msgstr ""
+"Se ele vai e acusa um outro alguém que também more naquele alojamento, "
+"dizendo, "
+
+msgctxt "pi-tv-bu-vb-ss9:30.4"
+msgid "“itthannā­ma­se­nāsa­na­vāsiko mayā diṭṭho."
+msgstr "“Eu vi o morador de tal e tal alojamento."
+
+msgctxt "pi-tv-bu-vb-ss9:30.5"
+msgid "Pārājikaṃ dhammaṃ ajjhāpannosi,"
+msgstr "Você cometeu uma ofensa parajika."
+
+msgctxt "pi-tv-bu-vb-ss9:30.6"
+msgid "assamaṇosi, asakya­putti­yosi,"
+msgstr "Você não é mais um contemplativo, um filho do Sákya;"
+
+msgctxt "pi-tv-bu-vb-ss9:30.7"
+msgid "natthi tayā saddhiṃ uposatho vā pavāraṇā vā saṃghakammaṃ vā”ti,"
+msgstr ""
+"você está excluído da observância do uposatha, da cerimônia de abertura do "
+"retiro das chuvas, e também dos procedimentos formais da Sangha.”"
+
+msgctxt "pi-tv-bu-vb-ss9:30.8"
+msgid "āpatti vācāya, vācāya saṃ­ghā­di­sesassa."
+msgstr ""
+"Para cada afirmativa, ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </span>
+#. </p></div><hr><p><a class="sc" id="27"></a><a class="pts-cs" id="bu-
+#. ss.9.2.4"></a><a class="ms-pa" id="ms-pa1652"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:31.1"
+msgid "Pārājikena dhammenāti"
+msgstr "Ofensa parajika, que envolve a expulsão: "
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:31.2"
+msgid "catunnaṃ aññatarena."
+msgstr ""
+"uma das quatro parajika—realizar atos sexuais, tomar aquilo que não foi "
+"oferecido, matar um ser humano ou alegar estados supra-humanos."
+
+#. </span>
+#. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1653"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:32.1"
+msgid "Anuddhaṃseyyāti"
+msgstr "Acusa:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:32.2"
+msgid "codeti vā codāpeti vā."
+msgstr "condena ou faz com que seja condenado."
+
+#. </span>
+#. </p><p><a class="sc" id="29"></a><a class="ms-pa" id="ms-pa1654"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:33.1"
+msgid "Appeva nāma naṃ imamhā brahmacariyā cāveyyanti"
+msgstr "Com o objetivo de fazê-lo deixar a vida monástica: "
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:33.2"
+msgid ""
+"bhikkhubhāvā cāveyyaṃ, samaṇadhammā cāveyyaṃ, sīlakkhandhā cāveyyaṃ, "
+"tapoguṇā cāveyyaṃ."
+msgstr ""
+"visando fazê-lo deixar de ser um bhikkhu, deixar de ser um contemplativo, "
+"abandonar sua virtude, abandonar os benefícios da vida santa ou "
+"contemplativa."
+
+#. </span>
+#. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1655"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:34.1"
+msgid "Tato aparena samayenāti"
+msgstr "E em seguida depois de algum tempo: "
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:34.2"
+msgid ""
+"yasmiṃ khaṇe anuddhaṃsito hoti, taṃ khaṇaṃ taṃ layaṃ taṃ muhuttaṃ vītivatte."
+msgstr "um momento, um instante, um segundo após a acusação ter sido feita."
+
+#. </span>
+#. </p><p><a class="sc" id="31"></a><a class="ms-pa" id="ms-pa1656"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:35.1"
+msgid "Sama­nug­gāhīya­mānoti"
+msgstr "Tendo ele sido questionado:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:35.2"
+msgid "yena vatthunā anuddhaṃsito hoti tasmiṃ vatthusmiṃ sama­nug­gāhīya­māno."
+msgstr "ele é questionado sobre os motivos de sua acusação."
+
+#. </span>
+#. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms-pa1657"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:36.1"
+msgid "Asama­nug­gāhīya­mānoti"
+msgstr "Ou não:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:36.2"
+msgid "na kenaci vuccamāno."
+msgstr "ele não é questionado por ninguém."
+
+#. </span>
+#. </p><p><a class="sc" id="33"></a><a class="ms-pa" id="ms-pa1658"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:37.1"
+msgid "Adhikaraṇaṃ nāma"
+msgstr "A acusação:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:37.2"
+msgid "cattāri adhikaraṇāni—"
+msgstr "existem quatro tipos de acusações: "
+
+msgctxt "pi-tv-bu-vb-ss9:37.3"
+msgid ""
+"vivā­dādhika­ra­ṇaṃ, anuvā­dādhika­ra­ṇaṃ, āpat­tādhika­ra­ṇaṃ, "
+"kic­cādhika­ra­ṇaṃ."
+msgstr ""
+"acusações devido a disputas, acusações devido a denúncias, acusações devido "
+"a ofensas, acusações devido a protocolos."
+
+#. </span>
+#. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms-pa1659"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:38.1"
+msgid "Koci deso lesamatto upādinnoti"
+msgstr "Usando uma questão não relacionada como pretexto:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:38.2"
+msgid "tesaṃ lesānaṃ aññataro leso upādinno hoti."
+msgstr "ele usa um dos pretexto listados acima."
+
+#. </span>
+#. </p><p><a class="sc" id="35"></a><a class="ms-pa" id="ms-pa1660"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:39.1"
+msgid "Bhikkhu ca dosaṃ patiṭṭhātīti"
+msgstr "Ele admite ter sido motivado pela raiva:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:39.2"
+msgid ""
+"tucchakaṃ mayā bhaṇitaṃ, musā mayā bhaṇitaṃ, abhūtaṃ mayā bhaṇitaṃ, "
+"ajānantena mayā bhaṇitaṃ."
+msgstr ""
+" ele admite que o que foi dito foi em vão, era falso, não era real; ou que o "
+"disse sem ter sem certeza."
+
+#. </span>
+#. </p><p><a class="sc" id="36"></a><a class="ms-pa" id="ms-pa1661"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss9:40.1"
+msgid "Saṃghādisesoti"
+msgstr "Uma ofensa sanghadisesa, séria e que envolve a suspensão:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss9:40.2"
+msgid "… pe … tenapi vuccati “saṃghādiseso”ti."
+msgstr ""
+"... Desta forma, igualmente, isto é o que se entende por cometer uma ofensa "
+"sanghadisesa, séria e que envolve a suspensão”."
+
+#. </span>
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss9:41.1"
+msgid ""
+msgstr "Permutações"
+
+#. </h2><h5>
+msgctxt "pi-tv-bu-vb-ss9:41.2"
+msgid ""
+msgstr "Fazendo a acusação ele mesmo"
+
+#. </h5><p><a class="sc" id="37"></a><a class="pts-cs-empty" id="bu-
+#. ss.9.3"></a><a class="pts-cs" id="bu-ss.9.3.1"></a><a class="ms-pa" id="ms-
+#. pa1662"></a>
+msgctxt "pi-tv-bu-vb-ss9:41.3"
+msgid ""
+"Bhikkhu saṃghādisesaṃ ajjhāpajjanto diṭṭho hoti, saṃghādisese "
+"saṃ­ghā­di­sesa­diṭṭhi hoti."
+msgstr ""
+"Um bhikkhu vê um outro bhikkhu cometer uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão. O primeiro bhikkhu entende como sendo uma ofensa "
+"sanghadisesa."
+
+msgctxt "pi-tv-bu-vb-ss9:41.4"
+msgid "Tañce pārājikena codeti—"
+msgstr ""
+"Se ele então vai e acusa este de ter cometido uma ofensa parajika, dizendo:"
+
+msgctxt "pi-tv-bu-vb-ss9:41.5"
+msgid "“assamaṇosi, asakya­putti­yosi,"
+msgstr "“Você não é mais um contemplativo, um filho do Sákya;"
+
+msgctxt "pi-tv-bu-vb-ss9:41.6"
+msgid "natthi tayā saddhiṃ uposatho vā pavāraṇā vā saṃghakammaṃ vā”ti,"
+msgstr ""
+"você está excluído da observância do uposatha, da cerimônia de abertura do "
+"retiro das chuvas, e também dos procedimentos formais da Sangha”,"
+
+msgctxt "pi-tv-bu-vb-ss9:41.7"
+msgid ""
+"evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"usando desta forma uma ofensa não relacionada como pretexto, ele comete uma "
+"ofensa sanghadisesa para cada instrução."
+
+#. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms-pa1663"></a><a
+#. class="pts-vp-en" id="bd.1.294"></a>
+msgctxt "pi-tv-bu-vb-ss9:42.1"
+msgid ""
+"Bhikkhu saṃghādisesaṃ ajjhāpajjanto diṭṭho hoti, saṃghādisese thullac­caya­"
+"diṭṭhi hoti … pe …"
+msgstr ""
+"Um bhikkhu vê um outro bhikkhu cometer uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão. O primeiro bhikkhu entende como sendo uma ofensa "
+"thullaccaya, uma ofensa grave …"
+
+msgctxt "pi-tv-bu-vb-ss9:42.2"
+msgid "pācit­ti­yadiṭ­ṭhi hoti …"
+msgstr "uma ofensa pacittiya, que requer confissão … "
+
+msgctxt "pi-tv-bu-vb-ss9:42.3"
+msgid "pāṭi­de­sanīya­diṭṭhi hoti …"
+msgstr "uma ofensa patidesaniya, de mau comportamento …"
+
+msgctxt "pi-tv-bu-vb-ss9:42.4"
+msgid "dukkaṭadiṭṭhi hoti …"
+msgstr "uma ofensa dukkata, de transgressão …"
+
+msgctxt "pi-tv-bu-vb-ss9:42.5"
+msgid "dub­bhāsi­ta­diṭṭhi hoti."
+msgstr "uma ofensa dubbhasita, relacionada com a linguagem incorreta …"
+
+msgctxt "pi-tv-bu-vb-ss9:42.6"
+msgid "Tañce pārājikena codeti—"
+msgstr ""
+"Se ele então vai e acusa este de ter cometido uma ofensa parajika, dizendo:"
+
+msgctxt "pi-tv-bu-vb-ss9:42.7"
+msgid "“assamaṇosi … pe …"
+msgstr "Você não é mais um contemplativo ..."
+
+msgctxt "pi-tv-bu-vb-ss9:42.8"
+msgid ""
+"evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"usando desta forma uma ofensa não relacionada como pretexto, ele comete uma "
+"ofensa sanghadisesa para cada instrução."
+
+#. </p><p><a class="sc" id="39"></a><a class="ms-pa" id="ms-pa1664"></a>
+msgctxt "pi-tv-bu-vb-ss9:43.1"
+msgid ""
+"Bhikkhu thullaccayaṃ ajjhāpajjanto diṭṭho hoti thullaccaye thullac­caya­"
+"diṭṭhi hoti … pe …"
+msgstr ""
+"Um bhikkhu vê um outro bhikkhu cometer uma ofensa thullaccaya, uma ofensa "
+"grave. O primeiro bhikkhu entende como sendo uma ofensa thullaccaya, uma "
+"ofensa grave …"
+
+msgctxt "pi-tv-bu-vb-ss9:43.2"
+msgid "thullaccaye pācit­ti­yadiṭ­ṭhi hoti …"
+msgstr ""
+"No entanto, o primeiro bhikkhu entende como sendo uma ofensa pacittiya, que "
+"requer confissão …"
+
+msgctxt "pi-tv-bu-vb-ss9:43.3"
+msgid "pāṭi­de­sanīya­diṭṭhi hoti …"
+msgstr " uma ofensa patidesaniya, de mau comportamento …"
+
+msgctxt "pi-tv-bu-vb-ss9:43.4"
+msgid "dukkaṭadiṭṭhi hoti …"
+msgstr "uma ofensa dukkata, de transgressão …"
+
+msgctxt "pi-tv-bu-vb-ss9:43.5"
+msgid "dub­bhāsi­ta­diṭṭhi hoti …"
+msgstr "uma ofensa dubbhasita, relacionada com a linguagem incorreta …"
+
+msgctxt "pi-tv-bu-vb-ss9:43.6"
+msgid "saṃ­ghā­di­sesa­diṭṭhi hoti."
+msgstr "uma ofensa sanghadisesa, séria e que envolve a suspensão."
+
+msgctxt "pi-tv-bu-vb-ss9:43.7"
+msgid "Tañce pārājikena codeti—"
+msgstr ""
+"Se ele então vai e acusa este de ter cometido uma ofensa parajika, dizendo:"
+
+msgctxt "pi-tv-bu-vb-ss9:43.8"
+msgid "“assamaṇosi … pe …"
+msgstr "Você não é mais um contemplativo ..."
+
+msgctxt "pi-tv-bu-vb-ss9:43.9"
+msgid ""
+"evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"usando desta forma uma ofensa não relacionada como pretexto, ele comete uma "
+"ofensa sanghadisesa para cada instrução."
+
+#. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1665"></a>
+msgctxt "pi-tv-bu-vb-ss9:44.1"
+msgid "Bhikkhu pācittiyaṃ … pe …"
+msgstr ""
+"Um bhikkhu vê um outro bhikkhu cometer uma ofensa pacittiya, que requer "
+"confissão …"
+
+msgctxt "pi-tv-bu-vb-ss9:44.2"
+msgid "pāṭidesanīyaṃ …"
+msgstr "uma ofensa patidesaniya, de mau comportamento …"
+
+msgctxt "pi-tv-bu-vb-ss9:44.3"
+msgid "dukkaṭaṃ …"
+msgstr "uma ofensa dukkata, de transgressão …"
+
+msgctxt "pi-tv-bu-vb-ss9:44.4"
+msgid ""
+"dubbhāsitaṃ ajjhāpajjanto diṭṭho hoti, dubbhāsite dub­bhāsi­ta­diṭṭhi hoti … "
+"pe …"
+msgstr "uma ofensa dubbhasita, relacionada com a linguagem incorreta."
+
+msgctxt "pi-tv-bu-vb-ss9:44.5"
+msgid "dubbhāsite saṃ­ghā­di­sesa­diṭṭhi hoti …"
+msgstr ""
+"O primeiro bhikkhu entende como sendo uma uma ofensa sanghadisesa, séria e "
+"que envolve a suspensão. …"
+
+msgctxt "pi-tv-bu-vb-ss9:44.6"
+msgid "thullac­caya­diṭṭhi hoti …"
+msgstr "uma ofensa thullaccaya, uma ofensa grave …"
+
+msgctxt "pi-tv-bu-vb-ss9:44.7"
+msgid "pācit­ti­yadiṭ­ṭhi hoti …"
+msgstr "uma ofensa pacittiya, que requer confissão …"
+
+msgctxt "pi-tv-bu-vb-ss9:44.8"
+msgid "pāṭi­de­sanīya­diṭṭhi hoti …"
+msgstr "uma ofensa patidesaniya, de mau comportamento …"
+
+msgctxt "pi-tv-bu-vb-ss9:44.9"
+msgid "dukkaṭadiṭṭhi hoti."
+msgstr "uma ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss9:44.10"
+msgid "Tañce pārājikena codeti—"
+msgstr ""
+"Se ele então vai e acusa este de ter cometido uma ofensa parajika, dizendo:"
+
+msgctxt "pi-tv-bu-vb-ss9:44.11"
+msgid "“assamaṇosi, asakya­putti­yosi,"
+msgstr "“Você não é mais um contemplativo, um filho do Sákya;"
+
+msgctxt "pi-tv-bu-vb-ss9:44.12"
+msgid "natthi tayā saddhiṃ uposatho vā pavāraṇā vā saṃghakammaṃ vā”ti,"
+msgstr ""
+"você está excluído da observância do uposatha, da cerimônia de abertura do "
+"retiro das chuvas, e também dos procedimentos formais da Sangha.”"
+
+msgctxt "pi-tv-bu-vb-ss9:44.13"
+msgid ""
+"evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"usando desta forma uma ofensa não relacionada como pretexto, ele comete uma "
+"ofensa sanghadisesa para cada instrução."
+
+#. </p><p class="endsection"><a class="sc" id="41"></a><a class="ms-pa"
+#. id="ms-pa1666"></a>
+msgctxt "pi-tv-bu-vb-ss9:45.1"
+msgid "Ekekaṃ mūlaṃ kātuna cakkaṃ bandhitabbaṃ."
+msgstr "A série de permutações é expandida tomando os itens um a um."
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss9:46.1"
+msgid ""
+msgstr "Arranjando um terceiro para fazer a acusação"
+
+#. </h5><p><a class="sc" id="42"></a><a class="pts-cs" id="bu-ss.9.3.2"></a><a
+#. class="ms-pa" id="ms-pa1667"></a>
+msgctxt "pi-tv-bu-vb-ss9:46.2"
+msgid ""
+"Bhikkhu saṃghādisesaṃ ajjhāpajjanto diṭṭho hoti saṃghādisese saṃ­ghā­di­sesa­"
+"diṭṭhi hoti."
+msgstr ""
+"Um bhikkhu vê um outro bhikkhu cometer uma ofensa sanghadisesa e o primeiro "
+"bhikkhu entende como sendo uma ofensa sanghadisesa."
+
+msgctxt "pi-tv-bu-vb-ss9:46.3"
+msgid "Tañce pārājikena codāpeti—"
+msgstr ""
+"Se ele então vai e acusa este de ter cometido uma ofensa parajika, dizendo:"
+
+msgctxt "pi-tv-bu-vb-ss9:46.4"
+msgid "“assamaṇosi … pe …"
+msgstr "“Você não é mais um contemplativo ...”"
+
+msgctxt "pi-tv-bu-vb-ss9:46.5"
+msgid ""
+"evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"usando desta forma uma ofensa não relacionada como pretexto, ele comete uma "
+"ofensa sanghadisesa para cada instrução."
+
+#. </p><p><a class="sc" id="43"></a><a class="ms-pa" id="ms-pa1668"></a><a
+#. class="pts-vp-en" id="bd.1.295"></a>
+msgctxt "pi-tv-bu-vb-ss9:47.1"
+msgid ""
+"Bhikkhu saṃghādisesaṃ ajjhāpajjanto diṭṭho hoti, saṃghādisese thullac­caya­"
+"diṭṭhi hoti … pe …"
+msgstr ""
+"Um bhikkhu vê um outro bhikkhu cometer uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão. O primeiro bhikkhu entende como sendo uma ofensa "
+"thullaccaya, uma ofensa grave …"
+
+msgctxt "pi-tv-bu-vb-ss9:47.2"
+msgid "pācit­ti­yadiṭ­ṭhi hoti …"
+msgstr "uma ofensa pacittiya, que requer confissão …"
+
+msgctxt "pi-tv-bu-vb-ss9:47.3"
+msgid "pāṭi­de­sanīya­diṭṭhi hoti …"
+msgstr "uma ofensa patidesaniya, de mau comportamento …"
+
+msgctxt "pi-tv-bu-vb-ss9:47.4"
+msgid "dukkaṭadiṭṭhi hoti …"
+msgstr "uma ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss9:47.5"
+msgid "dub­bhāsi­ta­diṭṭhi hoti."
+msgstr ""
+"No entanto, o primeiro bhikkhu entende como sendo uma ofensa dubbhasita, "
+"relacionada com a linguagem incorreta …"
+
+msgctxt "pi-tv-bu-vb-ss9:47.6"
+msgid "Tañce pārājikena codāpeti—"
+msgstr ""
+"Se ele então vai e acusa este de ter cometido uma ofensa parajika, dizendo:"
+
+msgctxt "pi-tv-bu-vb-ss9:47.7"
+msgid "“assamaṇosi … pe …"
+msgstr "“Você não é mais um contemplativo ...”"
+
+msgctxt "pi-tv-bu-vb-ss9:47.8"
+msgid ""
+"evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"usando desta forma uma ofensa não relacionada como pretexto, ele comete uma "
+"ofensa sanghadisesa para cada instrução."
+
+#. </p><p><a class="sc" id="44"></a><a class="ms-pa" id="ms-pa1669"></a>
+msgctxt "pi-tv-bu-vb-ss9:48.1"
+msgid ""
+"Bhikkhu thullaccayaṃ ajjhāpajjanto diṭṭho hoti thullaccaye thullac­caya­"
+"diṭṭhi hoti … pe …"
+msgstr ""
+"Um bhikkhu vê um outro bhikkhu cometer uma ofensa thullaccaya, uma ofensa "
+"grave. O primeiro bhikkhu entende como sendo uma ofensa thullaccaya, uma "
+"ofensa grave …"
+
+msgctxt "pi-tv-bu-vb-ss9:48.2"
+msgid "thullaccaye pācit­ti­yadiṭ­ṭhi hoti …"
+msgstr ""
+"No entanto, o primeiro bhikkhu entende como sendo uma ofensa pacittiya, que "
+"requer confissão …"
+
+msgctxt "pi-tv-bu-vb-ss9:48.3"
+msgid "pāṭi­de­sanīya­diṭṭhi hoti …"
+msgstr " uma ofensa patidesaniya, de mau comportamento …"
+
+msgctxt "pi-tv-bu-vb-ss9:48.4"
+msgid "dukkaṭadiṭṭhi hoti …"
+msgstr "uma ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss9:48.5"
+msgid "dub­bhāsi­ta­diṭṭhi hoti …"
+msgstr ""
+"No entanto, o primeiro bhikkhu entende como sendo uma ofensa dubbhasita, "
+"relacionada com a linguagem incorreta …"
+
+msgctxt "pi-tv-bu-vb-ss9:48.6"
+msgid "saṃ­ghā­di­sesa­diṭṭhi hoti."
+msgstr "uma ofensa sanghadisesa, séria e que envolve a suspensão."
+
+msgctxt "pi-tv-bu-vb-ss9:48.7"
+msgid "Tañce pārājikena codāpeti—"
+msgstr ""
+"Se ele então vai e acusa este de ter cometido uma ofensa parajika, dizendo:"
+
+msgctxt "pi-tv-bu-vb-ss9:48.8"
+msgid "“assamaṇosi … pe …"
+msgstr "“Você não é mais um contemplativo ...”"
+
+msgctxt "pi-tv-bu-vb-ss9:48.9"
+msgid ""
+"evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"usando desta forma uma ofensa não relacionada como pretexto, ele comete uma "
+"ofensa sanghadisesa para cada instrução."
+
+#. </p><p><a class="sc" id="45"></a><a class="ms-pa" id="ms-pa1670"></a>
+msgctxt "pi-tv-bu-vb-ss9:49.1"
+msgid "Bhikkhu pācittiyaṃ … pe …"
+msgstr ""
+"Um bhikkhu vê um outro bhikkhu cometer uma ofensa pacittiya, que requer "
+"confissão …"
+
+msgctxt "pi-tv-bu-vb-ss9:49.2"
+msgid "pāṭidesanīyaṃ …"
+msgstr "uma ofensa patidesaniya, de mau comportamento …"
+
+msgctxt "pi-tv-bu-vb-ss9:49.3"
+msgid "dukkaṭaṃ …"
+msgstr "uma ofensa dukkata, de transgressão …"
+
+msgctxt "pi-tv-bu-vb-ss9:49.4"
+msgid ""
+"dubbhāsitaṃ ajjhāpajjanto diṭṭho hoti dubbhāsite dub­bhāsi­ta­diṭṭhi hoti … "
+"pe …"
+msgstr "uma ofensa dubbhasita, relacionada com a linguagem incorreta ..."
+
+msgctxt "pi-tv-bu-vb-ss9:49.5"
+msgid "dubbhāsite saṃ­ghā­di­sesa­diṭṭhi hoti …"
+msgstr ""
+"O primeiro bhikkhu entende como sendo uma uma ofensa sanghadisesa, séria e "
+"que envolve a suspensão. …"
+
+msgctxt "pi-tv-bu-vb-ss9:49.6"
+msgid "thullac­caya­diṭṭhi hoti …"
+msgstr "uma ofensa thullaccaya, uma ofensa grave …"
+
+msgctxt "pi-tv-bu-vb-ss9:49.7"
+msgid "pācit­ti­yadiṭ­ṭhi hoti …"
+msgstr "uma ofensa pacittiya, que requer confissão …"
+
+msgctxt "pi-tv-bu-vb-ss9:49.8"
+msgid "pāṭi­de­sanīya­diṭṭhi hoti …"
+msgstr " uma ofensa patidesaniya, de mau comportamento …"
+
+msgctxt "pi-tv-bu-vb-ss9:49.9"
+msgid "dukkaṭadiṭṭhi hoti."
+msgstr "uma ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss9:49.10"
+msgid "Tañce pārājikena codāpeti—"
+msgstr ""
+"Se ele então vai e acusa este de ter cometido uma ofensa parajika, dizendo:"
+
+msgctxt "pi-tv-bu-vb-ss9:49.11"
+msgid "“assamaṇosi, asakya­putti­yosi,"
+msgstr "“Você não é mais um contemplativo, um filho do Sákya;"
+
+msgctxt "pi-tv-bu-vb-ss9:49.12"
+msgid "natthi tayā saddhiṃ uposatho vā pavāraṇā vā saṃghakammaṃ vā”ti,"
+msgstr ""
+"você está excluído da observância do uposatha, da cerimônia de abertura do "
+"retiro das chuvas, e também dos procedimentos formais da Sangha.”"
+
+msgctxt "pi-tv-bu-vb-ss9:49.13"
+msgid ""
+"evampi āpattañ­ña­bhāgi­yaṃ hoti leso ca upādinno, āpatti vācāya, vācāya "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"usando desta forma uma ofensa não relacionada como pretexto, ele comete uma "
+"ofensa sanghadisesa para cada instrução."
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss9:50.1"
+msgid ""
+msgstr "Quando não é uma ofensa"
+
+#. </h2><p><a class="sc" id="46"></a><a class="pts-cs" id="bu-ss.9.3.3"></a><a
+#. class="ms-pa" id="ms-pa1671"></a>
+msgctxt "pi-tv-bu-vb-ss9:50.2"
+msgid "Anāpatti—"
+msgstr "Não há ofensa quando: "
+
+msgctxt "pi-tv-bu-vb-ss9:50.3"
+msgid "tathāsaññī codeti vā codāpeti vā,"
+msgstr ""
+"se ele acusa ou arranja um terceiro para fazer uma acusação de acordo com "
+"sua própria percepção;"
+
+msgctxt "pi-tv-bu-vb-ss9:50.4"
+msgid "ummattakassa,"
+msgstr "o indivíduo se encontra louco;"
+
+msgctxt "pi-tv-bu-vb-ss9:50.5"
+msgid "ādi­kammi­kas­sāti."
+msgstr "ele é o primeiro a cometer a ofensa."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="47"></a><a class="ms-pa"
+#. id="ms-pa1672"></a>
+msgctxt "pi-tv-bu-vb-ss9:51.1"
+msgid "(Aññabhāgiya) Kiñci­lesa­sikkhā­padaṃ niṭṭhitaṃ navamaṃ."
+msgstr ""
+"A nona regra de treinamento sanghadisesa—sobre a acusação sob influência da "
+"raiva e tendo uma ofensa não relacionada como pretexto—se encerra aqui."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span
+#. class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya
+#. Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The
+#. Book of the Discipline</cite>, can be downloaded <a
+#. href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons
+#. Attribution-NonCommercial 3.0 licence (<a
+#. href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC
+#. 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any
+#. medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the
+#. material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the
+#. license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit,
+#. provide a link to the license, and indicate if changes were made. You may
+#. do so in any reasonable manner, but not in any way that suggests the
+#. licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for
+#. commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal
+#. terms or technological measures that legally restrict others from doing
+#. anything the license permits.</li></ul></aside></section>
+#. </div></body></html>
+msgctxt "pi-tv-bu-vb-ss9:51.2"
+msgid ""
+msgstr " "

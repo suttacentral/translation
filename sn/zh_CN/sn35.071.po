@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /zh_CN/sn/sn35.071.po\n"
+"X-Pootle-Revision: 39610\n"
+
+#. <section class="sutta" id="sn35.71"><article><div class="hgroup"><p class="division">
+msgctxt "sn35.71:0.1"
+msgid "Saṃyutta Nikāya 35"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn35.71:0.2"
+msgid "7. Migajālavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 71. Paṭhamachaphassāyatanasutta → chaphassāyatanikā 1 (pts1)
+msgctxt "sn35.71:0.3"
+msgid "71. Paṭhamachaphassāyatanasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn35.71:1.1"
+msgid ""
+"“Yo hi koci, bhikkhave, bhikkhu channaṃ phassāyatanānaṃ samudayañca "
+"atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti."
+msgstr ""
+
+msgctxt "sn35.71:1.2"
+msgid "Avusitaṃ tena brahmacariyaṃ, ārakā so imasmā dhammavinayā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn35.71:2.1"
+msgid "Evaṃ vutte, aññataro bhikkhu bhagavantaṃ etadavoca:"
+msgstr ""
+
+#. VAR: anassasaṃ → anassāsiṃ (bj, pts1) | anassāsaṃ (s1-3, km)
+msgctxt "sn35.71:2.2"
+msgid "“etthāhaṃ, bhante, anassasaṃ."
+msgstr ""
+
+msgctxt "sn35.71:2.3"
+msgid ""
+"Ahañhi, bhante, channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca "
+"ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāmī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn35.71:3.1"
+msgid "“Taṃ kiṃ maññasi, bhikkhu, "
+msgstr ""
+
+msgctxt "sn35.71:3.2"
+msgid "cakkhuṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassasī”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn35.71:4.1"
+msgid "“No hetaṃ, bhante”."
+msgstr ""
+
+# BB has “you should …” but the text has bhavissati. This is unusual in such a context, and I think it is a specific encouragement for the depressed monk. This would be an example of the Buddha’s knowledge of “where all paths lead”.
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn35.71:5.1"
+msgid ""
+"“Sādhu, bhikkhu, ettha ca te, bhikkhu, cakkhu ‘netaṃ mama, nesohamasmi, na "
+"meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya sudiṭṭhaṃ bhavissati."
+msgstr ""
+
+msgctxt "sn35.71:5.2"
+msgid "Esevanto dukkhassa … pe …"
+msgstr ""
+
+msgctxt "sn35.71:5.3"
+msgid "jivhaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassasī”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn35.71:6.1"
+msgid "“No hetaṃ, bhante”."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn35.71:7.1"
+msgid ""
+"“Sādhu, bhikkhu, ettha ca te, bhikkhu, jivhā ‘netaṃ mama, nesohamasmi, na "
+"meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya sudiṭṭhaṃ bhavissati."
+msgstr ""
+
+msgctxt "sn35.71:7.2"
+msgid "Esevanto dukkhassa … pe …"
+msgstr ""
+
+msgctxt "sn35.71:7.3"
+msgid "manaṃ ‘etaṃ mama, esohamasmi, eso me attā’ti samanupassasī”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "sn35.71:8.1"
+msgid "“No hetaṃ, bhante”."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn35.71:9.1"
+msgid ""
+"“Sādhu, bhikkhu, ettha ca te, bhikkhu, mano ‘netaṃ mama, nesohamasmi, na "
+"meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya sudiṭṭhaṃ bhavissati."
+msgstr ""
+
+msgctxt "sn35.71:9.2"
+msgid "Esevanto dukkhassā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn35.71:9.3"
+msgid "Navamaṃ."
+msgstr ""

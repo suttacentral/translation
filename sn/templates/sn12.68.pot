@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn12.68.pot\n"
+"X-Pootle-Revision: 17828\n"
+
+#. <section class="sutta" id="sn12.68"><article><div class="hgroup"><p class="division">
+msgctxt "sn12.68:0.1"
+msgid "Saṃyutta Nikāya 12"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn12.68:0.2"
+msgid "7. Mahāvagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn12.68:0.3"
+msgid "68. Kosambisutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+#. VAR: musilo → mūsīlo (bj) | musīlo (pts1-2)
+#. VAR: paviṭṭho → saviṭṭho (bj, pts1-2)
+msgctxt "sn12.68:1.1"
+msgid ""
+"Ekaṃ samayaṃ āyasmā ca musilo āyasmā ca paviṭṭho āyasmā ca nārado āyasmā ca "
+"ānando kosambiyaṃ viharanti ghositārāme."
+msgstr ""
+
+msgctxt "sn12.68:1.2"
+msgid "Atha kho āyasmā paviṭṭho āyasmantaṃ musilaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn12.68:1.3"
+msgid ""
+"“aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:1.4"
+msgid "‘jātipaccayā jarāmaraṇan’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:1.5"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:1.6"
+msgid "‘jātipaccayā jarāmaraṇan’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.116"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn12.68:2.1"
+msgid ""
+"“Aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:2.2"
+msgid "‘bhavapaccayā jātīti … pe …"
+msgstr ""
+
+msgctxt "sn12.68:2.3"
+msgid "upādānapaccayā bhavoti …"
+msgstr ""
+
+msgctxt "sn12.68:2.4"
+msgid "taṇhāpaccayā upādānanti …"
+msgstr ""
+
+msgctxt "sn12.68:2.5"
+msgid "vedanāpaccayā taṇhāti …"
+msgstr ""
+
+msgctxt "sn12.68:2.6"
+msgid "phassapaccayā vedanāti …"
+msgstr ""
+
+msgctxt "sn12.68:2.7"
+msgid "saḷāyatanapaccayā phassoti …"
+msgstr ""
+
+msgctxt "sn12.68:2.8"
+msgid "nāmarūpapaccayā saḷāyatananti …"
+msgstr ""
+
+msgctxt "sn12.68:2.9"
+msgid "viññāṇapaccayā nāmarūpanti …"
+msgstr ""
+
+msgctxt "sn12.68:2.10"
+msgid "saṅkhārapaccayā viññāṇanti …"
+msgstr ""
+
+msgctxt "sn12.68:2.11"
+msgid "avijjāpaccayā saṅkhārā’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:2.12"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:2.13"
+msgid "‘avijjāpaccayā saṅkhārā’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn12.68:3.1"
+msgid ""
+"“Aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:3.2"
+msgid "‘jātinirodhā jarāmaraṇanirodho’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:3.3"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:3.4"
+msgid "‘jātinirodhā jarāmaraṇanirodho’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.117"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn12.68:4.1"
+msgid ""
+"“Aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:4.2"
+msgid "‘bhavanirodhā jātinirodhoti … pe …"
+msgstr ""
+
+msgctxt "sn12.68:4.3"
+msgid "upādānanirodhā bhavanirodhoti …"
+msgstr ""
+
+msgctxt "sn12.68:4.4"
+msgid "taṇhānirodhā upādānanirodhoti …"
+msgstr ""
+
+msgctxt "sn12.68:4.5"
+msgid "vedanānirodhā taṇhānirodhoti …"
+msgstr ""
+
+msgctxt "sn12.68:4.6"
+msgid "phassanirodhā vedanānirodhoti …"
+msgstr ""
+
+msgctxt "sn12.68:4.7"
+msgid "saḷāyatananirodhā phassanirodhoti …"
+msgstr ""
+
+msgctxt "sn12.68:4.8"
+msgid "nāmarūpanirodhā saḷāyatananirodhoti …"
+msgstr ""
+
+msgctxt "sn12.68:4.9"
+msgid "viññāṇanirodhā nāmarūpanirodhoti …"
+msgstr ""
+
+msgctxt "sn12.68:4.10"
+msgid "saṅkhāranirodhā viññāṇanirodhoti …"
+msgstr ""
+
+msgctxt "sn12.68:4.11"
+msgid "avijjānirodhā saṅkhāranirodho’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:4.12"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:4.13"
+msgid "‘avijjānirodhā saṅkhāranirodho’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn12.68:5.1"
+msgid ""
+"“Aññatreva, āvuso musila, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato musilassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:5.2"
+msgid "‘bhavanirodho nibbānan’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:5.3"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:5.4"
+msgid "‘bhavanirodho nibbānan’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn12.68:6.1"
+msgid "“Tenahāyasmā musilo arahaṃ khīṇāsavo”ti?"
+msgstr ""
+
+msgctxt "sn12.68:6.2"
+msgid "Evaṃ vutte, āyasmā musilo tuṇhī ahosi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn12.68:7.1"
+msgid "Atha kho āyasmā nārado āyasmantaṃ paviṭṭhaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn12.68:7.2"
+msgid "“sādhāvuso paviṭṭha, ahaṃ etaṃ pañhaṃ labheyyaṃ."
+msgstr ""
+
+msgctxt "sn12.68:7.3"
+msgid "Maṃ etaṃ pañhaṃ puccha."
+msgstr ""
+
+msgctxt "sn12.68:7.4"
+msgid "Ahaṃ te etaṃ pañhaṃ byākarissāmī”ti."
+msgstr ""
+
+msgctxt "sn12.68:7.5"
+msgid "“Labhatāyasmā nārado etaṃ pañhaṃ."
+msgstr ""
+
+msgctxt "sn12.68:7.6"
+msgid "Pucchāmahaṃ āyasmantaṃ nāradaṃ etaṃ pañhaṃ."
+msgstr ""
+
+msgctxt "sn12.68:7.7"
+msgid "Byākarotu ca me āyasmā nārado etaṃ pañhaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "sn12.68:8.1"
+msgid ""
+"Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:8.2"
+msgid "‘jātipaccayā jarāmaraṇan’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:8.3"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:8.4"
+msgid "‘jātipaccayā jarāmaraṇan’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn12.68:9.1"
+msgid ""
+"“Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa "
+"paccattameva ñāṇaṃ—"
+msgstr ""
+
+msgctxt "sn12.68:9.2"
+msgid "bhavapaccayā jāti … pe …"
+msgstr ""
+
+msgctxt "sn12.68:9.3"
+msgid "avijjāpaccayā saṅkhārā”ti?"
+msgstr ""
+
+msgctxt "sn12.68:9.4"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:9.5"
+msgid "‘avijjāpaccayā saṅkhārā’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "sn12.68:10.1"
+msgid ""
+"“Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:10.2"
+msgid "‘jātinirodhā jarāmaraṇanirodho’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:10.3"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:10.4"
+msgid "‘jātinirodhā jarāmaraṇanirodho’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "sn12.68:11.1"
+msgid ""
+"“Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:11.2"
+msgid "‘bhavanirodhā jātinirodhoti … pe …"
+msgstr ""
+
+msgctxt "sn12.68:11.3"
+msgid "avijjānirodhā saṅkhāranirodho’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:11.4"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:11.5"
+msgid "‘avijjānirodhā saṅkhāranirodho’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "sn12.68:12.1"
+msgid ""
+"“Aññatreva, āvuso nārada, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā atthāyasmato nāradassa "
+"paccattameva ñāṇaṃ:"
+msgstr ""
+
+msgctxt "sn12.68:12.2"
+msgid "‘bhavanirodho nibbānan’”ti?"
+msgstr ""
+
+msgctxt "sn12.68:12.3"
+msgid ""
+"“Aññatreva, āvuso paviṭṭha, saddhāya aññatra ruciyā aññatra anussavā aññatra "
+"ākāraparivitakkā aññatra diṭṭhinijjhānakkhantiyā ahametaṃ jānāmi ahametaṃ "
+"passāmi:"
+msgstr ""
+
+msgctxt "sn12.68:12.4"
+msgid "‘bhavanirodho nibbānan’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.118"></a>
+#. <a class="sc" id="sc13"></a>
+msgctxt "sn12.68:13.1"
+msgid "“Tenahāyasmā nārado arahaṃ khīṇāsavo”ti?"
+msgstr ""
+
+msgctxt "sn12.68:13.2"
+msgid ""
+"“‘Bhavanirodho nibbānan’ti kho me, āvuso, yathābhūtaṃ sammappaññāya "
+"sudiṭṭhaṃ, na camhi arahaṃ khīṇāsavo."
+msgstr ""
+
+msgctxt "sn12.68:13.3"
+msgid ""
+"Seyyathāpi, āvuso, kantāramagge udapāno, tatra nevassa rajju na udakavārako."
+msgstr ""
+
+msgctxt "sn12.68:13.4"
+msgid ""
+"Atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito, "
+"so taṃ udapānaṃ olokeyya."
+msgstr ""
+
+msgctxt "sn12.68:13.5"
+msgid "Tassa ‘udakan’ti hi kho ñāṇaṃ assa, na ca kāyena phusitvā vihareyya."
+msgstr ""
+
+msgctxt "sn12.68:13.6"
+msgid ""
+"Evameva kho, āvuso, ‘bhavanirodho nibbānan’ti yathābhūtaṃ sammappaññāya "
+"sudiṭṭhaṃ, na camhi arahaṃ khīṇāsavo”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+msgctxt "sn12.68:14.1"
+msgid "Evaṃ vutte, āyasmā ānando āyasmantaṃ paviṭṭhaṃ etadavoca:"
+msgstr ""
+
+#. VAR: evaṃvādī → evaṃvādiṃ (?)
+msgctxt "sn12.68:14.2"
+msgid "“evaṃvādī tvaṃ, āvuso paviṭṭha, āyasmantaṃ nāradaṃ kiṃ vadesī”ti?"
+msgstr ""
+
+# See BB for notes on the reading. I don’t understand why BB translates “about” here. Normally the accusative is when you speak “to” someone, and as Narada is right there, why would it mean anything else?
+msgctxt "sn12.68:14.3"
+msgid ""
+"“Evaṃvādāhaṃ, āvuso ānanda, āyasmantaṃ nāradaṃ na kiñci vadāmi aññatra "
+"kalyāṇā aññatra kusalā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn12.68:14.4"
+msgid "Aṭṭhamaṃ."
+msgstr ""

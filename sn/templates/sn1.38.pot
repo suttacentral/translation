@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn1.38.pot\n"
+"X-Pootle-Revision: 17532\n"
+
+#. <section class="sutta" id="sn1.38"><article><div class="hgroup"><p class="division">
+msgctxt "sn1.38:0.1"
+msgid "Saṃyutta Nikāya 1"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn1.38:0.2"
+msgid "4. Satullapakāyikavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn1.38:0.3"
+msgid "38. Sakalikasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+#. <span class="evam">
+msgctxt "sn1.38:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "sn1.38:1.2"
+msgid "ekaṃ samayaṃ bhagavā rājagahe viharati maddakucchismiṃ migadāye."
+msgstr ""
+
+# BB has “stone splinter”, but in fact sakalika usually refers to wood. In his notes BB draws the connection between this passage Devadatta’s assault in Kd 17, and this where the “stone” comes from. However the texts don’t make it explicit that this is the same event. There, the splinter is referred to as papatikā, not sakalika, there is no mention of maddakucchi, nor is there a mention that the Buddha was seriously injured. In fact, in the next passage he’s walking for alms in Rajagaha. None of this shows that they were different events, but they do question whether we can rely on it as a fact. There is nothing implausible about the idea that the Buddha might have been injured twice. Anyway, I feel it’s better to avoid specifying “stone”, which is not demanded by the text.
+#. VAR: sakalikāya → sakkhalikāya (mr)
+msgctxt "sn1.38:1.3"
+msgid "Tena kho pana samayena bhagavato pādo sakalikāya khato hoti."
+msgstr ""
+
+#. VAR: tibbā → tippā (s1-3, km)
+msgctxt "sn1.38:1.4"
+msgid ""
+"Bhusā sudaṃ bhagavato vedanā vattanti sārīrikā vedanā dukkhā tibbā kharā "
+"kaṭukā asātā amanāpā;"
+msgstr ""
+
+msgctxt "sn1.38:1.5"
+msgid "tā sudaṃ bhagavā sato sampajāno adhivāseti avihaññamāno."
+msgstr ""
+
+msgctxt "sn1.38:1.6"
+msgid ""
+"Atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññāpetvā dakkhiṇena passena "
+"sīhaseyyaṃ kappeti pāde pādaṃ accādhāya sato sampajāno."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts1ed" id="pts1ed1.28"></a>
+#. <a class="pts2ed" id="pts2ed1.58"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn1.38:2.1"
+msgid ""
+"Atha kho sattasatā satullapakāyikā devatāyo abhikkantāya rattiyā "
+"abhikkantavaṇṇā kevalakappaṃ maddakucchiṃ obhāsetvā yena bhagavā "
+"tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu."
+msgstr ""
+
+msgctxt "sn1.38:2.2"
+msgid "Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ udānaṃ udānesi:"
+msgstr ""
+
+msgctxt "sn1.38:2.3"
+msgid "“nāgo vata, bho, samaṇo gotamo;"
+msgstr ""
+
+# BB discusses several possible ways to construe this phrase, none of which I find particularly compelling. I translate according to the apparent sense.
+msgctxt "sn1.38:2.4"
+msgid ""
+"nāgavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā "
+"amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn1.38:3.1"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
+msgstr ""
+
+msgctxt "sn1.38:3.2"
+msgid "“sīho vata, bho, samaṇo gotamo;"
+msgstr ""
+
+msgctxt "sn1.38:3.3"
+msgid ""
+"sīhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā "
+"amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn1.38:4.1"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
+msgstr ""
+
+msgctxt "sn1.38:4.2"
+msgid "“ājānīyo vata, bho, samaṇo gotamo;"
+msgstr ""
+
+msgctxt "sn1.38:4.3"
+msgid ""
+"ājānīyavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā "
+"amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.59"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn1.38:5.1"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
+msgstr ""
+
+msgctxt "sn1.38:5.2"
+msgid "“nisabho vata, bho, samaṇo gotamo;"
+msgstr ""
+
+msgctxt "sn1.38:5.3"
+msgid ""
+"nisabhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā "
+"amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn1.38:6.1"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
+msgstr ""
+
+# BB uses the traditional rendering of dhorayha as “beast of burden”. But this doesn’t sound very nice in English. The main connotation is not that they are struggling under their load, but that they are powerful, (it’s paired with balasampanno). Behemoth, I think, works reasonably well.
+msgctxt "sn1.38:6.2"
+msgid "“dhorayho vata, bho, samaṇo gotamo;"
+msgstr ""
+
+msgctxt "sn1.38:6.3"
+msgid ""
+"dhorayhavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā "
+"amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn1.38:7.1"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
+msgstr ""
+
+msgctxt "sn1.38:7.2"
+msgid "“danto vata, bho, samaṇo gotamo;"
+msgstr ""
+
+msgctxt "sn1.38:7.3"
+msgid ""
+"dantavatā ca samuppannā sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā "
+"amanāpā sato sampajāno adhivāseti avihaññamāno”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts1ed" id="pts1ed1.29"></a>
+#. <a class="pts2ed" id="pts2ed1.60"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "sn1.38:8.1"
+msgid "Atha kho aparā devatā bhagavato santike imaṃ udānaṃ udānesi:"
+msgstr ""
+
+#. VAR: sasaṅkhāraniggayhavāritagataṃ → sasaṅkhāraniggayhavāritavataṃ (bj, pts2) | sasaṅkhāraniggayha cāritavataṃ (s1-3, km, pts1) | sasaṅkhāraniggayhavārivāvataṃ (mr)
+msgctxt "sn1.38:8.2"
+msgid ""
+"“passa samādhiṃ subhāvitaṃ cittañca suvimuttaṃ, na cābhinataṃ na cāpanataṃ "
+"na ca sasaṅkhāraniggayhavāritagataṃ."
+msgstr ""
+
+msgctxt "sn1.38:8.3"
+msgid ""
+"Yo evarūpaṃ purisanāgaṃ purisasīhaṃ purisaājānīyaṃ purisanisabhaṃ "
+"purisadhorayhaṃ purisadantaṃ atikkamitabbaṃ maññeyya kimaññatra adassanā”ti."
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn1.38:9.1"
+msgid "“Pañcavedā sataṃ samaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:9.2"
+msgid "Tapassī brāhmaṇā caraṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:9.3"
+msgid "Cittañca nesaṃ na sammā vimuttaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:9.4"
+msgid "Hīnattharūpā na pāraṅgamā te."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "sn1.38:10.1"
+msgid "Taṇhādhipannā vatasīlabaddhā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:10.2"
+msgid "Lūkhaṃ tapaṃ vassasataṃ carantā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:10.3"
+msgid "Cittañca nesaṃ na sammā vimuttaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:10.4"
+msgid "Hīnattharūpā na pāraṅgamā te."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.61"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "sn1.38:11.1"
+msgid "Na mānakāmassa damo idhatthi,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:11.2"
+msgid "Na monamatthi asamāhitassa;"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:11.3"
+msgid "Eko araññe viharaṃ pamatto,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:11.4"
+msgid "Na maccudheyyassa tareyya pāran”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "sn1.38:12.1"
+msgid "“Mānaṃ pahāya susamāhitatto,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:12.2"
+msgid "Sucetaso sabbadhi vippamutto;"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:12.3"
+msgid "Eko araññe viharamappamatto,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.38:12.4"
+msgid "Sa maccudheyyassa tareyya pāran”ti."
+msgstr ""

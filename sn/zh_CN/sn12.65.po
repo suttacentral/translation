@@ -1,0 +1,492 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /zh_CN/sn/sn12.65.po\n"
+"X-Pootle-Revision: 38354\n"
+
+#. <section class="sutta" id="sn12.65"><article><div class="hgroup"><p class="division">
+msgctxt "sn12.65:0.1"
+msgid "Saṃyutta Nikāya 12"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn12.65:0.2"
+msgid "7. Mahāvagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn12.65:0.3"
+msgid "65. Nagarasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn12.65:1.1"
+msgid "Sāvatthiyaṃ viharati."
+msgstr ""
+
+msgctxt "sn12.65:1.2"
+msgid ""
+"“Pubbe me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato "
+"etadahosi:"
+msgstr ""
+
+msgctxt "sn12.65:1.3"
+msgid ""
+"‘kicchā vatāyaṃ loko āpanno jāyati ca jīyati ca mīyati ca cavati ca "
+"upapajjati ca."
+msgstr ""
+
+msgctxt "sn12.65:1.4"
+msgid "Atha ca panimassa dukkhassa nissaraṇaṃ nappajānāti jarāmaraṇassa."
+msgstr ""
+
+msgctxt "sn12.65:1.5"
+msgid "Kudāssu nāma imassa dukkhassa nissaraṇaṃ paññāyissati jarāmaraṇassā’ti?"
+msgstr ""
+
+msgctxt "sn12.65:1.6"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+msgctxt "sn12.65:1.7"
+msgid "‘kimhi nu kho sati jarāmaraṇaṃ hoti, kiṃpaccayā jarāmaraṇan’ti?"
+msgstr ""
+
+msgctxt "sn12.65:1.8"
+msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
+msgstr ""
+
+msgctxt "sn12.65:1.9"
+msgid "‘jātiyā kho sati jarāmaraṇaṃ hoti, jātipaccayā jarāmaraṇan’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn12.65:2.1"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+msgctxt "sn12.65:2.2"
+msgid "‘kimhi nu kho sati jāti hoti … pe …"
+msgstr ""
+
+msgctxt "sn12.65:2.3"
+msgid "bhavo hoti …"
+msgstr ""
+
+msgctxt "sn12.65:2.4"
+msgid "upādānaṃ hoti …"
+msgstr ""
+
+msgctxt "sn12.65:2.5"
+msgid "taṇhā hoti …"
+msgstr ""
+
+msgctxt "sn12.65:2.6"
+msgid "vedanā hoti …"
+msgstr ""
+
+msgctxt "sn12.65:2.7"
+msgid "phasso hoti …"
+msgstr ""
+
+msgctxt "sn12.65:2.8"
+msgid "saḷāyatanaṃ hoti …"
+msgstr ""
+
+msgctxt "sn12.65:2.9"
+msgid "nāmarūpaṃ hoti …"
+msgstr ""
+
+msgctxt "sn12.65:2.10"
+msgid "kiṃpaccayā nāmarūpan’ti?"
+msgstr ""
+
+msgctxt "sn12.65:2.11"
+msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
+msgstr ""
+
+msgctxt "sn12.65:2.12"
+msgid "‘viññāṇe kho sati nāmarūpaṃ hoti, viññāṇapaccayā nāmarūpan’ti."
+msgstr ""
+
+msgctxt "sn12.65:2.13"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+msgctxt "sn12.65:2.14"
+msgid "‘kimhi nu kho sati viññāṇaṃ hoti, kiṃpaccayā viññāṇan’ti?"
+msgstr ""
+
+msgctxt "sn12.65:2.15"
+msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
+msgstr ""
+
+msgctxt "sn12.65:2.16"
+msgid "‘nāmarūpe kho sati viññāṇaṃ hoti, nāmarūpapaccayā viññāṇan’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.105"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn12.65:3.1"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi—"
+msgstr ""
+
+# SF 154 has an interesting variant: vijñānātpratyudāvartate mānasaṃ nātaḥ pareṇa vyativartate. see SN 22.90
+msgctxt "sn12.65:3.2"
+msgid "paccudāvattati kho idaṃ viññāṇaṃ nāmarūpamhā na paraṃ gacchati."
+msgstr ""
+
+# BB’s rendering makes it seem that the mutual conditioning clauses are syntactically distinct, and connected to this sentence. This is the case in the related passage at DN 15. But here in the Pali this sentence serves to introduce the entire set of conditions.
+msgctxt "sn12.65:3.3"
+msgid ""
+"Ettāvatā jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā, yadidaṃ "
+"nāmarūpapaccayā viññāṇaṃ;"
+msgstr ""
+
+msgctxt "sn12.65:3.4"
+msgid "viññāṇapaccayā nāmarūpaṃ;"
+msgstr ""
+
+msgctxt "sn12.65:3.5"
+msgid "nāmarūpapaccayā saḷāyatanaṃ;"
+msgstr ""
+
+msgctxt "sn12.65:3.6"
+msgid "saḷāyatanapaccayā phasso … pe …"
+msgstr ""
+
+msgctxt "sn12.65:3.7"
+msgid "evametassa kevalassa dukkhakkhandhassa samudayo hoti."
+msgstr ""
+
+msgctxt "sn12.65:3.8"
+msgid ""
+"‘Samudayo, samudayo’ti kho me, bhikkhave, pubbe ananussutesu dhammesu "
+"cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn12.65:4.1"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+msgctxt "sn12.65:4.2"
+msgid "‘kimhi nu kho asati, jarāmaraṇaṃ na hoti;"
+msgstr ""
+
+msgctxt "sn12.65:4.3"
+msgid "kissa nirodhā jarāmaraṇanirodho’ti?"
+msgstr ""
+
+msgctxt "sn12.65:4.4"
+msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
+msgstr ""
+
+msgctxt "sn12.65:4.5"
+msgid "‘jātiyā kho asati, jarāmaraṇaṃ na hoti;"
+msgstr ""
+
+msgctxt "sn12.65:4.6"
+msgid "jātinirodhā jarāmaraṇanirodho’ti."
+msgstr ""
+
+msgctxt "sn12.65:4.7"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+msgctxt "sn12.65:4.8"
+msgid "‘kimhi nu kho asati jāti na hoti … pe …"
+msgstr ""
+
+msgctxt "sn12.65:4.9"
+msgid "bhavo na hoti …"
+msgstr ""
+
+msgctxt "sn12.65:4.10"
+msgid "upādānaṃ na hoti …"
+msgstr ""
+
+msgctxt "sn12.65:4.11"
+msgid "taṇhā na hoti …"
+msgstr ""
+
+msgctxt "sn12.65:4.12"
+msgid "vedanā na hoti …"
+msgstr ""
+
+msgctxt "sn12.65:4.13"
+msgid "phasso na hoti …"
+msgstr ""
+
+msgctxt "sn12.65:4.14"
+msgid "saḷāyatanaṃ na hoti …"
+msgstr ""
+
+msgctxt "sn12.65:4.15"
+msgid "nāmarūpaṃ na hoti."
+msgstr ""
+
+msgctxt "sn12.65:4.16"
+msgid "Kissa nirodhā nāmarūpanirodho’ti?"
+msgstr ""
+
+msgctxt "sn12.65:4.17"
+msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
+msgstr ""
+
+msgctxt "sn12.65:4.18"
+msgid "‘viññāṇe kho asati, nāmarūpaṃ na hoti;"
+msgstr ""
+
+msgctxt "sn12.65:4.19"
+msgid "viññāṇanirodhā nāmarūpanirodho’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn12.65:5.1"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+msgctxt "sn12.65:5.2"
+msgid "‘kimhi nu kho asati viññāṇaṃ na hoti;"
+msgstr ""
+
+msgctxt "sn12.65:5.3"
+msgid "kissa nirodhā viññāṇanirodho’ti?"
+msgstr ""
+
+msgctxt "sn12.65:5.4"
+msgid "Tassa mayhaṃ, bhikkhave, yoniso manasikārā ahu paññāya abhisamayo:"
+msgstr ""
+
+msgctxt "sn12.65:5.5"
+msgid "‘nāmarūpe kho asati, viññāṇaṃ na hoti;"
+msgstr ""
+
+msgctxt "sn12.65:5.6"
+msgid "nāmarūpanirodhā viññāṇanirodho’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn12.65:6.1"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi—"
+msgstr ""
+
+msgctxt "sn12.65:6.2"
+msgid "adhigato kho myāyaṃ maggo bodhāya yadidaṃ—"
+msgstr ""
+
+msgctxt "sn12.65:6.3"
+msgid "nāmarūpanirodhā viññāṇanirodho;"
+msgstr ""
+
+msgctxt "sn12.65:6.4"
+msgid "viññāṇanirodhā nāmarūpanirodho;"
+msgstr ""
+
+msgctxt "sn12.65:6.5"
+msgid "nāmarūpanirodhā saḷāyatananirodho;"
+msgstr ""
+
+msgctxt "sn12.65:6.6"
+msgid "saḷāyatananirodhā phassanirodho … pe …"
+msgstr ""
+
+msgctxt "sn12.65:6.7"
+msgid "evametassa kevalassa dukkhakkhandhassa nirodho hoti."
+msgstr ""
+
+msgctxt "sn12.65:6.8"
+msgid ""
+"‘Nirodho, nirodho’ti kho me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ "
+"udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.106"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn12.65:7.1"
+msgid ""
+"Seyyathāpi, bhikkhave, puriso araññe pavane caramāno passeyya purāṇaṃ maggaṃ "
+"purāṇañjasaṃ pubbakehi manussehi anuyātaṃ."
+msgstr ""
+
+msgctxt "sn12.65:7.2"
+msgid "So tamanugaccheyya."
+msgstr ""
+
+#. VAR: ajjhāvuṭṭhaṃ → ajjhāvutthaṃ (bj, s1-3, km, pts1-2)
+#. VAR: uddhāpavantaṃ → uddāpaṃ (bj) | uddāpavantaṃ (si, s1-3, km, pts1-2)
+msgctxt "sn12.65:7.3"
+msgid ""
+"Tamanugacchanto passeyya purāṇaṃ nagaraṃ purāṇaṃ rājadhāniṃ pubbakehi "
+"manussehi ajjhāvuṭṭhaṃ ārāmasampannaṃ vanasampannaṃ pokkharaṇīsampannaṃ "
+"uddhāpavantaṃ ramaṇīyaṃ."
+msgstr ""
+
+msgctxt "sn12.65:7.4"
+msgid "Atha kho so, bhikkhave, puriso rañño vā rājamahāmattassa vā āroceyya:"
+msgstr ""
+
+msgctxt "sn12.65:7.5"
+msgid ""
+"‘yagghe, bhante, jāneyyāsi—ahaṃ addasaṃ araññe pavane caramāno purāṇaṃ "
+"maggaṃ purāṇañjasaṃ pubbakehi manussehi anuyātaṃ tamanugacchiṃ."
+msgstr ""
+
+msgctxt "sn12.65:7.6"
+msgid ""
+"Tamanugacchanto addasaṃ purāṇaṃ nagaraṃ purāṇaṃ rājadhāniṃ pubbakehi "
+"manussehi ajjhāvuṭṭhaṃ ārāmasampannaṃ vanasampannaṃ pokkharaṇīsampannaṃ "
+"uddhāpavantaṃ ramaṇīyaṃ."
+msgstr ""
+
+msgctxt "sn12.65:7.7"
+msgid "Taṃ, bhante, nagaraṃ māpehī’ti."
+msgstr ""
+
+msgctxt "sn12.65:7.8"
+msgid "Atha kho so, bhikkhave, rājā vā rājamahāmatto vā taṃ nagaraṃ māpeyya."
+msgstr ""
+
+msgctxt "sn12.65:7.9"
+msgid ""
+"Tadassa nagaraṃ aparena samayena iddhañceva phītañca bāhujaññaṃ "
+"ākiṇṇamanussaṃ vuddhivepullappattaṃ."
+msgstr ""
+
+msgctxt "sn12.65:7.10"
+msgid ""
+"Evameva khvāhaṃ, bhikkhave, addasaṃ purāṇaṃ maggaṃ purāṇañjasaṃ pubbakehi "
+"sammāsambuddhehi anuyātaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.107"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "sn12.65:8.1"
+msgid ""
+"Katamo ca so, bhikkhave, purāṇamaggo purāṇañjaso pubbakehi sammāsambuddhehi "
+"anuyāto?"
+msgstr ""
+
+msgctxt "sn12.65:8.2"
+msgid "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ—"
+msgstr ""
+
+msgctxt "sn12.65:8.3"
+msgid "sammādiṭṭhi … pe … sammāsamādhi."
+msgstr ""
+
+msgctxt "sn12.65:8.4"
+msgid ""
+"Ayaṃ kho so, bhikkhave, purāṇamaggo purāṇañjaso pubbakehi sammāsambuddhehi "
+"anuyāto, tamanugacchiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.5"
+msgid "tamanugacchanto jarāmaraṇaṃ abbhaññāsiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.6"
+msgid "jarāmaraṇasamudayaṃ abbhaññāsiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.7"
+msgid "jarāmaraṇanirodhaṃ abbhaññāsiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.8"
+msgid "jarāmaraṇanirodhagāminiṃ paṭipadaṃ abbhaññāsiṃ."
+msgstr ""
+
+msgctxt "sn12.65:8.9"
+msgid "Tamanugacchiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.10"
+msgid "tamanugacchanto jātiṃ abbhaññāsiṃ … pe …"
+msgstr ""
+
+msgctxt "sn12.65:8.11"
+msgid "bhavaṃ abbhaññāsiṃ …"
+msgstr ""
+
+msgctxt "sn12.65:8.12"
+msgid "upādānaṃ abbhaññāsiṃ …"
+msgstr ""
+
+msgctxt "sn12.65:8.13"
+msgid "taṇhaṃ abbhaññāsiṃ …"
+msgstr ""
+
+msgctxt "sn12.65:8.14"
+msgid "vedanaṃ abbhaññāsiṃ …"
+msgstr ""
+
+msgctxt "sn12.65:8.15"
+msgid "phassaṃ abbhaññāsiṃ …"
+msgstr ""
+
+msgctxt "sn12.65:8.16"
+msgid "saḷāyatanaṃ abbhaññāsiṃ …"
+msgstr ""
+
+msgctxt "sn12.65:8.17"
+msgid "nāmarūpaṃ abbhaññāsiṃ …"
+msgstr ""
+
+msgctxt "sn12.65:8.18"
+msgid "viññāṇaṃ abbhaññāsiṃ."
+msgstr ""
+
+msgctxt "sn12.65:8.19"
+msgid "Tamanugacchiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.20"
+msgid "tamanugacchanto saṅkhāre abbhaññāsiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.21"
+msgid "saṅkhārasamudayaṃ abbhaññāsiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.22"
+msgid "saṅkhāranirodhaṃ abbhaññāsiṃ;"
+msgstr ""
+
+msgctxt "sn12.65:8.23"
+msgid "saṅkhāranirodhagāminiṃ paṭipadaṃ abbhaññāsiṃ."
+msgstr ""
+
+msgctxt "sn12.65:8.24"
+msgid "Tadabhiññāya ācikkhiṃ bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ."
+msgstr ""
+
+msgctxt "sn12.65:8.25"
+msgid ""
+"Tayidaṃ, bhikkhave, brahmacariyaṃ iddhañceva phītañca vitthārikaṃ bāhujaññaṃ "
+"puthubhūtaṃ yāva devamanussehi suppakāsitan”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn12.65:8.26"
+msgid "Pañcamaṃ."
+msgstr ""

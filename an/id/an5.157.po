@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /id/an/an5.157.po\n"
+"X-Pootle-Revision: 23596\n"
+
+#. <section class="sutta" id="an5.157"><article><div class="hgroup"><p class="division">
+msgctxt "an5.157:0.1"
+msgid "Aṅguttara Nikāya 5"
+msgstr ""
+
+#. </p><p>
+msgctxt "an5.157:0.2"
+msgid "16. Saddhammavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an5.157:0.3"
+msgid "157. Dukkathāsutta"
+msgstr ""
+
+# This is a difficult idiom to get right. I follow the Comm. reading of “puggalam puggalam”. BB has “weigh one type of person against the other”. Upanidhaya normally has the meaning of “compare”, but I am not sure how that makes sense here. You’re not comparing people, you’re assessing what is approppriate for this specific person. Comm. says “taṃ taṃ puggalaṃ upanikkhipitvā, sakkhiṃ katvā”, which (I think!) implies specificity rather than distribution, i.e. “examining that specific person”. As for the rest, I have translated according to the sense as best I can. The meaning is clear enough from what follows.
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.181"></a>
+#. <a class="sc" id="sc1"></a>
+#. VAR: puggale puggalaṃ → puggalaṃ puggalaṃ (bj, pts1)
+msgctxt "an5.157:1.1"
+msgid ""
+"“Pañcannaṃ, bhikkhave, puggalānaṃ kathā dukkathā puggale puggalaṃ upanidhāya."
+msgstr ""
+
+msgctxt "an5.157:1.2"
+msgid "Katamesaṃ pañcannaṃ?"
+msgstr ""
+
+msgctxt "an5.157:1.3"
+msgid "Assaddhassa, bhikkhave, saddhākathā dukkathā;"
+msgstr ""
+
+msgctxt "an5.157:1.4"
+msgid "dussīlassa sīlakathā dukkathā;"
+msgstr ""
+
+msgctxt "an5.157:1.5"
+msgid "appassutassa bāhusaccakathā dukkathā;"
+msgstr ""
+
+#. VAR: maccharissa → macchariyassa (bj, pts1, mr)
+msgctxt "an5.157:1.6"
+msgid "maccharissa cāgakathā dukkathā;"
+msgstr ""
+
+msgctxt "an5.157:1.7"
+msgid "duppaññassa paññākathā dukkathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an5.157:2.1"
+msgid "Kasmā ca, bhikkhave, assaddhassa saddhākathā dukkathā?"
+msgstr ""
+
+msgctxt "an5.157:2.2"
+msgid ""
+"Assaddho, bhikkhave, saddhākathāya kacchamānāya abhisajjati kuppati "
+"byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:2.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+#. VAR: na samanupassati → na sampassati (bj)
+msgctxt "an5.157:2.4"
+msgid ""
+"Tañhi so, bhikkhave, saddhāsampadaṃ attani na samanupassati, na ca labhati "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:2.5"
+msgid "Tasmā assaddhassa saddhākathā dukkathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an5.157:3.1"
+msgid "Kasmā ca, bhikkhave, dussīlassa sīlakathā dukkathā?"
+msgstr ""
+
+msgctxt "an5.157:3.2"
+msgid ""
+"Dussīlo, bhikkhave, sīlakathāya kacchamānāya abhisajjati kuppati byāpajjati "
+"patitthīyati kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:3.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:3.4"
+msgid ""
+"Tañhi so, bhikkhave, sīlasampadaṃ attani na samanupassati na ca labhati "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:3.5"
+msgid "Tasmā dussīlassa sīlakathā dukkathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an5.157:4.1"
+msgid "Kasmā ca, bhikkhave, appassutassa bāhusaccakathā dukkathā?"
+msgstr ""
+
+msgctxt "an5.157:4.2"
+msgid ""
+"Appassuto, bhikkhave, bāhusaccakathāya kacchamānāya abhisajjati kuppati "
+"byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:4.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:4.4"
+msgid ""
+"Tañhi so, bhikkhave, sutasampadaṃ attani na samanupassati, na ca labhati "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:4.5"
+msgid "Tasmā appassutassa bāhusaccakathā dukkathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.182"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an5.157:5.1"
+msgid "Kasmā ca, bhikkhave, maccharissa cāgakathā dukkathā?"
+msgstr ""
+
+msgctxt "an5.157:5.2"
+msgid ""
+"Maccharī, bhikkhave, cāgakathāya kacchamānāya abhisajjati kuppati byāpajjati "
+"patitthīyati kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:5.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:5.4"
+msgid ""
+"Tañhi so, bhikkhave, cāgasampadaṃ attani na samanupassati na ca labhati "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:5.5"
+msgid "Tasmā maccharissa cāgakathā dukkathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an5.157:6.1"
+msgid "Kasmā ca, bhikkhave, duppaññassa paññākathā dukkathā?"
+msgstr ""
+
+msgctxt "an5.157:6.2"
+msgid ""
+"Duppañño, bhikkhave, paññākathāya kacchamānāya abhisajjati kuppati "
+"byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:6.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:6.4"
+msgid ""
+"Tañhi so, bhikkhave, paññāsampadaṃ attani na samanupassati, na ca labhati "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:6.5"
+msgid "Tasmā duppaññassa paññākathā dukkathā."
+msgstr ""
+
+msgctxt "an5.157:6.6"
+msgid ""
+"Imesaṃ kho, bhikkhave, pañcannaṃ puggalānaṃ kathā dukkathā puggale puggalaṃ "
+"upanidhāya."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an5.157:7.1"
+msgid ""
+"Pañcannaṃ, bhikkhave, puggalānaṃ kathā sukathā puggale puggalaṃ upanidhāya."
+msgstr ""
+
+msgctxt "an5.157:7.2"
+msgid "Katamesaṃ pañcannaṃ?"
+msgstr ""
+
+msgctxt "an5.157:7.3"
+msgid "Saddhassa, bhikkhave, saddhākathā sukathā;"
+msgstr ""
+
+msgctxt "an5.157:7.4"
+msgid "sīlavato sīlakathā sukathā;"
+msgstr ""
+
+msgctxt "an5.157:7.5"
+msgid "bahussutassa bāhusaccakathā sukathā;"
+msgstr ""
+
+msgctxt "an5.157:7.6"
+msgid "cāgavato cāgakathā sukathā;"
+msgstr ""
+
+msgctxt "an5.157:7.7"
+msgid "paññavato paññākathā sukathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an5.157:8.1"
+msgid "Kasmā ca, bhikkhave, saddhassa saddhākathā sukathā?"
+msgstr ""
+
+msgctxt "an5.157:8.2"
+msgid ""
+"Saddho, bhikkhave, saddhākathāya kacchamānāya nābhisajjati na kuppati na "
+"byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:8.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:8.4"
+msgid ""
+"Tañhi so, bhikkhave, saddhāsampadaṃ attani samanupassati labhati ca "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:8.5"
+msgid "Tasmā saddhassa saddhākathā sukathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an5.157:9.1"
+msgid "Kasmā ca, bhikkhave, sīlavato sīlakathā sukathā?"
+msgstr ""
+
+msgctxt "an5.157:9.2"
+msgid ""
+"Sīlavā, bhikkhave, sīlakathāya kacchamānāya nābhisajjati na kuppati na "
+"byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:9.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:9.4"
+msgid ""
+"Tañhi so, bhikkhave, sīlasampadaṃ attani samanupassati, labhati ca "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:9.5"
+msgid "Tasmā sīlavato sīlakathā sukathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.183"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "an5.157:10.1"
+msgid "Kasmā ca, bhikkhave, bahussutassa bāhusaccakathā sukathā?"
+msgstr ""
+
+msgctxt "an5.157:10.2"
+msgid ""
+"Bahussuto, bhikkhave, bāhusaccakathāya kacchamānāya nābhisajjati na kuppati "
+"na byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:10.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:10.4"
+msgid ""
+"Tañhi so, bhikkhave, sutasampadaṃ attani samanupassati, labhati ca "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:10.5"
+msgid "Tasmā bahussutassa bāhusaccakathā sukathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "an5.157:11.1"
+msgid "Kasmā ca, bhikkhave, cāgavato cāgakathā sukathā?"
+msgstr ""
+
+msgctxt "an5.157:11.2"
+msgid ""
+"Cāgavā, bhikkhave, cāgakathāya kacchamānāya nābhisajjati na kuppati na "
+"byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:11.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:11.4"
+msgid ""
+"Tañhi so, bhikkhave, cāgasampadaṃ attani samanupassati, labhati ca "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:11.5"
+msgid "Tasmā cāgavato cāgakathā sukathā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an5.157:12.1"
+msgid "Kasmā ca, bhikkhave, paññavato paññākathā sukathā?"
+msgstr ""
+
+msgctxt "an5.157:12.2"
+msgid ""
+"Paññavā, bhikkhave, paññākathāya kacchamānāya nābhisajjati na kuppati na "
+"byāpajjati na patitthīyati na kopañca dosañca appaccayañca pātukaroti."
+msgstr ""
+
+msgctxt "an5.157:12.3"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.157:12.4"
+msgid ""
+"Tañhi so, bhikkhave, paññāsampadaṃ attani samanupassati labhati ca "
+"tatonidānaṃ pītipāmojjaṃ."
+msgstr ""
+
+msgctxt "an5.157:12.5"
+msgid "Tasmā paññavato paññākathā sukathā."
+msgstr ""
+
+msgctxt "an5.157:12.6"
+msgid ""
+"Imesaṃ kho, bhikkhave, pañcannaṃ puggalānaṃ kathā sukathā puggale puggalaṃ "
+"upanidhāyā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an5.157:12.7"
+msgid "Sattamaṃ."
+msgstr ""

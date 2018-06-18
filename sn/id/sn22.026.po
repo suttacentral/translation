@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /id/sn/sn22.026.po\n"
+"X-Pootle-Revision: 25480\n"
+
+#. <section class="sutta" id="sn22.26"><article><div class="hgroup"><p class="division">
+msgctxt "sn22.26:0.1"
+msgid "Saṃyutta Nikāya 22"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn22.26:0.2"
+msgid "3. Bhāravagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn22.26:0.3"
+msgid "26. Assādasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.28"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn22.26:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+#. VAR: Pubbeva → pubbe (pts1, mr)
+#. VAR: bodhisattasseva → bodhisattassa (pts1, mr)
+msgctxt "sn22.26:1.2"
+msgid ""
+"“Pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato "
+"etadahosi:"
+msgstr ""
+
+msgctxt "sn22.26:1.3"
+msgid "‘ko nu kho rūpassa assādo, ko ādīnavo, kiṃ nissaraṇaṃ?"
+msgstr ""
+
+msgctxt "sn22.26:1.4"
+msgid "Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇaṃ?"
+msgstr ""
+
+msgctxt "sn22.26:1.5"
+msgid "Ko saññāya assādo, ko ādīnavo, kiṃ nissaraṇaṃ?"
+msgstr ""
+
+msgctxt "sn22.26:1.6"
+msgid "Ko saṅkhārānaṃ assādo, ko ādīnavo, kiṃ nissaraṇaṃ?"
+msgstr ""
+
+msgctxt "sn22.26:1.7"
+msgid "Ko viññāṇassa assādo, ko ādīnavo, kiṃ nissaraṇan’ti?"
+msgstr ""
+
+msgctxt "sn22.26:1.8"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+msgctxt "sn22.26:1.9"
+msgid ""
+"‘yaṃ kho rūpaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ rūpassa assādo."
+msgstr ""
+
+msgctxt "sn22.26:1.10"
+msgid "Yaṃ rūpaṃ aniccaṃ dukkhaṃ vipariṇāmadhammaṃ, ayaṃ rūpassa ādīnavo."
+msgstr ""
+
+msgctxt "sn22.26:1.11"
+msgid ""
+"Yo rūpasmiṃ chandarāgavinayo chandarāgappahānaṃ, idaṃ rūpassa nissaraṇaṃ."
+msgstr ""
+
+msgctxt "sn22.26:1.12"
+msgid "Yaṃ vedanaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ vedanāya assādo."
+msgstr ""
+
+#. VAR: Yaṃ → yā (mr)
+msgctxt "sn22.26:1.13"
+msgid "Yaṃ vedanā aniccā dukkhā vipariṇāmadhammā, ayaṃ vedanāya ādīnavo."
+msgstr ""
+
+msgctxt "sn22.26:1.14"
+msgid ""
+"Yo vedanāya chandarāgavinayo chandarāgappahānaṃ, idaṃ vedanāya nissaraṇaṃ."
+msgstr ""
+
+msgctxt "sn22.26:1.15"
+msgid "Yaṃ saññaṃ paṭicca uppajjati … pe …"
+msgstr ""
+
+msgctxt "sn22.26:1.16"
+msgid ""
+"yaṃ saṅkhāre paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ saṅkhārānaṃ assādo."
+msgstr ""
+
+#. VAR: Yaṃ → ye (bj, s1-3, mr)
+msgctxt "sn22.26:1.17"
+msgid "Yaṃ saṅkhārā aniccā dukkhā vipariṇāmadhammā, ayaṃ saṅkhārānaṃ ādīnavo."
+msgstr ""
+
+msgctxt "sn22.26:1.18"
+msgid ""
+"Yo saṅkhāresu chandarāgavinayo chandarāgappahānaṃ, idaṃ saṅkhārānaṃ "
+"nissaraṇaṃ."
+msgstr ""
+
+msgctxt "sn22.26:1.19"
+msgid ""
+"Yaṃ viññāṇaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ viññāṇassa assādo."
+msgstr ""
+
+msgctxt "sn22.26:1.20"
+msgid ""
+"Yaṃ viññāṇaṃ aniccaṃ dukkhaṃ vipariṇāmadhammaṃ, ayaṃ viññāṇassa ādīnavo."
+msgstr ""
+
+msgctxt "sn22.26:1.21"
+msgid ""
+"Yo viññāṇasmiṃ chandarāgavinayo chandarāgappahānaṃ, idaṃ viññāṇassa "
+"nissaraṇaṃ’."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+#. VAR: abhisambuddho’ti → abhisambuddho (si, s1-3)
+msgctxt "sn22.26:2.1"
+msgid ""
+"Yāvakīvañcāhaṃ, bhikkhave, imesaṃ pañcannaṃ upādānakkhandhānaṃ evaṃ "
+"assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ "
+"nābbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, ‘sadevake loke samārake sabrahmake "
+"sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ "
+"abhisambuddho’ti paccaññāsiṃ."
+msgstr ""
+
+msgctxt "sn22.26:2.2"
+msgid ""
+"Yato ca khvāhaṃ, bhikkhave, imesaṃ pañcannaṃ upādānakkhandhānaṃ evaṃ "
+"assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ "
+"abbhaññāsiṃ;"
+msgstr ""
+
+msgctxt "sn22.26:2.3"
+msgid ""
+"athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā "
+"pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ."
+msgstr ""
+
+msgctxt "sn22.26:2.4"
+msgid "Ñāṇañca pana me dassanaṃ udapādi:"
+msgstr ""
+
+#. VAR: vimutti → cetovimutti (bj, pts1, mr)
+msgctxt "sn22.26:2.5"
+msgid "‘akuppā me vimutti; ayamantimā jāti; natthi dāni punabbhavo’”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn22.26:2.6"
+msgid "Pañcamaṃ."
+msgstr ""

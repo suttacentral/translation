@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/sn/sn12.17.po\n"
+"X-Pootle-Revision: 31534\n"
+
+#. <section class="sutta" id="sn12.17"><article><div class="hgroup"><p class="division">
+msgctxt "sn12.17:0.1"
+msgid "Saṃyutta Nikāya 12"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn12.17:0.2"
+msgid "2. Āhāravagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 17. Acelakassapasutta → acela (pts1-2)
+msgctxt "sn12.17:0.3"
+msgid "17. Acelakassapasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.19"></a>
+#. <a class="sc" id="sc1"></a>
+#. <span class="evam">
+msgctxt "sn12.17:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "sn12.17:1.2"
+msgid "ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe."
+msgstr ""
+
+msgctxt "sn12.17:1.3"
+msgid ""
+"Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ "
+"piṇḍāya pāvisi."
+msgstr ""
+
+msgctxt "sn12.17:1.4"
+msgid "Addasā kho acelo kassapo bhagavantaṃ dūratova āgacchantaṃ."
+msgstr ""
+
+msgctxt "sn12.17:1.5"
+msgid ""
+"Disvāna yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi."
+msgstr ""
+
+msgctxt "sn12.17:1.6"
+msgid ""
+"Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito "
+"kho acelo kassapo bhagavantaṃ etadavoca:"
+msgstr ""
+
+#. VAR: kañcideva → kiñcideva (pts1-2, mr)
+msgctxt "sn12.17:1.7"
+msgid ""
+"“puccheyyāma mayaṃ bhavantaṃ gotamaṃ kañcideva desaṃ, sace no bhavaṃ gotamo "
+"okāsaṃ karoti pañhassa veyyākaraṇāyā”ti."
+msgstr ""
+
+msgctxt "sn12.17:1.8"
+msgid "“Akālo kho tāva, kassapa, pañhassa;"
+msgstr ""
+
+msgctxt "sn12.17:1.9"
+msgid "antaragharaṃ paviṭṭhamhā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn12.17:2.1"
+msgid "Dutiyampi kho acelo kassapo bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn12.17:2.2"
+msgid ""
+"“puccheyyāma mayaṃ bhavantaṃ gotamaṃ kañcideva desaṃ, sace no bhavaṃ gotamo "
+"okāsaṃ karoti pañhassa veyyākaraṇāyā”ti."
+msgstr ""
+
+msgctxt "sn12.17:2.3"
+msgid "“Akālo kho tāva, kassapa, pañhassa;"
+msgstr ""
+
+msgctxt "sn12.17:2.4"
+msgid "antaragharaṃ paviṭṭhamhā”ti."
+msgstr ""
+
+msgctxt "sn12.17:2.5"
+msgid "Tatiyampi kho acelo kassapo … pe …"
+msgstr ""
+
+msgctxt "sn12.17:2.6"
+msgid "antaragharaṃ paviṭṭhamhāti."
+msgstr ""
+
+msgctxt "sn12.17:2.7"
+msgid "Evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn12.17:2.8"
+msgid "“na kho pana mayaṃ bhavantaṃ gotamaṃ bahudeva pucchitukāmā”ti."
+msgstr ""
+
+msgctxt "sn12.17:2.9"
+msgid "“Puccha, kassapa, yadākaṅkhasī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.20"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn12.17:3.1"
+msgid "“Kiṃ nu kho, bho gotama, ‘sayaṅkataṃ dukkhan’ti?"
+msgstr ""
+
+# Note that MS treats this who exchange as a report by Kassapa of a previous conversation.
+msgctxt "sn12.17:3.2"
+msgid "‘Mā hevaṃ, kassapā’ti bhagavā avoca."
+msgstr ""
+
+# Note the curious alternation of question forms in the Pali.
+msgctxt "sn12.17:3.3"
+msgid "‘Kiṃ pana, bho gotama, paraṅkataṃ dukkhan’ti?"
+msgstr ""
+
+msgctxt "sn12.17:3.4"
+msgid "‘Mā hevaṃ, kassapā’ti bhagavā avoca."
+msgstr ""
+
+msgctxt "sn12.17:3.5"
+msgid "‘Kiṃ nu kho, bho gotama, sayaṅkatañca paraṅkatañca dukkhan’ti?"
+msgstr ""
+
+msgctxt "sn12.17:3.6"
+msgid "‘Mā hevaṃ, kassapā’ti bhagavā avoca."
+msgstr ""
+
+msgctxt "sn12.17:3.7"
+msgid ""
+"‘Kiṃ pana, bho gotama, asayaṅkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ dukkhan’ti?"
+msgstr ""
+
+msgctxt "sn12.17:3.8"
+msgid "‘Mā hevaṃ, kassapā’ti bhagavā avoca."
+msgstr ""
+
+msgctxt "sn12.17:3.9"
+msgid "‘Kiṃ nu kho, bho gotama, natthi dukkhan’ti?"
+msgstr ""
+
+msgctxt "sn12.17:3.10"
+msgid "‘Na kho, kassapa, natthi dukkhaṃ."
+msgstr ""
+
+msgctxt "sn12.17:3.11"
+msgid "Atthi kho, kassapa, dukkhan’ti."
+msgstr ""
+
+# I read this as a conclusion tena hi, rather than a further question. I think the whole discussion was to trap the Buddha in this point.
+msgctxt "sn12.17:3.12"
+msgid "‘Tena hi bhavaṃ gotamo dukkhaṃ na jānāti, na passatī’ti."
+msgstr ""
+
+msgctxt "sn12.17:3.13"
+msgid "‘Na khvāhaṃ, kassapa, dukkhaṃ na jānāmi, na passāmi."
+msgstr ""
+
+msgctxt "sn12.17:3.14"
+msgid "Jānāmi khvāhaṃ, kassapa, dukkhaṃ;"
+msgstr ""
+
+msgctxt "sn12.17:3.15"
+msgid "passāmi khvāhaṃ, kassapa, dukkhan’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn12.17:4.1"
+msgid ""
+"“Kiṃ nu kho, bho gotama, ‘sayaṃkataṃ dukkhan’ti iti puṭṭho samāno ‘mā hevaṃ, "
+"kassapā’ti vadesi."
+msgstr ""
+
+msgctxt "sn12.17:4.2"
+msgid ""
+"‘Kiṃ pana, bho gotama, paraṃkataṃ dukkhan’ti iti puṭṭho samāno ‘mā hevaṃ, "
+"kassapā’ti vadesi."
+msgstr ""
+
+msgctxt "sn12.17:4.3"
+msgid ""
+"‘Kiṃ nu kho, bho gotama, sayaṃkatañca paraṃkatañca dukkhan’ti iti puṭṭho "
+"samāno ‘mā hevaṃ, kassapā’ti vadesi."
+msgstr ""
+
+msgctxt "sn12.17:4.4"
+msgid ""
+"‘Kiṃ pana, bho gotama, asayaṃkāraṃ aparaṅkāraṃ adhiccasamuppannaṃ dukkhan’ti "
+"iti puṭṭho samāno ‘mā hevaṃ, kassapā’ti vadesi."
+msgstr ""
+
+msgctxt "sn12.17:4.5"
+msgid ""
+"‘Kiṃ nu kho, bho gotama, natthi dukkhan’ti iti puṭṭho samāno ‘na kho, "
+"kassapa, natthi dukkhaṃ, atthi kho, kassapa, dukkhan’ti vadesi."
+msgstr ""
+
+msgctxt "sn12.17:4.6"
+msgid ""
+"‘Tena hi bhavaṃ gotamo dukkhaṃ na jānāti na passatī’ti iti puṭṭho samāno ‘na "
+"khvāhaṃ, kassapa, dukkhaṃ na jānāmi na passāmi."
+msgstr ""
+
+msgctxt "sn12.17:4.7"
+msgid "Jānāmi khvāhaṃ, kassapa, dukkhaṃ;"
+msgstr ""
+
+msgctxt "sn12.17:4.8"
+msgid "passāmi khvāhaṃ, kassapa, dukkhan’ti vadesi."
+msgstr ""
+
+#. VAR: ca → ayaṃ cakāro bj potthake
+msgctxt "sn12.17:4.9"
+msgid "Ācikkhatu ca me, bhante, bhagavā dukkhaṃ."
+msgstr ""
+
+#. VAR: ca → ayaṃ cakāro bj potthake
+msgctxt "sn12.17:4.10"
+msgid "Desetu ca me, bhante, bhagavā dukkhan”ti."
+msgstr ""
+
+# This sentence is gnarly. See BB’s notes. I follow his interpretation, but try to render it more accessibly.
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.21"></a>
+#. <a class="sc" id="sc5"></a>
+#. VAR: paṭisaṃvedayatī’ti → paṭisaṃvediyatīti (bj, pts1-2, mr)
+msgctxt "sn12.17:5.1"
+msgid ""
+"“‘So karoti so paṭisaṃvedayatī’ti kho, kassapa, ādito sato ‘sayaṃkataṃ "
+"dukkhan’ti iti vadaṃ sassataṃ etaṃ pareti."
+msgstr ""
+
+msgctxt "sn12.17:5.2"
+msgid ""
+"‘Añño karoti añño paṭisaṃvedayatī’ti kho, kassapa, vedanābhitunnassa sato ‘"
+"paraṃkataṃ dukkhan’ti iti vadaṃ ucchedaṃ etaṃ pareti."
+msgstr ""
+
+msgctxt "sn12.17:5.3"
+msgid ""
+"Ete te, kassapa, ubho ante anupagamma majjhena tathāgato dhammaṃ deseti:"
+msgstr ""
+
+msgctxt "sn12.17:5.4"
+msgid "‘avijjāpaccayā saṅkhārā;"
+msgstr ""
+
+msgctxt "sn12.17:5.5"
+msgid "saṅkhārapaccayā viññāṇaṃ … pe …"
+msgstr ""
+
+msgctxt "sn12.17:5.6"
+msgid "evametassa kevalassa dukkhakkhandhassa samudayo hoti."
+msgstr ""
+
+msgctxt "sn12.17:5.7"
+msgid "Avijjāya tveva asesavirāganirodhā saṅkhāranirodho;"
+msgstr ""
+
+msgctxt "sn12.17:5.8"
+msgid "saṅkhāranirodhā viññāṇanirodho … pe …"
+msgstr ""
+
+msgctxt "sn12.17:5.9"
+msgid "evametassa kevalassa dukkhakkhandhassa nirodho hotī’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn12.17:6.1"
+msgid "Evaṃ vutte, acelo kassapo bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn12.17:6.2"
+msgid "“abhikkantaṃ, bhante, abhikkantaṃ, bhante."
+msgstr ""
+
+msgctxt "sn12.17:6.3"
+msgid ""
+"Seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya … pe … ‘cakkhumanto rūpāni "
+"dakkhantī’ti; evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito."
+msgstr ""
+
+msgctxt "sn12.17:6.4"
+msgid ""
+"Esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca."
+msgstr ""
+
+msgctxt "sn12.17:6.5"
+msgid ""
+"Labheyyāhaṃ, bhante, bhagavato santike pabbajjaṃ, labheyyaṃ upasampadan”ti."
+msgstr ""
+
+# Note that, contra BB’s note, pabbajja and upasampada are into the state of a bhikkhu. there’s no mention of a novice. generally, in the early texts, pabbajja and upasampada were synonyms, and there was no separate state of novice or period spent as a novice before ordination. This gradually developed, and makes its way into a few passages.
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+#. VAR: Catunnaṃ māsānaṃ accayena → accayena parivutthaparivāsaṃ (bj, s1-3, km) | accayena parivuṭṭhaparivāsaṃ (pts1-2, mr)
+#. VAR: bhikkhū → bhikkhū ākaṅkhamānā (s1-3, km, pts1-2, mr)
+msgctxt "sn12.17:7.1"
+msgid ""
+"“Yo kho, kassapa, aññatitthiyapubbo imasmiṃ dhammavinaye ākaṅkhati "
+"pabbajjaṃ, ākaṅkhati upasampadaṃ, so cattāro māse parivasati. Catunnaṃ "
+"māsānaṃ accayena āraddhacittā bhikkhū pabbājenti upasampādenti "
+"bhikkhubhāvāya."
+msgstr ""
+
+msgctxt "sn12.17:7.2"
+msgid "Api ca mayā puggalavemattatā viditā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+#. VAR: Catunnaṃ māsānaṃ accayena → accayena parivutthaparivāsaṃ (bj) | accayena parivutthaparivāse (s1-3, km) | accayena parivuṭṭhaparivāsaṃ (pts1-2, mr)
+#. VAR: bhikkhū → bhikkhū ākaṅkhamānā (s1-3, km, pts1-2, mr)
+#. VAR: catunnaṃ vassānaṃ accayena → accayena parivutthaparivāsaṃ (bj, s1-3, km) | accayena parivuṭṭhaparivāsaṃ (pts1-2, mr)
+msgctxt "sn12.17:8.1"
+msgid ""
+"“Sace, bhante, aññatitthiyapubbo imasmiṃ dhammavinaye ākaṅkhati pabbajjaṃ, "
+"ākaṅkhati upasampadaṃ, cattāro māse parivasati. Catunnaṃ māsānaṃ accayena "
+"āraddhacittā bhikkhū pabbājenti upasampādenti bhikkhubhāvāya. Ahaṃ cattāri "
+"vassāni parivasissāmi, catunnaṃ vassānaṃ accayena āraddhacittā bhikkhū "
+"pabbājentu upasampādentu bhikkhubhāvāyā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.22"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn12.17:9.1"
+msgid ""
+"Alattha kho acelo kassapo bhagavato santike pabbajjaṃ, alattha upasampadaṃ."
+msgstr ""
+
+msgctxt "sn12.17:9.2"
+msgid ""
+"Acirūpasampanno ca panāyasmā kassapo eko vūpakaṭṭho appamatto ātāpī "
+"pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā "
+"anagāriyaṃ pabbajanti tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme "
+"sayaṃ abhiññā sacchikatvā upasampajja vihāsi."
+msgstr ""
+
+msgctxt "sn12.17:9.3"
+msgid ""
+"“Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā”ti "
+"abbhaññāsi."
+msgstr ""
+
+msgctxt "sn12.17:9.4"
+msgid "Aññataro ca panāyasmā kassapo arahataṃ ahosīti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn12.17:9.5"
+msgid "Sattamaṃ."
+msgstr ""

@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /id/sn/sn1.12.po\n"
+"X-Pootle-Revision: 24660\n"
+
+#. <section class="sutta" id="sn1.12"><article><div class="hgroup"><p class="division">
+msgctxt "sn1.12:0.1"
+msgid "Saṃyutta Nikāya 1"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn1.12:0.2"
+msgid "2. Nandanavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn1.12:0.3"
+msgid "12. Nandatisutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn1.12:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+msgctxt "sn1.12:1.2"
+msgid "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="pts2ed" id="pts2ed1.12"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn1.12:2.1"
+msgid "“Nandati puttehi puttimā,"
+msgstr ""
+
+#. <br>
+#. VAR: Gomā → gomiko (bj, s1-3, km, pts1-2)
+msgctxt "sn1.12:2.2"
+msgid "Gomā gohi tatheva nandati;"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.12:2.3"
+msgid "Upadhīhi narassa nandanā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.12:2.4"
+msgid "Na hi so nandati yo nirūpadhī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn1.12:3.1"
+msgid "“Socati puttehi puttimā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.12:3.2"
+msgid "Gomā gohi tatheva socati;"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.12:3.3"
+msgid "Upadhīhi narassa socanā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.12:3.4"
+msgid "Na hi so socati yo nirūpadhī”ti."
+msgstr ""

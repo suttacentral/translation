@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /id/an/an5.180.po\n"
+"X-Pootle-Revision: 23642\n"
+
+#. <section class="sutta" id="an5.180"><article><div class="hgroup"><p class="division">
+msgctxt "an5.180:0.1"
+msgid "Aṅguttara Nikāya 5"
+msgstr ""
+
+#. </p><p>
+msgctxt "an5.180:0.2"
+msgid "18. Upāsakavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an5.180:0.3"
+msgid "180. Gavesīsutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an5.180:1.1"
+msgid ""
+"Ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā bhikkhusaṃghena saddhiṃ."
+msgstr ""
+
+msgctxt "an5.180:1.2"
+msgid ""
+"Addasā kho bhagavā addhānamaggappaṭipanno aññatarasmiṃ padese mahantaṃ "
+"sālavanaṃ;"
+msgstr ""
+
+#. VAR: disvāna → disvā (bj, pts1)
+#. VAR: okkamma → ukkamma (katthaci)
+msgctxt "an5.180:1.3"
+msgid ""
+"disvāna maggā okkamma yena taṃ sālavanaṃ tenupasaṅkami; upasaṅkamitvā taṃ "
+"sālavanaṃ ajjhogāhetvā aññatarasmiṃ padese sitaṃ pātvākāsi."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.215"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an5.180:2.1"
+msgid "Atha kho āyasmato ānandassa etadahosi:"
+msgstr ""
+
+msgctxt "an5.180:2.2"
+msgid "“ko nu kho hetu ko paccayo bhagavato sitassa pātukammāya?"
+msgstr ""
+
+msgctxt "an5.180:2.3"
+msgid "Na akāraṇena tathāgatā sitaṃ pātukarontī”ti."
+msgstr ""
+
+msgctxt "an5.180:2.4"
+msgid "Atha kho āyasmā ānando bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "an5.180:2.5"
+msgid "“ko nu kho, bhante, hetu ko paccayo bhagavato sitassa pātukammāya?"
+msgstr ""
+
+msgctxt "an5.180:2.6"
+msgid "Na akāraṇena tathāgatā sitaṃ pātukarontī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an5.180:3.1"
+msgid ""
+"“Bhūtapubbaṃ, ānanda, imasmiṃ padese nagaraṃ ahosi iddhañceva phītañca "
+"bahujanaṃ ākiṇṇamanussaṃ."
+msgstr ""
+
+msgctxt "an5.180:3.2"
+msgid ""
+"Taṃ kho panānanda, nagaraṃ kassapo bhagavā arahaṃ sammāsambuddho upanissāya "
+"vihāsi."
+msgstr ""
+
+msgctxt "an5.180:3.3"
+msgid ""
+"Kassapassa kho panānanda, bhagavato arahato sammāsambuddhassa gavesī nāma "
+"upāsako ahosi sīlesu aparipūrakārī."
+msgstr ""
+
+#. VAR: samādapitāni → samādāpitāni (?)
+msgctxt "an5.180:3.4"
+msgid ""
+"Gavesinā kho, ānanda, upāsakena pañcamattāni upāsakasatāni paṭidesitāni "
+"samādapitāni ahesuṃ sīlesu aparipūrakārino."
+msgstr ""
+
+msgctxt "an5.180:3.5"
+msgid "Atha kho, ānanda, gavesissa upāsakassa etadahosi:"
+msgstr ""
+
+#. VAR: bahūpakāro → bahukāro (katthaci)
+#. VAR: samādapetā → samādāpetā (?)
+msgctxt "an5.180:3.6"
+msgid ""
+"‘ahaṃ kho imesaṃ pañcannaṃ upāsakasatānaṃ bahūpakāro pubbaṅgamo samādapetā, "
+"ahañcamhi sīlesu aparipūrakārī, imāni ca pañca upāsakasatāni sīlesu "
+"aparipūrakārino."
+msgstr ""
+
+msgctxt "an5.180:3.7"
+msgid "Iccetaṃ samasamaṃ, natthi kiñci atirekaṃ;"
+msgstr ""
+
+msgctxt "an5.180:3.8"
+msgid "handāhaṃ atirekāyā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.216"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an5.180:4.1"
+msgid ""
+"Atha kho, ānanda, gavesī upāsako yena tāni pañca upāsakasatāni tenupasaṅkami;"
+" upasaṅkamitvā tāni pañca upāsakasatāni etadavoca:"
+msgstr ""
+
+msgctxt "an5.180:4.2"
+msgid "‘ajjatagge maṃ āyasmanto sīlesu paripūrakāriṃ dhārethā’ti."
+msgstr ""
+
+msgctxt "an5.180:4.3"
+msgid "Atha kho, ānanda, tesaṃ pañcannaṃ upāsakasatānaṃ etadahosi:"
+msgstr ""
+
+msgctxt "an5.180:4.4"
+msgid "‘ayyo kho gavesī amhākaṃ bahūpakāro pubbaṅgamo samādapetā."
+msgstr ""
+
+msgctxt "an5.180:4.5"
+msgid "Ayyo hi nāma gavesī sīlesu paripūrakārī bhavissati."
+msgstr ""
+
+#. VAR: Kimaṅgaṃ → kimaṅga (bj, pts1)
+#. VAR: pana mayan’ti → pana na mayanti (bj)
+msgctxt "an5.180:4.6"
+msgid "Kimaṅgaṃ pana mayan’ti."
+msgstr ""
+
+msgctxt "an5.180:4.7"
+msgid ""
+"Atha kho, ānanda, tāni pañca upāsakasatāni yena gavesī upāsako "
+"tenupasaṅkamiṃsu; upasaṅkamitvā gavesiṃ upāsakaṃ etadavocuṃ:"
+msgstr ""
+
+msgctxt "an5.180:4.8"
+msgid ""
+"‘ajjatagge ayyo gavesī imānipi pañca upāsakasatāni sīlesu paripūrakārino "
+"dhāretū’ti."
+msgstr ""
+
+msgctxt "an5.180:4.9"
+msgid "Atha kho, ānanda, gavesissa upāsakassa etadahosi:"
+msgstr ""
+
+msgctxt "an5.180:4.10"
+msgid ""
+"‘ahaṃ kho imesaṃ pañcannaṃ upāsakasatānaṃ bahūpakāro pubbaṅgamo samādapetā, "
+"ahañcamhi sīlesu paripūrakārī, imānipi pañca upāsakasatāni sīlesu "
+"paripūrakārino."
+msgstr ""
+
+msgctxt "an5.180:4.11"
+msgid "Iccetaṃ samasamaṃ, natthi kiñci atirekaṃ;"
+msgstr ""
+
+msgctxt "an5.180:4.12"
+msgid "handāhaṃ atirekāyā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an5.180:5.1"
+msgid ""
+"Atha kho, ānanda, gavesī upāsako yena tāni pañca upāsakasatāni tenupasaṅkami;"
+" upasaṅkamitvā tāni pañca upāsakasatāni etadavoca:"
+msgstr ""
+
+msgctxt "an5.180:5.2"
+msgid ""
+"‘ajjatagge maṃ āyasmanto brahmacāriṃ dhāretha ārācāriṃ virataṃ methunā "
+"gāmadhammā’ti."
+msgstr ""
+
+msgctxt "an5.180:5.3"
+msgid "Atha kho, ānanda, tesaṃ pañcannaṃ upāsakasatānaṃ etadahosi:"
+msgstr ""
+
+msgctxt "an5.180:5.4"
+msgid "‘ayyo kho gavesī amhākaṃ bahūpakāro pubbaṅgamo samādapetā."
+msgstr ""
+
+msgctxt "an5.180:5.5"
+msgid ""
+"Ayyo hi nāma gavesī brahmacārī bhavissati ārācārī virato methunā gāmadhammā."
+msgstr ""
+
+msgctxt "an5.180:5.6"
+msgid "Kimaṅgaṃ pana mayan’ti."
+msgstr ""
+
+msgctxt "an5.180:5.7"
+msgid ""
+"Atha kho, ānanda, tāni pañca upāsakasatāni yena gavesī upāsako "
+"tenupasaṅkamiṃsu; upasaṅkamitvā gavesiṃ upāsakaṃ etadavocuṃ:"
+msgstr ""
+
+msgctxt "an5.180:5.8"
+msgid ""
+"‘ajjatagge ayyo gavesī imānipi pañca upāsakasatāni brahmacārino dhāretu "
+"ārācārino viratā methunā gāmadhammā’ti."
+msgstr ""
+
+msgctxt "an5.180:5.9"
+msgid "Atha kho, ānanda, gavesissa upāsakassa etadahosi:"
+msgstr ""
+
+#. VAR: bahūpakāro → bahupakāro (bj)
+msgctxt "an5.180:5.10"
+msgid ""
+"‘ahaṃ kho imesaṃ pañcannaṃ upāsakasatānaṃ bahūpakāro pubbaṅgamo samādapetā."
+msgstr ""
+
+msgctxt "an5.180:5.11"
+msgid "Ahañcamhi sīlesu paripūrakārī."
+msgstr ""
+
+msgctxt "an5.180:5.12"
+msgid "Imānipi pañca upāsakasatāni sīlesu paripūrakārino."
+msgstr ""
+
+msgctxt "an5.180:5.13"
+msgid "Ahañcamhi brahmacārī ārācārī virato methunā gāmadhammā."
+msgstr ""
+
+msgctxt "an5.180:5.14"
+msgid ""
+"Imānipi pañca upāsakasatāni brahmacārino ārācārino viratā methunā gāmadhammā."
+msgstr ""
+
+msgctxt "an5.180:5.15"
+msgid "Iccetaṃ samasamaṃ, natthi kiñci atirekaṃ;"
+msgstr ""
+
+msgctxt "an5.180:5.16"
+msgid "handāhaṃ atirekāyā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.217"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an5.180:6.1"
+msgid ""
+"Atha kho, ānanda, gavesī upāsako yena tāni pañca upāsakasatāni tenupasaṅkami;"
+" upasaṅkamitvā tāni pañca upāsakasatāni etadavoca:"
+msgstr ""
+
+msgctxt "an5.180:6.2"
+msgid ""
+"‘ajjatagge maṃ āyasmanto ekabhattikaṃ dhāretha rattūparataṃ virataṃ "
+"vikālabhojanā’ti."
+msgstr ""
+
+msgctxt "an5.180:6.3"
+msgid "Atha kho, ānanda, tesaṃ pañcannaṃ upāsakasatānaṃ etadahosi:"
+msgstr ""
+
+msgctxt "an5.180:6.4"
+msgid "‘ayyo kho gavesī bahūpakāro pubbaṅgamo samādapetā."
+msgstr ""
+
+msgctxt "an5.180:6.5"
+msgid ""
+"Ayyo hi nāma gavesī ekabhattiko bhavissati rattūparato virato vikālabhojanā."
+msgstr ""
+
+msgctxt "an5.180:6.6"
+msgid "Kimaṅgaṃ pana mayan’ti."
+msgstr ""
+
+msgctxt "an5.180:6.7"
+msgid ""
+"Atha kho, ānanda, tāni pañca upāsakasatāni yena gavesī upāsako "
+"tenupasaṅkamiṃsu; upasaṅkamitvā gavesiṃ upāsakaṃ etadavocuṃ:"
+msgstr ""
+
+msgctxt "an5.180:6.8"
+msgid ""
+"‘ajjatagge ayyo gavesī imānipi pañca upāsakasatāni ekabhattike dhāretu "
+"rattūparate virate vikālabhojanā’ti."
+msgstr ""
+
+msgctxt "an5.180:6.9"
+msgid "Atha kho, ānanda, gavesissa upāsakassa etadahosi:"
+msgstr ""
+
+msgctxt "an5.180:6.10"
+msgid ""
+"‘ahaṃ kho imesaṃ pañcannaṃ upāsakasatānaṃ bahūpakāro pubbaṅgamo samādapetā."
+msgstr ""
+
+msgctxt "an5.180:6.11"
+msgid "Ahañcamhi sīlesu paripūrakārī."
+msgstr ""
+
+msgctxt "an5.180:6.12"
+msgid "Imānipi pañca upāsakasatāni sīlesu paripūrakārino."
+msgstr ""
+
+msgctxt "an5.180:6.13"
+msgid "Ahañcamhi brahmacārī ārācārī virato methunā gāmadhammā."
+msgstr ""
+
+msgctxt "an5.180:6.14"
+msgid ""
+"Imānipi pañca upāsakasatāni brahmacārino ārācārino viratā methunā gāmadhammā."
+msgstr ""
+
+msgctxt "an5.180:6.15"
+msgid "Ahañcamhi ekabhattiko rattūparato virato vikālabhojanā."
+msgstr ""
+
+msgctxt "an5.180:6.16"
+msgid ""
+"Imānipi pañca upāsakasatāni ekabhattikā rattūparatā viratā vikālabhojanā."
+msgstr ""
+
+msgctxt "an5.180:6.17"
+msgid "Iccetaṃ samasamaṃ, natthi kiñci atirekaṃ;"
+msgstr ""
+
+msgctxt "an5.180:6.18"
+msgid "handāhaṃ atirekāyā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an5.180:7.1"
+msgid ""
+"Atha kho, ānanda, gavesī upāsako yena kassapo bhagavā arahaṃ sammāsambuddho "
+"tenupasaṅkami; upasaṅkamitvā kassapaṃ bhagavantaṃ arahantaṃ sammāsambuddhaṃ "
+"etadavoca:"
+msgstr ""
+
+msgctxt "an5.180:7.2"
+msgid ""
+"‘labheyyāhaṃ, bhante, bhagavato santike pabbajjaṃ labheyyaṃ upasampadan’ti."
+msgstr ""
+
+msgctxt "an5.180:7.3"
+msgid ""
+"Alattha kho, ānanda, gavesī upāsako kassapassa bhagavato arahato "
+"sammāsambuddhassa santike pabbajjaṃ, alattha upasampadaṃ."
+msgstr ""
+
+msgctxt "an5.180:7.4"
+msgid ""
+"Acirūpasampanno kho panānanda, gavesī bhikkhu eko vūpakaṭṭho appamatto ātāpī "
+"pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā "
+"anagāriyaṃ pabbajanti, tadanuttaraṃ—brahmacariyapariyosānaṃ diṭṭheva dhamme "
+"sayaṃ abhiññā sacchikatvā upasampajja vihāsi."
+msgstr ""
+
+msgctxt "an5.180:7.5"
+msgid ""
+"‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti "
+"abbhaññāsi."
+msgstr ""
+
+msgctxt "an5.180:7.6"
+msgid "Aññataro ca panānanda, gavesī bhikkhu arahataṃ ahosi."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.218"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an5.180:8.1"
+msgid "Atha kho, ānanda, tesaṃ pañcannaṃ upāsakasatānaṃ etadahosi:"
+msgstr ""
+
+msgctxt "an5.180:8.2"
+msgid "‘ayyo kho gavesī amhākaṃ bahūpakāro pubbaṅgamo samādapetā."
+msgstr ""
+
+msgctxt "an5.180:8.3"
+msgid ""
+"Ayyo hi nāma gavesī kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā "
+"agārasmā anagāriyaṃ pabbajissati."
+msgstr ""
+
+msgctxt "an5.180:8.4"
+msgid "Kimaṅgaṃ pana mayan’ti."
+msgstr ""
+
+msgctxt "an5.180:8.5"
+msgid ""
+"Atha kho, ānanda, tāni pañca upāsakasatāni yena kassapo bhagavā arahaṃ "
+"sammāsambuddho tenupasaṅkamiṃsu; upasaṅkamitvā kassapaṃ bhagavantaṃ "
+"arahantaṃ sammāsambuddhaṃ etadavocuṃ:"
+msgstr ""
+
+msgctxt "an5.180:8.6"
+msgid ""
+"‘labheyyāma mayaṃ, bhante, bhagavato santike pabbajjaṃ, labheyyāma "
+"upasampadan’ti."
+msgstr ""
+
+msgctxt "an5.180:8.7"
+msgid ""
+"Alabhiṃsu kho, ānanda, tāni pañca upāsakasatāni kassapassa bhagavato arahato "
+"sammāsambuddhassa santike pabbajjaṃ, alabhiṃsu upasampadaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an5.180:9.1"
+msgid "Atha kho, ānanda, gavesissa bhikkhuno etadahosi:"
+msgstr ""
+
+msgctxt "an5.180:9.2"
+msgid ""
+"‘ahaṃ kho imassa anuttarassa vimuttisukhassa nikāmalābhī homi akicchalābhī "
+"akasiralābhī."
+msgstr ""
+
+msgctxt "an5.180:9.3"
+msgid ""
+"Aho vatimānipi pañca bhikkhusatāni imassa anuttarassa vimuttisukhassa "
+"nikāmalābhino assu akicchalābhino akasiralābhino’ti."
+msgstr ""
+
+#. VAR: bhikkhusatāni vūpakaṭṭhā → bhikkhusatāni ekekā vūpakaṭṭhā (s1-3, km)
+msgctxt "an5.180:9.4"
+msgid ""
+"Atha kho, ānanda, tāni pañca bhikkhusatāni vūpakaṭṭhā appamattā ātāpino "
+"pahitattā viharantā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā "
+"anagāriyaṃ pabbajanti, tadanuttaraṃ—"
+msgstr ""
+
+msgctxt "an5.180:9.5"
+msgid ""
+"brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
+"upasampajja vihariṃsu."
+msgstr ""
+
+msgctxt "an5.180:9.6"
+msgid ""
+"‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti "
+"abbhaññiṃsu."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+#. VAR: uttaruttari → uttaruttariṃ (bj, s1-3, km, pts1)
+msgctxt "an5.180:10.1"
+msgid ""
+"Iti kho, ānanda, tāni pañca bhikkhusatāni gavesīpamukhāni uttaruttari "
+"paṇītapaṇītaṃ vāyamamānā anuttaraṃ vimuttiṃ sacchākaṃsu."
+msgstr ""
+
+msgctxt "an5.180:10.2"
+msgid "Tasmātiha, ānanda, evaṃ sikkhitabbaṃ:"
+msgstr ""
+
+msgctxt "an5.180:10.3"
+msgid ""
+"‘uttaruttari paṇītapaṇītaṃ vāyamamānā anuttaraṃ vimuttiṃ sacchikarissāmā’ti."
+msgstr ""
+
+msgctxt "an5.180:10.4"
+msgid "Evañhi vo, ānanda, sikkhitabban”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an5.180:10.5"
+msgid "Dasamaṃ."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an5.180:10.6"
+msgid "Upāsakavaggo tatiyo."
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.219"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "an5.180:11.1"
+msgid "Sārajjaṃ visārado nirayaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "an5.180:11.2"
+msgid "Veraṃ caṇḍālapañcamaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "an5.180:11.3"
+msgid "Pīti vaṇijjā rājāno,"
+msgstr ""
+
+#. <br>
+msgctxt "an5.180:11.4"
+msgid "Gihī ceva gavesināti."
+msgstr ""

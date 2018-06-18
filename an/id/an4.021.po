@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /id/an/an4.021.po\n"
+"X-Pootle-Revision: 22770\n"
+
+#. <section class="sutta" id="an4.21"><article><div class="hgroup"><p class="division">
+msgctxt "an4.21:0.1"
+msgid "Aṅguttara Nikāya 4"
+msgstr ""
+
+#. </p><p>
+msgctxt "an4.21:0.2"
+msgid "3. Uruvelavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an4.21:0.3"
+msgid "21. Paṭhamauruvelasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-pli-vp" id="pts-pli-vp2.20"></a>
+#. <a class="sc" id="sc1"></a>
+#. <span class="evam">
+msgctxt "an4.21:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "an4.21:1.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+
+msgctxt "an4.21:1.3"
+msgid "Tatra kho bhagavā bhikkhū āmantesi:"
+msgstr ""
+
+msgctxt "an4.21:1.4"
+msgid "“bhikkhavo”ti."
+msgstr ""
+
+msgctxt "an4.21:1.5"
+msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
+msgstr ""
+
+msgctxt "an4.21:1.6"
+msgid "Bhagavā etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an4.21:2.1"
+msgid ""
+"“Ekamidāhaṃ, bhikkhave, samayaṃ uruvelāyaṃ viharāmi najjā nerañjarāya tīre "
+"ajapālanigrodhe paṭhamābhisambuddho."
+msgstr ""
+
+# The term rahogata is rendered by BB as “alone “, but it doesn’t quite mean that. In the Vinaya, one may be “rahogata” with a member of the opposite sex, where it is” private to the eye and ear”.
+msgctxt "an4.21:2.2"
+msgid ""
+"Tassa mayhaṃ, bhikkhave, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko "
+"udapādi:"
+msgstr ""
+
+msgctxt "an4.21:2.3"
+msgid "‘dukkhaṃ kho agāravo viharati appatisso."
+msgstr ""
+
+# BB has the more literal “live in dependence on”. the term is more normally used for the town that an ascetic lives near. Like many upa-words, it conveys something of “closeness”, a certain warmth. As an accomplished, mature man, to say that he would live “as a dependent” is too strong. What’s conveyed is more of a sense of mentorship, someone who you can turn to when you need, not someone you necessarily “depend” on in the narrow sense.
+#. VAR: garuṃ katvā → garukatvā (bj, pts1)
+msgctxt "an4.21:2.4"
+msgid ""
+"Kiṃ nu kho ahaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya "
+"vihareyyan’ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an4.21:3.1"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+msgctxt "an4.21:3.2"
+msgid ""
+"‘aparipūrassa kho ahaṃ sīlakkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ "
+"vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ."
+msgstr ""
+
+msgctxt "an4.21:3.3"
+msgid ""
+"Na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā "
+"pajāya sadevamanussāya aññaṃ samaṇaṃ vā brāhmaṇaṃ vā attanā "
+"sīlasampannataraṃ, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an4.21:4.1"
+msgid ""
+"Aparipūrassa kho ahaṃ samādhikkhandhassa pāripūriyā aññaṃ samaṇaṃ vā "
+"brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ."
+msgstr ""
+
+msgctxt "an4.21:4.2"
+msgid ""
+"Na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā "
+"pajāya sadevamanussāya aññaṃ samaṇaṃ vā brāhmaṇaṃ vā attanā "
+"samādhisampannataraṃ, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an4.21:5.1"
+msgid ""
+"Aparipūrassa kho ahaṃ paññākkhandhassa pāripūriyā aññaṃ samaṇaṃ vā brāhmaṇaṃ "
+"vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ."
+msgstr ""
+
+msgctxt "an4.21:5.2"
+msgid ""
+"Na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā "
+"pajāya sadevamanussāya aññaṃ samaṇaṃ vā brāhmaṇaṃ vā attanā "
+"paññāsampannataraṃ, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an4.21:6.1"
+msgid ""
+"Aparipūrassa kho ahaṃ vimuttikkhandhassa pāripūriyā aññaṃ samaṇaṃ vā "
+"brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyaṃ."
+msgstr ""
+
+msgctxt "an4.21:6.2"
+msgid ""
+"Na kho panāhaṃ passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā "
+"pajāya sadevamanussāya aññaṃ samaṇaṃ vā brāhmaṇaṃ vā attanā "
+"vimuttisampannataraṃ, yamahaṃ sakkatvā garuṃ katvā upanissāya vihareyyan’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an4.21:7.1"
+msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
+msgstr ""
+
+#. VAR: yvāyaṃ → yopāyaṃ (bj, s1-3, km, pts1)
+msgctxt "an4.21:7.2"
+msgid ""
+"‘yannūnāhaṃ yvāyaṃ dhammo mayā abhisambuddho tameva dhammaṃ sakkatvā garuṃ "
+"katvā upanissāya vihareyyan’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.21"></a>
+#. <a class="sc" id="sc8"></a>
+#. VAR: samiñjitaṃ → sammiñjitaṃ (bj, s1-3, km, pts1)
+msgctxt "an4.21:8.1"
+msgid ""
+"Atha kho, bhikkhave, brahmā sahampati mama cetasā cetoparivitakkamaññāya—"
+"seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā "
+"bāhaṃ samiñjeyya; evamevaṃ—brahmaloke antarahito mama purato pāturahosi."
+msgstr ""
+
+msgctxt "an4.21:8.2"
+msgid ""
+"Atha kho, bhikkhave, brahmā sahampati ekaṃsaṃ uttarāsaṅgaṃ karitvā dakkhiṇaṃ "
+"jāṇumaṇḍalaṃ pathaviyaṃ nihantvā yenāhaṃ tenañjaliṃ paṇāmetvā maṃ etadavoca:"
+msgstr ""
+
+msgctxt "an4.21:8.3"
+msgid "‘evametaṃ, bhagavā, evametaṃ, sugata."
+msgstr ""
+
+msgctxt "an4.21:8.4"
+msgid ""
+"Yepi te, bhante, ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā tepi "
+"bhagavanto dhammaṃyeva sakkatvā garuṃ katvā upanissāya vihariṃsu;"
+msgstr ""
+
+msgctxt "an4.21:8.5"
+msgid ""
+"yepi te, bhante, bhavissanti anāgatamaddhānaṃ arahanto sammāsambuddhā tepi "
+"bhagavanto dhammaṃyeva sakkatvā garuṃ katvā upanissāya viharissanti;"
+msgstr ""
+
+msgctxt "an4.21:8.6"
+msgid ""
+"bhagavāpi, bhante, etarahi arahaṃ sammāsambuddho dhammaṃyeva sakkatvā garuṃ "
+"katvā upanissāya viharatū’ti."
+msgstr ""
+
+msgctxt "an4.21:8.7"
+msgid "Idamavoca brahmā sahampati."
+msgstr ""
+
+msgctxt "an4.21:8.8"
+msgid "Idaṃ vatvā athāparaṃ etadavoca:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc9"></a>
+#. VAR: ca atītā → ye cabbhatītā (bj, pts1, mr)
+msgctxt "an4.21:9.1"
+msgid "‘Ye ca atītā sambuddhā,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.21:9.2"
+msgid "ye ca buddhā anāgatā;"
+msgstr ""
+
+#. <br>
+msgctxt "an4.21:9.3"
+msgid "Yo cetarahi sambuddho,"
+msgstr ""
+
+#. <br>
+#. VAR: bahūnaṃ → bahunnaṃ (bj, s1-3, km, pts1)
+msgctxt "an4.21:9.4"
+msgid "bahūnaṃ sokanāsano."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "an4.21:10.1"
+msgid "Sabbe saddhammagaruno,"
+msgstr ""
+
+#. <br>
+#. VAR: vihaṃsu → vihariṃsu (s1-3, km)
+msgctxt "an4.21:10.2"
+msgid "vihaṃsu viharanti ca;"
+msgstr ""
+
+#. <br>
+msgctxt "an4.21:10.3"
+msgid "Athopi viharissanti,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.21:10.4"
+msgid "esā buddhāna dhammatā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+#. VAR: attakāmena → atthakāmena (bj, mr)
+msgctxt "an4.21:11.1"
+msgid "Tasmā hi attakāmena,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.21:11.2"
+msgid "mahattamabhikaṅkhatā;"
+msgstr ""
+
+#. <br>
+msgctxt "an4.21:11.3"
+msgid "Saddhammo garukātabbo,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.21:11.4"
+msgid "saraṃ buddhāna sāsanan’ti."
+msgstr ""
+
+#. </p></blockquote><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an4.21:12.1"
+msgid "Idamavoca, bhikkhave, brahmā sahampati."
+msgstr ""
+
+msgctxt "an4.21:12.2"
+msgid "Idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyi."
+msgstr ""
+
+#. VAR: yvāyaṃ → yopāyaṃ (sabbattha)
+msgctxt "an4.21:12.3"
+msgid ""
+"Atha khvāhaṃ, bhikkhave, brahmuno ca ajjhesanaṃ viditvā attano ca patirūpaṃ "
+"yvāyaṃ dhammo mayā abhisambuddho tameva dhammaṃ sakkatvā garuṃ katvā "
+"upanissāya vihāsiṃ."
+msgstr ""
+
+msgctxt "an4.21:12.4"
+msgid ""
+"Yato ca kho, bhikkhave, saṃghopi mahattena samannāgato, atha me saṃghepi "
+"gāravo”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an4.21:12.5"
+msgid "Paṭhamaṃ."
+msgstr ""

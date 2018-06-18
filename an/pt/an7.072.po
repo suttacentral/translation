@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/an/an7.072.po\n"
+"X-Pootle-Revision: 30843\n"
+
+#. <section class="sutta" id="an7.72"><article><div class="hgroup"><p class="division">
+msgctxt "an7.72:0.1"
+msgid "Aṅguttara Nikāya 7"
+msgstr ""
+
+#. </p><p>
+msgctxt "an7.72:0.2"
+msgid "7. Mahāvagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an7.72:0.3"
+msgid "72. Aggikkhandhopamasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.128"></a>
+#. <a class="sc" id="sc1"></a>
+#. <span class="evam">
+msgctxt "an7.72:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "an7.72:1.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā bhikkhusaṃghena saddhiṃ."
+msgstr ""
+
+#. VAR: sajotibhūtaṃ → sañjotibhūtaṃ (s1-3)
+msgctxt "an7.72:1.3"
+msgid ""
+"Addasā kho bhagavā addhānamaggappaṭipanno aññatarasmiṃ padese mahantaṃ "
+"aggikkhandhaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ."
+msgstr ""
+
+msgctxt "an7.72:1.4"
+msgid "Disvāna maggā okkamma aññatarasmiṃ rukkhamūle paññatte āsane nisīdi."
+msgstr ""
+
+msgctxt "an7.72:1.5"
+msgid "Nisajja kho bhagavā bhikkhū āmantesi:"
+msgstr ""
+
+msgctxt "an7.72:1.6"
+msgid ""
+"“passatha no tumhe, bhikkhave, amuṃ mahantaṃ aggikkhandhaṃ ādittaṃ "
+"sampajjalitaṃ sajotibhūtan”ti?"
+msgstr ""
+
+msgctxt "an7.72:1.7"
+msgid "“Evaṃ, bhante”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an7.72:2.1"
+msgid "“Taṃ kiṃ maññatha, bhikkhave? "
+msgstr ""
+
+msgctxt "an7.72:2.2"
+msgid ""
+"katamaṃ nu kho varaṃ—yaṃ amuṃ mahantaṃ aggikkhandhaṃ ādittaṃ sampajjalitaṃ "
+"sajotibhūtaṃ āliṅgetvā upanisīdeyya vā upanipajjeyya vā, yaṃ vā "
+"khattiyakaññaṃ vā brāhmaṇakaññaṃ vā gahapatikaññaṃ vā mudutalunahatthapādaṃ "
+"āliṅgetvā upanisīdeyya vā upanipajjeyya vā”ti?"
+msgstr ""
+
+msgctxt "an7.72:2.3"
+msgid ""
+"“Etadeva, bhante, varaṃ—yaṃ khattiyakaññaṃ vā brāhmaṇakaññaṃ vā "
+"gahapatikaññaṃ vā mudutalunahatthapādaṃ āliṅgetvā upanisīdeyya vā "
+"upanipajjeyya vā, dukkhañhetaṃ, bhante, yaṃ amuṃ mahantaṃ aggikkhandhaṃ "
+"ādittaṃ sampajjalitaṃ sajotibhūtaṃ āliṅgetvā upanisīdeyya vā upanipajjeyya "
+"vā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.129"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an7.72:3.1"
+msgid ""
+"“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa "
+"varaṃ dussīlassa pāpadhammassa asucisaṅkassarasamācārassa "
+"paṭicchannakammantassa assamaṇassa samaṇapaṭiññassa abrahmacārissa "
+"brahmacāripaṭiññassa antopūtikassa avassutassa kasambujātassa yaṃ amuṃ "
+"mahantaṃ aggikkhandhaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ āliṅgetvā "
+"upanisīdeyya vā upanipajjeyya vā."
+msgstr ""
+
+msgctxt "an7.72:3.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an7.72:3.3"
+msgid ""
+"Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, "
+"na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjeyya."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+#. VAR: tañhi tassa → taṃ hissa (pts1, mr)
+msgctxt "an7.72:4.1"
+msgid ""
+"Yañca kho so, bhikkhave, dussīlo pāpadhammo asucisaṅkassarasamācāro … pe … "
+"kasambujāto khattiyakaññaṃ vā brāhmaṇakaññaṃ vā gahapatikaññaṃ vā "
+"mudutalunahatthapādaṃ āliṅgetvā upanisīdati vā upanipajjati vā, tañhi tassa, "
+"bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā "
+"apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (1)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an7.72:5.1"
+msgid "Taṃ kiṃ maññatha, bhikkhave, "
+msgstr ""
+
+msgctxt "an7.72:5.2"
+msgid ""
+"katamaṃ nu kho varaṃ—yaṃ balavā puriso daḷhāya vālarajjuyā ubho jaṅghā "
+"veṭhetvā ghaṃseyya—sā chaviṃ chindeyya chaviṃ chetvā cammaṃ chindeyya cammaṃ "
+"chetvā maṃsaṃ chindeyya maṃsaṃ chetvā nhāruṃ chindeyya nhāruṃ chetvā aṭṭhiṃ "
+"chindeyya aṭṭhiṃ chetvā aṭṭhimiñjaṃ āhacca tiṭṭheyya, yaṃ vā "
+"khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā "
+"abhivādanaṃ sādiyeyyā”ti?"
+msgstr ""
+
+msgctxt "an7.72:5.3"
+msgid ""
+"“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā "
+"gahapatimahāsālānaṃ vā abhivādanaṃ sādiyeyya, dukkhañhetaṃ, bhante, yaṃ "
+"balavā puriso daḷhāya vālarajjuyā … pe … aṭṭhimiñjaṃ āhacca tiṭṭheyyā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.130"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an7.72:6.1"
+msgid ""
+"Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa "
+"varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso daḷhāya vālarajjuyā "
+"ubho jaṅghā veṭhetvā … pe … aṭṭhimiñjaṃ āhacca tiṭṭheyya."
+msgstr ""
+
+msgctxt "an7.72:6.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an7.72:6.3"
+msgid ""
+"Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, "
+"na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjeyya."
+msgstr ""
+
+msgctxt "an7.72:6.4"
+msgid ""
+"Yañca kho so, bhikkhave, dussīlo … pe … kasambujāto khattiyamahāsālānaṃ vā "
+"brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā abhivādanaṃ sādiyati, tañhi "
+"tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ "
+"maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (2)"
+msgstr ""
+
+# Not sure why BB prefers “spear” here. Oiling a sword is a normal part of maintenance.
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an7.72:7.1"
+msgid "“Taṃ kiṃ maññatha, bhikkhave, "
+msgstr ""
+
+msgctxt "an7.72:7.2"
+msgid ""
+"katamaṃ nu kho varaṃ—yaṃ balavā puriso tiṇhāya sattiyā teladhotāya "
+"paccorasmiṃ pahareyya, yaṃ vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā "
+"gahapatimahāsālānaṃ vā añjalikammaṃ sādiyeyyā”ti?"
+msgstr ""
+
+msgctxt "an7.72:7.3"
+msgid ""
+"“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā "
+"gahapatimahāsālānaṃ vā añjalikammaṃ sādiyeyya, dukkhañhetaṃ, bhante, yaṃ "
+"balavā puriso tiṇhāya sattiyā teladhotāya paccorasmiṃ pahareyyā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an7.72:8.1"
+msgid ""
+"“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa "
+"varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso tiṇhāya sattiyā "
+"teladhotāya paccorasmiṃ pahareyya."
+msgstr ""
+
+msgctxt "an7.72:8.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an7.72:8.3"
+msgid ""
+"Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, "
+"na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjeyya."
+msgstr ""
+
+msgctxt "an7.72:8.4"
+msgid ""
+"Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto "
+"khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā "
+"añjalikammaṃ sādiyati, tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya "
+"dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ "
+"upapajjati. (3)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.131"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an7.72:9.1"
+msgid "Taṃ kiṃ maññatha, bhikkhave, "
+msgstr ""
+
+msgctxt "an7.72:9.2"
+msgid ""
+"katamaṃ nu kho varaṃ—yaṃ balavā puriso tattena ayopaṭṭena ādittena "
+"sampajjalitena sajotibhūtena kāyaṃ sampaliveṭheyya, yaṃ vā "
+"khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā "
+"saddhādeyyaṃ cīvaraṃ paribhuñjeyyā”ti?"
+msgstr ""
+
+msgctxt "an7.72:9.3"
+msgid "“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā … pe …"
+msgstr ""
+
+msgctxt "an7.72:9.4"
+msgid ""
+"saddhādeyyaṃ cīvaraṃ paribhuñjeyya, dukkhañhetaṃ, bhante, yaṃ balavā puriso "
+"tattena ayopaṭṭena ādittena sampajjalitena sajotibhūtena kāyaṃ "
+"sampaliveṭheyyā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "an7.72:10.1"
+msgid ""
+"“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa "
+"varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso tattena ayopaṭṭena "
+"ādittena sampajjalitena sajotibhūtena kāyaṃ sampaliveṭheyya."
+msgstr ""
+
+msgctxt "an7.72:10.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an7.72:10.3"
+msgid ""
+"Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, "
+"na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjeyya."
+msgstr ""
+
+msgctxt "an7.72:10.4"
+msgid ""
+"Yañca kho so, bhikkhave, dussīlo … pe … kasambujāto khattiyamahāsālānaṃ vā "
+"brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā saddhādeyyaṃ cīvaraṃ "
+"paribhuñjati, tañhi tassa, bhikkhave, hoti dīgharattaṃ ahitāya dukkhāya "
+"kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. (4)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.132"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "an7.72:11.1"
+msgid "Taṃ kiṃ maññatha, bhikkhave, "
+msgstr ""
+
+#. VAR: daheyya → ḍaheyya (katthaci)
+msgctxt "an7.72:11.2"
+msgid ""
+"katamaṃ nu kho varaṃ—yaṃ balavā puriso tattena ayosaṅkunā mukhaṃ vivaritvā "
+"tattaṃ lohaguḷaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ mukhe pakkhipeyya—taṃ "
+"tassa oṭṭhampi daheyya mukhampi daheyya jivhampi daheyya kaṇṭhampi daheyya "
+"urampi daheyya antampi antaguṇampi ādāya adhobhāgā nikkhameyya, yaṃ vā "
+"khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā "
+"saddhādeyyaṃ piṇḍapātaṃ paribhuñjeyyā”ti?"
+msgstr ""
+
+msgctxt "an7.72:11.3"
+msgid ""
+"“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā "
+"gahapatimahāsālānaṃ vā saddhādeyyaṃ piṇḍapātaṃ paribhuñjeyya, dukkhañhetaṃ, "
+"bhante, yaṃ balavā puriso tattena ayosaṅkunā mukhaṃ vivaritvā tattaṃ "
+"lohaguḷaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ mukhe pakkhipeyya—taṃ tassa "
+"oṭṭhampi daheyya mukhampi daheyya jivhampi daheyya kaṇṭhampi daheyya urampi "
+"daheyya antampi antaguṇampi ādāya adhobhāgaṃ nikkhameyyā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an7.72:12.1"
+msgid ""
+"“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa "
+"varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso tattena ayosaṅkunā "
+"mukhaṃ vivaritvā tattaṃ lohaguḷaṃ ādittaṃ sampajjalitaṃ sajotibhūtaṃ mukhe "
+"pakkhipeyya—taṃ tassa oṭṭhampi daheyya mukhampi daheyya jivhampi daheyya "
+"kaṇṭhampi daheyya urampi daheyya antampi antaguṇampi ādāya adhobhāgaṃ "
+"nikkhameyya."
+msgstr ""
+
+msgctxt "an7.72:12.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an7.72:12.3"
+msgid ""
+"Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, "
+"na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjeyya."
+msgstr ""
+
+msgctxt "an7.72:12.4"
+msgid ""
+"Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto "
+"khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā "
+"saddhādeyyaṃ piṇḍapātaṃ paribhuñjati, tañhi tassa hoti dīgharattaṃ ahitāya "
+"dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ "
+"upapajjati. (5)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.133"></a>
+#. <a class="sc" id="sc13"></a>
+msgctxt "an7.72:13.1"
+msgid "Taṃ kiṃ maññatha, bhikkhave, "
+msgstr ""
+
+#. VAR: mañcapīṭhaṃ → mañcaṃ vā pīṭhaṃ vā (mr)
+msgctxt "an7.72:13.2"
+msgid ""
+"katamaṃ nu kho varaṃ—yaṃ balavā puriso sīse vā gahetvā khandhe vā gahetvā "
+"tattaṃ ayomañcaṃ vā ayopīṭhaṃ vā abhinisīdāpeyya vā abhinipajjāpeyya vā, yaṃ "
+"vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā "
+"saddhādeyyaṃ mañcapīṭhaṃ paribhuñjeyyā”ti?"
+msgstr ""
+
+msgctxt "an7.72:13.3"
+msgid ""
+"“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā "
+"gahapatimahāsālānaṃ vā saddhādeyyaṃ mañcapīṭhaṃ paribhuñjeyya, dukkhañhetaṃ, "
+"bhante, yaṃ balavā puriso sīse vā gahetvā khandhe vā gahetvā tattaṃ "
+"ayomañcaṃ vā ayopīṭhaṃ vā abhinisīdāpeyya vā abhinipajjāpeyya vā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+msgctxt "an7.72:14.1"
+msgid ""
+"“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa "
+"varaṃ dussīlassa … pe … kasambujātassa yaṃ balavā puriso sīse vā gahetvā "
+"khandhe vā gahetvā tattaṃ ayomañcaṃ vā ayopīṭhaṃ vā abhinisīdāpeyya vā "
+"abhinipajjāpeyya vā."
+msgstr ""
+
+msgctxt "an7.72:14.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an7.72:14.3"
+msgid ""
+"Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, "
+"na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjeyya."
+msgstr ""
+
+msgctxt "an7.72:14.4"
+msgid ""
+"Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto "
+"khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā "
+"saddhādeyyaṃ mañcapīṭhaṃ paribhuñjati. Tañhi tassa, bhikkhave, hoti "
+"dīgharattaṃ ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ "
+"vinipātaṃ nirayaṃ upapajjati. (6)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.134"></a>
+#. <a class="sc" id="sc15"></a>
+msgctxt "an7.72:15.1"
+msgid "Taṃ kiṃ maññatha, bhikkhave, "
+msgstr ""
+
+msgctxt "an7.72:15.2"
+msgid ""
+"katamaṃ nu kho varaṃ—yaṃ balavā puriso uddhampādaṃ adhosiraṃ gahetvā tattāya "
+"lohakumbhiyā pakkhipeyya ādittāya sampajjalitāya sajotibhūtāya—so tattha "
+"pheṇuddehakaṃ paccamāno sakimpi uddhaṃ gaccheyya sakimpi adho gaccheyya "
+"sakimpi tiriyaṃ gaccheyya, yaṃ vā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ "
+"vā gahapatimahāsālānaṃ vā saddhādeyyaṃ vihāraṃ paribhuñjeyyā”ti?"
+msgstr ""
+
+msgctxt "an7.72:15.3"
+msgid ""
+"“Etadeva, bhante, varaṃ—yaṃ khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā "
+"gahapatimahāsālānaṃ vā saddhādeyyaṃ vihāraṃ paribhuñjeyya, dukkhañhetaṃ, "
+"bhante, yaṃ balavā puriso uddhampādaṃ adhosiraṃ gahetvā tattāya lohakumbhiyā "
+"pakkhipeyya ādittāya sampajjalitāya sajotibhūtāya—so tattha pheṇuddehakaṃ "
+"paccamāno sakimpi uddhaṃ gaccheyya sakimpi adho gaccheyya sakimpi tiriyaṃ "
+"gaccheyyā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc16"></a>
+msgctxt "an7.72:16.1"
+msgid ""
+"“Ārocayāmi vo, bhikkhave, paṭivedayāmi vo, bhikkhave, yathā etadeva tassa "
+"varaṃ dussīlassa pāpadhammassa … pe … kasambujātassa yaṃ balavā puriso "
+"uddhampādaṃ adhosiraṃ gahetvā … pe … sakimpi tiriyaṃ gaccheyya."
+msgstr ""
+
+msgctxt "an7.72:16.2"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an7.72:16.3"
+msgid ""
+"Tatonidānañhi so, bhikkhave, maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ, "
+"na tveva tappaccayā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjeyya."
+msgstr ""
+
+msgctxt "an7.72:16.4"
+msgid ""
+"Yañca kho so, bhikkhave, dussīlo pāpadhammo … pe … kasambujāto "
+"khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā "
+"saddhādeyyaṃ vihāraṃ paribhuñjati. Tañhi tassa, bhikkhave, hoti dīgharattaṃ "
+"ahitāya dukkhāya kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjati. (7)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.135"></a>
+#. <a class="sc" id="sc17"></a>
+msgctxt "an7.72:17.1"
+msgid "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:"
+msgstr ""
+
+#. VAR: yesañca → yesaṃ (?)
+#. VAR: cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṃ → … parikkhārānaṃ (s1-3, pts1, mr)
+msgctxt "an7.72:17.2"
+msgid ""
+"‘yesañca mayaṃ paribhuñjāma "
+"cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṃ tesaṃ te kārā "
+"mahapphalā bhavissanti mahānisaṃsā, amhākañcevāyaṃ pabbajjā avañjhā "
+"bhavissati saphalā saudrayā’ti."
+msgstr ""
+
+msgctxt "an7.72:17.3"
+msgid "Evañhi vo, bhikkhave, sikkhitabbaṃ:"
+msgstr ""
+
+msgctxt "an7.72:17.4"
+msgid "‘attatthaṃ vā, bhikkhave, sampassamānena alameva appamādena sampādetuṃ;"
+msgstr ""
+
+msgctxt "an7.72:17.5"
+msgid "paratthaṃ vā, bhikkhave, sampassamānena alameva appamādena sampādetuṃ;"
+msgstr ""
+
+msgctxt "an7.72:17.6"
+msgid ""
+"ubhayatthaṃ vā, bhikkhave, sampassamānena alameva appamādena sampādetun’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc18"></a>
+#. VAR: Idamavoca bhagavā → idamavoca bhagavā …pe… (mr)
+msgctxt "an7.72:18.1"
+msgid "Idamavoca bhagavā."
+msgstr ""
+
+#. VAR: uggañchi → uggacchi (mr)
+msgctxt "an7.72:18.2"
+msgid ""
+"Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne saṭṭhimattānaṃ bhikkhūnaṃ uṇhaṃ "
+"lohitaṃ mukhato uggañchi."
+msgstr ""
+
+msgctxt "an7.72:18.3"
+msgid "Saṭṭhimattā bhikkhū sikkhaṃ paccakkhāya hīnāyāvattiṃsu:"
+msgstr ""
+
+msgctxt "an7.72:18.4"
+msgid "“sudukkaraṃ bhagavā, sudukkaraṃ bhagavā”ti."
+msgstr ""
+
+msgctxt "an7.72:18.5"
+msgid "Saṭṭhimattānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsūti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an7.72:18.6"
+msgid "Aṭṭhamaṃ."
+msgstr ""

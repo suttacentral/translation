@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an7.069.pot\n"
+"X-Pootle-Revision: 14484\n"
+
+#. <section class="sutta" id="an7.69"><article><div class="hgroup"><p class="division">
+msgctxt "an7.69:0.1"
+msgid "Aṅguttara Nikāya 7"
+msgstr ""
+
+#. </p><p>
+msgctxt "an7.69:0.2"
+msgid "7. Mahāvagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an7.69:0.3"
+msgid "69. Pāricchattakasutta"
+msgstr ""
+
+# BB has “coral tree”, but it seems this is an old mistake. It is the Orchid Tree, http://www.flowersofindia.net/catalog/slides/Kachnar.html
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an7.69:1.1"
+msgid ""
+"“Yasmiṃ, bhikkhave, samaye devānaṃ tāvatiṃsānaṃ pāricchattako koviḷāro "
+"paṇḍupalāso hoti, attamanā, bhikkhave, devā tāvatiṃsā tasmiṃ samaye honti:"
+msgstr ""
+
+msgctxt "an7.69:1.2"
+msgid ""
+"‘paṇḍupalāso dāni pāricchattako koviḷāro nacirasseva dāni pannapalāso "
+"bhavissatī’ti. (1)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an7.69:2.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye devānaṃ tāvatiṃsānaṃ pāricchattako koviḷāro "
+"pannapalāso hoti, attamanā, bhikkhave, devā tāvatiṃsā tasmiṃ samaye honti:"
+msgstr ""
+
+# I follow BB’s botanical interpretation here, but use more colloquial terms. I doubt if the devas sounded like botany textbooks.
+msgctxt "an7.69:2.2"
+msgid ""
+"‘pannapalāso dāni pāricchattako koviḷāro nacirasseva dāni jālakajāto "
+"bhavissatī’ti. (2)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an7.69:3.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye devānaṃ tāvatiṃsānaṃ pāricchattako koviḷāro "
+"jālakajāto hoti, attamanā, bhikkhave, devā tāvatiṃsā tasmiṃ samaye honti:"
+msgstr ""
+
+msgctxt "an7.69:3.2"
+msgid ""
+"‘jālakajāto dāni pāricchattako koviḷāro nacirasseva dāni khārakajāto "
+"bhavissatī’ti. (3)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an7.69:4.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye devānaṃ tāvatiṃsānaṃ pāricchattako koviḷāro "
+"khārakajāto hoti, attamanā, bhikkhave, devā tāvatiṃsā tasmiṃ samaye honti:"
+msgstr ""
+
+#. VAR: kuṭumalakajāto → kuḍumalakajāto (bj, s1-3, pts1)
+msgctxt "an7.69:4.2"
+msgid ""
+"‘khārakajāto dāni pāricchattako koviḷāro nacirasseva dāni kuṭumalakajāto "
+"bhavissatī’ti. (4)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.118"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an7.69:5.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye devānaṃ tāvatiṃsānaṃ pāricchattako koviḷāro "
+"kuṭumalakajāto hoti, attamanā, bhikkhave, devā tāvatiṃsā tasmiṃ samaye honti:"
+msgstr ""
+
+#. VAR: korakajāto → kokāsakajāto (bj, s1-3, pts1) | kosakajāto (mr)
+msgctxt "an7.69:5.2"
+msgid ""
+"‘kuṭumalakajāto dāni pāricchattako koviḷāro nacirasseva dāni korakajāto "
+"bhavissatī’ti. (5)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an7.69:6.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye devānaṃ tāvatiṃsānaṃ pāricchattako koviḷāro "
+"korakajāto hoti, attamanā, bhikkhave, devā tāvatiṃsā tasmiṃ samaye honti:"
+msgstr ""
+
+#. VAR: sabbaphāliphullo → sabbapāliphullo (bj)
+msgctxt "an7.69:6.2"
+msgid ""
+"‘korakajāto dāni pāricchattako koviḷāro nacirasseva dāni sabbaphāliphullo "
+"bhavissatī’ti. (6)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an7.69:7.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye devānaṃ tāvatiṃsānaṃ pāricchattako koviḷāro "
+"sabbaphāliphullo hoti, attamanā, bhikkhave, devā tāvatiṃsā pāricchattakassa "
+"koviḷārassa mūle dibbe cattāro māse pañcahi kāmaguṇehi samappitā "
+"samaṅgībhūtā paricārenti. (7)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an7.69:8.1"
+msgid ""
+"Sabbaphāliphullassa kho pana, bhikkhave, pāricchattakassa koviḷārassa "
+"samantā paññāsayojanāni ābhāya phuṭaṃ hoti, anuvātaṃ yojanasataṃ gandho "
+"gacchati, ayamānubhāvo pāricchattakassa koviḷārassa."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an7.69:9.1"
+msgid ""
+"Evamevaṃ kho, bhikkhave, yasmiṃ samaye ariyasāvako agārasmā anagāriyaṃ "
+"pabbajjāya ceteti, paṇḍupalāso, bhikkhave, ariyasāvako tasmiṃ samaye hoti "
+"devānaṃva tāvatiṃsānaṃ pāricchattako koviḷāro. (1)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "an7.69:10.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye ariyasāvako kesamassuṃ ohāretvā kāsāyāni vatthāni "
+"acchādetvā agārasmā anagāriyaṃ pabbajito hoti, pannapalāso, bhikkhave, "
+"ariyasāvako tasmiṃ samaye hoti devānaṃva tāvatiṃsānaṃ pāricchattako "
+"koviḷāro. (2)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "an7.69:11.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye ariyasāvako vivicceva kāmehi … pe … paṭhamaṃ "
+"jhānaṃ upasampajja viharati,"
+msgstr ""
+
+msgctxt "an7.69:11.2"
+msgid ""
+"jālakajāto, bhikkhave, ariyasāvako tasmiṃ samaye hoti devānaṃva tāvatiṃsānaṃ "
+"pāricchattako koviḷāro. (3)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an7.69:12.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye ariyasāvako vitakkavicārānaṃ vūpasamā … pe … "
+"dutiyaṃ jhānaṃ upasampajja viharati,"
+msgstr ""
+
+msgctxt "an7.69:12.2"
+msgid ""
+"khārakajāto, bhikkhave, ariyasāvako tasmiṃ samaye hoti devānaṃva "
+"tāvatiṃsānaṃ pāricchattako koviḷāro. (4)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.119"></a>
+#. <a class="sc" id="sc13"></a>
+msgctxt "an7.69:13.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye ariyasāvako pītiyā ca virāgā … pe … tatiyaṃ jhānaṃ "
+"upasampajja viharati,"
+msgstr ""
+
+msgctxt "an7.69:13.2"
+msgid ""
+"kuṭumalakajāto, bhikkhave, ariyasāvako tasmiṃ samaye hoti devānaṃva "
+"tāvatiṃsānaṃ pāricchattako koviḷāro. (5)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+msgctxt "an7.69:14.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye ariyasāvako sukhassa ca pahānā dukkhassa ca pahānā "
+"… pe … catutthaṃ jhānaṃ upasampajja viharati,"
+msgstr ""
+
+msgctxt "an7.69:14.2"
+msgid ""
+"korakajāto, bhikkhave, ariyasāvako tasmiṃ samaye hoti devānaṃva tāvatiṃsānaṃ "
+"pāricchattako koviḷāro. (6)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc15"></a>
+msgctxt "an7.69:15.1"
+msgid ""
+"Yasmiṃ, bhikkhave, samaye ariyasāvako āsavānaṃ khayā … pe … sacchikatvā "
+"upasampajja viharati,"
+msgstr ""
+
+msgctxt "an7.69:15.2"
+msgid ""
+"sabbaphāliphullo, bhikkhave, ariyasāvako tasmiṃ samaye hoti devānaṃva "
+"tāvatiṃsānaṃ pāricchattako koviḷāro. (7)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.120"></a>
+#. <a class="sc" id="sc16"></a>
+msgctxt "an7.69:16.1"
+msgid "Tasmiṃ, bhikkhave, samaye bhummā devā saddamanussāventi:"
+msgstr ""
+
+msgctxt "an7.69:16.2"
+msgid ""
+"‘eso itthannāmo āyasmā itthannāmassa āyasmato saddhivihāriko amukamhā gāmā "
+"vā nigamā vā agārasmā anagāriyaṃ pabbajito āsavānaṃ khayā anāsavaṃ "
+"cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
+"upasampajja viharatī’ti."
+msgstr ""
+
+msgctxt "an7.69:16.3"
+msgid "Bhummānaṃ devānaṃ saddaṃ sutvā cātumahārājikā devā … pe …"
+msgstr ""
+
+msgctxt "an7.69:16.4"
+msgid "tāvatiṃsā devā …"
+msgstr ""
+
+msgctxt "an7.69:16.5"
+msgid "yāmā devā …"
+msgstr ""
+
+msgctxt "an7.69:16.6"
+msgid "tusitā devā …"
+msgstr ""
+
+msgctxt "an7.69:16.7"
+msgid "nimmānaratī devā …"
+msgstr ""
+
+msgctxt "an7.69:16.8"
+msgid "paranimmitavasavattī devā …"
+msgstr ""
+
+msgctxt "an7.69:16.9"
+msgid "brahmakāyikā devā saddamanussāventi:"
+msgstr ""
+
+msgctxt "an7.69:16.10"
+msgid ""
+"‘eso itthannāmo āyasmā itthannāmassa āyasmato saddhivihāriko amukamhā gāmā "
+"vā nigamā vā agārasmā anagāriyaṃ pabbajito āsavānaṃ khayā anāsavaṃ "
+"cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
+"upasampajja viharatī’ti."
+msgstr ""
+
+#. VAR: brahmalokā saddo → sādhukārasaddo (bj-a, Ma-aka aṭṭha.)
+msgctxt "an7.69:16.11"
+msgid ""
+"Itiha tena khaṇena tena muhuttena yāva brahmalokā saddo abbhuggacchati, "
+"ayamānubhāvo khīṇāsavassa bhikkhuno”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an7.69:16.12"
+msgid "Pañcamaṃ."
+msgstr ""

@@ -1,0 +1,915 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /zh_CN/mn/mn108.po\n"
+"X-Pootle-Revision: 35082\n"
+
+#. <section class="sutta" id="mn108"><article><div class="hgroup"><p class="division">
+msgctxt "mn108:0.1"
+msgid "Majjhima Nikāya 108"
+msgstr ""
+
+#. </p><h1>
+msgctxt "mn108:0.2"
+msgid "Gopakamoggallānasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="nya" id="nya1"></a>
+#. <a class="sc" id="sc1"></a>
+#. <span class="evam">
+msgctxt "mn108:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "mn108:1.2"
+msgid ""
+"ekaṃ samayaṃ āyasmā ānando rājagahe viharati veḷuvane kalandakanivāpe "
+"aciraparinibbute bhagavati."
+msgstr ""
+
+#. <a class="nya" id="nya2"></a>
+msgctxt "mn108:2.1"
+msgid ""
+"Tena kho pana samayena rājā māgadho ajātasattu vedehiputto rājagahaṃ "
+"paṭisaṅkhārāpeti rañño pajjotassa āsaṅkamāno."
+msgstr ""
+
+#. <a class="nya" id="nya3"></a>
+msgctxt "mn108:3.1"
+msgid ""
+"Atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ "
+"piṇḍāya pāvisi."
+msgstr ""
+
+msgctxt "mn108:3.2"
+msgid "Atha kho āyasmato ānandassa etadahosi:"
+msgstr ""
+
+msgctxt "mn108:3.3"
+msgid "“atippago kho tāva rājagahe piṇḍāya carituṃ."
+msgstr ""
+
+msgctxt "mn108:3.4"
+msgid ""
+"Yannūnāhaṃ yena gopakamoggallānassa brāhmaṇassa kammanto, yena "
+"gopakamoggallāno brāhmaṇo tenupasaṅkameyyan”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya4"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.8"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "mn108:4.1"
+msgid ""
+"Atha kho āyasmā ānando yena gopakamoggallānassa brāhmaṇassa kammanto, yena "
+"gopakamoggallāno brāhmaṇo tenupasaṅkami."
+msgstr ""
+
+msgctxt "mn108:4.2"
+msgid ""
+"Addasā kho gopakamoggallāno brāhmaṇo āyasmantaṃ ānandaṃ dūratova āgacchantaṃ."
+msgstr ""
+
+msgctxt "mn108:4.3"
+msgid "Disvāna āyasmantaṃ ānandaṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn108:4.4"
+msgid "“etu kho bhavaṃ ānando."
+msgstr ""
+
+msgctxt "mn108:4.5"
+msgid "Svāgataṃ bhoto ānandassa."
+msgstr ""
+
+msgctxt "mn108:4.6"
+msgid "Cirassaṃ kho bhavaṃ ānando imaṃ pariyāyamakāsi yadidaṃ idhāgamanāya."
+msgstr ""
+
+msgctxt "mn108:4.7"
+msgid "Nisīdatu bhavaṃ ānando, idamāsanaṃ paññattan”ti."
+msgstr ""
+
+msgctxt "mn108:4.8"
+msgid "Nisīdi kho āyasmā ānando paññatte āsane."
+msgstr ""
+
+msgctxt "mn108:4.9"
+msgid ""
+"Gopakamoggallānopi kho brāhmaṇo aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ "
+"nisīdi."
+msgstr ""
+
+msgctxt "mn108:4.10"
+msgid ""
+"Ekamantaṃ nisinno kho gopakamoggallāno brāhmaṇo āyasmantaṃ ānandaṃ etadavoca:"
+msgstr ""
+
+#. <a class="nya" id="nya5"></a>
+msgctxt "mn108:5.1"
+msgid ""
+"“atthi nu kho, bho ānanda, ekabhikkhupi tehi dhammehi sabbenasabbaṃ "
+"sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhavaṃ gotamo ahosi "
+"arahaṃ sammāsambuddho”ti?"
+msgstr ""
+
+msgctxt "mn108:5.2"
+msgid ""
+"“Natthi kho, brāhmaṇa, ekabhikkhupi tehi dhammehi sabbenasabbaṃ "
+"sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhagavā ahosi arahaṃ "
+"sammāsambuddho."
+msgstr ""
+
+msgctxt "mn108:5.3"
+msgid ""
+"So hi, brāhmaṇa, bhagavā anuppannassa maggassa uppādetā, asañjātassa "
+"maggassa sañjanetā, anakkhātassa maggassa akkhātā, maggaññū, maggavidū, "
+"maggakovido;"
+msgstr ""
+
+msgctxt "mn108:5.4"
+msgid "maggānugā ca pana etarahi sāvakā viharanti pacchā samannāgatā”ti."
+msgstr ""
+
+#. <a class="nya" id="nya6"></a>
+msgctxt "mn108:6.1"
+msgid ""
+"Ayañca hidaṃ āyasmato ānandassa gopakamoggallānena brāhmaṇena saddhiṃ "
+"antarākathā vippakatā ahosi."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.9"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "mn108:6.2"
+msgid ""
+"Atha kho vassakāro brāhmaṇo magadhamahāmatto rājagahe kammante "
+"anusaññāyamāno yena gopakamoggallānassa brāhmaṇassa kammanto, yenāyasmā "
+"ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodi."
+msgstr ""
+
+msgctxt "mn108:6.3"
+msgid ""
+"Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ "
+"nisinno kho vassakāro brāhmaṇo magadhamahāmatto āyasmantaṃ ānandaṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn108:6.4"
+msgid ""
+"“kāya nuttha, bho ānanda, etarahi kathāya sannisinnā, kā ca pana vo "
+"antarākathā vippakatā”ti?"
+msgstr ""
+
+msgctxt "mn108:6.5"
+msgid "“Idha maṃ, brāhmaṇa, gopakamoggallāno brāhmaṇo evamāha:"
+msgstr ""
+
+msgctxt "mn108:6.6"
+msgid ""
+"‘atthi nu kho, bho ānanda, ekabhikkhupi tehi dhammehi sabbenasabbaṃ "
+"sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhavaṃ gotamo ahosi "
+"arahaṃ sammāsambuddho’ti."
+msgstr ""
+
+msgctxt "mn108:6.7"
+msgid "Evaṃ vutte, ahaṃ, brāhmaṇa, gopakamoggallānaṃ brāhmaṇaṃ etadavocaṃ:"
+msgstr ""
+
+msgctxt "mn108:6.8"
+msgid ""
+"‘natthi kho, brāhmaṇa, ekabhikkhupi tehi dhammehi sabbenasabbaṃ "
+"sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhagavā ahosi arahaṃ "
+"sammāsambuddho."
+msgstr ""
+
+msgctxt "mn108:6.9"
+msgid ""
+"So hi, brāhmaṇa, bhagavā anuppannassa maggassa uppādetā, asañjātassa "
+"maggassa sañjanetā, anakkhātassa maggassa akkhātā, maggaññū, maggavidū, "
+"maggakovido;"
+msgstr ""
+
+msgctxt "mn108:6.10"
+msgid "maggānugā ca pana etarahi sāvakā viharanti pacchā samannāgatā’ti."
+msgstr ""
+
+msgctxt "mn108:6.11"
+msgid ""
+"Ayaṃ kho no, brāhmaṇa, gopakamoggallānena brāhmaṇena saddhiṃ antarākathā "
+"vippakatā."
+msgstr ""
+
+msgctxt "mn108:6.12"
+msgid "Atha tvaṃ anuppatto”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya7"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "mn108:7.1"
+msgid "“Atthi nu kho, bho ānanda, ekabhikkhupi tena bhotā gotamena ṭhapito:"
+msgstr ""
+
+# Cp use of patidhav in SN 12.20, MN 38
+#. VAR: paṭipādeyyāthā”ti → paṭidhā­vey­yāthāti (bj, s1-3, km, pts1)
+msgctxt "mn108:7.2"
+msgid ""
+"‘ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatī’ti, yaṃ tumhe etarahi "
+"paṭipādeyyāthā”ti?"
+msgstr ""
+
+msgctxt "mn108:7.3"
+msgid ""
+"“Natthi kho, brāhmaṇa, ekabhikkhupi tena bhagavatā jānatā passatā arahatā "
+"sammāsambuddhena ṭhapito:"
+msgstr ""
+
+msgctxt "mn108:7.4"
+msgid ""
+"‘ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatī’ti, yaṃ mayaṃ etarahi "
+"paṭipādeyyāmā”ti. "
+msgstr ""
+
+#. <a class="nya" id="nya8"></a>
+msgctxt "mn108:8.1"
+msgid ""
+"“Atthi pana, bho ānanda, ekabhikkhupi saṃghena sammato, sambahulehi therehi "
+"bhikkhūhi ṭhapito:"
+msgstr ""
+
+msgctxt "mn108:8.2"
+msgid ""
+"‘ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatī’ti, yaṃ tumhe etarahi "
+"paṭipādeyyāthā”ti?"
+msgstr ""
+
+msgctxt "mn108:8.3"
+msgid ""
+"“Natthi kho, brāhmaṇa, ekabhikkhupi saṃghena sammato, sambahulehi therehi "
+"bhikkhūhi ṭhapito:"
+msgstr ""
+
+msgctxt "mn108:8.4"
+msgid ""
+"‘ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatī’ti, yaṃ mayaṃ etarahi "
+"paṭipādeyyāmā”ti."
+msgstr ""
+
+#. <a class="nya" id="nya9"></a>
+msgctxt "mn108:9.1"
+msgid "“Evaṃ appaṭisaraṇe ca pana, bho ānanda, ko hetu sāmaggiyā”ti?"
+msgstr ""
+
+msgctxt "mn108:9.2"
+msgid "“Na kho mayaṃ, brāhmaṇa, appaṭisaraṇā;"
+msgstr ""
+
+msgctxt "mn108:9.3"
+msgid "sappaṭisaraṇā mayaṃ, brāhmaṇa;"
+msgstr ""
+
+msgctxt "mn108:9.4"
+msgid "dhammappaṭisaraṇā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya10"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.10"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "mn108:10.1"
+msgid "“‘Atthi nu kho, bho ānanda, ekabhikkhupi tena bhotā gotamena ṭhapito—"
+msgstr ""
+
+msgctxt "mn108:10.2"
+msgid ""
+"ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti, yaṃ tumhe etarahi "
+"paṭipādeyyāthā’ti—"
+msgstr ""
+
+msgctxt "mn108:10.3"
+msgid ""
+"iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi tena bhagavatā jānatā "
+"passatā arahatā sammāsambuddhena ṭhapito—"
+msgstr ""
+
+msgctxt "mn108:10.4"
+msgid ""
+"ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti, yaṃ mayaṃ etarahi "
+"paṭipādeyyāmā’ti vadesi;"
+msgstr ""
+
+msgctxt "mn108:10.5"
+msgid ""
+"‘atthi pana, bho ānanda, ekabhikkhupi saṅghena sammato, sambahulehi therehi "
+"bhikkhūhi ṭhapito—"
+msgstr ""
+
+msgctxt "mn108:10.6"
+msgid ""
+"ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatīti, yaṃ tumhe etarahi "
+"paṭipādeyyāthā’ti—"
+msgstr ""
+
+msgctxt "mn108:10.7"
+msgid ""
+"iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi saṅghena sammato, "
+"sambahulehi therehi bhikkhūhi ṭhapito—"
+msgstr ""
+
+msgctxt "mn108:10.8"
+msgid ""
+"ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatīti, yaṃ mayaṃ etarahi "
+"paṭipādeyyāmā’ti—"
+msgstr ""
+
+msgctxt "mn108:10.9"
+msgid "vadesi;"
+msgstr ""
+
+msgctxt "mn108:10.10"
+msgid ""
+"‘evaṃ appaṭisaraṇe ca pana, bho ānanda, ko hetu sāmaggiyā’ti iti puṭṭho "
+"samāno ‘na kho mayaṃ, brāhmaṇa, appaṭisaraṇā;"
+msgstr ""
+
+msgctxt "mn108:10.11"
+msgid "sappaṭisaraṇā mayaṃ, brāhmaṇa;"
+msgstr ""
+
+msgctxt "mn108:10.12"
+msgid "dhammappaṭisaraṇā’ti vadesi."
+msgstr ""
+
+msgctxt "mn108:10.13"
+msgid "Imassa pana, bho ānanda, bhāsitassa kathaṃ attho daṭṭhabbo”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "mn108:10.14"
+msgid ""
+"“Atthi kho, brāhmaṇa, tena bhagavatā jānatā passatā arahatā sammāsambuddhena "
+"bhikkhūnaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhaṃ."
+msgstr ""
+
+msgctxt "mn108:10.15"
+msgid ""
+"Te mayaṃ tadahuposathe yāvatikā ekaṃ gāmakhettaṃ upanissāya viharāma te "
+"sabbe ekajjhaṃ sannipatāma;"
+msgstr ""
+
+msgctxt "mn108:10.16"
+msgid "sannipatitvā yassa taṃ pavattati taṃ ajjhesāma."
+msgstr ""
+
+msgctxt "mn108:10.17"
+msgid ""
+"Tasmiñce bhaññamāne hoti bhikkhussa āpatti hoti vītikkamo taṃ mayaṃ "
+"yathādhammaṃ yathānusiṭṭhaṃ kāremāti."
+msgstr ""
+
+msgctxt "mn108:10.18"
+msgid "Na kira no bhavanto kārenti;"
+msgstr ""
+
+msgctxt "mn108:10.19"
+msgid "dhammo no kāreti”."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya11"></a>
+#. <a class="sc" id="sc7"></a>
+#. VAR: garuṃ karotha → garukarotha (bj, s1-3, km, pts1) VAR: garuṃ katvā → garukatvā (bj, s1-3, km, pts1)
+msgctxt "mn108:11.1"
+msgid ""
+"“Atthi nu kho, bho ānanda, ekabhikkhupi yaṃ tumhe etarahi sakkarotha garuṃ "
+"karotha mānetha pūjetha; sakkatvā garuṃ katvā upanissāya viharathā”ti?"
+msgstr ""
+
+# Following the PTS reading. rather curiously, neither here nor there is there a mention of any variant.
+msgctxt "mn108:11.2"
+msgid ""
+"“Natthi kho, brāhmaṇa, ekabhikkhupi yaṃ mayaṃ etarahi sakkaroma garuṃ karoma "
+"mānema pūjema; sakkatvā garuṃ katvā upanissāya viharāmā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.11"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "mn108:11.3"
+msgid "“‘Atthi nu kho, bho ānanda, ekabhikkhupi tena bhotā gotamena ṭhapito—"
+msgstr ""
+
+msgctxt "mn108:11.4"
+msgid ""
+"ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti yaṃ tumhe etarahi "
+"paṭipādeyyāthā’ti—"
+msgstr ""
+
+msgctxt "mn108:11.5"
+msgid ""
+"iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi tena bhagavatā jānatā "
+"passatā arahatā sammāsambuddhena ṭhapito—"
+msgstr ""
+
+#. <a class="nya" id="nya12"></a>
+msgctxt "mn108:12.1"
+msgid ""
+"ayaṃ vo mamaccayena paṭisaraṇaṃ bhavissatīti yaṃ mayaṃ etarahi paṭipādeyyāmā’"
+"ti vadesi;"
+msgstr ""
+
+msgctxt "mn108:12.2"
+msgid ""
+"‘atthi pana, bho ānanda, ekabhikkhupi saṅghena sammato, sambahulehi therehi "
+"bhikkhūhi ṭhapito—"
+msgstr ""
+
+msgctxt "mn108:12.3"
+msgid ""
+"ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatīti yaṃ tumhe etarahi "
+"paṭipādeyyāthā’ti—"
+msgstr ""
+
+msgctxt "mn108:12.4"
+msgid ""
+"iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi saṅghena sammato, "
+"sambahulehi therehi bhikkhūhi ṭhapito—"
+msgstr ""
+
+msgctxt "mn108:12.5"
+msgid ""
+"ayaṃ no bhagavato accayena paṭisaraṇaṃ bhavissatīti yaṃ mayaṃ etarahi "
+"paṭipādeyyāmā’ti vadesi;"
+msgstr ""
+
+msgctxt "mn108:12.6"
+msgid ""
+"‘atthi nu kho, bho ānanda, ekabhikkhupi yaṃ tumhe etarahi sakkarotha garuṃ "
+"karotha mānetha pūjetha; sakkatvā garuṃ katvā upanissāya viharathā’ti—"
+msgstr ""
+
+msgctxt "mn108:12.7"
+msgid ""
+"iti puṭṭho samāno ‘natthi kho, brāhmaṇa, ekabhikkhupi yaṃ mayaṃ etarahi "
+"sakkaroma garuṃ karoma mānema pūjema; sakkatvā garuṃ katvā upanissāya "
+"viharāmā’ti vadesi."
+msgstr ""
+
+msgctxt "mn108:12.8"
+msgid "Imassa pana, bho ānanda, bhāsitassa kathaṃ attho daṭṭhabbo”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya13"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "mn108:13.1"
+msgid ""
+"“Atthi kho, brāhmaṇa, tena bhagavatā jānatā passatā arahatā sammāsambuddhena "
+"dasa pasādanīyā dhammā akkhātā."
+msgstr ""
+
+msgctxt "mn108:13.2"
+msgid ""
+"Yasmiṃ no ime dhammā saṃvijjanti taṃ mayaṃ etarahi sakkaroma garuṃ karoma "
+"mānema pūjema; sakkatvā garuṃ katvā upanissāya viharāma."
+msgstr ""
+
+msgctxt "mn108:13.3"
+msgid "Katame dasa?"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya14"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "mn108:14.1"
+msgid ""
+"Idha, brāhmaṇa, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati "
+"ācāragocarasampanno, aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati "
+"sikkhāpadesu. (1)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya15"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "mn108:15.1"
+msgid "Bahussuto hoti sutadharo sutasannicayo."
+msgstr ""
+
+#. VAR: dhātā → dhatā (bj, s1-3, km, pts1)
+#. VAR: sātthaṃ, sabyañjanaṃ → sātthā sabyañjanā (bj, s1-3, km)
+msgctxt "mn108:15.2"
+msgid ""
+"Ye te dhammā ādikalyāṇā, majjhekalyāṇā, pariyosānakalyāṇā, sātthaṃ, "
+"sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti "
+"tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā "
+"diṭṭhiyā suppaṭividdhā. (2)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya16"></a>
+#. <a class="sc" id="sc12"></a>
+#. VAR: Santuṭṭho hoti → hoti itarītarehi (bj)
+msgctxt "mn108:16.1"
+msgid ""
+"Santuṭṭho hoti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi. (3)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya17"></a>
+#. <a class="sc" id="sc13"></a>
+msgctxt "mn108:17.1"
+msgid ""
+"Catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī "
+"hoti akicchalābhī akasiralābhī. (4)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya18"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.12"></a>
+#. <a class="sc" id="sc14"></a>
+#. VAR: tirokuṭṭaṃ → tirokuḍḍaṃ (bj, s1-3, km, pts1)
+#. VAR: parimasati → parāmasati (mr)
+msgctxt "mn108:18.1"
+msgid ""
+"Anekavihitaṃ iddhividhaṃ paccanubhoti—ekopi hutvā bahudhā hoti, bahudhāpi "
+"hutvā eko hoti; āvibhāvaṃ tirobhāvaṃ; tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ "
+"asajjamāno gacchati, seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṃ karoti, "
+"seyyathāpi udake; udakepi abhijjamāne gacchati, seyyathāpi pathaviyaṃ; "
+"ākāsepi pallaṅkena kamati, seyyathāpi pakkhī sakuṇo; imepi candimasūriye "
+"evaṃmahiddhike evaṃmahānubhāve pāṇinā parimasati parimajjati, yāva "
+"brahmalokāpi kāyena vasaṃ vatteti. (5)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya19"></a>
+#. <a class="sc" id="sc15"></a>
+msgctxt "mn108:19.1"
+msgid ""
+"Dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāti—dibbe "
+"ca mānuse ca, ye dūre santike ca. (6)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya20"></a>
+#. <a class="sc" id="sc16"></a>
+msgctxt "mn108:20.1"
+msgid ""
+"Parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānāti. Sarāgaṃ vā cittaṃ ‘"
+"sarāgaṃ cittan’ti pajānāti, vītarāgaṃ vā cittaṃ ‘vītarāgaṃ cittan’ti "
+"pajānāti, sadosaṃ vā cittaṃ ‘sadosaṃ cittan’ti pajānāti, vītadosaṃ vā cittaṃ "
+"‘vītadosaṃ cittan’ti pajānāti, samohaṃ vā cittaṃ ‘samohaṃ cittan’ti "
+"pajānāti, vītamohaṃ vā cittaṃ ‘vītamohaṃ cittan’ti pajānāti, saṅkhittaṃ vā "
+"cittaṃ ‘saṅkhittaṃ cittan’ti pajānāti, vikkhittaṃ vā cittaṃ ‘vikkhittaṃ "
+"cittan’ti pajānāti, mahaggataṃ vā cittaṃ ‘mahaggataṃ cittan’ti pajānāti, "
+"amahaggataṃ vā cittaṃ ‘amahaggataṃ cittan’ti pajānāti, sauttaraṃ vā cittaṃ ‘"
+"sauttaraṃ cittan’ti pajānāti, anuttaraṃ vā cittaṃ ‘anuttaraṃ cittan’ti "
+"pajānāti, samāhitaṃ vā cittaṃ ‘samāhitaṃ cittan’ti pajānāti, asamāhitaṃ vā "
+"cittaṃ ‘asamāhitaṃ cittan’ti pajānāti, vimuttaṃ vā cittaṃ ‘vimuttaṃ cittan’"
+"ti pajānāti, avimuttaṃ vā cittaṃ ‘avimuttaṃ cittan’ti pajānāti. (7)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya21"></a>
+#. <a class="sc" id="sc17"></a>
+msgctxt "mn108:21.1"
+msgid ""
+"Anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ—ekampi jātiṃ dvepi jātiyo "
+"tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo "
+"tiṃsampi jātiyo cattārīsampi jātiyo paññāsampi jātiyo jātisatampi "
+"jātisahassampi jātisatasahassampi anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe "
+"anekepi saṃvaṭṭavivaṭṭakappe: ‘amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo "
+"evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto amutra "
+"udapādiṃ; tatrāpāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro "
+"evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. "
+"Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati. (8)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya22"></a>
+#. <a class="sc" id="sc18"></a>
+msgctxt "mn108:22.1"
+msgid ""
+"Dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne "
+"upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage "
+"satte pajānāti. (9)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya23"></a>
+#. <a class="sc" id="sc19"></a>
+msgctxt "mn108:23.1"
+msgid ""
+"Āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ "
+"abhiññā sacchikatvā upasampajja viharati. (10)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc20"></a>
+msgctxt "mn108:23.2"
+msgid ""
+"Ime kho, brāhmaṇa, tena bhagavatā jānatā passatā arahatā sammāsambuddhena "
+"dasa pasādanīyā dhammā akkhātā."
+msgstr ""
+
+msgctxt "mn108:23.3"
+msgid ""
+"Yasmiṃ no ime dhammā saṃvijjanti taṃ mayaṃ etarahi sakkaroma garuṃ karoma "
+"mānema pūjema; sakkatvā garuṃ katvā upanissāya viharāmā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya24"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.13"></a>
+#. <a class="sc" id="sc21"></a>
+msgctxt "mn108:24.1"
+msgid ""
+"Evaṃ vutte, vassakāro brāhmaṇo magadhamahāmatto upanandaṃ senāpatiṃ āmantesi:"
+msgstr ""
+
+# BB reads this following PTS, with the following passage a continuation by Vassakara. But that means there is no response by the general. Surely it reads better as in MS edition. Note that just below, taggha starts a new speaker.
+#. VAR: maññati bhavaṃ senāpati → maññasi bhavaṃ senāpati (bj, mr) | maññasi evaṃ senāpati (s1-3, km, pts1)
+msgctxt "mn108:24.2"
+msgid ""
+"“Taṃ kiṃ maññati bhavaṃ senāpati yadime bhonto sakkātabbaṃ sakkaronti, garuṃ "
+"kātabbaṃ garuṃ karonti, "
+msgstr ""
+
+msgctxt "mn108:24.3"
+msgid "mānetabbaṃ mānenti, pūjetabbaṃ pūjenti”?"
+msgstr ""
+
+#. VAR: Tagghime → taggha me (mr)
+msgctxt "mn108:24.4"
+msgid ""
+"“Tagghime bhonto sakkātabbaṃ sakkaronti, garuṃ kātabbaṃ garuṃ karonti, "
+"mānetabbaṃ mānenti, pūjetabbaṃ pūjenti."
+msgstr ""
+
+msgctxt "mn108:24.5"
+msgid ""
+"Imañca hi te bhonto na sakkareyyuṃ na garuṃ kareyyuṃ na māneyyuṃ na pūjeyyuṃ;"
+msgstr ""
+
+msgctxt "mn108:24.6"
+msgid ""
+"atha kiñcarahi te bhonto sakkareyyuṃ garuṃ kareyyuṃ māneyyuṃ pūjeyyuṃ, "
+"sakkatvā garuṃ katvā mānetvā pūjetvā upanissāya vihareyyun”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya25"></a>
+#. <a class="sc" id="sc22"></a>
+msgctxt "mn108:25.1"
+msgid ""
+"Atha kho vassakāro brāhmaṇo magadhamahāmatto āyasmantaṃ ānandaṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn108:25.2"
+msgid "“kahaṃ pana bhavaṃ ānando etarahi viharatī”ti?"
+msgstr ""
+
+msgctxt "mn108:25.3"
+msgid "“Veḷuvane khohaṃ, brāhmaṇa, etarahi viharāmī”ti."
+msgstr ""
+
+msgctxt "mn108:25.4"
+msgid ""
+"“Kacci pana, bho ānanda, veḷuvanaṃ ramaṇīyañceva appasaddañca "
+"appanigghosañca vijanavātaṃ manussarāhasseyyakaṃ paṭisallānasāruppan”ti?"
+msgstr ""
+
+msgctxt "mn108:25.5"
+msgid ""
+"“Taggha, brāhmaṇa, veḷuvanaṃ ramaṇīyañceva appasaddañca appanigghosañca "
+"vijanavātaṃ manussarāhasseyyakaṃ paṭisallānasāruppaṃ, yathā taṃ tumhādisehi "
+"rakkhakehi gopakehī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc23"></a>
+msgctxt "mn108:25.6"
+msgid ""
+"“Taggha, bho ānanda, veḷuvanaṃ ramaṇīyañceva appasaddañca appanigghosañca "
+"vijanavātaṃ manussarāhasseyyakaṃ paṭisallānasāruppaṃ, yathā taṃ bhavantehi "
+"jhāyīhi jhānasīlīhi."
+msgstr ""
+
+msgctxt "mn108:25.7"
+msgid "Jhāyino ceva bhavanto jhānasīlino ca."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc24"></a>
+msgctxt "mn108:25.8"
+msgid ""
+"Ekamidāhaṃ, bho ānanda, samayaṃ so bhavaṃ gotamo vesāliyaṃ viharati mahāvane "
+"kūṭāgārasālāyaṃ."
+msgstr ""
+
+msgctxt "mn108:25.9"
+msgid ""
+"Atha khvāhaṃ, bho ānanda, yena mahāvanaṃ kūṭāgārasālā yena so bhavaṃ gotamo "
+"tenupasaṅkamiṃ."
+msgstr ""
+
+msgctxt "mn108:25.10"
+msgid "Tatra ca pana so bhavaṃ gotamo anekapariyāyena jhānakathaṃ kathesi."
+msgstr ""
+
+msgctxt "mn108:25.11"
+msgid "Jhāyī ceva so bhavaṃ gotamo ahosi jhānasīlī ca."
+msgstr ""
+
+msgctxt "mn108:25.12"
+msgid "Sabbañca pana so bhavaṃ gotamo jhānaṃ vaṇṇesī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya26"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.14"></a>
+#. <a class="sc" id="sc25"></a>
+msgctxt "mn108:26.1"
+msgid ""
+"“Na ca kho, brāhmaṇa, so bhagavā sabbaṃ jhānaṃ vaṇṇesi, napi so bhagavā "
+"sabbaṃ jhānaṃ na vaṇṇesīti."
+msgstr ""
+
+msgctxt "mn108:26.2"
+msgid "Kathaṃ rūpañca, brāhmaṇa, so bhagavā jhānaṃ na vaṇṇesi?"
+msgstr ""
+
+msgctxt "mn108:26.3"
+msgid ""
+"Idha, brāhmaṇa, ekacco kāmarāgapariyuṭṭhitena cetasā viharati "
+"kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṃ yathābhūtaṃ "
+"nappajānāti;"
+msgstr ""
+
+msgctxt "mn108:26.4"
+msgid ""
+"so kāmarāgaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati apajjhāyati."
+msgstr ""
+
+msgctxt "mn108:26.5"
+msgid ""
+"Byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena, uppannassa ca "
+"byāpādassa nissaraṇaṃ yathābhūtaṃ nappajānāti;"
+msgstr ""
+
+msgctxt "mn108:26.6"
+msgid ""
+"so byāpādaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati apajjhāyati."
+msgstr ""
+
+msgctxt "mn108:26.7"
+msgid ""
+"Thinamiddhapariyuṭṭhitena cetasā viharati thinamiddhaparetena, uppannassa ca "
+"thinamiddhassa nissaraṇaṃ yathābhūtaṃ nappajānāti;"
+msgstr ""
+
+msgctxt "mn108:26.8"
+msgid ""
+"so thinamiddhaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati "
+"apajjhāyati."
+msgstr ""
+
+msgctxt "mn108:26.9"
+msgid ""
+"Uddhaccakukkuccapariyuṭṭhitena cetasā viharati uddhaccakukkuccaparetena, "
+"uppannassa ca uddhaccakukkuccassa nissaraṇaṃ yathābhūtaṃ nappajānāti;"
+msgstr ""
+
+msgctxt "mn108:26.10"
+msgid ""
+"so uddhaccakukkuccaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati "
+"apajjhāyati."
+msgstr ""
+
+msgctxt "mn108:26.11"
+msgid ""
+"Vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena, uppannāya ca "
+"vicikicchāya nissaraṇaṃ yathābhūtaṃ nappajānāti;"
+msgstr ""
+
+msgctxt "mn108:26.12"
+msgid ""
+"so vicikicchaṃyeva antaraṃ karitvā jhāyati pajjhāyati nijjhāyati apajjhāyati."
+msgstr ""
+
+msgctxt "mn108:26.13"
+msgid "Evarūpaṃ kho, brāhmaṇa, so bhagavā jhānaṃ na vaṇṇesi."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya27"></a>
+#. <a class="sc" id="sc26"></a>
+msgctxt "mn108:27.1"
+msgid "Kathaṃ rūpañca, brāhmaṇa, so bhagavā jhānaṃ vaṇṇesi?"
+msgstr ""
+
+msgctxt "mn108:27.2"
+msgid ""
+"Idha, brāhmaṇa, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi "
+"savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja "
+"viharati."
+msgstr ""
+
+msgctxt "mn108:27.3"
+msgid ""
+"Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ "
+"avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ …"
+msgstr ""
+
+msgctxt "mn108:27.4"
+msgid "tatiyaṃ jhānaṃ …"
+msgstr ""
+
+msgctxt "mn108:27.5"
+msgid "catutthaṃ jhānaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn108:27.6"
+msgid "Evarūpaṃ kho, brāhmaṇa, so bhagavā jhānaṃ vaṇṇesī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya28"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.15"></a>
+#. <a class="sc" id="sc27"></a>
+msgctxt "mn108:28.1"
+msgid ""
+"“Gārayhaṃ kira, bho ānanda, so bhavaṃ gotamo jhānaṃ garahi, pāsaṃsaṃ pasaṃsi."
+msgstr ""
+
+msgctxt "mn108:28.2"
+msgid "Handa ca dāni mayaṃ, bho ānanda, gacchāma;"
+msgstr ""
+
+msgctxt "mn108:28.3"
+msgid "bahukiccā mayaṃ bahukaraṇīyā”ti."
+msgstr ""
+
+msgctxt "mn108:28.4"
+msgid "“Yassadāni tvaṃ, brāhmaṇa, kālaṃ maññasī”ti."
+msgstr ""
+
+msgctxt "mn108:28.5"
+msgid ""
+"Atha kho vassakāro brāhmaṇo magadhamahāmatto āyasmato ānandassa bhāsitaṃ "
+"abhinanditvā anumoditvā uṭṭhāyāsanā pakkāmi."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya29"></a>
+#. <a class="sc" id="sc28"></a>
+msgctxt "mn108:29.1"
+msgid ""
+"Atha kho gopakamoggallāno brāhmaṇo acirapakkante vassakāre brāhmaṇe "
+"magadhamahāmatte āyasmantaṃ ānandaṃ etadavoca:"
+msgstr ""
+
+msgctxt "mn108:29.2"
+msgid ""
+"“yaṃ no mayaṃ bhavantaṃ ānandaṃ apucchimhā taṃ no bhavaṃ ānando na "
+"byākāsī”ti."
+msgstr ""
+
+msgctxt "mn108:29.3"
+msgid "“Nanu te, brāhmaṇa, avocumhā:"
+msgstr ""
+
+msgctxt "mn108:29.4"
+msgid ""
+"‘natthi kho, brāhmaṇa, ekabhikkhupi tehi dhammehi sabbenasabbaṃ "
+"sabbathāsabbaṃ samannāgato yehi dhammehi samannāgato so bhagavā ahosi arahaṃ "
+"sammāsambuddho."
+msgstr ""
+
+msgctxt "mn108:29.5"
+msgid ""
+"So hi, brāhmaṇa, bhagavā anuppannassa maggassa uppādetā, asañjātassa "
+"maggassa sañjanetā, anakkhātassa maggassa akkhātā, maggaññū, maggavidū, "
+"maggakovido."
+msgstr ""
+
+msgctxt "mn108:29.6"
+msgid "Maggānugā ca pana etarahi sāvakā viharanti pacchā samannāgatā’”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "mn108:29.7"
+msgid "Gopakamoggallānasuttaṃ niṭṭhitaṃ aṭṭhamaṃ."
+msgstr ""

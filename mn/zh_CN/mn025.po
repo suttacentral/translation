@@ -1,0 +1,1150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /zh_CN/mn/mn025.po\n"
+"X-Pootle-Revision: 34916\n"
+
+#. <section class="sutta" id="mn25"><article><div class="hgroup"><p class="division">
+msgctxt "mn25:0.1"
+msgid "Majjhima Nikāya 25"
+msgstr ""
+
+#. </p><h1>
+msgctxt "mn25:0.2"
+msgid "Nivāpasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="nya" id="nya1"></a>
+#. <a class="sc" id="sc1"></a>
+#. <span class="evam">
+msgctxt "mn25:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "mn25:1.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+
+msgctxt "mn25:1.3"
+msgid "Tatra kho bhagavā bhikkhū āmantesi:"
+msgstr ""
+
+msgctxt "mn25:1.4"
+msgid "“bhikkhavo”ti."
+msgstr ""
+
+msgctxt "mn25:1.5"
+msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
+msgstr ""
+
+msgctxt "mn25:1.6"
+msgid "Bhagavā etadavoca:"
+msgstr ""
+
+# https://discourse.suttacentral.net/t/some-translation-issues-in-the-nivapa-sutta/3897
+#. </p><p>
+#. <a class="nya" id="nya2"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "mn25:2.1"
+msgid "“Na, bhikkhave, nevāpiko nivāpaṃ nivapati migajātānaṃ:"
+msgstr ""
+
+msgctxt "mn25:2.2"
+msgid ""
+"‘imaṃ me nivāpaṃ nivuttaṃ migajātā paribhuñjantā dīghāyukā vaṇṇavanto ciraṃ "
+"dīghamaddhānaṃ yāpentū’ti."
+msgstr ""
+
+msgctxt "mn25:2.3"
+msgid "Evañca kho, bhikkhave, nevāpiko nivāpaṃ nivapati migajātānaṃ:"
+msgstr ""
+
+msgctxt "mn25:2.4"
+msgid ""
+"‘imaṃ me nivāpaṃ nivuttaṃ migajātā anupakhajja mucchitā bhojanāni "
+"bhuñjissanti, anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjissanti, "
+"mattā samānā pamādaṃ āpajjissanti, pamattā samānā yathākāmakaraṇīyā "
+"bhavissanti imasmiṃ nivāpe’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya3"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "mn25:3.1"
+msgid ""
+"Tatra, bhikkhave, paṭhamā migajātā amuṃ nivāpaṃ nivuttaṃ nevāpikassa "
+"anupakhajja mucchitā bhojanāni bhuñjiṃsu, te tattha anupakhajja mucchitā "
+"bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā samānā pamādaṃ āpajjiṃsu, "
+"pamattā samānā yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe."
+msgstr ""
+
+msgctxt "mn25:3.2"
+msgid ""
+"Evañhi te, bhikkhave, paṭhamā migajātā na parimucciṃsu nevāpikassa "
+"iddhānubhāvā."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya4"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.152"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "mn25:4.1"
+msgid "Tatra, bhikkhave, dutiyā migajātā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:4.2"
+msgid ""
+"‘ye kho te paṭhamā migajātā amuṃ nivāpaṃ nivuttaṃ nevāpikassa anupakhajja "
+"mucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:4.3"
+msgid ""
+"Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā "
+"samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ "
+"nevāpikassa amusmiṃ nivāpe."
+msgstr ""
+
+msgctxt "mn25:4.4"
+msgid "Evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:4.5"
+msgid ""
+"Yannūna mayaṃ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā "
+"araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+msgstr ""
+
+msgctxt "mn25:4.6"
+msgid ""
+"Te sabbaso nivāpabhojanā paṭiviramiṃsu, bhayabhogā paṭiviratā araññāyatanāni "
+"ajjhogāhetvā vihariṃsu."
+msgstr ""
+
+msgctxt "mn25:4.7"
+msgid ""
+"Tesaṃ gimhānaṃ pacchime māse, tiṇodakasaṅkhaye, adhimattakasimānaṃ patto "
+"kāyo hoti."
+msgstr ""
+
+msgctxt "mn25:4.8"
+msgid "Tesaṃ adhimattakasimānaṃ pattakāyānaṃ balavīriyaṃ parihāyi."
+msgstr ""
+
+msgctxt "mn25:4.9"
+msgid "Balavīriye parihīne tameva nivāpaṃ nivuttaṃ nevāpikassa paccāgamiṃsu."
+msgstr ""
+
+msgctxt "mn25:4.10"
+msgid "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:4.11"
+msgid ""
+"Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā "
+"samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ "
+"nevāpikassa amusmiṃ nivāpe."
+msgstr ""
+
+msgctxt "mn25:4.12"
+msgid ""
+"Evañhi te, bhikkhave, dutiyāpi migajātā na parimucciṃsu nevāpikassa "
+"iddhānubhāvā."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya5"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.153"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "mn25:5.1"
+msgid "Tatra, bhikkhave, tatiyā migajātā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:5.2"
+msgid "‘ye kho te paṭhamā migajātā amuṃ nivāpaṃ nivuttaṃ nevāpikassa … pe …"
+msgstr ""
+
+msgctxt "mn25:5.3"
+msgid "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:5.4"
+msgid "Yepi te dutiyā migajātā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:5.5"
+msgid "“ye kho te paṭhamā migajātā amuṃ nivāpaṃ nivuttaṃ nevāpikassa … pe …"
+msgstr ""
+
+msgctxt "mn25:5.6"
+msgid "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:5.7"
+msgid ""
+"Yannūna mayaṃ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā "
+"araññāyatanāni ajjhogāhetvā vihareyyāmā”ti."
+msgstr ""
+
+msgctxt "mn25:5.8"
+msgid ""
+"Te sabbaso nivāpabhojanā paṭiviramiṃsu, bhayabhogā paṭiviratā araññāyatanāni "
+"ajjhogāhetvā vihariṃsu."
+msgstr ""
+
+msgctxt "mn25:5.9"
+msgid ""
+"Tesaṃ gimhānaṃ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṃ patto kāyo "
+"hoti."
+msgstr ""
+
+msgctxt "mn25:5.10"
+msgid "Tesaṃ adhimattakasimānaṃ pattakāyānaṃ balavīriyaṃ parihāyi."
+msgstr ""
+
+msgctxt "mn25:5.11"
+msgid "Balavīriye parihīne tameva nivāpaṃ nivuttaṃ nevāpikassa paccāgamiṃsu."
+msgstr ""
+
+msgctxt "mn25:5.12"
+msgid "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:5.13"
+msgid ""
+"Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā "
+"samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ "
+"nevāpikassa amusmiṃ nivāpe."
+msgstr ""
+
+msgctxt "mn25:5.14"
+msgid "Evañhi te dutiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:5.15"
+msgid ""
+"Yannūna mayaṃ amuṃ nivāpaṃ nivuttaṃ nevāpikassa upanissāya āsayaṃ kappeyyāma."
+msgstr ""
+
+msgctxt "mn25:5.16"
+msgid ""
+"Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja "
+"amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā bhojanāni "
+"bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ āpajjissāma, "
+"appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa amusmiṃ "
+"nivāpe’ti."
+msgstr ""
+
+msgctxt "mn25:5.17"
+msgid "Te amuṃ nivāpaṃ nivuttaṃ nevāpikassa upanissāya āsayaṃ kappayiṃsu."
+msgstr ""
+
+msgctxt "mn25:5.18"
+msgid ""
+"Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja "
+"amucchitā bhojanāni bhuñjiṃsu, te tattha ananupakhajja amucchitā bhojanāni "
+"bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ āpajjiṃsu, appamattā "
+"samānā na yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "mn25:5.19"
+msgid "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:"
+msgstr ""
+
+# I take the unusual construction here as strongly emphatic, with the repeated use of nāma. parajana elsewhere simply means “another person” (Mil 6.3.1) but comm here glosses it as yakkha. A yakkha named Parajana makes an appearance in MN 31. The term literally means “alien”. Presumably it has a sense not dissimilar to “amanussa”.
+msgctxt "mn25:5.20"
+msgid ""
+"‘saṭhāssunāmime tatiyā migajātā ketabino, iddhimantāssunāmime tatiyā "
+"migajātā parajanā;"
+msgstr ""
+
+msgctxt "mn25:5.21"
+msgid ""
+"imañca nāma nivāpaṃ nivuttaṃ paribhuñjanti, na ca nesaṃ jānāma āgatiṃ vā "
+"gatiṃ vā."
+msgstr ""
+
+# Nyanamoli/BB’s “wicker hurdles” is too clever: vakara/vagura is the same root as wicker. But it’s hardly likely that an entire area was enclosed in wicker. The normal sense is “net”, so presumably it meant nets strung on high stakes. The deer or whatever would have leap over it, thus revealing their position.
+#. VAR: daṇḍavākarāhi → daṇḍavāgurāhi (s1-3)
+msgctxt "mn25:5.22"
+msgid ""
+"Yannūna mayaṃ imaṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā "
+"sappadesaṃ anuparivāreyyāma, appeva nāma tatiyānaṃ migajātānaṃ āsayaṃ "
+"passeyyāma, yattha te gāhaṃ gaccheyyun’ti."
+msgstr ""
+
+msgctxt "mn25:5.23"
+msgid ""
+"Te amuṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ "
+"anuparivāresuṃ."
+msgstr ""
+
+msgctxt "mn25:5.24"
+msgid ""
+"Addasaṃsu kho, bhikkhave, nevāpiko ca nevāpikaparisā ca tatiyānaṃ "
+"migajātānaṃ āsayaṃ, yattha te gāhaṃ agamaṃsu."
+msgstr ""
+
+msgctxt "mn25:5.25"
+msgid ""
+"Evañhi te, bhikkhave, tatiyāpi migajātā na parimucciṃsu nevāpikassa "
+"iddhānubhāvā."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya6"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.154"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "mn25:6.1"
+msgid "Tatra, bhikkhave, catutthā migajātā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:6.2"
+msgid "‘ye kho te paṭhamā migajātā … pe …"
+msgstr ""
+
+msgctxt "mn25:6.3"
+msgid "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:6.4"
+msgid "Yepi te dutiyā migajātā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:6.5"
+msgid "“ye kho te paṭhamā migajātā … pe …"
+msgstr ""
+
+msgctxt "mn25:6.6"
+msgid "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:6.7"
+msgid ""
+"Yannūna mayaṃ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā "
+"araññāyatanāni ajjhogāhetvā vihareyyāmā”ti."
+msgstr ""
+
+msgctxt "mn25:6.8"
+msgid "Te sabbaso nivāpabhojanā paṭiviramiṃsu … pe …"
+msgstr ""
+
+msgctxt "mn25:6.9"
+msgid "evañhi te dutiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:6.10"
+msgid "Yepi te tatiyā migajātā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:6.11"
+msgid "“ye kho te paṭhamā migajātā … pe …"
+msgstr ""
+
+msgctxt "mn25:6.12"
+msgid "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:6.13"
+msgid "Yepi te dutiyā migajātā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:6.14"
+msgid "‘ye kho te paṭhamā migajātā … pe …"
+msgstr ""
+
+msgctxt "mn25:6.15"
+msgid "evañhi te paṭhamā migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:6.16"
+msgid ""
+"Yannūna mayaṃ sabbaso nivāpabhojanā paṭivirameyyāma, bhayabhogā paṭiviratā "
+"araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+msgstr ""
+
+msgctxt "mn25:6.17"
+msgid "Te sabbaso nivāpabhojanā paṭiviramiṃsu … pe …"
+msgstr ""
+
+msgctxt "mn25:6.18"
+msgid "evañhi te dutiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:6.19"
+msgid ""
+"Yannūna mayaṃ amuṃ nivāpaṃ nivuttaṃ nevāpikassa upanissāya āsayaṃ "
+"kappeyyāma, tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa "
+"ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā "
+"bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ "
+"āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa "
+"amusmiṃ nivāpe”ti."
+msgstr ""
+
+msgctxt "mn25:6.20"
+msgid ""
+"Te amuṃ nivāpaṃ nivuttaṃ nevāpikassa upanissāya āsayaṃ kappayiṃsu, "
+"tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja "
+"amucchitā bhojanāni bhuñjiṃsu, te tattha ananupakhajja amucchitā bhojanāni "
+"bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ āpajjiṃsu, appamattā "
+"samānā na yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe."
+msgstr ""
+
+msgctxt "mn25:6.21"
+msgid "Tatra nevāpikassa ca nevāpikaparisāya ca etadahosi:"
+msgstr ""
+
+msgctxt "mn25:6.22"
+msgid ""
+"“saṭhāssunāmime tatiyā migajātā ketabino, iddhimantāssunāmime tatiyā "
+"migajātā parajanā, imañca nāma nivāpaṃ nivuttaṃ paribhuñjanti."
+msgstr ""
+
+msgctxt "mn25:6.23"
+msgid "Na ca nesaṃ jānāma āgatiṃ vā gatiṃ vā."
+msgstr ""
+
+msgctxt "mn25:6.24"
+msgid ""
+"Yannūna mayaṃ imaṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā "
+"sappadesaṃ anuparivāreyyāma, appeva nāma tatiyānaṃ migajātānaṃ āsayaṃ "
+"passeyyāma, yattha te gāhaṃ gaccheyyun”ti."
+msgstr ""
+
+msgctxt "mn25:6.25"
+msgid ""
+"Te amuṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ "
+"anuparivāresuṃ."
+msgstr ""
+
+msgctxt "mn25:6.26"
+msgid ""
+"Addasaṃsu kho nevāpiko ca nevāpikaparisā ca tatiyānaṃ migajātānaṃ āsayaṃ, "
+"yattha te gāhaṃ agamaṃsu."
+msgstr ""
+
+msgctxt "mn25:6.27"
+msgid "Evañhi te tatiyāpi migajātā na parimucciṃsu nevāpikassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:6.28"
+msgid ""
+"Yannūna mayaṃ yattha agati nevāpikassa ca nevāpikaparisāya ca tatrāsayaṃ "
+"kappeyyāma, tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa "
+"ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā "
+"bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ "
+"āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma nevāpikassa "
+"amusmiṃ nivāpe’ti."
+msgstr ""
+
+msgctxt "mn25:6.29"
+msgid ""
+"Te yattha agati nevāpikassa ca nevāpikaparisāya ca tatrāsayaṃ kappayiṃsu."
+msgstr ""
+
+msgctxt "mn25:6.30"
+msgid ""
+"Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ nevāpikassa ananupakhajja "
+"amucchitā bhojanāni bhuñjiṃsu, te tattha ananupakhajja amucchitā bhojanāni "
+"bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ āpajjiṃsu, appamattā "
+"samānā na yathākāmakaraṇīyā ahesuṃ nevāpikassa amusmiṃ nivāpe."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "mn25:6.31"
+msgid "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:"
+msgstr ""
+
+msgctxt "mn25:6.32"
+msgid ""
+"‘saṭhāssunāmime catutthā migajātā ketabino, iddhimantāssunāmime catutthā "
+"migajātā parajanā."
+msgstr ""
+
+msgctxt "mn25:6.33"
+msgid ""
+"Imañca nāma nivāpaṃ nivuttaṃ paribhuñjanti, na ca nesaṃ jānāma āgatiṃ vā "
+"gatiṃ vā."
+msgstr ""
+
+msgctxt "mn25:6.34"
+msgid ""
+"Yannūna mayaṃ imaṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā "
+"sappadesaṃ anuparivāreyyāma, appeva nāma catutthānaṃ migajātānaṃ āsayaṃ "
+"passeyyāma yattha te gāhaṃ gaccheyyun’ti."
+msgstr ""
+
+msgctxt "mn25:6.35"
+msgid ""
+"Te amuṃ nivāpaṃ nivuttaṃ mahatīhi daṇḍavākarāhi samantā sappadesaṃ "
+"anuparivāresuṃ."
+msgstr ""
+
+msgctxt "mn25:6.36"
+msgid ""
+"Neva kho, bhikkhave, addasaṃsu nevāpiko ca nevāpikaparisā ca catutthānaṃ "
+"migajātānaṃ āsayaṃ, yattha te gāhaṃ gaccheyyuṃ."
+msgstr ""
+
+msgctxt "mn25:6.37"
+msgid "Tatra, bhikkhave, nevāpikassa ca nevāpikaparisāya ca etadahosi:"
+msgstr ""
+
+msgctxt "mn25:6.38"
+msgid ""
+"‘sace kho mayaṃ catutthe migajāte ghaṭṭessāma, te ghaṭṭitā aññe ghaṭṭissanti "
+"te ghaṭṭitā aññe ghaṭṭissanti."
+msgstr ""
+
+msgctxt "mn25:6.39"
+msgid "Evaṃ imaṃ nivāpaṃ nivuttaṃ sabbaso migajātā parimuñcissanti."
+msgstr ""
+
+msgctxt "mn25:6.40"
+msgid "Yannūna mayaṃ catutthe migajāte ajjhupekkheyyāmā’ti."
+msgstr ""
+
+msgctxt "mn25:6.41"
+msgid ""
+"Ajjhupekkhiṃsu kho, bhikkhave, nevāpiko ca nevāpikaparisā ca catutthe "
+"migajāte."
+msgstr ""
+
+msgctxt "mn25:6.42"
+msgid ""
+"Evañhi te, bhikkhave, catutthā migajātā parimucciṃsu nevāpikassa "
+"iddhānubhāvā."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya7"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "mn25:7.1"
+msgid "Upamā kho me ayaṃ, bhikkhave, katā atthassa viññāpanāya."
+msgstr ""
+
+msgctxt "mn25:7.2"
+msgid "Ayaṃ cevettha attho—"
+msgstr ""
+
+msgctxt "mn25:7.3"
+msgid "nivāpoti kho, bhikkhave, pañcannetaṃ kāmaguṇānaṃ adhivacanaṃ."
+msgstr ""
+
+msgctxt "mn25:7.4"
+msgid "Nevāpikoti kho, bhikkhave, mārassetaṃ pāpimato adhivacanaṃ."
+msgstr ""
+
+msgctxt "mn25:7.5"
+msgid "Nevāpikaparisāti kho, bhikkhave, māraparisāyetaṃ adhivacanaṃ."
+msgstr ""
+
+msgctxt "mn25:7.6"
+msgid "Migajātāti kho, bhikkhave, samaṇabrāhmaṇānametaṃ adhivacanaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya8"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.156"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "mn25:8.1"
+msgid ""
+"Tatra, bhikkhave, paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa amūni "
+"ca lokāmisāni anupakhajja mucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:8.2"
+msgid ""
+"Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā "
+"samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ mārassa "
+"amusmiṃ nivāpe amusmiñca lokāmise."
+msgstr ""
+
+msgctxt "mn25:8.3"
+msgid ""
+"Evañhi te, bhikkhave, paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa "
+"iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:8.4"
+msgid ""
+"Seyyathāpi te, bhikkhave, paṭhamā migajātā tathūpame ahaṃ ime paṭhame "
+"samaṇabrāhmaṇe vadāmi."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya9"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "mn25:9.1"
+msgid "Tatra, bhikkhave, dutiyā samaṇabrāhmaṇā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:9.2"
+msgid ""
+"‘ye kho te paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca "
+"lokāmisāni anupakhajja mucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:9.3"
+msgid ""
+"Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā "
+"samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ mārassa "
+"amusmiṃ nivāpe amusmiñca lokāmise."
+msgstr ""
+
+msgctxt "mn25:9.4"
+msgid "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:9.5"
+msgid ""
+"Yannūna mayaṃ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā "
+"paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+msgstr ""
+
+# This a ghost sentence, formed by adding the first part of the subsequent sentence with the second part of the previous. It is absent from the PTS text.
+msgctxt "mn25:9.6"
+msgid ""
+"Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu, bhayabhogā paṭiviratā "
+"araññāyatanāni ajjhogāhetvā vihareyyāmāti."
+msgstr ""
+
+msgctxt "mn25:9.7"
+msgid ""
+"Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu, bhayabhogā paṭiviratā "
+"araññāyatanāni ajjhogāhetvā vihariṃsu."
+msgstr ""
+
+msgctxt "mn25:9.8"
+msgid ""
+"Te tattha sākabhakkhāpi ahesuṃ, sāmākabhakkhāpi ahesuṃ, nīvārabhakkhāpi "
+"ahesuṃ, daddulabhakkhāpi ahesuṃ, haṭabhakkhāpi ahesuṃ, kaṇabhakkhāpi ahesuṃ, "
+"ācāmabhakkhāpi ahesuṃ, piññākabhakkhāpi ahesuṃ, tiṇabhakkhāpi ahesuṃ, "
+"gomayabhakkhāpi ahesuṃ, vanamūlaphalāhārā yāpesuṃ pavattaphalabhojī."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.157"></a>
+#. <a class="sc" id="sc12"></a>
+msgctxt "mn25:9.9"
+msgid ""
+"Tesaṃ gimhānaṃ pacchime māse, tiṇodakasaṅkhaye, adhimattakasimānaṃ patto "
+"kāyo hoti."
+msgstr ""
+
+msgctxt "mn25:9.10"
+msgid "Tesaṃ adhimattakasimānaṃ pattakāyānaṃ balavīriyaṃ parihāyi."
+msgstr ""
+
+msgctxt "mn25:9.11"
+msgid "Balavīriye parihīne cetovimutti parihāyi."
+msgstr ""
+
+msgctxt "mn25:9.12"
+msgid ""
+"Cetovimuttiyā parihīnāya tameva nivāpaṃ nivuttaṃ mārassa paccāgamiṃsu tāni "
+"ca lokāmisāni."
+msgstr ""
+
+msgctxt "mn25:9.13"
+msgid "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:9.14"
+msgid ""
+"Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā "
+"samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ mārassa "
+"amusmiṃ nivāpe amusmiñca lokāmise."
+msgstr ""
+
+msgctxt "mn25:9.15"
+msgid ""
+"Evañhi te, bhikkhave, dutiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa "
+"iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:9.16"
+msgid ""
+"Seyyathāpi te, bhikkhave, dutiyā migajātā tathūpame ahaṃ ime dutiye "
+"samaṇabrāhmaṇe vadāmi."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya10"></a>
+#. <a class="sc" id="sc13"></a>
+msgctxt "mn25:10.1"
+msgid "Tatra, bhikkhave, tatiyā samaṇabrāhmaṇā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:10.2"
+msgid ""
+"‘ye kho te paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca "
+"lokāmisāni … pe …."
+msgstr ""
+
+msgctxt "mn25:10.3"
+msgid "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:10.4"
+msgid "Yepi te dutiyā samaṇabrāhmaṇā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:10.5"
+msgid ""
+"“ye kho te paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca "
+"lokāmisāni … pe …."
+msgstr ""
+
+msgctxt "mn25:10.6"
+msgid "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:10.7"
+msgid ""
+"Yannūna mayaṃ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā "
+"paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā”ti."
+msgstr ""
+
+msgctxt "mn25:10.8"
+msgid "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu."
+msgstr ""
+
+msgctxt "mn25:10.9"
+msgid "Bhayabhogā paṭiviratā araññāyatanāni ajjhogāhetvā vihariṃsu."
+msgstr ""
+
+msgctxt "mn25:10.10"
+msgid "Te tattha sākabhakkhāpi ahesuṃ … pe … pavattaphalabhojī."
+msgstr ""
+
+msgctxt "mn25:10.11"
+msgid ""
+"Tesaṃ gimhānaṃ pacchime māse tiṇodakasaṅkhaye adhimattakasimānaṃ patto kāyo "
+"hoti."
+msgstr ""
+
+msgctxt "mn25:10.12"
+msgid ""
+"Tesaṃ adhimattakasimānaṃ pattakāyānaṃ balavīriyaṃ parihāyi, balavīriye "
+"parihīne cetovimutti parihāyi, cetovimuttiyā parihīnāya tameva nivāpaṃ "
+"nivuttaṃ mārassa paccāgamiṃsu tāni ca lokāmisāni."
+msgstr ""
+
+msgctxt "mn25:10.13"
+msgid "Te tattha anupakhajja mucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:10.14"
+msgid ""
+"Te tattha anupakhajja mucchitā bhojanāni bhuñjamānā madaṃ āpajjiṃsu, mattā "
+"samānā pamādaṃ āpajjiṃsu, pamattā samānā yathākāmakaraṇīyā ahesuṃ mārassa "
+"amusmiṃ nivāpe amusmiñca lokāmise."
+msgstr ""
+
+msgctxt "mn25:10.15"
+msgid "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:10.16"
+msgid ""
+"Yannūna mayaṃ amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni upanissāya "
+"āsayaṃ kappeyyāma, tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni "
+"ca lokāmisāni ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja "
+"amucchitā bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na "
+"pamādaṃ āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma "
+"mārassa amusmiṃ nivāpe amusmiñca lokāmise’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.158"></a>
+#. <a class="sc" id="sc14"></a>
+msgctxt "mn25:10.17"
+msgid ""
+"Te amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni upanissāya āsayaṃ "
+"kappayiṃsu."
+msgstr ""
+
+msgctxt "mn25:10.18"
+msgid ""
+"Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni "
+"ananupakhajja amucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:10.19"
+msgid ""
+"Te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu, "
+"amattā samānā na pamādaṃ āpajjiṃsu, appamattā samānā na yathākāmakaraṇīyā "
+"ahesuṃ mārassa amusmiṃ nivāpe amusmiñca lokāmise."
+msgstr ""
+
+msgctxt "mn25:10.20"
+msgid "Api ca kho evaṃdiṭṭhikā ahesuṃ—"
+msgstr ""
+
+msgctxt "mn25:10.21"
+msgid "sassato loko itipi, asassato loko itipi;"
+msgstr ""
+
+msgctxt "mn25:10.22"
+msgid "antavā loko itipi, anantavā loko itipi;"
+msgstr ""
+
+msgctxt "mn25:10.23"
+msgid "taṃ jīvaṃ taṃ sarīraṃ itipi, aññaṃ jīvaṃ aññaṃ sarīraṃ itipi;"
+msgstr ""
+
+msgctxt "mn25:10.24"
+msgid ""
+"hoti tathāgato paraṃ maraṇā itipi, na hoti tathāgato paraṃ maraṇā itipi, "
+"hoti ca na ca hoti tathāgato paraṃ maraṇā itipi, neva hoti na na hoti "
+"tathāgato paraṃ maraṇā itipi."
+msgstr ""
+
+msgctxt "mn25:10.25"
+msgid ""
+"Evañhi te, bhikkhave, tatiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa "
+"iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:10.26"
+msgid ""
+"Seyyathāpi te, bhikkhave, tatiyā migajātā tathūpame ahaṃ ime tatiye "
+"samaṇabrāhmaṇe vadāmi."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya11"></a>
+#. <a class="sc" id="sc15"></a>
+msgctxt "mn25:11.1"
+msgid "Tatra, bhikkhave, catutthā samaṇabrāhmaṇā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:11.2"
+msgid "‘ye kho te paṭhamā samaṇabrāhmaṇā amuṃ nivāpaṃ nivuttaṃ mārassa … pe …."
+msgstr ""
+
+msgctxt "mn25:11.3"
+msgid "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:11.4"
+msgid "Yepi te dutiyā samaṇabrāhmaṇā evaṃ samacintesuṃ:"
+msgstr ""
+
+msgctxt "mn25:11.5"
+msgid "‘ye kho te paṭhamā samaṇabrāhmaṇā … pe …."
+msgstr ""
+
+msgctxt "mn25:11.6"
+msgid "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:11.7"
+msgid ""
+"Yannūna mayaṃ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma bhayabhogā "
+"paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+msgstr ""
+
+msgctxt "mn25:11.8"
+msgid "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu … pe …."
+msgstr ""
+
+msgctxt "mn25:11.9"
+msgid "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:11.10"
+msgid ""
+"Yepi te tatiyā samaṇabrāhmaṇā evaṃ samacintesuṃ ye kho te paṭhamā "
+"samaṇabrāhmaṇā … pe …."
+msgstr ""
+
+msgctxt "mn25:11.11"
+msgid "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:11.12"
+msgid ""
+"Yepi te dutiyā samaṇabrāhmaṇā evaṃ samacintesuṃ ye kho te paṭhamā "
+"samaṇabrāhmaṇā … pe …."
+msgstr ""
+
+msgctxt "mn25:11.13"
+msgid "Evañhi te paṭhamā samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:11.14"
+msgid ""
+"Yannūna mayaṃ sabbaso nivāpabhojanā lokāmisā paṭivirameyyāma, bhayabhogā "
+"paṭiviratā araññāyatanāni ajjhogāhetvā vihareyyāmā’ti."
+msgstr ""
+
+msgctxt "mn25:11.15"
+msgid "Te sabbaso nivāpabhojanā lokāmisā paṭiviramiṃsu … pe …."
+msgstr ""
+
+msgctxt "mn25:11.16"
+msgid "Evañhi te dutiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:11.17"
+msgid ""
+"Yannūna mayaṃ amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni upanissāya "
+"āsayaṃ kappeyyāma."
+msgstr ""
+
+msgctxt "mn25:11.18"
+msgid ""
+"Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni "
+"ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā "
+"bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ "
+"āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa "
+"amusmiṃ nivāpe amusmiñca lokāmiseti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc16"></a>
+msgctxt "mn25:11.19"
+msgid ""
+"Te amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni upanissāya āsayaṃ "
+"kappayiṃsu."
+msgstr ""
+
+msgctxt "mn25:11.20"
+msgid ""
+"Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni "
+"ananupakhajja amucchitā bhojanāni bhuñjiṃsu."
+msgstr ""
+
+msgctxt "mn25:11.21"
+msgid ""
+"Te tattha ananupakhajja amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu."
+msgstr ""
+
+msgctxt "mn25:11.22"
+msgid "Amattā samānā na pamādaṃ āpajjiṃsu."
+msgstr ""
+
+msgctxt "mn25:11.23"
+msgid ""
+"Appamattā samānā na yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ nivāpe "
+"amusmiñca lokāmise."
+msgstr ""
+
+msgctxt "mn25:11.24"
+msgid "Api ca kho evaṃdiṭṭhikā ahesuṃ sassato loko itipi … pe …"
+msgstr ""
+
+msgctxt "mn25:11.25"
+msgid "neva hoti na na hoti tathāgato paraṃ maraṇā itipi."
+msgstr ""
+
+msgctxt "mn25:11.26"
+msgid "Evañhi te tatiyāpi samaṇabrāhmaṇā na parimucciṃsu mārassa iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:11.27"
+msgid ""
+"Yannūna mayaṃ yattha agati mārassa ca māraparisāya ca tatrāsayaṃ kappeyyāma."
+msgstr ""
+
+msgctxt "mn25:11.28"
+msgid ""
+"Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni "
+"ananupakhajja amucchitā bhojanāni bhuñjissāma, ananupakhajja amucchitā "
+"bhojanāni bhuñjamānā na madaṃ āpajjissāma, amattā samānā na pamādaṃ "
+"āpajjissāma, appamattā samānā na yathākāmakaraṇīyā bhavissāma mārassa "
+"amusmiṃ nivāpe amusmiñca lokāmiseti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.159"></a>
+#. <a class="sc" id="sc17"></a>
+msgctxt "mn25:11.29"
+msgid "Te yattha agati mārassa ca māraparisāya ca tatrāsayaṃ kappayiṃsu."
+msgstr ""
+
+msgctxt "mn25:11.30"
+msgid ""
+"Tatrāsayaṃ kappetvā amuṃ nivāpaṃ nivuttaṃ mārassa amūni ca lokāmisāni "
+"ananupakhajja amucchitā bhojanāni bhuñjiṃsu, te tattha ananupakhajja "
+"amucchitā bhojanāni bhuñjamānā na madaṃ āpajjiṃsu, amattā samānā na pamādaṃ "
+"āpajjiṃsu, appamattā samānā na yathākāmakaraṇīyā ahesuṃ mārassa amusmiṃ "
+"nivāpe amusmiñca lokāmise."
+msgstr ""
+
+msgctxt "mn25:11.31"
+msgid ""
+"Evañhi te, bhikkhave, catutthā samaṇabrāhmaṇā parimucciṃsu mārassa "
+"iddhānubhāvā."
+msgstr ""
+
+msgctxt "mn25:11.32"
+msgid ""
+"Seyyathāpi te, bhikkhave, catutthā migajātā tathūpame ahaṃ ime catutthe "
+"samaṇabrāhmaṇe vadāmi."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya12"></a>
+#. <a class="sc" id="sc18"></a>
+msgctxt "mn25:12.1"
+msgid "Kathañca, bhikkhave, agati mārassa ca māraparisāya ca?"
+msgstr ""
+
+msgctxt "mn25:12.2"
+msgid ""
+"Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi "
+"savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja "
+"viharati."
+msgstr ""
+
+msgctxt "mn25:12.3"
+msgid ""
+"Ayaṃ vuccati, bhikkhave, bhikkhu andhamakāsi māraṃ, apadaṃ vadhitvā "
+"māracakkhuṃ adassanaṃ gato pāpimato."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya13"></a>
+#. <a class="sc" id="sc19"></a>
+msgctxt "mn25:13.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ "
+"sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ "
+"dutiyaṃ jhānaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn25:13.2"
+msgid "Ayaṃ vuccati, bhikkhave … pe … pāpimato."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya14"></a>
+#. <a class="sc" id="sc20"></a>
+msgctxt "mn25:14.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato "
+"ca sampajāno, sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti ‘"
+"upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn25:14.2"
+msgid "Ayaṃ vuccati, bhikkhave … pe … pāpimato."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya15"></a>
+#. <a class="sc" id="sc21"></a>
+msgctxt "mn25:15.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā, "
+"pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ "
+"upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn25:15.2"
+msgid "Ayaṃ vuccati, bhikkhave … pe … pāpimato."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya16"></a>
+#. <a class="sc" id="sc22"></a>
+msgctxt "mn25:16.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu sabbaso rūpasaññānaṃ samatikkamā "
+"paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti "
+"ākāsānañcāyatanaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn25:16.2"
+msgid "Ayaṃ vuccati, bhikkhave … pe … pāpimato."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya17"></a>
+#. <a class="sc" id="sc23"></a>
+msgctxt "mn25:17.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu sabbaso ākāsānañcāyatanaṃ samatikkamma ‘"
+"anantaṃ viññāṇan’ti viññāṇañcāyatanaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn25:17.2"
+msgid "Ayaṃ vuccati, bhikkhave … pe … pāpimato."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya18"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.160"></a>
+#. <a class="sc" id="sc24"></a>
+msgctxt "mn25:18.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma ‘"
+"natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn25:18.2"
+msgid "Ayaṃ vuccati, bhikkhave … pe … pāpimato."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya19"></a>
+#. <a class="sc" id="sc25"></a>
+msgctxt "mn25:19.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu sabbaso ākiñcaññāyatanaṃ samatikkamma "
+"nevasaññānāsaññāyatanaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "mn25:19.2"
+msgid "Ayaṃ vuccati, bhikkhave … pe … pāpimato."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya20"></a>
+#. <a class="sc" id="sc26"></a>
+msgctxt "mn25:20.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ "
+"samatikkamma saññāvedayitanirodhaṃ upasampajja viharati. Paññāya cassa disvā "
+"āsavā parikkhīṇā honti."
+msgstr ""
+
+msgctxt "mn25:20.2"
+msgid ""
+"Ayaṃ vuccati, bhikkhave, bhikkhu andhamakāsi māraṃ, apadaṃ vadhitvā "
+"māracakkhuṃ adassanaṃ gato pāpimato tiṇṇo loke visattikan”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc27"></a>
+msgctxt "mn25:20.3"
+msgid "Idamavoca bhagavā."
+msgstr ""
+
+msgctxt "mn25:20.4"
+msgid "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "mn25:20.5"
+msgid "Nivāpasuttaṃ niṭṭhitaṃ pañcamaṃ."
+msgstr ""

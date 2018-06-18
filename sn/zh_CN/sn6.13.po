@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /zh_CN/sn/sn6.13.po\n"
+"X-Pootle-Revision: 41526\n"
+
+#. <section class="sutta" id="sn6.13"><article><div class="hgroup"><p class="division">
+msgctxt "sn6.13:0.1"
+msgid "Saṃyutta Nikāya 6"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn6.13:0.2"
+msgid "2. Dutiyavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn6.13:0.3"
+msgid "13. Andhakavindasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn6.13:1.1"
+msgid "Ekaṃ samayaṃ bhagavā māgadhesu viharati andhakavinde."
+msgstr ""
+
+msgctxt "sn6.13:1.2"
+msgid ""
+"Tena kho pana samayena bhagavā rattandhakāratimisāyaṃ abbhokāse nisinno "
+"hoti, devo ca ekamekaṃ phusāyati."
+msgstr ""
+
+msgctxt "sn6.13:1.3"
+msgid ""
+"Atha kho brahmā sahampati abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ "
+"andhakavindaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā "
+"bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi."
+msgstr ""
+
+msgctxt "sn6.13:1.4"
+msgid ""
+"Ekamantaṃ ṭhito kho brahmā sahampati bhagavato santike imā gāthāyo abhāsi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn6.13:2.1"
+msgid "“Sevetha pantāni senāsanāni,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:2.2"
+msgid "Careyya saṃyojanavippamokkhā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:2.3"
+msgid "Sace ratiṃ nādhigaccheyya tattha,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:2.4"
+msgid "Saṃghe vase rakkhitatto satīmā."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.334"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn6.13:3.1"
+msgid "Kulākulaṃ piṇḍikāya caranto,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:3.2"
+msgid "Indriyagutto nipako satimā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:3.3"
+msgid "Sevetha pantāni senāsanāni,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:3.4"
+msgid "Bhayā pamutto abhaye vimutto."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+#. VAR: sarīsapā → siriṃsapā (bj, s1-3, km, pts1-2)
+msgctxt "sn6.13:4.1"
+msgid "Yattha bheravā sarīsapā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:4.2"
+msgid "Vijju sañcarati thanayati devo;"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:4.3"
+msgid "Andhakāratimisāya rattiyā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:4.4"
+msgid "Nisīdi tattha bhikkhu vigatalomahaṃso."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn6.13:5.1"
+msgid "Idañhi jātu me diṭṭhaṃ,"
+msgstr ""
+
+# https://discourse.suttacentral.net/t/a-note-on-itikira-and-itihitiha/4535
+#. <br>
+msgctxt "sn6.13:5.2"
+msgid "nayidaṃ itihītihaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:5.3"
+msgid "Ekasmiṃ brahmacariyasmiṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:5.4"
+msgid "sahassaṃ maccuhāyinaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+#. VAR: Bhiyyo → bhīyo (si, s1-3, km, pts1-2)
+msgctxt "sn6.13:6.1"
+msgid "Bhiyyo pañcasatā sekkhā,"
+msgstr ""
+
+# = 500,000 stream-enterers?
+#. <br>
+msgctxt "sn6.13:6.2"
+msgid "dasā ca dasadhā dasa;"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:6.3"
+msgid "Sabbe sotasamāpannā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:6.4"
+msgid "atiracchānagāmino."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.335"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn6.13:7.1"
+msgid "Athāyaṃ itarā pajā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:7.2"
+msgid "puññabhāgāti me mano;"
+msgstr ""
+
+#. <br>
+msgctxt "sn6.13:7.3"
+msgid "Saṅkhātuṃ nopi sakkomi,"
+msgstr ""
+
+#. <br>
+#. VAR: ottapan”ti → ottapeti (bj) | ottappeti (pts1, mr)
+msgctxt "sn6.13:7.4"
+msgid "musāvādassa ottapan”ti."
+msgstr ""

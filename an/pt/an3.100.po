@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/an/an3.100.po\n"
+"X-Pootle-Revision: 29237\n"
+
+#. <section class="sutta" id="an3.100"><article><div class="hgroup"><p class="division">
+msgctxt "an3.100:0.1"
+msgid "Aṅguttara Nikāya 3"
+msgstr ""
+
+#. </p><p>
+msgctxt "an3.100:0.2"
+msgid "10. Loṇakapallavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an3.100:0.3"
+msgid "100. Loṇakapallasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+#. VAR: Yo → yo kho (s1-3, km) | yo ca kho (mr)
+msgctxt "an3.100:1.1"
+msgid "“Yo, bhikkhave, evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "an3.100:1.2"
+msgid ""
+"‘yathā yathāyaṃ puriso kammaṃ karoti tathā tathā taṃ paṭisaṃvediyatī’ti, "
+"evaṃ santaṃ, bhikkhave, brahmacariyavāso na hoti, okāso na paññāyati sammā "
+"dukkhassa antakiriyāya."
+msgstr ""
+
+msgctxt "an3.100:1.3"
+msgid "Yo ca kho, bhikkhave, evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "an3.100:1.4"
+msgid ""
+"‘yathā yathā vedanīyaṃ ayaṃ puriso kammaṃ karoti tathā tathāssa vipākaṃ "
+"paṭisaṃvediyatī’ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso hoti, okāso "
+"paññāyati sammā dukkhassa antakiriyāya."
+msgstr ""
+
+#. VAR: pāpakammaṃ → pāpaṃ kammaṃ (bj, pts1)
+msgctxt "an3.100:1.5"
+msgid ""
+"Idha, bhikkhave, ekaccassa puggalassa appamattakampi pāpakammaṃ kataṃ "
+"tamenaṃ nirayaṃ upaneti."
+msgstr ""
+
+msgctxt "an3.100:1.6"
+msgid ""
+"Idha pana, bhikkhave, ekaccassa puggalassa tādisaṃyeva appamattakaṃ "
+"pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an3.100:2.1"
+msgid ""
+"Kathaṃrūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ "
+"nirayaṃ upaneti?"
+msgstr ""
+
+# Bhavitakaya is explained in MN 36 as ability to endure pain, and also in the same sense at Pe 2. See BB’s note for emendation to dukkhavihari.
+msgctxt "an3.100:2.2"
+msgid ""
+"Idha pana, bhikkhave, ekacco puggalo abhāvitakāyo hoti abhāvitasīlo "
+"abhāvitacitto abhāvitapañño paritto appātumo appadukkhavihārī."
+msgstr ""
+
+msgctxt "an3.100:2.3"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ "
+"nirayaṃ upaneti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an3.100:3.1"
+msgid ""
+"Kathaṃrūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ "
+"kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva?"
+msgstr ""
+
+#. VAR: mahatto → mahattā (bj, s1-3, km, pts1)
+msgctxt "an3.100:3.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto "
+"bhāvitapañño aparitto mahatto appamāṇavihārī."
+msgstr ""
+
+msgctxt "an3.100:3.3"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ "
+"diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.250"></a>
+#. <a class="sc" id="sc4"></a>
+#. VAR: loṇakapallaṃ → loṇaphalaṃ (bj, s1-3, km, pts1)
+#. VAR: udakamallake → udakakapallake (mr)
+msgctxt "an3.100:4.1"
+msgid ""
+"Seyyathāpi, bhikkhave, puriso loṇakapallaṃ paritte udakamallake pakkhipeyya."
+msgstr ""
+
+msgctxt "an3.100:4.2"
+msgid "Taṃ kiṃ maññatha, bhikkhave, "
+msgstr ""
+
+#. VAR: taṃ parittaṃ udakaṃ → udakamallake udakaṃ (bj, s1-3, km, pts1)
+msgctxt "an3.100:4.3"
+msgid "api nu taṃ parittaṃ udakaṃ amunā loṇakapallena loṇaṃ assa apeyyan”ti?"
+msgstr ""
+
+msgctxt "an3.100:4.4"
+msgid "“Evaṃ, bhante”."
+msgstr ""
+
+msgctxt "an3.100:4.5"
+msgid "“Taṃ kissa hetu”?"
+msgstr ""
+
+msgctxt "an3.100:4.6"
+msgid ""
+"“Aduñhi, bhante, parittaṃ udakakapallake udakaṃ, taṃ amunā loṇakapallena "
+"loṇaṃ assa apeyyan”ti."
+msgstr ""
+
+msgctxt "an3.100:4.7"
+msgid ""
+"“Seyyathāpi, bhikkhave, puriso loṇakapallakaṃ gaṅgāya nadiyā pakkhipeyya."
+msgstr ""
+
+msgctxt "an3.100:4.8"
+msgid "Taṃ kiṃ maññatha, bhikkhave, "
+msgstr ""
+
+msgctxt "an3.100:4.9"
+msgid "api nu sā gaṅgā nadī amunā loṇakapallena loṇaṃ assa apeyyā”ti?"
+msgstr ""
+
+msgctxt "an3.100:4.10"
+msgid "“No hetaṃ, bhante”."
+msgstr ""
+
+msgctxt "an3.100:4.11"
+msgid "“Taṃ kissa hetu”?"
+msgstr ""
+
+#. VAR: loṇakapallena loṇo na assa apeyyo”ti → loṇaṃ nevassa appeyyoti (bj) | loṇaphalena loṇo assa apeyyoti (s1-3, pts1)
+msgctxt "an3.100:4.12"
+msgid ""
+"“Asu hi, bhante, gaṅgāya nadiyā mahā udakakkhandho so amunā loṇakapallena "
+"loṇo na assa apeyyo”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an3.100:5.1"
+msgid ""
+"“Evamevaṃ kho, bhikkhave, idhekaccassa puggalassa appamattakampi pāpakammaṃ "
+"kataṃ tamenaṃ nirayaṃ upaneti."
+msgstr ""
+
+msgctxt "an3.100:5.2"
+msgid ""
+"Idha, bhikkhave, ekaccassa puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ "
+"kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an3.100:6.1"
+msgid ""
+"Kathaṃrūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ "
+"nirayaṃ upaneti?"
+msgstr ""
+
+msgctxt "an3.100:6.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo abhāvitakāyo hoti abhāvitasīlo abhāvitacitto "
+"abhāvitapañño paritto appātumo appadukkhavihārī."
+msgstr ""
+
+msgctxt "an3.100:6.3"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ "
+"nirayaṃ upaneti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an3.100:7.1"
+msgid ""
+"Kathaṃrūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ "
+"kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva?"
+msgstr ""
+
+msgctxt "an3.100:7.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto "
+"bhāvitapañño aparitto mahatto appamāṇavihārī."
+msgstr ""
+
+msgctxt "an3.100:7.3"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ "
+"diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva. (1)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.251"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an3.100:8.1"
+msgid ""
+"Idha, bhikkhave, ekacco aḍḍhakahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇenapi "
+"bandhanaṃ nigacchati, kahāpaṇasatenapi bandhanaṃ nigacchati."
+msgstr ""
+
+msgctxt "an3.100:8.2"
+msgid ""
+"Idha, bhikkhave, ekacco aḍḍhakahāpaṇenapi na bandhanaṃ nigacchati, "
+"kahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇasatenapi na bandhanaṃ "
+"nigacchati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an3.100:9.1"
+msgid ""
+"Kathaṃrūpo, bhikkhave, aḍḍhakahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇenapi "
+"bandhanaṃ nigacchati, kahāpaṇasatenapi bandhanaṃ nigacchati?"
+msgstr ""
+
+msgctxt "an3.100:9.2"
+msgid "Idha, bhikkhave, ekacco daliddo hoti appassako appabhogo."
+msgstr ""
+
+msgctxt "an3.100:9.3"
+msgid ""
+"Evarūpo, bhikkhave, aḍḍhakahāpaṇenapi bandhanaṃ nigacchati, kahāpaṇenapi "
+"bandhanaṃ nigacchati, kahāpaṇasatenapi bandhanaṃ nigacchati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "an3.100:10.1"
+msgid ""
+"Kathaṃrūpo, bhikkhave, aḍḍhakahāpaṇenapi na bandhanaṃ nigacchati, "
+"kahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇasatenapi na bandhanaṃ "
+"nigacchati?"
+msgstr ""
+
+msgctxt "an3.100:10.2"
+msgid "Idha, bhikkhave, ekacco aḍḍho hoti mahaddhano mahābhogo."
+msgstr ""
+
+# This sutta has a breathtakingly cynical view of the justice system…
+msgctxt "an3.100:10.3"
+msgid ""
+"Evarūpo, bhikkhave, aḍḍhakahāpaṇenapi na bandhanaṃ nigacchati, kahāpaṇenapi "
+"na bandhanaṃ nigacchati, kahāpaṇasatenapi na bandhanaṃ nigacchati."
+msgstr ""
+
+msgctxt "an3.100:10.4"
+msgid ""
+"Evamevaṃ kho, bhikkhave, idhekaccassa puggalassa appamattakaṃ pāpakammaṃ "
+"kataṃ."
+msgstr ""
+
+msgctxt "an3.100:10.5"
+msgid "Tamenaṃ nirayaṃ upaneti."
+msgstr ""
+
+msgctxt "an3.100:10.6"
+msgid ""
+"Idha, bhikkhave, ekaccassa puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ "
+"kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "an3.100:11.1"
+msgid ""
+"Kathaṃrūpassa, bhikkhave, puggalassa appamattakaṃ pāpakammaṃ kataṃ, tamenaṃ "
+"nirayaṃ upaneti?"
+msgstr ""
+
+msgctxt "an3.100:11.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo abhāvitakāyo hoti abhāvitasīlo abhāvitacitto "
+"abhāvitapañño paritto appātumo appadukkhavihārī."
+msgstr ""
+
+msgctxt "an3.100:11.3"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ "
+"tamenaṃ nirayaṃ upaneti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an3.100:12.1"
+msgid ""
+"Kathaṃrūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ "
+"kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva?"
+msgstr ""
+
+msgctxt "an3.100:12.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto "
+"bhāvitapañño aparitto mahatto appamāṇavihārī."
+msgstr ""
+
+msgctxt "an3.100:12.3"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ "
+"diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva. (2)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.252"></a>
+#. <a class="sc" id="sc13"></a>
+msgctxt "an3.100:13.1"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto "
+"bhāvitapañño aparitto mahatto appamāṇavihārī."
+msgstr ""
+
+msgctxt "an3.100:13.2"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ "
+"diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva."
+msgstr ""
+
+msgctxt "an3.100:13.3"
+msgid ""
+"Seyyathāpi, bhikkhave, orabbhiko vā urabbhaghātako vā appekaccaṃ urabbhaṃ "
+"adinnaṃ ādiyamānaṃ pahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā "
+"kātuṃ, appekaccaṃ urabbhaṃ adinnaṃ ādiyamānaṃ nappahoti hantuṃ vā bandhituṃ "
+"vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+#. VAR: Kathaṃrūpaṃ → kathaṃrūpo (s1-3, c1)
+msgctxt "an3.100:14.1"
+msgid ""
+"Kathaṃrūpaṃ, bhikkhave, orabbhiko vā urabbhaghātako vā urabbhaṃ adinnaṃ "
+"ādiyamānaṃ pahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ?"
+msgstr ""
+
+msgctxt "an3.100:14.2"
+msgid "Idha, bhikkhave, ekacco daliddo hoti appassako appabhogo."
+msgstr ""
+
+#. VAR: Evarūpaṃ → evarūpo (s1-3, c1)
+msgctxt "an3.100:14.3"
+msgid ""
+"Evarūpaṃ, bhikkhave, orabbhiko vā urabbhaghātako vā urabbhaṃ adinnaṃ "
+"ādiyamānaṃ pahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā kātuṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc15"></a>
+#. VAR: Kathaṃrūpaṃ → kathaṃrūpo (s1-3, c1)
+msgctxt "an3.100:15.1"
+msgid ""
+"Kathaṃrūpaṃ, bhikkhave, orabbhiko vā urabbhaghātako vā urabbhaṃ adinnaṃ "
+"ādiyamānaṃ nappahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā "
+"kātuṃ."
+msgstr ""
+
+msgctxt "an3.100:15.2"
+msgid ""
+"Idha, bhikkhave, ekacco aḍḍho hoti mahaddhano mahābhogo rājā vā "
+"rājamahāmatto vā."
+msgstr ""
+
+#. VAR: Evarūpaṃ → evarūpo (s1-3, c1)
+msgctxt "an3.100:15.3"
+msgid ""
+"Evarūpaṃ, bhikkhave, orabbhiko vā urabbhaghātako vā urabbhaṃ adinnaṃ "
+"ādiyamānaṃ nappahoti hantuṃ vā bandhituṃ vā jāpetuṃ vā yathāpaccayaṃ vā "
+"kātuṃ."
+msgstr ""
+
+#. VAR: pañjalikova → pañjaliko (mr)
+#. VAR: naṃ → paraṃ (mr)
+msgctxt "an3.100:15.4"
+msgid "Aññadatthu pañjalikova naṃ yācati:"
+msgstr ""
+
+msgctxt "an3.100:15.5"
+msgid "‘dehi me, mārisa, urabbhaṃ vā urabbhadhanaṃ vā’ti."
+msgstr ""
+
+msgctxt "an3.100:15.6"
+msgid ""
+"Evamevaṃ kho, bhikkhave, idhekaccassa puggalassa tādisaṃyeva appamattakampi "
+"pāpakammaṃ kataṃ tamenaṃ nirayaṃ upaneti."
+msgstr ""
+
+msgctxt "an3.100:15.7"
+msgid ""
+"Idha pana, bhikkhave, ekaccassa puggalassa tādisaṃyeva appamattakaṃ "
+"pāpakammaṃ kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.253"></a>
+#. <a class="sc" id="sc16"></a>
+msgctxt "an3.100:16.1"
+msgid ""
+"Kathaṃrūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ "
+"nirayaṃ upaneti?"
+msgstr ""
+
+msgctxt "an3.100:16.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo abhāvitakāyo hoti abhāvitasīlo abhāvitacitto "
+"abhāvitapañño paritto appātumo appadukkhavihārī."
+msgstr ""
+
+msgctxt "an3.100:16.3"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa appamattakampi pāpakammaṃ kataṃ tamenaṃ "
+"nirayaṃ upaneti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc17"></a>
+msgctxt "an3.100:17.1"
+msgid ""
+"Kathaṃrūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ "
+"kataṃ diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva?"
+msgstr ""
+
+msgctxt "an3.100:17.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo bhāvitakāyo hoti bhāvitasīlo bhāvitacitto "
+"bhāvitapañño aparitto mahatto appamāṇavihārī."
+msgstr ""
+
+msgctxt "an3.100:17.3"
+msgid ""
+"Evarūpassa, bhikkhave, puggalassa tādisaṃyeva appamattakaṃ pāpakammaṃ kataṃ "
+"diṭṭhadhammavedanīyaṃ hoti, nāṇupi khāyati, kiṃ bahudeva. (3)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc18"></a>
+msgctxt "an3.100:18.1"
+msgid "Yo, bhikkhave, evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "an3.100:18.2"
+msgid ""
+"‘yathā yathāyaṃ puriso kammaṃ karoti tathā tathā taṃ paṭisaṃvedetī’ti, evaṃ "
+"santaṃ, bhikkhave, brahmacariyavāso na hoti, okāso na paññāyati sammā "
+"dukkhassa antakiriyāya."
+msgstr ""
+
+msgctxt "an3.100:18.3"
+msgid "Yo ca kho, bhikkhave, evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "an3.100:18.4"
+msgid ""
+"‘yathā yathā vedanīyaṃ ayaṃ puriso kammaṃ karoti tathā tathā tassa vipākaṃ "
+"paṭisaṃvedetī’ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso hoti, okāso "
+"paññāyati sammā dukkhassa antakiriyāyā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an3.100:18.5"
+msgid "Navamaṃ."
+msgstr ""

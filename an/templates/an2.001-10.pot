@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an2.001-10.pot\n"
+"X-Pootle-Revision: 12648\n"
+
+#. <section id="vagga"><section class="sutta" data-uid="an2.1" id="1"><article><div class="hgroup"><p class="division">
+msgctxt "an2.1-10:0.1"
+msgid "Aṅguttara Nikāya 2"
+msgstr ""
+
+#. </p><p>
+#. VAR: vassūpanāyikāvaggo (bj)
+msgctxt "an2.1-10:0.2"
+msgid "1. Kammakaraṇavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an2.1-10:0.3"
+msgid "1. Vajjasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.47"></a>
+#. <a class="sc" id="sc1.1"></a>
+#. <span class="evam">
+msgctxt "an2.1-10:1.1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "an2.1-10:1.1.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+
+msgctxt "an2.1-10:1.1.3"
+msgid "Tatra kho bhagavā bhikkhū āmantesi:"
+msgstr ""
+
+msgctxt "an2.1-10:1.1.4"
+msgid "“bhikkhavo”ti."
+msgstr ""
+
+msgctxt "an2.1-10:1.1.5"
+msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
+msgstr ""
+
+msgctxt "an2.1-10:1.1.6"
+msgid "Bhagavā etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.48"></a>
+#. <a class="sc" id="sc1.2"></a>
+msgctxt "an2.1-10:1.2.1"
+msgid "“Dvemāni, bhikkhave, vajjāni."
+msgstr ""
+
+msgctxt "an2.1-10:1.2.2"
+msgid "Katamāni dve?"
+msgstr ""
+
+msgctxt "an2.1-10:1.2.3"
+msgid "Diṭṭhadhammikañca vajjaṃ samparāyikañca vajjaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:1.2.4"
+msgid "Katamañca, bhikkhave, diṭṭhadhammikaṃ vajjaṃ?"
+msgstr ""
+
+#. VAR: vividhā kammakāraṇā → vividhā kammakaraṇā (s1-3, pts1) | vividhāni kammakaraṇāni (mr)
+msgctxt "an2.1-10:1.2.5"
+msgid ""
+"Idha, bhikkhave, ekacco passati coraṃ āgucāriṃ rājāno gahetvā vividhā "
+"kammakāraṇā kārente;"
+msgstr ""
+
+#. VAR: khārāpatacchikampi → khārāpaṭicchakampi (s1-3, km, mr)
+#. VAR: palālapīṭhakampi → palālapiṭṭhikampi (bj)
+msgctxt "an2.1-10:1.2.6"
+msgid ""
+"kasāhipi tāḷente, vettehipi tāḷente, addhadaṇḍakehipi tāḷente, hatthampi "
+"chindante, pādampi chindante, hatthapādampi chindante, kaṇṇampi chindante, "
+"nāsampi chindante, kaṇṇanāsampi chindante, bilaṅgathālikampi karonte, "
+"saṅkhamuṇḍikampi karonte, rāhumukhampi karonte, jotimālikampi karonte, "
+"hatthapajjotikampi karonte, erakavattikampi karonte, cīrakavāsikampi "
+"karonte, eṇeyyakampi karonte, baḷisamaṃsikampi karonte, kahāpaṇikampi "
+"karonte, khārāpatacchikampi karonte, palighaparivattikampi karonte, "
+"palālapīṭhakampi karonte, tattenapi telena osiñcante, sunakhehipi "
+"khādāpente, jīvantampi sūle uttāsente, asināpi sīsaṃ chindante."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc1.3"></a>
+msgctxt "an2.1-10:1.3.1"
+msgid "Tassa evaṃ hoti:"
+msgstr ""
+
+msgctxt "an2.1-10:1.3.2"
+msgid ""
+"‘yathārūpānaṃ kho pāpakānaṃ kammānaṃ hetu coraṃ āgucāriṃ rājāno gahetvā "
+"vividhā kammakāraṇā kārenti;"
+msgstr ""
+
+msgctxt "an2.1-10:1.3.3"
+msgid ""
+"kasāhipi tāḷenti, vettehipi tāḷenti, addhadaṇḍakehipi tāḷenti, hatthampi "
+"chindanti, pādampi chindanti, hatthapādampi chindanti, kaṇṇampi chindanti, "
+"nāsampi chindanti, kaṇṇanāsampi chindanti, bilaṅgathālikampi karonti, "
+"saṅkhamuṇḍikampi karonti, rāhumukhampi karonti, jotimālikampi karonti, "
+"hatthapajjotikampi karonti, erakavattikampi karonti, cīrakavāsikampi "
+"karonti, eṇeyyakampi karonti, baḷisamaṃsikampi karonti, kahāpaṇikampi "
+"karonti, khārāpatacchikampi karonti, palighaparivattikampi karonti, "
+"palālapīṭhakampi karonti, tattenapi telena osiñcanti, sunakhehipi "
+"khādāpenti, jīvantampi sūle uttāsenti, asināpi sīsaṃ chindanti."
+msgstr ""
+
+#. VAR: Ahañceva → ahañce (?)
+msgctxt "an2.1-10:1.3.4"
+msgid ""
+"Ahañceva kho pana evarūpaṃ pāpakammaṃ kareyyaṃ, mampi rājāno gahetvā evarūpā "
+"vividhā kammakāraṇā kāreyyuṃ;"
+msgstr ""
+
+msgctxt "an2.1-10:1.3.5"
+msgid "kasāhipi tāḷeyyuṃ … pe … asināpi sīsaṃ chindeyyun’ti."
+msgstr ""
+
+msgctxt "an2.1-10:1.3.6"
+msgid ""
+"So diṭṭhadhammikassa vajjassa bhīto na paresaṃ pābhataṃ vilumpanto carati."
+msgstr ""
+
+msgctxt "an2.1-10:1.3.7"
+msgid "Idaṃ vuccati, bhikkhave, diṭṭhadhammikaṃ vajjaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.49"></a>
+#. <a class="sc" id="sc1.4"></a>
+msgctxt "an2.1-10:1.4.1"
+msgid "Katamañca, bhikkhave, samparāyikaṃ vajjaṃ?"
+msgstr ""
+
+msgctxt "an2.1-10:1.4.2"
+msgid "Idha, bhikkhave, ekacco iti paṭisañcikkhati:"
+msgstr ""
+
+msgctxt "an2.1-10:1.4.3"
+msgid ""
+"‘kāyaduccaritassa kho pana pāpako dukkho vipāko abhisamparāyaṃ, "
+"vacīduccaritassa pāpako dukkho vipāko abhisamparāyaṃ, manoduccaritassa "
+"pāpako dukkho vipāko abhisamparāyaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:1.4.4"
+msgid ""
+"Ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ, "
+"manasā duccaritaṃ careyyaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:1.4.5"
+msgid ""
+"Kiñca taṃ yāhaṃ na kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ "
+"nirayaṃ upapajjeyyan’ti."
+msgstr ""
+
+msgctxt "an2.1-10:1.4.6"
+msgid ""
+"So samparāyikassa vajjassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ "
+"bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya "
+"manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati."
+msgstr ""
+
+msgctxt "an2.1-10:1.4.7"
+msgid "Idaṃ vuccati, bhikkhave, samparāyikaṃ vajjaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:1.4.8"
+msgid "Imāni kho, bhikkhave, dve vajjāni."
+msgstr ""
+
+msgctxt "an2.1-10:1.4.9"
+msgid "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:"
+msgstr ""
+
+msgctxt "an2.1-10:1.4.10"
+msgid ""
+"‘diṭṭhadhammikassa vajjassa bhāyissāma, samparāyikassa vajjassa bhāyissāma, "
+"vajjabhīruno bhavissāma vajjabhayadassāvino’ti."
+msgstr ""
+
+msgctxt "an2.1-10:1.4.11"
+msgid "Evañhi vo, bhikkhave, sikkhitabbaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:1.4.12"
+msgid ""
+"Vajjabhīruno, bhikkhave, vajjabhayadassāvino etaṃ pāṭikaṅkhaṃ yaṃ "
+"parimuccissati sabbavajjehī”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:1.4.13"
+msgid "Paṭhamaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.2" id="2"><article><div class="hgroup"><h1>
+msgctxt "an2.1-10:1.4.14"
+msgid "2. Padhānasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc2.1"></a>
+msgctxt "an2.1-10:2.1.1"
+msgid "“Dvemāni, bhikkhave, padhānāni durabhisambhavāni lokasmiṃ."
+msgstr ""
+
+msgctxt "an2.1-10:2.1.2"
+msgid "Katamāni dve?"
+msgstr ""
+
+msgctxt "an2.1-10:2.1.3"
+msgid ""
+"Yañca gihīnaṃ agāraṃ ajjhāvasataṃ "
+"cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānuppadānatthaṃ "
+"padhānaṃ, yañca agārasmā anagāriyaṃ pabbajitānaṃ sabbūpadhipaṭinissaggatthaṃ "
+"padhānaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:2.1.4"
+msgid "Imāni kho, bhikkhave, dve padhānāni durabhisambhavāni lokasmiṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2.2"></a>
+msgctxt "an2.1-10:2.2.1"
+msgid ""
+"Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ padhānānaṃ yadidaṃ "
+"sabbūpadhipaṭinissaggatthaṃ padhānaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:2.2.2"
+msgid "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:"
+msgstr ""
+
+msgctxt "an2.1-10:2.2.3"
+msgid "‘sabbūpadhipaṭinissaggatthaṃ padhānaṃ padahissāmā’ti."
+msgstr ""
+
+msgctxt "an2.1-10:2.2.4"
+msgid "Evañhi vo, bhikkhave, sikkhitabban”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:2.2.5"
+msgid "Dutiyaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.3" id="3"><article><div class="hgroup"><h1>
+msgctxt "an2.1-10:2.2.6"
+msgid "3. Tapanīyasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc3.1"></a>
+msgctxt "an2.1-10:3.1.1"
+msgid "“Dveme, bhikkhave, dhammā tapanīyā."
+msgstr ""
+
+msgctxt "an2.1-10:3.1.2"
+msgid "Katame dve?"
+msgstr ""
+
+msgctxt "an2.1-10:3.1.3"
+msgid ""
+"Idha, bhikkhave, ekaccassa kāyaduccaritaṃ kataṃ hoti, akataṃ hoti "
+"kāyasucaritaṃ;"
+msgstr ""
+
+msgctxt "an2.1-10:3.1.4"
+msgid "vacīduccaritaṃ kataṃ hoti, akataṃ hoti vacīsucaritaṃ;"
+msgstr ""
+
+msgctxt "an2.1-10:3.1.5"
+msgid "manoduccaritaṃ kataṃ hoti, akataṃ hoti manosucaritaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:3.1.6"
+msgid ""
+"So ‘kāyaduccaritaṃ me katan’ti tappati, ‘akataṃ me kāyasucaritan’ti tappati;"
+msgstr ""
+
+msgctxt "an2.1-10:3.1.7"
+msgid ""
+"‘vacīduccaritaṃ me katan’ti tappati, ‘akataṃ me vacīsucaritan’ti tappati;"
+msgstr ""
+
+msgctxt "an2.1-10:3.1.8"
+msgid ""
+"‘manoduccaritaṃ me katan’ti tappati, ‘akataṃ me manosucaritan’ti tappati."
+msgstr ""
+
+msgctxt "an2.1-10:3.1.9"
+msgid "Ime kho, bhikkhave, dve dhammā tapanīyā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:3.1.10"
+msgid "Tatiyaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.4" id="4"><article><div class="hgroup"><h1>
+msgctxt "an2.1-10:3.1.11"
+msgid "4. Atapanīyasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.50"></a>
+#. <a class="sc" id="sc4.1"></a>
+msgctxt "an2.1-10:4.1.1"
+msgid "“Dveme, bhikkhave, dhammā atapanīyā."
+msgstr ""
+
+msgctxt "an2.1-10:4.1.2"
+msgid "Katame dve?"
+msgstr ""
+
+msgctxt "an2.1-10:4.1.3"
+msgid ""
+"Idha, bhikkhave, ekaccassa kāyasucaritaṃ kataṃ hoti, akataṃ hoti "
+"kāyaduccaritaṃ;"
+msgstr ""
+
+msgctxt "an2.1-10:4.1.4"
+msgid "vacīsucaritaṃ kataṃ hoti, akataṃ hoti vacīduccaritaṃ;"
+msgstr ""
+
+msgctxt "an2.1-10:4.1.5"
+msgid "manosucaritaṃ kataṃ hoti, akataṃ hoti manoduccaritaṃ."
+msgstr ""
+
+msgctxt "an2.1-10:4.1.6"
+msgid ""
+"So ‘kāyasucaritaṃ me katan’ti na tappati, ‘akataṃ me kāyaduccaritan’ti na "
+"tappati;"
+msgstr ""
+
+msgctxt "an2.1-10:4.1.7"
+msgid ""
+"‘vacīsucaritaṃ me katan’ti na tappati, ‘akataṃ me vacīduccaritan’ti na "
+"tappati;"
+msgstr ""
+
+msgctxt "an2.1-10:4.1.8"
+msgid ""
+"‘manosucaritaṃ me katan’ti na tappati, ‘akataṃ me manoduccaritan’ti na "
+"tappati."
+msgstr ""
+
+msgctxt "an2.1-10:4.1.9"
+msgid "Ime kho, bhikkhave, dve dhammā atapanīyā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:4.1.10"
+msgid "Catutthaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.5" id="5"><article><div class="hgroup"><h1>
+msgctxt "an2.1-10:4.1.11"
+msgid "5. Upaññātasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc5.1"></a>
+msgctxt "an2.1-10:5.1.1"
+msgid "“Dvinnāhaṃ, bhikkhave, dhammānaṃ upaññāsiṃ—"
+msgstr ""
+
+msgctxt "an2.1-10:5.1.2"
+msgid "yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṃ."
+msgstr ""
+
+msgctxt "an2.1-10:5.1.3"
+msgid "Appaṭivānī sudāhaṃ, bhikkhave, padahāmi:"
+msgstr ""
+
+#. VAR: nhāru → nahāru (bj, s1-3, km, pts1)
+msgctxt "an2.1-10:5.1.4"
+msgid ""
+"‘kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu "
+"maṃsalohitaṃ, yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena "
+"pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatī’ti."
+msgstr ""
+
+msgctxt "an2.1-10:5.1.5"
+msgid ""
+"Tassa mayhaṃ, bhikkhave, appamādādhigatā sambodhi, appamādādhigato anuttaro "
+"yogakkhemo."
+msgstr ""
+
+msgctxt "an2.1-10:5.1.6"
+msgid "Tumhe cepi, bhikkhave, appaṭivānaṃ padaheyyātha:"
+msgstr ""
+
+msgctxt "an2.1-10:5.1.7"
+msgid ""
+"‘kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu "
+"maṃsalohitaṃ, yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena "
+"pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatī’ti, tumhepi, "
+"bhikkhave, nacirasseva—"
+msgstr ""
+
+msgctxt "an2.1-10:5.1.8"
+msgid ""
+"yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ—"
+"brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā "
+"upasampajja viharissatha. "
+msgstr ""
+
+msgctxt "an2.1-10:5.1.9"
+msgid "Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ:"
+msgstr ""
+
+msgctxt "an2.1-10:5.1.10"
+msgid "‘appaṭivānaṃ padahissāma."
+msgstr ""
+
+msgctxt "an2.1-10:5.1.11"
+msgid ""
+"Kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṃsalohitaṃ, "
+"yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena pattabbaṃ na taṃ "
+"apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatī’ti."
+msgstr ""
+
+msgctxt "an2.1-10:5.1.12"
+msgid "Evañhi vo, bhikkhave, sikkhitabban”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:5.1.13"
+msgid "Pañcamaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.6" id="6"><article><div class="hgroup"><h1>
+#. VAR: saññojanīyasuttaṃ (bj)
+msgctxt "an2.1-10:5.1.14"
+msgid "6. Saṃyojanasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.51"></a>
+#. <a class="sc" id="sc6.1"></a>
+msgctxt "an2.1-10:6.1.1"
+msgid "“Dveme, bhikkhave, dhammā."
+msgstr ""
+
+msgctxt "an2.1-10:6.1.2"
+msgid "Katame dve?"
+msgstr ""
+
+msgctxt "an2.1-10:6.1.3"
+msgid ""
+"Yā ca saṃyojaniyesu dhammesu assādānupassitā, yā ca saṃyojaniyesu dhammesu "
+"nibbidānupassitā."
+msgstr ""
+
+msgctxt "an2.1-10:6.1.4"
+msgid ""
+"Saṃyojaniyesu, bhikkhave, dhammesu assādānupassī viharanto rāgaṃ na "
+"pajahati, dosaṃ na pajahati, mohaṃ na pajahati."
+msgstr ""
+
+msgctxt "an2.1-10:6.1.5"
+msgid ""
+"Rāgaṃ appahāya, dosaṃ appahāya, mohaṃ appahāya na parimuccati jātiyā jarāya "
+"maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi."
+msgstr ""
+
+msgctxt "an2.1-10:6.1.6"
+msgid "Na parimuccati dukkhasmāti vadāmi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6.2"></a>
+msgctxt "an2.1-10:6.2.1"
+msgid ""
+"Saṃyojaniyesu, bhikkhave, dhammesu nibbidānupassī viharanto rāgaṃ pajahati, "
+"dosaṃ pajahati, mohaṃ pajahati."
+msgstr ""
+
+msgctxt "an2.1-10:6.2.2"
+msgid ""
+"Rāgaṃ pahāya, dosaṃ pahāya, mohaṃ pahāya, parimuccati jātiyā jarāya maraṇena "
+"sokehi paridevehi dukkhehi domanassehi upāyāsehi."
+msgstr ""
+
+msgctxt "an2.1-10:6.2.3"
+msgid "Parimuccati dukkhasmāti vadāmi."
+msgstr ""
+
+msgctxt "an2.1-10:6.2.4"
+msgid "Ime kho, bhikkhave, dve dhammā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:6.2.5"
+msgid "Chaṭṭhaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.7" id="7"><article><div class="hgroup"><h1>
+msgctxt "an2.1-10:6.2.6"
+msgid "7. Kaṇhasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc7.1"></a>
+msgctxt "an2.1-10:7.1.1"
+msgid "“Dveme, bhikkhave, dhammā kaṇhā."
+msgstr ""
+
+msgctxt "an2.1-10:7.1.2"
+msgid "Katame dve?"
+msgstr ""
+
+msgctxt "an2.1-10:7.1.3"
+msgid "Ahirikañca anottappañca."
+msgstr ""
+
+msgctxt "an2.1-10:7.1.4"
+msgid "Ime kho, bhikkhave, dve dhammā kaṇhā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:7.1.5"
+msgid "Sattamaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.8" id="8"><article><div class="hgroup"><h1>
+msgctxt "an2.1-10:7.1.6"
+msgid "8. Sukkasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc8.1"></a>
+msgctxt "an2.1-10:8.1.1"
+msgid "“Dveme, bhikkhave, dhammā sukkā."
+msgstr ""
+
+msgctxt "an2.1-10:8.1.2"
+msgid "Katame dve?"
+msgstr ""
+
+#. VAR: Hirī → hiri (bj, pts1)
+msgctxt "an2.1-10:8.1.3"
+msgid "Hirī ca ottappañca."
+msgstr ""
+
+msgctxt "an2.1-10:8.1.4"
+msgid "Ime kho, bhikkhave, dve dhammā sukkā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:8.1.5"
+msgid "Aṭṭhamaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.9" id="9"><article><div class="hgroup"><h1>
+msgctxt "an2.1-10:8.1.6"
+msgid "9. Cariyasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc9.1"></a>
+msgctxt "an2.1-10:9.1.1"
+msgid "“Dveme, bhikkhave, dhammā sukkā lokaṃ pālenti."
+msgstr ""
+
+msgctxt "an2.1-10:9.1.2"
+msgid "Katame dve?"
+msgstr ""
+
+msgctxt "an2.1-10:9.1.3"
+msgid "Hirī ca ottappañca."
+msgstr ""
+
+msgctxt "an2.1-10:9.1.4"
+msgid ""
+"Ime kho, bhikkhave, dve sukkā dhammā lokaṃ na pāleyyuṃ, nayidha paññāyetha "
+"mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā."
+msgstr ""
+
+#. VAR: soṇasiṅgālā → sonasigālā (bj) | soṇasigālā (s1-3, km, pts1)
+msgctxt "an2.1-10:9.1.5"
+msgid "Sambhedaṃ loko agamissa, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā."
+msgstr ""
+
+#. VAR: paññāyati → paññāyanti (si)
+msgctxt "an2.1-10:9.1.6"
+msgid ""
+"Yasmā ca kho, bhikkhave, ime dve sukkā dhammā lokaṃ pālenti tasmā paññāyati "
+"mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti "
+"vā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:9.1.7"
+msgid "Navamaṃ."
+msgstr ""
+
+#. </p></article></section><section class="sutta" data-uid="an2.10" id="10"><article><div class="hgroup"><h1>
+#. VAR: vassūpanāyikāsuttaṃ (bj)
+msgctxt "an2.1-10:9.1.8"
+msgid "10. Vassūpanāyikasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc10.1"></a>
+msgctxt "an2.1-10:10.1.1"
+msgid "“Dvemā, bhikkhave, vassūpanāyikā."
+msgstr ""
+
+msgctxt "an2.1-10:10.1.2"
+msgid "Katamā dve?"
+msgstr ""
+
+msgctxt "an2.1-10:10.1.3"
+msgid "Purimikā ca pacchimikā ca."
+msgstr ""
+
+msgctxt "an2.1-10:10.1.4"
+msgid "Imā kho, bhikkhave, dve vassūpanāyikā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:10.1.5"
+msgid "Dasamaṃ."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an2.1-10:10.1.6"
+msgid "Kammakaraṇavaggo paṭhamo."
+msgstr ""
+
+#. </p><blockquote class="uddanagatha"><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.52"></a>
+#. <a class="sc" id="sc10.2"></a>
+msgctxt "an2.1-10:10.2.1"
+msgid "Vajjā padhānā dve tapanīyā,"
+msgstr ""
+
+#. <br>
+msgctxt "an2.1-10:10.2.2"
+msgid "Upaññātena pañcamaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "an2.1-10:10.2.3"
+msgid "Saṃyojanañca kaṇhañca,"
+msgstr ""
+
+#. <br>
+msgctxt "an2.1-10:10.2.4"
+msgid "Sukkaṃ cariyā vassūpanāyikena vaggo."
+msgstr ""

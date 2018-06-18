@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /id/sn/sn11.18.po\n"
+"X-Pootle-Revision: 24858\n"
+
+#. <section class="sutta" id="sn11.18"><article><div class="hgroup"><p class="division">
+msgctxt "sn11.18:0.1"
+msgid "Saṃyutta Nikāya 11"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn11.18:0.2"
+msgid "2. Dutiyavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 18. Gahaṭṭhavandanāsutta → sakkanamassanasuttaṃ (bj) | sakkanamassanasuttaṃ (1) (s1) | paṭhamasakkanamassanasuttaṃ (s2, s3) | sakka-namassana (1) (pts1)
+msgctxt "sn11.18:0.3"
+msgid "18. Gahaṭṭhavandanāsutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn11.18:1.1"
+msgid "Sāvatthiyaṃ."
+msgstr ""
+
+msgctxt "sn11.18:1.2"
+msgid "Tatra … pe … etadavoca:"
+msgstr ""
+
+msgctxt "sn11.18:1.3"
+msgid "“bhūtapubbaṃ, bhikkhave, sakko devānamindo mātaliṃ saṅgāhakaṃ āmantesi:"
+msgstr ""
+
+msgctxt "sn11.18:1.4"
+msgid ""
+"‘yojehi, samma mātali, sahassayuttaṃ ājaññarathaṃ. Uyyānabhūmiṃ gacchāma "
+"subhūmiṃ dassanāyā’ti."
+msgstr ""
+
+msgctxt "sn11.18:1.5"
+msgid ""
+"‘Evaṃ, bhaddantavā’ti kho, bhikkhave, mātali saṅgāhako sakkassa "
+"devānamindassa paṭissutvā sahassayuttaṃ ājaññarathaṃ yojetvā sakkassa "
+"devānamindassa paṭivedesi:"
+msgstr ""
+
+msgctxt "sn11.18:1.6"
+msgid "‘yutto kho te, mārisa, sahassayutto ājaññaratho."
+msgstr ""
+
+msgctxt "sn11.18:1.7"
+msgid "Yassadāni kālaṃ maññasī’ti."
+msgstr ""
+
+#. VAR: añjaliṃ katvā → pañjaliko (bj, pts1) | pañjaliṃ katvā (mr)
+msgctxt "sn11.18:1.8"
+msgid ""
+"Atha kho, bhikkhave, sakko devānamindo vejayantapāsādā orohanto añjaliṃ "
+"katvā sudaṃ puthuddisā namassati."
+msgstr ""
+
+msgctxt "sn11.18:1.9"
+msgid ""
+"Atha kho, bhikkhave, mātali saṅgāhako sakkaṃ devānamindaṃ gāthāya ajjhabhāsi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="pts2ed" id="pts2ed1.503"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn11.18:2.1"
+msgid "‘Taṃ namassanti tevijjā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:2.2"
+msgid "sabbe bhummā ca khattiyā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:2.3"
+msgid "Cattāro ca mahārājā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:2.4"
+msgid "tidasā ca yasassino;"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:2.5"
+msgid "Atha ko nāma so yakkho,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:2.6"
+msgid "yaṃ tvaṃ sakka namassasī’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn11.18:3.1"
+msgid "‘Maṃ namassanti tevijjā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:3.2"
+msgid "sabbe bhummā ca khattiyā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:3.3"
+msgid "Cattāro ca mahārājā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:3.4"
+msgid "tidasā ca yasassino."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn11.18:4.1"
+msgid "Ahañca sīlasampanne,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:4.2"
+msgid "cirarattasamāhite;"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:4.3"
+msgid "Sammāpabbajite vande,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:4.4"
+msgid "brahmacariyaparāyane."
+msgstr ""
+
+# This is pretty radical. for the gods to worship ascetics is common, but for them to worship mere ethical householders?
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn11.18:5.1"
+msgid "Ye gahaṭṭhā puññakarā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:5.2"
+msgid "sīlavanto upāsakā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:5.3"
+msgid "Dhammena dāraṃ posenti,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:5.4"
+msgid "te namassāmi mātalī’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn11.18:6.1"
+msgid "‘Seṭṭhā hi kira lokasmiṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:6.2"
+msgid "ye tvaṃ sakka namassasi;"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:6.3"
+msgid "Ahampi te namassāmi,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:6.4"
+msgid "ye namassasi vāsavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.504"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn11.18:7.1"
+msgid "Idaṃ vatvāna maghavā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:7.2"
+msgid "devarājā sujampati;"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:7.3"
+msgid "Puthuddisā namassitvā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn11.18:7.4"
+msgid "pamukho rathamāruhī”ti."
+msgstr ""

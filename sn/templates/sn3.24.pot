@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn3.24.pot\n"
+"X-Pootle-Revision: 18840\n"
+
+#. <section class="sutta" id="sn3.24"><article><div class="hgroup"><p class="division">
+msgctxt "sn3.24:0.1"
+msgid "Saṃyutta Nikāya 3"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn3.24:0.2"
+msgid "3. Tatiyavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 24. Issattasutta → issatthasuttaṃ (bj, s1-3, pts2)
+msgctxt "sn3.24:0.3"
+msgid "24. Issattasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts1ed" id="pts1ed1.99"></a>
+#. <a class="pts2ed" id="pts2ed1.220"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn3.24:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+msgctxt "sn3.24:1.2"
+msgid "Ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn3.24:1.3"
+msgid "“kattha nu kho, bhante, dānaṃ dātabban”ti?"
+msgstr ""
+
+msgctxt "sn3.24:1.4"
+msgid "“Yattha kho, mahārāja, cittaṃ pasīdatī”ti."
+msgstr ""
+
+msgctxt "sn3.24:1.5"
+msgid "“Kattha pana, bhante, dinnaṃ mahapphalan”ti?"
+msgstr ""
+
+msgctxt "sn3.24:1.6"
+msgid ""
+"“Aññaṃ kho etaṃ, mahārāja, kattha dānaṃ dātabbaṃ, aññaṃ panetaṃ kattha "
+"dinnaṃ mahapphalanti?"
+msgstr ""
+
+msgctxt "sn3.24:1.7"
+msgid "Sīlavato kho, mahārāja, dinnaṃ mahapphalaṃ, no tathā dussīle."
+msgstr ""
+
+msgctxt "sn3.24:1.8"
+msgid ""
+"Tena hi, mahārāja, taññevettha paṭipucchissāmi. Yathā, te khameyya, tathā "
+"naṃ byākareyyāsi."
+msgstr ""
+
+msgctxt "sn3.24:1.9"
+msgid "Taṃ kiṃ maññasi, mahārāja, "
+msgstr ""
+
+#. VAR: samupabyūḷho → samūpabbūḷho (bj, pts2) | samupabbuḷho (pts1)
+msgctxt "sn3.24:1.10"
+msgid "idha tyassa yuddhaṃ paccupaṭṭhitaṃ saṅgāmo samupabyūḷho."
+msgstr ""
+
+msgctxt "sn3.24:1.11"
+msgid ""
+"Atha āgaccheyya khattiyakumāro asikkhito akatahattho akatayoggo akatūpāsano "
+"bhīru chambhī utrāsī palāyī."
+msgstr ""
+
+msgctxt "sn3.24:1.12"
+msgid "Bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā”ti?"
+msgstr ""
+
+msgctxt "sn3.24:1.13"
+msgid ""
+"“Nāhaṃ, bhante, bhareyyaṃ taṃ purisaṃ, na ca me attho tādisena purisenā”ti."
+msgstr ""
+
+# Note that, while the khattiyas were often said to be the warrior class, there is no difference here.
+msgctxt "sn3.24:1.14"
+msgid "“Atha āgaccheyya brāhmaṇakumāro asikkhito … pe …"
+msgstr ""
+
+msgctxt "sn3.24:1.15"
+msgid "atha āgaccheyya vessakumāro asikkhito … pe …"
+msgstr ""
+
+msgctxt "sn3.24:1.16"
+msgid "atha āgaccheyya suddakumāro asikkhito … pe …"
+msgstr ""
+
+msgctxt "sn3.24:1.17"
+msgid "na ca me attho tādisena purisenā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.222"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn3.24:2.1"
+msgid "“Taṃ kiṃ maññasi, mahārāja, "
+msgstr ""
+
+msgctxt "sn3.24:2.2"
+msgid "idha tyassa yuddhaṃ paccupaṭṭhitaṃ saṅgāmo samupabyūḷho."
+msgstr ""
+
+msgctxt "sn3.24:2.3"
+msgid ""
+"Atha āgaccheyya khattiyakumāro susikkhito katahattho katayoggo katūpāsano "
+"abhīru acchambhī anutrāsī apalāyī."
+msgstr ""
+
+msgctxt "sn3.24:2.4"
+msgid "Bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā”ti?"
+msgstr ""
+
+msgctxt "sn3.24:2.5"
+msgid "“Bhareyyāhaṃ, bhante, taṃ purisaṃ, attho ca me tādisena purisenā”ti."
+msgstr ""
+
+msgctxt "sn3.24:2.6"
+msgid "“Atha āgaccheyya brāhmaṇakumāro … pe …"
+msgstr ""
+
+msgctxt "sn3.24:2.7"
+msgid "atha āgaccheyya vessakumāro … pe …"
+msgstr ""
+
+msgctxt "sn3.24:2.8"
+msgid ""
+"atha āgaccheyya suddakumāro susikkhito katahattho katayoggo katūpāsano "
+"abhīru acchambhī anutrāsī apalāyī."
+msgstr ""
+
+msgctxt "sn3.24:2.9"
+msgid "Bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā”ti?"
+msgstr ""
+
+msgctxt "sn3.24:2.10"
+msgid "“Bhareyyāhaṃ, bhante, taṃ purisaṃ, attho ca me tādisena purisenā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts1ed" id="pts1ed1.100"></a>
+#. <a class="pts2ed" id="pts2ed1.223"></a>
+#. <a class="sc" id="sc3"></a>
+#. VAR: yasmā kasmā cepi → yasmā cepi (si, s1-3, km, mr)
+msgctxt "sn3.24:3.1"
+msgid ""
+"“Evameva kho, mahārāja, yasmā kasmā cepi kulā agārasmā anagāriyaṃ pabbajito "
+"hoti, so ca hoti pañcaṅgavippahīno pañcaṅgasamannāgato, tasmiṃ dinnaṃ "
+"mahapphalaṃ hoti."
+msgstr ""
+
+msgctxt "sn3.24:3.2"
+msgid "Katamāni pañcaṅgāni pahīnāni honti?"
+msgstr ""
+
+msgctxt "sn3.24:3.3"
+msgid ""
+"Kāmacchando pahīno hoti, byāpādo pahīno hoti, thinamiddhaṃ pahīnaṃ hoti, "
+"uddhaccakukkuccaṃ pahīnaṃ hoti, vicikicchā pahīnā hoti."
+msgstr ""
+
+msgctxt "sn3.24:3.4"
+msgid "Imāni pañcaṅgāni pahīnāni honti."
+msgstr ""
+
+msgctxt "sn3.24:3.5"
+msgid "Katamehi pañcahaṅgehi samannāgato hoti?"
+msgstr ""
+
+msgctxt "sn3.24:3.6"
+msgid ""
+"Asekkhena sīlakkhandhena samannāgato hoti, asekkhena samādhikkhandhena "
+"samannāgato hoti, asekkhena paññākkhandhena samannāgato hoti, asekkhena "
+"vimuttikkhandhena samannāgato hoti, asekkhena vimuttiñāṇadassanakkhandhena "
+"samannāgato hoti."
+msgstr ""
+
+msgctxt "sn3.24:3.7"
+msgid "Imehi pañcahaṅgehi samannāgato hoti."
+msgstr ""
+
+msgctxt "sn3.24:3.8"
+msgid "Iti pañcaṅgavippahīne pañcaṅgasamannāgate dinnaṃ mahapphalan”ti."
+msgstr ""
+
+msgctxt "sn3.24:3.9"
+msgid "Idamavoca bhagavā … pe …"
+msgstr ""
+
+msgctxt "sn3.24:3.10"
+msgid "satthā:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc4"></a>
+#. VAR: Issattaṃ → issatthaṃ (bj, s1-3, km, pts2)
+#. VAR: balavīriyañca → balaviriyañca (bj, s1-3, km, pts2)
+msgctxt "sn3.24:4.1"
+msgid "“Issattaṃ balavīriyañca,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:4.2"
+msgid "yasmiṃ vijjetha māṇave;"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:4.3"
+msgid "Taṃ yuddhattho bhare rājā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:4.4"
+msgid "nāsūraṃ jātipaccayā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn3.24:5.1"
+msgid "Tatheva khantisoraccaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:5.2"
+msgid "dhammā yasmiṃ patiṭṭhitā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:5.3"
+msgid "Ariyavuttiṃ medhāviṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:5.4"
+msgid "hīnajaccampi pūjaye."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn3.24:6.1"
+msgid "Kāraye assame ramme,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:6.2"
+msgid "vāsayettha bahussute;"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:6.3"
+msgid "Papañca vivane kayirā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:6.4"
+msgid "dugge saṅkamanāni ca."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.224"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn3.24:7.1"
+msgid "Annaṃ pānaṃ khādanīyaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:7.2"
+msgid "vatthasenāsanāni ca;"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:7.3"
+msgid "Dadeyya ujubhūtesu,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:7.4"
+msgid "vippasannena cetasā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "sn3.24:8.1"
+msgid "Yathā hi megho thanayaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:8.2"
+msgid "vijjumālī satakkaku;"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:8.3"
+msgid "Thalaṃ ninnañca pūreti,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:8.4"
+msgid "abhivassaṃ vasundharaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn3.24:9.1"
+msgid "Tatheva saddho sutavā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:9.2"
+msgid "abhisaṅkhacca bhojanaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:9.3"
+msgid "Vanibbake tappayati,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:9.4"
+msgid "annapānena paṇḍito."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "sn3.24:10.1"
+msgid "Āmodamāno pakireti,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:10.2"
+msgid "detha dethāti bhāsati;"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:10.3"
+msgid "Taṃ hissa gajjitaṃ hoti,"
+msgstr ""
+
+# The Upanishads say that the thunder is the roar of Brahma. Thus it seems that, while the animist heritage of deva=sky is usually backgrounded, here it is rather more specific.
+#. <br>
+msgctxt "sn3.24:10.4"
+msgid "devasseva pavassato;"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:10.5"
+msgid "Sā puññadhārā vipulā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn3.24:10.6"
+msgid "dātāraṃ abhivassatī”ti."
+msgstr ""

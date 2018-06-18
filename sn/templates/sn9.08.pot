@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn9.08.pot\n"
+"X-Pootle-Revision: 21082\n"
+
+#. <section class="sutta" id="sn9.8"><article><div class="hgroup"><p class="division">
+msgctxt "sn9.8:0.1"
+msgid "Saṃyutta Nikāya 9"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn9.8:0.2"
+msgid "1. Vanavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn9.8:0.3"
+msgid "8. Kulagharaṇīsutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn9.8:1.1"
+msgid "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe."
+msgstr ""
+
+msgctxt "sn9.8:1.2"
+msgid ""
+"Tena kho pana samayena so bhikkhu aññatarasmiṃ kule ativelaṃ "
+"ajjhogāḷhappatto viharati."
+msgstr ""
+
+msgctxt "sn9.8:1.3"
+msgid ""
+"Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā "
+"atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yā tasmiṃ kule kulagharaṇī, tassā "
+"vaṇṇaṃ abhinimminitvā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ "
+"bhikkhuṃ gāthāya ajjhabhāsi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn9.8:2.1"
+msgid "“Nadītīresu saṇṭhāne,"
+msgstr ""
+
+#. <br>
+msgctxt "sn9.8:2.2"
+msgid "sabhāsu rathiyāsu ca;"
+msgstr ""
+
+#. <br>
+msgctxt "sn9.8:2.3"
+msgid "Janā saṅgamma mantenti,"
+msgstr ""
+
+#. <br>
+#. VAR: tañca → tvañca (mr)
+msgctxt "sn9.8:2.4"
+msgid "mañca tañca kimantaran”ti."
+msgstr ""
+
+# See http://sanskritdictionary.com/?iencoding=iast&q=praty%C5%ABha&lang=sans&action=Search
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.434"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn9.8:3.1"
+msgid "“Bahūhi saddā paccūhā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn9.8:3.2"
+msgid "khamitabbā tapassinā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn9.8:3.3"
+msgid "Na tena maṅku hotabbaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn9.8:3.4"
+msgid "na hi tena kilissati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn9.8:4.1"
+msgid "Yo ca saddaparittāsī,"
+msgstr ""
+
+# vatamiga is evidently a mythical beast renowned for its flightiness; it only occurs in Ja 14 and Tha-ap 482, both in legendary stories of the past.
+#. <br>
+msgctxt "sn9.8:4.2"
+msgid "vane vātamigo yathā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn9.8:4.3"
+msgid "Lahucittoti taṃ āhu,"
+msgstr ""
+
+#. <br>
+msgctxt "sn9.8:4.4"
+msgid "nāssa sampajjate vatan”ti."
+msgstr ""

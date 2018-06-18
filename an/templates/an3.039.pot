@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an3.039.pot\n"
+"X-Pootle-Revision: 12762\n"
+
+#. <section class="sutta" id="an3.39"><article><div class="hgroup"><p class="division">
+msgctxt "an3.39:0.1"
+msgid "Aṅguttara Nikāya 3"
+msgstr ""
+
+#. </p><p>
+msgctxt "an3.39:0.2"
+msgid "4. Devadūtavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an3.39:0.3"
+msgid "39. Sukhumālasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an3.39:1.1"
+msgid "“Sukhumālo ahaṃ, bhikkhave, paramasukhumālo accantasukhumālo."
+msgstr ""
+
+msgctxt "an3.39:1.2"
+msgid "Mama sudaṃ, bhikkhave, pitu nivesane pokkharaṇiyo kāritā honti."
+msgstr ""
+
+#. VAR: bhikkhave, uppalaṃ → sudaṃ uppalaṃ (bj, pts1)
+#. VAR: vappati → pupphati (bj, pts1)
+msgctxt "an3.39:1.3"
+msgid ""
+"Ekattha sudaṃ, bhikkhave, uppalaṃ vappati, ekattha padumaṃ, ekattha "
+"puṇḍarīkaṃ, yāvadeva mamatthāya."
+msgstr ""
+
+# From this it would appear that the nivasana is comparable to what bhikkhus call antaravasaka, i.e. a robe that covers the lower parts, worn indoors, i.e. a dhoti or sarong.
+#. VAR: akāsikaṃ candanaṃ dhāremi → kāsikaṃ candanaṃ dhāremi (s1-3, km, mr) | akāsikaṃ dhāremi (?)
+msgctxt "an3.39:1.4"
+msgid ""
+"Na kho panassāhaṃ, bhikkhave, akāsikaṃ candanaṃ dhāremi. Kāsikaṃ, bhikkhave, "
+"su me taṃ veṭhanaṃ hoti, kāsikā kañcukā, kāsikaṃ nivāsanaṃ, kāsiko "
+"uttarāsaṅgo."
+msgstr ""
+
+#. VAR: Rattindivaṃ → rattidivaṃ (mr)
+#. VAR: pana me su taṃ → panassu me taṃ (bj) | pana su me taṃ (s1-3, pts1)
+msgctxt "an3.39:1.5"
+msgid "Rattindivaṃ kho pana me su taṃ, bhikkhave, setacchattaṃ dhārīyati:"
+msgstr ""
+
+msgctxt "an3.39:1.6"
+msgid "‘mā naṃ phusi sītaṃ vā uṇhaṃ vā tiṇaṃ vā rajo vā ussāvo vā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an3.39:2.1"
+msgid ""
+"Tassa mayhaṃ, bhikkhave, tayo pāsādā ahesuṃ—eko hemantiko, eko gimhiko, eko "
+"vassiko."
+msgstr ""
+
+#. VAR: paricārayamāno → paricāriyamāno (bj, s1-3, km, mr) | parivāriyamāno (pts1)
+msgctxt "an3.39:2.2"
+msgid ""
+"So kho ahaṃ, bhikkhave, vassike pāsāde vassike cattāro māse nippurisehi "
+"tūriyehi paricārayamāno na heṭṭhāpāsādaṃ orohāmi."
+msgstr ""
+
+# bilanga is transl. as “sour gruel”, but why would you eat gruel with porridge, which, in fact, is just gruel. PTS dict. suggests Skt vidanga and vilanga, both of which are bitter medicial plants. It’s common today to eat gruel with pickle, and so I translate it. Concise dict has “vinegar”, which also fits.
+#. VAR: nivesane → nivesanesu (bj, s1-3, pts1)
+msgctxt "an3.39:2.3"
+msgid ""
+"Yathā kho pana, bhikkhave, aññesaṃ nivesane dāsakammakaraporisassa kaṇājakaṃ "
+"bhojanaṃ dīyati bilaṅgadutiyaṃ, evamevassu me, bhikkhave, pitu nivesane "
+"dāsakammakaraporisassa sālimaṃsodano dīyati."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.146"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an3.39:3.1"
+msgid ""
+"Tassa mayhaṃ, bhikkhave, evarūpāya iddhiyā samannāgatassa evarūpena ca "
+"sukhumālena etadahosi:"
+msgstr ""
+
+#. VAR: atisitvā → atiyitvā (bj)
+msgctxt "an3.39:3.2"
+msgid ""
+"‘assutavā kho puthujjano attanā jarādhammo samāno jaraṃ anatīto paraṃ jiṇṇaṃ "
+"disvā aṭṭīyati harāyati jigucchati attānaṃyeva atisitvā, ahampi khomhi "
+"jarādhammo jaraṃ anatīto."
+msgstr ""
+
+#. VAR: Ahañceva → ahañce (?)
+msgctxt "an3.39:3.3"
+msgid ""
+"Ahañceva kho pana jarādhammo samāno jaraṃ anatīto paraṃ jiṇṇaṃ disvā "
+"aṭṭīyeyyaṃ harāyeyyaṃ jiguccheyyaṃ na metaṃ assa patirūpan’ti."
+msgstr ""
+
+msgctxt "an3.39:3.4"
+msgid ""
+"Tassa mayhaṃ, bhikkhave, iti paṭisañcikkhato yo yobbane yobbanamado so "
+"sabbaso pahīyi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an3.39:4.1"
+msgid ""
+"Assutavā kho puthujjano attanā byādhidhammo samāno byādhiṃ anatīto paraṃ "
+"byādhitaṃ disvā aṭṭīyati harāyati jigucchati attānaṃyeva atisitvā:"
+msgstr ""
+
+msgctxt "an3.39:4.2"
+msgid ""
+"‘ahampi khomhi byādhidhammo byādhiṃ anatīto, ahañceva kho pana byādhidhammo "
+"samāno byādhiṃ anatīto paraṃ byādhikaṃ disvā aṭṭīyeyyaṃ harāyeyyaṃ "
+"jiguccheyyaṃ, na metaṃ assa patirūpan’ti."
+msgstr ""
+
+msgctxt "an3.39:4.3"
+msgid ""
+"Tassa mayhaṃ, bhikkhave, iti paṭisañcikkhato yo ārogye ārogyamado so sabbaso "
+"pahīyi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an3.39:5.1"
+msgid ""
+"Assutavā kho puthujjano attanā maraṇadhammo samāno maraṇaṃ anatīto paraṃ "
+"mataṃ disvā aṭṭīyati harāyati jigucchati attānaṃyeva atisitvā:"
+msgstr ""
+
+msgctxt "an3.39:5.2"
+msgid ""
+"‘ahampi khomhi maraṇadhammo, maraṇaṃ anatīto, ahaṃ ceva kho pana "
+"maraṇadhammo samāno maraṇaṃ anatīto paraṃ mataṃ disvā aṭṭīyeyyaṃ harāyeyyaṃ "
+"jiguccheyyaṃ, na metaṃ assa patirūpan’ti."
+msgstr ""
+
+msgctxt "an3.39:5.3"
+msgid ""
+"Tassa mayhaṃ, bhikkhave, iti paṭisañcikkhato yo jīvite jīvitamado so sabbaso "
+"pahīyīti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.147"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an3.39:6.1"
+msgid "Tayome, bhikkhave, madā."
+msgstr ""
+
+msgctxt "an3.39:6.2"
+msgid "Katame tayo?"
+msgstr ""
+
+msgctxt "an3.39:6.3"
+msgid "Yobbanamado, ārogyamado, jīvitamado."
+msgstr ""
+
+msgctxt "an3.39:6.4"
+msgid ""
+"Yobbanamadamatto vā, bhikkhave, assutavā puthujjano kāyena duccaritaṃ "
+"carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati."
+msgstr ""
+
+msgctxt "an3.39:6.5"
+msgid ""
+"So kāyena duccaritaṃ caritvā, vācāya duccaritaṃ caritvā, manasā duccaritaṃ "
+"caritvā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ "
+"upapajjati."
+msgstr ""
+
+msgctxt "an3.39:6.6"
+msgid "Ārogyamadamatto vā, bhikkhave, assutavā puthujjano … pe …"
+msgstr ""
+
+msgctxt "an3.39:6.7"
+msgid ""
+"jīvitamadamatto vā, bhikkhave, assutavā puthujjano kāyena duccaritaṃ carati, "
+"vācāya duccaritaṃ carati, manasā duccaritaṃ carati."
+msgstr ""
+
+msgctxt "an3.39:6.8"
+msgid ""
+"So kāyena duccaritaṃ caritvā, vācāya duccaritaṃ caritvā, manasā duccaritaṃ "
+"caritvā kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ "
+"upapajjati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an3.39:7.1"
+msgid ""
+"Yobbanamadamatto vā, bhikkhave, bhikkhu sikkhaṃ paccakkhāya hīnāyāvattati."
+msgstr ""
+
+msgctxt "an3.39:7.2"
+msgid "Ārogyamadamatto vā, bhikkhave, bhikkhu … pe …"
+msgstr ""
+
+msgctxt "an3.39:7.3"
+msgid ""
+"jīvitamadamatto vā, bhikkhave, bhikkhu sikkhaṃ paccakkhāya hīnāyāvattatīti."
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an3.39:8.1"
+msgid "Byādhidhammā jarādhammā,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:8.2"
+msgid "atho maraṇadhammino;"
+msgstr ""
+
+#. <br>
+#. VAR: Yathādhammā → atho maraṇadhammiko. yathā dhammo (mr)
+msgctxt "an3.39:8.3"
+msgid "Yathādhammā tathāsantā,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:8.4"
+msgid "jigucchanti puthujjanā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an3.39:9.1"
+msgid "Ahañce taṃ jiguccheyyaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:9.2"
+msgid "evaṃdhammesu pāṇisu;"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:9.3"
+msgid "Na metaṃ patirūpassa,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:9.4"
+msgid "mama evaṃ vihārino."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "an3.39:10.1"
+msgid "Sohaṃ evaṃ viharanto,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:10.2"
+msgid "ñatvā dhammaṃ nirūpadhiṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:10.3"
+msgid "Ārogye yobbanasmiñca,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:10.4"
+msgid "jīvitasmiñca ye madā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+#. VAR: abhibhosmi → atītosmi (mr)
+msgctxt "an3.39:11.1"
+msgid "Sabbe made abhibhosmi,"
+msgstr ""
+
+#. <br>
+#. VAR: Nekkhamme daṭṭhu khemataṃ → nekkhammaṃ daṭṭhu khemato (si, s1-3, pts1)
+msgctxt "an3.39:11.2"
+msgid "Nekkhamme daṭṭhu khemataṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:11.3"
+msgid "Tassa me ahu ussāho,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:11.4"
+msgid "Nibbānaṃ abhipassato."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an3.39:12.1"
+msgid "Nāhaṃ bhabbo etarahi,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:12.2"
+msgid "Kāmāni paṭisevituṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:12.3"
+msgid "Anivatti bhavissāmi,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.39:12.4"
+msgid "Brahmacariyaparāyaṇo”ti."
+msgstr ""
+
+#. </p></blockquote><p class="endsection">
+msgctxt "an3.39:12.5"
+msgid "Navamaṃ."
+msgstr ""

@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /zh_CN/an/an5.167.po\n"
+"X-Pootle-Revision: 36968\n"
+
+#. <section class="sutta" id="an5.167"><article><div class="hgroup"><p class="division">
+msgctxt "an5.167:0.1"
+msgid "Aṅguttara Nikāya 5"
+msgstr ""
+
+#. </p><p>
+msgctxt "an5.167:0.2"
+msgid "17. Āghātavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an5.167:0.3"
+msgid "167. Codanāsutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an5.167:1.1"
+msgid "Tatra kho āyasmā sāriputto bhikkhū āmantesi:"
+msgstr ""
+
+msgctxt "an5.167:1.2"
+msgid ""
+"“codakena, āvuso, bhikkhunā paraṃ codetukāmena pañca dhamme ajjhattaṃ "
+"upaṭṭhāpetvā paro codetabbo."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an5.167:2.1"
+msgid "Katame pañca?"
+msgstr ""
+
+msgctxt "an5.167:2.2"
+msgid "Kālena vakkhāmi, no akālena;"
+msgstr ""
+
+msgctxt "an5.167:2.3"
+msgid "bhūtena vakkhāmi, no abhūtena;"
+msgstr ""
+
+msgctxt "an5.167:2.4"
+msgid "saṇhena vakkhāmi, no pharusena;"
+msgstr ""
+
+msgctxt "an5.167:2.5"
+msgid "atthasaṃhitena vakkhāmi, no anatthasaṃhitena;"
+msgstr ""
+
+#. VAR: mettacitto → mettacittena (bj, pts1, mr)
+#. VAR: dosantaro → dosantarena (bj, pts1, mr)
+msgctxt "an5.167:2.6"
+msgid "mettacitto vakkhāmi, no dosantaro."
+msgstr ""
+
+msgctxt "an5.167:2.7"
+msgid ""
+"Codakena, āvuso, bhikkhunā paraṃ codetukāmena ime pañca dhamme ajjhattaṃ "
+"upaṭṭhāpetvā paro codetabbo."
+msgstr ""
+
+# See BB on the unusual phrasing here. The Chinese parallel doesn’t seem to have this quirk.
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an5.167:3.1"
+msgid ""
+"Idhāhaṃ, āvuso, ekaccaṃ puggalaṃ passāmi akālena codiyamānaṃ no kālena "
+"kupitaṃ, abhūtena codiyamānaṃ no bhūtena kupitaṃ, pharusena codiyamānaṃ no "
+"saṇhena kupitaṃ, anatthasaṃhitena codiyamānaṃ no atthasaṃhitena kupitaṃ, "
+"dosantarena codiyamānaṃ no mettacittena kupitaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.197"></a>
+#. <a class="sc" id="sc4"></a>
+#. VAR: upadahātabbo → upadahitabbo (bj, s1-3)
+msgctxt "an5.167:4.1"
+msgid ""
+"Adhammacuditassa, āvuso, bhikkhuno pañcahākārehi avippaṭisāro upadahātabbo:"
+msgstr ""
+
+# BB has “friend” here, but I have no āvuso in my text, perhaps it is a variant?
+msgctxt "an5.167:4.2"
+msgid "‘akālenāyasmā cudito no kālena, alaṃ te avippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:4.3"
+msgid "abhūtenāyasmā cudito no bhūtena, alaṃ te avippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:4.4"
+msgid "pharusenāyasmā cudito no saṇhena, alaṃ te avippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:4.5"
+msgid "anatthasaṃhitenāyasmā cudito no atthasaṃhitena, alaṃ te avippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:4.6"
+msgid "dosantarenāyasmā cudito no mettacittena, alaṃ te avippaṭisārāyā’ti."
+msgstr ""
+
+msgctxt "an5.167:4.7"
+msgid ""
+"Adhammacuditassa, āvuso, bhikkhuno imehi pañcahākārehi avippaṭisāro "
+"upadahātabbo."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an5.167:5.1"
+msgid ""
+"Adhammacodakassa, āvuso, bhikkhuno pañcahākārehi vippaṭisāro upadahātabbo:"
+msgstr ""
+
+#. VAR: codito → cudito (bj, s1-3, pts1)
+msgctxt "an5.167:5.2"
+msgid "‘akālena te, āvuso, codito no kālena, alaṃ te vippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:5.3"
+msgid "abhūtena te, āvuso, codito no bhūtena, alaṃ te vippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:5.4"
+msgid "pharusena te, āvuso, codito no saṇhena, alaṃ te vippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:5.5"
+msgid ""
+"anatthasaṃhitena te, āvuso, codito no atthasaṃhitena, alaṃ te vippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:5.6"
+msgid ""
+"dosantarena te, āvuso, codito no mettacittena, alaṃ te vippaṭisārāyā’ti."
+msgstr ""
+
+msgctxt "an5.167:5.7"
+msgid ""
+"Adhammacodakassa, āvuso, bhikkhuno imehi pañcahākārehi vippaṭisāro "
+"upadahātabbo."
+msgstr ""
+
+msgctxt "an5.167:5.8"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.167:5.9"
+msgid "Yathā na aññopi bhikkhu abhūtena codetabbaṃ maññeyyāti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an5.167:6.1"
+msgid ""
+"Idha panāhaṃ, āvuso, ekaccaṃ puggalaṃ passāmi kālena codiyamānaṃ no akālena "
+"kupitaṃ, bhūtena codiyamānaṃ no abhūtena kupitaṃ, saṇhena codiyamānaṃ no "
+"pharusena kupitaṃ, atthasaṃhitena codiyamānaṃ no anatthasaṃhitena kupitaṃ, "
+"mettacittena codiyamānaṃ no dosantarena kupitaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.198"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an5.167:7.1"
+msgid ""
+"Dhammacuditassa, āvuso, bhikkhuno pañcahākārehi vippaṭisāro upadahātabbo:"
+msgstr ""
+
+msgctxt "an5.167:7.2"
+msgid "‘kālenāyasmā cudito no akālena, alaṃ te vippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:7.3"
+msgid "bhūtenāyasmā cudito no abhūtena, alaṃ te vippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:7.4"
+msgid "saṇhenāyasmā cudito no pharusena, alaṃ te vippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:7.5"
+msgid "atthasaṃhitenāyasmā cudito no anatthasaṃhitena, alaṃ te vippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:7.6"
+msgid "mettacittenāyasmā cudito no dosantarena, alaṃ te vippaṭisārāyā’ti."
+msgstr ""
+
+msgctxt "an5.167:7.7"
+msgid ""
+"Dhammacuditassa, āvuso, bhikkhuno imehi pañcahākārehi vippaṭisāro "
+"upadahātabbo."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an5.167:8.1"
+msgid ""
+"Dhammacodakassa, āvuso, bhikkhuno pañcahākārehi avippaṭisāro upadahātabbo:"
+msgstr ""
+
+msgctxt "an5.167:8.2"
+msgid "‘kālena te, āvuso, codito no akālena, alaṃ te avippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:8.3"
+msgid "bhūtena te, āvuso, codito no abhūtena, alaṃ te avippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:8.4"
+msgid "saṇhena te, āvuso, codito no pharusena, alaṃ te avippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:8.5"
+msgid ""
+"atthasaṃhitena te, āvuso, codito no anatthasaṃhitena, alaṃ te avippaṭisārāya;"
+msgstr ""
+
+msgctxt "an5.167:8.6"
+msgid ""
+"mettacittena te, āvuso, codito no dosantarena, alaṃ te avippaṭisārāyā’ti."
+msgstr ""
+
+msgctxt "an5.167:8.7"
+msgid ""
+"Dhammacodakassa, āvuso, bhikkhuno imehi pañcahākārehi avippaṭisāro "
+"upadahātabbo."
+msgstr ""
+
+msgctxt "an5.167:8.8"
+msgid "Taṃ kissa hetu?"
+msgstr ""
+
+msgctxt "an5.167:8.9"
+msgid "Yathā aññopi bhikkhu bhūtena coditabbaṃ maññeyyāti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an5.167:9.1"
+msgid "Cuditena, āvuso, puggalena dvīsu dhammesu patiṭṭhātabbaṃ—"
+msgstr ""
+
+msgctxt "an5.167:9.2"
+msgid "sacce ca, akuppe ca."
+msgstr ""
+
+#. VAR: Mañcepi → pañcahi (s1-3, mr)
+#. VAR: mettacittā → mettacittena (bj, pts1, mr)
+#. VAR: dosantarā → dosantarena (bj, pts1, mr)
+msgctxt "an5.167:9.3"
+msgid ""
+"Mañcepi, āvuso, pare codeyyuṃ kālena vā akālena vā bhūtena vā abhūtena vā "
+"saṇhena vā pharusena vā atthasaṃhitena vā anatthasaṃhitena vā mettacittā vā "
+"dosantarā vā, ahampi dvīsuyeva dhammesu patiṭṭhaheyyaṃ—"
+msgstr ""
+
+msgctxt "an5.167:9.4"
+msgid "sacce ca, akuppe ca."
+msgstr ""
+
+msgctxt "an5.167:9.5"
+msgid "Sace jāneyyaṃ:"
+msgstr ""
+
+msgctxt "an5.167:9.6"
+msgid "‘attheso mayi dhammo’ti, ‘atthī’ti naṃ vadeyyaṃ:"
+msgstr ""
+
+msgctxt "an5.167:9.7"
+msgid "‘saṃvijjateso mayi dhammo’ti."
+msgstr ""
+
+msgctxt "an5.167:9.8"
+msgid "Sace jāneyyaṃ:"
+msgstr ""
+
+msgctxt "an5.167:9.9"
+msgid "‘nattheso mayi dhammo’ti, ‘natthī’ti naṃ vadeyyaṃ:"
+msgstr ""
+
+msgctxt "an5.167:9.10"
+msgid "‘neso dhammo mayi saṃvijjatī’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+#. VAR: Evampi kho te → evampi kho (mr)
+msgctxt "an5.167:10.1"
+msgid ""
+"“Evampi kho te, sāriputta, vuccamānā atha ca panidhekacce moghapurisā na "
+"padakkhiṇaṃ gaṇhantī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.199"></a>
+#. <a class="sc" id="sc11"></a>
+#. VAR: ketabino → keṭubhino (bj, s1-3, km, pts1)
+msgctxt "an5.167:11.1"
+msgid ""
+"“Ye te, bhante, puggalā assaddhā jīvikatthā na saddhā agārasmā anagāriyaṃ "
+"pabbajitā saṭhā māyāvino ketabino uddhatā unnaḷā capalā mukharā vikiṇṇavācā "
+"indriyesu aguttadvārā bhojane amattaññuno jāgariyaṃ ananuyuttā sāmaññe "
+"anapekkhavanto sikkhāya na tibbagāravā bāhulikā sāthalikā okkamane "
+"pubbaṅgamā paviveke nikkhittadhurā kusītā hīnavīriyā muṭṭhassatino "
+"asampajānā asamāhitā vibbhantacittā duppaññā eḷamūgā, te mayā evaṃ vuccamānā "
+"na padakkhiṇaṃ gaṇhanti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an5.167:12.1"
+msgid ""
+"Ye pana te, bhante, kulaputtā saddhā agārasmā anagāriyaṃ pabbajitā asaṭhā "
+"amāyāvino aketabino anuddhatā anunnaḷā acapalā amukharā avikiṇṇavācā "
+"indriyesu guttadvārā bhojane mattaññuno jāgariyaṃ anuyuttā sāmaññe "
+"apekkhavanto sikkhāya tibbagāravā na bāhulikā na sāthalikā okkamane "
+"nikkhittadhurā paviveke pubbaṅgamā āraddhavīriyā pahitattā upaṭṭhitassatino "
+"sampajānā samāhitā ekaggacittā paññavanto aneḷamūgā, te mayā evaṃ vuccamānā "
+"padakkhiṇaṃ gaṇhantī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "an5.167:13.1"
+msgid ""
+"“Ye te, sāriputta, puggalā assaddhā jīvikatthā na saddhā agārasmā anagāriyaṃ "
+"pabbajitā saṭhā māyāvino ketabino uddhatā unnaḷā capalā mukharā vikiṇṇavācā "
+"indriyesu aguttadvārā bhojane amattaññuno jāgariyaṃ ananuyuttā sāmaññe "
+"anapekkhavanto sikkhāya na tibbagāravā bāhulikā sāthalikā okkamane "
+"pubbaṅgamā paviveke nikkhittadhurā kusītā hīnavīriyā muṭṭhassatino "
+"asampajānā asamāhitā vibbhantacittā duppaññā eḷamūgā, tiṭṭhantu te."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.200"></a>
+#. <a class="sc" id="sc14"></a>
+msgctxt "an5.167:14.1"
+msgid ""
+"Ye pana te, sāriputta, kulaputtā saddhā agārasmā anagāriyaṃ pabbajitā asaṭhā "
+"amāyāvino aketabino anuddhatā anunnaḷā acapalā amukharā avikiṇṇavācā "
+"indriyesu guttadvārā bhojane mattaññuno jāgariyaṃ anuyuttā sāmaññe "
+"apekkhavanto sikkhāya tibbagāravā na bāhulikā na sāthalikā okkamane "
+"nikkhittadhurā paviveke pubbaṅgamā āraddhavīriyā pahitattā upaṭṭhitassatino "
+"sampajānā samāhitā ekaggacittā paññavanto aneḷamūgā, te tvaṃ, sāriputta, "
+"vadeyyāsi."
+msgstr ""
+
+msgctxt "an5.167:14.2"
+msgid "Ovada, sāriputta, sabrahmacārī;"
+msgstr ""
+
+msgctxt "an5.167:14.3"
+msgid "anusāsa, sāriputta, sabrahmacārī:"
+msgstr ""
+
+msgctxt "an5.167:14.4"
+msgid "‘asaddhammā vuṭṭhāpetvā saddhamme patiṭṭhāpessāmi sabrahmacārī’ti."
+msgstr ""
+
+msgctxt "an5.167:14.5"
+msgid "Evañhi te, sāriputta, sikkhitabban”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an5.167:14.6"
+msgid "Sattamaṃ."
+msgstr ""

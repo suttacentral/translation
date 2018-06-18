@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /zh_CN/an/an4.005.po\n"
+"X-Pootle-Revision: 36090\n"
+
+#. <section class="sutta" id="an4.5"><article><div class="hgroup"><p class="division">
+msgctxt "an4.5:0.1"
+msgid "Aṅguttara Nikāya 4"
+msgstr ""
+
+#. </p><p>
+msgctxt "an4.5:0.2"
+msgid "1. Bhaṇḍagāmavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an4.5:0.3"
+msgid "5. Anusotasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an4.5:1.1"
+msgid "“Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ."
+msgstr ""
+
+msgctxt "an4.5:1.2"
+msgid "Katame cattāro?"
+msgstr ""
+
+#. VAR: pāraṅgato → pāragato (bj, s1-3, km)
+msgctxt "an4.5:1.3"
+msgid ""
+"Anusotagāmī puggalo, paṭisotagāmī puggalo, ṭhitatto puggalo, tiṇṇo pāraṅgato "
+"thale tiṭṭhati brāhmaṇo."
+msgstr ""
+
+msgctxt "an4.5:1.4"
+msgid "Katamo ca, bhikkhave, anusotagāmī puggalo?"
+msgstr ""
+
+msgctxt "an4.5:1.5"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo kāme ca paṭisevati, pāpañca kammaṃ karoti."
+msgstr ""
+
+msgctxt "an4.5:1.6"
+msgid "Ayaṃ vuccati, bhikkhave, anusotagāmī puggalo."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an4.5:2.1"
+msgid "Katamo ca, bhikkhave, paṭisotagāmī puggalo?"
+msgstr ""
+
+# BB has “even” for -pli here, but the parallel phrasing at MN 46 shows that it just means “also”
+msgctxt "an4.5:2.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo kāme ca nappaṭisevati, pāpañca kammaṃ na "
+"karoti, sahāpi dukkhena sahāpi domanassena assumukhopi rudamāno paripuṇṇaṃ "
+"parisuddhaṃ brahmacariyaṃ carati."
+msgstr ""
+
+msgctxt "an4.5:2.3"
+msgid "Ayaṃ vuccati, bhikkhave, paṭisotagāmī puggalo."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an4.5:3.1"
+msgid "Katamo ca, bhikkhave, ṭhitatto puggalo?"
+msgstr ""
+
+msgctxt "an4.5:3.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ "
+"parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā."
+msgstr ""
+
+msgctxt "an4.5:3.3"
+msgid "Ayaṃ vuccati, bhikkhave, ṭhitatto puggalo."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.6"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an4.5:4.1"
+msgid "Katamo ca, bhikkhave, puggalo tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo?"
+msgstr ""
+
+msgctxt "an4.5:4.2"
+msgid ""
+"Idha, bhikkhave, ekacco puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ "
+"paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati."
+msgstr ""
+
+msgctxt "an4.5:4.3"
+msgid ""
+"Ayaṃ vuccati, bhikkhave, puggalo tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo."
+msgstr ""
+
+msgctxt "an4.5:4.4"
+msgid "Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasminti."
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an4.5:5.1"
+msgid "Ye keci kāmesu asaññatā janā,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:5.2"
+msgid "Avītarāgā idha kāmabhogino;"
+msgstr ""
+
+#. <br>
+#. VAR: jātijarūpagāmi te → jātijarūpagāhino (bj) | jātijarūpagā hi te (s1-3, km) | jātijarūpagāmī te (pts1)
+msgctxt "an4.5:5.3"
+msgid "Punappunaṃ jātijarūpagāmi te,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:5.4"
+msgid "Taṇhādhipannā anusotagāmino."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an4.5:6.1"
+msgid "Tasmā hi dhīro idhupaṭṭhitassatī,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:6.2"
+msgid "Kāme ca pāpe ca asevamāno;"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:6.3"
+msgid "Sahāpi dukkhena jaheyya kāme,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:6.4"
+msgid "Paṭisotagāmīti tamāhu puggalaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an4.5:7.1"
+msgid "Yo ve kilesāni pahāya pañca,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:7.2"
+msgid "Paripuṇṇasekho aparihānadhammo;"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:7.3"
+msgid "Cetovasippatto samāhitindriyo,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:7.4"
+msgid "Sa ve ṭhitattoti naro pavuccati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an4.5:8.1"
+msgid "Paroparā yassa samecca dhammā,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:8.2"
+msgid "Vidhūpitā atthagatā na santi;"
+msgstr ""
+
+#. <br>
+#. VAR: Sa ve muni → sa vedagū (bj, s1-3, km, pts1)
+msgctxt "an4.5:8.3"
+msgid "Sa ve muni vusitabrahmacariyo,"
+msgstr ""
+
+#. <br>
+msgctxt "an4.5:8.4"
+msgid "Lokantagū pāragatoti vuccatī”ti."
+msgstr ""
+
+#. </p></blockquote><p class="endsection">
+msgctxt "an4.5:8.5"
+msgid "Pañcamaṃ."
+msgstr ""

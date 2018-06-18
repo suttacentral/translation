@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn25.05.pot\n"
+"X-Pootle-Revision: 18698\n"
+
+#. <section class="sutta" id="sn25.5"><article><div class="hgroup"><p class="division">
+msgctxt "sn25.5:0.1"
+msgid "Saṃyutta Nikāya 25"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn25.5:0.2"
+msgid "1. Cakkhuvagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 5. Samphassajasutta → vedanāsuttaṃ (bj) | vedanāya (pts1) | samphassajāsutta (c1, c2)
+msgctxt "sn25.5:0.3"
+msgid "5. Samphassajasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn25.5:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+msgctxt "sn25.5:1.2"
+msgid "“Cakkhusamphassajā, bhikkhave, vedanā aniccā vipariṇāmī aññathābhāvī;"
+msgstr ""
+
+msgctxt "sn25.5:1.3"
+msgid "sotasamphassajā vedanā … pe …"
+msgstr ""
+
+msgctxt "sn25.5:1.4"
+msgid "ghānasamphassajā vedanā … pe …"
+msgstr ""
+
+msgctxt "sn25.5:1.5"
+msgid "jivhāsamphassajā vedanā … pe …"
+msgstr ""
+
+msgctxt "sn25.5:1.6"
+msgid "kāyasamphassajā vedanā … pe …"
+msgstr ""
+
+msgctxt "sn25.5:1.7"
+msgid "manosamphassajā vedanā aniccā vipariṇāmī aññathābhāvī."
+msgstr ""
+
+msgctxt "sn25.5:1.8"
+msgid ""
+"Yo, bhikkhave, ime dhamme evaṃ saddahati adhimuccati, ayaṃ vuccati ‘"
+"saddhānusārī … pe …"
+msgstr ""
+
+msgctxt "sn25.5:1.9"
+msgid "sambodhiparāyano’”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn25.5:1.10"
+msgid "Pañcamaṃ."
+msgstr ""

@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an4.158.pot\n"
+"X-Pootle-Revision: 13314\n"
+
+#. <section class="sutta" id="an4.158"><article><div class="hgroup"><p class="division">
+msgctxt "an4.158:0.1"
+msgid "Aṅguttara Nikāya 4"
+msgstr ""
+
+#. </p><p>
+msgctxt "an4.158:0.2"
+msgid "16. Indriyavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: parihāṇisuttaṃ (bj)
+msgctxt "an4.158:0.3"
+msgid "158. Parihānisutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.144"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an4.158:1.1"
+msgid "Tatra kho āyasmā sāriputto bhikkhū āmantesi:"
+msgstr ""
+
+msgctxt "an4.158:1.2"
+msgid "“āvuso bhikkhave”ti."
+msgstr ""
+
+msgctxt "an4.158:1.3"
+msgid "“Āvuso”ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ."
+msgstr ""
+
+msgctxt "an4.158:1.4"
+msgid "Āyasmā sāriputto etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an4.158:2.1"
+msgid ""
+"“Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā cattāro dhamme attani "
+"samanupassati, niṭṭhamettha gantabbaṃ:"
+msgstr ""
+
+msgctxt "an4.158:2.2"
+msgid "‘parihāyāmi kusalehi dhammehi’."
+msgstr ""
+
+msgctxt "an4.158:2.3"
+msgid "Parihānametaṃ vuttaṃ bhagavatā."
+msgstr ""
+
+msgctxt "an4.158:2.4"
+msgid "Katame cattāro?"
+msgstr ""
+
+# See BB’s note on the readings of thanathanesu. Here I adopt the PTS reading. Cf. other contexts where pannacakkhu is used, eg SN 41.7: “te gambhīre buddhavacane paññācakkhu kamatī”.
+#. VAR: Rāgavepullattaṃ → rāgavepullataṃ (bj, s1-3, km, pts1)
+msgctxt "an4.158:2.5"
+msgid ""
+"Rāgavepullattaṃ, dosavepullattaṃ, mohavepullattaṃ, gambhīresu kho panassa "
+"ṭhānāṭhānesu paññācakkhu na kamati."
+msgstr ""
+
+msgctxt "an4.158:2.6"
+msgid ""
+"Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā ime cattāro dhamme attani "
+"samanupassati, niṭṭhamettha gantabbaṃ:"
+msgstr ""
+
+msgctxt "an4.158:2.7"
+msgid "‘parihāyāmi kusalehi dhammehi’."
+msgstr ""
+
+msgctxt "an4.158:2.8"
+msgid "Parihānametaṃ vuttaṃ bhagavatā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an4.158:3.1"
+msgid ""
+"Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā cattāro dhamme attani "
+"samanupassati, niṭṭhamettha gantabbaṃ:"
+msgstr ""
+
+msgctxt "an4.158:3.2"
+msgid "‘na parihāyāmi kusalehi dhammehi’."
+msgstr ""
+
+msgctxt "an4.158:3.3"
+msgid "Aparihānametaṃ vuttaṃ bhagavatā."
+msgstr ""
+
+msgctxt "an4.158:3.4"
+msgid "Katame cattāro?"
+msgstr ""
+
+#. VAR: Rāgatanuttaṃ → rāgatanuttanaṃ (mr)
+msgctxt "an4.158:3.5"
+msgid ""
+"Rāgatanuttaṃ, dosatanuttaṃ, mohatanuttaṃ, gambhīresu kho panassa "
+"ṭhānāṭhānesu paññācakkhu kamati."
+msgstr ""
+
+msgctxt "an4.158:3.6"
+msgid ""
+"Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā ime cattāro dhamme attani "
+"samanupassati, niṭṭhamettha gantabbaṃ:"
+msgstr ""
+
+msgctxt "an4.158:3.7"
+msgid "‘na parihāyāmi kusalehi dhammehi’."
+msgstr ""
+
+msgctxt "an4.158:3.8"
+msgid "Aparihānametaṃ vuttaṃ bhagavatā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an4.158:3.9"
+msgid "Aṭṭhamaṃ."
+msgstr ""

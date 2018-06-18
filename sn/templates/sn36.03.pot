@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn36.03.pot\n"
+"X-Pootle-Revision: 19378\n"
+
+#. <section class="sutta" id="sn36.3"><article><div class="hgroup"><p class="division">
+msgctxt "sn36.3:0.1"
+msgid "Saṃyutta Nikāya 36"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn36.3:0.2"
+msgid "1. Sagāthāvagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn36.3:0.3"
+msgid "3. Pahānasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn36.3:1.1"
+msgid "“Tisso imā, bhikkhave, vedanā."
+msgstr ""
+
+msgctxt "sn36.3:1.2"
+msgid "Katamā tisso?"
+msgstr ""
+
+msgctxt "sn36.3:1.3"
+msgid "Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā."
+msgstr ""
+
+msgctxt "sn36.3:1.4"
+msgid ""
+"Sukhāya, bhikkhave, vedanāya rāgānusayo pahātabbo, dukkhāya vedanāya "
+"paṭighānusayo pahātabbo, adukkhamasukhāya vedanāya avijjānusayo pahātabbo."
+msgstr ""
+
+#. VAR: acchecchi → acchejji (s1-3, pts1)
+#. VAR: vivattayi → vāvattayi (bj)
+msgctxt "sn36.3:1.5"
+msgid ""
+"Yato kho, bhikkhave, bhikkhuno sukhāya vedanāya rāgānusayo pahīno hoti, "
+"dukkhāya vedanāya paṭighānusayo pahīno hoti, adukkhamasukhāya vedanāya "
+"avijjānusayo pahīno hoti, ayaṃ vuccati, bhikkhave, ‘bhikkhu niranusayo "
+"sammaddaso acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā "
+"antamakāsi dukkhassā’ti."
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc2"></a>
+#. VAR: vedayamānassa → vediyamānassa (bj, pts1)
+msgctxt "sn36.3:2.1"
+msgid "Sukhaṃ vedayamānassa,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:2.2"
+msgid "vedanaṃ appajānato;"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:2.3"
+msgid "So rāgānusayo hoti,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:2.4"
+msgid "anissaraṇadassino."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn36.3:3.1"
+msgid "Dukkhaṃ vedayamānassa,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:3.2"
+msgid "vedanaṃ appajānato;"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:3.3"
+msgid "Paṭighānusayo hoti,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:3.4"
+msgid "anissaraṇadassino."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn36.3:4.1"
+msgid "Adukkhamasukhaṃ santaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:4.2"
+msgid "bhūripaññena desitaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:4.3"
+msgid "Tañcāpi abhinandati,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:4.4"
+msgid "neva dukkhā pamuccati."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.206"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn36.3:5.1"
+msgid "Yato ca bhikkhu ātāpī,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:5.2"
+msgid "sampajaññaṃ na riñcati;"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:5.3"
+msgid "Tato so vedanā sabbā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:5.4"
+msgid "parijānāti paṇḍito."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn36.3:6.1"
+msgid "So vedanā pariññāya,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:6.2"
+msgid "diṭṭhe dhamme anāsavo;"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:6.3"
+msgid "Kāyassa bhedā dhammaṭṭho,"
+msgstr ""
+
+#. <br>
+msgctxt "sn36.3:6.4"
+msgid "saṅkhyaṃ nopeti vedagū”ti."
+msgstr ""
+
+#. </p></blockquote><p class="endsection">
+msgctxt "sn36.3:6.5"
+msgid "Tatiyaṃ."
+msgstr ""

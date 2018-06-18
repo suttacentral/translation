@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/mn/mn006.pot\n"
+"X-Pootle-Revision: 15222\n"
+
+#. <section class="sutta" id="mn6"><article><div class="hgroup"><p class="division">
+msgctxt "mn6:0.1"
+msgid "Majjhima Nikāya 6"
+msgstr ""
+
+#. </p><h1>
+msgctxt "mn6:0.2"
+msgid "Ākaṅkheyyasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="nya" id="nya1"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.33"></a>
+#. <a class="sc" id="sc1"></a>
+#. <span class="evam">
+msgctxt "mn6:1.1"
+msgid "Evaṃ me sutaṃ—​"
+msgstr ""
+
+#. </span>
+msgctxt "mn6:1.2"
+msgid ""
+"ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+
+msgctxt "mn6:1.3"
+msgid "Tatra kho bhagavā bhikkhū āmantesi:"
+msgstr ""
+
+msgctxt "mn6:1.4"
+msgid "“bhikkhavo”ti."
+msgstr ""
+
+msgctxt "mn6:1.5"
+msgid "“Bhadante”ti te bhikkhū bhagavato paccassosuṃ."
+msgstr ""
+
+msgctxt "mn6:1.6"
+msgid "Bhagavā etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya2"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "mn6:2.1"
+msgid ""
+"“Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā; "
+"pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā aṇumattesu vajjesu "
+"bhayadassāvino; samādāya sikkhatha sikkhāpadesu."
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya3"></a>
+#. <a class="sc" id="sc3"></a>
+#. VAR: manāpo ca garu ca bhāvanīyo cā’ti → manāpo garu bhāvanīyo cāti (bj, pts1)
+msgctxt "mn6:3.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘sabrahmacārīnaṃ piyo ca assaṃ manāpo ca "
+"garu ca bhāvanīyo cā’ti, sīlesvevassa paripūrakārī ajjhattaṃ "
+"cetosamathamanuyutto anirākatajjhāno vipassanāya samannāgato brūhetā "
+"suññāgārānaṃ. (1)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya4"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "mn6:4.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘lābhī assaṃ "
+"cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan’ti, sīlesvevassa "
+"paripūrakārī ajjhattaṃ cetosamathamanuyutto anirākatajjhāno vipassanāya "
+"samannāgato brūhetā suññāgārānaṃ. (2)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya5"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "mn6:5.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘yesāhaṃ "
+"cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṃ paribhuñjāmi tesaṃ "
+"te kārā mahapphalā assu mahānisaṃsā’ti, sīlesvevassa paripūrakārī ajjhattaṃ "
+"cetosamathamanuyutto anirākatajjhāno vipassanāya samannāgato brūhetā "
+"suññāgārānaṃ. (3)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya6"></a>
+#. <a class="sc" id="sc6"></a>
+#. VAR: kālaṅkatā → kālakatā (bj, s1-3, pts1)
+msgctxt "mn6:6.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘ye maṃ ñātī sālohitā petā kālaṅkatā "
+"pasannacittā anussaranti tesaṃ taṃ mahapphalaṃ assa mahānisaṃsan’ti, "
+"sīlesvevassa paripūrakārī ajjhattaṃ cetosamathamanuyutto anirākatajjhāno "
+"vipassanāya samannāgato brūhetā suññāgārānaṃ. (4)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya7"></a>
+#. <a class="sc" id="sc7"></a>
+msgctxt "mn6:7.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘aratiratisaho assaṃ, na ca maṃ arati "
+"saheyya, uppannaṃ aratiṃ abhibhuyya abhibhuyya vihareyyan’ti, sīlesvevassa "
+"paripūrakārī … pe … brūhetā suññāgārānaṃ. (5)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya8"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "mn6:8.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘bhayabheravasaho assaṃ, na ca maṃ "
+"bhayabheravaṃ saheyya, uppannaṃ bhayabheravaṃ abhibhuyya abhibhuyya "
+"vihareyyan’ti, sīlesvevassa paripūrakārī … pe … brūhetā suññāgārānaṃ. (6)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya9"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "mn6:9.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘catunnaṃ jhānānaṃ ābhicetasikānaṃ "
+"diṭṭhadhammasukhavihārānaṃ nikāmalābhī assaṃ akicchalābhī akasiralābhī’ti, "
+"sīlesvevassa paripūrakārī … pe … brūhetā suññāgārānaṃ. (7)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya10"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "mn6:10.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘ye te santā vimokkhā atikkamma rūpe "
+"āruppā, te kāyena phusitvā vihareyyan’ti, sīlesvevassa paripūrakārī … pe … "
+"brūhetā suññāgārānaṃ. (8)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya11"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.34"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "mn6:11.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno "
+"assaṃ avinipātadhammo niyato sambodhiparāyaṇo’ti, sīlesvevassa paripūrakārī …"
+" pe … brūhetā suññāgārānaṃ. (9)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya12"></a>
+#. <a class="sc" id="sc12"></a>
+msgctxt "mn6:12.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘tiṇṇaṃ saṃyojanānaṃ parikkhayā "
+"rāgadosamohānaṃ tanuttā sakadāgāmī assaṃ sakideva imaṃ lokaṃ āgantvā "
+"dukkhassantaṃ kareyyan’ti, sīlesvevassa paripūrakārī … pe … brūhetā "
+"suññāgārānaṃ. (10)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya13"></a>
+#. <a class="sc" id="sc13"></a>
+msgctxt "mn6:13.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ "
+"parikkhayā opapātiko assaṃ tattha parinibbāyī anāvattidhammo tasmā lokā’ti, "
+"sīlesvevassa paripūrakārī … pe … brūhetā suññāgārānaṃ. (11)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya14"></a>
+#. <a class="sc" id="sc14"></a>
+msgctxt "mn6:14.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘anekavihitaṃ iddhividhaṃ "
+"paccanubhaveyyaṃ—ekopi hutvā bahudhā assaṃ, bahudhāpi hutvā eko assaṃ; "
+"āvibhāvaṃ tirobhāvaṃ; tirokuṭṭaṃ tiropākāraṃ tiropabbataṃ asajjamāno "
+"gaccheyyaṃ, seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṃ kareyyaṃ, "
+"seyyathāpi udake; udakepi abhijjamāne gaccheyyaṃ, seyyathāpi pathaviyaṃ; "
+"ākāsepi pallaṅkena kameyyaṃ, seyyathāpi pakkhī sakuṇo; imepi candimasūriye "
+"evaṃmahiddhike evaṃmahānubhāve pāṇinā parāmaseyyaṃ parimajjeyyaṃ; yāva "
+"brahmalokāpi kāyena vasaṃ vatteyyan’ti, sīlesvevassa paripūrakārī … pe … "
+"brūhetā suññāgārānaṃ. (12)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya15"></a>
+#. <a class="sc" id="sc15"></a>
+msgctxt "mn6:15.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘dibbāya sotadhātuyā visuddhāya "
+"atikkantamānusikāya ubho sadde suṇeyyaṃ—dibbe ca mānuse ca ye dūre santike "
+"cā’ti, sīlesvevassa paripūrakārī … pe … brūhetā suññāgārānaṃ. (13)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya16"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.35"></a>
+#. <a class="sc" id="sc16"></a>
+msgctxt "mn6:16.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘parasattānaṃ parapuggalānaṃ cetasā ceto "
+"paricca pajāneyyaṃ—sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajāneyyaṃ, vītarāgaṃ "
+"vā cittaṃ vītarāgaṃ cittanti pajāneyyaṃ; sadosaṃ vā cittaṃ sadosaṃ cittanti "
+"pajāneyyaṃ, vītadosaṃ vā cittaṃ vītadosaṃ cittanti pajāneyyaṃ; samohaṃ vā "
+"cittaṃ samohaṃ cittanti pajāneyyaṃ, vītamohaṃ vā cittaṃ vītamohaṃ cittanti "
+"pajāneyyaṃ; saṅkhittaṃ vā cittaṃ saṅkhittaṃ cittanti pajāneyyaṃ, vikkhittaṃ "
+"vā cittaṃ vikkhittaṃ cittanti pajāneyyaṃ; mahaggataṃ vā cittaṃ mahaggataṃ "
+"cittanti pajāneyyaṃ, amahaggataṃ vā cittaṃ amahaggataṃ cittanti pajāneyyaṃ; "
+"sauttaraṃ vā cittaṃ sauttaraṃ cittanti pajāneyyaṃ, anuttaraṃ vā cittaṃ "
+"anuttaraṃ cittanti pajāneyyaṃ; samāhitaṃ vā cittaṃ samāhitaṃ cittanti "
+"pajāneyyaṃ, asamāhitaṃ vā cittaṃ asamāhitaṃ cittanti pajāneyyaṃ; vimuttaṃ vā "
+"cittaṃ vimuttaṃ cittanti pajāneyyaṃ, avimuttaṃ vā cittaṃ avimuttaṃ cittanti "
+"pajāneyyan’ti, "
+msgstr ""
+
+msgctxt "mn6:16.2"
+msgid "sīlesvevassa paripūrakārī … pe … brūhetā suññāgārānaṃ. (14)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya17"></a>
+#. <a class="sc" id="sc17"></a>
+msgctxt "mn6:17.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘anekavihitaṃ pubbenivāsaṃ anussareyyaṃ, "
+"seyyathidaṃ—ekampi jātiṃ dvepi jātiyo tissopi jātiyo catassopi jātiyo "
+"pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṃsampi jātiyo cattālīsampi "
+"jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jāti satasahassampi "
+"anekepi saṃvaṭṭakappe anekepi vivaṭṭakappe anekepi saṃvaṭṭavivaṭṭakappe—"
+"amutrāsiṃ evaṃnāmo evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī "
+"evamāyupariyanto, so tato cuto amutra udapādiṃ; tatrāpāsiṃ evaṃnāmo "
+"evaṅgotto evaṃvaṇṇo evamāhāro evaṃsukhadukkhappaṭisaṃvedī evamāyupariyanto, "
+"so tato cuto idhūpapannoti. Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ "
+"anussareyyan’ti, "
+msgstr ""
+
+msgctxt "mn6:17.2"
+msgid "sīlesvevassa paripūrakārī … pe … brūhetā suññāgārānaṃ. (15)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya18"></a>
+#. <a class="sc" id="sc18"></a>
+msgctxt "mn6:18.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘dibbena cakkhunā visuddhena "
+"atikkantamānusakena satte passeyyaṃ cavamāne upapajjamāne hīne paṇīte "
+"suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajāneyyaṃ—ime vata "
+"bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā "
+"manoduccaritena samannāgatā ariyānaṃ upavādakā micchādiṭṭhikā "
+"micchādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ "
+"vinipātaṃ nirayaṃ upapannā; ime vā pana bhonto sattā kāyasucaritena "
+"samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṃ "
+"anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā, te kāyassa bhedā paraṃ "
+"maraṇā sugatiṃ saggaṃ lokaṃ upapannāti, iti dibbena cakkhunā visuddhena "
+"atikkantamānusakena satte passeyyaṃ cavamāne upapajjamāne hīne paṇīte "
+"suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajāneyyan’ti, "
+msgstr ""
+
+msgctxt "mn6:18.2"
+msgid ""
+"sīlesvevassa paripūrakārī ajjhattaṃ cetosamathamanuyutto anirākatajjhāno "
+"vipassanāya samannāgato brūhetā suññāgārānaṃ. (16)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya19"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.36"></a>
+#. <a class="sc" id="sc19"></a>
+msgctxt "mn6:19.1"
+msgid ""
+"Ākaṅkheyya ce, bhikkhave, bhikkhu: ‘āsavānaṃ khayā anāsavaṃ cetovimuttiṃ "
+"paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja "
+"vihareyyan’ti, "
+msgstr ""
+
+msgctxt "mn6:19.2"
+msgid ""
+"sīlesvevassa paripūrakārī ajjhattaṃ cetosamathamanuyutto anirākatajjhāno "
+"vipassanāya samannāgato brūhetā suññāgārānaṃ. (17)"
+msgstr ""
+
+#. </p><p>
+#. <a class="nya" id="nya20"></a>
+#. <a class="sc" id="sc20"></a>
+msgctxt "mn6:20.1"
+msgid ""
+"‘Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā; "
+"pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā aṇumattesu vajjesu "
+"bhayadassāvino; samādāya sikkhatha sikkhāpadesū’ti—"
+msgstr ""
+
+msgctxt "mn6:20.2"
+msgid "iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttan”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc21"></a>
+msgctxt "mn6:20.3"
+msgid "Idamavoca bhagavā."
+msgstr ""
+
+msgctxt "mn6:20.4"
+msgid "Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "mn6:20.5"
+msgid "Ākaṅkheyyasuttaṃ niṭṭhitaṃ chaṭṭhaṃ."
+msgstr ""

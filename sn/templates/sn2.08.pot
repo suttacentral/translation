@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn2.08.pot\n"
+"X-Pootle-Revision: 18156\n"
+
+#. <section class="sutta" id="sn2.8"><article><div class="hgroup"><p class="division">
+msgctxt "sn2.8:0.1"
+msgid "Saṃyutta Nikāya 2"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn2.8:0.2"
+msgid "1. Paṭhamavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn2.8:0.3"
+msgid "8. Tāyanasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts1ed" id="pts1ed1.49"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn2.8:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+msgctxt "sn2.8:1.2"
+msgid ""
+"Atha kho tāyano devaputto purāṇatitthakaro abhikkantāya rattiyā "
+"abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; "
+"upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi."
+msgstr ""
+
+msgctxt "sn2.8:1.3"
+msgid ""
+"Ekamantaṃ ṭhito kho tāyano devaputto bhagavato santike imā gāthāyo abhāsi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn2.8:2.1"
+msgid "“Chinda sotaṃ parakkamma,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:2.2"
+msgid "kāme panuda brāhmaṇa;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:2.3"
+msgid "Nappahāya munī kāme,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:2.4"
+msgid "nekattamupapajjati."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.112"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn2.8:3.1"
+msgid "Kayirā ce kayirāthenaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:3.2"
+msgid "daḷhamenaṃ parakkame;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:3.3"
+msgid "Sithilo hi paribbājo,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:3.4"
+msgid "bhiyyo ākirate rajaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+#. VAR: dukkaṭaṃ → dukkataṃ (bj, pts1-2)
+msgctxt "sn2.8:4.1"
+msgid "Akataṃ dukkaṭaṃ seyyo,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:4.2"
+msgid "pacchā tapati dukkaṭaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:4.3"
+msgid "Katañca sukataṃ seyyo,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:4.4"
+msgid "yaṃ katvā nānutappati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn2.8:5.1"
+msgid "Kuso yathā duggahito,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:5.2"
+msgid "hatthamevānukantati;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:5.3"
+msgid "Sāmaññaṃ dupparāmaṭṭhaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:5.4"
+msgid "nirayāyūpakaḍḍhati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn2.8:6.1"
+msgid "Yaṃ kiñci sithilaṃ kammaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:6.2"
+msgid "saṅkiliṭṭhañca yaṃ vataṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:6.3"
+msgid "Saṅkassaraṃ brahmacariyaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:6.4"
+msgid "na taṃ hoti mahapphalan”ti."
+msgstr ""
+
+#. </p></blockquote><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn2.8:7.1"
+msgid "Idamavoca tāyano devaputto;"
+msgstr ""
+
+msgctxt "sn2.8:7.2"
+msgid ""
+"idaṃ vatvā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyīti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.113"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "sn2.8:8.1"
+msgid "Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi:"
+msgstr ""
+
+msgctxt "sn2.8:8.2"
+msgid ""
+"“imaṃ, bhikkhave, rattiṃ tāyano nāma devaputto purāṇatitthakaro abhikkantāya "
+"rattiyā abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yenāhaṃ "
+"tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhāsi."
+msgstr ""
+
+msgctxt "sn2.8:8.3"
+msgid ""
+"Ekamantaṃ ṭhito kho, bhikkhave, tāyano devaputto mama santike imā gāthāyo "
+"abhāsi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn2.8:9.1"
+msgid "‘Chinda sotaṃ parakkamma,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:9.2"
+msgid "kāme panuda brāhmaṇa;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:9.3"
+msgid "Nappahāya munī kāme,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:9.4"
+msgid "nekattamupapajjati."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts1ed" id="pts1ed1.50"></a>
+#. <a class="sc" id="sc10"></a>
+msgctxt "sn2.8:10.1"
+msgid "Kayirā ce kayirāthenaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:10.2"
+msgid "daḷhamenaṃ parakkame;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:10.3"
+msgid "Sithilo hi paribbājo,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:10.4"
+msgid "bhiyyo ākirate rajaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "sn2.8:11.1"
+msgid "Akataṃ dukkaṭaṃ seyyo,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:11.2"
+msgid "pacchā tapati dukkaṭaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:11.3"
+msgid "Katañca sukataṃ seyyo,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:11.4"
+msgid "yaṃ katvā nānutappati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "sn2.8:12.1"
+msgid "Kuso yathā duggahito,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:12.2"
+msgid "hatthamevānukantati;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:12.3"
+msgid "Sāmaññaṃ dupparāmaṭṭhaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:12.4"
+msgid "nirayāyūpakaḍḍhati."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "sn2.8:13.1"
+msgid "Yaṃ kiñci sithilaṃ kammaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:13.2"
+msgid "saṅkiliṭṭhañca yaṃ vataṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:13.3"
+msgid "Saṅkassaraṃ brahmacariyaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn2.8:13.4"
+msgid "na taṃ hoti mahapphalan’ti."
+msgstr ""
+
+#. </p></blockquote><p>
+#. <a class="pts2ed" id="pts2ed1.114"></a>
+#. <a class="sc" id="sc14"></a>
+msgctxt "sn2.8:14.1"
+msgid ""
+"Idamavoca, bhikkhave, tāyano devaputto, idaṃ vatvā maṃ abhivādetvā "
+"padakkhiṇaṃ katvā tatthevantaradhāyi."
+msgstr ""
+
+msgctxt "sn2.8:14.2"
+msgid "Uggaṇhātha, bhikkhave, tāyanagāthā;"
+msgstr ""
+
+msgctxt "sn2.8:14.3"
+msgid "pariyāpuṇātha, bhikkhave, tāyanagāthā;"
+msgstr ""
+
+msgctxt "sn2.8:14.4"
+msgid "dhāretha, bhikkhave, tāyanagāthā."
+msgstr ""
+
+msgctxt "sn2.8:14.5"
+msgid "Atthasaṃhitā, bhikkhave, tāyanagāthā ādibrahmacariyikā”ti."
+msgstr ""

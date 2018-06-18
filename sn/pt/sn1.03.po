@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/sn/sn1.03.po\n"
+"X-Pootle-Revision: 31270\n"
+
+#. <section class="sutta" id="sn1.3"><article><div class="hgroup"><p class="division">
+msgctxt "sn1.3:0.1"
+msgid "Saṃyutta Nikāya 1"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn1.3:0.2"
+msgid "1. Naḷavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 3. Upanīyasutta → upanīyatisuttaṃ (bj, pts2) | upaneyyasuttaṃ (s1-3) | upaneyyaṃ (pts1)
+msgctxt "sn1.3:0.3"
+msgid "3. Upanīyasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn1.3:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+msgctxt "sn1.3:1.2"
+msgid "Ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi:"
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn1.3:2.1"
+msgid "“Upanīyati jīvitamappamāyu,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.3:2.2"
+msgid "Jarūpanītassa na santi tāṇā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.3:2.3"
+msgid "Etaṃ bhayaṃ maraṇe pekkhamāno,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.3:2.4"
+msgid "Puññāni kayirātha sukhāvahānī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn1.3:3.1"
+msgid "“Upanīyati jīvitamappamāyu,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.3:3.2"
+msgid "Jarūpanītassa na santi tāṇā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.3:3.3"
+msgid "Etaṃ bhayaṃ maraṇe pekkhamāno,"
+msgstr ""
+
+#. <br>
+msgctxt "sn1.3:3.4"
+msgid "Lokāmisaṃ pajahe santipekkho”ti."
+msgstr ""

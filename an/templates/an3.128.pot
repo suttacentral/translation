@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an3.128.pot\n"
+"X-Pootle-Revision: 12940\n"
+
+#. <section class="sutta" id="an3.128"><article><div class="hgroup"><p class="division">
+msgctxt "an3.128:0.1"
+msgid "Aṅguttara Nikāya 3"
+msgstr ""
+
+#. </p><p>
+msgctxt "an3.128:0.2"
+msgid "13. Kusināravagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an3.128:0.3"
+msgid "128. Kaṭuviyasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.280"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an3.128:1.1"
+msgid "Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye."
+msgstr ""
+
+msgctxt "an3.128:1.2"
+msgid ""
+"Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya bārāṇasiṃ "
+"piṇḍāya pāvisi."
+msgstr ""
+
+#. VAR: goyogapilakkhasmiṃ → goyogamilakkhasmiṃ (s1-3, km, mr)
+#. VAR: caramāno → caramānaṃ (mr)
+msgctxt "an3.128:1.3"
+msgid ""
+"Addasā kho bhagavā goyogapilakkhasmiṃ piṇḍāya caramāno aññataraṃ bhikkhuṃ "
+"rittassādaṃ bāhirassādaṃ muṭṭhassatiṃ asampajānaṃ asamāhitaṃ vibbhantacittaṃ "
+"pākatindriyaṃ."
+msgstr ""
+
+msgctxt "an3.128:1.4"
+msgid "Disvā taṃ bhikkhuṃ etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+#. VAR: kho tvaṃ, bhikkhu → bhikkhu bhikkhu mā kho tvaṃ (bj, pts1)
+msgctxt "an3.128:2.1"
+msgid "“Mā kho tvaṃ, bhikkhu, attānaṃ kaṭuviyamakāsi."
+msgstr ""
+
+#. VAR: āmagandhena → āmagandhe (bj, s1-3, km, pts1)
+#. VAR: nānvāssavissantīti → nānvassavissanti (pts1) | nānubandhissanti (mr)
+msgctxt "an3.128:2.2"
+msgid ""
+"Taṃ vata, bhikkhu, kaṭuviyakataṃ attānaṃ āmagandhena avassutaṃ makkhikā "
+"nānupatissanti nānvāssavissantīti, netaṃ ṭhānaṃ vijjatī”ti."
+msgstr ""
+
+msgctxt "an3.128:2.3"
+msgid "Atha kho so bhikkhu bhagavatā iminā ovādena ovadito saṃvegamāpādi."
+msgstr ""
+
+msgctxt "an3.128:2.4"
+msgid ""
+"Atha kho bhagavā bārāṇasiyaṃ piṇḍāya caritvā pacchābhattaṃ "
+"piṇḍapātapaṭikkanto bhikkhū āmantesi:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an3.128:3.1"
+msgid ""
+"“Idhāhaṃ, bhikkhave, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya bārāṇasiṃ "
+"piṇḍāya pāvisiṃ."
+msgstr ""
+
+msgctxt "an3.128:3.2"
+msgid ""
+"Addasaṃ kho ahaṃ, bhikkhave, goyogapilakkhasmiṃ piṇḍāya caramāno aññataraṃ "
+"bhikkhuṃ rittassādaṃ bāhirassādaṃ muṭṭhassatiṃ asampajānaṃ asamāhitaṃ "
+"vibbhantacittaṃ pākatindriyaṃ."
+msgstr ""
+
+msgctxt "an3.128:3.3"
+msgid "Disvā taṃ bhikkhuṃ etadavocaṃ:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an3.128:4.1"
+msgid "‘Mā kho tvaṃ, bhikkhu, attānaṃ kaṭuviyamakāsi."
+msgstr ""
+
+msgctxt "an3.128:4.2"
+msgid ""
+"Taṃ vata bhikkhu kaṭuviyakataṃ attānaṃ āmagandhena avassutaṃ makkhikā "
+"nānupatissanti nānvāssavissantīti, netaṃ ṭhānaṃ vijjatī’ti."
+msgstr ""
+
+msgctxt "an3.128:4.3"
+msgid ""
+"Atha kho, bhikkhave, so bhikkhu mayā iminā ovādena ovadito saṃvegamāpādī”ti."
+msgstr ""
+
+msgctxt "an3.128:4.4"
+msgid "Evaṃ vutte, aññataro bhikkhu bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "an3.128:4.5"
+msgid "“kiṃ nu kho, bhante, kaṭuviyaṃ?"
+msgstr ""
+
+msgctxt "an3.128:4.6"
+msgid "Ko āmagandho?"
+msgstr ""
+
+msgctxt "an3.128:4.7"
+msgid "Kā makkhikā”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an3.128:5.1"
+msgid "“Abhijjhā kho, bhikkhu, kaṭuviyaṃ;"
+msgstr ""
+
+msgctxt "an3.128:5.2"
+msgid "byāpādo āmagandho;"
+msgstr ""
+
+msgctxt "an3.128:5.3"
+msgid "pāpakā akusalā vitakkā makkhikā."
+msgstr ""
+
+msgctxt "an3.128:5.4"
+msgid ""
+"Taṃ vata, bhikkhu, kaṭuviyakataṃ attānaṃ āmagandhena avassutaṃ makkhikā "
+"nānupatissanti nānvāssavissantīti, netaṃ ṭhānaṃ vijjatīti."
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.281"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an3.128:6.1"
+msgid "Aguttaṃ cakkhusotasmiṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:6.2"
+msgid "indriyesu asaṃvutaṃ;"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:6.3"
+msgid "Makkhikānupatissanti,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:6.4"
+msgid "saṅkappā rāganissitā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an3.128:7.1"
+msgid "Kaṭuviyakato bhikkhu,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:7.2"
+msgid "āmagandhe avassuto;"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:7.3"
+msgid "Ārakā hoti nibbānā,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:7.4"
+msgid "vighātasseva bhāgavā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an3.128:8.1"
+msgid "Gāme vā yadi vāraññe,"
+msgstr ""
+
+#. <br>
+#. VAR: samathamattano → samamattano (bj, s1-3, km) | sammamattano (pts1)
+msgctxt "an3.128:8.2"
+msgid "aladdhā samathamattano;"
+msgstr ""
+
+#. <br>
+#. VAR: Pareti → care (s1-3) | careti (mr)
+msgctxt "an3.128:8.3"
+msgid "Pareti bālo dummedho,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:8.4"
+msgid "makkhikāhi purakkhato."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an3.128:9.1"
+msgid "Ye ca sīlena sampannā,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:9.2"
+msgid "paññāyūpasameratā;"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:9.3"
+msgid "Upasantā sukhaṃ senti,"
+msgstr ""
+
+#. <br>
+msgctxt "an3.128:9.4"
+msgid "nāsayitvāna makkhikā”ti."
+msgstr ""
+
+#. </p></blockquote><p class="endsection">
+msgctxt "an3.128:9.5"
+msgid "Chaṭṭhaṃ."
+msgstr ""

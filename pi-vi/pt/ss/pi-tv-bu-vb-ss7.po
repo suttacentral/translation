@@ -1,0 +1,1509 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 20:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/pi-vi/ss/pi-tv-bu-vb-ss7.po\n"
+"X-Pootle-Revision: 9249\n"
+
+#. <html><head><meta charset="UTF-8"><meta author="Bhikkhu Brahmali"><meta
+#. content="Pali text from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+#. name="description"><title></title></head><body><div id="text"
+#. lang="en"><section class="sutta" id="pi-tv-bu-vb-ss7"><article><div
+#. class="hgroup"><p class="division">
+msgctxt "pi-tv-bu-vb-ss7:1.1"
+msgid "Theravāda Vinaya"
+msgstr "COLEÇÃO DAS REGRAS MONÁSTICAS DO BUDISMO THERAVĀDA"
+
+#. </p><p class="division">
+msgctxt "pi-tv-bu-vb-ss7:2.1"
+msgid "Mahāvibhaṅga"
+msgstr "O Código de Disciplina Monástica dos Bhikkhus"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:3.1"
+msgid "Saṃ­ghā­di­sesa­kaṇḍa"
+msgstr "Regras Saṅghādisesā"
+
+#. </p><h1>
+msgctxt "pi-tv-bu-vb-ss7:4.1"
+msgid "Vihāra­kāra­sikkhā­pada"
+msgstr "7: Construção de moradas (Vihāra)"
+
+#. </h1></div><h2>
+msgctxt "pi-tv-bu-vb-ss7:5.1"
+msgid ""
+msgstr "História de origem"
+
+#. </h2><p><a class="sc" id="1"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.156"></a><a class="pts-vp-en" id="bd.1.266"></a><a class="pts-cs"
+#. id="bu-ss.7.1"></a><a class="ms-pa" id="ms-pa1512"></a>
+msgctxt "pi-tv-bu-vb-ss7:5.2"
+msgid "Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme."
+msgstr ""
+"Certa ocasião, o Abençoado se encontrava em Kosambī no parque de Ghosita."
+
+msgctxt "pi-tv-bu-vb-ss7:5.3"
+msgid ""
+"Tena kho pana samayena āyasmato channassa upaṭṭhāko gahapati āyasmantaṃ "
+"channaṃ etadavoca—"
+msgstr ""
+"Naquela época, um chefe de família discípulo do Venerável Channa disse a ele:"
+
+msgctxt "pi-tv-bu-vb-ss7:5.4"
+msgid "“vihāravatthuṃ, bhante, jānāhi ayyassa vihāraṃ kārāpessāmī”ti."
+msgstr ""
+"“Venerável, por favor, encontre um local para que eu construa uma morada "
+"para seu uso.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:5.5"
+msgid ""
+"Atha kho āyasmā channo vihāravatthuṃ sodhento aññataraṃ cetiyarukkhaṃ "
+"chedāpesi gāmapūjitaṃ nigamapūjitaṃ nagarapūjitaṃ jana­pada­pūjitaṃ "
+"raṭṭhapūjitaṃ."
+msgstr ""
+"Então, enquanto limpava o local para a construção da morada o Venerável "
+"Channa derrubou uma árvore que servia como um santuário e que era "
+"reverenciada por todos da vila, da cidade, do distrito e do reino."
+
+msgctxt "pi-tv-bu-vb-ss7:5.6"
+msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
+msgstr "As pessoas se queixaram e criticaram:"
+
+msgctxt "pi-tv-bu-vb-ss7:5.7"
+msgid ""
+"“kathañhi nāma samaṇā sakyaputtiyā cetiyarukkhaṃ chedāpessanti gāmapūjitaṃ "
+"nigamapūjitaṃ nagarapūjitaṃ jana­pada­pūjitaṃ raṭṭhapūjitaṃ."
+msgstr ""
+"“Como podem estes contemplativos Sákya terem derrubado tal árvore que servia "
+"como um santuário e que era reverenciada por todos da vila, da cidade, do "
+"distrito e do reino? "
+
+msgctxt "pi-tv-bu-vb-ss7:5.8"
+msgid "Ekindriyaṃ samaṇā sakyaputtiyā jīvaṃ viheṭhentī”ti."
+msgstr "Eles fazem mal a este ser simples, dotado apenas da vitalidade.”"
+
+#. </p><p><a class="sc" id="2"></a><a class="ms-pa" id="ms-pa1513"></a>
+msgctxt "pi-tv-bu-vb-ss7:6.1"
+msgid ""
+"Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr "Os bhikkhus ouviram as queixas e críticas daquelas pessoas,"
+
+msgctxt "pi-tv-bu-vb-ss7:6.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "e os bhikkhus de poucos desejos ..."
+
+#. <a class="pts-vp-en" id="bd.1.267"></a>
+msgctxt "pi-tv-bu-vb-ss7:6.3"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "se queixaram e criticaram"
+
+msgctxt "pi-tv-bu-vb-ss7:6.4"
+msgid ""
+"“kathañhi nāma āyasmā channo cetiyarukkhaṃ chedāpessati gāmapūjitaṃ … pe … "
+"raṭṭhapūjitan”ti."
+msgstr "da mesma maneira o Venerável Channa."
+
+#. </p><p><a class="sc" id="3"></a><a class="ms-pa" id="ms-pa1514"></a>
+msgctxt "pi-tv-bu-vb-ss7:7.1"
+msgid ""
+"Atha kho te bhikkhū āyasmantaṃ channaṃ aneka­pariyā­yena vigarahitvā "
+"bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+"Após criticar o venerável Channa de várias maneiras, aqueles bhikkhus "
+"informaram o Abençoado o ocorrido ..."
+
+msgctxt "pi-tv-bu-vb-ss7:7.2"
+msgid ""
+"“saccaṃ kira tvaṃ, channa, cetiyarukkhaṃ chedāpesi gāmapūjitaṃ … pe … "
+"raṭṭhapūjitan”ti?"
+msgstr ""
+"O Abençoado então disse: “É verdade, Channa, que você derrubou uma árvore "
+"que servia como um santuário e que era reverenciada por todos da vila, da "
+"cidade, do distrito e do reino?”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:7.3"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“É verdade, mestre.”"
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:7.4"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "O Buda então o repreendeu: “…"
+
+msgctxt "pi-tv-bu-vb-ss7:7.5"
+msgid ""
+"kathañhi nāma tvaṃ, moghapurisa, cetiyarukkhaṃ chedāpessasi gāmapūjitaṃ "
+"nigamapūjitaṃ nagarapūjitaṃ jana­pada­pūjitaṃ raṭṭhapūjitaṃ."
+msgstr "Homem tolo, como pôde você ter feito isso?"
+
+msgctxt "pi-tv-bu-vb-ss7:7.6"
+msgid "Jīvasaññino hi, moghapurisa, manussā rukkhasmiṃ."
+msgstr "Estas pessoas percebem as árvores como seres vivos."
+
+msgctxt "pi-tv-bu-vb-ss7:7.7"
+msgid "Netaṃ, moghapurisa, appasannānaṃ vā pasādāya … pe …"
+msgstr "Isto não fará surgir fé naqueles ainda sem fé …"
+
+msgctxt "pi-tv-bu-vb-ss7:7.8"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "E então, bhikkhus, esta regra de treinamento deve ser assim recitada:"
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss7:8.1"
+msgid ""
+msgstr "Regra final"
+
+#. </h2><p><a class="sc" id="4"></a><strong class="rule">
+#. <span class="note" hidden>I have rendered <i lang="pi">sassāmikaṃ</i> as
+#. “with a sponsoring owner.” The word <i lang="pi">sāmika</i> generally means
+#. “owner,” and there seems to be no reason why that should not also be the
+#. meaning here. However, although the monk does not own the dwelling, he is
+#. still the builder and the intended user once the building is finished. To
+#. indicate this, I have added the word “sponsoring.”</span>
+msgctxt "pi-tv-bu-vb-ss7:8.2"
+msgid ""
+"“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ "
+"bhikkhū abhinetabbā vatthudesanāya."
+msgstr ""
+"“Quando um bhikkhu constrói uma morada grande, tendo um proprietário "
+"patrocinador e destinada a si mesmo,"
+
+msgctxt "pi-tv-bu-vb-ss7:8.3"
+msgid "Tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ."
+msgstr ""
+"ele deve obter de outros bhikkhus a aprovação de um local para a construção "
+"desta onde nenhum mal será feito, e dispondo de espaço suficiente ao redor."
+
+msgctxt "pi-tv-bu-vb-ss7:8.4"
+msgid ""
+"Sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya "
+"bhikkhū vā anabhineyya vatthudesanāya, saṃghādiseso”ti."
+msgstr ""
+"Se um bhikkhu construir uma morada grande em um local onde será feito mal e "
+"não dispondo de espaço suficiente ao seu redor, não obtendo de outros "
+"bhikkhus a aprovação para o seu lugar de construção, ele comete uma ofensa "
+"sanghadisesa, séria e que envolve a suspensão.”"
+
+#. </strong>
+msgctxt "pi-tv-bu-vb-ss7:8.5"
+msgid "(<em>7</em>:<strong>11</strong>)"
+msgstr " "
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss7:9.1"
+msgid ""
+msgstr "Definições"
+
+#. </h2><p><a class="sc" id="5"></a><a class="pts-cs" id="bu-ss.7.2"></a><a
+#. class="ms-pa" id="ms-pa1516"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:9.2"
+msgid "Mahallako nāma"
+msgstr "Uma morada grande:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:9.3"
+msgid "vihāro sassāmiko vuccati."
+msgstr "tendo um proprietário patrocinador é o que se entende."
+
+#. </span>
+#. </p><p><a class="sc" id="6"></a><a class="ms-pa" id="ms-pa1517"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:10.1"
+msgid "Vihāro nāma"
+msgstr "Morada:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:10.2"
+msgid "ullitto vā hoti avalitto vā ullittāvalitto vā."
+msgstr ""
+"uma morada feita de pau-a-pique ou material equivalente ou similar, um "
+"vihāra."
+
+#. </span>
+#. </p><p><a class="sc" id="7"></a><a class="pts-vp-en" id="bd.1.268"></a><a
+#. class="ms-pa" id="ms-pa1518"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:11.1"
+msgid "Kārayamānenāti"
+msgstr "Construir:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:11.2"
+msgid "karonto vā kārāpento vā."
+msgstr "ergue ele mesmo ou consegue alguém que o faça."
+
+#. </span>
+#. </p><p><a class="sc" id="8"></a><a class="ms-pa" id="ms-pa1519"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:12.1"
+msgid "Sassāmikanti"
+msgstr "Tendo um proprietário patrocinador:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:12.2"
+msgid "añño koci sāmiko hoti itthī vā puriso vā gahaṭṭho vā pabbajito vā."
+msgstr ""
+"há um outro dono, seja um homem, uma mulher, um chefe de família ou alguém "
+"que tenha adotado a vida santa."
+
+#. </span>
+#. </p><p><a class="sc" id="9"></a><a class="ms-pa" id="ms-pa1520"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:13.1"
+msgid "Attuddesanti"
+msgstr "Destinada a si mesmo: "
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:13.2"
+msgid "attano atthāya."
+msgstr "para uso próprio."
+
+#. </span>
+#. </p><p><a class="sc" id="10"></a><a class="ms-pa" id="ms-pa1521"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:14.1"
+msgid "Bhikkhū abhinetabbā vatthudesanāyāti"
+msgstr "Obtem de outros bhikkhus a aprovação de um local para construção:"
+
+#. </strong>
+#. </p><div class="gloss"><p>
+msgctxt "pi-tv-bu-vb-ss7:14.2"
+msgid ""
+"tena vihārakārakena bhikkhunā vihāravatthuṃ sodhetvā saṃghaṃ upasaṅkamitvā "
+"ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ "
+"nisīditvā añjaliṃ paggahetvā evamassa vacanīyo—"
+msgstr ""
+"O bhikkhu que está construindo a morada deve ter o local preparado e, em "
+"seguida abordar a Sangha dos bhikkhus e—colocando seu manto sobre um ombro, "
+"prestando homenagem aos pés dos bhikkhus sêniores—ajoelhar-se, levantar as "
+"mãos juntas em anjali, e dizer: "
+
+#. <span class="kamma">
+msgctxt "pi-tv-bu-vb-ss7:14.3"
+msgid "“ahaṃ, bhante, mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+"‘Veneráveis, eu desejo construir uma grande morada a ser destinada ao meu "
+"uso."
+
+msgctxt "pi-tv-bu-vb-ss7:14.4"
+msgid "Sohaṃ, bhante, saṃghaṃ vihāra­vatthu­o­loka­naṃ yācāmī”ti."
+msgstr "Solicito que a Sangha inspecione o local escolhido para a morada.’"
+
+msgctxt "pi-tv-bu-vb-ss7:14.5"
+msgid "Dutiyampi yācitabbā."
+msgstr "E ele deve repetir o pedido uma segunda "
+
+msgctxt "pi-tv-bu-vb-ss7:14.6"
+msgid "Tatiyampi yācitabbā."
+msgstr "e uma terceira vez."
+
+#. </span>
+msgctxt "pi-tv-bu-vb-ss7:14.7"
+msgid ""
+"Sace sabbo saṃgho ussahati vihāravatthuṃ oloketuṃ sabbena saṃghena "
+"oloketabbaṃ."
+msgstr "Se toda a Sangha for capaz de inspecionar o local, eles devem ir."
+
+msgctxt "pi-tv-bu-vb-ss7:14.8"
+msgid "No ce sabbo saṃgho ussahati vihāravatthuṃ oloketuṃ,"
+msgstr "Se toda a Sangha não for capaz de inspecionar o local"
+
+msgctxt "pi-tv-bu-vb-ss7:14.9"
+msgid ""
+"ye tattha honti bhikkhū byattā paṭibalā sārambhaṃ anārambhaṃ saparikkamanaṃ "
+"aparikkamanaṃ jānituṃ te yācitvā sammannitabbā."
+msgstr ""
+"então os bhikkhus que forem experientes e competentes—que sabem onde mal "
+"será feito e onde nenhum mal será feito, e se haverá ou não espaço "
+"suficiente ao seu redor—devem ser consultados e então nomeados."
+
+#. </p><p>
+msgctxt "pi-tv-bu-vb-ss7:14.10"
+msgid "“Evañca pana, bhikkhave, sammannitabbā."
+msgstr "E, bhikkhus, eles devem ser nomeados dessa forma:"
+
+msgctxt "pi-tv-bu-vb-ss7:14.11"
+msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
+msgstr "Em seguida, um bhikkhu experiente e competente deve informar a Sangha:"
+
+#. </p><div class="kamma"><p><a class="sc" id="11"></a><a class="ms-pa"
+#. id="ms-pa1522"></a>
+msgctxt "pi-tv-bu-vb-ss7:15.1"
+msgid "‘Suṇātu me, bhante, saṃgho."
+msgstr "‘Veneráveis, possa a Sangha me escutar. "
+
+msgctxt "pi-tv-bu-vb-ss7:15.2"
+msgid ""
+"Ayaṃ itthannāmo bhikkhu mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+"Tal e tal bhikkhu deseja construir uma grande morada a ser destinada ao seu "
+"uso."
+
+msgctxt "pi-tv-bu-vb-ss7:15.3"
+msgid "So saṃghaṃ vihāra­vatthu­o­loka­naṃ yācati."
+msgstr ""
+"Ele solicita que a Sangha inspecione o local para a construção da morada."
+
+msgctxt "pi-tv-bu-vb-ss7:15.4"
+msgid ""
+"Yadi saṃghassa pattakallaṃ, saṃgho itthannāmañca itthannāmañca bhikkhū "
+"sammanneyya itthannāmassa bhikkhuno vihāravatthuṃ oloketuṃ."
+msgstr ""
+"Se conveniente para a Sangha, esta deve nomear tais e tais bhikkhus para a "
+"inspeção do local."
+
+msgctxt "pi-tv-bu-vb-ss7:15.5"
+msgid "Esā ñatti."
+msgstr "Esta é a moção.”"
+
+#. </p><p><a class="sc" id="12"></a><a class="ms-pa" id="ms-pa1523"></a>
+msgctxt "pi-tv-bu-vb-ss7:16.1"
+msgid "Suṇātu me, bhante, saṃgho."
+msgstr "‘Veneráveis, possa a Sangha me escutar. "
+
+msgctxt "pi-tv-bu-vb-ss7:16.2"
+msgid ""
+"Ayaṃ itthannāmo bhikkhu mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+"Tal e tal bhikkhu deseja construir uma grande morada a ser destinada ao seu "
+"uso."
+
+msgctxt "pi-tv-bu-vb-ss7:16.3"
+msgid "So saṃghaṃ vihāra­vatthu­o­loka­naṃ yācati."
+msgstr ""
+"Ele solicita que a Sangha inspecione o local para a construção da morada."
+
+msgctxt "pi-tv-bu-vb-ss7:16.4"
+msgid ""
+"Saṃgho itthannāmañca itthannāmañca bhikkhū sammannati itthannāmassa "
+"bhikkhuno vihāravatthuṃ oloketuṃ."
+msgstr "A Sangha nomeia tais e tais bhikkhus para a inspeção do local."
+
+msgctxt "pi-tv-bu-vb-ss7:16.5"
+msgid ""
+"Yassāyasmato khamati itthannāmassa ca itthannāmassa ca bhikkhūnaṃ sammuti "
+"itthannāmassa bhikkhuno vihāravatthuṃ oloketuṃ, so tuṇhassa;"
+msgstr ""
+"Aqueles que aprovarem a nomeação de tais e tais bhikkhus para inspecionar o "
+"local para a construção da morada devem permanecer em silêncio."
+
+msgctxt "pi-tv-bu-vb-ss7:16.6"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr "Aqueles que não aprovarem devem dizê-lo.”"
+
+#. </p><p><a class="sc" id="13"></a><a class="ms-pa" id="ms-pa1524"></a>
+msgctxt "pi-tv-bu-vb-ss7:17.1"
+msgid ""
+"Sammatā saṃghena itthannāmo ca itthannāmo ca bhikkhū itthannāmassa bhikkhuno "
+"vihāravatthuṃ oloketuṃ."
+msgstr ""
+"“Tais e tais bhikkhus foram nomeados pela Sangha para inspecionar o local "
+"para a construção da morada de tal e tal bhikkhu."
+
+msgctxt "pi-tv-bu-vb-ss7:17.2"
+msgid "Khamati saṃghassa, tasmā tuṇhī,"
+msgstr "A Sangha aprova e portanto não se pronuncia."
+
+msgctxt "pi-tv-bu-vb-ss7:17.3"
+msgid "evametaṃ dhārayāmī’”ti."
+msgstr "Assim me lembrarei.’”"
+
+#. </p></div><p><a class="sc" id="14"></a><a class="ms-pa" id="ms-pa1525"></a>
+msgctxt "pi-tv-bu-vb-ss7:18.1"
+msgid "Tehi sammatehi bhikkhūhi tattha gantvā vihāravatthu oloketabbaṃ;"
+msgstr ""
+"Os bhikkhus nomeados devem ir até o local para a construção da morada, "
+"inspeccioná-la,"
+
+msgctxt "pi-tv-bu-vb-ss7:18.2"
+msgid "sārambhaṃ anārambhaṃ saparikkamanaṃ aparikkamanaṃ jānitabbaṃ."
+msgstr ""
+"conferir se nenhum mal será feito e se há espaço suficiente ao seu redor."
+
+msgctxt "pi-tv-bu-vb-ss7:18.3"
+msgid "Sace sārambhaṃ hoti aparikkamanaṃ,"
+msgstr ""
+"Se mal será feito ou se não há espaço suficiente ao seu redor, eles devem "
+"dizer:"
+
+msgctxt "pi-tv-bu-vb-ss7:18.4"
+msgid "“māyidha karī”ti vattabbo."
+msgstr "‘Não construa aqui.’"
+
+msgctxt "pi-tv-bu-vb-ss7:18.5"
+msgid "Sace anārambhaṃ hoti saparikkamanaṃ, saṃghassa ārocetabbaṃ—"
+msgstr ""
+"Se nenhum mal será feito e se houver espaço suficiente ao seu redor, eles "
+"devem informar a Sangha: "
+
+msgctxt "pi-tv-bu-vb-ss7:18.6"
+msgid "“anārambhaṃ saparikkamanan”ti."
+msgstr "‘Nenhum mal será feito e há espaço suficiente ao seu redor.’"
+
+msgctxt "pi-tv-bu-vb-ss7:18.7"
+msgid ""
+"Tena vihārakārakena bhikkhunā saṃghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ "
+"karitvā vuḍḍhānaṃ bhikkhūnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ "
+"paggahetvā evamassa vacanīyo—"
+msgstr ""
+"O bhikkhu que está construindo a morada deverá então abordar a Sangha dos "
+"bhikkhus—colocando seu manto sobre um ombro, prestando homenagem aos pés dos "
+"bhikkhus sêniores—ajoelhar-se, levantar as mãos juntas em anjali, e dizer:"
+
+#. <span class="kamma">
+msgctxt "pi-tv-bu-vb-ss7:18.8"
+msgid "“ahaṃ, bhante, mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+"‘Veneráveis, eu desejo construir uma grande morada a ser destinada ao meu "
+"uso."
+
+msgctxt "pi-tv-bu-vb-ss7:18.9"
+msgid "Sohaṃ, bhante, saṃghaṃ vihāra­vatthu­desanaṃ yācāmī”ti."
+msgstr " Solicito que a Sangha aprove o local escolhido para a morada’."
+
+msgctxt "pi-tv-bu-vb-ss7:18.10"
+msgid "Dutiyampi yācitabbā."
+msgstr "E ele deve repetir o pedido uma segunda "
+
+msgctxt "pi-tv-bu-vb-ss7:18.11"
+msgid "Tatiyampi yācitabbā."
+msgstr "e uma terceira vez."
+
+msgctxt "pi-tv-bu-vb-ss7:18.12"
+msgid "Byattena bhikkhunā paṭibalena saṃgho ñāpetabbo—"
+msgstr "Um bhikkhu experiente e competente deve em seguida informar a Sangha:"
+
+#. </span>
+#. </p><div class="kamma"><p><a class="sc" id="15"></a><a class="ms-pa"
+#. id="ms-pa1526"></a>
+msgctxt "pi-tv-bu-vb-ss7:19.1"
+msgid "“Suṇātu me, bhante, saṃgho."
+msgstr "‘Veneráveis, possa a Sangha me escutar. "
+
+msgctxt "pi-tv-bu-vb-ss7:19.2"
+msgid ""
+"Ayaṃ itthannāmo bhikkhu mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+"Tal e tal bhikkhu deseja construir uma grande morada a ser destinada ao seu "
+"uso."
+
+msgctxt "pi-tv-bu-vb-ss7:19.3"
+msgid "So saṃghaṃ vihāra­vatthu­desanaṃ yācati."
+msgstr "Ele solicita que a Sangha aprove o local escolhido para a morada."
+
+msgctxt "pi-tv-bu-vb-ss7:19.4"
+msgid ""
+"Yadi saṃghassa pattakallaṃ, saṃgho itthannāmassa bhikkhuno vihāravatthuṃ "
+"deseyya."
+msgstr "Se a Sangha achar conveniente a Sangha deve aprovar o local."
+
+msgctxt "pi-tv-bu-vb-ss7:19.5"
+msgid "Esā ñatti."
+msgstr "Esta é a moção.’"
+
+#. </p><p><a class="sc" id="16"></a><a class="ms-pa" id="ms-pa1527"></a>
+msgctxt "pi-tv-bu-vb-ss7:20.1"
+msgid "Suṇātu me, bhante, saṃgho."
+msgstr "‘Veneráveis, possa a Sangha me escutar. "
+
+msgctxt "pi-tv-bu-vb-ss7:20.2"
+msgid ""
+"Ayaṃ itthannāmo bhikkhu mahallakaṃ vihāraṃ kattukāmo sassāmikaṃ attuddesaṃ."
+msgstr ""
+"Tal e tal bhikkhu deseja construir uma grande morada a ser destinada ao seu "
+"uso."
+
+msgctxt "pi-tv-bu-vb-ss7:20.3"
+msgid "So saṃghaṃ vihāra­vatthu­desanaṃ yācati."
+msgstr "Ele solicita que a Sangha aprove o local escolhido para a morada."
+
+msgctxt "pi-tv-bu-vb-ss7:20.4"
+msgid "Saṃgho itthannāmassa bhikkhuno vihāravatthuṃ deseti."
+msgstr "A Sangha aprova o local escolhido para a morada de tal e tal bhikkhu."
+
+msgctxt "pi-tv-bu-vb-ss7:20.5"
+msgid ""
+"Yassāyasmato khamati itthannāmassa bhikkhuno vihāra­vatthussa desanā, so "
+"tuṇhassa;"
+msgstr ""
+"Qualquer bhikkhu de acordo com a aprovação do local escolhido para a morada "
+"deve permanecer em silêncio."
+
+msgctxt "pi-tv-bu-vb-ss7:20.6"
+msgid "yassa nakkhamati, so bhāseyya."
+msgstr "Aqueles que não aprovarem devem dizê-lo.’"
+
+#. </p><p><a class="sc" id="17"></a><a class="ms-pa" id="ms-pa1528"></a>
+msgctxt "pi-tv-bu-vb-ss7:21.1"
+msgid "Desitaṃ saṃghena itthannāmassa bhikkhuno vihāravatthu."
+msgstr ""
+"‘O local escolhido para a morada de tal e tal bhikkhu foi aprovado pela "
+"Sangha."
+
+msgctxt "pi-tv-bu-vb-ss7:21.2"
+msgid "Khamati saṃghassa, tasmā tuṇhī,"
+msgstr "A Sangha aprova e portanto não se pronuncia."
+
+msgctxt "pi-tv-bu-vb-ss7:21.3"
+msgid "evametaṃ dhārayāmī”ti."
+msgstr "Assim me lembrarei.’"
+
+#. </p></div></div><p><a class="sc" id="18"></a><a class="ms-pa" id="ms-
+#. pa1529"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:22.1"
+msgid "Sārambhaṃ nāma"
+msgstr "Onde mal será feito:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:22.2"
+msgid ""
+"kipillikānaṃ vā āsayo hoti, upacikānaṃ vā āsayo hoti, undūrānaṃ vā … pe …"
+msgstr "o local serve de morada para formigas, cupins, ratos,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.3"
+msgid "ahīnaṃ vā …"
+msgstr "cobras,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.4"
+msgid "vicchikānaṃ vā …"
+msgstr "escorpiões,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.5"
+msgid "satapadīnaṃ vā …"
+msgstr "centopeias,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.6"
+msgid "hatthīnaṃ vā …"
+msgstr "elefantes,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.7"
+msgid "assānaṃ vā …"
+msgstr "cavalos,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.8"
+msgid "sīhānaṃ vā …"
+msgstr "leões,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.9"
+msgid "byagghānaṃ vā …"
+msgstr "tigres,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.10"
+msgid "dīpīnaṃ vā …"
+msgstr "leopardos,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.11"
+msgid "acchānaṃ vā …"
+msgstr "ursos,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.12"
+msgid "taracchānaṃ vā āsayo hoti,"
+msgstr "hienas,"
+
+msgctxt "pi-tv-bu-vb-ss7:22.13"
+msgid "yesaṃ kesañci tiracchā­na­gatā­naṃ pāṇānaṃ āsayo hoti,"
+msgstr "ou quaisquer outros animais;"
+
+msgctxt "pi-tv-bu-vb-ss7:22.14"
+msgid ""
+"pubbaṇ­ṇa­nissitaṃ vā hoti, aparaṇ­ṇa­nissitaṃ vā hoti, abbhā­ghāta­nissitaṃ "
+"vā hoti, āghāta­na­nissitaṃ vā hoti, susānanissitaṃ vā hoti, uyyānanissitaṃ "
+"vā hoti, rāja­vatthu­nissitaṃ vā hoti, hatthi­sālā­nissitaṃ vā hoti, "
+"assasā­lā­nissitaṃ vā hoti, bandha­nā­gāra­nissitaṃ vā hoti, pānāgā­ra­"
+"nissitaṃ vā hoti, sūnanissitaṃ vā hoti, racchānissitaṃ vā hoti, cac­cara­"
+"nissitaṃ vā hoti, sabhānissitaṃ vā hoti, ­saṃsa­ra­ṇa­nissitaṃ vā hoti."
+msgstr ""
+"ou se encontra próxima de um campo de cereais, uma horta de legumes, um "
+"abatedouro, um local de execução, um cemitério, um parque, uma propriedade "
+"real, um estábulo para elefantes, um estábulo para cavalos, uma prisão, um "
+"bar, um matadouro, uma estrada, uma encruzilhada, um fórum ou um beco sem "
+"saída—"
+
+msgctxt "pi-tv-bu-vb-ss7:22.15"
+msgid "Etaṃ sārambhaṃ nāma."
+msgstr "a isto se denomina um local “onde mal será feito.”"
+
+#. </span>
+#. </p><p><a class="sc" id="19"></a><a class="ms-pa" id="ms-pa1530"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:23.1"
+msgid "Aparikkamanaṃ nāma"
+msgstr "Não dispondo de espaço suficiente ao seu redor:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:23.2"
+msgid ""
+"na sakkā hoti yathāyuttena sakaṭena anuparigantuṃ, samantā nisseṇiyā "
+"anuparigantuṃ."
+msgstr ""
+"não é possível andar ao seu redor com um carrinho de mão ou com uma escada,"
+
+msgctxt "pi-tv-bu-vb-ss7:23.3"
+msgid "Etaṃ aparikkamanaṃ nāma."
+msgstr ""
+"a isto se refere a expressão “não dispondo de espaço suficiente ao seu "
+"redor.”"
+
+#. </span>
+#. </p><p><a class="sc" id="20"></a><a class="ms-pa" id="ms-pa1531"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:24.1"
+msgid "Anārambhaṃ nāma"
+msgstr "Onde nenhum mal será feito:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:24.2"
+msgid "na kipillikānaṃ vā āsayo hoti … pe …"
+msgstr ""
+" o local não serve de morada para formigas, cupins, ratos, cobras, "
+"escorpiões, centopeias, elefantes, cavalos, leões, tigres, leopardos, ursos, "
+"ou hienas ou quaisquer outros animais;"
+
+msgctxt "pi-tv-bu-vb-ss7:24.3"
+msgid "na ­saṃsa­ra­ṇa­nissitaṃ vā hoti."
+msgstr ""
+"nem tampouco se encontra próxima de um campo de cereais, uma horta de "
+"legumes, um abatedouro, um local de execução, um cemitério, um parque, uma "
+"propriedade real, um estábulo para elefantes, um estábulo para cavalos, uma "
+"prisão, um bar, um matadouro, uma estrada, uma encruzilhada, um fórum ou um "
+"beco sem saída—"
+
+msgctxt "pi-tv-bu-vb-ss7:24.4"
+msgid "Etaṃ anārambhaṃ nāma."
+msgstr "a isto se denomina um local “onde nenhum mal será feito.”"
+
+#. </span>
+#. </p><p><a class="sc" id="21"></a><a class="ms-pa" id="ms-pa1532"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:25.1"
+msgid "Saparikkamanaṃ nāma"
+msgstr "Que dispõe de espaço suficiente ao seu redor:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:25.2"
+msgid ""
+"sakkā hoti yathāyuttena sakaṭena anuparigantuṃ, samantā nisseṇiyā "
+"anuparigantuṃ."
+msgstr "é possível andar ao seu redor com um carrinho de mão ou com uma escada,"
+
+msgctxt "pi-tv-bu-vb-ss7:25.3"
+msgid "Etaṃ saparikkamanaṃ nāma."
+msgstr ""
+"a isto se refere a expressão “que dispõe de espaço suficiente ao seu redor.”"
+
+#. </span>
+#. </p><p><a class="sc" id="22"></a><a class="ms-pa" id="ms-pa1533"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:26.1"
+msgid "Mahallako nāma"
+msgstr "Uma morada grande:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:26.2"
+msgid "vihāro sassāmiko vuccati."
+msgstr "tendo um proprietário patrocinador é o que se entende."
+
+#. </span>
+#. </p><p><a class="sc" id="23"></a><a class="ms-pa" id="ms-pa1534"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:27.1"
+msgid "Vihāro nāma"
+msgstr "Morada:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:27.2"
+msgid "ullitto vā hoti avalitto vā ullittāvalitto vā."
+msgstr ""
+"uma morada feita de pau-a-pique ou material equivalente ou similar, um "
+"vihāra."
+
+#. </span>
+#. </p><p><a class="sc" id="24"></a><a class="ms-pa" id="ms-pa1535"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:28.1"
+msgid "Kāreyyāti"
+msgstr "Construir:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:28.2"
+msgid "karoti vā kārāpeti vā."
+msgstr "ergue ele mesmo ou consegue alguém que o faça."
+
+#. </span>
+#. </p><p><a class="sc" id="25"></a><a class="pts-vp-pi" id="pts-vp-
+#. pi3.157"></a><a class="ms-pa" id="ms-pa1536"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:29.1"
+msgid "Bhikkhū vā anabhineyya vatthudesanāyāti"
+msgstr ""
+"Não obtendo de outros bhikkhus a aprovação para o seu lugar de construção:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:29.2"
+msgid ""
+"ñattidutiyena kammena vihāravatthuṃ na desāpetvā karoti vā kārāpeti vā, "
+"payoge dukkaṭaṃ."
+msgstr ""
+"se o local escolhido para a morada não foi aprovado através de um "
+"procedimento formal que envolve uma moção e três proclamações, ou ele "
+"constrói uma morada, ou consegue que alguém a construa para si, ele comete "
+"uma ofensa dukkata, de transgressão, só pelo esforço da ação. "
+
+msgctxt "pi-tv-bu-vb-ss7:29.3"
+msgid "Ekaṃ piṇḍaṃ anāgate, āpatti thullaccayassa."
+msgstr ""
+"Quando se falta apenas uma peça para completar a construção morada, ele "
+"comete uma ofensa thullaccayya, uma ofensa grave. "
+
+msgctxt "pi-tv-bu-vb-ss7:29.4"
+msgid "Tasmiṃ piṇḍe āgate, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+"Quando a última peça for concluída, ele comete uma ofensa sanghadisesa, "
+"séria e que envolve a suspensão."
+
+#. </span>
+#. </p><p><a class="sc" id="26"></a><a class="ms-pa" id="ms-pa1537"></a>
+#. <strong class="term">
+msgctxt "pi-tv-bu-vb-ss7:30.1"
+msgid "Saṃghādisesoti"
+msgstr "Uma ofensa sanghadisesa, séria e que envolve a suspensão:"
+
+#. </strong><span class="gloss">
+msgctxt "pi-tv-bu-vb-ss7:30.2"
+msgid "… pe … tenapi vuccati—"
+msgstr ""
+"apenas a sangha dos bhikkhus—e não um grupo de bhikkhus ou um bhikkhu apenas—"
+"pode declarar a penitência devida, suspender e estabelecer a reinclusão na "
+"sangha. Portanto é dito que se comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão, este é o nome e definição desta classe de ofensas. "
+"Desta forma, igualmente, isto é o que se entende por cometer "
+
+msgctxt "pi-tv-bu-vb-ss7:30.3"
+msgid "“saṃghādiseso”ti."
+msgstr "uma “ofensa sanghadisesa, séria e que envolve a suspensão.”"
+
+#. </span>
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss7:31.1"
+msgid ""
+msgstr "Permutações"
+
+#. </h2><h3>
+msgctxt "pi-tv-bu-vb-ss7:31.2"
+msgid ""
+msgstr "Permutações parte 1"
+
+#. </h3><h5>
+msgctxt "pi-tv-bu-vb-ss7:31.3"
+msgid ""
+msgstr "Construindo ele mesmo"
+
+#. </h5><p><a class="sc" id="27"></a><a class="pts-cs-empty" id="bu-
+#. ss.7.3"></a><a class="pts-cs" id="bu-ss.7.3.1"></a><a class="ms-pa" id="ms-
+#. pa1538"></a>
+msgctxt "pi-tv-bu-vb-ss7:31.4"
+msgid ""
+"Bhikkhu vihāraṃ karoti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti "
+"saṃghādisesena dvinnaṃ dukkaṭānaṃ."
+msgstr ""
+"Se um bhikkhu constrói ele mesmo uma morada num local não aprovado, onde mal "
+"será feito, e não dispondo de espaço suficiente ao seu redor, ele comete uma "
+"ofensa sanghadisesa, séria e que envolve a suspensão, e duas ofensas "
+"dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss7:31.5"
+msgid ""
+"Bhikkhu vihāraṃ karoti adesi­ta­vatthu­kaṃ sārambhaṃ saparikkamanaṃ, āpatti "
+"saṃghādisesena dukkaṭassa."
+msgstr ""
+"Se um bhikkhu constrói ele mesmo uma morada num local não aprovado, onde mal "
+"será feito, mas dispondo de espaço suficiente ao seu redor, ele comete uma "
+"ofensa sanghadisesa, séria e que envolve a suspensão, e uma ofensa dukkata, "
+"de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss7:31.6"
+msgid ""
+"Bhikkhu vihāraṃ karoti adesi­ta­vatthu­kaṃ anārambhaṃ aparikkamanaṃ, āpatti "
+"saṃghādisesena dukkaṭassa."
+msgstr ""
+"Se um bhikkhu constrói ele mesmo uma morada num local não aprovado, onde "
+"nenhum mal será feito, mas não dispondo de espaço suficiente ao seu redor, "
+"ele comete uma ofensa sanghadisesa, séria e que envolve suspensão e uma "
+"ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss7:31.7"
+msgid ""
+"Bhikkhu vihāraṃ karoti adesi­ta­vatthu­kaṃ anārambhaṃ saparikkamanaṃ, āpatti "
+"saṃ­ghā­di­sesassa."
+msgstr ""
+"Se um bhikkhu constrói ele mesmo uma morada num local não aprovado, onde "
+"nenhum mal será feito, e dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa sanghadisesa, séria e que envolve a suspensão."
+
+#. </p><p><a class="sc" id="28"></a><a class="ms-pa" id="ms-pa1539"></a>
+msgctxt "pi-tv-bu-vb-ss7:32.1"
+msgid ""
+"Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti "
+"dvinnaṃ dukkaṭānaṃ."
+msgstr ""
+"Se um bhikkhu constrói ele mesmo uma morada num local aprovado, onde mal "
+"será feito, e não dispondo de espaço suficiente ao seu redor, ele comete "
+"duas ofensas dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss7:32.2"
+msgid ""
+"Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ sārambhaṃ saparikkamanaṃ, āpatti "
+"dukkaṭassa."
+msgstr ""
+"Se um bhikkhu constrói ele mesmo uma morada num local aprovado, onde mal "
+"será feito, mas dispondo de espaço suficiente ao seu redor, ele comete uma "
+"ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss7:32.3"
+msgid ""
+"Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ anārambhaṃ aparikkamanaṃ, āpatti "
+"dukkaṭassa."
+msgstr ""
+"Se um bhikkhu constrói ele mesmo uma morada num local aprovado, onde nenhum "
+"mal será feito, mas não dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa dukkata, de transgressão."
+
+msgctxt "pi-tv-bu-vb-ss7:32.4"
+msgid ""
+"Bhikkhu vihāraṃ karoti desita­vatthu­kaṃ anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+"Se um bhikkhu constrói ele mesmo uma morada num local aprovado, onde nenhum "
+"mal será feito, e dispondo de espaço suficiente ao seu redor, não há ofensa."
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:33.1"
+msgid ""
+msgstr "Nomeando alguém para a construção"
+
+#. </h5><p><a class="sc" id="29"></a><a class="pts-vp-en" id="bd.1.269"></a><a
+#. class="pts-cs" id="bu-ss.7.3.2"></a><a class="ms-pa" id="ms-pa1540"></a>
+msgctxt "pi-tv-bu-vb-ss7:33.2"
+msgid "Bhikkhu samādisati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:33.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada. "
+
+msgctxt "pi-tv-bu-vb-ss7:33.4"
+msgid ""
+"Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti "
+"saṃghādisesena dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"Se a morada é construída num local não aprovado, onde mal será feito, e não "
+"dispondo de espaço suficiente ao seu redor, ele comete uma ofensa "
+"sanghadisesa, séria e que envolve a suspensão, e duas ofensas dukkata, de "
+"transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:33.5"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+"onde mal será feito, mas dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa sanghadisesa, séria e que envolve a suspensão, e uma "
+"ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:33.6"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+"onde nenhum mal será feito, mas não dispondo de espaço suficiente ao seu "
+"redor, ele comete uma ofensa sanghadisesa, séria e que envolve a suspensão, "
+"e uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:33.7"
+msgid "anārambhaṃ saparikkamanaṃ, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+"onde nenhum mal será feito e dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa sanghadisesa, séria e que envolve a suspensão."
+
+#. </p><p><a class="sc" id="30"></a><a class="ms-pa" id="ms-pa1541"></a>
+msgctxt "pi-tv-bu-vb-ss7:34.1"
+msgid "Bhikkhu samādisati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:34.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada."
+
+msgctxt "pi-tv-bu-vb-ss7:34.3"
+msgid ""
+"Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti "
+"dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"Se a morada é construída num local aprovado, onde mal será feito, e não "
+"dispondo de espaço suficiente ao seu redor, ele comete duas ofensas dukkata, "
+"de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:34.4"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+"onde mal será feito, mas dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:34.5"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+"onde nenhum mal será feito, mas não dispondo de espaço suficiente ao seu "
+"redor, ele comete uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:34.6"
+msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+"onde nenhum mal será feito e dispondo de espaço suficiente ao seu redor, não "
+"há ofensa."
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:35.1"
+msgid ""
+msgstr "Partindo sem instruir o procedimento de construção adequado"
+
+#. </h5><p><a class="sc" id="31"></a><a class="pts-cs" id="bu-ss.7.3.3"></a><a
+#. class="ms-pa" id="ms-pa1542"></a>
+msgctxt "pi-tv-bu-vb-ss7:35.2"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:35.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada e depois se afasta,"
+
+msgctxt "pi-tv-bu-vb-ss7:35.4"
+msgid "Na ca samādisati—"
+msgstr "sem instruir que"
+
+msgctxt "pi-tv-bu-vb-ss7:35.5"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+"esta seja construída em um local aprovado, onde nenhum mal será feito, e "
+"dispondo de espaço suficiente ao seu redor."
+
+msgctxt "pi-tv-bu-vb-ss7:35.6"
+msgid ""
+"Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti "
+"saṃghādisesena dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"Se a morada é construída num local não aprovado, onde mal será feito, e não "
+"dispondo de espaço suficiente ao seu redor, ele comete uma ofensa "
+"sanghadisesa, séria e que envolve a suspensão, e duas ofensas dukkata, de "
+"transgressão. … "
+
+msgctxt "pi-tv-bu-vb-ss7:35.7"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+"onde mal será feito, mas dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa sanghadisesa, séria e que envolve a suspensão, e uma "
+"ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:35.8"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+"onde nenhum mal será feito, mas não dispondo de espaço suficiente ao seu "
+"redor, ele comete uma ofensa sanghadisesa, séria e que envolve a suspensão, "
+"e uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:35.9"
+msgid "anārambhaṃ saparikkamanaṃ, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+"onde nenhum mal será feito e dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa sanghadisesa, séria e que envolve a suspensão."
+
+#. </p><p><a class="sc" id="32"></a><a class="ms-pa" id="ms-pa1543"></a>
+msgctxt "pi-tv-bu-vb-ss7:36.1"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:36.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada e depois se afasta,"
+
+msgctxt "pi-tv-bu-vb-ss7:36.3"
+msgid "Na ca samādisati—"
+msgstr "sem instruir que"
+
+msgctxt "pi-tv-bu-vb-ss7:36.4"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+"que esta seja construída em um local aprovado, onde nenhum mal será feito, e "
+"dispondo de espaço suficiente ao seu redor."
+
+msgctxt "pi-tv-bu-vb-ss7:36.5"
+msgid ""
+"Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti "
+"dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"Se a morada é construída num local aprovado, onde mal será feito, e não "
+"dispondo de espaço suficiente ao seu redor, ele comete duas ofensas dukkata, "
+"de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:36.6"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+"onde mal será feito, mas dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:36.7"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+"onde nenhum mal será feito, mas não dispondo de espaço suficiente ao seu "
+"redor, ele comete uma ofensa dukkata, de transgressão. … "
+
+msgctxt "pi-tv-bu-vb-ss7:36.8"
+msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+"onde nenhum mal será feito e dispondo de espaço suficiente ao seu redor, não "
+"há ofensa."
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:37.1"
+msgid ""
+msgstr "Sendo informado de um procedimento errôneo de construção após partir"
+
+#. </h5><p><a class="sc" id="33"></a><a class="pts-cs" id="bu-ss.7.3.4"></a><a
+#. class="ms-pa" id="ms-pa1544"></a>
+msgctxt "pi-tv-bu-vb-ss7:37.2"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:37.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada e depois se afasta,"
+
+msgctxt "pi-tv-bu-vb-ss7:37.4"
+msgid "Samādisati ca—"
+msgstr "Ele instrui que"
+
+msgctxt "pi-tv-bu-vb-ss7:37.5"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+"esta seja construída em um local aprovado, onde nenhum mal será feito, e "
+"dispondo de espaço suficiente ao seu redor,"
+
+msgctxt "pi-tv-bu-vb-ss7:37.6"
+msgid "Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ."
+msgstr ""
+"mas esta é construída num local não aprovado, onde mal será feito, e não "
+"dispondo de espaço suficiente ao seu redor."
+
+msgctxt "pi-tv-bu-vb-ss7:37.7"
+msgid ""
+"So suṇāti—“vihāro kira me kayirati adesi­ta­vatthuko sārambho "
+"aparikkamano”ti."
+msgstr "Se isto chega ao conhecimento do bhikkhu,"
+
+msgctxt "pi-tv-bu-vb-ss7:37.8"
+msgid "Tena bhikkhunā sāmaṃ vā gantabbaṃ dūto vā pāhetabbo—"
+msgstr "ele deve ir até o local ele mesmo ou enviar uma mensagem,"
+
+msgctxt "pi-tv-bu-vb-ss7:37.9"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti … pe …"
+msgstr ""
+"e ele deve instruir que esta seja construída num local aprovado, onde nenhum "
+"mal será feito, e dispondo de espaço suficiente ao seu redor ..."
+
+msgctxt "pi-tv-bu-vb-ss7:37.10"
+msgid "“desitavatthuko ca hotu anārambho cā”ti … pe …"
+msgstr "num local aprovado, e onde nenhum mal será feito. … "
+
+msgctxt "pi-tv-bu-vb-ss7:37.11"
+msgid "“desitavatthuko ca hotu saparikkamano cā”ti … pe …"
+msgstr "num local aprovado, e dispondo de espaço suficiente ao seu redor. …"
+
+msgctxt "pi-tv-bu-vb-ss7:37.12"
+msgid "“desitavatthuko hotū”ti."
+msgstr " num local aprovado."
+
+msgctxt "pi-tv-bu-vb-ss7:37.13"
+msgid "No ce sāmaṃ vā gaccheyya dūtaṃ vā pahiṇeyya, āpatti dukkaṭassa."
+msgstr ""
+"Se ele não vai ou nem mesmo envia uma mensagem, ele comete uma ofensa "
+"dukkata, de transgressão."
+
+#. </p><p><a class="sc" id="34"></a><a class="ms-pa" id="ms-pa1545"></a>
+msgctxt "pi-tv-bu-vb-ss7:38.1"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:38.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada e depois se afasta."
+
+msgctxt "pi-tv-bu-vb-ss7:38.3"
+msgid "Samādisati ca—"
+msgstr "Ele instrui que"
+
+msgctxt "pi-tv-bu-vb-ss7:38.4"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+"esta seja construída em um local aprovado, onde nenhum mal será feito, e "
+"dispondo de espaço suficiente ao seu redor,"
+
+msgctxt "pi-tv-bu-vb-ss7:38.5"
+msgid "Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ."
+msgstr ""
+"mas esta é construída num local não aprovado, onde mal será feito, e não "
+"dispondo de espaço suficiente ao seu redor."
+
+msgctxt "pi-tv-bu-vb-ss7:38.6"
+msgid ""
+"So suṇāti—“vihāro kira me kayirati desitavatthuko sārambho aparikkamano”ti."
+msgstr "Se isto chega ao conhecimento do bhikkhu,"
+
+msgctxt "pi-tv-bu-vb-ss7:38.7"
+msgid "Tena bhikkhunā sāmaṃ vā gantabbaṃ dūto vā pāhetabbo—"
+msgstr "ele deve ir até o local ele mesmo ou enviar uma mensagem,"
+
+msgctxt "pi-tv-bu-vb-ss7:38.8"
+msgid "“anārambho ca hotu saparikkamano cā”ti … pe …"
+msgstr ""
+"e ele deve instruir que esta seja construída num local aprovado, onde nenhum "
+"mal será feito, e dispondo de espaço suficiente ao seu redor. … Este "
+"parágrafo é expandido como no Bu-Ss.6.3.9. …"
+
+#. <span class="note" hidden>The last two sets of ellipses points are not
+#. found in MS. I have added them for clarification.</span>
+msgctxt "pi-tv-bu-vb-ss7:38.9"
+msgid "“anārambho hotū”ti."
+msgstr "onde nenhum mal será feito. … "
+
+msgctxt "pi-tv-bu-vb-ss7:38.10"
+msgid "“Saparikkamano hotū”ti,"
+msgstr "dispondo de espaço suficiente ao seu redor. …"
+
+msgctxt "pi-tv-bu-vb-ss7:38.11"
+msgid "anāpatti."
+msgstr "não há ofensa."
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:39.1"
+msgid ""
+msgstr "As ofensas dos construtores nomeados"
+
+#. </h5><p><a class="sc" id="35"></a><a class="pts-cs" id="bu-ss.7.3.5"></a><a
+#. class="ms-pa" id="ms-pa1546"></a>
+msgctxt "pi-tv-bu-vb-ss7:39.2"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:39.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada e depois se afasta."
+
+msgctxt "pi-tv-bu-vb-ss7:39.4"
+msgid "Samādisati ca—"
+msgstr "Ele instrui que"
+
+msgctxt "pi-tv-bu-vb-ss7:39.5"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+"esta seja construída em um local aprovado, onde nenhum mal será feito, e "
+"dispondo de espaço suficiente ao seu redor,"
+
+msgctxt "pi-tv-bu-vb-ss7:39.6"
+msgid ""
+"Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti "
+"kārukānaṃ tiṇṇaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"Se a morada é construída num local não aprovado, onde mal será feito, e não "
+"dispondo de espaço suficiente ao seu redor, os construtores cometem três "
+"ofensas dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:39.7"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti kārukānaṃ dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"onde mal será feito, mas dispondo de espaço suficiente ao seu redor, os "
+"construtores cometem duas ofensas dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:39.8"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti kārukānaṃ dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"onde nenhum mal será feito, mas não dispondo de espaço suficiente ao seu "
+"redor, os construtores cometem uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:39.9"
+msgid "anārambhaṃ saparikkamanaṃ, āpatti kārukānaṃ dukkaṭassa."
+msgstr ""
+"onde nenhum mal será feito e dispondo de espaço suficiente ao seu redor, os "
+"construtores cometem uma ofensa dukkata, de transgressão."
+
+#. </p><p><a class="sc" id="36"></a><a class="ms-pa" id="ms-pa1547"></a>
+msgctxt "pi-tv-bu-vb-ss7:40.1"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:40.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada e depois se afasta."
+
+msgctxt "pi-tv-bu-vb-ss7:40.3"
+msgid "Samādisati ca—"
+msgstr "Ele instrui que"
+
+msgctxt "pi-tv-bu-vb-ss7:40.4"
+msgid "“desitavatthuko ca hotu anārambho ca saparikkamano cā”ti."
+msgstr ""
+"que esta seja construída em um local aprovado, onde nenhum mal será feito, e "
+"dispondo de espaço suficiente ao seu redor."
+
+msgctxt "pi-tv-bu-vb-ss7:40.5"
+msgid ""
+"Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ, āpatti "
+"kārukānaṃ dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"Se a morada é construída num local aprovado, onde mal será feito, e não "
+"dispondo de espaço suficiente ao seu redor, os construtores cometem duas "
+"ofensas dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:40.6"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti kārukānaṃ dukkaṭassa … pe …"
+msgstr ""
+"onde mal será feito, mas dispondo de espaço suficiente ao seu redor, os "
+"construtores cometem uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:40.7"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti kārukānaṃ dukkaṭassa … pe …"
+msgstr ""
+"onde nenhum mal será feito, mas não dispondo de espaço suficiente ao seu "
+"redor, os construtores cometem uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:40.8"
+msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+"onde nenhum mal será feito e dispondo de espaço suficiente ao seu redor, não "
+"há ofensa."
+
+#. </p><h5>
+msgctxt "pi-tv-bu-vb-ss7:41.1"
+msgid ""
+msgstr "Uma morada inacabada quando do seu retorno"
+
+#. </h5><p><a class="sc" id="37"></a><a class="pts-cs" id="bu-ss.7.3.6"></a><a
+#. class="ms-pa" id="ms-pa1548"></a>
+msgctxt "pi-tv-bu-vb-ss7:41.2"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:41.3"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada e depois se afasta."
+
+#. <a class="pts-vp-en" id="bd.1.270"></a>
+msgctxt "pi-tv-bu-vb-ss7:41.4"
+msgid "Tassa vihāraṃ karonti adesi­ta­vatthu­kaṃ sārambhaṃ aparikkamanaṃ."
+msgstr ""
+"Ela é construída num local não aprovado, onde mal será feito, e não dispondo "
+"de espaço suficiente ao seu redor."
+
+msgctxt "pi-tv-bu-vb-ss7:41.5"
+msgid ""
+"So ce vippakate āgacchati, tena bhikkhunā so vihāro aññassa vā dātabbo "
+"bhinditvā vā puna kātabbo."
+msgstr ""
+"Se a morada se encontra inacabada quando do seu retorno, esta deve ser dada "
+"para outrem, ou deve ser demolida e reconstruída."
+
+msgctxt "pi-tv-bu-vb-ss7:41.6"
+msgid ""
+"No ce aññassa vā dadeyya bhinditvā vā puna kāreyya, āpatti saṃghādisesena "
+"dvinnaṃ dukkaṭānaṃ … pe …"
+msgstr ""
+"Se ele não dá a morada para outra pessoa, ou não a demole e reconstrói, ele "
+"comete uma ofensa sanghadisesa, séria e que envolve a suspensão, e duas "
+"ofensas dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:41.7"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+"onde mal será feito, mas dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa sanghadisesa, séria e que envolve a suspensão, e uma "
+"ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:41.8"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti saṃghādisesena dukkaṭassa … pe …"
+msgstr ""
+"onde nenhum mal será feito, mas não dispondo de espaço suficiente ao seu "
+"redor, ele comete uma ofensa sanghadisesa, séria e que envolve a suspensão, "
+"e uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:41.9"
+msgid "anārambhaṃ saparikkamanaṃ, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+"onde nenhum mal será feito e dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa sanghadisesa, séria e que envolve a suspensão."
+
+#. </p><p><a class="sc" id="38"></a><a class="ms-pa" id="ms-pa1549"></a>
+msgctxt "pi-tv-bu-vb-ss7:42.1"
+msgid "Bhikkhu samādisitvā pakkamati—"
+msgstr "Um bhikkhu nomeia alguém"
+
+msgctxt "pi-tv-bu-vb-ss7:42.2"
+msgid "“vihāraṃ me karothā”ti."
+msgstr "para lhe construir uma morada e depois se afasta."
+
+msgctxt "pi-tv-bu-vb-ss7:42.3"
+msgid "Tassa vihāraṃ karonti desita­vatthu­kaṃ sārambhaṃ aparikkamanaṃ."
+msgstr ""
+"Ela é construída num local não aprovado, onde mal será feito, e não dispondo "
+"de espaço suficiente ao seu redor."
+
+msgctxt "pi-tv-bu-vb-ss7:42.4"
+msgid ""
+"So ce vippakate āgacchati, tena bhikkhunā so vihāro aññassa vā dātabbo "
+"bhinditvā vā puna kātabbo."
+msgstr ""
+"Se a morada se encontra inacabada quando do seu retorno, esta deve ser dada "
+"para outrem, ou deve ser demolida e reconstruída."
+
+msgctxt "pi-tv-bu-vb-ss7:42.5"
+msgid ""
+"No ce aññassa vā dadeyya bhinditvā vā puna kāreyya, āpatti dvinnaṃ "
+"dukkaṭānaṃ … pe …"
+msgstr ""
+"Se ele não dá a morada para outra pessoa, ou não a demole e reconstrói, ele "
+"comete duas ofensas dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:42.6"
+msgid "sārambhaṃ saparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+"onde mal será feito, mas dispondo de espaço suficiente ao seu redor, ele "
+"comete uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:42.7"
+msgid "anārambhaṃ aparikkamanaṃ, āpatti dukkaṭassa … pe …"
+msgstr ""
+"onde nenhum mal será feito, mas não dispondo de espaço suficiente ao seu "
+"redor, ele comete uma ofensa dukkata, de transgressão. …"
+
+msgctxt "pi-tv-bu-vb-ss7:42.8"
+msgid "anārambhaṃ saparikkamanaṃ, anāpatti."
+msgstr ""
+"onde nenhum mal será feito e dispondo de espaço suficiente ao seu redor, não "
+"há ofensa."
+
+#. </p><h3>
+msgctxt "pi-tv-bu-vb-ss7:43.1"
+msgid ""
+msgstr "Permutações parte 2"
+
+#. </h3><p><a class="sc" id="39"></a><a class="pts-cs" id="bu-ss.7.3.7"></a><a
+#. class="ms-pa" id="ms-pa1550"></a>
+msgctxt "pi-tv-bu-vb-ss7:43.2"
+msgid "Attanā vippakataṃ attanā pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+"Se ele terminar o que ele mesmo começou (não atendendo quaisquer ou todos os "
+"requisitos acima descritos), ele comete uma ofensa sanghadisesa, séria e que "
+"envolve a suspensão."
+
+#. </p><p><a class="sc" id="40"></a><a class="ms-pa" id="ms-pa1551"></a>
+msgctxt "pi-tv-bu-vb-ss7:44.1"
+msgid "Attanā vippakataṃ parehi pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+"Se ele conseguir outro para terminar o que ele mesmo começou (não atendendo "
+"quaisquer ou todos os requisitos acima descritos), ele comete uma ofensa "
+"sanghadisesa, séria e que envolve a suspensão."
+
+#. </p><p><a class="sc" id="41"></a><a class="ms-pa" id="ms-pa1552"></a>
+msgctxt "pi-tv-bu-vb-ss7:45.1"
+msgid "Parehi vippakataṃ attanā pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+"Se ele termina o que foi começado por outros (não atendendo quaisquer ou "
+"todos os requisitos acima descritos), ele comete uma ofensa sanghadisesa, "
+"séria e que envolve a suspensão."
+
+#. </p><p><a class="sc" id="42"></a><a class="ms-pa" id="ms-pa1553"></a>
+msgctxt "pi-tv-bu-vb-ss7:46.1"
+msgid "Parehi vippakataṃ parehi pariyosāpeti, āpatti saṃ­ghā­di­sesassa."
+msgstr ""
+"Se ele conseguir outro para terminar o que foi começado por outros (não "
+"atendendo quaisquer ou todos os requisitos acima descritos), ele comete uma "
+"ofensa sanghadisesa, séria e que envolve a suspensão."
+
+#. </p><h2>
+msgctxt "pi-tv-bu-vb-ss7:47.1"
+msgid ""
+msgstr "Quando não é uma ofensa"
+
+#. </h2><p><a class="sc" id="43"></a><a class="ms-pa" id="ms-pa1554"></a>
+msgctxt "pi-tv-bu-vb-ss7:47.2"
+msgid "Anāpatti—"
+msgstr "Não há ofensa quando: "
+
+msgctxt "pi-tv-bu-vb-ss7:47.3"
+msgid "leṇe guhāya tiṇakuṭikāya"
+msgstr ""
+"se constrói um abrigo situado numa saliência duma rocha; se constrói uma "
+"morada numa caverna; se constrói uma morada de palha;"
+
+msgctxt "pi-tv-bu-vb-ss7:47.4"
+msgid "aññassatthāya vāsāgāraṃ ṭhapetvā"
+msgstr "se constrói para um terceiro;"
+
+msgctxt "pi-tv-bu-vb-ss7:47.5"
+msgid "sabbattha."
+msgstr "se constrói algo além de uma habitação;"
+
+msgctxt "pi-tv-bu-vb-ss7:47.6"
+msgid "Anāpatti ummattakassa,"
+msgstr "o indivíduo se encontra louco;"
+
+msgctxt "pi-tv-bu-vb-ss7:47.7"
+msgid "ādi­kammi­kas­sāti."
+msgstr "ele é o primeiro a cometer a ofensa."
+
+#. </p><hr><p class="endsutta"><a class="sc" id="44"></a><a class="ms-pa"
+#. id="ms-pa1555"></a>
+msgctxt "pi-tv-bu-vb-ss7:48.1"
+msgid "Vihāra­kāra­sikkhā­padaṃ niṭṭhitaṃ sattamaṃ."
+msgstr ""
+"A sétima regra de treinamento sanghadisesa, sobre a construção de moradas, "
+"se encerra aqui."
+
+#. </p></article><aside id="metaarea"><p>Translated by <span
+#. class="author">Bhikkhu Brahmali.</span></p>
+#. <p>Digital edition prepared for SuttaCentral by <span class="editor">Ayya
+#. Vimala</span>.</p>
+#. <p>A digital edition of I.B. Horner’s translation, <cite class="book">The
+#. Book of the Discipline</cite>, can be downloaded <a
+#. href="/downloads#book_of_the_discipline">here</a>.</p>
+#. <hr><p>First published in 2014 by SuttaCentral, revised 2016</p>
+#. <p>The current digital edition is released under a Creative Commons
+#. Attribution-NonCommercial 3.0 licence (<a
+#. href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC
+#. 3.0</a>).</p>
+#. <p><strong>You are free to:</strong></p>
+#. <ul><li><strong>Share</strong> — copy and redistribute the material in any
+#. medium or format.</li>
+#. <li><strong>Adapt</strong> — remix, transform, and build upon the
+#. material.</li></ul>
+#. <p>The licensor cannot revoke these freedoms as long as you follow the
+#. license terms.</p>
+#. <p><strong>Under the following terms:</strong></p>
+#. <ul><li><strong>Attribution</strong> — You must give appropriate credit,
+#. provide a link to the license, and indicate if changes were made. You may
+#. do so in any reasonable manner, but not in any way that suggests the
+#. licensor endorses you or your use.</li>
+#. <li><strong>NonCommercial</strong> — You may not use the material for
+#. commercial purposes.</li>
+#. <li><strong>No additional restrictions</strong> — You may not apply legal
+#. terms or technological measures that legally restrict others from doing
+#. anything the license permits.</li></ul></aside></section>
+#. </div></body></html>
+msgctxt "pi-tv-bu-vb-ss7:48.2"
+msgid ""
+msgstr " "

@@ -1,0 +1,592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn55.06.pot\n"
+"X-Pootle-Revision: 20614\n"
+
+#. <section class="sutta" id="sn55.6"><article><div class="hgroup"><p class="division">
+msgctxt "sn55.6:0.1"
+msgid "Saṃyutta Nikāya 55"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn55.6:0.2"
+msgid "1. Veḷudvāravagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 6. Thapatisutta → thapatayo (pts1)
+msgctxt "sn55.6:0.3"
+msgid "6. Thapatisutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn55.6:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+msgctxt "sn55.6:1.2"
+msgid ""
+"Tena kho pana samayena sambahulā bhikkhū bhagavato cīvarakammaṃ karonti:"
+msgstr ""
+
+msgctxt "sn55.6:1.3"
+msgid "“niṭṭhitacīvaro bhagavā temāsaccayena cārikaṃ pakkamissatī”ti."
+msgstr ""
+
+# I was tempted to accept the Nett’s reading of saketa here, but i got the following from Rod Bucknell: On the Pali side, Malalasekera’s Dictionary (condensed on-line version, s.v. Sādhuka) reports the commentary (SN-a iii 215) as saying that this village belonged to Isidatta and Purāṇa. Checking the commentary, I find that what it actually says is this: Sādhuke paṭivisantī ti: Sādhuka-nāmake attano bhoga-gāmake vasanti. “were staying in their own tributary village named Sādhuka”. On the Chinese side, Akanuma’s Dictionary says that the “original” name of the village is “unclear”. Taken as a translation, 鹿徑澤would be “Deer path swamp”, which could well be the name of a village. Taken as a transcription, lu-jing-ze, it certainly doesn’t ring any bell. As to why the two chamberlains were there, SA 860 says: 修治田業, “to manage/oversee the farming”. It also mentions that they are brothers. The rest is as in the Pali, including details of how they attend on the king’s two wives when they go out (riding on an elephant), and the Buddha’s message about the benefits of renunciation versus the dustiness of the household life. Putting all this together, I think one can infer this: The brothers Isidatta and Purāṇa serve as chamberlains in Pasenadi’s court. They have been given the farming village Sādhuka as a feoffdom, and they occasionally visit it to check out the farming activity here, which provides them with a second source of income. This is why they happen to be in such an insignificant little place at the time represented in the sutta. (Sādhuka is apparently only two or three days’ walk from Sāvatthī, in contrast to Sāketa, which is seven chariot-rides away, according to MN 24.)
+msgctxt "sn55.6:1.4"
+msgid ""
+"Tena kho pana samayena isidattapurāṇā thapatayo sādhuke paṭivasanti "
+"kenacideva karaṇīyena."
+msgstr ""
+
+msgctxt "sn55.6:1.5"
+msgid "Assosuṃ kho isidattapurāṇā thapatayo:"
+msgstr ""
+
+msgctxt "sn55.6:1.6"
+msgid "“sambahulā kira bhikkhū bhagavato cīvarakammaṃ karonti:"
+msgstr ""
+
+msgctxt "sn55.6:1.7"
+msgid "‘niṭṭhitacīvaro bhagavā temāsaccayena cārikaṃ pakkamissatī’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn55.6:2.1"
+msgid "Atha kho isidattapurāṇā thapatayo magge purisaṃ ṭhapesuṃ:"
+msgstr ""
+
+msgctxt "sn55.6:2.2"
+msgid ""
+"“yadā tvaṃ, ambho purisa, passeyyāsi bhagavantaṃ āgacchantaṃ arahantaṃ "
+"sammāsambuddhaṃ, atha amhākaṃ āroceyyāsī”ti."
+msgstr ""
+
+msgctxt "sn55.6:2.3"
+msgid "Dvīhatīhaṃ ṭhito kho so puriso addasa bhagavantaṃ dūratova āgacchantaṃ."
+msgstr ""
+
+msgctxt "sn55.6:2.4"
+msgid ""
+"Disvāna yena isidattapurāṇā thapatayo tenupasaṅkami; upasaṅkamitvā "
+"isidattapurāṇe thapatayo etadavoca:"
+msgstr ""
+
+msgctxt "sn55.6:2.5"
+msgid "“ayaṃ so, bhante, bhagavā āgacchati arahaṃ sammāsambuddho."
+msgstr ""
+
+msgctxt "sn55.6:2.6"
+msgid "Yassadāni kālaṃ maññathā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli5.349"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn55.6:3.1"
+msgid ""
+"Atha kho isidattapurāṇā thapatayo yena bhagavā tenupasaṅkamiṃsu; "
+"upasaṅkamitvā bhagavantaṃ abhivādetvā bhagavantaṃ piṭṭhito piṭṭhito "
+"anubandhiṃsu."
+msgstr ""
+
+msgctxt "sn55.6:3.2"
+msgid ""
+"Atha kho bhagavā maggā okkamma yena aññataraṃ rukkhamūlaṃ tenupasaṅkami; "
+"upasaṅkamitvā paññatte āsane nisīdi."
+msgstr ""
+
+msgctxt "sn55.6:3.3"
+msgid "Isidattapurāṇā thapatayo bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu."
+msgstr ""
+
+msgctxt "sn55.6:3.4"
+msgid ""
+"Ekamantaṃ nisinnā kho te isidattapurāṇā thapatayo bhagavantaṃ etadavocuṃ:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn55.6:4.1"
+msgid "“Yadā mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:4.2"
+msgid ""
+"‘sāvatthiyā kosalesu cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye "
+"anattamanatā hoti domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:4.3"
+msgid "‘dūre no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:4.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:4.5"
+msgid ""
+"‘sāvatthiyā kosalesu cārikaṃ pakkanto’ti, hoti no tasmiṃ samaye anattamanatā "
+"hoti domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:4.6"
+msgid "‘dūre no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn55.6:5.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:5.2"
+msgid ""
+"‘kosalehi mallesu cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye "
+"anattamanatā hoti domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:5.3"
+msgid "‘dūre no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:5.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:5.5"
+msgid ""
+"‘kosalehi mallesu cārikaṃ pakkanto’ti, hoti no tasmiṃ samaye anattamanatā "
+"hoti domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:5.6"
+msgid "‘dūre no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn55.6:6.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:6.2"
+msgid ""
+"‘mallehi vajjīsu cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye anattamanatā "
+"hoti domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:6.3"
+msgid "‘dūre no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:6.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:6.5"
+msgid ""
+"‘mallehi vajjīsu cārikaṃ pakkanto’ti, hoti no tasmiṃ samaye anattamanatā "
+"hoti domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:6.6"
+msgid "‘dūre no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn55.6:7.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:7.2"
+msgid ""
+"‘vajjīhi kāsīsu cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye anattamanatā "
+"hoti domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:7.3"
+msgid "‘dūre no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:7.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:7.5"
+msgid ""
+"‘vajjīhi kāsīsu cārikaṃ pakkanto’ti, hoti no tasmiṃ samaye anattamanatā hoti "
+"domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:7.6"
+msgid "‘dūre no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli5.350"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "sn55.6:8.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+# Māgadhesu is preferable.
+msgctxt "sn55.6:8.2"
+msgid ""
+"‘kāsīhi māgadhe cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye anattamanatā "
+"hoti domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:8.3"
+msgid "‘dūre no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:8.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:8.5"
+msgid ""
+"‘kāsīhi māgadhe cārikaṃ pakkanto’ti, hoti anappakā no tasmiṃ samaye "
+"anattamanatā hoti anappakaṃ domanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:8.6"
+msgid "‘dūre no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn55.6:9.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:9.2"
+msgid ""
+"‘māgadhehi kāsīsu cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye attamanatā "
+"hoti somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:9.3"
+msgid "‘āsanne no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:9.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:9.5"
+msgid ""
+"‘māgadhehi kāsīsu cārikaṃ pakkanto’ti, hoti no tasmiṃ samaye attamanatā hoti "
+"somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:9.6"
+msgid "‘āsanne no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "sn55.6:10.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:10.2"
+msgid ""
+"‘kāsīhi vajjīsu cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye attamanatā "
+"hoti somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:10.3"
+msgid "‘āsanne no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:10.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:10.5"
+msgid ""
+"‘kāsīhi vajjīsu cārikaṃ pakkanto’ti, hoti no tasmiṃ samaye attamanatā hoti "
+"somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:10.6"
+msgid "‘āsanne no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "sn55.6:11.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:11.2"
+msgid ""
+"‘vajjīhi mallesu cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye attamanatā "
+"hoti somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:11.3"
+msgid "‘āsanne no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:11.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:11.5"
+msgid ""
+"‘vajjīhi mallesu cārikaṃ pakkanto’ti, hoti no tasmiṃ samaye attamanatā hoti "
+"somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:11.6"
+msgid "‘āsanne no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "sn55.6:12.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+# Note shift, apparently in error to locative singular for Kosale. The PTS edition has a variety of readings for the “destination”, usually acc. sing or loc. sing.
+msgctxt "sn55.6:12.2"
+msgid ""
+"‘mallehi kosale cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye attamanatā "
+"hoti somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:12.3"
+msgid "‘āsanne no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:12.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:12.5"
+msgid ""
+"‘mallehi kosale cārikaṃ pakkanto’ti, hoti no tasmiṃ samaye attamanatā hoti "
+"somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:12.6"
+msgid "‘āsanne no bhagavā’ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "sn55.6:13.1"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+# Accepting that the reading here should be Kosalesu, as Savatthi is in Kosala. Note that -ehi can be a Magadhan locative plural, perhaps this is a source of confusion.
+msgctxt "sn55.6:13.2"
+msgid ""
+"‘kosalehi sāvatthiṃ cārikaṃ pakkamissatī’ti, hoti no tasmiṃ samaye "
+"attamanatā hoti somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:13.3"
+msgid "‘āsanne no bhagavā bhavissatī’ti."
+msgstr ""
+
+msgctxt "sn55.6:13.4"
+msgid "Yadā pana mayaṃ, bhante, bhagavantaṃ suṇāma:"
+msgstr ""
+
+msgctxt "sn55.6:13.5"
+msgid ""
+"‘sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme’ti, hoti anappakā no "
+"tasmiṃ samaye attamanatā hoti anappakaṃ somanassaṃ:"
+msgstr ""
+
+msgctxt "sn55.6:13.6"
+msgid "‘āsanne no bhagavā’”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli5.351"></a>
+#. <a class="sc" id="sc14"></a>
+msgctxt "sn55.6:14.1"
+msgid ""
+"“Tasmātiha, thapatayo, sambādho gharāvāso rajāpatho, abbhokāso pabbajjā."
+msgstr ""
+
+msgctxt "sn55.6:14.2"
+msgid "Alañca pana vo, thapatayo, appamādāyā”ti."
+msgstr ""
+
+msgctxt "sn55.6:14.3"
+msgid ""
+"“Atthi kho no, bhante, etamhā sambādhā añño sambādho sambādhataro ceva "
+"sambādhasaṅkhātataro cā”ti."
+msgstr ""
+
+msgctxt "sn55.6:14.4"
+msgid ""
+"“Katamo pana vo, thapatayo, etamhā sambādhā añño sambādho sambādhataro ceva "
+"sambādhasaṅkhātataro cā”ti?"
+msgstr ""
+
+# Given the intimate contact emphasized in the following passages, i think the ablative here is in respect to each of the chamberlains; i.e. each one of them seats a wife in front of them and one behind.
+#. </p><p>
+#. <a class="sc" id="sc15"></a>
+msgctxt "sn55.6:15.1"
+msgid ""
+"“Idha mayaṃ, bhante, yadā rājā pasenadi kosalo uyyānabhūmiṃ niyyātukāmo "
+"hoti, ye te rañño pasenadissa kosalassa nāgā opavayhā te kappetvā, yā tā "
+"rañño pasenadissa kosalassa pajāpatiyo piyā manāpā tā ekaṃ purato ekaṃ "
+"pacchato nisīdāpema."
+msgstr ""
+
+# BB renders both bhagini and kañña as “lady”. I am not sure of the significance of bhagini here: does it mean they are actually sisters (as Maya and Majapajapati)? Or is is simply an honorific?
+msgctxt "sn55.6:15.2"
+msgid ""
+"Tāsaṃ kho pana, bhante, bhaginīnaṃ evarūpo gandho hoti, seyyathāpi nāma "
+"gandhakaraṇḍakassa tāvadeva vivariyamānassa, yathā taṃ rājakaññānaṃ gandhena "
+"vibhūsitānaṃ."
+msgstr ""
+
+# The exact sense of sukhedhita is a little obscure. i think BB’s “delicately nurtured” is derived from MN 82/Pj1. However at Ja 547 we have “Yassā mudutalā hatthā, caraṇā ca sukhedhitā; … Yassā mudutalā pādā, caraṇā ca sukhedhitā;” and at Ja 543 “hatthapādā sukhedhitā”. In neither case does the concept of “nurtured” seem relevant; the point is simply that their feet and hands, or their life, is “delicate”.
+msgctxt "sn55.6:15.3"
+msgid ""
+"Tāsaṃ kho pana, bhante, bhaginīnaṃ evarūpo kāyasamphasso hoti, seyyathāpi "
+"nāma tūlapicuno vā kappāsapicuno vā, yathā taṃ rājakaññānaṃ sukhedhitānaṃ."
+msgstr ""
+
+msgctxt "sn55.6:15.4"
+msgid ""
+"Tasmiṃ kho pana, bhante, samaye nāgopi rakkhitabbo hoti, tāpi bhaginiyo "
+"rakkhitabbā honti, attāpi rakkhitabbo hoti."
+msgstr ""
+
+msgctxt "sn55.6:15.5"
+msgid ""
+"Na kho pana mayaṃ, bhante, abhijānāma tāsu bhaginīsu pāpakaṃ cittaṃ uppādetā."
+msgstr ""
+
+msgctxt "sn55.6:15.6"
+msgid ""
+"Ayaṃ kho no, bhante, etamhā sambādhā añño sambādho sambādhataro ceva "
+"sambādhasaṅkhātataro cā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc16"></a>
+msgctxt "sn55.6:16.1"
+msgid ""
+"“Tasmātiha, thapatayo, sambādho gharāvāso rajāpatho, abbhokāso pabbajjā."
+msgstr ""
+
+msgctxt "sn55.6:16.2"
+msgid "Alañca pana vo, thapatayo, appamādāya."
+msgstr ""
+
+msgctxt "sn55.6:16.3"
+msgid ""
+"Catūhi kho, thapatayo, dhammehi samannāgato ariyasāvako sotāpanno hoti "
+"avinipātadhammo niyato sambodhiparāyaṇo."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli5.352"></a>
+#. <a class="sc" id="sc17"></a>
+msgctxt "sn55.6:17.1"
+msgid "Katamehi catūhi?"
+msgstr ""
+
+msgctxt "sn55.6:17.2"
+msgid "Idha, thapatayo, ariyasāvako buddhe aveccappasādena samannāgato hoti—"
+msgstr ""
+
+msgctxt "sn55.6:17.3"
+msgid "itipi so bhagavā … pe … satthā devamanussānaṃ buddho bhagavāti."
+msgstr ""
+
+msgctxt "sn55.6:17.4"
+msgid "Dhamme … pe …"
+msgstr ""
+
+msgctxt "sn55.6:17.5"
+msgid "saṅghe … pe …"
+msgstr ""
+
+msgctxt "sn55.6:17.6"
+msgid ""
+"vigatamalamaccherena cetasā ajjhāgāraṃ vasati muttacāgo payatapāṇi "
+"vossaggarato yācayogo dānasaṃvibhāgarato."
+msgstr ""
+
+msgctxt "sn55.6:17.7"
+msgid ""
+"Imehi kho, thapatayo, catūhi dhammehi samannāgato ariyasāvako sotāpanno hoti "
+"avinipātadhammo niyato sambodhiparāyaṇo."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc18"></a>
+msgctxt "sn55.6:18.1"
+msgid "Tumhe kho, thapatayo, buddhe aveccappasādena samannāgatā—"
+msgstr ""
+
+msgctxt "sn55.6:18.2"
+msgid "itipi so bhagavā … pe … satthā devamanussānaṃ buddho bhagavāti."
+msgstr ""
+
+msgctxt "sn55.6:18.3"
+msgid "Dhamme … pe …"
+msgstr ""
+
+msgctxt "sn55.6:18.4"
+msgid "saṅghe … pe …"
+msgstr ""
+
+msgctxt "sn55.6:18.5"
+msgid ""
+"yaṃ kho pana kiñci kule deyyadhammaṃ sabbaṃ taṃ appaṭivibhattaṃ sīlavantehi "
+"kalyāṇadhammehi."
+msgstr ""
+
+msgctxt "sn55.6:18.6"
+msgid "Taṃ kiṃ maññatha, thapatayo, "
+msgstr ""
+
+msgctxt "sn55.6:18.7"
+msgid "katividhā te kosalesu manussā ye tumhākaṃ samasamā, yadidaṃ—"
+msgstr ""
+
+msgctxt "sn55.6:18.8"
+msgid "dānasaṃvibhāge”ti?"
+msgstr ""
+
+msgctxt "sn55.6:18.9"
+msgid "“Lābhā no, bhante, suladdhaṃ no, bhante."
+msgstr ""
+
+msgctxt "sn55.6:18.10"
+msgid "Yesaṃ no bhagavā evaṃ pajānātī”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn55.6:18.11"
+msgid "Chaṭṭhaṃ."
+msgstr ""

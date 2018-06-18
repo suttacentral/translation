@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn7.12.pot\n"
+"X-Pootle-Revision: 21022\n"
+
+#. <section class="sutta" id="sn7.12"><article><div class="hgroup"><p class="division">
+msgctxt "sn7.12:0.1"
+msgid "Saṃyutta Nikāya 7"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn7.12:0.2"
+msgid "2. Upāsakavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn7.12:0.3"
+msgid "12. Udayasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts1ed" id="pts1ed1.174"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn7.12:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+msgctxt "sn7.12:1.2"
+msgid ""
+"Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena udayassa "
+"brāhmaṇassa nivesanaṃ tenupasaṅkami."
+msgstr ""
+
+msgctxt "sn7.12:1.3"
+msgid "Atha kho udayo brāhmaṇo bhagavato pattaṃ odanena pūresi."
+msgstr ""
+
+# As BB notes, dutiyampi here must mean the next day, so why not translate it thus?
+msgctxt "sn7.12:1.4"
+msgid ""
+"Dutiyampi kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena "
+"udayassa brāhmaṇassa nivesanaṃ tenupasaṅkami … pe …"
+msgstr ""
+
+msgctxt "sn7.12:1.5"
+msgid ""
+"tatiyampi kho udayo brāhmaṇo bhagavato pattaṃ odanena pūretvā bhagavantaṃ "
+"etadavoca:"
+msgstr ""
+
+# To trace pakatthaka, as PTS dict and BB do, to Skt prakṛṣ in the sense “disturb” seems unnecessary, and conflicts with the commentary. Surely we are better adopting the PTS dicts suggestion to associate this with kaṭṭha2 “bad, useless”, but more specifically, empty, pithless, like a reed or bamboo (see katthaka). While BB and PTS both mention the Skt prakarṣaka here in the sense of “harasser, disquieter”, this is in fact a name of the god of love, and so fits well with the idea of someone whose appetites are unquenchable. This then agrees with the Comm, rasagiddha.
+msgctxt "sn7.12:1.6"
+msgid "“pakaṭṭhakoyaṃ samaṇo gotamo punappunaṃ āgacchatī”ti."
+msgstr ""
+
+#. </p><blockquote class="gatha"><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn7.12:2.1"
+msgid "“Punappunañceva vapanti bījaṃ,"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:2.2"
+msgid "Punappunaṃ vassati devarājā;"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:2.3"
+msgid "Punappunaṃ khettaṃ kasanti kassakā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:2.4"
+msgid "Punappunaṃ dhaññamupeti raṭṭhaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts2ed" id="pts2ed1.374"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn7.12:3.1"
+msgid "Punappunaṃ yācakā yācayanti,"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:3.2"
+msgid "Punappunaṃ dānapatī dadanti;"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:3.3"
+msgid "Punappunaṃ dānapatī daditvā,"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:3.4"
+msgid "Punappunaṃ saggamupenti ṭhānaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn7.12:4.1"
+msgid "Punappunaṃ khīranikā duhanti,"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:4.2"
+msgid "Punappunaṃ vaccho upeti mātaraṃ;"
+msgstr ""
+
+# BB uses these in their normal sense here, “weary and tremble”. However, when they occur together, as at SN 24.6, SN 42.23, and so on, they apply to criminal deeds, which I have rendered “oppress and intimidate”. BB has the same in that context. This fits here, as it is the kamma that immediately precedes the “fool” getting reborn.
+#. <br>
+msgctxt "sn7.12:4.3"
+msgid "Punappunaṃ kilamati phandati ca,"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:4.4"
+msgid "Punappunaṃ gabbhamupeti mando."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn7.12:5.1"
+msgid "Punappunaṃ jāyati mīyati ca,"
+msgstr ""
+
+#. <br>
+#. VAR: sivathikaṃ → sīvathikaṃ (bj, s1-3, km, pts1-2)
+msgctxt "sn7.12:5.2"
+msgid "Punappunaṃ sivathikaṃ haranti;"
+msgstr ""
+
+#. <br>
+msgctxt "sn7.12:5.3"
+msgid "Maggañca laddhā apunabbhavāya,"
+msgstr ""
+
+#. <br>
+#. VAR: punappunaṃ jāyati bhūripañño”ti → punappunaṃ jāyati bhūripaññoti (s1-3, km, pts1, mr)
+msgctxt "sn7.12:5.4"
+msgid "Na punappunaṃ jāyati bhūripañño”ti."
+msgstr ""
+
+#. </p></blockquote><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn7.12:6.1"
+msgid "Evaṃ vutte, udayo brāhmaṇo bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn7.12:6.2"
+msgid "“abhikkantaṃ, bho gotama … pe …"
+msgstr ""
+
+msgctxt "sn7.12:6.3"
+msgid ""
+"upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti."
+msgstr ""

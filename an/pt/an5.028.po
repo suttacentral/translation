@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/an/an5.028.po\n"
+"X-Pootle-Revision: 29963\n"
+
+#. <section class="sutta" id="an5.28"><article><div class="hgroup"><p class="division">
+msgctxt "an5.28:0.1"
+msgid "Aṅguttara Nikāya 5"
+msgstr ""
+
+#. </p><p>
+msgctxt "an5.28:0.2"
+msgid "3. Pañcaṅgikavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: pañcaṅgikasamādhisuttaṃ (bj)
+msgctxt "an5.28:0.3"
+msgid "28. Pañcaṅgikasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.25"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an5.28:1.1"
+msgid "“Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa bhāvanaṃ desessāmi."
+msgstr ""
+
+msgctxt "an5.28:1.2"
+msgid "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti."
+msgstr ""
+
+msgctxt "an5.28:1.3"
+msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ."
+msgstr ""
+
+msgctxt "an5.28:1.4"
+msgid "Bhagavā etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an5.28:2.1"
+msgid "“Katamā ca, bhikkhave, ariyassa pañcaṅgikassa sammāsamādhissa bhāvanā?"
+msgstr ""
+
+msgctxt "an5.28:2.2"
+msgid ""
+"Idha, bhikkhave, bhikkhu vivicceva kāmehi … pe … paṭhamaṃ jhānaṃ upasampajja "
+"viharati."
+msgstr ""
+
+# From the passage on charnel ground contemplations (MN 10, etc) we can see that imameva kaya specifically means “one’s own body” as opposed to the bodies of others.
+msgctxt "an5.28:2.3"
+msgid ""
+"So imameva kāyaṃ vivekajena pītisukhena abhisandeti parisandeti paripūreti "
+"parippharati; nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ "
+"hoti."
+msgstr ""
+
+#. VAR: nhāpako → nahāpako (bj, pts1)
+#. VAR: nhānīyacuṇṇāni → nahāniyacuṇṇāni (bj, pts1) | nhāniyacuṇṇāni (s1-3)
+#. VAR: Sāyaṃ → saṃsā (si) | sā’ssa (pts1)
+#. VAR: nhānīyapiṇḍi → nahāniyapiṇḍi (bj, s1-3, km, pts1)
+#. VAR: paggharinī → paggharati (s1-3, pts1)
+msgctxt "an5.28:2.4"
+msgid ""
+"Seyyathāpi, bhikkhave, dakkho nhāpako vā nhāpakantevāsī vā kaṃsathāle "
+"nhānīyacuṇṇāni ākiritvā udakena paripphosakaṃ paripphosakaṃ sanneyya. Sāyaṃ "
+"nhānīyapiṇḍi snehānugatā snehaparetā santarabāhirā phuṭā snehena, na ca "
+"paggharinī."
+msgstr ""
+
+msgctxt "an5.28:2.5"
+msgid ""
+"Evamevaṃ kho, bhikkhave, bhikkhu imameva kāyaṃ vivekajena pītisukhena "
+"abhisandeti parisandeti paripūreti parippharati;"
+msgstr ""
+
+msgctxt "an5.28:2.6"
+msgid "nāssa kiñci sabbāvato kāyassa vivekajena pītisukhena apphuṭaṃ hoti."
+msgstr ""
+
+msgctxt "an5.28:2.7"
+msgid ""
+"Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṃ paṭhamā bhāvanā. (1)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.26"></a>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an5.28:3.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā … pe … dutiyaṃ "
+"jhānaṃ upasampajja viharati."
+msgstr ""
+
+msgctxt "an5.28:3.2"
+msgid ""
+"So imameva kāyaṃ samādhijena pītisukhena abhisandeti parisandeti paripūreti "
+"parippharati;"
+msgstr ""
+
+msgctxt "an5.28:3.3"
+msgid "nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti."
+msgstr ""
+
+#. VAR: ubbhidodako → ubbhitodako (s1-3, km, mr)
+#. VAR: dhāraṃ nānuppaveccheyya → devo ca na kālena … anuppaveccheyya (pts1)
+msgctxt "an5.28:3.4"
+msgid ""
+"Seyyathāpi, bhikkhave, udakarahado gambhīro ubbhidodako. Tassa nevassa "
+"puratthimāya disāya udakassa āyamukhaṃ, na pacchimāya disāya udakassa "
+"āyamukhaṃ, na uttarāya disāya udakassa āyamukhaṃ, na dakkhiṇāya disāya "
+"udakassa āyamukhaṃ, devo ca kālena kālaṃ sammā dhāraṃ nānuppaveccheyya."
+msgstr ""
+
+msgctxt "an5.28:3.5"
+msgid ""
+"Atha kho tamhāva udakarahadā sītā vāridhārā ubbhijjitvā tameva udakarahadaṃ "
+"sītena vārinā abhisandeyya parisandeyya paripūreyya paripphareyya; nāssa "
+"kiñci sabbāvato udakarahadassa sītena vārinā apphuṭaṃ assa."
+msgstr ""
+
+msgctxt "an5.28:3.6"
+msgid ""
+"Evamevaṃ kho, bhikkhave, bhikkhu imameva kāyaṃ samādhijena pītisukhena "
+"abhisandeti parisandeti paripūreti parippharati;"
+msgstr ""
+
+msgctxt "an5.28:3.7"
+msgid "nāssa kiñci sabbāvato kāyassa samādhijena pītisukhena apphuṭaṃ hoti."
+msgstr ""
+
+msgctxt "an5.28:3.8"
+msgid ""
+"Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṃ dutiyā bhāvanā. (2)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an5.28:4.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu pītiyā ca virāgā … pe … tatiyaṃ jhānaṃ "
+"upasampajja viharati."
+msgstr ""
+
+msgctxt "an5.28:4.2"
+msgid ""
+"So imameva kāyaṃ nippītikena sukhena abhisandeti parisandeti paripūreti "
+"parippharati;"
+msgstr ""
+
+msgctxt "an5.28:4.3"
+msgid "nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti."
+msgstr ""
+
+msgctxt "an5.28:4.4"
+msgid ""
+"Seyyathāpi, bhikkhave, uppaliniyaṃ vā paduminiyaṃ vā puṇḍarīkiniyaṃ vā "
+"appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake "
+"saṃvaḍḍhāni udakānuggatāni anto nimuggaposīni."
+msgstr ""
+
+msgctxt "an5.28:4.5"
+msgid ""
+"Tāni yāva caggā yāva ca mūlā sītena vārinā abhisannāni parisannāni "
+"paripūrāni paripphuṭāni;"
+msgstr ""
+
+msgctxt "an5.28:4.6"
+msgid ""
+"nāssa kiñci sabbāvataṃ uppalānaṃ vā padumānaṃ vā puṇḍarīkānaṃ vā sītena "
+"vārinā apphuṭaṃ assa."
+msgstr ""
+
+msgctxt "an5.28:4.7"
+msgid ""
+"Evamevaṃ kho, bhikkhave, bhikkhu imameva kāyaṃ nippītikena sukhena "
+"abhisandeti parisandeti paripūreti parippharati;"
+msgstr ""
+
+msgctxt "an5.28:4.8"
+msgid "nāssa kiñci sabbāvato kāyassa nippītikena sukhena apphuṭaṃ hoti."
+msgstr ""
+
+msgctxt "an5.28:4.9"
+msgid ""
+"Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṃ tatiyā bhāvanā. (3)"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.27"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an5.28:5.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhu sukhassa ca pahānā … pe … catutthaṃ jhānaṃ "
+"upasampajja viharati."
+msgstr ""
+
+msgctxt "an5.28:5.2"
+msgid ""
+"So imameva kāyaṃ parisuddhena cetasā pariyodātena pharitvā nisinno hoti;"
+msgstr ""
+
+msgctxt "an5.28:5.3"
+msgid ""
+"nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti."
+msgstr ""
+
+msgctxt "an5.28:5.4"
+msgid ""
+"Seyyathāpi, bhikkhave, puriso odātena vatthena sasīsaṃ pārupitvā nisinno "
+"assa;"
+msgstr ""
+
+msgctxt "an5.28:5.5"
+msgid "nāssa kiñci sabbāvato kāyassa odātena vatthena apphuṭaṃ assa."
+msgstr ""
+
+msgctxt "an5.28:5.6"
+msgid ""
+"Evamevaṃ kho, bhikkhave, bhikkhu imameva kāyaṃ parisuddhena cetasā "
+"pariyodātena pharitvā nisinno hoti;"
+msgstr ""
+
+msgctxt "an5.28:5.7"
+msgid ""
+"nāssa kiñci sabbāvato kāyassa parisuddhena cetasā pariyodātena apphuṭaṃ hoti."
+msgstr ""
+
+msgctxt "an5.28:5.8"
+msgid ""
+"Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṃ catutthā bhāvanā. (4)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an5.28:6.1"
+msgid ""
+"Puna caparaṃ, bhikkhave, bhikkhuno paccavekkhaṇānimittaṃ suggahitaṃ hoti "
+"sumanasikataṃ sūpadhāritaṃ suppaṭividdhaṃ paññāya."
+msgstr ""
+
+#. VAR: aññova aññaṃ → añño vā aññaṃ (bj, s1-3, km) | añño vā aññaṃ vā (si) | añño aññaṃ (?)
+msgctxt "an5.28:6.2"
+msgid ""
+"Seyyathāpi, bhikkhave, aññova aññaṃ paccavekkheyya, ṭhito vā nisinnaṃ "
+"paccavekkheyya, nisinno vā nipannaṃ paccavekkheyya."
+msgstr ""
+
+msgctxt "an5.28:6.3"
+msgid ""
+"Evamevaṃ kho, bhikkhave, bhikkhuno paccavekkhaṇānimittaṃ suggahitaṃ hoti "
+"sumanasikataṃ sūpadhāritaṃ suppaṭividdhaṃ paññāya."
+msgstr ""
+
+#. VAR: pañcamā → pañcamī (bj)
+msgctxt "an5.28:6.4"
+msgid ""
+"Ariyassa, bhikkhave, pañcaṅgikassa sammāsamādhissa ayaṃ pañcamā bhāvanā. (5)"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+#. VAR: kho, bhikkhave, bhikkhu → evaṃ bhāvite kho bhikkhave (s1-3)
+msgctxt "an5.28:7.1"
+msgid ""
+"Evaṃ bhāvite kho, bhikkhave, bhikkhu ariye pañcaṅgike sammāsamādhimhi evaṃ "
+"bahulīkate yassa yassa abhiññāsacchikaraṇīyassa dhammassa cittaṃ "
+"abhininnāmeti abhiññāsacchikiriyāya, tatra tatreva sakkhibhabbataṃ pāpuṇāti "
+"sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.28"></a>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an5.28:8.1"
+msgid ""
+"Seyyathāpi, bhikkhave, udakamaṇiko ādhāre ṭhapito pūro udakassa samatittiko "
+"kākapeyyo."
+msgstr ""
+
+#. VAR: āvajjeyya → āvaṭṭeyya (s1-3, km)
+msgctxt "an5.28:8.2"
+msgid "Tamenaṃ balavā puriso yato yato āvajjeyya, āgaccheyya udakan”ti?"
+msgstr ""
+
+msgctxt "an5.28:8.3"
+msgid "“Evaṃ, bhante”."
+msgstr ""
+
+msgctxt "an5.28:8.4"
+msgid ""
+"“Evamevaṃ kho, bhikkhave, bhikkhu evaṃ bhāvite ariye pañcaṅgike "
+"sammāsamādhimhi evaṃ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa "
+"dhammassa cittaṃ abhininnāmeti abhiññāsacchikiriyāya, tatra tatreva "
+"sakkhibhabbataṃ pāpuṇāti sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an5.28:9.1"
+msgid ""
+"Seyyathāpi, bhikkhave, same bhūmibhāge pokkharaṇī caturaṃsā ālibaddhā pūrā "
+"udakassa samatittikā kākapeyyā."
+msgstr ""
+
+msgctxt "an5.28:9.2"
+msgid "Tamenaṃ balavā puriso yato yato āliṃ muñceyya, āgaccheyya udakan”ti?"
+msgstr ""
+
+msgctxt "an5.28:9.3"
+msgid "“Evaṃ, bhante”."
+msgstr ""
+
+msgctxt "an5.28:9.4"
+msgid ""
+"“Evamevaṃ kho, bhikkhave, bhikkhu evaṃ bhāvite ariye pañcaṅgike "
+"sammāsamādhimhi evaṃ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa "
+"dhammassa … pe … sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+#. VAR: catumahāpathe → cātummahāpathe (bj, pts1) | catummahāpathe (s1-3, km)
+msgctxt "an5.28:10.1"
+msgid ""
+"Seyyathāpi, bhikkhave, subhūmiyaṃ catumahāpathe ājaññaratho yutto assa ṭhito "
+"odhastapatodo."
+msgstr ""
+
+msgctxt "an5.28:10.2"
+msgid ""
+"Tamenaṃ dakkho yoggācariyo assadammasārathi abhiruhitvā vāmena hatthena "
+"rasmiyo gahetvā dakkhiṇena hatthena patodaṃ gahetvā yenicchakaṃ yadicchakaṃ "
+"sāreyyapi paccāsāreyyapi."
+msgstr ""
+
+msgctxt "an5.28:10.3"
+msgid ""
+"Evamevaṃ kho, bhikkhave, bhikkhu evaṃ bhāvite ariye pañcaṅgike "
+"sammāsamādhimhi evaṃ bahulīkate yassa yassa abhiññāsacchikaraṇīyassa "
+"dhammassa cittaṃ abhininnāmeti abhiññāsacchikiriyāya, "
+msgstr ""
+
+msgctxt "an5.28:10.4"
+msgid "tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.29"></a>
+#. <a class="sc" id="sc11"></a>
+msgctxt "an5.28:11.1"
+msgid ""
+"So sace ākaṅkhati: ‘anekavihitaṃ iddhividhaṃ paccanubhaveyyaṃ—ekopi hutvā "
+"bahudhā assaṃ … pe … yāva brahmalokāpi kāyena vasaṃ vatteyyan’ti, "
+msgstr ""
+
+msgctxt "an5.28:11.2"
+msgid "tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an5.28:12.1"
+msgid ""
+"So sace ākaṅkhati: ‘dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho "
+"sadde suṇeyyaṃ—dibbe ca mānuse ca ye dūre santike cā’ti, "
+msgstr ""
+
+msgctxt "an5.28:12.2"
+msgid "tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "an5.28:13.1"
+msgid ""
+"So sace ākaṅkhati: ‘parasattānaṃ parapuggalānaṃ cetasā ceto paricca "
+"pajāneyyaṃ—sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajāneyyaṃ, vītarāgaṃ vā "
+"cittaṃ vītarāgaṃ cittanti pajāneyyaṃ, sadosaṃ vā cittaṃ … vītadosaṃ vā "
+"cittaṃ … samohaṃ vā cittaṃ … vītamohaṃ vā cittaṃ … saṅkhittaṃ vā cittaṃ … "
+"vikkhittaṃ vā cittaṃ … mahaggataṃ vā cittaṃ … amahaggataṃ vā cittaṃ … "
+"sauttaraṃ vā cittaṃ … anuttaraṃ vā cittaṃ … samāhitaṃ vā cittaṃ … asamāhitaṃ "
+"vā cittaṃ … vimuttaṃ vā cittaṃ … avimuttaṃ vā cittaṃ avimuttaṃ cittanti "
+"pajāneyyan’ti, "
+msgstr ""
+
+msgctxt "an5.28:13.2"
+msgid "tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+msgctxt "an5.28:14.1"
+msgid ""
+"So sace ākaṅkhati: ‘anekavihitaṃ pubbenivāsaṃ anussareyyaṃ, seyyathidaṃ—"
+"ekampi jātiṃ, dvepi jātiyo … pe … iti sākāraṃ sauddesaṃ anekavihitaṃ "
+"pubbenivāsaṃ anussareyyan’ti, "
+msgstr ""
+
+msgctxt "an5.28:14.2"
+msgid "tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc15"></a>
+msgctxt "an5.28:15.1"
+msgid ""
+"So sace ākaṅkhati: ‘dibbena cakkhunā visuddhena atikkantamānusakena … pe … "
+"yathākammūpage satte pajāneyyan’ti, "
+msgstr ""
+
+msgctxt "an5.28:15.2"
+msgid "tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc16"></a>
+msgctxt "an5.28:16.1"
+msgid ""
+"So sace ākaṅkhati: ‘āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ "
+"diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyyan’ti, "
+msgstr ""
+
+msgctxt "an5.28:16.2"
+msgid "tatra tatreva sakkhibhabbataṃ pāpuṇāti sati sati āyatane”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an5.28:16.3"
+msgid "Aṭṭhamaṃ."
+msgstr ""

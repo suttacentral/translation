@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an5.194.pot\n"
+"X-Pootle-Revision: 13942\n"
+
+#. <section class="sutta" id="an5.194"><article><div class="hgroup"><p class="division">
+msgctxt "an5.194:0.1"
+msgid "Aṅguttara Nikāya 5"
+msgstr ""
+
+#. </p><p>
+msgctxt "an5.194:0.2"
+msgid "20. Brāhmaṇavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an5.194:0.3"
+msgid "194. Kāraṇapālīsutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.237"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an5.194:1.1"
+msgid "Ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ."
+msgstr ""
+
+#. VAR: kāraṇapālī → karaṇapālī (mr)
+msgctxt "an5.194:1.2"
+msgid ""
+"Tena kho pana samayena kāraṇapālī brāhmaṇo licchavīnaṃ kammantaṃ kāreti."
+msgstr ""
+
+msgctxt "an5.194:1.3"
+msgid ""
+"Addasā kho kāraṇapālī brāhmaṇo piṅgiyāniṃ brāhmaṇaṃ dūratova āgacchantaṃ;"
+msgstr ""
+
+msgctxt "an5.194:1.4"
+msgid "disvā piṅgiyāniṃ brāhmaṇaṃ etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an5.194:2.1"
+msgid "“Handa kuto nu bhavaṃ piṅgiyānī āgacchati divā divassā”ti?"
+msgstr ""
+
+msgctxt "an5.194:2.2"
+msgid "“Itohaṃ, bho, āgacchāmi samaṇassa gotamassa santikā”ti."
+msgstr ""
+
+msgctxt "an5.194:2.3"
+msgid ""
+"“Taṃ kiṃ maññati bhavaṃ piṅgiyānī samaṇassa gotamassa paññāveyyattiyaṃ? "
+"Paṇḍito maññe”ti?"
+msgstr ""
+
+msgctxt "an5.194:2.4"
+msgid "“Ko cāhaṃ, bho, ko ca samaṇassa gotamassa paññāveyyattiyaṃ jānissāmi."
+msgstr ""
+
+msgctxt "an5.194:2.5"
+msgid ""
+"Sopi nūnassa tādisova yo samaṇassa gotamassa paññāveyyattiyaṃ jāneyyā”ti."
+msgstr ""
+
+msgctxt "an5.194:2.6"
+msgid "“Uḷārāya khalu bhavaṃ piṅgiyānī samaṇaṃ gotamaṃ pasaṃsāya pasaṃsatī”ti."
+msgstr ""
+
+msgctxt "an5.194:2.7"
+msgid "“Ko cāhaṃ, bho, ko ca samaṇaṃ gotamaṃ pasaṃsissāmi."
+msgstr ""
+
+#. VAR: Pasatthappasatthova → pasaṭṭhapasaṭṭho ca (s1-3, km, mr) | pasatthapasatho va (pts1)
+msgctxt "an5.194:2.8"
+msgid "Pasatthappasatthova so bhavaṃ gotamo seṭṭho devamanussānan”ti."
+msgstr ""
+
+msgctxt "an5.194:2.9"
+msgid ""
+"“Kiṃ pana bhavaṃ piṅgiyānī atthavasaṃ sampassamāno samaṇe gotame evaṃ "
+"abhippasanno”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an5.194:3.1"
+msgid ""
+"“Seyyathāpi, bho, puriso aggarasaparititto na aññesaṃ hīnānaṃ rasānaṃ piheti;"
+msgstr ""
+
+msgctxt "an5.194:3.2"
+msgid "evamevaṃ kho, bho, yato yato tassa bhoto gotamassa dhammaṃ suṇāti—"
+msgstr ""
+
+# BB notes this occurrence of the 4 angas, and mentions two possible explanations. He omits a third possibility: that the text is corrupt.
+msgctxt "an5.194:3.3"
+msgid "yadi suttaso, yadi geyyaso, yadi veyyākaraṇaso, yadi abbhutadhammaso—"
+msgstr ""
+
+msgctxt "an5.194:3.4"
+msgid "tato tato na aññesaṃ puthusamaṇabrāhmaṇappavādānaṃ piheti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an5.194:4.1"
+msgid ""
+"Seyyathāpi, bho, puriso jighacchādubbalyapareto madhupiṇḍikaṃ adhigaccheyya."
+msgstr ""
+
+msgctxt "an5.194:4.2"
+msgid "So yato yato sāyetha, labhateva sādurasaṃ asecanakaṃ;"
+msgstr ""
+
+msgctxt "an5.194:4.3"
+msgid "evamevaṃ kho, bho, yato yato tassa bhoto gotamassa dhammaṃ suṇāti—"
+msgstr ""
+
+msgctxt "an5.194:4.4"
+msgid "yadi suttaso, yadi geyyaso, yadi veyyākaraṇaso, yadi abbhutadhammaso—"
+msgstr ""
+
+msgctxt "an5.194:4.5"
+msgid "tato tato labhateva attamanataṃ, labhati cetaso pasādaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.238"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an5.194:5.1"
+msgid "Seyyathāpi, bho, puriso candanaghaṭikaṃ adhigaccheyya—"
+msgstr ""
+
+msgctxt "an5.194:5.2"
+msgid "haricandanassa vā lohitacandanassa vā."
+msgstr ""
+
+msgctxt "an5.194:5.3"
+msgid "So yato yato ghāyetha—"
+msgstr ""
+
+msgctxt "an5.194:5.4"
+msgid "yadi mūlato, yadi majjhato, yadi aggato—"
+msgstr ""
+
+#. VAR: adhigacchateva → adhigacchetheva (?)
+msgctxt "an5.194:5.5"
+msgid "adhigacchateva surabhigandhaṃ asecanakaṃ;"
+msgstr ""
+
+msgctxt "an5.194:5.6"
+msgid "evamevaṃ kho, bho, yato yato tassa bhoto gotamassa dhammaṃ suṇāti—"
+msgstr ""
+
+msgctxt "an5.194:5.7"
+msgid "yadi suttaso, yadi geyyaso, yadi veyyākaraṇaso, yadi abbhutadhammaso—"
+msgstr ""
+
+msgctxt "an5.194:5.8"
+msgid "tato tato adhigacchati pāmojjaṃ adhigacchati somanassaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an5.194:6.1"
+msgid "Seyyathāpi, bho, puriso ābādhiko dukkhito bāḷhagilāno."
+msgstr ""
+
+msgctxt "an5.194:6.2"
+msgid "Tassa kusalo bhisakko ṭhānaso ābādhaṃ nīhareyya;"
+msgstr ""
+
+msgctxt "an5.194:6.3"
+msgid "evamevaṃ kho, bho, yato yato tassa bhoto gotamassa dhammaṃ suṇāti—"
+msgstr ""
+
+msgctxt "an5.194:6.4"
+msgid "yadi suttaso, yadi geyyaso, yadi veyyākaraṇaso, yadi abbhutadhammaso—"
+msgstr ""
+
+msgctxt "an5.194:6.5"
+msgid "tato tato sokaparidevadukkhadomanassupāyāsā abbhatthaṃ gacchanti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an5.194:7.1"
+msgid ""
+"Seyyathāpi, bho, pokkharaṇī acchodakā sātodakā sītodakā setakā supatitthā "
+"ramaṇīyā."
+msgstr ""
+
+msgctxt "an5.194:7.2"
+msgid ""
+"Atha puriso āgaccheyya ghammābhitatto ghammapareto kilanto tasito pipāsito."
+msgstr ""
+
+msgctxt "an5.194:7.3"
+msgid ""
+"So taṃ pokkharaṇiṃ ogāhetvā nhātvā ca pivitvā ca "
+"sabbadarathakilamathapariḷāhaṃ paṭippassambheyya."
+msgstr ""
+
+msgctxt "an5.194:7.4"
+msgid "Evamevaṃ kho, bho, yato yato tassa bhoto gotamassa dhammaṃ suṇāti—"
+msgstr ""
+
+msgctxt "an5.194:7.5"
+msgid "yadi suttaso, yadi geyyaso, yadi veyyākaraṇaso, yadi abbhutadhammaso—"
+msgstr ""
+
+msgctxt "an5.194:7.6"
+msgid "tato tato sabbadarathakilamathapariḷāhā paṭippassambhantī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "an5.194:8.1"
+msgid ""
+"Evaṃ vutte, kāraṇapālī brāhmaṇo uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā "
+"dakkhiṇaṃ jāṇumaṇḍalaṃ pathaviyaṃ nihantvā yena bhagavā tenañjaliṃ paṇāmetvā "
+"tikkhattuṃ udānaṃ udānesi:"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "an5.194:9.1"
+msgid "“Namo tassa bhagavato arahato sammāsambuddhassa."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "an5.194:10.1"
+msgid "Namo tassa bhagavato arahato sammāsambuddhassa."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "an5.194:11.1"
+msgid "Namo tassa bhagavato arahato sammāsambuddhassāti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.239"></a>
+#. <a class="sc" id="sc12"></a>
+msgctxt "an5.194:12.1"
+msgid "Abhikkantaṃ, bho piṅgiyāni, abhikkantaṃ, bho piṅgiyāni."
+msgstr ""
+
+#. VAR: nikkujjitaṃ → nikujjitaṃ (mr)
+msgctxt "an5.194:12.2"
+msgid ""
+"Seyyathāpi, bho piṅgiyāni, nikkujjitaṃ vā ukkujjeyya paṭicchannaṃ vā "
+"vivareyya, mūḷhassa vā maggaṃ ācikkheyya andhakāre vā telapajjotaṃ dhāreyya: "
+"‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhotā piṅgiyāninā anekapariyāyena "
+"dhammo pakāsito."
+msgstr ""
+
+msgctxt "an5.194:12.3"
+msgid ""
+"Esāhaṃ, bho piṅgiyāni, taṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca "
+"bhikkhusaṃghañca."
+msgstr ""
+
+msgctxt "an5.194:12.4"
+msgid ""
+"Upāsakaṃ maṃ bhavaṃ piṅgiyānī dhāretu, ajjatagge pāṇupetaṃ saraṇaṃ gatan”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an5.194:12.5"
+msgid "Catutthaṃ."
+msgstr ""

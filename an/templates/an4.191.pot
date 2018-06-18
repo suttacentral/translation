@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an4.191.pot\n"
+"X-Pootle-Revision: 13380\n"
+
+#. <section class="sutta" id="an4.191"><article><div class="hgroup"><p class="division">
+msgctxt "an4.191:0.1"
+msgid "Aṅguttara Nikāya 4"
+msgstr ""
+
+#. </p><p>
+msgctxt "an4.191:0.2"
+msgid "20. Mahāvagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: sotānudhanasuttaṃ (bj)
+msgctxt "an4.191:0.3"
+msgid "191. Sotānugatasutta"
+msgstr ""
+
+# See BB’s note on variants here. Note that our text gives the BJ reading as sotānudhana, whereas BB says Ce reads sotānudhata. Also note that, in addition to the sources cited by BB, the Tika and Pe both support anugata. Anudhata in fact doesn’t appear to occur anywhere.
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+#. VAR: Sotānugatānaṃ → sotānudhanānaṃ (bj)
+msgctxt "an4.191:1.1"
+msgid ""
+"“Sotānugatānaṃ, bhikkhave, dhammānaṃ, vacasā paricitānaṃ, "
+"manasānupekkhitānaṃ, diṭṭhiyā suppaṭividdhānaṃ cattāro ānisaṃsā pāṭikaṅkhā."
+msgstr ""
+
+msgctxt "an4.191:1.2"
+msgid "Katame cattāro?"
+msgstr ""
+
+msgctxt "an4.191:1.3"
+msgid "Idha, bhikkhave, bhikkhu dhammaṃ pariyāpuṇāti—"
+msgstr ""
+
+msgctxt "an4.191:1.4"
+msgid ""
+"suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, "
+"abbhutadhammaṃ, vedallaṃ."
+msgstr ""
+
+msgctxt "an4.191:1.5"
+msgid ""
+"Tassa te dhammā sotānugatā honti, vacasā paricitā, manasānupekkhitā, "
+"diṭṭhiyā suppaṭividdhā."
+msgstr ""
+
+#. VAR: muṭṭhassati → muṭṭhassatī (bj)
+msgctxt "an4.191:1.6"
+msgid "So muṭṭhassati kālaṃ kurumāno aññataraṃ devanikāyaṃ upapajjati."
+msgstr ""
+
+# This is a curious and interesting phrase, see BB’s note. Here I have gone with the comms, though note that I don’t have Norman’s arguments with me. BB’s reading relies on a extremely rare grammatical form (neuter accusative plural in ā), and it just doesn’t read as well to me. I’m also not aware of any passage where the devas are sukhino. The comm interpretation is that the teachings are forgotten in the in-between state (!) and then “float back like shadows in a clear mirror”. (Dhammapadā plavantīti antarābhave nibbattamuṭṭhassatino, yepi pubbe sajjhāyamūlikā vācāparicitabuddhavacanadhammā, te sabbe pasanne ādāse chāyā viya plavanti, pākaṭā hutvā paññāyanti.) To me this makes psychological sense. I also thinks it fits better the structure of the text. To start with, sometimes memory spontaneously comes back. If not, something reminds you. But why would it come back hearing the teaching and not when the gods are speaking directly to you?
+#. VAR: plavanti → pilapanti (bj, s1-3, km, pts1)
+msgctxt "an4.191:1.7"
+msgid "Tassa tattha sukhino dhammapadā plavanti."
+msgstr ""
+
+msgctxt "an4.191:1.8"
+msgid "Dandho, bhikkhave, satuppādo;"
+msgstr ""
+
+msgctxt "an4.191:1.9"
+msgid "atha so satto khippaṃyeva visesagāmī hoti."
+msgstr ""
+
+msgctxt "an4.191:1.10"
+msgid ""
+"Sotānugatānaṃ, bhikkhave, dhammānaṃ, vacasā paricitānaṃ, "
+"manasānupekkhitānaṃ, diṭṭhiyā suppaṭividdhānaṃ ayaṃ paṭhamo ānisaṃso "
+"pāṭikaṅkho."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.186"></a>
+#. <a class="sc" id="sc2"></a>
+msgctxt "an4.191:2.1"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu dhammaṃ pariyāpuṇāti—"
+msgstr ""
+
+msgctxt "an4.191:2.2"
+msgid ""
+"suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, "
+"abbhutadhammaṃ, vedallaṃ."
+msgstr ""
+
+msgctxt "an4.191:2.3"
+msgid ""
+"Tassa te dhammā sotānugatā honti, vacasā paricitā, manasānupekkhitā, "
+"diṭṭhiyā suppaṭividdhā."
+msgstr ""
+
+msgctxt "an4.191:2.4"
+msgid "So muṭṭhassati kālaṃ kurumāno aññataraṃ devanikāyaṃ upapajjati."
+msgstr ""
+
+msgctxt "an4.191:2.5"
+msgid "Tassa tattha na heva kho sukhino dhammapadā plavanti;"
+msgstr ""
+
+msgctxt "an4.191:2.6"
+msgid "api ca kho bhikkhu iddhimā cetovasippatto devaparisāyaṃ dhammaṃ deseti."
+msgstr ""
+
+msgctxt "an4.191:2.7"
+msgid "Tassa evaṃ hoti:"
+msgstr ""
+
+msgctxt "an4.191:2.8"
+msgid "‘ayaṃ vā so dhammavinayo, yatthāhaṃ pubbe brahmacariyaṃ acarin’ti."
+msgstr ""
+
+msgctxt "an4.191:2.9"
+msgid "Dandho, bhikkhave, satuppādo;"
+msgstr ""
+
+msgctxt "an4.191:2.10"
+msgid "atha so satto khippameva visesagāmī hoti."
+msgstr ""
+
+msgctxt "an4.191:2.11"
+msgid "Seyyathāpi, bhikkhave, puriso kusalo bherisaddassa."
+msgstr ""
+
+msgctxt "an4.191:2.12"
+msgid "So addhānamaggappaṭipanno bherisaddaṃ suṇeyya."
+msgstr ""
+
+msgctxt "an4.191:2.13"
+msgid "Tassa na heva kho assa kaṅkhā vā vimati vā:"
+msgstr ""
+
+msgctxt "an4.191:2.14"
+msgid "‘bherisaddo nu kho, na nu kho bherisaddo’ti."
+msgstr ""
+
+msgctxt "an4.191:2.15"
+msgid "Atha kho bherisaddotveva niṭṭhaṃ gaccheyya."
+msgstr ""
+
+msgctxt "an4.191:2.16"
+msgid "Evamevaṃ kho, bhikkhave, bhikkhu dhammaṃ pariyāpuṇāti—"
+msgstr ""
+
+msgctxt "an4.191:2.17"
+msgid ""
+"suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, "
+"abbhutadhammaṃ, vedallaṃ."
+msgstr ""
+
+msgctxt "an4.191:2.18"
+msgid ""
+"Tassa te dhammā sotānugatā honti, vacasā paricitā, manasānupekkhitā, "
+"diṭṭhiyā suppaṭividdhā."
+msgstr ""
+
+msgctxt "an4.191:2.19"
+msgid "So muṭṭhassati kālaṃ kurumāno aññataraṃ devanikāyaṃ upapajjati."
+msgstr ""
+
+msgctxt "an4.191:2.20"
+msgid "Tassa tattha na heva kho sukhino dhammapadā plavanti;"
+msgstr ""
+
+msgctxt "an4.191:2.21"
+msgid "api ca kho bhikkhu iddhimā cetovasippatto devaparisāyaṃ dhammaṃ deseti."
+msgstr ""
+
+msgctxt "an4.191:2.22"
+msgid "Tassa evaṃ hoti:"
+msgstr ""
+
+msgctxt "an4.191:2.23"
+msgid "‘ayaṃ vā so dhammavinayo, yatthāhaṃ pubbe brahmacariyaṃ acarin’ti."
+msgstr ""
+
+msgctxt "an4.191:2.24"
+msgid "Dandho, bhikkhave, satuppādo;"
+msgstr ""
+
+msgctxt "an4.191:2.25"
+msgid "atha so satto khippaṃyeva visesagāmī hoti."
+msgstr ""
+
+msgctxt "an4.191:2.26"
+msgid ""
+"Sotānugatānaṃ, bhikkhave, dhammānaṃ, vacasā paricitānaṃ, "
+"manasānupekkhitānaṃ, diṭṭhiyā suppaṭividdhānaṃ ayaṃ dutiyo ānisaṃso "
+"pāṭikaṅkho."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an4.191:3.1"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu dhammaṃ pariyāpuṇāti—"
+msgstr ""
+
+msgctxt "an4.191:3.2"
+msgid ""
+"suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, "
+"abbhutadhammaṃ, vedallaṃ."
+msgstr ""
+
+msgctxt "an4.191:3.3"
+msgid ""
+"Tassa te dhammā sotānugatā honti, vacasā paricitā, manasānupekkhitā, "
+"diṭṭhiyā suppaṭividdhā."
+msgstr ""
+
+msgctxt "an4.191:3.4"
+msgid "So muṭṭhassati kālaṃ kurumāno aññataraṃ devanikāyaṃ upapajjati."
+msgstr ""
+
+msgctxt "an4.191:3.5"
+msgid ""
+"Tassa tattha na heva kho sukhino dhammapadā plavanti, napi bhikkhu iddhimā "
+"cetovasippatto devaparisāyaṃ dhammaṃ deseti;"
+msgstr ""
+
+msgctxt "an4.191:3.6"
+msgid "api ca kho devaputto devaparisāyaṃ dhammaṃ deseti."
+msgstr ""
+
+msgctxt "an4.191:3.7"
+msgid "Tassa evaṃ hoti:"
+msgstr ""
+
+msgctxt "an4.191:3.8"
+msgid "‘ayaṃ vā so dhammavinayo, yatthāhaṃ pubbe brahmacariyaṃ acarin’ti."
+msgstr ""
+
+msgctxt "an4.191:3.9"
+msgid "Dandho, bhikkhave, satuppādo;"
+msgstr ""
+
+msgctxt "an4.191:3.10"
+msgid "atha so satto khippaṃyeva visesagāmī hoti."
+msgstr ""
+
+msgctxt "an4.191:3.11"
+msgid "Seyyathāpi, bhikkhave, puriso kusalo saṅkhasaddassa."
+msgstr ""
+
+msgctxt "an4.191:3.12"
+msgid "So addhānamaggappaṭipanno saṅkhasaddaṃ suṇeyya."
+msgstr ""
+
+msgctxt "an4.191:3.13"
+msgid "Tassa na heva kho assa kaṅkhā vā vimati vā:"
+msgstr ""
+
+msgctxt "an4.191:3.14"
+msgid "‘saṅkhasaddo nu kho, na nu kho saṅkhasaddo’ti."
+msgstr ""
+
+msgctxt "an4.191:3.15"
+msgid "Atha kho saṅkhasaddotveva niṭṭhaṃ gaccheyya."
+msgstr ""
+
+msgctxt "an4.191:3.16"
+msgid "Evamevaṃ kho, bhikkhave, bhikkhu dhammaṃ pariyāpuṇāti—"
+msgstr ""
+
+msgctxt "an4.191:3.17"
+msgid ""
+"suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, "
+"abbhutadhammaṃ, vedallaṃ."
+msgstr ""
+
+msgctxt "an4.191:3.18"
+msgid ""
+"Tassa te dhammā sotānugatā honti, vacasā paricitā, manasānupekkhitā, "
+"diṭṭhiyā suppaṭividdhā."
+msgstr ""
+
+msgctxt "an4.191:3.19"
+msgid "So muṭṭhassati kālaṃ kurumāno aññataraṃ devanikāyaṃ upapajjati."
+msgstr ""
+
+msgctxt "an4.191:3.20"
+msgid ""
+"Tassa tattha na heva kho sukhino dhammapadā plavanti, napi bhikkhu iddhimā "
+"cetovasippatto devaparisāyaṃ dhammaṃ deseti;"
+msgstr ""
+
+msgctxt "an4.191:3.21"
+msgid "api ca kho devaputto devaparisāyaṃ dhammaṃ deseti."
+msgstr ""
+
+msgctxt "an4.191:3.22"
+msgid "Tassa evaṃ hoti:"
+msgstr ""
+
+msgctxt "an4.191:3.23"
+msgid "‘ayaṃ vā so dhammavinayo, yatthāhaṃ pubbe brahmacariyaṃ acarin’ti."
+msgstr ""
+
+msgctxt "an4.191:3.24"
+msgid "Dandho, bhikkhave, satuppādo;"
+msgstr ""
+
+msgctxt "an4.191:3.25"
+msgid "atha so satto khippaṃyeva visesagāmī hoti."
+msgstr ""
+
+msgctxt "an4.191:3.26"
+msgid ""
+"Sotānugatānaṃ, bhikkhave, dhammānaṃ, vacasā paricitānaṃ, "
+"manasānupekkhitānaṃ, diṭṭhiyā suppaṭividdhānaṃ ayaṃ tatiyo ānisaṃso "
+"pāṭikaṅkho."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.187"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "an4.191:4.1"
+msgid "Puna caparaṃ, bhikkhave, bhikkhu dhammaṃ pariyāpuṇāti—"
+msgstr ""
+
+msgctxt "an4.191:4.2"
+msgid ""
+"suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, "
+"abbhutadhammaṃ, vedallaṃ."
+msgstr ""
+
+msgctxt "an4.191:4.3"
+msgid ""
+"Tassa te dhammā sotānugatā honti, vacasā paricitā, manasānupekkhitā, "
+"diṭṭhiyā suppaṭividdhā."
+msgstr ""
+
+msgctxt "an4.191:4.4"
+msgid "So muṭṭhassati kālaṃ kurumāno aññataraṃ devanikāyaṃ upapajjati."
+msgstr ""
+
+msgctxt "an4.191:4.5"
+msgid ""
+"Tassa tattha na heva kho sukhino dhammapadā plavanti, napi bhikkhu iddhimā "
+"cetovasippatto devaparisāyaṃ dhammaṃ deseti, napi devaputto devaparisāyaṃ "
+"dhammaṃ deseti;"
+msgstr ""
+
+msgctxt "an4.191:4.6"
+msgid "api ca kho opapātiko opapātikaṃ sāreti:"
+msgstr ""
+
+msgctxt "an4.191:4.7"
+msgid ""
+"‘sarasi tvaṃ, mārisa, sarasi tvaṃ, mārisa, yattha mayaṃ pubbe brahmacariyaṃ "
+"acarimhā’ti."
+msgstr ""
+
+msgctxt "an4.191:4.8"
+msgid "So evamāha:"
+msgstr ""
+
+msgctxt "an4.191:4.9"
+msgid "‘sarāmi, mārisa, sarāmi, mārisā’ti."
+msgstr ""
+
+msgctxt "an4.191:4.10"
+msgid "Dandho, bhikkhave, satuppādo;"
+msgstr ""
+
+msgctxt "an4.191:4.11"
+msgid "atha so satto khippaṃyeva visesagāmī hoti."
+msgstr ""
+
+#. VAR: sahapaṃsukīḷikā → sahapaṃsukīḷakā (s1-3, km) | sahapaṃsukīḷitā (pts1)
+msgctxt "an4.191:4.12"
+msgid "Seyyathāpi, bhikkhave, dve sahāyakā sahapaṃsukīḷikā."
+msgstr ""
+
+#. VAR: samāgaccheyyuṃ, tamenaṃ (sī, syā1-3, kaṃ, pā1)
+msgctxt "an4.191:4.13"
+msgid "Te kadāci karahaci aññamaññaṃ samāgaccheyyuṃ."
+msgstr ""
+
+msgctxt "an4.191:4.14"
+msgid "Añño pana sahāyako sahāyakaṃ evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "an4.191:4.15"
+msgid "‘idampi, samma, sarasi, idampi, samma, sarasī’ti."
+msgstr ""
+
+msgctxt "an4.191:4.16"
+msgid "So evaṃ vadeyya:"
+msgstr ""
+
+msgctxt "an4.191:4.17"
+msgid "‘sarāmi, samma, sarāmi, sammā’ti."
+msgstr ""
+
+msgctxt "an4.191:4.18"
+msgid "Evamevaṃ kho, bhikkhave, bhikkhu dhammaṃ pariyāpuṇāti—"
+msgstr ""
+
+msgctxt "an4.191:4.19"
+msgid ""
+"suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, "
+"abbhutadhammaṃ, vedallaṃ."
+msgstr ""
+
+msgctxt "an4.191:4.20"
+msgid ""
+"Tassa te dhammā sotānugatā honti, vacasā paricitā, manasānupekkhitā, "
+"diṭṭhiyā suppaṭividdhā."
+msgstr ""
+
+msgctxt "an4.191:4.21"
+msgid "So muṭṭhassati kālaṃ kurumāno aññataraṃ devanikāyaṃ upapajjati."
+msgstr ""
+
+msgctxt "an4.191:4.22"
+msgid ""
+"Tassa tattha na heva kho sukhino dhammapadā plavanti, napi bhikkhu iddhimā "
+"cetovasippatto devaparisāyaṃ dhammaṃ deseti, napi devaputto devaparisāyaṃ "
+"dhammaṃ deseti;"
+msgstr ""
+
+msgctxt "an4.191:4.23"
+msgid "api ca kho opapātiko opapātikaṃ sāreti:"
+msgstr ""
+
+msgctxt "an4.191:4.24"
+msgid ""
+"‘sarasi tvaṃ, mārisa, sarasi tvaṃ, mārisa, yattha mayaṃ pubbe brahmacariyaṃ "
+"acarimhā’ti."
+msgstr ""
+
+msgctxt "an4.191:4.25"
+msgid "So evamāha:"
+msgstr ""
+
+msgctxt "an4.191:4.26"
+msgid "‘sarāmi, mārisa, sarāmi, mārisā’ti."
+msgstr ""
+
+msgctxt "an4.191:4.27"
+msgid "Dandho, bhikkhave, satuppādo;"
+msgstr ""
+
+msgctxt "an4.191:4.28"
+msgid "atha kho so satto khippaṃyeva visesagāmī hoti."
+msgstr ""
+
+msgctxt "an4.191:4.29"
+msgid ""
+"Sotānugatānaṃ, bhikkhave, dhammānaṃ, vacasā paricitānaṃ, "
+"manasānupekkhitānaṃ, diṭṭhiyā suppaṭividdhānaṃ ayaṃ catuttho ānisaṃso "
+"pāṭikaṅkho."
+msgstr ""
+
+msgctxt "an4.191:4.30"
+msgid ""
+"Sotānugatānaṃ, bhikkhave, dhammānaṃ, vacasā paricitānaṃ, manasānupekkhitānaṃ "
+"diṭṭhiyā suppaṭividdhānaṃ ime cattāro ānisaṃsā pāṭikaṅkhā”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an4.191:4.31"
+msgid "Paṭhamaṃ."
+msgstr ""

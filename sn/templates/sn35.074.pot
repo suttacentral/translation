@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn35.074.pot\n"
+"X-Pootle-Revision: 19084\n"
+
+#. <section class="sutta" id="sn35.74"><article><div class="hgroup"><p class="division">
+msgctxt "sn35.74:0.1"
+msgid "Saṃyutta Nikāya 35"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn35.74:0.2"
+msgid "8. Gilānavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "sn35.74:0.3"
+msgid "74. Paṭhamagilānasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.46"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn35.74:1.1"
+msgid "Sāvatthinidānaṃ."
+msgstr ""
+
+msgctxt "sn35.74:1.2"
+msgid ""
+"Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami … pe … ekamantaṃ "
+"nisinno kho so bhikkhu bhagavantaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn35.74:1.3"
+msgid ""
+"“amukasmiṃ, bhante, vihāre aññataro bhikkhu navo appaññāto ābādhiko dukkhito "
+"bāḷhagilāno."
+msgstr ""
+
+msgctxt "sn35.74:1.4"
+msgid ""
+"Sādhu, bhante, bhagavā yena so bhikkhu tenupasaṅkamatu anukampaṃ upādāyā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn35.74:2.1"
+msgid ""
+"Atha kho bhagavā navavādañca sutvā gilānavādañca, “appaññāto bhikkhū”ti iti "
+"viditvā yena so bhikkhu tenupasaṅkami."
+msgstr ""
+
+msgctxt "sn35.74:2.2"
+msgid "Addasā kho so bhikkhu bhagavantaṃ dūratova āgacchantaṃ."
+msgstr ""
+
+#. VAR: samadhosi → samañcosi (bj) | samatesi (s1-3, km) | samañcopi (pts1)
+msgctxt "sn35.74:2.3"
+msgid "Disvāna mañcake samadhosi."
+msgstr ""
+
+msgctxt "sn35.74:2.4"
+msgid "Atha kho bhagavā taṃ bhikkhuṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn35.74:2.5"
+msgid "“alaṃ, bhikkhu, mā tvaṃ mañcake samadhosi."
+msgstr ""
+
+msgctxt "sn35.74:2.6"
+msgid "Santimāni āsanāni paññattāni, tatthāhaṃ nisīdissāmī”ti."
+msgstr ""
+
+msgctxt "sn35.74:2.7"
+msgid "Nisīdi bhagavā paññatte āsane."
+msgstr ""
+
+msgctxt "sn35.74:2.8"
+msgid "Nisajja kho bhagavā taṃ bhikkhuṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn35.74:2.9"
+msgid ""
+"“kacci te, bhikkhu, khamanīyaṃ, kacci yāpanīyaṃ, kacci dukkhā vedanā "
+"paṭikkamanti no abhikkamanti, paṭikkamosānaṃ paññāyati no abhikkamo”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn35.74:3.1"
+msgid ""
+"“Na me, bhante, khamanīyaṃ, na yāpanīyaṃ, bāḷhā me dukkhā vedanā "
+"abhikkamanti no paṭikkamanti, abhikkamosānaṃ paññāyati no paṭikkamo”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn35.74:4.1"
+msgid "“Kacci te, bhikkhu, na kiñci kukkuccaṃ, na koci vippaṭisāro”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn35.74:5.1"
+msgid "“Taggha me, bhante, anappakaṃ kukkuccaṃ, anappako vippaṭisāro”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.47"></a>
+#. <a class="sc" id="sc6"></a>
+#. VAR: taṃ → tvaṃ (bj, pts1) | te (s1-3, km, mr)
+msgctxt "sn35.74:6.1"
+msgid "“Kacci pana taṃ, bhikkhu, attā sīlato upavadatī”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+#. VAR: sīlato upavadatī”ti → no hetaṃ bhante (pts1, mr)
+msgctxt "sn35.74:7.1"
+msgid "“Na kho maṃ, bhante, attā sīlato upavadatī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+#. VAR: atha kiñca → atha kismiñca (bj) | atha bhikkhu kismiñca (s1-3, km, pts1, mr)
+msgctxt "sn35.74:8.1"
+msgid ""
+"“No ce kira te, bhikkhu, attā sīlato upavadati, atha kiñca te kukkuccaṃ ko "
+"ca vippaṭisāro”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn35.74:9.1"
+msgid ""
+"“Na khvāhaṃ, bhante, sīlavisuddhatthaṃ bhagavatā dhammaṃ desitaṃ ājānāmī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "sn35.74:10.1"
+msgid ""
+"“No ce kira tvaṃ, bhikkhu, sīlavisuddhatthaṃ mayā dhammaṃ desitaṃ ājānāsi, "
+"atha kimatthaṃ carahi tvaṃ, bhikkhu, mayā dhammaṃ desitaṃ ājānāsī”ti?"
+msgstr ""
+
+# For ragaviraga, compare AN 2.21.
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "sn35.74:11.1"
+msgid "“Rāgavirāgatthaṃ khvāhaṃ, bhante, bhagavatā dhammaṃ desitaṃ ājānāmī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "sn35.74:12.1"
+msgid "“Sādhu sādhu, bhikkhu."
+msgstr ""
+
+msgctxt "sn35.74:12.2"
+msgid "Sādhu kho tvaṃ, bhikkhu, rāgavirāgatthaṃ mayā dhammaṃ desitaṃ ājānāsi."
+msgstr ""
+
+msgctxt "sn35.74:12.3"
+msgid "Rāgavirāgattho hi, bhikkhu, mayā dhammo desito."
+msgstr ""
+
+msgctxt "sn35.74:12.4"
+msgid "Taṃ kiṃ maññasi, bhikkhu, "
+msgstr ""
+
+msgctxt "sn35.74:12.5"
+msgid "cakkhu niccaṃ vā aniccaṃ vā”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "sn35.74:13.1"
+msgid "“Aniccaṃ, bhante”."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+msgctxt "sn35.74:14.1"
+msgid "“… pe …"
+msgstr ""
+
+msgctxt "sn35.74:14.2"
+msgid "Sotaṃ …"
+msgstr ""
+
+msgctxt "sn35.74:14.3"
+msgid "ghānaṃ …"
+msgstr ""
+
+msgctxt "sn35.74:14.4"
+msgid "jivhā …"
+msgstr ""
+
+msgctxt "sn35.74:14.5"
+msgid "kāyo …"
+msgstr ""
+
+msgctxt "sn35.74:14.6"
+msgid "mano nicco vā anicco vā”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc15"></a>
+msgctxt "sn35.74:15.1"
+msgid "“Anicco, bhante”."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc16"></a>
+msgctxt "sn35.74:16.1"
+msgid "“Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc17"></a>
+msgctxt "sn35.74:17.1"
+msgid "“Dukkhaṃ, bhante”."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc18"></a>
+msgctxt "sn35.74:18.1"
+msgid ""
+"“Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ:"
+msgstr ""
+
+msgctxt "sn35.74:18.2"
+msgid "‘etaṃ mama, esohamasmi, eso me attā’”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc19"></a>
+msgctxt "sn35.74:19.1"
+msgid "“No hetaṃ, bhante”."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc20"></a>
+msgctxt "sn35.74:20.1"
+msgid ""
+"“Evaṃ passaṃ, bhikkhu, sutavā ariyasāvako cakkhusmimpi nibbindati, "
+"sotasmimpi nibbindati … pe … manasmimpi nibbindati."
+msgstr ""
+
+msgctxt "sn35.74:20.2"
+msgid ""
+"Nibbindaṃ virajjati; virāgā vimuccati; vimuttasmiṃ vimuttamiti ñāṇaṃ hoti."
+msgstr ""
+
+msgctxt "sn35.74:20.3"
+msgid "‘Khīṇā jāti … pe … nāparaṃ itthattāyā’ti pajānātī”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc21"></a>
+msgctxt "sn35.74:21.1"
+msgid "Idamavoca bhagavā."
+msgstr ""
+
+msgctxt "sn35.74:21.2"
+msgid "Attamano so bhikkhu bhagavato bhāsitaṃ abhinandi."
+msgstr ""
+
+msgctxt "sn35.74:21.3"
+msgid ""
+"Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne tassa bhikkhuno virajaṃ vītamalaṃ "
+"dhammacakkhuṃ udapādi:"
+msgstr ""
+
+msgctxt "sn35.74:21.4"
+msgid "“yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn35.74:21.5"
+msgid "Paṭhamaṃ."
+msgstr ""

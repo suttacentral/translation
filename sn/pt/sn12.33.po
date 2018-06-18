@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /pt/sn/sn12.33.po\n"
+"X-Pootle-Revision: 31566\n"
+
+#. <section class="sutta" id="sn12.33"><article><div class="hgroup"><p class="division">
+msgctxt "sn12.33:0.1"
+msgid "Saṃyutta Nikāya 12"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn12.33:0.2"
+msgid "4. Kaḷārakhattiyavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 33. Ñāṇavatthusutta → ñāṇassa vatthūni 1 (pts1-2)
+msgctxt "sn12.33:0.3"
+msgid "33. Ñāṇavatthusutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn12.33:1.1"
+msgid "Sāvatthiyaṃ …"
+msgstr ""
+
+# Nanavatthu is rendered by BB as “cases of knowledge”, thus taking vatthu as essentially meaningless, “item” or such. this is what the comm says “ñāṇameva ñāṇavatthūti veditabbaṃ”, but I cannot find any support for it. The PTS dict under it’s meaning 2 “object, item” lists a number of examples: niddasa-, dana-, aghata-, kusita-. Also see codana-, nijjara-, punnakiriya, sangaha-. But in each of these cases the meaning of “ground, basis” applies. It seems to me this meaning makes the current sutta more meaningful. instead of merely being an abhidhamma-type list of “cases”, it indicates that each of these things, while itself being dukkha, offers up the possibility of insight.
+msgctxt "sn12.33:1.2"
+msgid "“Catucattārīsaṃ vo, bhikkhave, ñāṇavatthūni desessāmi, "
+msgstr ""
+
+msgctxt "sn12.33:1.3"
+msgid "taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti."
+msgstr ""
+
+msgctxt "sn12.33:1.4"
+msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ."
+msgstr ""
+
+msgctxt "sn12.33:1.5"
+msgid "Bhagavā etadavoca:"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.57"></a>
+#. <a class="sc" id="sc2"></a>
+#. VAR: Katamāni → katamāni ca (s1-3, km, pts1-2, mr)
+msgctxt "sn12.33:2.1"
+msgid "“Katamāni, bhikkhave, catucattārīsaṃ ñāṇavatthūni?"
+msgstr ""
+
+msgctxt "sn12.33:2.2"
+msgid ""
+"Jarāmaraṇe ñāṇaṃ, jarāmaraṇasamudaye ñāṇaṃ, jarāmaraṇanirodhe ñāṇaṃ, "
+"jarāmaraṇanirodhagāminiyā paṭipadāya ñāṇaṃ;"
+msgstr ""
+
+msgctxt "sn12.33:2.3"
+msgid ""
+"jātiyā ñāṇaṃ, jātisamudaye ñāṇaṃ, jātinirodhe ñāṇaṃ, jātinirodhagāminiyā "
+"paṭipadāya ñāṇaṃ;"
+msgstr ""
+
+msgctxt "sn12.33:2.4"
+msgid ""
+"bhave ñāṇaṃ, bhavasamudaye ñāṇaṃ, bhavanirodhe ñāṇaṃ, bhavanirodhagāminiyā "
+"paṭipadāya ñāṇaṃ;"
+msgstr ""
+
+msgctxt "sn12.33:2.5"
+msgid ""
+"upādāne ñāṇaṃ, upādānasamudaye ñāṇaṃ, upādānanirodhe ñāṇaṃ, "
+"upādānanirodhagāminiyā paṭipadāya ñāṇaṃ;"
+msgstr ""
+
+msgctxt "sn12.33:2.6"
+msgid ""
+"taṇhāya ñāṇaṃ, taṇhāsamudaye ñāṇaṃ, taṇhānirodhe ñāṇaṃ, taṇhānirodhagāminiyā "
+"paṭipadāya ñāṇaṃ;"
+msgstr ""
+
+msgctxt "sn12.33:2.7"
+msgid ""
+"vedanāya ñāṇaṃ, vedanāsamudaye ñāṇaṃ, vedanānirodhe ñāṇaṃ, "
+"vedanānirodhagāminiyā paṭipadāya ñāṇaṃ;"
+msgstr ""
+
+msgctxt "sn12.33:2.8"
+msgid "phasse ñāṇaṃ … pe …"
+msgstr ""
+
+msgctxt "sn12.33:2.9"
+msgid "saḷāyatane ñāṇaṃ …"
+msgstr ""
+
+msgctxt "sn12.33:2.10"
+msgid "nāmarūpe ñāṇaṃ …"
+msgstr ""
+
+msgctxt "sn12.33:2.11"
+msgid "viññāṇe ñāṇaṃ …"
+msgstr ""
+
+msgctxt "sn12.33:2.12"
+msgid ""
+"saṅkhāresu ñāṇaṃ, saṅkhārasamudaye ñāṇaṃ, saṅkhāranirodhe ñāṇaṃ, "
+"saṅkhāranirodhagāminiyā paṭipadāya ñāṇaṃ."
+msgstr ""
+
+msgctxt "sn12.33:2.13"
+msgid "Imāni vuccanti, bhikkhave, catucattārīsaṃ ñāṇavatthūni."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn12.33:3.1"
+msgid "Katamañca, bhikkhave, jarāmaraṇaṃ?"
+msgstr ""
+
+msgctxt "sn12.33:3.2"
+msgid ""
+"Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ "
+"pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko, "
+msgstr ""
+
+msgctxt "sn12.33:3.3"
+msgid "ayaṃ vuccati jarā."
+msgstr ""
+
+msgctxt "sn12.33:3.4"
+msgid ""
+"Yā tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā bhedo "
+"antaradhānaṃ maccu maraṇaṃ kālakiriyā khandhānaṃ bhedo kaḷevarassa nikkhepo."
+msgstr ""
+
+msgctxt "sn12.33:3.5"
+msgid "Idaṃ vuccati maraṇaṃ."
+msgstr ""
+
+msgctxt "sn12.33:3.6"
+msgid "Iti ayañca jarā, idañca maraṇaṃ;"
+msgstr ""
+
+msgctxt "sn12.33:3.7"
+msgid "idaṃ vuccati, bhikkhave, jarāmaraṇaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn12.33:4.1"
+msgid "Jātisamudayā jarāmaraṇasamudayo;"
+msgstr ""
+
+msgctxt "sn12.33:4.2"
+msgid "jātinirodhā jarāmaraṇanirodho;"
+msgstr ""
+
+msgctxt "sn12.33:4.3"
+msgid ""
+"ayameva ariyo aṭṭhaṅgiko maggo jarāmaraṇanirodhagāminī paṭipadā, seyyathidaṃ—"
+msgstr ""
+
+msgctxt "sn12.33:4.4"
+msgid "sammādiṭṭhi … pe … sammāsamādhi."
+msgstr ""
+
+# BB translates dhamma as principle here, which I feel is a little confusing. Of course it is true that pattern of the truths is a principle, and this is a fine translation. However it seems to me that the primary emphasis of the term here is not its application to the truths, but it’s contrast with anvaye nanam later. the two appear in a list of four with no mention of the truths in DN 333 and DN 34. Thus I see it as having a closer affinity to the phrase ditthevadhamme. It is referring to what may be directly seen in this very life.
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.58"></a>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn12.33:5.1"
+msgid ""
+"Yato kho, bhikkhave, ariyasāvako evaṃ jarāmaraṇaṃ pajānāti, evaṃ "
+"jarāmaraṇasamudayaṃ pajānāti, evaṃ jarāmaraṇanirodhaṃ pajānāti, evaṃ "
+"jarāmaraṇanirodhagāminiṃ paṭipadaṃ pajānāti, idamassa dhamme ñāṇaṃ."
+msgstr ""
+
+# See BB’s note. Text should be corrected to atītānāgate nayaṃ neti. I’m not altogether convinced by the explanation of akalika as an adverb of manner here. It seems to me rather that the list is a little odd, and should be translated as such. Re nayam neti, this is a noun/verb repetition and should be translated according to the meaning of the idiom as a whole.
+msgctxt "sn12.33:5.2"
+msgid ""
+"So iminā dhammena diṭṭhena viditena akālikena pattena pariyogāḷhena "
+"atītānāgatena yaṃ neti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn12.33:6.1"
+msgid ""
+"Ye kho keci atītamaddhānaṃ samaṇā vā brāhmaṇā vā jarāmaraṇaṃ abbhaññaṃsu, "
+"jarāmaraṇasamudayaṃ abbhaññaṃsu, jarāmaraṇanirodhaṃ abbhaññaṃsu, "
+"jarāmaraṇanirodhagāminiṃ paṭipadaṃ abbhaññaṃsu, sabbete evameva abbhaññaṃsu, "
+"seyyathāpāhaṃ etarahi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "sn12.33:7.1"
+msgid ""
+"Yepi hi keci anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā jarāmaraṇaṃ "
+"abhijānissanti, jarāmaraṇasamudayaṃ abhijānissanti, jarāmaraṇanirodhaṃ "
+"abhijānissanti, jarāmaraṇanirodhagāminiṃ paṭipadaṃ abhijānissanti, sabbete "
+"evameva abhijānissanti, seyyathāpāhaṃ etarahīti."
+msgstr ""
+
+msgctxt "sn12.33:7.2"
+msgid "Idamassa anvaye ñāṇaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc8"></a>
+msgctxt "sn12.33:8.1"
+msgid ""
+"Yato kho, bhikkhave, ariyasāvakassa imāni dve ñāṇāni parisuddhāni honti "
+"pariyodātāni—"
+msgstr ""
+
+msgctxt "sn12.33:8.2"
+msgid "dhamme ñāṇañca anvaye ñāṇañca."
+msgstr ""
+
+msgctxt "sn12.33:8.3"
+msgid ""
+"Ayaṃ vuccati, bhikkhave, ariyasāvako diṭṭhisampanno itipi, dassanasampanno "
+"itipi, āgato imaṃ saddhammaṃ itipi, passati imaṃ saddhammaṃ itipi, sekkhena "
+"ñāṇena samannāgato itipi, sekkhāya vijjāya samannāgato itipi, dhammasotaṃ "
+"samāpanno itipi, ariyo nibbedhikapañño itipi, amatadvāraṃ āhacca tiṭṭhati "
+"itipīti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.59"></a>
+#. <a class="sc" id="sc9"></a>
+msgctxt "sn12.33:9.1"
+msgid "Katamā ca, bhikkhave, jāti …"
+msgstr ""
+
+msgctxt "sn12.33:9.2"
+msgid "katamo ca, bhikkhave, bhavo …"
+msgstr ""
+
+msgctxt "sn12.33:9.3"
+msgid "katamañca, bhikkhave, upādānaṃ …"
+msgstr ""
+
+msgctxt "sn12.33:9.4"
+msgid "katamā ca, bhikkhave, taṇhā …"
+msgstr ""
+
+msgctxt "sn12.33:9.5"
+msgid "katamā ca, bhikkhave, vedanā …"
+msgstr ""
+
+msgctxt "sn12.33:9.6"
+msgid "katamo ca, bhikkhave, phasso …"
+msgstr ""
+
+msgctxt "sn12.33:9.7"
+msgid "katamañca, bhikkhave, saḷāyatanaṃ …"
+msgstr ""
+
+msgctxt "sn12.33:9.8"
+msgid "katamañca, bhikkhave, nāmarūpaṃ …"
+msgstr ""
+
+msgctxt "sn12.33:9.9"
+msgid "katamañca, bhikkhave, viññāṇaṃ …"
+msgstr ""
+
+msgctxt "sn12.33:9.10"
+msgid "katame ca, bhikkhave, saṅkhārā?"
+msgstr ""
+
+msgctxt "sn12.33:9.11"
+msgid "Tayome, bhikkhave, saṅkhārā—"
+msgstr ""
+
+msgctxt "sn12.33:9.12"
+msgid "kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāroti."
+msgstr ""
+
+msgctxt "sn12.33:9.13"
+msgid "Ime vuccanti, bhikkhave, saṅkhārā."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc10"></a>
+msgctxt "sn12.33:10.1"
+msgid "Avijjāsamudayā saṅkhārasamudayo;"
+msgstr ""
+
+msgctxt "sn12.33:10.2"
+msgid "avijjānirodhā saṅkhāranirodho;"
+msgstr ""
+
+msgctxt "sn12.33:10.3"
+msgid ""
+"ayameva ariyo aṭṭhaṅgiko maggo saṅkhāranirodhagāminī paṭipadā, seyyathidaṃ—"
+msgstr ""
+
+msgctxt "sn12.33:10.4"
+msgid "sammādiṭṭhi … pe … sammāsamādhi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc11"></a>
+msgctxt "sn12.33:11.1"
+msgid ""
+"Yato kho, bhikkhave, ariyasāvako evaṃ saṅkhāre pajānāti, evaṃ "
+"saṅkhārasamudayaṃ pajānāti, evaṃ saṅkhāranirodhaṃ pajānāti, evaṃ "
+"saṅkhāranirodhagāminiṃ paṭipadaṃ pajānāti, idamassa dhamme ñāṇaṃ."
+msgstr ""
+
+msgctxt "sn12.33:11.2"
+msgid ""
+"So iminā dhammena diṭṭhena viditena akālikena pattena pariyogāḷhena "
+"atītānāgatena yaṃ neti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc12"></a>
+msgctxt "sn12.33:12.1"
+msgid ""
+"Ye kho keci atītamaddhānaṃ samaṇā vā brāhmaṇā vā saṅkhāre abbhaññaṃsu, "
+"saṅkhārasamudayaṃ abbhaññaṃsu, saṅkhāranirodhaṃ abbhaññaṃsu, "
+"saṅkhāranirodhagāminiṃ paṭipadaṃ abbhaññaṃsu, sabbete evameva abbhaññaṃsu, "
+"seyyathāpāhaṃ etarahi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc13"></a>
+msgctxt "sn12.33:13.1"
+msgid ""
+"Ye hipi keci anāgatamaddhānaṃ samaṇā vā brāhmaṇā vā saṅkhāre abhijānissanti, "
+"saṅkhārasamudayaṃ abhijānissanti, saṅkhāranirodhaṃ abhijānissanti, "
+"saṅkhāranirodhagāminiṃ paṭipadaṃ abhijānissanti, sabbete evameva "
+"abhijānissanti, seyyathāpāhaṃ etarahi."
+msgstr ""
+
+msgctxt "sn12.33:13.2"
+msgid "Idamassa anvaye ñāṇaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc14"></a>
+msgctxt "sn12.33:14.1"
+msgid ""
+"Yato kho, bhikkhave, ariyasāvakassa imāni dve ñāṇāni parisuddhāni honti "
+"pariyodātāni—"
+msgstr ""
+
+msgctxt "sn12.33:14.2"
+msgid "dhamme ñāṇañca anvaye ñāṇañca."
+msgstr ""
+
+msgctxt "sn12.33:14.3"
+msgid ""
+"Ayaṃ vuccati, bhikkhave, ariyasāvako diṭṭhisampanno itipi, dassanasampanno "
+"itipi, āgato imaṃ saddhammaṃ itipi, passati imaṃ saddhammaṃ itipi, sekkhena "
+"ñāṇena samannāgato itipi, sekkhāya vijjāya samannāgato itipi, dhammasotaṃ "
+"samāpanno itipi, ariyo nibbedhikapañño itipi, amatadvāraṃ āhacca tiṭṭhati "
+"itipī”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn12.33:14.4"
+msgid "Tatiyaṃ."
+msgstr ""

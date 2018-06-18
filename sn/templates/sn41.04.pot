@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/sn/sn41.04.pot\n"
+"X-Pootle-Revision: 19618\n"
+
+#. <section class="sutta" id="sn41.4"><article><div class="hgroup"><p class="division">
+msgctxt "sn41.4:0.1"
+msgid "Saṃyutta Nikāya 41"
+msgstr ""
+
+#. </p><p>
+msgctxt "sn41.4:0.2"
+msgid "1. Cittavagga"
+msgstr ""
+
+#. </p><h1>
+#. VAR: 4. Mahakapāṭihāriyasutta → mahakasuttaṃ (bj) | mahako (pts1)
+msgctxt "sn41.4:0.3"
+msgid "4. Mahakapāṭihāriyasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.289"></a>
+#. <a class="sc" id="sc1"></a>
+msgctxt "sn41.4:1.1"
+msgid ""
+"Ekaṃ samayaṃ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane."
+msgstr ""
+
+msgctxt "sn41.4:1.2"
+msgid ""
+"Atha kho citto gahapati yena therā bhikkhū tenupasaṅkami; upasaṅkamitvā "
+"there bhikkhū abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho citto "
+"gahapati there bhikkhū etadavoca:"
+msgstr ""
+
+msgctxt "sn41.4:1.3"
+msgid "“adhivāsentu me, bhante therā, svātanāya gokule bhattan”ti."
+msgstr ""
+
+msgctxt "sn41.4:1.4"
+msgid "Adhivāsesuṃ kho therā bhikkhū tuṇhībhāvena."
+msgstr ""
+
+msgctxt "sn41.4:1.5"
+msgid ""
+"Atha kho citto gahapati therānaṃ bhikkhūnaṃ adhivāsanaṃ viditvā uṭṭhāyāsanā "
+"there bhikkhū abhivādetvā padakkhiṇaṃ katvā pakkāmi."
+msgstr ""
+
+msgctxt "sn41.4:1.6"
+msgid ""
+"Atha kho therā bhikkhū tassā rattiyā accayena pubbaṇhasamayaṃ nivāsetvā "
+"pattacīvaramādāya yena cittassa gahapatino gokulaṃ tenupasaṅkamiṃsu; "
+"upasaṅkamitvā paññatte āsane nisīdiṃsu."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc2"></a>
+msgctxt "sn41.4:2.1"
+msgid ""
+"Atha kho citto gahapati there bhikkhū paṇītena sappipāyāsena sahatthā "
+"santappesi sampavāresi."
+msgstr ""
+
+msgctxt "sn41.4:2.2"
+msgid ""
+"Atha kho therā bhikkhū bhuttāvino onītapattapāṇino uṭṭhāyāsanā pakkamiṃsu."
+msgstr ""
+
+msgctxt "sn41.4:2.3"
+msgid ""
+"Cittopi kho gahapati “sesakaṃ vissajjethā”ti vatvā there bhikkhū piṭṭhito "
+"piṭṭhito anubandhi."
+msgstr ""
+
+#. VAR: kuthitaṃ → kuṭṭhitaṃ (si, s1-3, km, pts1)
+msgctxt "sn41.4:2.4"
+msgid "Tena kho pana samayena uṇhaṃ hoti kuthitaṃ;"
+msgstr ""
+
+msgctxt "sn41.4:2.5"
+msgid ""
+"te ca therā bhikkhū paveliyamānena maññe kāyena gacchanti, yathā taṃ "
+"bhojanaṃ bhuttāvino."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "sn41.4:3.1"
+msgid ""
+"Tena kho pana samayena āyasmā mahako tasmiṃ bhikkhusaṃghe sabbanavako hoti."
+msgstr ""
+
+msgctxt "sn41.4:3.2"
+msgid "Atha kho āyasmā mahako āyasmantaṃ theraṃ etadavoca:"
+msgstr ""
+
+# See CPD for abbha-sampilāpa. PTS dict wrongly reads samvilapa.
+#. VAR: abbhasampilāpo → abbhisambhilāpo (si) | abbhasamvilāpo (pts1)
+msgctxt "sn41.4:3.3"
+msgid ""
+"“sādhu khvassa, bhante thera, sītako ca vāto vāyeyya, abbhasampilāpo ca "
+"assa, devo ca ekamekaṃ phusāyeyyā”ti."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.290"></a>
+#. <a class="sc" id="sc4"></a>
+msgctxt "sn41.4:4.1"
+msgid ""
+"“Sādhu khvassa, āvuso mahaka, yaṃ sītako ca vāto vāyeyya, abbhasampilāpo ca "
+"assa, devo ca ekamekaṃ phusāyeyyā”ti."
+msgstr ""
+
+#. VAR: abhisaṅkhari → abhisaṅkhāsi (bj)
+#. VAR: assa → āsi (?)
+msgctxt "sn41.4:4.2"
+msgid ""
+"Atha kho āyasmā mahako tathārūpaṃ iddhābhisaṅkhāraṃ abhisaṅkhari yathā "
+"sītako ca vāto vāyi, abbhasampilāpo ca assa, devo ca ekamekaṃ phusi."
+msgstr ""
+
+msgctxt "sn41.4:4.3"
+msgid "Atha kho cittassa gahapatino etadahosi:"
+msgstr ""
+
+msgctxt "sn41.4:4.4"
+msgid ""
+"“yo kho imasmiṃ bhikkhusaṃghe sabbanavako bhikkhu tassāyaṃ evarūpo "
+"iddhānubhāvo”ti."
+msgstr ""
+
+msgctxt "sn41.4:4.5"
+msgid "Atha kho āyasmā mahako ārāmaṃ sampāpuṇitvā āyasmantaṃ theraṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn41.4:4.6"
+msgid "“alamettāvatā, bhante therā”ti?"
+msgstr ""
+
+msgctxt "sn41.4:4.7"
+msgid "“Alamettāvatā, āvuso mahaka."
+msgstr ""
+
+msgctxt "sn41.4:4.8"
+msgid "Katamettāvatā, āvuso mahaka."
+msgstr ""
+
+msgctxt "sn41.4:4.9"
+msgid "Pūjitamettāvatā, āvuso mahakā”ti."
+msgstr ""
+
+msgctxt "sn41.4:4.10"
+msgid "Atha kho therā bhikkhū yathāvihāraṃ agamaṃsu."
+msgstr ""
+
+msgctxt "sn41.4:4.11"
+msgid "Āyasmāpi mahako sakaṃ vihāraṃ agamāsi."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "sn41.4:5.1"
+msgid ""
+"Atha kho citto gahapati yenāyasmā mahako tenupasaṅkami; upasaṅkamitvā "
+"āyasmantaṃ mahakaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho citto "
+"gahapati āyasmantaṃ mahakaṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn41.4:5.2"
+msgid ""
+"“sādhu me, bhante, ayyo mahako uttari manussadhammaṃ iddhipāṭihāriyaṃ "
+"dassetū”ti."
+msgstr ""
+
+msgctxt "sn41.4:5.3"
+msgid ""
+"“Tena hi tvaṃ, gahapati, ālinde uttarāsaṅgaṃ paññapetvā tiṇakalāpaṃ "
+"okāsehī”ti."
+msgstr ""
+
+msgctxt "sn41.4:5.4"
+msgid ""
+"“Evaṃ, bhante”ti kho citto gahapati āyasmato mahakassa paṭissutvā ālinde "
+"uttarāsaṅgaṃ paññapetvā tiṇakalāpaṃ okāsesi."
+msgstr ""
+
+msgctxt "sn41.4:5.5"
+msgid ""
+"Atha kho āyasmā mahako vihāraṃ pavisitvā sūcighaṭikaṃ datvā tathārūpaṃ "
+"iddhābhisaṅkhāraṃ abhisaṅkhari yathā tālacchiggaḷena ca aggaḷantarikāya ca "
+"acci nikkhamitvā tiṇāni jhāpesi, uttarāsaṅgaṃ na jhāpesi."
+msgstr ""
+
+msgctxt "sn41.4:5.6"
+msgid ""
+"Atha kho citto gahapati uttarāsaṅgaṃ papphoṭetvā saṃviggo lomahaṭṭhajāto "
+"ekamantaṃ aṭṭhāsi."
+msgstr ""
+
+msgctxt "sn41.4:5.7"
+msgid "Atha kho āyasmā mahako vihārā nikkhamitvā cittaṃ gahapatiṃ etadavoca:"
+msgstr ""
+
+msgctxt "sn41.4:5.8"
+msgid "“alamettāvatā, gahapatī”ti?"
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.291"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "sn41.4:6.1"
+msgid "“Alamettāvatā, bhante mahaka."
+msgstr ""
+
+msgctxt "sn41.4:6.2"
+msgid "Katamettāvatā, bhante, mahaka."
+msgstr ""
+
+msgctxt "sn41.4:6.3"
+msgid "Pūjitamettāvatā, bhante mahaka."
+msgstr ""
+
+msgctxt "sn41.4:6.4"
+msgid "Abhiramatu, bhante, ayyo mahako macchikāsaṇḍe."
+msgstr ""
+
+msgctxt "sn41.4:6.5"
+msgid "Ramaṇīyaṃ ambāṭakavanaṃ."
+msgstr ""
+
+msgctxt "sn41.4:6.6"
+msgid ""
+"Ahaṃ ayyassa mahakassa ussukkaṃ karissāmi "
+"cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti."
+msgstr ""
+
+msgctxt "sn41.4:6.7"
+msgid "“Kalyāṇaṃ vuccati, gahapatī”ti."
+msgstr ""
+
+msgctxt "sn41.4:6.8"
+msgid ""
+"Atha kho āyasmā mahako senāsanaṃ saṃsāmetvā pattacīvaramādāya "
+"macchikāsaṇḍamhā pakkāmi."
+msgstr ""
+
+msgctxt "sn41.4:6.9"
+msgid "Yaṃ macchikāsaṇḍamhā pakkāmi, tathā pakkantova ahosi;"
+msgstr ""
+
+msgctxt "sn41.4:6.10"
+msgid "na puna paccāgacchīti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "sn41.4:6.11"
+msgid "Catutthaṃ."
+msgstr ""

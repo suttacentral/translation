@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /templates/an/an3.093.pot\n"
+"X-Pootle-Revision: 12870\n"
+
+#. <section class="sutta" id="an3.93"><article><div class="hgroup"><p class="division">
+msgctxt "an3.93:0.1"
+msgid "Aṅguttara Nikāya 3"
+msgstr ""
+
+#. </p><p>
+msgctxt "an3.93:0.2"
+msgid "10. Loṇakapallavagga"
+msgstr ""
+
+#. </p><h1>
+msgctxt "an3.93:0.3"
+msgid "93. Pavivekasutta"
+msgstr ""
+
+#. </h1></div><p>
+#. <a class="sc" id="sc1"></a>
+msgctxt "an3.93:1.1"
+msgid "“Tīṇimāni, bhikkhave, aññatitthiyā paribbājakā pavivekāni paññāpenti."
+msgstr ""
+
+msgctxt "an3.93:1.2"
+msgid "Katamāni tīṇi?"
+msgstr ""
+
+msgctxt "an3.93:1.3"
+msgid "Cīvarapavivekaṃ, piṇḍapātapavivekaṃ, senāsanapavivekaṃ."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.241"></a>
+#. <a class="sc" id="sc2"></a>
+#. VAR: tirīṭānipi → tirīṭakānipi (bj, s1-3, pts1)
+#. VAR: ajinampi → ajinānipi (bj, s1-3, pts1)
+msgctxt "an3.93:2.1"
+msgid ""
+"Tatridaṃ, bhikkhave, aññatitthiyā paribbājakā cīvarapavivekasmiṃ paññāpenti, "
+"sāṇānipi dhārenti, masāṇānipi dhārenti, chavadussānipi dhārenti, "
+"paṃsukūlānipi dhārenti, tirīṭānipi dhārenti, ajinampi dhārenti, "
+"ajinakkhipampi dhārenti, kusacīrampi dhārenti, vākacīrampi dhārenti, "
+"phalakacīrampi dhārenti, kesakambalampi dhārenti, vālakambalampi dhārenti, "
+"ulūkapakkhikampi dhārenti."
+msgstr ""
+
+msgctxt "an3.93:2.2"
+msgid ""
+"Idaṃ kho, bhikkhave, aññatitthiyā paribbājakā cīvarapavivekasmiṃ paññāpenti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc3"></a>
+msgctxt "an3.93:3.1"
+msgid ""
+"Tatridaṃ, bhikkhave, aññatitthiyā paribbājakā piṇḍapātapavivekasmiṃ "
+"paññāpenti."
+msgstr ""
+
+msgctxt "an3.93:3.2"
+msgid ""
+"Sākabhakkhāpi honti, sāmākabhakkhāpi honti, nīvārabhakkhāpi honti, "
+"daddulabhakkhāpi honti, haṭabhakkhāpi honti, kaṇabhakkhāpi honti, "
+"ācāmabhakkhāpi honti, piññākabhakkhāpi honti, tiṇabhakkhāpi honti, "
+"gomayabhakkhāpi honti, vanamūlaphalāhārā yāpenti pavattaphalabhojī."
+msgstr ""
+
+msgctxt "an3.93:3.3"
+msgid ""
+"Idaṃ kho, bhikkhave, aññatitthiyā paribbājakā piṇḍapātapavivekasmiṃ "
+"paññāpenti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc4"></a>
+#. VAR: rukkhamūlaṃ susānaṃ → rukkhamūlaṃ bhusāgāraṃ susānaṃ (mr)
+#. VAR: bhusāgāraṃ → suññāgāraṃ (mr)
+msgctxt "an3.93:4.1"
+msgid ""
+"Tatridaṃ, bhikkhave, aññatitthiyā paribbājakā senāsanapavivekasmiṃ "
+"paññāpenti araññaṃ rukkhamūlaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ "
+"bhusāgāraṃ."
+msgstr ""
+
+msgctxt "an3.93:4.2"
+msgid ""
+"Idaṃ kho, bhikkhave, aññatitthiyā paribbājakā senāsanapavivekasmiṃ "
+"paññāpenti."
+msgstr ""
+
+msgctxt "an3.93:4.3"
+msgid ""
+"Imāni kho, bhikkhave, tīṇi aññatitthiyā paribbājakā pavivekāni paññāpenti."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc5"></a>
+msgctxt "an3.93:5.1"
+msgid ""
+"Tīṇi kho panimāni, bhikkhave, imasmiṃ dhammavinaye bhikkhuno pavivekāni."
+msgstr ""
+
+msgctxt "an3.93:5.2"
+msgid "Katamāni tīṇi?"
+msgstr ""
+
+msgctxt "an3.93:5.3"
+msgid ""
+"Idha, bhikkhave, bhikkhu sīlavā ca hoti, dussīlyañcassa pahīnaṃ hoti, tena "
+"ca vivitto hoti;"
+msgstr ""
+
+msgctxt "an3.93:5.4"
+msgid ""
+"sammādiṭṭhiko ca hoti, micchādiṭṭhi cassa pahīnā hoti, tāya ca vivitto hoti;"
+msgstr ""
+
+msgctxt "an3.93:5.5"
+msgid "khīṇāsavo ca hoti, āsavā cassa pahīnā honti, tehi ca vivitto hoti."
+msgstr ""
+
+msgctxt "an3.93:5.6"
+msgid ""
+"Yato kho, bhikkhave, bhikkhu sīlavā hoti, dussīlyañcassa pahīnaṃ hoti, tena "
+"ca vivitto hoti;"
+msgstr ""
+
+msgctxt "an3.93:5.7"
+msgid ""
+"sammādiṭṭhiko ca hoti, micchādiṭṭhi cassa pahīnā hoti, tāya ca vivitto hoti;"
+msgstr ""
+
+msgctxt "an3.93:5.8"
+msgid "khīṇāsavo ca hoti, āsavā cassa pahīnā honti, tehi ca vivitto hoti."
+msgstr ""
+
+msgctxt "an3.93:5.9"
+msgid ""
+"Ayaṃ vuccati, bhikkhave, ‘bhikkhu aggappatto sārappatto suddho sāre "
+"patiṭṭhito’."
+msgstr ""
+
+#. </p><p>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.242"></a>
+#. <a class="sc" id="sc6"></a>
+msgctxt "an3.93:6.1"
+msgid "Seyyathāpi, bhikkhave, kassakassa gahapatissa sampannaṃ sālikkhettaṃ."
+msgstr ""
+
+#. VAR: sīghaṃ sīghaṃ → sīghasīghaṃ (bj, s1-3, km, pts1)
+msgctxt "an3.93:6.2"
+msgid "Tamenaṃ kassako gahapati sīghaṃ sīghaṃ lavāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.3"
+msgid "Sīghaṃ sīghaṃ lavāpetvā sīghaṃ sīghaṃ saṅgharāpeyya."
+msgstr ""
+
+#. VAR: ubbahāpeyya → ubbāhāpeyya (s1-3, km)
+msgctxt "an3.93:6.4"
+msgid "Sīghaṃ sīghaṃ saṅgharāpetvā sīghaṃ sīghaṃ ubbahāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.5"
+msgid "Sīghaṃ sīghaṃ ubbahāpetvā sīghaṃ sīghaṃ puñjaṃ kārāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.6"
+msgid "Sīghaṃ sīghaṃ puñjaṃ kārāpetvā sīghaṃ sīghaṃ maddāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.7"
+msgid "Sīghaṃ sīghaṃ maddāpetvā sīghaṃ sīghaṃ palālāni uddharāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.8"
+msgid ""
+"Sīghaṃ sīghaṃ palālāni uddharāpetvā sīghaṃ sīghaṃ bhusikaṃ uddharāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.9"
+msgid "Sīghaṃ sīghaṃ bhusikaṃ uddharāpetvā sīghaṃ sīghaṃ opunāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.10"
+msgid "Sīghaṃ sīghaṃ opunāpetvā sīghaṃ sīghaṃ atiharāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.11"
+msgid "Sīghaṃ sīghaṃ atiharāpetvā sīghaṃ sīghaṃ koṭṭāpeyya."
+msgstr ""
+
+msgctxt "an3.93:6.12"
+msgid "Sīghaṃ sīghaṃ koṭṭāpetvā sīghaṃ sīghaṃ thusāni uddharāpeyya."
+msgstr ""
+
+#. VAR: Evamassu → evassu (mr)
+msgctxt "an3.93:6.13"
+msgid ""
+"Evamassu tāni, bhikkhave, kassakassa gahapatissa dhaññāni aggappattāni "
+"sārappattāni suddhāni sāre patiṭṭhitāni."
+msgstr ""
+
+#. </p><p>
+#. <a class="sc" id="sc7"></a>
+msgctxt "an3.93:7.1"
+msgid ""
+"Evamevaṃ kho, bhikkhave, yato bhikkhu sīlavā ca hoti, dussīlyañcassa pahīnaṃ "
+"hoti, tena ca vivitto hoti;"
+msgstr ""
+
+msgctxt "an3.93:7.2"
+msgid ""
+"sammādiṭṭhiko ca hoti, micchādiṭṭhi cassa pahīnā hoti, tāya ca vivitto hoti;"
+msgstr ""
+
+msgctxt "an3.93:7.3"
+msgid "khīṇāsavo ca hoti, āsavā cassa pahīnā honti, tehi ca vivitto hoti."
+msgstr ""
+
+msgctxt "an3.93:7.4"
+msgid ""
+"Ayaṃ vuccati, bhikkhave, ‘bhikkhu aggappatto sārappatto suddho sāre "
+"patiṭṭhito’”ti."
+msgstr ""
+
+#. </p><p class="endsection">
+msgctxt "an3.93:7.5"
+msgid "Dutiyaṃ."
+msgstr ""
