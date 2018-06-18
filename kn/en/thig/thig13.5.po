@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 13:24+0157\n"
-"PO-Revision-Date: 2017-05-05 09:34+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1493976858.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thig/thig13.5.po\n"
+"X-Pootle-Revision: 8331\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -74,7 +73,9 @@ msgstr "Having seen fear in personal existence"
 
 #. <br>
 msgctxt "thig13.5:5.4"
-msgid "<span class=\"var\" title=\"nekkhammaññeva (bj) | nekkhammasseva (s2, s3) | nekkhammaṃ yeva (pts1-2)\" id=\"note104\">nekkhammameva</span> pīhaye."
+msgid ""
+"<span class=\"var\" title=\"nekkhammaññeva (bj) | nekkhammasseva (s2, s3) | "
+"nekkhammaṃ yeva (pts1-2)\" id=\"note104\">nekkhammameva</span> pīhaye."
 msgstr "I longed for renunciation"
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
@@ -111,7 +112,9 @@ msgstr "Abandoning much wealth"
 
 #. <br>
 msgctxt "thig13.5:7.3"
-msgid "<a class=\"verse-num-pts\" id=\"verse-num-pts341\"></a>Evaṃ saddhāya nikkhamma,"
+msgid ""
+"<a class=\"verse-num-pts\" id=\"verse-num-pts341\"></a>Evaṃ saddhāya "
+"nikkhamma,"
 msgstr "Having set out in faith"
 
 #. <br>
@@ -122,7 +125,9 @@ msgstr "The true Dhamma is brilliantly taught"
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc343"></a>
 msgctxt "thig13.5:8.1"
-msgid "<span class=\"var\" title=\"na me taṃ (bj, s2, s3, pts1-2)\" id=\"note105\">Netaṃ</span> assa patirūpaṃ,"
+msgid ""
+"<span class=\"var\" title=\"na me taṃ (bj, s2, s3, pts1-2)\" id=\"note105\""
+">Netaṃ</span> assa patirūpaṃ,"
 msgstr "It wouldn’t be proper"
 
 #. <br>
@@ -132,12 +137,17 @@ msgstr "In the state of having nothing"
 
 #. <br>
 msgctxt "thig13.5:8.3"
-msgid "<span class=\"var\" title=\"yā (s2, s3, pts1-2)\" id=\"note106\">Yo</span> jātarūpaṃ rajataṃ,"
+msgid ""
+"<span class=\"var\" title=\"yā (s2, s3, pts1-2)\" id=\"note106\">Yo</span> "
+"jātarūpaṃ rajataṃ,"
 msgstr "Having abandoned gold and silver"
 
 #. <br>
 msgctxt "thig13.5:8.4"
-msgid "<span class=\"var\" title=\"ṭhapetvā (s2, s3, pts1-2) | thapetvā (mr)\" id=\"note107\">Chaḍḍetvā</span> <span class=\"var\" title=\"punarāgahe (mr)\" id=\"note108\">punarāgame</span>."
+msgid ""
+"<span class=\"var\" title=\"ṭhapetvā (s2, s3, pts1-2) | thapetvā (mr)\" id=\""
+"note107\">Chaḍḍetvā</span> <span class=\"var\" title=\"punarāgahe (mr)\" id="
+"\"note108\">punarāgame</span>."
 msgstr "To take them up again"
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
@@ -364,7 +374,9 @@ msgstr "Dangerous, fearful"
 
 #. <br>
 msgctxt "thig13.5:19.3"
-msgid "Gedho suvisamo <span class=\"var\" title=\"lepo (bj)\" id=\"note109\">ceso</span>,"
+msgid ""
+"Gedho suvisamo <span class=\"var\" title=\"lepo (bj)\" id=\"note109\""
+">ceso</span>,"
 msgstr "Bringing irritation, thorny:"
 
 #. <br>
@@ -474,7 +486,9 @@ msgstr "They’re a snare quickly laid by Māra"
 
 #. <br>
 msgctxt "thig13.5:24.4"
-msgid "<span class=\"var\" title=\"khipaṃ (bj)\" id=\"note110\">khippaṃ</span> mārena oḍḍitaṃ."
+msgid ""
+"<span class=\"var\" title=\"khipaṃ (bj)\" id=\"note110\">khippaṃ</span> "
+"mārena oḍḍitaṃ."
 msgstr "For defilement of beings"
 
 #. </p><p><a class="sc" id="22"></a><a class="verse-num-sc"
@@ -523,7 +537,9 @@ msgstr "Always delighting in Nibbāna"
 #. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
 #. id="verse-num-sc362"></a><a class="verse-num-pts" id="verse-num-pts360"></a>
 msgctxt "thig13.5:27.1"
-msgid "Raṇaṃ <span class=\"var\" title=\"taritvā (bj)\" id=\"note111\">karitvā</span> kāmānaṃ,"
+msgid ""
+"Raṇaṃ <span class=\"var\" title=\"taritvā (bj)\" id=\"note111\""
+">karitvā</span> kāmānaṃ,"
 msgstr "Having been aggrieved by sensual pleasures"
 
 #. <br>
@@ -647,9 +663,10 @@ msgid "subhaṃ kammāradhītaranti."
 msgstr "Honouring Subhā, the smith’s daughter"
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="30"></a>
+#, fuzzy
 msgctxt "thig13.5:33.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thig13.5:33.2"
 msgid "Subhā kammāradhītā therī …."

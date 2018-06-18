@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2016-10-07 09:25+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1475832338.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag16.03.po\n"
+"X-Pootle-Revision: 8163\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -101,7 +100,9 @@ msgstr "Bound like the demon Vepaciti"
 
 #. <br>
 msgctxt "thag16.3:7.4"
-msgid "<span class=\"var\" title=\"vepacityāsuro (s2, s3, pts1)\" id=\"note340\">vepacityasuro</span> yathā."
+msgid ""
+"<span class=\"var\" title=\"vepacityāsuro (s2, s3, pts1)\" id=\"note340\""
+">vepacityasuro</span> yathā."
 msgstr "In Mahinda’s trap."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
@@ -175,17 +176,23 @@ msgstr "Propelled by the bow of craving,"
 
 #. <br>
 msgctxt "thag16.3:11.2"
-msgid "dve <span class=\"var\" title=\"dvedhāpannarasāyutaṃ (?)\" id=\"note341\">ca pannarasāyutaṃ</span>;"
+msgid ""
+"dve <span class=\"var\" title=\"dvedhāpannarasāyutaṃ (?)\" id=\"note341\">ca "
+"pannarasāyutaṃ</span>;"
 msgstr "Is stuck in my twice-fifteen ribs—"
 
 #. <br>
 msgctxt "thag16.3:11.3"
-msgid "Passa orasikaṃ <span class=\"var\" title=\"bālaṃ (s2, s3, pts1)\" id=\"note342\">bāḷhaṃ</span>,"
+msgid ""
+"Passa orasikaṃ <span class=\"var\" title=\"bālaṃ (s2, s3, pts1)\" id=\""
+"note342\">bāḷhaṃ</span>,"
 msgstr "See how it stands in my breast,"
 
 #. <br>
 msgctxt "thag16.3:11.4"
-msgid "bhetvāna <span class=\"var\" title=\"hadi (?)\" id=\"note343\">yadi</span> tiṭṭhati."
+msgid ""
+"bhetvāna <span class=\"var\" title=\"hadi (?)\" id=\"note343\">yadi</span> "
+"tiṭṭhati."
 msgstr "Breaking my strong heart."
 
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
@@ -243,7 +250,9 @@ msgstr "Who could pull out my dart of doubt,"
 
 #. <br>
 msgctxt "thag16.3:14.3"
-msgid "<span class=\"var\" title=\"nāraggena na satthena (?)\" id=\"note344\">Nānārajjena satthena</span>,"
+msgid ""
+"<span class=\"var\" title=\"nāraggena na satthena (?)\" id=\"note344\">"
+"Nānārajjena satthena</span>,"
 msgstr "Without a lance"
 
 #. <br>
@@ -259,7 +268,9 @@ msgstr "Without knife or wound,"
 
 #. <br>
 msgctxt "thag16.3:15.2"
-msgid "<span class=\"var\" title=\"... abbhantarāpassayaṃ (s2, s3) | ... abbhantara-apassayaṃ (pts2)\" id=\"note345\">Sallamabbhantarapassayaṃ</span>;"
+msgid ""
+"<span class=\"var\" title=\"... abbhantarāpassayaṃ (s2, s3) | ... abbhantara-"
+"apassayaṃ (pts2)\" id=\"note345\">Sallamabbhantarapassayaṃ</span>;"
 msgstr "Who will pull out this dart,"
 
 #. <br>
@@ -290,7 +301,9 @@ msgstr "When I had fallen into deep waters,"
 
 #. <br>
 msgctxt "thag16.3:16.4"
-msgid "thalaṃ <span class=\"var\" title=\"pāṇiva (s2, s3, pts1)\" id=\"note346\">pāṇiñca</span> dassaye."
+msgid ""
+"thalaṃ <span class=\"var\" title=\"pāṇiva (s2, s3, pts1)\" id=\"note346\""
+">pāṇiñca</span> dassaye."
 msgstr "He would give me his hand and bring me to the shore."
 
 #. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
@@ -306,7 +319,9 @@ msgstr "And I can’t wash off the mud and dirt,"
 
 #. <br>
 msgctxt "thag16.3:17.3"
-msgid "<span class=\"var\" title=\"māyāussuyya ... (s2, s3, pts1)\" id=\"note347\">Māyāusūyasārambha</span>,"
+msgid ""
+"<span class=\"var\" title=\"māyāussuyya ... (s2, s3, pts1)\" id=\"note347\""
+">Māyāusūyasārambha</span>,"
 msgstr "It’s full of fraud, jealousy, pride,"
 
 #. <br>
@@ -327,7 +342,10 @@ msgstr "Like a rain-cloud of fetters;"
 
 #. <br>
 msgctxt "thag16.3:18.3"
-msgid "Vāhā vahanti <span class=\"var\" title=\"duddiṭṭhiṃ (bj ^dhp334-359#335.2 [334. Kapilamacchavatthu/335. Sūkarapotikāvatthu])\" id=\"note348\">kuddiṭṭhiṃ</span>,"
+msgid ""
+"Vāhā vahanti <span class=\"var\" title=\"duddiṭṭhiṃ (bj ^dhp334-359#335.2 ["
+"334. Kapilamacchavatthu/335. Sūkarapotikāvatthu])\" id=\"note348\""
+">kuddiṭṭhiṃ</span>,"
 msgstr "Intentions based on lust are winds"
 
 #. <br>
@@ -475,7 +493,9 @@ msgstr "And that which is caused by attachment to future lives;"
 
 #. <br>
 msgctxt "thag16.3:25.3"
-msgid "Etesaṃ <span class=\"var\" title=\"appavattiyā (?)\" id=\"note349\">appavattāya</span>,"
+msgid ""
+"Etesaṃ <span class=\"var\" title=\"appavattiyā (?)\" id=\"note349\""
+">appavattāya</span>,"
 msgstr "He taught the supreme path"
 
 #. <br>
@@ -505,10 +525,13 @@ msgid "visadosappavāhano”ti."
 msgstr "Curing the poison’s damage."
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag16.3:27.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag16.3:27.2"
-msgid "<span class=\"var\" title=\"telukāni (s2, s3)\" id=\"note350\">Telakāni</span> thero …."
+msgid ""
+"<span class=\"var\" title=\"telukāni (s2, s3)\" id=\"note350\""
+">Telakāni</span> thero …."
 msgstr ""

@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2018-04-01 21:14+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1522617296.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag21.1.po\n"
+"X-Pootle-Revision: 8191\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -70,7 +69,9 @@ msgstr "Even if a thousand mighty princes and great archers, "
 
 #. <br>
 msgctxt "thag21.1:6.2"
-msgid "sikkhitā <span class=\"var\" title=\"daḷhadhanvino (bj-a)\" id=\"note512\">daḷhadhammino</span>;"
+msgid ""
+"sikkhitā <span class=\"var\" title=\"daḷhadhanvino (bj-a)\" id=\"note512\""
+">daḷhadhammino</span>;"
 msgstr "well trained, with strong bows,"
 
 #. <br>
@@ -88,7 +89,9 @@ msgstr "I would never flee."
 #. id="verse-num-sc1221"></a><a class="verse-num-pts"
 #. id="verse-num-pts1211"></a>
 msgctxt "thag21.1:7.1"
-msgid "Sacepi <span class=\"var\" title=\"etato (^sn8.1#1 [1. Nikkhantasutta])\" id=\"note513\">ettakā</span> bhiyyo,"
+msgid ""
+"Sacepi <span class=\"var\" title=\"etato (^sn8.1#1 [1. Nikkhantasutta])\" id="
+"\"note513\">ettakā</span> bhiyyo,"
 msgstr "And even if women come,"
 
 #. <br>
@@ -98,12 +101,16 @@ msgstr "many more than that,"
 
 #. <br>
 msgctxt "thag21.1:7.3"
-msgid "Neva maṃ <span class=\"var\" title=\"byāthayissanti (?)\" id=\"note514\">byādhayissanti</span>,"
+msgid ""
+"Neva maṃ <span class=\"var\" title=\"byāthayissanti (?)\" id=\"note514\""
+">byādhayissanti</span>,"
 msgstr "they won’t scare me,"
 
 #. <br>
 msgctxt "thag21.1:7.4"
-msgid "<span class=\"var\" title=\"dhammesvamhi (s2, pts1, mr)\" id=\"note515\">dhamme samhi</span> patiṭṭhito."
+msgid ""
+"<span class=\"var\" title=\"dhammesvamhi (s2, pts1, mr)\" id=\"note515\">"
+"dhamme samhi</span> patiṭṭhito."
 msgstr "for I stand firm in the teaching."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
@@ -152,7 +159,11 @@ msgstr "Will not even see the path I travel."
 
 #. </p><p><a class="sc" id="6"></a>
 msgctxt "thag21.1:10.1"
-msgid "<span class=\"cross\" title=\"^sn8.2#1 [2. Aratīsutta]\" id=\"note516\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1224\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1214\"></a><span class=\"var\" title=\"aratiṃ (bahūsu)\" id=\"note517\">Aratiñca</span> ratiñca pahāya,"
+msgid ""
+"<span class=\"cross\" title=\"^sn8.2#1 [2. Aratīsutta]\" id=\"note516\""
+">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1224\"></a><a class"
+"=\"verse-num-pts\" id=\"verse-num-pts1214\"></a><span class=\"var\" title=\""
+"aratiṃ (bahūsu)\" id=\"note517\">Aratiñca</span> ratiñca pahāya,"
 msgstr "Giving up dissatisfaction and desire,"
 
 #. <br>
@@ -167,7 +178,10 @@ msgstr "they wouldn’t get entangled in anything;"
 
 #. <br>
 msgctxt "thag21.1:10.4"
-msgid "<span class=\"var\" title=\"nibbanatho anato sa hi (s2, s3) | nibbanathā avanatho sa hi (pts1-2) | nibbanatho arato sa hi (^sn8.2#1 [2. Aratīsutta])\" id=\"note518\">Nibbanatho avanatho sa</span> bhikkhu."
+msgid ""
+"<span class=\"var\" title=\"nibbanatho anato sa hi (s2, s3) | nibbanathā "
+"avanatho sa hi (pts1-2) | nibbanatho arato sa hi (^sn8.2#1 [2. Aratīsutta])\""
+" id=\"note518\">Nibbanatho avanatho sa</span> bhikkhu."
 msgstr "unentangled, disentangled: that’s a real mendicant."
 
 #. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
@@ -201,7 +215,9 @@ msgstr "People are bound to their attachments,"
 
 #. <br>
 msgctxt "thag21.1:12.2"
-msgid "<span class=\"var\" title=\"diṭṭhe sute (bj)\" id=\"note519\">Diṭṭhasute</span> paṭighe ca mute ca;"
+msgid ""
+"<span class=\"var\" title=\"diṭṭhe sute (bj)\" id=\"note519\""
+">Diṭṭhasute</span> paṭighe ca mute ca;"
 msgstr "to what is seen, heard, felt, and thought."
 
 #. <br>
@@ -211,36 +227,49 @@ msgstr "Unstirred, dispel desire for these things;"
 
 #. <br>
 msgctxt "thag21.1:12.4"
-msgid "Yo hettha na <span class=\"var\" title=\"lippati (bj, s2, s3, pts1-2)\" id=\"note520\">limpati</span> muni <span class=\"var\" title=\"taṃ munimāhu (pts2 ^sn8.2#1 [2. Aratīsutta])\" id=\"note521\">tamāhu</span>."
+msgid ""
+"Yo hettha na <span class=\"var\" title=\"lippati (bj, s2, s3, pts1-2)\" id=\""
+"note520\">limpati</span> muni <span class=\"var\" title=\"taṃ munimāhu (pts2 "
+"^sn8.2#1 [2. Aratīsutta])\" id=\"note521\">tamāhu</span>."
 msgstr "for one called ‘a sage’ does not cling to them."
 
 #. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
 #. id="verse-num-sc1227"></a><a class="verse-num-pts"
 #. id="verse-num-pts1217"></a>
 msgctxt "thag21.1:13.1"
-msgid "<span class=\"var\" title=\"aṭṭha (bj, pts1)\" id=\"note522\">Atha</span> saṭṭhisitā savitakkā,"
+msgid ""
+"<span class=\"var\" title=\"aṭṭha (bj, pts1)\" id=\"note522\">Atha</span> "
+"saṭṭhisitā savitakkā,"
 msgstr "Attached to the sixty wrong views, and full of their own opinions,"
 
 #. <br>
 msgctxt "thag21.1:13.2"
-msgid "<span class=\"var\" title=\"puthujjanatāyaṃ (bj) | puthū janatāya (^sn8.2#1 [2. Aratīsutta])\" id=\"note523\">Puthujjanatāya</span> adhammā niviṭṭhā;"
+msgid ""
+"<span class=\"var\" title=\"puthujjanatāyaṃ (bj) | puthū janatāya (^sn8.2#1 ["
+"2. Aratīsutta])\" id=\"note523\">Puthujjanatāya</span> adhammā niviṭṭhā;"
 msgstr "ordinary people are fixed in wrong principles."
 
 #. <br>
 msgctxt "thag21.1:13.3"
-msgid "Na ca <span class=\"var\" title=\"vaṭṭagatassa (s2, s3) | vaggagatissa (pts1)\" id=\"note524\">vaggagatassa</span> kuhiñci,"
+msgid ""
+"Na ca <span class=\"var\" title=\"vaṭṭagatassa (s2, s3) | vaggagatissa (pts1)"
+"\" id=\"note524\">vaggagatassa</span> kuhiñci,"
 msgstr "But that mendicant wouldn’t join a sectarian group,"
 
 #. <br>
 msgctxt "thag21.1:13.4"
-msgid "No pana <span class=\"var\" title=\"padullagāhī (pts1) | duṭṭhullabhāṇī (^sn8.2#1 [2. Aratīsutta])\" id=\"note525\">duṭṭhullagāhī</span> sa bhikkhu."
+msgid ""
+"No pana <span class=\"var\" title=\"padullagāhī (pts1) | duṭṭhullabhāṇī "
+"(^sn8.2#1 [2. Aratīsutta])\" id=\"note525\">duṭṭhullagāhī</span> sa bhikkhu."
 msgstr "still less would they utter lewd speech."
 
 #. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
 #. id="verse-num-sc1228"></a><a class="verse-num-pts"
 #. id="verse-num-pts1218"></a><a class="pts" id="pts110"></a>
 msgctxt "thag21.1:14.1"
-msgid "Dabbo <span class=\"var\" title=\"cirarattaṃ samāhito (s2, s3, pts1)\" id=\"note526\">cirarattasamāhito</span>,"
+msgid ""
+"Dabbo <span class=\"var\" title=\"cirarattaṃ samāhito (s2, s3, pts1)\" id=\""
+"note526\">cirarattasamāhito</span>,"
 msgstr "Clever, long trained in convergence,"
 
 #. <br>
@@ -273,12 +302,16 @@ msgstr "Completely abandon the different kinds of conceit!"
 
 #. <br>
 msgctxt "thag21.1:15.3"
-msgid "<span class=\"var\" title=\"mānapathasmiṃ (s2, s3, pts2)\" id=\"note527\">Mānapathamhi</span> sa mucchito,"
+msgid ""
+"<span class=\"var\" title=\"mānapathasmiṃ (s2, s3, pts2)\" id=\"note527\""
+">Mānapathamhi</span> sa mucchito,"
 msgstr "Stupefied with the different kinds of conceit,"
 
 #. <br>
 msgctxt "thag21.1:15.4"
-msgid "<span class=\"var\" title=\"... hutvā (pts1) | vippaṭisār'ahuvā (pts2)\" id=\"note528\">Vippaṭisārīhuvā</span> cirarattaṃ."
+msgid ""
+"<span class=\"var\" title=\"... hutvā (pts1) | vippaṭisār'ahuvā (pts2)\" id="
+"\"note528\">Vippaṭisārīhuvā</span> cirarattaṃ."
 msgstr "you’ve had regrets for a long time."
 
 #. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
@@ -290,7 +323,9 @@ msgstr "Smeared by smears and slain by conceit,"
 
 #. <br>
 msgctxt "thag21.1:16.2"
-msgid "Mānahatā nirayaṃ <span class=\"var\" title=\"patanti (s2, s3, pts1)\" id=\"note529\">papatanti</span>;"
+msgid ""
+"Mānahatā nirayaṃ <span class=\"var\" title=\"patanti (s2, s3, pts1)\" id=\""
+"note529\">papatanti</span>;"
 msgstr "people fall into hell."
 
 #. <br>
@@ -329,7 +364,10 @@ msgstr "and they rightly call him a ‘Seer of Truth’."
 #. id="verse-num-sc1232"></a><a class="verse-num-pts"
 #. id="verse-num-pts1222"></a>
 msgctxt "thag21.1:18.1"
-msgid "Tasmā <span class=\"var\" title=\"akhilo (bj) | akhilo idham (pts1) | akhilodha (pts2 ^sn8.3#1 [3. Pesalasutta])\" id=\"note530\">akhilo idha</span> padhānavā,"
+msgid ""
+"Tasmā <span class=\"var\" title=\"akhilo (bj) | akhilo idham (pts1) | "
+"akhilodha (pts2 ^sn8.3#1 [3. Pesalasutta])\" id=\"note530\">akhilo "
+"idha</span> padhānavā,"
 msgstr "So don’t be hard-hearted, be energetic,"
 
 #. <br>
@@ -388,12 +426,19 @@ msgstr "Avoid noticing the attractive aspect of things,"
 
 #. <br>
 msgctxt "thag21.1:20.4"
-msgid "subhaṃ rāgūpasaṃhitaṃ. <span class=\"var\" title=\"Saṅkhāre parato passa dukkhato mā ca attato, nibbāpehi mahārāgaṃ mā ḍayihittho punappunaṃ (bj ^sn8.4#1 [4. Ānandasutta])\" id=\"note531\">()</span>"
+msgid ""
+"subhaṃ rāgūpasaṃhitaṃ. <span class=\"var\" title=\"Saṅkhāre parato passa "
+"dukkhato mā ca attato, nibbāpehi mahārāgaṃ mā ḍayihittho punappunaṃ (bj "
+"^sn8.4#1 [4. Ānandasutta])\" id=\"note531\">()</span>"
 msgstr "for that just provokes lust."
 
 #. </p><p><a class="sc" id="17"></a>
 msgctxt "thag21.1:21.1"
-msgid "<span class=\"cross\" title=\"^thi-ap36#16 [Abhirūpanandātherīapadāna]\" id=\"note532\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1235\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1225\"></a>Asubhāya cittaṃ bhāvehi,"
+msgid ""
+"<span class=\"cross\" title=\"^thi-ap36#16 [Abhirūpanandātherīapadāna]\" id="
+"\"note532\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1235\"></a><"
+"a class=\"verse-num-pts\" id=\"verse-num-pts1225\"></a>Asubhāya cittaṃ "
+"bhāvehi,"
 msgstr "Meditate on the unattractive,"
 
 #. <br>
@@ -523,7 +568,11 @@ msgstr "this really is the best kind of speech.”"
 
 #. </p><p><a class="sc" id="23"></a>
 msgctxt "thag21.1:27.1"
-msgid "<span class=\"cross\" title=\"^sn8.6#1 [6. Sāriputtasutta] | ^mi2#64 [Pubbayogādi]\" id=\"note533\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1241\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1231\"></a>“Gambhīrapañño medhāvī,"
+msgid ""
+"<span class=\"cross\" title=\"^sn8.6#1 [6. Sāriputtasutta] | ^mi2#64 "
+"[Pubbayogādi]\" id=\"note533\">*</span> <a class=\"verse-num-sc\" id=\"verse-"
+"num-sc1241\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1231\"></a>“"
+"Gambhīrapañño medhāvī,"
 msgstr "“Deep in wisdom, intelligent,"
 
 #. <br>
@@ -555,12 +604,17 @@ msgstr "or he speaks at length."
 
 #. <br>
 msgctxt "thag21.1:28.3"
-msgid "<span class=\"var\" title=\"sālikāyeva (s2, s3, pts1)\" id=\"note534\">Sālikāyiva</span> nigghoso,"
+msgid ""
+"<span class=\"var\" title=\"sālikāyeva (s2, s3, pts1)\" id=\"note534\""
+">Sālikāyiva</span> nigghoso,"
 msgstr "His call, like a myna bird,"
 
 #. <br>
 msgctxt "thag21.1:28.4"
-msgid "paṭibhānaṃ <span class=\"var\" title=\"udīrayi (bj, pts2 ^sn8.6#1 [6. Sāriputtasutta]) | udīyyati (s2, pts1) | udayyati (?)\" id=\"note535\">udiyyati</span>."
+msgid ""
+"paṭibhānaṃ <span class=\"var\" title=\"udīrayi (bj, pts2 ^sn8.6#1 [6. "
+"Sāriputtasutta]) | udīyyati (s2, pts1) | udayyati (?)\" id=\"note535\""
+">udiyyati</span>."
 msgstr "overflows with inspiration."
 
 #. </p><p><a class="sc" id="25"></a><a class="verse-num-sc"
@@ -572,7 +626,9 @@ msgstr "While he teaches"
 
 #. <br>
 msgctxt "thag21.1:29.2"
-msgid "<span class=\"var\" title=\"suṇantā (s2, s3, pts1)\" id=\"note536\">suṇanti</span> madhuraṃ giraṃ;"
+msgid ""
+"<span class=\"var\" title=\"suṇantā (s2, s3, pts1)\" id=\"note536\""
+">suṇanti</span> madhuraṃ giraṃ;"
 msgstr "the mendicants listen to his sweet voice,"
 
 #. <br>
@@ -709,7 +765,9 @@ msgstr "extinguishment, fearing nothing from any quarter."
 #. id="verse-num-sc1249"></a><a class="verse-num-pts"
 #. id="verse-num-pts1239"></a>
 msgctxt "thag21.1:35.1"
-msgid "Suṇanti dhammaṃ <span class=\"var\" title=\"vipulaṃ (s2, s3, pts1)\" id=\"note537\">vimalaṃ</span>,"
+msgid ""
+"Suṇanti dhammaṃ <span class=\"var\" title=\"vipulaṃ (s2, s3, pts1)\" id=\""
+"note537\">vimalaṃ</span>,"
 msgstr "They listen to the stainless Dhamma"
 
 #. <br>
@@ -821,12 +879,17 @@ msgstr "in the deathless he’s explained."
 #. id="verse-num-sc1254"></a><a class="verse-num-pts"
 #. id="verse-num-pts1244"></a>
 msgctxt "thag21.1:40.1"
-msgid "Pajjotakaro <span class=\"var\" title=\"ativijjha dhammaṃ (bj)\" id=\"note538\">ativijjha</span>,"
+msgid ""
+"Pajjotakaro <span class=\"var\" title=\"ativijjha dhammaṃ (bj)\" id=\""
+"note538\">ativijjha</span>,"
 msgstr "The bringer of light who has pierced the truth,"
 
 #. <br>
 msgctxt "thag21.1:40.2"
-msgid "<span class=\"var\" title=\"sabbaṭṭhitīnaṃ (bj, pts1-2)\" id=\"note539\">Sabbaṭhitīnaṃ</span> <span class=\"var\" title=\"atikkamamaddā (bj, pts1-2, mr)\" id=\"note540\">atikkamamaddasa</span>;"
+msgid ""
+"<span class=\"var\" title=\"sabbaṭṭhitīnaṃ (bj, pts1-2)\" id=\"note539\""
+">Sabbaṭhitīnaṃ</span> <span class=\"var\" title=\"atikkamamaddā (bj, pts1-2, "
+"mr)\" id=\"note540\">atikkamamaddasa</span>;"
 msgstr "he’s seen what lies beyond all states of rebirth."
 
 #. <br>
@@ -870,7 +933,9 @@ msgstr "“The senior monk who was awakened after the Buddha"
 
 #. <br>
 msgctxt "thag21.1:42.2"
-msgid "koṇḍañño <span class=\"var\" title=\"tibbanikkhamo (bj, pts1)\" id=\"note541\">tibbanikkamo</span>;"
+msgid ""
+"koṇḍañño <span class=\"var\" title=\"tibbanikkhamo (bj, pts1)\" id=\""
+"note541\">tibbanikkamo</span>;"
 msgstr "Koṇḍañña is keenly energetic."
 
 #. <br>
@@ -929,7 +994,12 @@ msgstr "bows at the teacher’s feet.”"
 
 #. </p><p><a class="sc" id="41"></a>
 msgctxt "thag21.1:45.1"
-msgid "<span class=\"cross\" title=\"^sn8.10#1 [10. Moggallānasutta] | ^cnd5#628 [Pucchāniddesa/ Udayamāṇavapucchāniddesa] | ^cnd7#36 [Pārāyanānugītigāthāniddesa]\" id=\"note542\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1259\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1249\"></a>“Nagassa passe āsīnaṃ,"
+msgid ""
+"<span class=\"cross\" title=\"^sn8.10#1 [10. Moggallānasutta] | ^cnd5#628 "
+"[Pucchāniddesa/ Udayamāṇavapucchāniddesa] | ^cnd7#36 "
+"[Pārāyanānugītigāthāniddesa]\" id=\"note542\">*</span> <a class=\"verse-num-"
+"sc\" id=\"verse-num-sc1259\"></a><a class=\"verse-num-pts\" id=\"verse-num-"
+"pts1249\"></a>“Nagassa passe āsīnaṃ,"
 msgstr "“As the sage, who has gone beyond suffering,"
 
 #. <br>
@@ -951,7 +1021,9 @@ msgstr "destroyers of death."
 #. id="verse-num-sc1260"></a><a class="verse-num-pts"
 #. id="verse-num-pts1250"></a>
 msgctxt "thag21.1:46.1"
-msgid "<span class=\"var\" title=\"te cetasā (^sn8.10#1 [10. Moggallānasutta])\" id=\"note543\">Cetasā</span> anupariyeti,"
+msgid ""
+"<span class=\"var\" title=\"te cetasā (^sn8.10#1 [10. Moggallānasutta])\" id="
+"\"note543\">Cetasā</span> anupariyeti,"
 msgstr "Moggallāna, of great psychic power,"
 
 #. <br>
@@ -961,7 +1033,9 @@ msgstr "comprehends with his mind,"
 
 #. <br>
 msgctxt "thag21.1:46.3"
-msgid "Cittaṃ nesaṃ <span class=\"var\" title=\"samannesaṃ (^sn8.10#1 [10. Moggallānasutta])\" id=\"note544\">samanvesaṃ</span>,"
+msgid ""
+"Cittaṃ nesaṃ <span class=\"var\" title=\"samannesaṃ (^sn8.10#1 [10. "
+"Moggallānasutta])\" id=\"note544\">samanvesaṃ</span>,"
 msgstr "searching their minds,"
 
 #. <br>
@@ -1028,7 +1102,9 @@ msgstr "village to village, town to town."
 
 #. <br>
 msgctxt "thag21.1:49.3"
-msgid "<span class=\"var\" title=\"athaddasāmi (s2, s3, pts1)\" id=\"note545\">Athaddasāma</span> sambuddhaṃ,"
+msgid ""
+"<span class=\"var\" title=\"athaddasāmi (s2, s3, pts1)\" id=\"note545\""
+">Athaddasāma</span> sambuddhaṃ,"
 msgstr "Then we saw the Buddha,"
 
 #. <br>
@@ -1055,7 +1131,9 @@ msgstr "When we heard the Dhamma, we became confident—"
 
 #. <br>
 msgctxt "thag21.1:50.4"
-msgid "<span class=\"var\" title=\"addhā (bj)\" id=\"note546\">saddhā</span> no udapajjatha."
+msgid ""
+"<span class=\"var\" title=\"addhā (bj)\" id=\"note546\">saddhā</span> no "
+"udapajjatha."
 msgstr "Faith arose in us."
 
 #. </p><p><a class="sc" id="47"></a><a class="verse-num-sc"
@@ -1121,7 +1199,9 @@ msgstr "The monks and nuns, who see"
 
 #. <br>
 msgctxt "thag21.1:53.4"
-msgid "ye <span class=\"var\" title=\"niyāmagataddasā (bj, pts2) | niyāmagataṃdasā (s2, s3, pts1)\" id=\"note547\">nirāmagataddasā</span>."
+msgid ""
+"ye <span class=\"var\" title=\"niyāmagataddasā (bj, pts2) | niyāmagataṃdasā ("
+"s2, s3, pts1)\" id=\"note547\">nirāmagataddasā</span>."
 msgstr "The natural principles of the Dhamma."
 
 #. </p><p><a class="sc" id="50"></a><a class="verse-num-sc"
@@ -1204,7 +1284,9 @@ msgstr "to be in the presence of the Buddha."
 
 #. <br>
 msgctxt "thag21.1:57.3"
-msgid "<span class=\"var\" title=\"saṃvibhattesu (bj, pts1-2) | savibhattesu (si, mr)\" id=\"note548\">Suvibhattesu</span> dhammesu,"
+msgid ""
+"<span class=\"var\" title=\"saṃvibhattesu (bj, pts1-2) | savibhattesu (si, "
+"mr)\" id=\"note548\">Suvibhattesu</span> dhammesu,"
 msgstr "Of things which are shared,"
 
 #. <br>
@@ -1236,12 +1318,18 @@ msgstr "I’m skilled at reading the minds of others.”"
 
 #. </p><p><a class="sc" id="55"></a>
 msgctxt "thag21.1:59.1"
-msgid "<span class=\"cross\" title=\"^snp2.12#157 [Nigrodhakappa (vaṅgīsa) sutta]\" id=\"note549\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1273\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1263\"></a><a class=\"pts\" id=\"pts113\"></a>“Pucchāmi satthāramanomapaññaṃ,"
+msgid ""
+"<span class=\"cross\" title=\"^snp2.12#157 [Nigrodhakappa (vaṅgīsa) sutta]\" "
+"id=\"note549\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1273\""
+"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1263\"></a><a class=\"pts\""
+" id=\"pts113\"></a>“Pucchāmi satthāramanomapaññaṃ,"
 msgstr "“I ask the teacher unrivalled in understanding,"
 
 #. <br>
 msgctxt "thag21.1:59.2"
-msgid "Diṭṭheva dhamme yo vicikicchānaṃ <span class=\"var\" title=\"chetvā (bj, pts1)\" id=\"note550\">chettā</span>;"
+msgid ""
+"Diṭṭheva dhamme yo vicikicchānaṃ <span class=\"var\" title=\"chetvā (bj, "
+"pts1)\" id=\"note550\">chettā</span>;"
 msgstr "Who has cut off all doubts in this very life—"
 
 #. <br>
@@ -1268,7 +1356,9 @@ msgstr "It was given to that brahman by you, Blessed One."
 
 #. <br>
 msgctxt "thag21.1:60.3"
-msgid "So taṃ namassaṃ acari <span class=\"var\" title=\"mutyapekkho (s2, s3 ^snp2.12#158 [Nigrodhakappa (vaṅgīsa)\" id=\"note551\">mutyapekho</span>,"
+msgid ""
+"So taṃ namassaṃ acari <span class=\"var\" title=\"mutyapekkho (s2, s3 "
+"^snp2.12#158 [Nigrodhakappa (vaṅgīsa)\" id=\"note551\">mutyapekho</span>,"
 msgstr "Yearning for freedom, energetic, firmly seeing the Dhamma,"
 
 #. <br>
@@ -1290,7 +1380,9 @@ msgstr "All of us wish to know about that disciple."
 
 #. <br>
 msgctxt "thag21.1:61.3"
-msgid "Samavaṭṭhitā no savanāya <span class=\"var\" title=\"hetuṃ (si) | sotaṃ (s2, pts1)\" id=\"note552\">sotā</span>,"
+msgid ""
+"Samavaṭṭhitā no savanāya <span class=\"var\" title=\"hetuṃ (si) | sotaṃ (s2, "
+"pts1)\" id=\"note552\">sotā</span>,"
 msgstr "Our ears are eager to hear,"
 
 #. <br>
@@ -1324,7 +1416,9 @@ msgstr "Like the thousand-eyed Sakka in the assembly of the gods!"
 #. id="verse-num-sc1277"></a><a class="verse-num-pts"
 #. id="verse-num-pts1267"></a>
 msgctxt "thag21.1:63.1"
-msgid "Ye keci <span class=\"var\" title=\"gandhā (s2, s3, pts1)\" id=\"note553\">ganthā</span> idha mohamaggā,"
+msgid ""
+"Ye keci <span class=\"var\" title=\"gandhā (s2, s3, pts1)\" id=\"note553\""
+">ganthā</span> idha mohamaggā,"
 msgstr "Whatever ties there are, or paths to delusion,"
 
 #. <br>
@@ -1362,7 +1456,9 @@ msgstr "Darkness would cover the whole world,"
 
 #. <br>
 msgctxt "thag21.1:64.4"
-msgid "<span class=\"var\" title=\"na jotimantopi narā tapeyyuṃ (^snp2.12#162 [Nigrodhakappa (vaṅgīsa)\" id=\"note554\">Jotimantopi na pabhāseyyuṃ</span>."
+msgid ""
+"<span class=\"var\" title=\"na jotimantopi narā tapeyyuṃ (^snp2.12#162 ["
+"Nigrodhakappa (vaṅgīsa)\" id=\"note554\">Jotimantopi na pabhāseyyuṃ</span>."
 msgstr "And even a lamp would not shine."
 
 #. </p><p><a class="sc" id="61"></a><a class="verse-num-sc"
@@ -1396,7 +1492,9 @@ msgstr "Swiftly send forth your graceful voice,"
 
 #. <br>
 msgctxt "thag21.1:66.2"
-msgid "Haṃsova paggayha <span class=\"var\" title=\"sanikaṃ (bj, pts1) | saṇiṃ (pts2)\" id=\"note555\">saṇikaṃ</span> nikūja;"
+msgid ""
+"Haṃsova paggayha <span class=\"var\" title=\"sanikaṃ (bj, pts1) | saṇiṃ "
+"(pts2)\" id=\"note555\">saṇikaṃ</span> nikūja;"
 msgstr "Like a goose stretching its neck, gently honking,"
 
 #. <br>
@@ -1418,17 +1516,23 @@ msgstr "You have entirely abandoned birth and death;"
 
 #. <br>
 msgctxt "thag21.1:67.2"
-msgid "Niggayha dhonaṃ <span class=\"var\" title=\" paṭivediyāmi (sī1)\" id=\"note556\">vadessāmi dhammaṃ</span>;"
+msgid ""
+"Niggayha dhonaṃ <span class=\"var\" title=\" paṭivediyāmi (sī1)\" id=\""
+"note556\">vadessāmi dhammaṃ</span>;"
 msgstr "Restrained and pure, speak the Dhamma!"
 
 #. <br>
 msgctxt "thag21.1:67.3"
-msgid "Na kāmakāro <span class=\"var\" title=\"hoti (si)\" id=\"note558\">hi</span> puthujjanānaṃ,"
+msgid ""
+"Na kāmakāro <span class=\"var\" title=\"hoti (si)\" id=\"note558\">hi</span> "
+"puthujjanānaṃ,"
 msgstr "Unenlightened people can’t fulfil all their wishes,"
 
 #. <br>
 msgctxt "thag21.1:67.4"
-msgid "Saṅkheyyakāro <span class=\"var\" title=\"va (bahūsu)\" id=\"note559\">ca</span> tathāgatānaṃ."
+msgid ""
+"Saṅkheyyakāro <span class=\"var\" title=\"va (bahūsu)\" id=\"note559\""
+">ca</span> tathāgatānaṃ."
 msgstr "But Tathāgatas can achieve what they intend."
 
 #. </p><p><a class="sc" id="64"></a><a class="verse-num-sc"
@@ -1457,7 +1561,9 @@ msgstr "Your understanding is unrivalled, so do not knowingly confuse us."
 #. id="verse-num-sc1283"></a><a class="verse-num-pts"
 #. id="verse-num-pts1273"></a>
 msgctxt "thag21.1:69.1"
-msgid "<span class=\"var\" title=\"parovaraṃ (bj, s2, s3, pts1)\" id=\"note560\">Paroparaṃ</span> ariyadhammaṃ viditvā,"
+msgid ""
+"<span class=\"var\" title=\"parovaraṃ (bj, s2, s3, pts1)\" id=\"note560\""
+">Paroparaṃ</span> ariyadhammaṃ viditvā,"
 msgstr "Knowing the noble Dhamma from top to bottom,"
 
 #. <br>
@@ -1489,7 +1595,9 @@ msgstr "Did he realise nibbāna,"
 
 #. <br>
 msgctxt "thag21.1:70.3"
-msgid "Nibbāyi so <span class=\"var\" title=\" anupādisesā (ka-sī), anupādiseso (ka-ma)\" id=\"note561\">ādu saupādiseso</span>,"
+msgid ""
+"Nibbāyi so <span class=\"var\" title=\" anupādisesā (ka-sī), anupādiseso (ka-"
+"ma)\" id=\"note561\">ādu saupādiseso</span>,"
 msgstr "Or did he still have a remnant of defilement?"
 
 #. <br>
@@ -1501,7 +1609,9 @@ msgstr "Let us hear what kind of liberation he had!”"
 #. id="verse-num-sc1285"></a><a class="verse-num-pts"
 #. id="verse-num-pts1275"></a>
 msgctxt "thag21.1:71.1"
-msgid "“Acchecchi taṇhaṃ idha nāmarūpe,<span class=\"gathaQuote\">(iti bhagavā)</span>"
+msgid ""
+"“Acchecchi taṇhaṃ idha nāmarūpe,<span class=\"gathaQuote\">(iti "
+"bhagavā)</span>"
 msgstr "“He cut off craving for mind and body in this very life,"
 
 #. <br>

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:26+0000\n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,12 +31,14 @@ msgid "1. Kimatthiyasutta"
 msgstr "1. What’s the Purpose?"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli5.311"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli5.311"></a>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "an11.1:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 msgctxt "an11.1:1.2"
 msgid ""
 "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
@@ -136,7 +138,7 @@ msgid "“Yathābhūtañāṇadassanaṃ kho, ānanda, nibbidatthaṃ nibbidāni
 msgstr "“Disillusionment …”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli5.312"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli5.312"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "an11.1:9.1"
 msgid "“Nibbidā pana, bhante, kimatthiyā kimānisaṃsā”?"

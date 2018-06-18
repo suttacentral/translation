@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2017-04-14 02:24+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1492136684.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag12.2.po\n"
+"X-Pootle-Revision: 8147\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -53,7 +52,9 @@ msgstr "Poor, with little to eat."
 
 #. <br>
 msgctxt "thag12.2:5.3"
-msgid "<span class=\"var\" title=\"hīnaṃ kammaṃ (s2, s3, pts1-2)\" id=\"note290\">Hīnakammaṃ</span> mamaṃ āsi,"
+msgid ""
+"<span class=\"var\" title=\"hīnaṃ kammaṃ (s2, s3, pts1-2)\" id=\"note290\""
+">Hīnakammaṃ</span> mamaṃ āsi,"
 msgstr "My job was lowly—"
 
 #. <br>
@@ -206,7 +207,9 @@ msgstr "In the middle watch of the night,"
 
 #. <br>
 msgctxt "thag12.2:12.4"
-msgid "<span class=\"var\" title=\"dibbacakkhuṃ visodhitaṃ (pts1) | dibbacakkhu visodhitaṃ (mr)\" id=\"note291\">Dibbacakkhuṃ visodhayiṃ</span>;"
+msgid ""
+"<span class=\"var\" title=\"dibbacakkhuṃ visodhitaṃ (pts1) | dibbacakkhu "
+"visodhitaṃ (mr)\" id=\"note291\">Dibbacakkhuṃ visodhayiṃ</span>;"
 msgstr "I purified the divine eye."
 
 #. <br>
@@ -284,7 +287,10 @@ msgstr "And said the following:"
 
 #. </p><p><a class="sc" id="12"></a>
 msgctxt "thag12.2:16.1"
-msgid "<span class=\"cross\" title=\"^snp3.9#497 [Vāseṭṭhasutta]\" id=\"note292\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc631\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts631\"></a>‘Tapena brahmacariyena,"
+msgid ""
+"<span class=\"cross\" title=\"^snp3.9#497 [Vāseṭṭhasutta]\" id=\"note292\""
+">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc631\"></a><a class"
+"=\"verse-num-pts\" id=\"verse-num-pts631\"></a>‘Tapena brahmacariyena,"
 msgstr "“By austerity and by the holy life,"
 
 #. <br>
@@ -303,9 +309,10 @@ msgid "etaṃ brāhmaṇamuttaman’”ti."
 msgstr "This is the supreme holiness.”"
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag12.2:17.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag12.2:17.2"
 msgid "Sunīto thero …."

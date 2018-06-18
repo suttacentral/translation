@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:26+0000\n"
+"POT-Creation-Date: 2018-06-18 13:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,10 +32,12 @@ msgstr "41. The Sabbath With Eight Factors, In Brief"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "an8.41:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 msgctxt "an8.41:1.2"
 msgid ""
 "ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
@@ -60,7 +62,7 @@ msgid "Bhagavā etadavoca:"
 msgstr "The Buddha said this:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.249"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.249"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an8.41:2.1"
 msgid ""
@@ -171,7 +173,7 @@ msgid "Iminā tatiyena aṅgena samannāgato hoti. (3)"
 msgstr "This is its third factor."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.250"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.250"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "an8.41:5.1"
 msgid ""
@@ -296,7 +298,7 @@ msgid "Iminā sattamena aṅgena samannāgato hoti. (7)"
 msgstr "This is its seventh factor."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.251"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli4.251"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "an8.41:9.1"
 msgid ""

@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 13:24+0157\n"
-"PO-Revision-Date: 2017-07-14 00:48+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1499993298.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thig/thig13.1.po\n"
+"X-Pootle-Revision: 8323\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -64,7 +63,10 @@ msgstr "Covered with flowers"
 
 #. <br>
 msgctxt "thig13.1:5.2"
-msgid "<span class=\"var\" title=\"pupphapūraṃ (s2, s3, pts1-2)\" id=\"note76\">Pupphapūra</span> mama <span class=\"var\" title=\"uttamaṅgabhūto (s2, s3, mr) | uttamaṅgabhu (pts1-2)\" id=\"note77\">uttamaṅgajo</span>;"
+msgid ""
+"<span class=\"var\" title=\"pupphapūraṃ (s2, s3, pts1-2)\" id=\"note76\""
+">Pupphapūra</span> mama <span class=\"var\" title=\"uttamaṅgabhūto (s2, s3, "
+"mr) | uttamaṅgabhu (pts1-2)\" id=\"note77\">uttamaṅgajo</span>;"
 msgstr "My head was perfumed like a fragment casket"
 
 #. <br>
@@ -217,7 +219,9 @@ msgstr "Incomparable, the colour of plantain buds"
 
 #. <br>
 msgctxt "thig13.1:12.3"
-msgid "Te jarāya <span class=\"var\" title=\" khaṇḍitā ca pītakā (sī1), khaṇḍā yavapītakā (syā2, syā3, pā1-2)\" id=\"note78\">khaṇḍitā cāsitā</span>,"
+msgid ""
+"Te jarāya <span class=\"var\" title=\" khaṇḍitā ca pītakā (sī1), khaṇḍā "
+"yavapītakā (syā2, syā3, pā1-2)\" id=\"note78\">khaṇḍitā cāsitā</span>,"
 msgstr "Now due to old age they’re yellow and broken"
 
 #. <br>
@@ -259,7 +263,9 @@ msgstr "Like a well-rubbed conch shell"
 
 #. <br>
 msgctxt "thig13.1:14.3"
-msgid "Sā jarāya <span class=\"var\" title=\"bhañjitā (?)\" id=\"note80\">bhaggā</span> vināmitā,"
+msgid ""
+"Sā jarāya <span class=\"var\" title=\"bhañjitā (?)\" id=\"note80\""
+">bhaggā</span> vināmitā,"
 msgstr "Now due to old age its broken and bent"
 
 #. <br>
@@ -281,7 +287,9 @@ msgstr "Like rounded cross-bars, incomparable"
 
 #. <br>
 msgctxt "thig13.1:15.3"
-msgid "Tā jarāya <span class=\"var\" title=\"yathā pāṭalippalitā (bj, s2, s3, mr) | yathā pāṭalī dubbalikā (pts1-2)\" id=\"note81\">yatha pāṭalibbalitā</span>,"
+msgid ""
+"Tā jarāya <span class=\"var\" title=\"yathā pāṭalippalitā (bj, s2, s3, mr) | "
+"yathā pāṭalī dubbalikā (pts1-2)\" id=\"note81\">yatha pāṭalibbalitā</span>,"
 msgstr "Now due to old age they’re weak like a Pāṭalī tree"
 
 #. <br>
@@ -318,7 +326,9 @@ msgstr "Previously my breasts were beautiful"
 
 #. <br>
 msgctxt "thig13.1:17.2"
-msgid "<span class=\"var\" title=\"sobhate (s2, s3, pts1-2)\" id=\"note82\">Sobhare</span> su thanakā pure mama;"
+msgid ""
+"<span class=\"var\" title=\"sobhate (s2, s3, pts1-2)\" id=\"note82\""
+">Sobhare</span> su thanakā pure mama;"
 msgstr "Swelling, round, close together, lofty"
 
 #. <br>
@@ -438,9 +448,10 @@ msgid "Saccavādivacanaṃ anaññathā”."
 msgstr "Not otherwise is the word of the speaker of truth "
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="20"></a>
+#, fuzzy
 msgctxt "thig13.1:23.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thig13.1:23.2"
 msgid "Ambapālī therī …."

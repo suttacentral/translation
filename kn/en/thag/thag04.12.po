@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag04.12.po\n"
+"X-Pootle-Revision: 8057\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -65,7 +68,9 @@ msgstr "With pleasure, let this body be broken!"
 
 #. <br>
 msgctxt "thag4.12:6.2"
-msgid "maṃsapesī <span class=\"var\" title=\"visiyantu (mr)\" id=\"note181\">visīyaruṃ</span>;"
+msgid ""
+"maṃsapesī <span class=\"var\" title=\"visiyantu (mr)\" id=\"note181\""
+">visīyaruṃ</span>;"
 msgstr "Let this lump of flesh be dissolved!"
 
 #. <br>
@@ -121,9 +126,10 @@ msgid "kataṃ buddhassa sāsanan”ti."
 msgstr "And fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag4.12:9.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag4.12:9.2"
 msgid "Mudito thero …."
@@ -166,7 +172,9 @@ msgstr ""
 
 #. <br>
 msgctxt "thag4.12:13.2"
-msgid "<span class=\"var\" title=\"idāni naveva therā\" id=\"note182\">dasete</span> buddhasāvakā;"
+msgid ""
+"<span class=\"var\" title=\"idāni naveva therā\" id=\"note182\">dasete</span>"
+" buddhasāvakā;"
 msgstr ""
 
 #. <br>
@@ -186,6 +194,7 @@ msgstr ""
 
 #. <br>
 msgctxt "thag4.12:13.6"
-msgid "therā sabbepi <span class=\"var\" title=\"idāni dvādaseva therā\" id=\"note183\">terasāti</span>."
+msgid ""
+"therā sabbepi <span class=\"var\" title=\"idāni dvādaseva therā\" id=\""
+"note183\">terasāti</span>."
 msgstr ""
-

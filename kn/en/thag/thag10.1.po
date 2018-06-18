@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2017-05-02 00:19+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1493684343.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag10.1.po\n"
+"X-Pootle-Revision: 8129\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -74,7 +73,9 @@ msgstr "Wafting their scent all around, in all directions,"
 
 #. <br>
 msgctxt "thag10.1:6.3"
-msgid "Pattaṃ pahāya <span class=\"var\" title=\"phalamāsamānā (mr)\" id=\"note260\">phalamāsasānā</span>,"
+msgid ""
+"Pattaṃ pahāya <span class=\"var\" title=\"phalamāsamānā (mr)\" id=\"note260\""
+">phalamāsasānā</span>,"
 msgstr "They’ve shed their leaves and wish to fruit,"
 
 #. <br>
@@ -137,7 +138,10 @@ msgstr "May it succeed!"
 
 #. </p><p><a class="sc" id="5"></a>
 msgctxt "thag10.1:9.1"
-msgid "<span class=\"cross\" title=\"^sn7.12#1 [12. Udayasutta]\" id=\"note261\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc531\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts531\"></a>Punappunaṃ ceva vapanti bījaṃ,"
+msgid ""
+"<span class=\"cross\" title=\"^sn7.12#1 [12. Udayasutta]\" id=\"note261\""
+">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc531\"></a><a class"
+"=\"verse-num-pts\" id=\"verse-num-pts531\"></a>Punappunaṃ ceva vapanti bījaṃ,"
 msgstr "Again and again, they sow the seed;"
 
 #. <br>
@@ -157,7 +161,10 @@ msgstr "Again and again, grain is produced for the nation."
 
 #. </p><p><a class="sc" id="6"></a>
 msgctxt "thag10.1:10.1"
-msgid "<span class=\"cross\" title=\"^sn7.12#1 [12. Udayasutta]\" id=\"note262\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc532\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts532\"></a>Punappunaṃ yācanakā caranti,"
+msgid ""
+"<span class=\"cross\" title=\"^sn7.12#1 [12. Udayasutta]\" id=\"note262\""
+">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc532\"></a><a class"
+"=\"verse-num-pts\" id=\"verse-num-pts532\"></a>Punappunaṃ yācanakā caranti,"
 msgstr "Again and again, the beggars wander,"
 
 #. <br>
@@ -179,7 +186,9 @@ msgstr "Again and again, they go to their place in heaven."
 #. id="verse-num-sc533"></a><a class="verse-num-pts"
 #. id="verse-num-pts533"></a><a class="pts" id="pts57"></a>
 msgctxt "thag10.1:11.1"
-msgid "<span class=\"var\" title=\"dhīro (s2, s3)\" id=\"note263\">Vīro</span> have sattayugaṃ puneti,"
+msgid ""
+"<span class=\"var\" title=\"dhīro (s2, s3)\" id=\"note263\">Vīro</span> have "
+"sattayugaṃ puneti,"
 msgstr "A hero of vast wisdom purifies seven generations"
 
 #. <br>
@@ -194,7 +203,9 @@ msgstr "Sakya, I believe you’re the king of kings,"
 
 #. <br>
 msgctxt "thag10.1:11.4"
-msgid "<span class=\"var\" title=\"tayābhijāto (si)\" id=\"note264\">Tayā hi jāto</span> muni saccanāmo."
+msgid ""
+"<span class=\"var\" title=\"tayābhijāto (si)\" id=\"note264\">Tayā hi "
+"jāto</span> muni saccanāmo."
 msgstr "Since you fathered the one who is truly called a sage."
 
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
@@ -261,9 +272,10 @@ msgid "Dhammena me gotama ayyakosī”ti."
 msgstr "Gotama, you are my grandfather in the Dhamma.”"
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag10.1:15.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag10.1:15.2"
 msgid "Kāḷudāyī thero …."

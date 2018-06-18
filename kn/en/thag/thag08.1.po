@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2016-10-18 10:39+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1476787190.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag08.1.po\n"
+"X-Pootle-Revision: 8121\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -58,7 +57,9 @@ msgstr "If you’re eager and greedy for flavours,"
 
 #. <br>
 msgctxt "thag8.1:5.4"
-msgid "Atthaṃ riñcati yo <span class=\"var\" title=\"sukhāvāho (pts2)\" id=\"note249\">sukhādhivāho</span>."
+msgid ""
+"Atthaṃ riñcati yo <span class=\"var\" title=\"sukhāvāho (pts2)\" id=\""
+"note249\">sukhādhivāho</span>."
 msgstr "You’ll miss the goal that brings such happiness."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
@@ -116,7 +117,10 @@ msgstr "And you’re not a sage because of what someone else says;"
 
 #. <br>
 msgctxt "thag8.1:8.3"
-msgid "Attā <span class=\"var\" title=\"attā ca yathā vetti (bj) | attānañca yathā vedi (s2, s3) | attānaṃ ca yathā veti (pts1)\" id=\"note250\">ca naṃ yathāvedi</span>,"
+msgid ""
+"Attā <span class=\"var\" title=\"attā ca yathā vetti (bj) | attānañca yathā "
+"vedi (s2, s3) | attānaṃ ca yathā veti (pts1)\" id=\"note250\">ca naṃ "
+"yathāvedi</span>,"
 msgstr "But as you know yourself,"
 
 #. <br>
@@ -210,18 +214,23 @@ msgstr "Though you have strength, be as if feeble."
 
 #. <br>
 msgctxt "thag8.1:12.5"
-msgid "<span class=\"var\" title=\"attaatthe (^mi7.2.1#4 [Gadrabhavagga/ Kukkuṭaṅgapañha])\" id=\"note251\">Atha atthe</span> samuppanne,"
+msgid ""
+"<span class=\"var\" title=\"attaatthe (^mi7.2.1#4 [Gadrabhavagga/ "
+"Kukkuṭaṅgapañha])\" id=\"note251\">Atha atthe</span> samuppanne,"
 msgstr "Then, when the goal has been realised,"
 
 #. <br>
 msgctxt "thag8.1:12.6"
-msgid "<span class=\"var\" title=\"passetha (mr)\" id=\"note252\">sayetha</span> matasāyikan”ti."
+msgid ""
+"<span class=\"var\" title=\"passetha (mr)\" id=\"note252\">sayetha</span> "
+"matasāyikan”ti."
 msgstr "You may lie on your death-bed."
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag8.1:13.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag8.1:13.2"
 msgid "Mahākaccāyano thero …."

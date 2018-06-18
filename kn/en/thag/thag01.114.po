@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag01.114.po\n"
+"X-Pootle-Revision: 7891\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -44,7 +47,9 @@ msgstr "When your body is uncomfortably heavy,"
 
 #. <br>
 msgctxt "thag1.114:5.2"
-msgid "<span class=\"var\" title=\"hīyamānamhi (bj)\" id=\"note77\">hiyyamānamhi</span> jīvite;"
+msgid ""
+"<span class=\"var\" title=\"hīyamānamhi (bj)\" id=\"note77\""
+">hiyyamānamhi</span> jīvite;"
 msgstr "While life is running out;"
 
 #. <br>
@@ -58,11 +63,11 @@ msgid "kuto samaṇasādhutā”ti."
 msgstr "How can you find happiness as an ascetic?"
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag1.114:6.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag1.114:6.2"
 msgid "Adhimutto thero …."
 msgstr ""
-

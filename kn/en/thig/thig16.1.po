@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 13:24+0157\n"
-"PO-Revision-Date: 2017-08-20 01:42+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1503193345.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thig/thig16.1.po\n"
+"X-Pootle-Revision: 8337\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -90,7 +89,9 @@ msgstr "Even divine existence isn’t eternal"
 
 #. <br>
 msgctxt "thig16.1:6.3"
-msgid "<span class=\"var\" title=\"kimaṅga pana (bj, s2, pts1-2) | kiṃ pana (?)\" id=\"note142\">Kimaṅgaṃ pana</span> tucchā kāmā,"
+msgid ""
+"<span class=\"var\" title=\"kimaṅga pana (bj, s2, pts1-2) | kiṃ pana (?)\" "
+"id=\"note142\">Kimaṅgaṃ pana</span> tucchā kāmā,"
 msgstr "How much more empty are sensual pleasures?"
 
 #. <br>
@@ -116,7 +117,9 @@ msgstr "Confined in hell for a long time"
 
 #. <br>
 msgctxt "thig16.1:7.4"
-msgid "Samappitā <span class=\"var\" title=\"haññare dukhitā (?)\" id=\"note143\">haññante dukkhitā</span>."
+msgid ""
+"Samappitā <span class=\"var\" title=\"haññare dukhitā (?)\" id=\"note143\">"
+"haññante dukkhitā</span>."
 msgstr "They’re harmed and suffer"
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
@@ -212,7 +215,9 @@ msgstr "Four lower world states, two upper world states: "
 
 #. <br>
 msgctxt "thig16.1:12.2"
-msgid "<span class=\"var\" title=\"dve (sabbattha)\" id=\"note144\">Duve</span> ca gatiyo kathañci labbhanti;"
+msgid ""
+"<span class=\"var\" title=\"dve (sabbattha)\" id=\"note144\">Duve</span> ca "
+"gatiyo kathañci labbhanti;"
 msgstr "These are arrived at one way or another"
 
 #. <br>
@@ -249,7 +254,9 @@ msgstr "I’ll apply myself to the end of birth and death"
 #. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
 #. id="verse-num-sc460"></a><a class="verse-num-pts" id="verse-num-pts458"></a>
 msgctxt "thig16.1:14.1"
-msgid "Kiṃ <span class=\"var\" title=\"bhavagatena (s2, s3, pts1-2)\" id=\"note145\">bhavagate</span> abhinanditena,"
+msgid ""
+"Kiṃ <span class=\"var\" title=\"bhavagatena (s2, s3, pts1-2)\" id=\"note145\""
+">bhavagate</span> abhinanditena,"
 msgstr "What do I have to do with delight in existence"
 
 #. <br>
@@ -296,12 +303,16 @@ msgstr "Sumedhā said to her mother and father:"
 
 #. <br>
 msgctxt "thig16.1:16.2"
-msgid "<span class=\"var\" title=\" atha naṃ mātāpitaro ahaṃsu;\" id=\"note146\">Mātāpitaro “na tāva āhāraṃ;</span>"
+msgid ""
+"<span class=\"var\" title=\" atha naṃ mātāpitaro ahaṃsu;\" id=\"note146\">"
+"Mātāpitaro “na tāva āhāraṃ;</span>"
 msgstr "“For as long as I’m a householder"
 
 #. <br>
 msgctxt "thig16.1:16.3"
-msgid "<span class=\"var\" title=\"āhariyāmi (bj) | āhariya (pts1-2) | āhārisaṃ (?)\" id=\"note147\">Āharissaṃ</span> gahaṭṭhā,"
+msgid ""
+"<span class=\"var\" title=\"āhariyāmi (bj) | āhariya (pts1-2) | āhārisaṃ (?)"
+"\" id=\"note147\">Āharissaṃ</span> gahaṭṭhā,"
 msgstr "I won’t take food”"
 
 #. <br>
@@ -343,7 +354,9 @@ msgstr "You’re given in marriage."
 
 #. <br>
 msgctxt "thig16.1:18.3"
-msgid "Rājā <span class=\"var\" title=\"aṇīkadatto (bj) | anikaratto (s2, s3, pts1-2)\" id=\"note149\">anīkaratto</span>,"
+msgid ""
+"Rājā <span class=\"var\" title=\"aṇīkadatto (bj) | anikaratto (s2, s3, "
+"pts1-2)\" id=\"note149\">anīkaratto</span>,"
 msgstr "King Anīkaratta is in Vāraṇavatī"
 
 #. <br>
@@ -470,7 +483,9 @@ msgstr "Is led out to the cemetery"
 
 #. <br>
 msgctxt "thig16.1:24.3"
-msgid "<span class=\"var\" title=\"chaḍḍito (s2, s3) | chuṭṭho (pts1-2, mr)\" id=\"note150\">Chuddho</span> kaḷiṅgaraṃ viya,"
+msgid ""
+"<span class=\"var\" title=\"chaḍḍito (s2, s3) | chuṭṭho (pts1-2, mr)\" id=\""
+"note150\">Chuddho</span> kaḷiṅgaraṃ viya,"
 msgstr "Without consciousness"
 
 #. <br>
@@ -481,12 +496,16 @@ msgstr "Disgusted relatives throw it away like a log"
 #. </p><p><a class="sc" id="22"></a><a class="verse-num-sc"
 #. id="verse-num-sc471"></a><a class="verse-num-pts" id="verse-num-pts469"></a>
 msgctxt "thig16.1:25.1"
-msgid "<span class=\"var\" title=\"chaḍḍūna (s2, s3, pts1-2) | chuṭṭhuna (mr)\" id=\"note151\">Chuddhūna</span> naṃ susāne,"
+msgid ""
+"<span class=\"var\" title=\"chaḍḍūna (s2, s3, pts1-2) | chuṭṭhuna (mr)\" id="
+"\"note151\">Chuddhūna</span> naṃ susāne,"
 msgstr "When thrown away in the cemetery,"
 
 #. <br>
 msgctxt "thig16.1:25.2"
-msgid "Parabhattaṃ <span class=\"var\" title=\"nhāyare (?)\" id=\"note152\">nhāyanti</span> jigucchantā;"
+msgid ""
+"Parabhattaṃ <span class=\"var\" title=\"nhāyare (?)\" id=\"note152\""
+">nhāyanti</span> jigucchantā;"
 msgstr "Food for others"
 
 #. <br>
@@ -517,7 +536,10 @@ msgstr "The foul body:"
 
 #. <br>
 msgctxt "thig16.1:26.4"
-msgid "<span class=\"var\" title=\"khelassuccārapassava (bj) | kheḷassumucchāssavaparipuṇṇe (pts1-2)\" id=\"note153\">Paripuṇṇe</span> pūtikāyamhi."
+msgid ""
+"<span class=\"var\" title=\"khelassuccārapassava (bj) | "
+"kheḷassumucchāssavaparipuṇṇe (pts1-2)\" id=\"note153\">Paripuṇṇe</span> "
+"pūtikāyamhi."
 msgstr "Full of saliva, tears, dung, pus"
 
 #. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
@@ -596,7 +618,9 @@ msgstr "Knowing the teachers words"
 
 #. <br>
 msgctxt "thig16.1:30.3"
-msgid "‘Dīgho <span class=\"var\" title=\"ca tesaṃ (s2, s3) | vo (mr)\" id=\"note154\">tesaṃ</span> saṃsāro,"
+msgid ""
+"‘Dīgho <span class=\"var\" title=\"ca tesaṃ (s2, s3) | vo (mr)\" id=\""
+"note154\">tesaṃ</span> saṃsāro,"
 msgstr "“The round of births is long"
 
 #. <br>
@@ -634,7 +658,9 @@ msgstr "There’s much slaughtering in the hells"
 
 #. <br>
 msgctxt "thig16.1:32.2"
-msgid "Vinipātagatassa <span class=\"var\" title=\"kilissamānassa (s2, s3, pts1-2, mr)\" id=\"note155\">pīḷiyamānassa</span>;"
+msgid ""
+"Vinipātagatassa <span class=\"var\" title=\"kilissamānassa (s2, s3, pts1-2, "
+"mr)\" id=\"note155\">pīḷiyamānassa</span>;"
 msgstr "For those weighed down in a place of suffering"
 
 #. <br>
@@ -723,7 +749,9 @@ msgstr "Sumedhā cut her black, thick, soft hair"
 
 #. <br>
 msgctxt "thig16.1:36.3"
-msgid "Pāsādaṃ <span class=\"var\" title=\"pidhetvā (bj, s2, s3) | padhatvā (pts1-2) | pidhitvā (mr)\" id=\"note156\">pidahitvā</span>,"
+msgid ""
+"Pāsādaṃ <span class=\"var\" title=\"pidhetvā (bj, s2, s3) | padhatvā (pts1-2)"
+" | pidhitvā (mr)\" id=\"note156\">pidahitvā</span>,"
 msgstr "Having concealed herself in the stilt longhouse"
 
 #. <br>
@@ -744,12 +772,16 @@ msgstr "Anīkaratta came to the city"
 
 #. <br>
 msgctxt "thig16.1:37.3"
-msgid "Pāsāde <span class=\"var\" title=\"pāsādeva (bj, s2, s3, pts1-2)\" id=\"note157\">ca</span> sumedhā,"
+msgid ""
+"Pāsāde <span class=\"var\" title=\"pāsādeva (bj, s2, s3, pts1-2)\" id=\""
+"note157\">ca</span> sumedhā,"
 msgstr "There in the stilt longhouse"
 
 #. <br>
 msgctxt "thig16.1:37.4"
-msgid "<span class=\"var\" title=\"aniccasaññā (sabbattha)\" id=\"note158\">Aniccasaññaṃ</span> subhāveti."
+msgid ""
+"<span class=\"var\" title=\"aniccasaññā (sabbattha)\" id=\"note158\""
+">Aniccasaññaṃ</span> subhāveti."
 msgstr "Sumedhā developed the perception of impermanence"
 
 #. </p><p><a class="sc" id="35"></a><a class="verse-num-sc"
@@ -812,7 +844,9 @@ msgstr "Don’t be sad"
 
 #. <br>
 msgctxt "thig16.1:40.4"
-msgid "<span class=\"var\" title=\"mātāpitaro ca te dukhitā (?)\" id=\"note159\">Mātāpitaro te dukkhitā</span>”."
+msgid ""
+"<span class=\"var\" title=\"mātāpitaro ca te dukhitā (?)\" id=\"note159\">"
+"Mātāpitaro te dukkhitā</span>”."
 msgstr "Your mother and father are suffering”"
 
 #. </p><p><a class="sc" id="38"></a><a class="verse-num-sc"
@@ -897,7 +931,9 @@ msgstr "Burning like a fire-torch"
 
 #. <br>
 msgctxt "thig16.1:44.4"
-msgid "<span class=\"var\" title=\"... kaṅkhala (bj) | ... kaṅkāla (pts1-2)\" id=\"note160\">aṭṭhikaṅkala</span> sannibhā."
+msgid ""
+"<span class=\"var\" title=\"... kaṅkhala (bj) | ... kaṅkāla (pts1-2)\" id=\""
+"note160\">aṭṭhikaṅkala</span> sannibhā."
 msgstr "Resembling a skeleton"
 
 #. </p><p><a class="sc" id="42"></a><a class="verse-num-sc"
@@ -1008,7 +1044,9 @@ msgstr "Let one strive for their end”"
 #. </p><p><a class="sc" id="47"></a><a class="verse-num-sc"
 #. id="verse-num-sc486"></a><a class="verse-num-pts" id="verse-num-pts494"></a>
 msgctxt "thig16.1:50.1"
-msgid "Dvāraṃ <span class=\"var\" title=\"avāpuritvāhaṃ (bj) | apāpuṇitvānāyaṃ (s2, s3) | apāpuṇitvāna'yaṃ (pts1-2)\" id=\"note161\">apāpuritvānahaṃ</span>,"
+msgid ""
+"Dvāraṃ <span class=\"var\" title=\"avāpuritvāhaṃ (bj) | apāpuṇitvānāyaṃ (s2, "
+"s3) | apāpuṇitvāna'yaṃ (pts1-2)\" id=\"note161\">apāpuritvānahaṃ</span>,"
 msgstr "Opening the door"
 
 #. <br>
@@ -1071,7 +1109,9 @@ msgstr "Of those in the round of births"
 #. </p><p><a class="sc" id="50"></a><a class="verse-num-sc"
 #. id="verse-num-sc499"></a><a class="verse-num-pts" id="verse-num-pts497"></a>
 msgctxt "thig16.1:53.1"
-msgid "<span class=\"var\" title=\"sarassu caturo udadhī (?)\" id=\"note162\">Sara caturodadhī</span>,"
+msgid ""
+"<span class=\"var\" title=\"sarassu caturo udadhī (?)\" id=\"note162\">Sara "
+"caturodadhī</span>,"
 msgstr "Recall the four oceans"
 
 #. <br>
@@ -1098,7 +1138,9 @@ msgstr "Recall the great earth, Jambudīpa"
 
 #. <br>
 msgctxt "thig16.1:54.2"
-msgid "<span class=\"var\" title=\"mahāmahiṃ (?)\" id=\"note163\">Mahiṃ</span> jambudīpamupanītaṃ;"
+msgid ""
+"<span class=\"var\" title=\"mahāmahiṃ (?)\" id=\"note163\">Mahiṃ</span> "
+"jambudīpamupanītaṃ;"
 msgstr "Without beginning like the round of births"
 
 #. <br>
@@ -1114,7 +1156,10 @@ msgstr "They’re less than his mother’s mothers"
 #. </p><p><a class="sc" id="52"></a><a class="verse-num-sc"
 #. id="verse-num-sc501"></a><a class="verse-num-pts" id="verse-num-pts499"></a>
 msgctxt "thig16.1:55.1"
-msgid "<span class=\"var\" title=\"sara tiṇakaṭṭhasākhāpalāsaṃ (bj, s2, s3) | sara tiṇakaṭṭhaṃ sākhāpalāsaṃ (pts1-2)\" id=\"note164\">Tiṇakaṭṭhasākhāpalāsaṃ</span>,"
+msgid ""
+"<span class=\"var\" title=\"sara tiṇakaṭṭhasākhāpalāsaṃ (bj, s2, s3) | sara "
+"tiṇakaṭṭhaṃ sākhāpalāsaṃ (pts1-2)\" id=\"note164\""
+">Tiṇakaṭṭhasākhāpalāsaṃ</span>,"
 msgstr "Recall the grass, sticks, and leaves"
 
 #. <br>
@@ -1145,7 +1190,9 @@ msgstr "The hoop with the hole in the west "
 
 #. <br>
 msgctxt "thig16.1:56.3"
-msgid "<span class=\"var\" title=\"sara (bj)\" id=\"note165\">Siraṃ</span> tassa ca paṭimukkaṃ,"
+msgid ""
+"<span class=\"var\" title=\"sara (bj)\" id=\"note165\">Siraṃ</span> tassa ca "
+"paṭimukkaṃ,"
 msgstr "Recall the wearing the hoop round the head"
 
 #. <br>
@@ -1224,7 +1271,9 @@ msgstr "When the deathless exists"
 
 #. <br>
 msgctxt "thig16.1:60.2"
-msgid "Kiṃ tava kāmehi ye <span class=\"var\" title=\"sapariḷāhā (bj)\" id=\"note166\">pariḷāhā</span>;"
+msgid ""
+"Kiṃ tava kāmehi ye <span class=\"var\" title=\"sapariḷāhā (bj)\" id=\""
+"note166\">pariḷāhā</span>;"
 msgstr "Why do you want feverish sensual pleasure?"
 
 #. <br>
@@ -1361,7 +1410,9 @@ msgstr "Along with much mental pain"
 
 #. <br>
 msgctxt "thig16.1:66.4"
-msgid "<span class=\"var\" title=\"paṭinissara (bj)\" id=\"note167\">Paṭinissaja</span> addhuve kāme."
+msgid ""
+"<span class=\"var\" title=\"paṭinissara (bj)\" id=\"note167\""
+">Paṭinissaja</span> addhuve kāme."
 msgstr "Give up impermanent sensual pleasures"
 
 #. </p><p><a class="sc" id="64"></a><a class="verse-num-sc"
@@ -1372,7 +1423,9 @@ msgstr "When the ageless exists"
 
 #. <br>
 msgctxt "thig16.1:67.2"
-msgid "Kiṃ tava kāmehi <span class=\"var\" title=\" yesu jarāya ca; maraṇabyādhihi gahitā (?)\" id=\"note168\">yesu jarā;</span>"
+msgid ""
+"Kiṃ tava kāmehi <span class=\"var\" title=\" yesu jarāya ca; maraṇabyādhihi "
+"gahitā (?)\" id=\"note168\">yesu jarā;</span>"
 msgstr ""
 
 #. <br>
@@ -1388,7 +1441,9 @@ msgstr "All births everywhere are grasped by this"
 #. </p><p><a class="sc" id="65"></a><a class="verse-num-sc"
 #. id="verse-num-sc514"></a><a class="verse-num-pts" id="verse-num-pts512"></a>
 msgctxt "thig16.1:68.1"
-msgid "<span class=\"var\" title=\"idaṃ ajaraṃ idaṃ amaraṃ (?)\" id=\"note170\">Idamajaramidamamaraṃ</span>,"
+msgid ""
+"<span class=\"var\" title=\"idaṃ ajaraṃ idaṃ amaraṃ (?)\" id=\"note170\""
+">Idamajaramidamamaraṃ</span>,"
 msgstr "This is the ageless, this is the deathless"
 
 #. <br>
@@ -1639,12 +1694,16 @@ msgstr ""
 
 #. <br>
 msgctxt "thig16.1:82.2"
-msgid "asīti puna <span class=\"var\" title=\"gāthāsaṅkhyā idha anukkamaṇikagaṇanāvasena\" id=\"note171\">cuddasa</span>;"
+msgid ""
+"asīti puna <span class=\"var\" title=\"gāthāsaṅkhyā idha "
+"anukkamaṇikagaṇanāvasena\" id=\"note171\">cuddasa</span>;"
 msgstr ""
 
 #. <br>
 msgctxt "thig16.1:82.3"
-msgid "<span class=\"var\" title=\"therīyekuttarachasatā (?)\" id=\"note172\">Theriyekuttarasatā</span>,"
+msgid ""
+"<span class=\"var\" title=\"therīyekuttarachasatā (?)\" id=\"note172\""
+">Theriyekuttarasatā</span>,"
 msgstr ""
 
 #. <br>

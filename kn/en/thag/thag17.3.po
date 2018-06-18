@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2017-04-30 00:04+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1493510692.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag17.3.po\n"
+"X-Pootle-Revision: 8183\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -364,7 +363,9 @@ msgstr "And then examines the meaning."
 #. id="verse-num-sc1033"></a><a class="verse-num-pts"
 #. id="verse-num-pts1029"></a>
 msgctxt "thag17.3:20.1"
-msgid "<span class=\"var\" title=\"khantiyā chandito (?)\" id=\"note450\">Khantyā chandikato</span> hoti,"
+msgid ""
+"<span class=\"var\" title=\"khantiyā chandito (?)\" id=\"note450\">Khantyā "
+"chandikato</span> hoti,"
 msgstr "Accepting the teachings, he becomes enthusiastic;"
 
 #. <br>
@@ -452,12 +453,16 @@ msgstr "He doesn’t decline in the true Dhamma."
 #. id="verse-num-sc1037"></a><a class="verse-num-pts"
 #. id="verse-num-pts1033"></a>
 msgctxt "thag17.3:24.1"
-msgid "<span class=\"var\" title=\"... garuko (bj)\" id=\"note451\">Kāyamaccheragaruno</span>,"
+msgid ""
+"<span class=\"var\" title=\"... garuko (bj)\" id=\"note451\""
+">Kāyamaccheragaruno</span>,"
 msgstr "When your body is pampered and heavy,"
 
 #. <br>
 msgctxt "thag17.3:24.2"
-msgid "<span class=\"var\" title=\"hiyyamāno (si)\" id=\"note452\">hiyyamāne</span> anuṭṭhahe;"
+msgid ""
+"<span class=\"var\" title=\"hiyyamāno (si)\" id=\"note452\">hiyyamāne</span> "
+"anuṭṭhahe;"
 msgstr "While your remaining time is running out;"
 
 #. <br>
@@ -540,7 +545,9 @@ msgstr "Like a bird snug in its nest.”"
 #. id="verse-num-sc1041"></a><a class="verse-num-pts"
 #. id="verse-num-pts1037"></a>
 msgctxt "thag17.3:28.1"
-msgid "“Dassanāya <span class=\"var\" title=\"atikkante (s2, s3, pts1)\" id=\"note453\">abhikkante</span>,"
+msgid ""
+"“Dassanāya <span class=\"var\" title=\"atikkante (s2, s3, pts1)\" id=\""
+"note453\">abhikkante</span>,"
 msgstr "“Many international visitors"
 
 #. <br>
@@ -562,7 +569,9 @@ msgstr "Let the congregation see me.”"
 #. id="verse-num-sc1042"></a><a class="verse-num-pts"
 #. id="verse-num-pts1038"></a><a class="pts" id="pts93"></a>
 msgctxt "thag17.3:29.1"
-msgid "“Dassanāya <span class=\"var\" title=\"atikkante (s2, s3, pts1)\" id=\"note454\">abhikkante</span>,"
+msgid ""
+"“Dassanāya <span class=\"var\" title=\"atikkante (s2, s3, pts1)\" id=\""
+"note454\">abhikkante</span>,"
 msgstr "“Lots of international visitors"
 
 #. <br>
@@ -643,7 +652,9 @@ msgstr "With loving deeds,"
 
 #. <br>
 msgctxt "thag17.3:32.4"
-msgid "chāyāva <span class=\"var\" title=\"anupāyinī (s2, s3, mr)\" id=\"note455\">anapāyinī</span>."
+msgid ""
+"chāyāva <span class=\"var\" title=\"anupāyinī (s2, s3, mr)\" id=\"note455\""
+">anapāyinī</span>."
 msgstr "Like a shadow that never left."
 
 #. </p><p><a class="sc" id="29"></a><a class="verse-num-sc"
@@ -845,9 +856,10 @@ msgid "natthi dāni punabbhavo”ti."
 msgstr "I’ve undone the attachment to being reborn in any state of existence.”"
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag17.3:42.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag17.3:42.2"
 msgid "Ānando thero …."

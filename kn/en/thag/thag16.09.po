@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2017-04-12 01:15+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1491959714.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag16.09.po\n"
+"X-Pootle-Revision: 8175\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -74,7 +73,9 @@ msgstr "Awakened by cymbals and gongs,"
 
 #. <br>
 msgctxt "thag16.9:6.3"
-msgid "Na tena <span class=\"var\" title=\"suddhamajjhagā (si, pts2, mr) | suddhimajjhagamā (s2, s3, pts1)\" id=\"note407\">suddhimajjhagaṃ</span>,"
+msgid ""
+"Na tena <span class=\"var\" title=\"suddhamajjhagā (si, pts2, mr) | "
+"suddhimajjhagamā (s2, s3, pts1)\" id=\"note407\">suddhimajjhagaṃ</span>,"
 msgstr "He did not find purification,"
 
 #. <br>
@@ -231,7 +232,10 @@ msgstr "So it was said by the great sage."
 
 #. </p><p><a class="sc" id="10"></a>
 msgctxt "thag16.9:14.1"
-msgid "<span class=\"cross\" title=\"^an8.30#1 [30. Anuruddhamahāvitakkasutta]\" id=\"note408\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc901\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts901\"></a>Mama saṅkappamaññāya,"
+msgid ""
+"<span class=\"cross\" title=\"^an8.30#1 [30. Anuruddhamahāvitakkasutta]\" id="
+"\"note408\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc901\"></a><a "
+"class=\"verse-num-pts\" id=\"verse-num-pts901\"></a>Mama saṅkappamaññāya,"
 msgstr "Knowing my thought,"
 
 #. <br>
@@ -314,7 +318,11 @@ msgstr "Since drowsiness was uprooted."
 
 #. </p><p><a class="sc" id="14"></a>
 msgctxt "thag16.9:18.1"
-msgid "<span class=\"cross\" title=\"(gāthā 905--906) ^dn16#241 [Mahāparinibbānasutta/36. Parinibbutakathā]\" id=\"note409\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc905\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts905\"></a>Nāhu assāsapassāsā,"
+msgid ""
+"<span class=\"cross\" title=\"(gāthā 905--906) ^dn16#241 "
+"[Mahāparinibbānasutta/36. Parinibbutakathā]\" id=\"note409\">*</span> <a "
+"class=\"verse-num-sc\" id=\"verse-num-sc905\"></a><a class=\"verse-num-pts\" "
+"id=\"verse-num-pts905\"></a>Nāhu assāsapassāsā,"
 msgstr "The poised one, with steady heart,"
 
 #. <br>
@@ -414,7 +422,9 @@ msgstr "That monk, a master of psychic powers,"
 
 #. <br>
 msgctxt "thag16.9:22.4"
-msgid "Kāle passati devatā <span class=\"var\" title=\"sabhikkhuno (bj, mr)\" id=\"note410\">sa bhikkhu</span>."
+msgid ""
+"Kāle passati devatā <span class=\"var\" title=\"sabhikkhuno (bj, mr)\" id=\""
+"note410\">sa bhikkhu</span>."
 msgstr ""
 "Knowing the passing away and rebirth of beings, sees even the gods at that "
 "time."
@@ -422,7 +432,9 @@ msgstr ""
 #. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
 #. id="verse-num-sc910"></a><a class="verse-num-pts" id="verse-num-pts910"></a>
 msgctxt "thag16.9:23.1"
-msgid "<span class=\"var\" title=\"annahāro (si)\" id=\"note411\">Annabhāro</span> pure āsiṃ,"
+msgid ""
+"<span class=\"var\" title=\"annahāro (si)\" id=\"note411\">Annabhāro</span> "
+"pure āsiṃ,"
 msgstr "In the past I was Annabhāra,"
 
 #. <br>
@@ -500,7 +512,9 @@ msgstr "I was born as Sakka,"
 
 #. <br>
 msgctxt "thag16.9:26.4"
-msgid "aṭṭhāsiṃ <span class=\"var\" title=\"satajātiyā (bj)\" id=\"note412\">sakkajātiyā</span>."
+msgid ""
+"aṭṭhāsiṃ <span class=\"var\" title=\"satajātiyā (bj)\" id=\"note412\""
+">sakkajātiyā</span>."
 msgstr "And stayed among the Tāvatiṃsa gods."
 
 #. </p><p><a class="sc" id="23"></a><a class="verse-num-sc"
@@ -537,7 +551,9 @@ msgstr "I governed by principle."
 #. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
 #. id="verse-num-sc915"></a><a class="verse-num-pts" id="verse-num-pts915"></a>
 msgctxt "thag16.9:28.1"
-msgid "Ito satta <span class=\"var\" title=\"ito (s2, s3, pts1)\" id=\"note413\">tato</span> satta,"
+msgid ""
+"Ito satta <span class=\"var\" title=\"ito (s2, s3, pts1)\" id=\"note413\""
+">tato</span> satta,"
 msgstr "Seven here, seven there,"
 
 #. <br>
@@ -639,9 +655,10 @@ msgid "nibbāyissaṃ anāsavo”ti."
 msgstr "I’ll realise nibbāna without defilements."
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag16.9:33.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag16.9:33.2"
 msgid "Anuruddho thero …."

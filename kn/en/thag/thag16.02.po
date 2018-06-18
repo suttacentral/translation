@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2017-08-01 02:52+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1501555939.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag16.02.po\n"
+"X-Pootle-Revision: 8161\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -36,7 +35,9 @@ msgstr ""
 
 #. </p><h1>
 msgctxt "thag16.2:4.1"
-msgid "<span class=\"var\" title=\"pārāsariyattheragāthā (bj)\" id=\"note329\">16.2 Pārāpariyattheragāthā</span>"
+msgid ""
+"<span class=\"var\" title=\"pārāsariyattheragāthā (bj)\" id=\"note329\">16.2 "
+"Pārāpariyattheragāthā</span>"
 msgstr ""
 
 #. </h1><blockquote class="gatha"><p><a class="sc" id="1"></a><a
@@ -69,7 +70,9 @@ msgstr "“Following what system"
 
 #. <br>
 msgctxt "thag16.2:6.2"
-msgid "kiṃ vataṃ kiṃ <span class=\"var\" title=\"samācaraṃ (bj, pts2)\" id=\"note330\">samācāraṃ</span>;"
+msgid ""
+"kiṃ vataṃ kiṃ <span class=\"var\" title=\"samācaraṃ (bj, pts2)\" id=\""
+"note330\">samācāraṃ</span>;"
 msgstr "What observance, what conduct,"
 
 #. <br>
@@ -191,7 +194,9 @@ msgstr "Being stupefied by smells."
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
 #. id="verse-num-sc733"></a><a class="verse-num-pts" id="verse-num-pts733"></a>
 msgctxt "thag16.2:12.1"
-msgid "<span class=\"var\" title=\"ambila (s2, s3, pts1)\" id=\"note331\">Ambilaṃ</span> madhuraggañca,"
+msgid ""
+"<span class=\"var\" title=\"ambila (s2, s3, pts1)\" id=\"note331\""
+">Ambilaṃ</span> madhuraggañca,"
 msgstr "Recollecting the sour,"
 
 #. <br>
@@ -201,7 +206,9 @@ msgstr "And the sweet and the bitter,"
 
 #. <br>
 msgctxt "thag16.2:12.3"
-msgid "Rasataṇhāya <span class=\"var\" title=\"ganthito (pts2)\" id=\"note332\">gadhito</span>,"
+msgid ""
+"Rasataṇhāya <span class=\"var\" title=\"ganthito (pts2)\" id=\"note332\""
+">gadhito</span>,"
 msgstr "Captivated by craving for taste,"
 
 #. <br>
@@ -296,7 +303,9 @@ msgstr "Like a razor smeared all over with honey."
 #. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
 #. id="verse-num-sc738"></a><a class="verse-num-pts" id="verse-num-pts738"></a>
 msgctxt "thag16.2:17.1"
-msgid "Itthirūpe <span class=\"var\" title=\"itthirase (s2, s3, pts1)\" id=\"note333\">itthisare</span>,"
+msgid ""
+"Itthirūpe <span class=\"var\" title=\"itthirase (s2, s3, pts1)\" id=\""
+"note333\">itthisare</span>,"
 msgstr "Full of lust for the sight of a woman,"
 
 #. <br>
@@ -348,7 +357,9 @@ msgstr "Would be clever and clear-seeing;"
 
 #. <br>
 msgctxt "thag16.2:19.3"
-msgid "Kareyya <span class=\"var\" title=\"ramamāno hi (s2, s3, pts1)\" id=\"note334\">ramamānopi</span>,"
+msgid ""
+"Kareyya <span class=\"var\" title=\"ramamāno hi (s2, s3, pts1)\" id=\""
+"note334\">ramamānopi</span>,"
 msgstr "Even while enjoying himself,"
 
 #. <br>
@@ -359,7 +370,9 @@ msgstr "What he does is connected with Dhamma and its purpose."
 #. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
 #. id="verse-num-sc741"></a><a class="verse-num-pts" id="verse-num-pts741"></a>
 msgctxt "thag16.2:20.1"
-msgid "<span class=\"var\" title=\"adhosīdava (pts2)\" id=\"note335\">Atho sīdati</span> saññuttaṃ,"
+msgid ""
+"<span class=\"var\" title=\"adhosīdava (pts2)\" id=\"note335\">Atho "
+"sīdati</span> saññuttaṃ,"
 msgstr "You should avoid a meaningless task"
 
 #. <br>
@@ -406,7 +419,9 @@ msgstr "Coveting the possessions of others"
 
 #. <br>
 msgctxt "thag16.2:22.2"
-msgid "<span class=\"var\" title=\"... abhijigīsāti (s2, s3, pts1)\" id=\"note336\">Paresamabhijigīsati</span>;"
+msgid ""
+"<span class=\"var\" title=\"... abhijigīsāti (s2, s3, pts1)\" id=\"note336\""
+">Paresamabhijigīsati</span>;"
 msgstr "By whatever means, whether high or low,"
 
 #. <br>
@@ -437,7 +452,9 @@ msgstr "So the skilful person"
 
 #. <br>
 msgctxt "thag16.2:23.4"
-msgid "nihanti <span class=\"var\" title=\"kusalā (s2, s3, pts1)\" id=\"note337\">kusalo</span> tathā."
+msgid ""
+"nihanti <span class=\"var\" title=\"kusalā (s2, s3, pts1)\" id=\"note337\""
+">kusalo</span> tathā."
 msgstr "Knocks out the faculties with the faculties."
 
 #. </p><p><a class="sc" id="20"></a><a class="verse-num-sc"
@@ -448,7 +465,9 @@ msgstr "Developing faith, energy, samādhi"
 
 #. <br>
 msgctxt "thag16.2:24.2"
-msgid "<span class=\"var\" title=\"satiṃ paññañca (bj, pts2)\" id=\"note338\">satipaññañca</span> bhāvayaṃ;"
+msgid ""
+"<span class=\"var\" title=\"satiṃ paññañca (bj, pts2)\" id=\"note338\""
+">satipaññañca</span> bhāvayaṃ;"
 msgstr "Mindfulness, and wisdom;"
 
 #. <br>
@@ -483,10 +502,13 @@ msgid "so naro sukhamedhatī”ti."
 msgstr "That person prospers in happiness."
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag16.2:26.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag16.2:26.2"
-msgid "<span class=\"var\" title=\"pārāsariyo (bj, s2, s3)\" id=\"note339\">Pārāpariyo</span> thero …."
+msgid ""
+"<span class=\"var\" title=\"pārāsariyo (bj, s2, s3)\" id=\"note339\""
+">Pārāpariyo</span> thero …."
 msgstr ""

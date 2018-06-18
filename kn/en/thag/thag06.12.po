@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2016-11-07 22:45+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1478558755.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag06.12.po\n"
+"X-Pootle-Revision: 8105\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -41,7 +40,10 @@ msgstr ""
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag6.12:5.1"
-msgid "<span class=\"cross\" title=\"^sn7.2#1 [2. Akkosasutta]\" id=\"note223\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc441\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts441\"></a>“Akkodhassa kuto kodho,"
+msgid ""
+"<span class=\"cross\" title=\"^sn7.2#1 [2. Akkosasutta]\" id=\"note223\""
+">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc441\"></a><a class"
+"=\"verse-num-pts\" id=\"verse-num-pts441\"></a>“Akkodhassa kuto kodho,"
 msgstr "For one without anger, tamed, living simply,"
 
 #. <br>
@@ -61,7 +63,11 @@ msgstr "where would anger come from?"
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag6.12:6.1"
-msgid "<span class=\"cross\" title=\"^sn7.2#1 [2. Akkosasutta] | ^sn11.4#1 [4. Vepacittisutta]\" id=\"note224\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc442\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts442\"></a><a class=\"pts\" id=\"pts47\"></a>Tasseva tena pāpiyo,"
+msgid ""
+"<span class=\"cross\" title=\"^sn7.2#1 [2. Akkosasutta] | ^sn11.4#1 [4. "
+"Vepacittisutta]\" id=\"note224\">*</span> <a class=\"verse-num-sc\" id"
+"=\"verse-num-sc442\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts442\""
+"></a><a class=\"pts\" id=\"pts47\"></a>Tasseva tena pāpiyo,"
 msgstr "When you get angry at an angry person"
 
 #. <br>
@@ -124,7 +130,9 @@ msgstr "to be a fool."
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc445"></a><a class="verse-num-pts" id="verse-num-pts445"></a>
 msgctxt "thag6.12:9.1"
-msgid "<span class=\"var\" title=\"uppajjate (s2, s3, pts1)\" id=\"note225\">Uppajje te</span> sace kodho,"
+msgid ""
+"<span class=\"var\" title=\"uppajjate (s2, s3, pts1)\" id=\"note225\">"
+"Uppajje te</span> sace kodho,"
 msgstr "If anger arises in you,"
 
 #. <br>
@@ -164,9 +172,10 @@ msgid "kiṭṭhādaṃ viya duppasun”ti."
 msgstr "As one would curb a greedy cow eating corn."
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag6.12:11.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag6.12:11.2"
 msgid "Brahmadatto thero …."

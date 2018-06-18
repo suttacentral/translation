@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag02.44.po\n"
+"X-Pootle-Revision: 7991\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -49,7 +52,9 @@ msgstr "Mogharāja, you always have samādhi."
 
 #. <br>
 msgctxt "thag2.44:5.3"
-msgid "<span class=\"var\" title=\"hemantikakālarattiyo (mr)\" id=\"note139\">Hemantikasītakālarattiyo</span>,"
+msgid ""
+"<span class=\"var\" title=\"hemantikakālarattiyo (mr)\" id=\"note139\""
+">Hemantikasītakālarattiyo</span>,"
 msgstr "But in the nights of winter, so dark and cold,"
 
 #. <br>
@@ -79,11 +84,11 @@ msgid "yathaññe sukhajīvino”ti."
 msgstr "Just like those who live in comfort.”"
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag2.44:7.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag2.44:7.2"
 msgid "Mogharājā thero …."
 msgstr ""
-

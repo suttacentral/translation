@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2016-08-21 03:03+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1471748615.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag08.2.po\n"
+"X-Pootle-Revision: 8123\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -95,7 +94,9 @@ msgstr "Without deceit, and rid of slander,"
 
 #. <br>
 msgctxt "thag8.2:7.3"
-msgid "Kalyāṇasīlo <span class=\"var\" title=\"yo (s2, s3, pts1)\" id=\"note253\">so</span> bhikkhu,"
+msgid ""
+"Kalyāṇasīlo <span class=\"var\" title=\"yo (s2, s3, pts1)\" id=\"note253\""
+">so</span> bhikkhu,"
 msgstr "A monk of good virtue"
 
 #. <br>
@@ -116,7 +117,9 @@ msgstr "Without deceit, and rid of slander,"
 
 #. <br>
 msgctxt "thag8.2:8.3"
-msgid "Kalyāṇamitto <span class=\"var\" title=\"yo (s2, s3, pts1)\" id=\"note254\">so</span> bhikkhu,"
+msgid ""
+"Kalyāṇamitto <span class=\"var\" title=\"yo (s2, s3, pts1)\" id=\"note254\""
+">so</span> bhikkhu,"
 msgstr "A monk with good friends"
 
 #. <br>
@@ -138,7 +141,9 @@ msgstr "Without deceit, and rid of slander,"
 
 #. <br>
 msgctxt "thag8.2:9.3"
-msgid "Kalyāṇapañño <span class=\"var\" title=\"yo (s2, s3, pts1)\" id=\"note255\">so</span> bhikkhu,"
+msgid ""
+"Kalyāṇapañño <span class=\"var\" title=\"yo (s2, s3, pts1)\" id=\"note255\""
+">so</span> bhikkhu,"
 msgstr "A monk of good wisdom,"
 
 #. <br>
@@ -148,7 +153,13 @@ msgstr "Doesn’t sorrow after death."
 
 #. </p><p><a class="sc" id="6"></a>
 msgctxt "thag8.2:10.1"
-msgid "<span class=\"cross\" title=\"^sn11.14#1 [14. Daliddasutta] | ^sn55.26#1 [26. Paṭhamaanāthapiṇḍikasutta] | ^an4.52#1 [52. Dutiyapuññābhisandasutta] | ^an5.47#1 [47. Dhanasutta] | ^tha-ap65#3 [Paccāgamaniyattheraapadāna] | ^pe3#56 [Suttādhiṭṭhānatatiyabhūmi]\" id=\"note256\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc507\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts507\"></a>Yassa saddhā tathāgate,"
+msgid ""
+"<span class=\"cross\" title=\"^sn11.14#1 [14. Daliddasutta] | ^sn55.26#1 ["
+"26. Paṭhamaanāthapiṇḍikasutta] | ^an4.52#1 [52. Dutiyapuññābhisandasutta] | "
+"^an5.47#1 [47. Dhanasutta] | ^tha-ap65#3 [Paccāgamaniyattheraapadāna] | ^pe3#"
+"56 [Suttādhiṭṭhānatatiyabhūmi]\" id=\"note256\">*</span> <a class=\"verse-"
+"num-sc\" id=\"verse-num-sc507\"></a><a class=\"verse-num-pts\" id=\"verse-"
+"num-pts507\"></a>Yassa saddhā tathāgate,"
 msgstr "Whoever has faith in the Tathāgata,"
 
 #. <br>
@@ -209,9 +220,10 @@ msgid "saraṃ buddhāna sāsanan”ti."
 msgstr "Remembering the teaching of the Buddhas."
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag8.2:13.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag8.2:13.2"
 msgid "Sirimitto thero …."

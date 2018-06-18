@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 13:24+0157\n"
-"PO-Revision-Date: 2017-01-29 01:13+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1485652431.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thig/thig01.12.po\n"
+"X-Pootle-Revision: 8215\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -43,23 +42,30 @@ msgstr "With will and determination"
 
 #. <br>
 msgctxt "thig1.12:4.2"
-msgid "Manasā ca <span class=\"var\" title=\"phuṭhā (bj-a) | phuṭṭhā (s2, s3)\" id=\"note7\">phuṭā</span> siyā;"
+msgid ""
+"Manasā ca <span class=\"var\" title=\"phuṭhā (bj-a) | phuṭṭhā (s2, s3)\" id="
+"\"note7\">phuṭā</span> siyā;"
 msgstr "Let one's mind be suffused"
 
 #. <br>
 msgctxt "thig1.12:4.3"
-msgid "Kāmesu <span class=\"var\" title=\"appaṭibandhacittā (mr)\" id=\"note8\">appaṭibaddhacittā</span>,"
+msgid ""
+"Kāmesu <span class=\"var\" title=\"appaṭibandhacittā (mr)\" id=\"note8\""
+">appaṭibaddhacittā</span>,"
 msgstr "Without thoughts tied up with sensual pleasure"
 
 #. <br>
 msgctxt "thig1.12:4.4"
-msgid "<span class=\"var\" title=\"uddhaṃsotā vimuccatīti (si, pts1-2) | uddhaṃsotāti vuccati (s2, s3)\" id=\"note9\">Uddhaṃsotāti vuccatī”ti</span>."
+msgid ""
+"<span class=\"var\" title=\"uddhaṃsotā vimuccatīti (si, pts1-2) | "
+"uddhaṃsotāti vuccati (s2, s3)\" id=\"note9\">Uddhaṃsotāti vuccatī”ti</span>."
 msgstr "One is called bound upstream"
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="2"></a>
+#, fuzzy
 msgctxt "thig1.12:5.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thig1.12:5.2"
 msgid "Dhammadinnā therī …."

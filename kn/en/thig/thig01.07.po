@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 13:24+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thig/thig01.07.po\n"
+"X-Pootle-Revision: 8205\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -34,7 +37,9 @@ msgstr ""
 #. class="verse-num-sc" id="verse-num-sc7"></a><a class="verse-num-pts"
 #. id="verse-num-pts7"></a>
 msgctxt "thig1.7:4.1"
-msgid "“Vīrā <span class=\"var\" title=\"dhīrā dhīrehi (s2, s3, pts1-2, mr)\" id=\"note4\">vīrehi</span> dhammehi,"
+msgid ""
+"“Vīrā <span class=\"var\" title=\"dhīrā dhīrehi (s2, s3, pts1-2, mr)\" id=\""
+"note4\">vīrehi</span> dhammehi,"
 msgstr "You're Dhīrā because of your good qualities"
 
 #. <br>
@@ -49,15 +54,19 @@ msgstr "Bear your final body"
 
 #. <br>
 msgctxt "thig1.7:4.4"
-msgid "jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (s2, s3, pts1-2) | savāhananti (mr)\" id=\"note5\">savāhinin”ti</span>."
+msgid ""
+"jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (s2, s3, pts1-2) | "
+"savāhananti (mr)\" id=\"note5\">savāhinin”ti</span>."
 msgstr "Having conquered Māra and his army"
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="2"></a>
+#, fuzzy
 msgctxt "thig1.7:5.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thig1.7:5.2"
-msgid "<span class=\"var\" title=\"aññatarā dhīrā (s2, s3, pts1-2)\" id=\"note6\">Vīrā</span> therī …."
+msgid ""
+"<span class=\"var\" title=\"aññatarā dhīrā (s2, s3, pts1-2)\" id=\"note6\""
+">Vīrā</span> therī …."
 msgstr ""
-

@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag05.01.po\n"
+"X-Pootle-Revision: 8059\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -39,7 +42,9 @@ msgstr ""
 #. class="verse-num-sc" id="verse-num-sc315"></a><a class="verse-num-pts"
 #. id="verse-num-pts315"></a><a class="pts" id="pts37"></a>
 msgctxt "thag5.1:5.1"
-msgid "“Bhikkhu <span class=\"var\" title=\"sīvathikaṃ (bj, s2, s3, pts1-2)\" id=\"note184\">sivathikaṃ</span> gantvā,"
+msgid ""
+"“Bhikkhu <span class=\"var\" title=\"sīvathikaṃ (bj, s2, s3, pts1-2)\" id=\""
+"note184\">sivathikaṃ</span> gantvā,"
 msgstr "I, a monk, went to a charnel ground"
 
 #. <br>
@@ -75,7 +80,9 @@ msgstr "But sexual desire arose in me,"
 
 #. <br>
 msgctxt "thag5.1:6.4"
-msgid "andhova <span class=\"var\" title=\"vasatī (bj, pts2)\" id=\"note185\">savatī</span> ahuṃ."
+msgid ""
+"andhova <span class=\"var\" title=\"vasatī (bj, pts2)\" id=\"note185\""
+">savatī</span> ahuṃ."
 msgstr "I was as if blind to her oozing body."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
@@ -142,11 +149,11 @@ msgid "kataṃ buddhassa sāsanan”ti."
 msgstr "And fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
+#, fuzzy
 msgctxt "thag5.1:10.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thag5.1:10.2"
 msgid "Rājadatto thero …."
 msgstr ""
-

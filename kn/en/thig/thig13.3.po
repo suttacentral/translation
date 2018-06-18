@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 13:24+0157\n"
-"PO-Revision-Date: 2017-06-13 09:44+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1497347083.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thig/thig13.3.po\n"
+"X-Pootle-Revision: 8327\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -117,7 +116,9 @@ msgstr "There women bind recluses with their forms"
 
 #. <br>
 msgctxt "thig13.3:7.4"
-msgid "samaṇe <span class=\"var\" title=\"dhammajīvine (mr)\" id=\"note92\">dhammajīvino</span>”."
+msgid ""
+"samaṇe <span class=\"var\" title=\"dhammajīvine (mr)\" id=\"note92\""
+">dhammajīvino</span>”."
 msgstr "Those living in line with Dhamma”"
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
@@ -207,7 +208,9 @@ msgstr "Why do abandon me?”"
 #. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
 #. id="verse-num-sc300"></a><a class="verse-num-pts" id="verse-num-pts299"></a>
 msgctxt "thig13.3:12.1"
-msgid "“Sākuntikova <span class=\"var\" title=\"sakuṇaṃ (s2, s3)\" id=\"note93\">sakuṇiṃ</span>,"
+msgid ""
+"“Sākuntikova <span class=\"var\" title=\"sakuṇaṃ (s2, s3)\" id=\"note93\""
+">sakuṇiṃ</span>,"
 msgstr "“Just like a bird-catcher"
 
 #. <br>
@@ -280,7 +283,9 @@ msgstr "With stick or knife"
 
 #. <br>
 msgctxt "thig13.3:15.3"
-msgid "Bhūmiyaṃ vā <span class=\"var\" title=\"nisumbheyyaṃ (bj, s2, s3, pts1-2)\" id=\"note94\">nisumbhissaṃ</span>,"
+msgid ""
+"Bhūmiyaṃ vā <span class=\"var\" title=\"nisumbheyyaṃ (bj, s2, s3, pts1-2)\" "
+"id=\"note94\">nisumbhissaṃ</span>,"
 msgstr "I’ll knock him to the ground"
 
 #. <br>
@@ -485,7 +490,9 @@ msgstr "He paid homage at his feet"
 
 #. <br>
 msgctxt "thig13.3:24.2"
-msgid "Katvāna <span class=\"var\" title=\"taṃ (bj)\" id=\"note95\">naṃ</span> padakkhiṇaṃ;"
+msgid ""
+"Katvāna <span class=\"var\" title=\"taṃ (bj)\" id=\"note95\">naṃ</span> "
+"padakkhiṇaṃ;"
 msgstr "Having kept his right side towards him"
 
 #. <br>
@@ -509,9 +516,10 @@ msgid "Kataṃ buddhassa sāsanaṃ."
 msgstr "He has done what Buddha taught"
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="22"></a>
+#, fuzzy
 msgctxt "thig13.3:25.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thig13.3:25.2"
 msgid "Cāpā therī …."

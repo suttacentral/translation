@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:22+0000\n"
+"POT-Creation-Date: 2018-06-18 13:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,12 +31,14 @@ msgstr "1. On Sunakkhatta"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.1"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.1"></a>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "dn24:1.1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 #. VAR: anupiyaṃ nāma → anupiyā nāma (bj) | anuppiyaṃ nāma (s1-3)
 msgctxt "dn24:1.1.2"
 msgid "ekaṃ samayaṃ bhagavā mallesu viharati anupiyaṃ nāma mallānaṃ nigamo."
@@ -69,7 +71,7 @@ msgstr "Why don’t I go to the wanderer Bhaggavagotta’s monastery to visit hi
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.2"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.2"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "dn24:1.2.1"
 msgid ""
@@ -135,7 +137,7 @@ msgstr "“Indeed it is, Bhaggava."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.3"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.3"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.3"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "dn24:1.3.1"
 msgid ""
@@ -211,7 +213,7 @@ msgstr "See how far you have strayed!’"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.4"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.4"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.4"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "dn24:1.4.1"
 msgid ""
@@ -369,7 +371,7 @@ msgid "‘No hetaṃ, bhante’."
 msgstr "‘No, sir.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.5"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.5"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "dn24:1.5.8"
 msgid "‘Iti kira, sunakkhatta, nevāhaṃ taṃ vadāmi—"
@@ -525,7 +527,7 @@ msgid "Iti kho te, sunakkhatta, bhavissanti vattāro’ti."
 msgstr "That’s what they’ll say.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.6"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.6"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "dn24:1.6.13"
 msgid ""
@@ -590,7 +592,7 @@ msgid ""
 msgstr "‘That ascetic is a true holy man!’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.7"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.7"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "dn24:1.7.7"
 msgid ""
@@ -702,7 +704,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.8"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.8"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.8"></a>
 #. <a class="sc" id="sc16"></a>
 msgctxt "dn24:1.8.1"
 msgid ""
@@ -820,7 +822,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.10"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.9"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.9"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "dn24:1.10.1"
 msgid ""
@@ -903,7 +905,7 @@ msgstr "3. On the Naked Ascetic Kaḷāramaṭṭaka"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.11"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.10"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.10"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "dn24:1.11.1"
 msgid ""
@@ -1048,7 +1050,7 @@ msgid "Kiṃ pana, bhante, bhagavā arahattassa maccharāyatī’ti?"
 msgstr "But sir, are you jealous of perfected ones?’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.11"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.11"></a>
 #. <a class="sc" id="sc23"></a>
 msgctxt "dn24:1.13.13"
 msgid "‘Na kho ahaṃ, moghapurisa, arahattassa maccharāyāmi, "
@@ -1092,7 +1094,7 @@ msgstr "And that’s exactly what happened."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.14"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.12"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.12"></a>
 #. <a class="sc" id="sc25"></a>
 msgctxt "dn24:1.14.1"
 msgid "Assosi kho, bhaggava, sunakkhatto licchaviputto:"
@@ -1185,7 +1187,7 @@ msgstr "4. On the Naked Ascetic Pāṭikaputta"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.15"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.13"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.13"></a>
 #. <a class="sc" id="sc26"></a>
 msgctxt "dn24:1.15.1"
 msgid ""
@@ -1351,7 +1353,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.17"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.14"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.14"></a>
 #. <a class="sc" id="sc29"></a>
 msgctxt "dn24:1.17.1"
 msgid "‘Rakkhatetaṃ, bhante, bhagavā vācaṃ, rakkhatetaṃ sugato vācan’ti."
@@ -1471,7 +1473,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.15"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.15"></a>
 #. <a class="sc" id="sc33"></a>
 msgctxt "dn24:1.18.14"
 msgid "Devatāpi me etamatthaṃ ārocesuṃ—"
@@ -1620,7 +1622,7 @@ msgstr "5. On Demonstrations of Psychic Power"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.16"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.16"></a>
 #. <a class="sc" id="sc38"></a>
 #. VAR: Atha khvāhaṃ → atha kho svāhaṃ (s1-3) | atha kho’ haṃ (pts1)
 msgctxt "dn24:1.19.1"
@@ -1727,7 +1729,7 @@ msgid "handa vata, bho, gacchāmā’ti."
 msgstr "Let’s go!’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.17"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.17"></a>
 #. <a class="sc" id="sc40"></a>
 msgctxt "dn24:1.19.15"
 msgid ""
@@ -1794,7 +1796,7 @@ msgid "Atha kho, bhaggava, sā parisā aññataraṃ purisaṃ āmantesi:"
 msgstr "and instructed a man:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.18"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.18"></a>
 #. <a class="sc" id="sc43"></a>
 msgctxt "dn24:1.20.9"
 msgid ""
@@ -1929,7 +1931,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.19"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.19"></a>
 #. <a class="sc" id="sc45"></a>
 #. VAR: saṃsappati → saṃsabbati (mr)
 msgctxt "dn24:1.21.10"
@@ -2033,7 +2035,7 @@ msgstr "The first recitation section is finished."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.20"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.20"></a>
 #. <a class="sc" id="sc47"></a>
 msgctxt "dn24:2.1.1"
 msgid ""
@@ -2126,7 +2128,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.21"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.21"></a>
 #. <a class="sc" id="sc49"></a>
 msgctxt "dn24:2.2.1"
 msgid ""
@@ -2167,7 +2169,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.3"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.22"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.22"></a>
 #. <a class="sc" id="sc50"></a>
 msgctxt "dn24:2.3.1"
 msgid "Yadā kho so, bhaggava, licchavimahāmatto aññāsi:"
@@ -2361,7 +2363,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.5"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.23"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.23"></a>
 #. <a class="sc" id="sc53"></a>
 msgctxt "dn24:2.5.1"
 msgid ""
@@ -2467,7 +2469,7 @@ msgid ""
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.24"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.24"></a>
 #. <a class="sc" id="sc57"></a>
 #. VAR: jarasiṅgālo → jarasigālo (bj, s1-3, pts1)
 msgctxt "dn24:2.6.10"
@@ -2565,7 +2567,7 @@ msgid "Atha naṃ etadavoca:"
 msgstr "he said to him:"
 
 #. </p><blockquote class="gatha"><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.25"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.25"></a>
 #. <a class="sc" id="sc61"></a>
 msgctxt "dn24:2.8.3"
 msgid "‘Sīhoti attānaṃ samekkhiyāna,"
@@ -2670,7 +2672,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.10"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.26"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.26"></a>
 #. <a class="sc" id="sc67"></a>
 msgctxt "dn24:2.10.1"
 msgid ""
@@ -2762,7 +2764,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.12"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.27"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.27"></a>
 #. <a class="sc" id="sc71"></a>
 msgctxt "dn24:2.12.1"
 msgid "Evaṃ vutte, ahaṃ, bhaggava, taṃ parisaṃ etadavocaṃ:"
@@ -2864,7 +2866,7 @@ msgid ""
 msgstr "‘It turned out to be correct.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.28"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.28"></a>
 #. <a class="sc" id="sc74"></a>
 msgctxt "dn24:2.13.6"
 msgid "‘Taṃ kiṃ maññasi, sunakkhatta, "
@@ -3012,7 +3014,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.15"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.29"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.29"></a>
 #. <a class="sc" id="sc79"></a>
 #. VAR: kho → atha (s1-3, pts1)
 msgctxt "dn24:2.15.1"
@@ -3146,7 +3148,7 @@ msgid ""
 msgstr "Because we see that he was reborn here first, and we arrived later.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.30"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.30"></a>
 #. <a class="sc" id="sc83"></a>
 msgctxt "dn24:2.17.12"
 msgid ""
@@ -3250,7 +3252,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.18"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.31"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.31"></a>
 #. <a class="sc" id="sc87"></a>
 msgctxt "dn24:2.18.1"
 msgid ""
@@ -3334,7 +3336,7 @@ msgstr ""
 "that past life, but no further."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.32"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.32"></a>
 #. <a class="sc" id="sc90"></a>
 msgctxt "dn24:2.18.13"
 msgid "So evamāha:"
@@ -3527,7 +3529,7 @@ msgstr ""
 "the arising of perception, but no further."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.34"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.34"></a>
 #. <a class="sc" id="sc100"></a>
 msgctxt "dn24:2.20.14"
 msgid "So evamāha:"
@@ -3633,7 +3635,7 @@ msgstr ""
 "time one only perceives what is beautiful.”’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.35"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.35"></a>
 #. <a class="sc" id="sc103"></a>
 msgctxt "dn24:2.21.9"
 msgid ""
@@ -3739,7 +3741,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs95"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.33"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.33"></a>
 #. <a class="sc" id="sc95"></a>
 msgctxt "dn24:95.1"
 msgid "So evamāha:"

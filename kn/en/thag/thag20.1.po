@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2017-07-26 09:15+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1501060510.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag20.1.po\n"
+"X-Pootle-Revision: 8189\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -180,7 +179,10 @@ msgstr "With its nine streams,"
 
 #. <br>
 msgctxt "thag20.1:11.2"
-msgid "<span class=\"var\" title=\"duggandhakaṃ (s2, s3) | duggandhaṃ (pts1)\" id=\"note491\">Duggandhakaraṃ</span> <span class=\"var\" title=\"parivajjeyya (s2, s3) | kariparibandha (pts1)\" id=\"note492\">paribandhaṃ</span>;"
+msgid ""
+"<span class=\"var\" title=\"duggandhakaṃ (s2, s3) | duggandhaṃ (pts1)\" id=\""
+"note491\">Duggandhakaraṃ</span> <span class=\"var\" title=\"parivajjeyya ("
+"s2, s3) | kariparibandha (pts1)\" id=\"note492\">paribandhaṃ</span>;"
 msgstr "Your body stinks, full of dung."
 
 #. <br>
@@ -273,7 +275,9 @@ msgstr "Serene inwardly."
 
 #. <br>
 msgctxt "thag20.1:15.3"
-msgid "Mā pāpacitte <span class=\"var\" title=\"ahati (bj) | āhari (pts1)\" id=\"note493\">āsādi</span>,"
+msgid ""
+"Mā pāpacitte <span class=\"var\" title=\"ahati (bj) | āhari (pts1)\" id=\""
+"note493\">āsādi</span>,"
 msgstr "Evil-minded one, don’t attack me"
 
 #. <br>
@@ -455,7 +459,11 @@ msgstr "Passed into nibbāna."
 #. id="verse-num-sc1169"></a><a class="verse-num-pts"
 #. id="verse-num-pts1159"></a><a class="pts" id="pts105"></a>
 msgctxt "thag20.1:24.1"
-msgid "<span class=\"cross\" title=\"^dn16#239 [Mahāparinibbānasutta/36. Parinibbutakathā] | ^dn17#56 [Mahāsudassanasutta/8. Brahmalokūpagama] | ^sn6.15#1 [15. Parinibbānasutta] | ^sn15.20#1 [20. Vepullapabbatasutta] | ^ja95#1 [Mahāsudassanajātaka]\" id=\"note494\">*</span> Aniccā vata saṅkhārā,"
+msgid ""
+"<span class=\"cross\" title=\"^dn16#239 [Mahāparinibbānasutta/36. "
+"Parinibbutakathā] | ^dn17#56 [Mahāsudassanasutta/8. Brahmalokūpagama] | "
+"^sn6.15#1 [15. Parinibbānasutta] | ^sn15.20#1 [20. Vepullapabbatasutta] | "
+"^ja95#1 [Mahāsudassanajātaka]\" id=\"note494\">*</span> Aniccā vata saṅkhārā,"
 msgstr "All conditions are impermanent,"
 
 #. <br>
@@ -521,7 +529,11 @@ msgstr "Like a hair-tip with an arrow.”"
 #. id="verse-num-sc1172"></a><a class="verse-num-pts"
 #. id="verse-num-pts1162"></a>
 msgctxt "thag20.1:27.1"
-msgid "<span class=\"cross\" title=\"(gāthā 1171--1172) ^sn1.21#1 [21. Sattisutta] | ^sn2.16#1 [16. Vāsudattasutta] | ^thag1.39#1 [Tissattheragāthā]-90 | ^ne6#181 [Sāsanapaṭṭhāna] | ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi]\" id=\"note495\">*</span> Sattiyā viya omaṭṭho,"
+msgid ""
+"<span class=\"cross\" title=\"(gāthā 1171--1172) ^sn1.21#1 [21. Sattisutta] |"
+" ^sn2.16#1 [16. Vāsudattasutta] | ^thag1.39#1 [Tissattheragāthā]-90 | ^ne6#"
+"181 [Sāsanapaṭṭhāna] | ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi]\" id=\"note495\""
+">*</span> Sattiyā viya omaṭṭho,"
 msgstr "“As if struck by a sword,"
 
 #. <br>
@@ -587,7 +599,9 @@ msgstr "With my big toe.”"
 #. id="verse-num-sc1175"></a><a class="verse-num-pts"
 #. id="verse-num-pts1165"></a>
 msgctxt "thag20.1:30.1"
-msgid "<span class=\"cross\" title=\"^sn21.4#1 [4. Navasutta] | ^ne6#227 [Sāsanapaṭṭhāna]\" id=\"note496\">*</span> Nayidaṃ sithilamārabbha,"
+msgid ""
+"<span class=\"cross\" title=\"^sn21.4#1 [4. Navasutta] | ^ne6#227 "
+"[Sāsanapaṭṭhāna]\" id=\"note496\">*</span> Nayidaṃ sithilamārabbha,"
 msgstr "“This isn’t something you can get by being slack;"
 
 #. <br>
@@ -624,7 +638,9 @@ msgstr "Has vanquished Māra and his mount,"
 
 #. <br>
 msgctxt "thag20.1:31.4"
-msgid "jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (s2, s3, pts1-2, mr)\" id=\"note497\">savāhiniṃ</span>."
+msgid ""
+"jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (s2, s3, pts1-2, mr)\" id="
+"\"note497\">savāhiniṃ</span>."
 msgstr "And bears his final body.”"
 
 #. </p><p><a class="sc" id="28"></a><a class="verse-num-sc"
@@ -729,7 +745,9 @@ msgstr "With expertise in the three Vedas:"
 
 #. <br>
 msgctxt "thag20.1:36.3"
-msgid "Etassa <span class=\"var\" title=\"... ekaṃ (s2, s3, pts1)\" id=\"note498\">vandanāyetaṃ</span>,"
+msgid ""
+"Etassa <span class=\"var\" title=\"... ekaṃ (s2, s3, pts1)\" id=\"note498\""
+">vandanāyetaṃ</span>,"
 msgstr "Honoring such a person"
 
 #. <br>
@@ -746,7 +764,9 @@ msgstr "Whoever attains the eight emancipations"
 
 #. <br>
 msgctxt "thag20.1:37.2"
-msgid "purebhattaṃ <span class=\"var\" title=\"aphussayi (s2, s3) | apassayi (pts1, mr)\" id=\"note499\">aphassayi</span>;"
+msgid ""
+"purebhattaṃ <span class=\"var\" title=\"aphussayi (s2, s3) | apassayi (pts1, "
+"mr)\" id=\"note499\">aphassayi</span>;"
 msgstr "Forwards and backwards "
 
 #. <br>
@@ -763,7 +783,9 @@ msgstr "And then goes on alms-round—"
 #. id="verse-num-sc1183"></a><a class="verse-num-pts"
 #. id="verse-num-pts1173"></a>
 msgctxt "thag20.1:38.1"
-msgid "Tādisaṃ bhikkhuṃ <span class=\"var\" title=\"mā hani (bj) | māhari (pts1)\" id=\"note500\">māsādi</span>,"
+msgid ""
+"Tādisaṃ bhikkhuṃ <span class=\"var\" title=\"mā hani (bj) | māhari (pts1)\" "
+"id=\"note500\">māsādi</span>,"
 msgstr "Don’t attack such a monk!"
 
 #. <br>
@@ -805,7 +827,9 @@ msgstr "You don’t see the Dhamma."
 
 #. <br>
 msgctxt "thag20.1:39.3"
-msgid "<span class=\"var\" title=\"acaṅkamaṃ (s2, s3, pts1)\" id=\"note501\">Adhogamaṃ</span> jimhapathaṃ,"
+msgid ""
+"<span class=\"var\" title=\"acaṅkamaṃ (s2, s3, pts1)\" id=\"note501\""
+">Adhogamaṃ</span> jimhapathaṃ,"
 msgstr "You’re following a twisted path,"
 
 #. <br>
@@ -1090,7 +1114,11 @@ msgstr "The ending of all fetters.”"
 
 #. </p><p><a class="sc" id="48"></a>
 msgctxt "thag20.1:52.1"
-msgid "<a class=\"verse-num-sc\" id=\"verse-num-sc1197\"><span class=\"cross\" title=\"^mn50#21 [Māratajjanīyasutta]\" id=\"note502\">*</span> </a><a class=\"sc\" id=\"1197\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1187\"></a>Kīdiso nirayo āsi,"
+msgid ""
+"<a class=\"verse-num-sc\" id=\"verse-num-sc1197\"><span class=\"cross\" "
+"title=\"^mn50#21 [Māratajjanīyasutta]\" id=\"note502\">*</span> </a><a class="
+"\"sc\" id=\"1197\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1187\""
+"></a>Kīdiso nirayo āsi,"
 msgstr "“‘What kind of hell was that,"
 
 #. <br>
@@ -1110,7 +1138,12 @@ msgstr "Along with the brahmin Kakusandha?’"
 
 #. </p><p><a class="sc" id="49"></a>
 msgctxt "thag20.1:53.1"
-msgid "<a class=\"verse-num-sc\" id=\"verse-num-sc1198\"><span class=\"cross\" title=\"^mn50#21 [Māratajjanīyasutta] | ^pe1#35 [Ariyasaccappakāsanapaṭhamabhūmi]\" id=\"note503\">*</span> </a><a class=\"sc\" id=\"1198\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1188\"></a>Sataṃ āsi ayosaṅkū,"
+msgid ""
+"<a class=\"verse-num-sc\" id=\"verse-num-sc1198\"><span class=\"cross\" "
+"title=\"^mn50#21 [Māratajjanīyasutta] | ^pe1#35 "
+"[Ariyasaccappakāsanapaṭhamabhūmi]\" id=\"note503\">*</span> </a><a class=\""
+"sc\" id=\"1198\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts1188\"></a>"
+"Sataṃ āsi ayosaṅkū,"
 msgstr "‘There were 100 iron spikes,"
 
 #. <br>
@@ -1164,7 +1197,9 @@ msgstr "You will fall into suffering."
 #. id="verse-num-sc1200"></a><a class="verse-num-pts"
 #. id="verse-num-pts1190"></a><a class="pts" id="pts107"></a>
 msgctxt "thag20.1:55.1"
-msgid "<span class=\"var\" title=\"... sarassa (bj, pts2) | ... sāgarasmiṃ (s2, s3, pts1, mr)\" id=\"note504\">Majjhesarasmiṃ</span> tiṭṭhanti,"
+msgid ""
+"<span class=\"var\" title=\"... sarassa (bj, pts2) | ... sāgarasmiṃ (s2, s3, "
+"pts1, mr)\" id=\"note504\">Majjhesarasmiṃ</span> tiṭṭhanti,"
 msgstr "‘Mansions that last for an aeon"
 
 #. <br>
@@ -1361,7 +1396,9 @@ msgstr "‘The one who asked Brahmā"
 
 #. <br>
 msgctxt "thag20.1:63.2"
-msgid "<span class=\"var\" title=\"sudhammāyaṃ abhitosabhaṃ (s2, s3, pts1-2)\" id=\"note505\">Sudhammāyaṃ ṭhito sabhaṃ</span>;"
+msgid ""
+"<span class=\"var\" title=\"sudhammāyaṃ abhitosabhaṃ (s2, s3, pts1-2)\" id=\""
+"note505\">Sudhammāyaṃ ṭhito sabhaṃ</span>;"
 msgstr "In the Hall of Justice before the assembly:"
 
 #. <br>
@@ -1458,7 +1495,9 @@ msgstr "‘The one who through emancipation has touched"
 
 #. <br>
 msgctxt "thag20.1:67.2"
-msgid "vimokkhena <span class=\"var\" title=\"apassayi (s2, s3, pts1, mr)\" id=\"note506\">aphassayi</span>;"
+msgid ""
+"vimokkhena <span class=\"var\" title=\"apassayi (s2, s3, pts1, mr)\" id=\""
+"note506\">aphassayi</span>;"
 msgstr "The peak of the mighty Mount Neru,"
 
 #. <br>
@@ -1519,7 +1558,9 @@ msgstr "To the fire gets burnt."
 #. id="verse-num-sc1215"></a><a class="verse-num-pts"
 #. id="verse-num-pts1205"></a>
 msgctxt "thag20.1:70.1"
-msgid "<span class=\"var\" title=\"evameva (c1)\" id=\"note507\">Evamevaṃ</span> tuvaṃ māra,"
+msgid ""
+"<span class=\"var\" title=\"evameva (c1)\" id=\"note507\">Evamevaṃ</span> "
+"tuvaṃ māra,"
 msgstr "‘In the same way Māra,"
 
 #. <br>
@@ -1529,7 +1570,9 @@ msgstr "Having attacked the Tathāgata,"
 
 #. <br>
 msgctxt "thag20.1:70.3"
-msgid "Sayaṃ <span class=\"var\" title=\"dahissasi (bj, pts2) | ḍahissati (s2, s3) | dahissam (pts1)\" id=\"note508\">ḍahissasi</span> attānaṃ,"
+msgid ""
+"Sayaṃ <span class=\"var\" title=\"dahissasi (bj, pts2) | ḍahissati (s2, s3) |"
+" dahissam (pts1)\" id=\"note508\">ḍahissasi</span> attānaṃ,"
 msgstr "You’ll burn yourself,"
 
 #. <br>
@@ -1563,7 +1606,10 @@ msgstr "“My wickedness won’t bear fruit?”"
 #. id="verse-num-sc1217"></a><a class="verse-num-pts"
 #. id="verse-num-pts1207"></a>
 msgctxt "thag20.1:72.1"
-msgid "<span class=\"var\" title=\"karato te miyyate (bj, s2, s3, pts1) | karato cīyate (^mn50#21 [Māratajjanīyasutta])\" id=\"note509\">Karato te cīyate</span> pāpaṃ,"
+msgid ""
+"<span class=\"var\" title=\"karato te miyyate (bj, s2, s3, pts1) | karato "
+"cīyate (^mn50#21 [Māratajjanīyasutta])\" id=\"note509\">Karato te "
+"cīyate</span> pāpaṃ,"
 msgstr "‘For a long time you’ve piled up"
 
 #. <br>
@@ -1600,12 +1646,16 @@ msgstr "That spirit, downcast,"
 
 #. <br>
 msgctxt "thag20.1:73.4"
-msgid "tatthevantaradhāyathā”<span class=\"var\" title=\"... dhāyatīti (s2, s3, pts1)\" id=\"note510\">ti</span>."
+msgid ""
+"tatthevantaradhāyathā”<span class=\"var\" title=\"... dhāyatīti (s2, s3, "
+"pts1)\" id=\"note510\">ti</span>."
 msgstr "Disappeared right there!”"
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag20.1:74.1"
-msgid "Itthaṃ sudaṃ āyasmā <span class=\"var\" title=\"mahāmoggalāno (mr)\" id=\"note511\">mahāmoggallāno</span> thero gāthāyo abhāsitthāti."
+msgid ""
+"Itthaṃ sudaṃ āyasmā <span class=\"var\" title=\"mahāmoggalāno (mr)\" id=\""
+"note511\">mahāmoggallāno</span> thero gāthāyo abhāsitthāti."
 msgstr ""
 
 #. </p><p class="endsection">
