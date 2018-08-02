@@ -1,5 +1,7 @@
 # Pootle FS git repository
 
+**Note: the data in this repo is not meant for publication! It is a straight dump from Pootle and includes unfinished texts. Go [here](https://github.com/suttacentral/sc-data/tree/master/po_text) for the latest published files from pootle.**
+
 This repository is intended to be used as the backend for Pootle FS
 at the moment the data is placeholder because the Pootle FS git plugin
 is rather buggy. The Pootle FS basic functionality seems to work okay
