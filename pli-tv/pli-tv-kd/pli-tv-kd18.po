@@ -1,0 +1,6221 @@
++Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2018-06-15 12:54+0009\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. HTML: <section class="sutta" id="pli-tv-kd18"><article><div class="hgroup"><p class="collection">
+msgctxt "pli-tv-kd18:0.1"
+msgid "Theravāda Vinayapiṭaka"
+msgstr ""
+
+#. HTML: </p><p class="division">
+msgctxt "pli-tv-kd18:0.2"
+msgid "Cūḷavagga"
+msgstr ""
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-kd18:0.3"
+msgid "Vattakkhandhaka"
+msgstr ""
+
+#. HTML: </h1></div><h2>
+msgctxt "pli-tv-kd18:0.4"
+msgid "1. Āgantukavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc1, pts-vp-pli2.207
+msgctxt "pli-tv-kd18:1.1.1"
+msgid "Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.2"
+msgid "Tena kho pana samayena āgantukā bhikkhū saupāhanāpi ārāmaṃ pavisanti, chattappaggahitāpi ārāmaṃ pavisanti, oguṇṭhitāpi ārāmaṃ pavisanti, sīsepi cīvaraṃ karitvā ārāmaṃ pavisanti, pānīyenapi pāde dhovanti, vuḍḍhatarepi āvāsike bhikkhū na abhivādenti, napi senāsanaṃ pucchanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.3"
+msgid "Aññataropi āgantuko bhikkhu anajjhāvuṭṭhaṃ vihāraṃ ghaṭikaṃ ugghāṭetvā kavāṭaṃ paṇāmetvā sahasā pāvisi."
+msgstr ""
+
+#. VAR: uparipiṭṭhito → uparipiṭṭhato (?)
+msgctxt "pli-tv-kd18:1.1.4"
+msgid "Tassa uparipiṭṭhito ahi khandhe papati."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.5"
+msgid "So bhīto vissaramakāsi."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.6"
+msgid "Bhikkhū upadhāvitvā taṃ bhikkhuṃ etadavocuṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.7"
+msgid "“kissa tvaṃ, āvuso, vissaramakāsī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.8"
+msgid "Atha kho so bhikkhu bhikkhūnaṃ etamatthaṃ ārocesi."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc2
+msgctxt "pli-tv-kd18:1.1.9"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.11"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.12"
+msgid "“kathañhi nāma āgantukā bhikkhū saupāhanāpi ārāmaṃ pavisissanti, chattappaggahitāpi ārāmaṃ pavisissanti, oguṇṭhitāpi ārāmaṃ pavisissanti, sīsepi cīvaraṃ karitvā ārāmaṃ pavisissanti, pānīyenapi pāde dhovissanti, vuḍḍhatarepi āvāsike bhikkhū na abhivādessanti, napi senāsanaṃ pucchissantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.13"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.15"
+msgid "“saccaṃ kira, bhikkhave, āgantukā bhikkhū saupāhanāpi ārāmaṃ pavisanti, chattappaggahitāpi ārāmaṃ pavisanti, oguṇṭhitāpi ārāmaṃ pavisanti, sīsepi cīvaraṃ karitvā ārāmaṃ pavisanti, pānīyenapi pāde dhovanti, vuḍḍhatarepi āvāsike bhikkhū na abhivādenti, napi senāsanaṃ pucchantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.16"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.17"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.19"
+msgid "kathañhi nāma bhikkhave āgantukā bhikkhū saupāhanāpi ārāmaṃ pavisissanti, chattappaggahitāpi ārāmaṃ pavisissanti, oguṇṭhitāpi ārāmaṃ pavisissanti, sīsepi cīvaraṃ karitvā ārāmaṃ pavisissanti, pānīyenapi pāde dhovissanti, vuḍḍhatarepi āvāsike bhikkhū na abhivādessanti, napi senāsanaṃ pucchissanti, netaṃ bhikkhave appasannānaṃ vā pasādāya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.21"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.1.23"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc3, pts-vp-pli2.208
+msgctxt "pli-tv-kd18:1.1.24"
+msgid "“Tena hi, bhikkhave, āgantukānaṃ bhikkhūnaṃ vattaṃ paññapessāmi yathā āgantukehi bhikkhūhi sammā vattitabbaṃ."
+msgstr ""
+
+#. VAR: vivaritvā sīse cīvaraṃ → vivaritvā cīvaraṃ (pts1, mr)
+msgctxt "pli-tv-kd18:1.2.1"
+msgid "Āgantukena, bhikkhave, bhikkhunā ‘idāni ārāmaṃ pavisissāmī’ti upāhanā omuñcitvā nīcaṃ katvā papphoṭetvā gahetvā chattaṃ apanāmetvā sīsaṃ vivaritvā sīse cīvaraṃ khandhe katvā sādhukaṃ ataramānena ārāmo pavisitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.2"
+msgid "Ārāmaṃ pavisantena sallakkhetabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.3"
+msgid "kattha āvāsikā bhikkhū paṭikkamantī’ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.4"
+msgid "Yattha āvāsikā bhikkhū paṭikkamanti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.5"
+msgid "upaṭṭhānasālāya vā maṇḍape vā rukkhamūle vā—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.6"
+msgid "tattha gantvā ekamantaṃ patto nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.7"
+msgid "ekamantaṃ cīvaraṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.8"
+msgid "patirūpaṃ āsanaṃ gahetvā nisīditabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.9"
+msgid "pānīyaṃ pucchitabbaṃ, paribhojanīyaṃ pucchitabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.10"
+msgid "katamaṃ pānīyaṃ, katamaṃ paribhojanīyan’ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.11"
+msgid "Sace pānīyena attho hoti, pānīyaṃ gahetvā pātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.12"
+msgid "Sace paribhojanīyena attho hoti, paribhojanīyaṃ gahetvā pādā dhovitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.13"
+msgid "Pāde dhovantena ekena hatthena udakaṃ āsiñcitabbaṃ, ekena hatthena pādā dhovitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.14"
+msgid "Na teneva udakaṃ āsiñcitabbaṃ na teneva hatthena pādā dhovitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.15"
+msgid "Upāhanāpuñchanacoḷakaṃ pucchitvā upāhanā puñchitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.16"
+msgid "Upāhanā puñchantena paṭhamaṃ sukkhena coḷakena puñchitabbā, pacchā allena."
+msgstr ""
+
+#. VAR: dhovitvā → pīḷetvā (s1-3)
+msgctxt "pli-tv-kd18:1.2.17"
+msgid "Upāhanāpuñchanacoḷakaṃ dhovitvā ekamantaṃ vissajjetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc4
+msgctxt "pli-tv-kd18:1.2.18"
+msgid "Sace āvāsiko bhikkhu vuḍḍho hoti, abhivādetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.19"
+msgid "Sace navako hoti, abhivādāpetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.20"
+msgid "Senāsanaṃ pucchitabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.21"
+msgid "katamaṃ me senāsanaṃ pāpuṇātī’ti?"
+msgstr ""
+
+#. VAR: sekkhasammatāni → sekhasammatāni (pts1, mr)
+msgctxt "pli-tv-kd18:1.2.22"
+msgid "Ajjhāvuṭṭhaṃ vā anajjhāvuṭṭhaṃ vā pucchitabbaṃ, gocaro pucchitabbo, agocaro pucchitabbo, sekkhasammatāni kulāni pucchitabbāni, vaccaṭṭhānaṃ pucchitabbaṃ, passāvaṭṭhānaṃ pucchitabbaṃ, pānīyaṃ pucchitabbaṃ, paribhojanīyaṃ pucchitabbaṃ, kattaradaṇḍo pucchitabbo, saṃghassa katikasaṇṭhānaṃ pucchitabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.2.23"
+msgid "kaṃ kālaṃ pavisitabbaṃ, kaṃ kālaṃ nikkhamitabban’ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.1"
+msgid "Sace vihāro anajjhāvuttho hoti, kavāṭaṃ ākoṭetvā muhuttaṃ āgametvā ghaṭikaṃ ugghāṭetvā kavāṭaṃ paṇāmetvā bahi ṭhitena nilloketabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc5, pts-vp-pli2.209
+#. VAR: puñjīkataṃ → puñjakitaṃ (pts1, mr)
+msgctxt "pli-tv-kd18:1.3.2"
+msgid "Sace vihāro uklāpo hoti, mañce vā mañco āropito hoti, pīṭhe vā pīṭhaṃ āropitaṃ hoti, senāsanaṃ upari puñjīkataṃ hoti, sace ussahati, sodhetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.3"
+msgid "Vihāraṃ sodhentena paṭhamaṃ bhūmattharaṇaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.4"
+msgid "mañcapaṭipādakā nīharitvā ekamantaṃ nikkhipitabbā;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.5"
+msgid "bhisibibbohanaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.6"
+msgid "nisīdanapaccattharaṇaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.7"
+msgid "mañco nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, nīharitvā ekamantaṃ nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.8"
+msgid "pīṭhaṃ nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.9"
+msgid "kheḷamallako nīharitvā ekamantaṃ nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.10"
+msgid "apassenaphalakaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.11"
+msgid "Sace vihāre santānakaṃ hoti, ullokā paṭhamaṃ ohāretabbaṃ, ālokasandhikaṇṇabhāgā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.12"
+msgid "Sace gerukaparikammakatā bhitti kaṇṇakitā hoti, coḷakaṃ temetvā pīḷetvā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.13"
+msgid "Sace kāḷavaṇṇakatā bhūmi kaṇṇakitā hoti, coḷakaṃ temetvā pīḷetvā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.14"
+msgid "Sace akatā hoti bhūmi, udakena paripphositvā sammajjitabbā—"
+msgstr ""
+
+#. VAR: uhaññīti → ūhaññīti (bj, s1-3, pts1)
+msgctxt "pli-tv-kd18:1.3.15"
+msgid "mā vihāro rajena uhaññīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.3.16"
+msgid "Saṅkāraṃ vicinitvā ekamantaṃ chaḍḍetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc6
+#. VAR: yathāṭhāne → yathābhāgaṃ (s1-3, pts1, mr)
+msgctxt "pli-tv-kd18:1.4.1"
+msgid "Bhūmattharaṇaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāṭhāne paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.4.2"
+msgid "Mañcapaṭipādakā otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.4.3"
+msgid "Mañco otāpetvā sodhetvā papphoṭetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, atiharitvā yathāṭhāne paññapetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.4.4"
+msgid "Pīṭhaṃ otāpetvā sodhetvā papphoṭetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, atiharitvā yathāṭhāne paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.4.5"
+msgid "Bhisibibbohanaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathābhāgaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.4.6"
+msgid "Nisīdanapaccattharaṇaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathābhāgaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.4.7"
+msgid "Kheḷamallako otāpetvā pamajjitvā atiharitvā yathābhāgaṃ ṭhapetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.4.8"
+msgid "Apassenaphalakaṃ otāpetvā pamajjitvā atiharitvā yathābhāgaṃ ṭhapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.1"
+msgid "Pattacīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.2"
+msgid "Pattaṃ nikkhipantena ekena hatthena pattaṃ gahetvā ekena hatthena heṭṭhāmañcaṃ vā heṭṭhāpīṭhaṃ vā parāmasitvā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.3"
+msgid "Na ca anantarahitāya bhūmiyā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.4"
+msgid "Cīvaraṃ nikkhipantena ekena hatthena cīvaraṃ gahetvā ekena hatthena cīvaravaṃsaṃ vā cīvararajjuṃ vā pamajjitvā pārato antaṃ orato bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc7
+msgctxt "pli-tv-kd18:1.5.5"
+msgid "Sace puratthimā sarajā vātā vāyanti, puratthimā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.6"
+msgid "Sace pacchimā sarajā vātā vāyanti, pacchimā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.7"
+msgid "Sace uttarā sarajā vātā vāyanti, uttarā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.8"
+msgid "Sace dakkhiṇā sarajā vātā vāyanti, dakkhiṇā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.9"
+msgid "Sace sītakālo hoti, divā vātapānā vivaritabbā, rattiṃ thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.10"
+msgid "Sace uṇhakālo hoti, divā vātapānā thaketabbā, rattiṃ vivaritabbā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc8, pts-vp-pli2.210
+msgctxt "pli-tv-kd18:1.5.11"
+msgid "Sace pariveṇaṃ uklāpaṃ hoti, pariveṇaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.12"
+msgid "Sace koṭṭhako uklāpo hoti, koṭṭhako sammajjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.13"
+msgid "Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.14"
+msgid "Sace aggisālā uklāpā hoti, aggisālā sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.15"
+msgid "Sace vaccakuṭi uklāpā hoti, vaccakuṭi sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.16"
+msgid "Sace pānīyaṃ na hoti, pānīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.17"
+msgid "Sace paribhojanīyaṃ na hoti, paribhojanīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.18"
+msgid "Sace ācamanakumbhiyā udakaṃ na hoti, ācamanakumbhiyā udakaṃ āsiñcitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:1.5.19"
+msgid "Idaṃ kho, bhikkhave, āgantukānaṃ bhikkhūnaṃ vattaṃ yathā āgantukehi bhikkhūhi sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:2.1.0"
+msgid "2. Āvāsikavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc9
+#. VAR: na pānīyena pucchanti → na paribhojanīyena pucchanti (s1-3, km) | na pāniyena pucchanti (pts1)
+msgctxt "pli-tv-kd18:2.1.1"
+msgid "Tena kho pana samayena āvāsikā bhikkhū āgantuke bhikkhū disvā neva āsanaṃ paññapenti, na pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipanti, na paccuggantvā pattacīvaraṃ paṭiggaṇhanti, na pānīyena pucchanti, na vuḍḍhatarepi āgantuke bhikkhū abhivādenti, na senāsanaṃ paññapenti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.1.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.1.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.1.5"
+msgid "“kathañhi nāma āvāsikā bhikkhū āgantuke bhikkhū disvā neva āsanaṃ paññapessanti, na pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipissanti, na paccuggantvā pattacīvaraṃ paṭiggahissanti, na pānīyena pucchissanti, vuḍḍhatarepi āgantuke bhikkhū na abhivādessanti, na senāsanaṃ paññapessantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.1.6"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.1.8"
+msgid "“saccaṃ kira, bhikkhave … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.1.10"
+msgid "“saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.1.12"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.1.14"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc10
+msgctxt "pli-tv-kd18:2.1.15"
+msgid "“Tena hi, bhikkhave, āvāsikānaṃ bhikkhūnaṃ vattaṃ paññapessāmi yathā āvāsikehi bhikkhūhi sammā vattitabbaṃ."
+msgstr ""
+
+#. VAR: pānīyena pucchitabbo → paribhojanīyena pucchitabbo (s1-3) | pāniyena pucchitabbo (pts1)
+msgctxt "pli-tv-kd18:2.2.1"
+msgid "Āvāsikena, bhikkhave, bhikkhunā āgantukaṃ bhikkhuṃ vuḍḍhataraṃ disvā āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ, paccuggantvā pattacīvaraṃ paṭiggahetabbaṃ, pānīyena pucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.2"
+msgid "Sace ussahati, upāhanā puñchitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.3"
+msgid "Upāhanā puñchantena paṭhamaṃ sukkhena coḷakena puñchitabbā, pacchā allena."
+msgstr ""
+
+#. VAR: dhovitvā → dhovitvā pīḷetvā (s1-3)
+msgctxt "pli-tv-kd18:2.2.4"
+msgid "Upāhanāpuñchanacoḷakaṃ dhovitvā ekamantaṃ vissajjetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc11, pts-vp-pli2.211
+msgctxt "pli-tv-kd18:2.2.5"
+msgid "Āgantuko bhikkhu vuḍḍhataro abhivādetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.6"
+msgid "Senāsanaṃ paññapetabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.7"
+msgid "etaṃ te senāsanaṃ pāpuṇātī’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.8"
+msgid "Ajjhāvuṭṭhaṃ vā anajjhāvuṭṭhaṃ vā ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.9"
+msgid "Gocaro ācikkhitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.10"
+msgid "Agocaro ācikkhitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.11"
+msgid "Sekkhasammatāni kulāni ācikkhitabbāni."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.12"
+msgid "Vaccaṭṭhānaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.13"
+msgid "Passāvaṭṭhānaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.14"
+msgid "Pānīyaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.15"
+msgid "Paribhojanīyaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.16"
+msgid "Kattaradaṇḍo ācikkhitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.17"
+msgid "Saṃghassa katikasaṇṭhānaṃ ācikkhitabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.2.18"
+msgid "imaṃ kālaṃ pavisitabbaṃ, imaṃ kālaṃ nikkhamitabban’ti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc12
+msgctxt "pli-tv-kd18:2.3.1"
+msgid "Sace navako hoti, nisinnakeneva ācikkhitabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.2"
+msgid "atra pattaṃ nikkhipāhi, atra cīvaraṃ nikkhipāhi, idaṃ āsanaṃ nisīdāhī’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.3"
+msgid "Pānīyaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.4"
+msgid "Paribhojanīyaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.5"
+msgid "Upāhanāpuñchanacoḷakaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.6"
+msgid "Āgantuko bhikkhu navako abhivādāpetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.7"
+msgid "Senāsanaṃ ācikkhitabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.8"
+msgid "etaṃ te senāsanaṃ pāpuṇātī’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.9"
+msgid "Ajjhāvuṭṭhaṃ vā anajjhāvuṭṭhaṃ vā ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.10"
+msgid "Gocaro ācikkhitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.11"
+msgid "Agocaro ācikkhitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.12"
+msgid "Sekkhasammatāni kulāni ācikkhitabbāni."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.13"
+msgid "Vaccaṭṭhānaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.14"
+msgid "Passāvaṭṭhānaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.15"
+msgid "Pānīyaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.16"
+msgid "Paribhojanīyaṃ ācikkhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.17"
+msgid "Kattaradaṇḍo ācikkhitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.18"
+msgid "Saṃghassa katikasaṇṭhānaṃ ācikkhitabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.19"
+msgid "imaṃ kālaṃ pavisitabbaṃ, imaṃ kālaṃ nikkhamitabban’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:2.3.20"
+msgid "Idaṃ kho, bhikkhave, āvāsikānaṃ bhikkhūnaṃ vattaṃ yathā āvāsikehi bhikkhūhi sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:3.1.0"
+msgid "3. Gamikavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc13
+msgctxt "pli-tv-kd18:3.1.1"
+msgid "Tena kho pana samayena gamikā bhikkhū dārubhaṇḍaṃ mattikābhaṇḍaṃ appaṭisāmetvā dvāravātapānaṃ vivaritvā senāsanaṃ anāpucchā pakkamanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.2"
+msgid "Dārubhaṇḍaṃ mattikābhaṇḍaṃ nassati."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.3"
+msgid "Senāsanaṃ aguttaṃ hoti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.4"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.6"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.7"
+msgid "“kathañhi nāma gamikā bhikkhū dārubhaṇḍaṃ mattikābhaṇḍaṃ appaṭisāmetvā dvāravātapānaṃ vivaritvā senāsanaṃ anāpucchā pakkamissanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.8"
+msgid "Dārubhaṇḍaṃ mattikābhaṇḍaṃ nassati."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.9"
+msgid "Senāsanaṃ aguttaṃ hotī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.10"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.12"
+msgid "“saccaṃ kira, bhikkhave … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.14"
+msgid "“saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.16"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.1.18"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc14, pts-vp-pli2.212
+msgctxt "pli-tv-kd18:3.1.19"
+msgid "“Tena hi, bhikkhave, gamikānaṃ bhikkhūnaṃ vattaṃ paññapessāmi yathā gamikehi bhikkhūhi sammā vattitabbaṃ."
+msgstr ""
+
+#. VAR: āpucchā pakkamitabbaṃ → āpucchitabbaṃ (s1-3)
+msgctxt "pli-tv-kd18:3.2.1"
+msgid "Gamikena, bhikkhave, bhikkhunā dārubhaṇḍaṃ mattikābhaṇḍaṃ paṭisāmetvā dvāravātapānaṃ thaketvā senāsanaṃ āpucchā pakkamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.2.2"
+msgid "Sace bhikkhu na hoti, sāmaṇero āpucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.2.3"
+msgid "Sace sāmaṇero na hoti, ārāmiko āpucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.2.4"
+msgid "Sace ārāmiko na hoti, upāsako āpucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.2.5"
+msgid "Sace na hoti bhikkhu vā sāmaṇero vā ārāmiko vā upāsako vā, catūsu pāsāṇesu mañcaṃ paññapetvā mañce mañcaṃ āropetvā pīṭhe pīṭhaṃ āropetvā senāsanaṃ upari puñjaṃ karitvā dārubhaṇḍaṃ mattikābhaṇḍaṃ paṭisāmetvā dvāravātapānaṃ thaketvā pakkamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.1"
+msgid "Sace vihāro ovassati, sace ussahati, chādetabbo, ussukkaṃ vā kātabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.2"
+msgid "kinti nu kho vihāro chādiyethā’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.3"
+msgid "Evañcetaṃ labhetha, iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.4"
+msgid "No ce labhetha, yo deso anovassako hoti, tattha catūsu pāsāṇesu mañcaṃ paññapetvā mañce mañcaṃ āropetvā pīṭhe pīṭhaṃ āropetvā senāsanaṃ upari puñjaṃ karitvā dārubhaṇḍaṃ mattikābhaṇḍaṃ paṭisāmetvā dvāravātapānaṃ thaketvā pakkamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.5"
+msgid "Sace sabbo vihāro ovassati, sace ussahati, senāsanaṃ gāmaṃ atiharitabbaṃ, ussukkaṃ vā kātabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.6"
+msgid "kinti nu kho senāsanaṃ gāmaṃ atihariyethā’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.7"
+msgid "Evañcetaṃ labhetha, iccetaṃ kusalaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.8"
+msgid "No ce labhetha, ajjhokāse catūsu pāsāṇesu mañcaṃ paññapetvā mañce mañcaṃ āropetvā pīṭhe pīṭhaṃ āropetvā senāsanaṃ upari puñjaṃ karitvā dārubhaṇḍaṃ mattikābhaṇḍaṃ paṭisāmetvā tiṇena vā paṇṇena vā paṭicchādetvā pakkamitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.9"
+msgid "appeva nāma aṅgānipi seseyyunti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:3.3.10"
+msgid "Idaṃ kho, bhikkhave, gamikānaṃ bhikkhūnaṃ vattaṃ yathā gamikehi bhikkhūhi sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:4.1.0"
+msgid "4. Anumodanavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc15
+msgctxt "pli-tv-kd18:4.1.1"
+msgid "Tena kho pana samayena bhikkhū bhattagge na anumodanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.2"
+msgid "Manussā ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.3"
+msgid "“kathañhi nāma samaṇā sakyaputtiyā bhattagge na anumodissantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.4"
+msgid "Assosuṃ kho bhikkhū tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.5"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.6"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.7"
+msgid "“anujānāmi, bhikkhave, bhattagge anumoditun”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.8"
+msgid "Atha kho tesaṃ bhikkhūnaṃ etadahosi—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.9"
+msgid "“kena nu kho bhattagge anumoditabban”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.10"
+msgid "Bhagavato etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.11"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.12"
+msgid "“anujānāmi, bhikkhave, therena bhikkhunā bhattagge anumoditun”ti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc16
+msgctxt "pli-tv-kd18:4.1.13"
+msgid "Tena kho pana samayena aññatarassa pūgassa saṃghabhattaṃ hoti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.14"
+msgid "Āyasmā sāriputto saṃghatthero hoti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.15"
+msgid "Bhikkhū—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.16"
+msgid "“bhagavatā anuññātaṃ therena bhikkhunā bhattagge anumoditun”ti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.17"
+msgid "āyasmantaṃ sāriputtaṃ ekakaṃ ohāya pakkamiṃsu."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.18"
+msgid "Atha kho āyasmā sāriputto te manusse paṭisammoditvā pacchā ekako agamāsi."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.19"
+msgid "Addasā kho bhagavā āyasmantaṃ sāriputtaṃ dūratova ekakaṃ āgacchantaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.20"
+msgid "Disvāna āyasmantaṃ sāriputtaṃ etadavoca—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.21"
+msgid "“kacci, sāriputta, bhattaṃ iddhaṃ ahosī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.22"
+msgid "“Iddhaṃ kho, bhante, bhattaṃ ahosi;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.23"
+msgid "api ca maṃ bhikkhū ekakaṃ ohāya pakkantā”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.24"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.25"
+msgid "“anujānāmi, bhikkhave, bhattagge catūhi pañcahi therānutherehi bhikkhūhi āgametun”ti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc17
+msgctxt "pli-tv-kd18:4.1.26"
+msgid "Tena kho pana samayena aññataro thero bhattagge vaccito āgamesi."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.27"
+msgid "So vaccaṃ sandhāretuṃ asakkonto mucchito papati."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.28"
+msgid "Bhagavato etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.1.29"
+msgid "“Anujānāmi, bhikkhave, sati karaṇīye ānantarikaṃ bhikkhuṃ āpucchitvā gantun”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:4.2.0"
+msgid "5. Bhattaggavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc18, pts-vp-pli2.213
+msgctxt "pli-tv-kd18:4.2.1"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū dunnivatthā duppārutā anākappasampannā bhattaggaṃ gacchanti, vokkammapi therānaṃ bhikkhūnaṃ purato purato gacchanti, therepi bhikkhū anupakhajja nisīdanti, navepi bhikkhū āsanena paṭibāhanti, saṅghāṭimpi ottharitvā antaraghare nisīdanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.2.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.2.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.2.5"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū dunnivatthā duppārutā anākappasampannā bhattaggaṃ gacchissanti, vokkammapi therānaṃ bhikkhūnaṃ purato purato gacchissanti, therepi bhikkhū anupakhajja nisīdissanti, navepi bhikkhū āsanenapi paṭibāhissanti, saṅghāṭimpi ottharitvā antaraghare nisīdissantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.2.6"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.2.8"
+msgid "“saccaṃ kira, bhikkhave, chabbaggiyā bhikkhū dunnivatthā duppārutā anākappasampannā bhattaggaṃ gacchanti, vokkammapi therānaṃ bhikkhūnaṃ purato purato gacchanti, therepi bhikkhū anupakhajja nisīdanti, navepi bhikkhū āsanena paṭibāhanti, saṅghāṭimpi ottharitvā antaraghare nisīdantī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.2.9"
+msgid "“Saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.2.11"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.2.13"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc19
+msgctxt "pli-tv-kd18:4.2.14"
+msgid "“Tena hi, bhikkhave, bhikkhūnaṃ bhattaggavattaṃ paññapessāmi yathā bhikkhūhi bhattagge sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.1"
+msgid "Sace ārāme kālo ārocito hoti, timaṇḍalaṃ paṭicchādentena parimaṇḍalaṃ nivāsetvā kāyabandhanaṃ bandhitvā saguṇaṃ katvā saṅghāṭiyo pārupitvā gaṇṭhikaṃ paṭimuñcitvā dhovitvā pattaṃ gahetvā sādhukaṃ ataramānena gāmo pavisitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc20
+msgctxt "pli-tv-kd18:4.3.2"
+msgid "Na vokkamma therānaṃ bhikkhūnaṃ purato purato gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.3"
+msgid "Suppaṭicchannena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.4"
+msgid "Susaṃvutena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.5"
+msgid "Okkhittacakkhunā antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.6"
+msgid "Na ukkhittakāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.7"
+msgid "Na ujjagghikāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.8"
+msgid "Appasaddena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.9"
+msgid "Na kāyappacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.10"
+msgid "Na bāhuppacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.11"
+msgid "Na sīsappacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.12"
+msgid "Na khambhakatena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.13"
+msgid "Na oguṇṭhitena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.14"
+msgid "Na ukkuṭikāya antaraghare gantabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc21
+msgctxt "pli-tv-kd18:4.3.15"
+msgid "Suppaṭicchannena antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.16"
+msgid "Susaṃvutena antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.17"
+msgid "Okkhittacakkhunā antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.18"
+msgid "Na ukkhittakāya antaraghare nisīditabbaṃ na ujjagghikāya antaraghare nisīditabbaṃ, appasaddena antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.19"
+msgid "Na kāyappacālakaṃ antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.20"
+msgid "Na bāhuppacālakaṃ antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.21"
+msgid "Na sīsappacālakaṃ antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.22"
+msgid "Na khambhakatena antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.23"
+msgid "Na oguṇṭhitena antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.24"
+msgid "Na pallatthikāya antaraghare nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.25"
+msgid "Na there bhikkhū anupakhajja nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.26"
+msgid "Na navā bhikkhū āsanena paṭibāhitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.3.27"
+msgid "Na saṅghāṭiṃ ottharitvā antaraghare nisīditabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc22, pts-vp-pli2.214
+msgctxt "pli-tv-kd18:4.4.1"
+msgid "Udake diyyamāne ubhohi hatthehi pattaṃ paṭiggahetvā udakaṃ paṭiggahetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.2"
+msgid "Nīcaṃ katvā sādhukaṃ appaṭighaṃsantena patto dhovitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.3"
+msgid "Sace udakappaṭiggāhako hoti, nīcaṃ katvā udakappaṭiggahe udakaṃ āsiñcitabbaṃ—"
+msgstr ""
+
+#. VAR: osiñci → osiñciyyī (mr)
+#. VAR: osiñciṃsu → osiñciyyiṃsu (mr)
+msgctxt "pli-tv-kd18:4.4.4"
+msgid "mā udakappaṭiggāhako udakena osiñci, mā sāmantā bhikkhū udakena osiñciṃsu, mā saṅghāṭi udakena osiñcīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.5"
+msgid "Sace udakappaṭiggāhako na hoti, nīcaṃ katvā chamāya udakaṃ āsiñcitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.6"
+msgid "mā sāmantā bhikkhū udakena osiñciṃsu, mā saṅghāṭi udakena osiñcīti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc23
+msgctxt "pli-tv-kd18:4.4.7"
+msgid "Odane diyyamāne ubhohi hatthehi pattaṃ paṭiggahetvā odano paṭiggahetabbo, sūpassa okāso kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.8"
+msgid "Sace hoti sappi vā telaṃ vā uttaribhaṅgaṃ vā, therena vattabbo—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.9"
+msgid "sabbesaṃ samakaṃ sampādehī’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.10"
+msgid "Sakkaccaṃ piṇḍapāto paṭiggahetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.11"
+msgid "Pattasaññinā piṇḍapāto paṭiggahetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.12"
+msgid "Samasūpako piṇḍapāto paṭiggahetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.4.13"
+msgid "Samatittiko piṇḍapāto paṭiggahetabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc24
+msgctxt "pli-tv-kd18:4.4.14"
+msgid "Na tāva therena bhuñjitabbaṃ yāva na sabbesaṃ odano sampatto hoti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.1"
+msgid "Sakkaccaṃ piṇḍapāto bhuñjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.2"
+msgid "Pattasaññinā piṇḍapāto bhuñjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.3"
+msgid "Sapadānaṃ piṇḍapāto bhuñjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.4"
+msgid "Samasūpako piṇḍapāto bhuñjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.5"
+msgid "Na thūpakato omadditvā piṇḍapāto bhuñjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.6"
+msgid "Na sūpaṃ vā byañjanaṃ vā odanena paṭicchādetabbaṃ bhiyyokamyataṃ upādāya."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.7"
+msgid "Na sūpaṃ vā odanaṃ vā agilānena attano atthāya viññāpetvā bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.8"
+msgid "Na ujjhānasaññinā paresaṃ patto oloketabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.9"
+msgid "Nātimahanto kabaḷo kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.10"
+msgid "Parimaṇḍalo ālopo kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.11"
+msgid "Na anāhaṭe kabaḷe mukhadvāraṃ vivaritabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.12"
+msgid "Na bhuñjamānena sabbo hattho mukhe pakkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.13"
+msgid "Na sakabaḷena mukhena byāharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.14"
+msgid "Na piṇḍukkhepakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.15"
+msgid "Na kabaḷāvacchedakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.16"
+msgid "Na avagaṇḍakārakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.17"
+msgid "Na hatthaniddhunakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.18"
+msgid "Na sitthāvakārakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.19"
+msgid "Na jivhānicchārakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.20"
+msgid "Na capucapukārakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.21"
+msgid "Na surusurukārakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.22"
+msgid "Na hatthanillehakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.23"
+msgid "Na pattanillehakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.5.24"
+msgid "Na oṭṭhanillehakaṃ bhuñjitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc25
+msgctxt "pli-tv-kd18:4.5.25"
+msgid "Na sāmisena hatthena pānīyathālako paṭiggahetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.1"
+msgid "Na tāva therena udakaṃ paṭiggahetabbaṃ yāva na sabbeva bhuttāvino honti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.2"
+msgid "Udake diyyamāne ubhohi hatthehi pattaṃ paṭiggahetvā udakaṃ paṭiggahetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.3"
+msgid "Nīcaṃ katvā sādhukaṃ appaṭighaṃsantena patto dhovitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.4"
+msgid "Sace udakappaṭiggāhako hoti, nīcaṃ katvā udakappaṭiggahe udakaṃ āsiñcitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.5"
+msgid "mā udakappaṭiggāhako udakena osiñci, mā sāmantā bhikkhū udakena osiñciṃsu, mā saṅghāṭi udakena osiñcīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.6"
+msgid "Sace udakappaṭiggāhako na hoti, nīcaṃ katvā chamāya udakaṃ āsiñcitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.7"
+msgid "mā sāmantā bhikkhū udakena osiñciṃsu, mā saṅghāṭi udakena osiñcīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.8"
+msgid "Na sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc26, pts-vp-pli2.215
+msgctxt "pli-tv-kd18:4.6.9"
+msgid "Nivattantena navakehi bhikkhūhi paṭhamataraṃ nivattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.10"
+msgid "Pacchā therehi suppaṭicchannena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.11"
+msgid "Susaṃvutena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.12"
+msgid "Okkhittacakkhunā antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.13"
+msgid "Na ukkhittakāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.14"
+msgid "Na ujjagghikāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.15"
+msgid "Appasaddena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.16"
+msgid "Na kāyappacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.17"
+msgid "Na bāhuppacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.18"
+msgid "Na sīsappacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.19"
+msgid "Na khambhakatena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.20"
+msgid "Na oguṇṭhitena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.21"
+msgid "Na ukkuṭikāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:4.6.22"
+msgid "Idaṃ kho, bhikkhave, bhikkhūnaṃ bhattaggavattaṃ yathā bhikkhūhi bhattagge sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><p class="endsutta">
+#. REF: sc27
+msgctxt "pli-tv-kd18:4.6.23"
+msgid "Paṭhamabhāṇavāro niṭṭhito."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:5.1.0"
+msgid "6. Piṇḍacārikavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc28
+msgctxt "pli-tv-kd18:5.1.1"
+msgid "Tena kho pana samayena piṇḍacārikā bhikkhū dunnivatthā duppārutā anākappasampannā piṇḍāya caranti, asallakkhetvāpi nivesanaṃ pavisanti, asallakkhetvāpi nikkhamanti, atisahasāpi pavisanti, atisahasāpi nikkhamanti, atidūrepi tiṭṭhanti, accāsannepi tiṭṭhanti, aticirampi tiṭṭhanti, atilahumpi nivattanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.2"
+msgid "Aññataropi piṇḍacāriko bhikkhu asallakkhetvā nivesanaṃ pāvisi."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.3"
+msgid "So ca dvāraṃ maññamāno aññataraṃ ovarakaṃ pāvisi."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.4"
+msgid "Tasmimpi ovarake itthī naggā uttānā nipannā hoti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.5"
+msgid "Addasā kho so bhikkhu taṃ itthiṃ naggaṃ uttānaṃ nipannaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.6"
+msgid "Disvāna—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.7"
+msgid "“nayidaṃ dvāraṃ, ovarakaṃ idan”ti tamhā ovarakā nikkhami."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.8"
+msgid "Addasā kho tassā itthiyā sāmiko taṃ itthiṃ naggaṃ uttānaṃ nipannaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.9"
+msgid "Disvāna—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.10"
+msgid "“iminā me bhikkhunā pajāpatī dūsitā”ti taṃ bhikkhuṃ gahetvā ākoṭesi."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.11"
+msgid "Atha kho sā itthī tena saddena paṭibujjhitvā taṃ purisaṃ etadavoca—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.12"
+msgid "“kissa tvaṃ, ayya, imaṃ bhikkhuṃ ākoṭesī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.13"
+msgid "“Imināsi tvaṃ bhikkhunā dūsitā”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.14"
+msgid "“Nāhaṃ, ayya, iminā bhikkhunā dūsitā;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.15"
+msgid "akārako so bhikkhū”ti taṃ bhikkhuṃ muñcāpesi."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.16"
+msgid "Atha kho so bhikkhu ārāmaṃ gantvā bhikkhūnaṃ etamatthaṃ ārocesi."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc29
+msgctxt "pli-tv-kd18:5.1.17"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.19"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.20"
+msgid "“kathañhi nāma piṇḍacārikā bhikkhū dunnivatthā duppārutā anākappasampannā piṇḍāya carissanti, asallakkhetvāpi nivesanaṃ pavisissanti, asallakkhetvāpi nikkhamissanti, atisahasāpi pavisissanti, atisahasāpi nikkhamissanti, atidūrepi tiṭṭhissanti, accāsannepi tiṭṭhissanti, aticirampi tiṭṭhissanti, atilahumpi nivattissantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.21"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.23"
+msgid "“saccaṃ kira, bhikkhave … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.25"
+msgid "“saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.27"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.1.29"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc30
+msgctxt "pli-tv-kd18:5.1.30"
+msgid "“Tena hi, bhikkhave, piṇḍacārikānaṃ bhikkhūnaṃ vattaṃ paññapessāmi yathā piṇḍacārikehi bhikkhūhi sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.1"
+msgid "Piṇḍacārikena, bhikkhave, bhikkhunā—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.2"
+msgid "idāni gāmaṃ pavisissāmī’ti timaṇḍalaṃ paṭicchādentena parimaṇḍalaṃ nivāsetvā kāyabandhanaṃ bandhitvā saguṇaṃ katvā saṅghāṭiyo pārupitvā gaṇṭhikaṃ paṭimuñcitvā dhovitvā pattaṃ gahetvā sādhukaṃ ataramānena gāmo pavisitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc31, pts-vp-pli2.216
+msgctxt "pli-tv-kd18:5.2.3"
+msgid "Suppaṭicchannena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.4"
+msgid "Susaṃvutena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.5"
+msgid "Okkhittacakkhunā antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.6"
+msgid "Na ukkhittakāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.7"
+msgid "Na ujjagghikāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.8"
+msgid "Appasaddena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.9"
+msgid "Na kāyappacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.10"
+msgid "Na bāhuppacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.11"
+msgid "Na sīsappacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.12"
+msgid "Na khambhakatena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.13"
+msgid "Na oguṇṭhitena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.14"
+msgid "Na ukkuṭikāya antaraghare gantabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc32
+msgctxt "pli-tv-kd18:5.2.15"
+msgid "Nivesanaṃ pavisantena sallakkhetabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.16"
+msgid "iminā pavisissāmi, iminā nikkhamissāmī’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.17"
+msgid "Nātisahasā pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.18"
+msgid "Nātisahasā nikkhamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.19"
+msgid "Nātidūre ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.20"
+msgid "Nāccāsanne ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.21"
+msgid "Nāticiraṃ ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.22"
+msgid "Nātilahuṃ nivattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.23"
+msgid "Ṭhitakena sallakkhetabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.24"
+msgid "bhikkhaṃ dātukāmā vā adātukāmā vā’ti."
+msgstr ""
+
+#. VAR: ṭhapeti → ṭhāpeti (mr)
+msgctxt "pli-tv-kd18:5.2.25"
+msgid "Sace kammaṃ vā nikkhipati, āsanā vā vuṭṭhāti, kaṭacchuṃ vā parāmasati, bhājanaṃ vā parāmasati, ṭhapeti vā—"
+msgstr ""
+
+#. VAR: dātukāmassāti → dātukāmā viyāti (bj, pts1) | dātukāmiyāti (s1-3)
+msgctxt "pli-tv-kd18:5.2.26"
+msgid "dātukāmassāti ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.27"
+msgid "Bhikkhāya diyyamānāya vāmena hatthena saṅghāṭiṃ uccāretvā dakkhiṇena hatthena pattaṃ paṇāmetvā ubhohi hatthehi pattaṃ paṭiggahetvā bhikkhā paṭiggahetabbā."
+msgstr ""
+
+#. VAR: ulloketabbaṃ → oloketabbaṃ (s1-3)
+msgctxt "pli-tv-kd18:5.2.28"
+msgid "Na ca bhikkhādāyikāya mukhaṃ ulloketabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.29"
+msgid "Sallakkhetabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.30"
+msgid "sūpaṃ dātukāmā vā adātukāmā vā’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.31"
+msgid "Sace kaṭacchuṃ vā parāmasati, bhājanaṃ vā parāmasati, ṭhapeti vā—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.32"
+msgid "dātukāmassāti ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.33"
+msgid "Bhikkhāya dinnāya saṅghāṭiyā pattaṃ paṭicchādetvā sādhukaṃ ataramānena nivattitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc33
+msgctxt "pli-tv-kd18:5.2.34"
+msgid "Suppaṭicchannena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.35"
+msgid "Susaṃvutena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.36"
+msgid "Okkhittacakkhunā antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.37"
+msgid "Na ukkhittakāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.38"
+msgid "Na ujjagghikāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.39"
+msgid "Appasaddena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.40"
+msgid "Na kāyappacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.41"
+msgid "Na bāhuppacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.42"
+msgid "Na sīsappacālakaṃ antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.43"
+msgid "Na khambhakatena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.44"
+msgid "Na oguṇṭhitena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.2.45"
+msgid "Na ukkuṭikāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.3.1"
+msgid "Yo paṭhamaṃ gāmato piṇḍāya paṭikkamati, tena āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ, avakkārapāti dhovitvā upaṭṭhāpetabbā, pānīyaṃ paribhojanīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.3.2"
+msgid "Yo pacchā gāmato piṇḍāya paṭikkamati, sace hoti bhuttāvaseso, sace ākaṅkhati, bhuñjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.3.3"
+msgid "No ce ākaṅkhati, appaharite vā chaḍḍetabbaṃ, appāṇake vā udake opilāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.3.4"
+msgid "Tena āsanaṃ uddharitabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ paṭisāmetabbaṃ, avakkārapāti dhovitvā paṭisāmetabbā, pānīyaṃ paribhojanīyaṃ paṭisāmetabbaṃ, bhattaggaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.3.5"
+msgid "Yo passati pānīyaghaṭaṃ vā paribhojanīyaghaṭaṃ vā vaccaghaṭaṃ vā rittaṃ tucchaṃ tena upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.3.6"
+msgid "Sacassa hoti avisayhaṃ, hatthavikārena dutiyaṃ āmantetvā hatthavilaṅghakena upaṭṭhāpetabbaṃ, na ca tappaccayā vācā bhinditabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:5.3.7"
+msgid "Idaṃ kho, bhikkhave, piṇḍacārikānaṃ bhikkhūnaṃ vattaṃ yathā piṇḍacārikehi bhikkhūhi sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:6.1.0"
+msgid "7. Āraññikavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc34, pts-vp-pli2.217
+msgctxt "pli-tv-kd18:6.1.1"
+msgid "Tena kho pana samayena sambahulā bhikkhū araññe viharanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.2"
+msgid "Te neva pānīyaṃ upaṭṭhāpenti, na paribhojanīyaṃ upaṭṭhāpenti, na aggiṃ upaṭṭhāpenti, na araṇisahitaṃ upaṭṭhāpenti, na nakkhattapadāni jānanti, na disābhāgaṃ jānanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.3"
+msgid "Corā tattha gantvā te bhikkhū etadavocuṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.4"
+msgid "“atthi, bhante, pānīyan”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.5"
+msgid "“Natthāvuso”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.6"
+msgid "“Atthi, bhante, paribhojanīyan”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.7"
+msgid "“Natthāvuso”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.8"
+msgid "“Atthi, bhante, aggī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.9"
+msgid "“Natthāvuso”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.10"
+msgid "“Atthi, bhante, araṇisahitan”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.11"
+msgid "“Natthāvuso”ti."
+msgstr ""
+
+#. VAR: () → (atthi bhante nakkhattapadānīti, na jānāma āvusoti, atthi bhante disābhāganti, na jānāma āvusoti.) bj vimatiṭīkāya pana
+msgctxt "pli-tv-kd18:6.1.12"
+msgid "() “Kenajja, bhante, yuttan”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.13"
+msgid "“Na kho mayaṃ, āvuso, jānāmā”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.14"
+msgid "“Katamāyaṃ, bhante, disā”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.15"
+msgid "“Na kho mayaṃ, āvuso, jānāmā”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.16"
+msgid "Atha kho te corā—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.17"
+msgid "“nevimesaṃ pānīyaṃ atthi, na paribhojanīyaṃ atthi, na aggi atthi, na araṇisahitaṃ atthi, na nakkhattapadāni jānanti, na disābhāgaṃ jānanti;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.18"
+msgid "corā ime, nayime bhikkhū”ti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.19"
+msgid "ākoṭetvā pakkamiṃsu."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.20"
+msgid "Atha kho te bhikkhū bhikkhūnaṃ etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.21"
+msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.1.22"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc35
+msgctxt "pli-tv-kd18:6.1.23"
+msgid "“Tena hi, bhikkhave, āraññikānaṃ bhikkhūnaṃ vattaṃ paññapessāmi yathā āraññikehi bhikkhūhi sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.1"
+msgid "Āraññikena, bhikkhave, bhikkhunā kālasseva uṭṭhāya pattaṃ thavikāya pakkhipitvā aṃse ālaggetvā cīvaraṃ khandhe karitvā upāhanā ārohitvā dārubhaṇḍaṃ mattikābhaṇḍaṃ paṭisāmetvā dvāravātapānaṃ thaketvā senāsanā otaritabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.2"
+msgid "idāni gāmaṃ pavisissāmīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.3"
+msgid "Upāhanā omuñcitvā nīcaṃ katvā papphoṭetvā thavikāya pakkhipitvā aṃse ālaggetvā timaṇḍalaṃ paṭicchādentena parimaṇḍalaṃ nivāsetvā kāyabandhanaṃ bandhitvā saguṇaṃ katvā saṅghāṭiyo pārupitvā gaṇṭhikaṃ paṭimuñcitvā dhovitvā pattaṃ gahetvā sādhukaṃ ataramānena gāmo pavisitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.4"
+msgid "Suppaṭicchannena antaraghare gantabbaṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.6"
+msgid "na khambhakatena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.7"
+msgid "Na oguṇṭhitena antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.8"
+msgid "Na ukkuṭikāya antaraghare gantabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc36
+msgctxt "pli-tv-kd18:6.2.9"
+msgid "Nivesanaṃ pavisantena sallakkhetabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.10"
+msgid "iminā pavisissāmi, iminā nikkhamissāmī’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.11"
+msgid "Nātisahasā pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.12"
+msgid "Nātisahasā nikkhamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.13"
+msgid "Nātidūre ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.14"
+msgid "Nāccāsanne ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.15"
+msgid "Nāticiraṃ ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.16"
+msgid "Nātilahuṃ nivattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.17"
+msgid "Ṭhitakena sallakkhetabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.18"
+msgid "bhikkhaṃ dātukāmā vā adātukāmā vā’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.19"
+msgid "Sace kammaṃ vā nikkhipati, āsanā vā vuṭṭhāti, kaṭacchuṃ vā parāmasati, bhājanaṃ vā parāmasati, ṭhapeti vā—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.20"
+msgid "dātukāmassāti ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.21"
+msgid "Bhikkhāya diyyamānāya vāmena hatthena saṅghāṭiṃ uccāretvā dakkhiṇena hatthena pattaṃ paṇāmetvā ubhohi hatthehi pattaṃ paṭiggahetvā bhikkhā paṭiggahetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.22"
+msgid "Na ca bhikkhādāyikāya mukhaṃ ulloketabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.23"
+msgid "Sallakkhetabbaṃ—‘"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.24"
+msgid "sūpaṃ dātukāmā vā adātukāmā vā’ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.25"
+msgid "Sace kaṭacchuṃ vā parāmasati, bhājanaṃ vā parāmasati, ṭhapeti vā—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.26"
+msgid "dātukāmassāti ṭhātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.27"
+msgid "Bhikkhāya dinnāya saṅghāṭiyā pattaṃ paṭicchādetvā sādhukaṃ ataramānena nivattitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc37
+msgctxt "pli-tv-kd18:6.2.28"
+msgid "Suppaṭicchannena antaraghare gantabbaṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.2.30"
+msgid "na ukkuṭikāya antaraghare gantabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.3.1"
+msgid "Gāmato nikkhamitvā pattaṃ thavikāya pakkhipitvā aṃse ālaggetvā cīvaraṃ saṅgharitvā sīse karitvā upāhanā ārohitvā gantabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc38
+msgctxt "pli-tv-kd18:6.3.2"
+msgid "Āraññikena, bhikkhave, bhikkhunā pānīyaṃ upaṭṭhāpetabbaṃ, paribhojanīyaṃ upaṭṭhāpetabbaṃ, aggi upaṭṭhāpetabbo, araṇisahitaṃ upaṭṭhāpetabbaṃ, kattaradaṇḍo upaṭṭhāpetabbo, nakkhattapadāni uggahetabbāni—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.3.3"
+msgid "sakalāni vā ekadesāni vā, disākusalena bhavitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:6.3.4"
+msgid "Idaṃ kho, bhikkhave, āraññikānaṃ bhikkhūnaṃ vattaṃ yathā āraññikehi bhikkhūhi sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:6.3.5"
+msgid "8. Senāsanavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc39, pts-vp-pli2.218
+msgctxt "pli-tv-kd18:7.1.1"
+msgid "Tena kho pana samayena sambahulā bhikkhū ajjhokāse cīvarakammaṃ karonti."
+msgstr ""
+
+#. VAR: aṅgaṇe → paṅgaṇe (bj, s1-3, pts1)
+msgctxt "pli-tv-kd18:7.1.2"
+msgid "Chabbaggiyā bhikkhū paṭivāte aṅgaṇe senāsanaṃ papphoṭesuṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.3"
+msgid "Bhikkhū rajena okiriṃsu."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.4"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.6"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.7"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū paṭivāte aṅgaṇe senāsanaṃ papphoṭessanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.8"
+msgid "Bhikkhū rajena okiriṃsū”ti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc40
+msgctxt "pli-tv-kd18:7.1.9"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.11"
+msgid "“saccaṃ kira, bhikkhave, chabbaggiyā bhikkhū paṭivāte aṅgaṇe senāsanaṃ papphoṭenti, bhikkhū rajena okiriṃsū”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.12"
+msgid "“Saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.14"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.1.16"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc41
+msgctxt "pli-tv-kd18:7.1.17"
+msgid "“Tena hi, bhikkhave, bhikkhūnaṃ senāsanavattaṃ paññapessāmi yathā bhikkhūhi senāsane sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.1"
+msgid "Yasmiṃ vihāre viharati, sace so vihāro uklāpo hoti, sace ussahati, sodhetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.2"
+msgid "Vihāraṃ sodhentena paṭhamaṃ pattacīvaraṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.3"
+msgid "nisīdanapaccattharaṇaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.4"
+msgid "bhisibibbohanaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.5"
+msgid "mañco nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, nīharitvā ekamantaṃ nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.6"
+msgid "pīṭhaṃ nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.7"
+msgid "mañcapaṭipādakā nīharitvā ekamantaṃ nikkhipitabbā;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.8"
+msgid "kheḷamallako nīharitvā ekamantaṃ nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.9"
+msgid "apassenaphalakaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.10"
+msgid "bhummattharaṇaṃ yathāpaññattaṃ sallakkhetvā nīharitvā ekamantaṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.11"
+msgid "Sace vihāre santānakaṃ hoti, ullokā paṭhamaṃ ohāretabbaṃ, ālokasandhikaṇṇabhāgā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.12"
+msgid "Sace gerukaparikammakatā bhitti kaṇṇakitā hoti, coḷakaṃ temetvā pīḷetvā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.13"
+msgid "Sace kāḷavaṇṇakatā bhūmi kaṇṇakitā hoti, coḷakaṃ temetvā pīḷetvā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.14"
+msgid "Sace akatā hoti bhūmi, udakena paripphositvā paripphositvā sammajjitabbā—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.15"
+msgid "mā vihāro rajena uhaññīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.16"
+msgid "Saṅkāraṃ vicinitvā ekamantaṃ chaḍḍetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc42
+msgctxt "pli-tv-kd18:7.2.17"
+msgid "Na bhikkhusāmantā senāsanaṃ papphoṭetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.18"
+msgid "Na vihārasāmantā senāsanaṃ papphoṭetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.19"
+msgid "Na pānīyasāmantā senāsanaṃ papphoṭetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.20"
+msgid "Na paribhojanīyasāmantā senāsanaṃ papphoṭetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.21"
+msgid "Na paṭivāte aṅgaṇe senāsanaṃ papphoṭetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.2.22"
+msgid "Adhovāte senāsanaṃ papphoṭetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc43, pts-vp-pli2.219
+msgctxt "pli-tv-kd18:7.3.1"
+msgid "Bhummattharaṇaṃ ekamantaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.2"
+msgid "Mañcapaṭipādakā ekamantaṃ otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.3"
+msgid "Mañco ekamantaṃ otāpetvā sodhetvā papphoṭetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, atiharitvā yathāpaññattaṃ paññapetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.4"
+msgid "Pīṭhaṃ ekamantaṃ otāpetvā sodhetvā papphoṭetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.5"
+msgid "Bhisibibbohanaṃ ekamantaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.6"
+msgid "Nisīdanapaccattharaṇaṃ ekamantaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.7"
+msgid "Kheḷamallako ekamantaṃ otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.8"
+msgid "Apassenaphalakaṃ ekamantaṃ otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.9"
+msgid "Pattacīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.10"
+msgid "Pattaṃ nikkhipantena ekena hatthena pattaṃ gahetvā ekena hatthena heṭṭhāmañcaṃ vā heṭṭhāpīṭhaṃ vā parāmasitvā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.11"
+msgid "Na ca anantarahitāya bhūmiyā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.3.12"
+msgid "Cīvaraṃ nikkhipantena ekena hatthena cīvaraṃ gahetvā ekena hatthena cīvaravaṃsaṃ vā cīvararajjuṃ vā pamajjitvā pārato antaṃ orato bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc44
+msgctxt "pli-tv-kd18:7.4.1"
+msgid "Sace puratthimā sarajā vātā vāyanti, puratthimā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.2"
+msgid "Sace pacchimā sarajā vātā vāyanti, pacchimā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.3"
+msgid "Sace uttarā sarajā vātā vāyanti uttarā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.4"
+msgid "Sace dakkhiṇā sarajā vātā vāyanti, dakkhiṇā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.5"
+msgid "Sace sītakālo hoti, divā vātapānā vivaritabbā, rattiṃ thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.6"
+msgid "Sace uṇhakālo hoti, divā vātapānā thaketabbā, rattiṃ vivaritabbā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc45
+msgctxt "pli-tv-kd18:7.4.7"
+msgid "Sace pariveṇaṃ uklāpaṃ hoti, pariveṇaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.8"
+msgid "Sace koṭṭhako uklāpo hoti, koṭṭhako sammajjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.9"
+msgid "Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.10"
+msgid "Sace aggisālā uklāpā hoti, aggisālā sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.11"
+msgid "Sace vaccakuṭi uklāpā hoti, vaccakuṭi sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.12"
+msgid "Sace pānīyaṃ na hoti, pānīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.13"
+msgid "Sace paribhojanīyaṃ na hoti, paribhojanīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.14"
+msgid "Sace ācamanakumbhiyā udakaṃ na hoti, ācamanakumbhiyā udakaṃ āsiñcitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc46, pts-vp-pli2.220
+msgctxt "pli-tv-kd18:7.4.15"
+msgid "Sace vuḍḍhena saddhiṃ ekavihāre viharati, na vuḍḍhaṃ anāpucchā uddeso dātabbo, na paripucchā dātabbā, na sajjhāyo kātabbo, na dhammo bhāsitabbo, na padīpo kātabbo, na padīpo vijjhāpetabbo, na vātapānā vivaritabbā, na vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.16"
+msgid "Sace vuḍḍhena saddhiṃ ekacaṅkame caṅkamati, yena vuḍḍho tena parivattitabbaṃ, na ca vuḍḍho saṅghāṭikaṇṇena ghaṭṭetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:7.4.17"
+msgid "Idaṃ kho, bhikkhave, bhikkhūnaṃ senāsanavattaṃ yathā bhikkhūhi senāsane sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:8.1.0"
+msgid "9. Jantāgharavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc47
+msgctxt "pli-tv-kd18:8.1.1"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū jantāghare therehi bhikkhūhi nivāriyamānā anādariyaṃ paṭicca pahūtaṃ kaṭṭhaṃ āropetvā aggiṃ datvā dvāraṃ thaketvā dvāre nisīdanti."
+msgstr ""
+
+#. VAR: Bhikkhū → therā ca bhikkhū (s1-3, km)
+msgctxt "pli-tv-kd18:8.1.2"
+msgid "Bhikkhū uṇhābhitattā dvāraṃ alabhamānā mucchitā papatanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.3"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.5"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.6"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū jantāghare therehi bhikkhūhi nivāriyamānā anādariyaṃ paṭicca pahūtaṃ kaṭṭhaṃ āropetvā aggiṃ datvā dvāraṃ thaketvā dvāre nisīdissanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.7"
+msgid "Bhikkhū uṇhābhitattā dvāraṃ alabhamānā mucchitā papatantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.8"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.10"
+msgid "“saccaṃ kira, bhikkhave, chabbaggiyā bhikkhū jantāghare therehi bhikkhūhi nivāriyamānā anādariyaṃ paṭicca pahūtaṃ kaṭṭhaṃ āropetvā aggiṃ datvā dvāraṃ thaketvā dvāre nisīdanti;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.11"
+msgid "bhikkhū uṇhābhitattā dvāraṃ alabhamānā mucchitā papatantī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.12"
+msgid "“Saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.14"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.16"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.17"
+msgid "“na, bhikkhave, jantāghare therena bhikkhunā nivāriyamānena anādariyaṃ paṭicca pahūtaṃ kaṭṭhaṃ āropetvā aggi dātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.18"
+msgid "Yo dadeyya, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.19"
+msgid "Na, bhikkhave, dvāraṃ thaketvā dvāre nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.1.20"
+msgid "Yo nisīdeyya, āpatti dukkaṭassa."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc48
+msgctxt "pli-tv-kd18:8.2.1"
+msgid "Tena hi, bhikkhave, bhikkhūnaṃ jantāgharavattaṃ paññapessāmi yathā bhikkhūhi jantāghare sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.2"
+msgid "Yo paṭhamaṃ jantāgharaṃ gacchati, sace chārikā ussannā hoti, chārikā chaḍḍetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.3"
+msgid "Sace jantāgharaṃ uklāpaṃ hoti, jantāgharaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.4"
+msgid "Sace paribhaṇḍaṃ uklāpaṃ hoti, paribhaṇḍaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.5"
+msgid "Sace pariveṇaṃ uklāpaṃ hoti, pariveṇaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.6"
+msgid "Sace koṭṭhako uklāpo hoti, koṭṭhako sammajjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.7"
+msgid "Sace jantāgharasālā uklāpā hoti, jantāgharasālā sammajjitabbā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc49, pts-vp-pli2.221
+msgctxt "pli-tv-kd18:8.2.8"
+msgid "Cuṇṇaṃ sannetabbaṃ, mattikā temetabbā, udakadoṇikāya udakaṃ āsiñcitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.9"
+msgid "Jantāgharaṃ pavisantena mattikāya mukhaṃ makkhetvā purato ca pacchato ca paṭicchādetvā jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.10"
+msgid "Na there bhikkhū anupakhajja nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.11"
+msgid "Na navā bhikkhū āsanena paṭibāhitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.12"
+msgid "Sace ussahati, jantāghare therānaṃ bhikkhūnaṃ parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.13"
+msgid "Jantāgharā nikkhamantena jantāgharapīṭhaṃ ādāya purato ca pacchato ca paṭicchādetvā jantāgharā nikkhamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.14"
+msgid "Sace ussahati, udakepi therānaṃ bhikkhūnaṃ parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.15"
+msgid "Na therānaṃ bhikkhūnaṃ puratopi nahāyitabbaṃ, na uparitopi nahāyitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.16"
+msgid "Nahātena uttarantena otarantānaṃ maggo dātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.17"
+msgid "Yo pacchā jantāgharā nikkhamati, sace jantāgharaṃ cikkhallaṃ hoti, dhovitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.18"
+msgid "Mattikādoṇikaṃ dhovitvā jantāgharapīṭhaṃ paṭisāmetvā aggiṃ vijjhāpetvā dvāraṃ thaketvā pakkamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:8.2.19"
+msgid "Idaṃ kho, bhikkhave, bhikkhūnaṃ jantāgharavattaṃ yathā bhikkhūhi jantāghare sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:9.1.0"
+msgid "10. Vaccakuṭivattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc50
+msgctxt "pli-tv-kd18:9.1.1"
+msgid "Tena kho pana samayena aññataro bhikkhu brāhmaṇajātiko vaccaṃ katvā na icchati ācametuṃ—“"
+msgstr ""
+
+#. VAR: āmasissatī”ti → ācamissatīti (mr)
+msgctxt "pli-tv-kd18:9.1.2"
+msgid "ko imaṃ vasalaṃ duggandhaṃ āmasissatī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.3"
+msgid "Tassa vaccamagge kimi saṇṭhāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.4"
+msgid "Atha kho so bhikkhu bhikkhūnaṃ etamatthaṃ ārocesi."
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.5"
+msgid "“Kiṃ pana tvaṃ, āvuso, vaccaṃ katvā na ācamesī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.6"
+msgid "“Evamāvuso”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.7"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.9"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.10"
+msgid "“kathañhi nāma bhikkhu vaccaṃ katvā na ācamessatī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.11"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.13"
+msgid "“saccaṃ kira tvaṃ, bhikkhu, vaccaṃ katvā na ācamesī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.14"
+msgid "“Saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.16"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.18"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.19"
+msgid "“na, bhikkhave, vaccaṃ katvā sati udake nācametabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:9.1.20"
+msgid "Yo nācameyya, āpatti dukkaṭassā”ti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc51
+msgctxt "pli-tv-kd18:10.1.1"
+msgid "Tena kho pana samayena bhikkhū vaccakuṭiyā yathāvuḍḍhaṃ vaccaṃ karonti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.1.2"
+msgid "Navakā bhikkhū paṭhamataraṃ āgantvā vaccitā āgamenti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.1.3"
+msgid "Te vaccaṃ sandhārentā mucchitā papatanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.1.4"
+msgid "Bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.1.6"
+msgid "“saccaṃ kira, bhikkhave … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.1.8"
+msgid "“saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.1.10"
+msgid "“na, bhikkhave, vaccakuṭiyā yathāvuḍḍhaṃ vacco kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.1.11"
+msgid "Yo kareyya, āpatti dukkaṭassa."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.1.12"
+msgid "Anujānāmi, bhikkhave, āgatapaṭipāṭiyā vaccaṃ kātun”ti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc52, pts-vp-pli2.222
+#. VAR: ubbhajitvāpi → ubbhujjitvāpi (bj) | ubbhujitvāpi (s1-3, pts1)
+msgctxt "pli-tv-kd18:10.2.1"
+msgid "Tena kho pana samayena chabbaggiyā bhikkhū atisahasāpi vaccakuṭiṃ pavisanti, ubbhajitvāpi pavisanti, nitthunantāpi vaccaṃ karonti, dantakaṭṭhaṃ khādantāpi vaccaṃ karonti, bahiddhāpi vaccadoṇikāya vaccaṃ karonti, bahiddhāpi passāvadoṇikāya passāvaṃ karonti, passāvadoṇikāyapi kheḷaṃ karonti, pharusenapi kaṭṭhena avalekhanti, avalekhanakaṭṭhampi vaccakūpamhi pātenti, atisahasāpi nikkhamanti, ubbhajitvāpi nikkhamanti, capucapukārakampi ācamenti, ācamanasarāvakepi udakaṃ sesenti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.2.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.2.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.2.5"
+msgid "“kathañhi nāma chabbaggiyā bhikkhū atisahasāpi vaccakuṭiṃ pavisissanti, ubbhajitvāpi pavisissanti, nitthunantāpi vaccaṃ karissanti, dantakaṭṭhaṃ khādantāpi vaccaṃ karissanti, bahiddhāpi vaccadoṇikāya vaccaṃ karissanti, bahiddhāpi passāvadoṇikāya passāvaṃ karissanti, passāvadoṇikāyapi kheḷaṃ karissanti, pharusenapi kaṭṭhena avalekhissanti, avalekhanakaṭṭhampi vaccakūpamhi pātessanti, atisahasāpi nikkhamissanti, ubbhajitvāpi nikkhamissanti, capucapukārakampi ācamessanti, ācamanasarāvakepi udakaṃ sesessantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.2.6"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.2.8"
+msgid "“saccaṃ kira, bhikkhave … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.2.10"
+msgid "“saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.2.12"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.2.14"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc53
+msgctxt "pli-tv-kd18:10.2.15"
+msgid "“Tena hi, bhikkhave, bhikkhūnaṃ vaccakuṭivattaṃ paññapessāmi yathā bhikkhūhi vaccakuṭiyā sammā vattitabbaṃ."
+msgstr ""
+
+#. VAR: bahi ṭhitena → bahi ṭhitena (bj, mr) | bahiṭṭhitena (s2, s3)
+msgctxt "pli-tv-kd18:10.3.1"
+msgid "Yo vaccakuṭiṃ gacchati tena bahi ṭhitena ukkāsitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.2"
+msgid "Anto nisinnenapi ukkāsitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.3"
+msgid "Cīvaravaṃse vā cīvararajjuyā vā cīvaraṃ nikkhipitvā sādhukaṃ ataramānena vaccakuṭi pavisitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.4"
+msgid "Nātisahasā pavisitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.5"
+msgid "Na ubbhajitvā pavisitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.6"
+msgid "Vaccapādukāya ṭhitena ubbhajitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.7"
+msgid "Na nitthunantena vacco kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.8"
+msgid "Na dantakaṭṭhaṃ khādantena vacco kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.9"
+msgid "Na bahiddhā vaccadoṇikāya vacco kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.10"
+msgid "Na bahiddhā passāvadoṇikāya passāvo kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.11"
+msgid "Na passāvadoṇikāya kheḷo kātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.12"
+msgid "Na pharusena kaṭṭhena avalekhitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.13"
+msgid "Na avalekhanakaṭṭhaṃ vaccakūpamhi pātetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.14"
+msgid "Vaccapādukāya ṭhitena paṭicchādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.15"
+msgid "Nātisahasā nikkhamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.16"
+msgid "Na ubbhajitvā nikkhamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.17"
+msgid "Ācamanapādukāya ṭhitena ubbhajitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.18"
+msgid "Na capucapukārakaṃ ācametabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.19"
+msgid "Na ācamanasarāvake udakaṃ sesetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.20"
+msgid "Ācamanapādukāya ṭhitena paṭicchādetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc54
+#. VAR: uhatā → ūhatā (bj, s1-3, pts1)
+msgctxt "pli-tv-kd18:10.3.21"
+msgid "Sace vaccakuṭi uhatā hoti, dhovitabbā."
+msgstr ""
+
+#. VAR: avalekhanapidharo → avalekhanapiṭharo (bj, s1-3 ^pi-tv-kd15#193 [Khuddakavatthu])
+msgctxt "pli-tv-kd18:10.3.22"
+msgid "Sace avalekhanapidharo pūro hoti, avalekhanakaṭṭhaṃ chaḍḍetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.23"
+msgid "Sace vaccakuṭi uklāpā hoti, vaccakuṭi sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.24"
+msgid "Sace paribhaṇḍaṃ uklāpaṃ hoti, paribhaṇḍaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.25"
+msgid "Sace pariveṇaṃ uklāpaṃ hoti, pariveṇaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.26"
+msgid "Sace koṭṭhako uklāpo hoti, koṭṭhako sammajjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.27"
+msgid "Sace ācamanakumbhiyā udakaṃ na hoti, ācamanakumbhiyā udakaṃ āsiñcitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:10.3.28"
+msgid "Idaṃ kho, bhikkhave, bhikkhūnaṃ vaccakuṭivattaṃ yathā bhikkhūhi vaccakuṭiyā sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:11.1.0"
+msgid "11. Upajjhāyavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc55, pts-vp-pli2.223
+msgctxt "pli-tv-kd18:11.1.1"
+msgid "Tena kho pana samayena saddhivihārikā upajjhāyesu na sammā vattanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.5"
+msgid "“kathañhi nāma saddhivihārikā upajjhāyesu na sammā vattissantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.6"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.8"
+msgid "“saccaṃ kira, bhikkhave, saddhivihārikā upajjhāyesu na sammā vattantī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.9"
+msgid "“Saccaṃ, bhagavā”ti vigarahi buddho bhagavā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.11"
+msgid "kathañhi nāma, bhikkhave, saddhivihārikā upajjhāyesu na sammā vattissanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.12"
+msgid "Netaṃ, bhikkhave, appasannānaṃ vā pasādāya … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.14"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.1.16"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc56
+msgctxt "pli-tv-kd18:11.1.17"
+msgid "“Tena hi, bhikkhave, saddhivihārikānaṃ upajjhāyesu vattaṃ paññapessāmi yathā saddhivihārikehi upajjhāyesu sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.2.1"
+msgid "Saddhivihārikena, bhikkhave, upajjhāyamhi sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.2.2"
+msgid "Tatrāyaṃ sammāvattanā—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc57
+msgctxt "pli-tv-kd18:11.2.3"
+msgid "Kālasseva uṭṭhāya upāhanā omuñcitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā dantakaṭṭhaṃ dātabbaṃ, mukhodakaṃ dātabbaṃ, āsanaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.2.4"
+msgid "Sace yāgu hoti, bhājanaṃ dhovitvā yāgu upanāmetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.2.5"
+msgid "Yāguṃ pītassa udakaṃ datvā bhājanaṃ paṭiggahetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena dhovitvā paṭisāmetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.2.6"
+msgid "Upajjhāyamhi vuṭṭhite āsanaṃ uddharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.2.7"
+msgid "Sace so deso uklāpo hoti, so deso sammajjitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc58
+#. VAR: sodako → saudako (s1-3, pts1, mr)
+msgctxt "pli-tv-kd18:11.3.1"
+msgid "Sace upajjhāyo gāmaṃ pavisitukāmo hoti, nivāsanaṃ dātabbaṃ, paṭinivāsanaṃ paṭiggahetabbaṃ, kāyabandhanaṃ dātabbaṃ, saguṇaṃ katvā saṅghāṭiyo dātabbā, dhovitvā patto sodako dātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.3.2"
+msgid "Sace upajjhāyo pacchāsamaṇaṃ ākaṅkhati, timaṇḍalaṃ paṭicchādentena parimaṇḍalaṃ nivāsetvā kāyabandhanaṃ bandhitvā saguṇaṃ katvā saṅghāṭiyo pārupitvā gaṇṭhikaṃ paṭimuñcitvā dhovitvā pattaṃ gahetvā upajjhāyassa pacchāsamaṇena hotabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.3.3"
+msgid "Nātidūre gantabbaṃ, nāccāsanne gantabbaṃ, pattapariyāpannaṃ paṭiggahetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.4.1"
+msgid "Na upajjhāyassa bhaṇamānassa antarantarā kathā opātetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.4.2"
+msgid "Upajjhāyo āpattisāmantā bhaṇamāno nivāretabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc59
+msgctxt "pli-tv-kd18:11.4.3"
+msgid "Nivattantena paṭhamataraṃ āgantvā āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ, paccuggantvā pattacīvaraṃ paṭiggahetabbaṃ, paṭinivāsanaṃ dātabbaṃ, nivāsanaṃ paṭiggahetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.4.4"
+msgid "Sace cīvaraṃ sinnaṃ hoti, muhuttaṃ uṇhe otāpetabbaṃ, na ca uṇhe cīvaraṃ nidahitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.4.5"
+msgid "Cīvaraṃ saṅgharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.4.6"
+msgid "Cīvaraṃ saṅgharantena caturaṅgulaṃ kaṇṇaṃ ussāretvā cīvaraṃ saṅgharitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.4.7"
+msgid "mā majjhe bhaṅgo ahosīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.4.8"
+msgid "Obhoge kāyabandhanaṃ kātabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc60, pts-vp-pli2.224
+msgctxt "pli-tv-kd18:11.4.9"
+msgid "Sace piṇḍapāto hoti, upajjhāyo ca bhuñjitukāmo hoti, udakaṃ datvā piṇḍapāto upanāmetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.1"
+msgid "Upajjhāyo pānīyena pucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.2"
+msgid "Bhuttāvissa udakaṃ datvā pattaṃ paṭiggahetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena dhovitvā vodakaṃ katvā muhuttaṃ uṇhe otāpetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.3"
+msgid "Na ca uṇhe patto nidahitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.4"
+msgid "Pattacīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.5"
+msgid "Pattaṃ nikkhipantena ekena hatthena pattaṃ gahetvā ekena hatthena heṭṭhāmañcaṃ vā heṭṭhāpīṭhaṃ vā parāmasitvā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.6"
+msgid "Na ca anantarahitāya bhūmiyā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.7"
+msgid "Cīvaraṃ nikkhipantena ekena hatthena cīvaraṃ gahetvā ekena hatthena cīvaravaṃsaṃ vā cīvararajjuṃ vā pamajjitvā pārato antaṃ orato bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.8"
+msgid "Upajjhāyamhi vuṭṭhite āsanaṃ uddharitabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ paṭisāmetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.5.9"
+msgid "Sace so deso uklāpo hoti, so deso sammajjitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc61
+msgctxt "pli-tv-kd18:11.6.1"
+msgid "Sace upajjhāyo nahāyitukāmo hoti, nahānaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.6.2"
+msgid "Sace sītena attho hoti, sītaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.6.3"
+msgid "Sace uṇhena attho hoti, uṇhaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc62
+msgctxt "pli-tv-kd18:11.6.4"
+msgid "Sace upajjhāyo jantāgharaṃ pavisitukāmo hoti, cuṇṇaṃ sannetabbaṃ, mattikā temetabbā, jantāgharapīṭhaṃ ādāya upajjhāyassa piṭṭhito piṭṭhito gantvā jantāgharapīṭhaṃ datvā cīvaraṃ paṭiggahetvā ekamantaṃ nikkhipitabbaṃ, cuṇṇaṃ dātabbaṃ, mattikā dātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.6.5"
+msgid "Sace ussahati, jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.6.6"
+msgid "Jantāgharaṃ pavisantena mattikāya mukhaṃ makkhetvā purato ca pacchato ca paṭicchādetvā jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.7.1"
+msgid "Na there bhikkhū anupakhajja nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.7.2"
+msgid "Na navā bhikkhū āsanena paṭibāhitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.7.3"
+msgid "Jantāghare upajjhāyassa parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.7.4"
+msgid "Jantāgharā nikkhamantena jantāgharapīṭhaṃ ādāya purato ca pacchato ca paṭicchādetvā jantāgharā nikkhamitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc63
+msgctxt "pli-tv-kd18:11.7.5"
+msgid "Udakepi upajjhāyassa parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.7.6"
+msgid "Nahātena paṭhamataraṃ uttaritvā attano gattaṃ vodakaṃ katvā nivāsetvā upajjhāyassa gattato udakaṃ pamajjitabbaṃ, nivāsanaṃ dātabbaṃ, saṅghāṭi dātabbā, jantāgharapīṭhaṃ ādāya paṭhamataraṃ āgantvā āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.7.7"
+msgid "Upajjhāyo pānīyena pucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.8.1"
+msgid "Sace uddisāpetukāmo hoti, uddisitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.8.2"
+msgid "Sace paripucchitukāmo hoti, paripucchitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc64, pts-vp-pli2.225
+msgctxt "pli-tv-kd18:11.8.3"
+msgid "Yasmiṃ vihāre upajjhāyo viharati, sace so vihāro uklāpo hoti, sace ussahati, sodhetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.8.4"
+msgid "Vihāraṃ sodhentena paṭhamaṃ pattacīvaraṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.8.5"
+msgid "nisīdanapaccattharaṇaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.8.6"
+msgid "bhisibibbohanaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.1"
+msgid "mañco nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, nīharitvā ekamantaṃ nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.2"
+msgid "pīṭhaṃ nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.3"
+msgid "mañcapaṭipādakā nīharitvā ekamantaṃ nikkhipitabbā;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.4"
+msgid "kheḷamallako nīharitvā ekamantaṃ nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.5"
+msgid "apassenaphalakaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.6"
+msgid "bhūmattharaṇaṃ yathāpaññattaṃ sallakkhetvā nīharitvā ekamantaṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.7"
+msgid "Sace vihāre santānakaṃ hoti, ullokā paṭhamaṃ ohāretabbaṃ, ālokasandhikaṇṇabhāgā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.8"
+msgid "Sace gerukaparikammakatā bhitti kaṇṇakitā hoti, coḷakaṃ temetvā pīḷetvā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.9"
+msgid "Sace kāḷavaṇṇakatā bhūmi kaṇṇakitā hoti, coḷakaṃ temetvā pīḷetvā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.10"
+msgid "Sace akatā hoti bhūmi, udakena paripphositvā paripphositvā sammajjitabbā—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.11"
+msgid "mā vihāro rajena uhaññīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.9.12"
+msgid "Saṅkāraṃ vicinitvā ekamantaṃ chaḍḍetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc65
+msgctxt "pli-tv-kd18:11.10.1"
+msgid "Bhūmattharaṇaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.10.2"
+msgid "Mañcapaṭipādakā otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.10.3"
+msgid "Mañco otāpetvā sodhetvā papphoṭetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, atiharitvā yathāpaññattaṃ paññapetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.10.4"
+msgid "Pīṭhaṃ otāpetvā sodhetvā papphoṭetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.10.5"
+msgid "Bhisibibbohanaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.10.6"
+msgid "Nisīdanapaccattharaṇaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.10.7"
+msgid "Kheḷamallako otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.10.8"
+msgid "Apassenaphalakaṃ otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.11.1"
+msgid "Pattacīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.11.2"
+msgid "Pattaṃ nikkhipantena ekena hatthena pattaṃ gahetvā ekena hatthena heṭṭhāmañcaṃ vā heṭṭhāpīṭhaṃ vā parāmasitvā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.11.3"
+msgid "Na ca anantarahitāya bhūmiyā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.11.4"
+msgid "Cīvaraṃ nikkhipantena ekena hatthena cīvaraṃ gahetvā ekena hatthena cīvaravaṃsaṃ vā cīvararajjuṃ vā pamajjitvā pārato antaṃ orato bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc66, pts-vp-pli2.226
+msgctxt "pli-tv-kd18:11.12.1"
+msgid "Sace puratthimā sarajā vātā vāyanti, puratthimā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.12.2"
+msgid "Sace pacchimā sarajā vātā vāyanti, pacchimā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.12.3"
+msgid "Sace uttarā sarajā vātā vāyanti, uttarā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.12.4"
+msgid "Sace dakkhiṇā sarajā vātā vāyanti, dakkhiṇā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.12.5"
+msgid "Sace sītakālo hoti, divā vātapānā vivaritabbā, rattiṃ thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.12.6"
+msgid "Sace uṇhakālo hoti, divā vātapānā thaketabbā, rattiṃ vivaritabbā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc67
+msgctxt "pli-tv-kd18:11.13.1"
+msgid "Sace pariveṇaṃ uklāpaṃ hoti, pariveṇaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.13.2"
+msgid "Sace koṭṭhako uklāpo hoti, koṭṭhako sammajjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.13.3"
+msgid "Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.13.4"
+msgid "Sace aggisālā uklāpā hoti, aggisālā sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.13.5"
+msgid "Sace vaccakuṭi uklāpā hoti, vaccakuṭi sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.13.6"
+msgid "Sace pānīyaṃ na hoti, pānīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.13.7"
+msgid "Sace paribhojanīyaṃ na hoti, paribhojanīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.13.8"
+msgid "Sace ācamanakumbhiyā udakaṃ na hoti, ācamanakumbhiyā udakaṃ āsiñcitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc68
+msgctxt "pli-tv-kd18:11.14.1"
+msgid "Sace upajjhāyassa anabhirati uppannā hoti, saddhivihārikena vūpakāsetabbo, vūpakāsāpetabbo, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.14.2"
+msgid "Sace upajjhāyassa kukkuccaṃ uppannaṃ hoti, saddhivihārikena vinodetabbaṃ, vinodāpetabbaṃ, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.14.3"
+msgid "Sace upajjhāyassa diṭṭhigataṃ uppannaṃ hoti, saddhivihārikena vivecetabbaṃ, vivecāpetabbaṃ, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.15.1"
+msgid "Sace upajjhāyo garudhammaṃ ajjhāpanno hoti parivāsāraho, saddhivihārikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.15.2"
+msgid "kinti nu kho saṃgho upajjhāyassa parivāsaṃ dadeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.15.3"
+msgid "Sace upajjhāyo mūlāyapaṭikassanāraho hoti, saddhivihārikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.15.4"
+msgid "kinti nu kho saṃgho upajjhāyaṃ mūlāya paṭikasseyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.15.5"
+msgid "Sace upajjhāyo mānattāraho hoti, saddhivihārikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.15.6"
+msgid "kinti nu kho saṃgho upajjhāyassa mānattaṃ dadeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.15.7"
+msgid "Sace upajjhāyo abbhānāraho hoti, saddhivihārikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.15.8"
+msgid "kinti nu kho saṃgho upajjhāyaṃ abbheyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.16.1"
+msgid "Sace saṃgho upajjhāyassa kammaṃ kattukāmo hoti, tajjanīyaṃ vā niyassaṃ vā pabbājanīyaṃ vā paṭisāraṇīyaṃ vā ukkhepanīyaṃ vā, saddhivihārikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.16.2"
+msgid "kinti nu kho saṃgho upajjhāyassa kammaṃ na kareyya, lahukāya vā pariṇāmeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.16.3"
+msgid "Kataṃ vā panassa hoti saṃghena kammaṃ, tajjanīyaṃ vā niyassaṃ vā pabbājanīyaṃ vā paṭisāraṇīyaṃ vā ukkhepanīyaṃ vā, saddhivihārikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.16.4"
+msgid "kinti nu kho upajjhāyo sammā vatteyya, lomaṃ pāteyya, netthāraṃ vatteyya, saṃgho taṃ kammaṃ paṭippassambheyyāti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc69, pts-vp-pli2.227
+msgctxt "pli-tv-kd18:11.17.1"
+msgid "Sace upajjhāyassa cīvaraṃ dhovitabbaṃ hoti, saddhivihārikena dhovitabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.17.2"
+msgid "kinti nu kho upajjhāyassa cīvaraṃ dhoviyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.17.3"
+msgid "Sace upajjhāyassa cīvaraṃ kātabbaṃ hoti, saddhivihārikena kātabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.17.4"
+msgid "kinti nu kho upajjhāyassa cīvaraṃ kariyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.17.5"
+msgid "Sace upajjhāyassa rajanā pacitabbā hoti, saddhivihārikena pacitabbā, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.17.6"
+msgid "kinti nu kho upajjhāyassa rajanaṃ paciyethāti."
+msgstr ""
+
+#. VAR: rajitabbaṃ → rajetabbaṃ (s1-3)
+msgctxt "pli-tv-kd18:11.17.7"
+msgid "Sace upajjhāyassa cīvaraṃ rajitabbaṃ hoti, saddhivihārikena rajitabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.17.8"
+msgid "kinti nu kho upajjhāyassa cīvaraṃ rajiyethāti."
+msgstr ""
+
+#. VAR: rajantena → rajentena (s1-3)
+msgctxt "pli-tv-kd18:11.17.9"
+msgid "Cīvaraṃ rajantena sādhukaṃ samparivattakaṃ samparivattakaṃ rajitabbaṃ, na ca acchinne theve pakkamitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc70
+msgctxt "pli-tv-kd18:11.18.1"
+msgid "Na upajjhāyaṃ anāpucchā ekaccassa patto dātabbo, na ekaccassa patto paṭiggahetabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.2"
+msgid "na ekaccassa cīvaraṃ dātabbaṃ, na ekaccassa cīvaraṃ paṭiggahetabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.3"
+msgid "na ekaccassa parikkhāro dātabbo, na ekaccassa parikkhāro paṭiggahetabbo;"
+msgstr ""
+
+#. VAR: chedetabbā → chettabbā (bj) | chedātabbā (pts1) | cheditabbā (mr)
+msgctxt "pli-tv-kd18:11.18.4"
+msgid "na ekaccassa kesā chedetabbā, na ekaccena kesā chedāpetabbā;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.5"
+msgid "na ekaccassa parikammaṃ kātabbaṃ, na ekaccena parikammaṃ kārāpetabbaṃ;"
+msgstr ""
+
+#. VAR: veyyāvacco → veyyāvaccaṃ (mr)
+msgctxt "pli-tv-kd18:11.18.6"
+msgid "na ekaccassa veyyāvacco kātabbo, na ekaccena veyyāvacco kārāpetabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.7"
+msgid "na ekaccassa pacchāsamaṇena hotabbaṃ, na ekacco pacchāsamaṇo ādātabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.8"
+msgid "na ekaccassa piṇḍapāto nīharitabbo, na ekaccena piṇḍapāto nīharāpetabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.9"
+msgid "na upajjhāyaṃ anāpucchā gāmo pavisitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.10"
+msgid "na susānaṃ gantabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.11"
+msgid "na disā pakkamitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.12"
+msgid "Sace upajjhāyo gilāno hoti, yāvajīvaṃ upaṭṭhātabbo, vuṭṭhānamassa āgametabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:11.18.13"
+msgid "Idaṃ kho, bhikkhave, saddhivihārikānaṃ upajjhāyesu vattaṃ yathā saddhivihārikehi upajjhāyesu sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:12.1.0"
+msgid "12. Saddhivihārikavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc71
+msgctxt "pli-tv-kd18:12.1.1"
+msgid "Tena kho pana samayena upajjhāyā saddhivihārikesu na sammā vattanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.1.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.1.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.1.5"
+msgid "“kathañhi nāma upajjhāyā saddhivihārikesu na sammā vattissantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.1.6"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.1.8"
+msgid "“saccaṃ kira, bhikkhave, upajjhāyā saddhivihārikesu na sammā vattantī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.1.9"
+msgid "“Saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.1.11"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.1.13"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc72, pts-vp-pli2.228
+msgctxt "pli-tv-kd18:12.1.14"
+msgid "“Tena hi, bhikkhave, upajjhāyānaṃ saddhivihārikesu vattaṃ paññapessāmi yathā upajjhāyehi saddhivihārikesu sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.2.1"
+msgid "Upajjhāyena, bhikkhave, saddhivihārikamhi sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.2.2"
+msgid "Tatrāyaṃ sammāvattanā—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc73
+msgctxt "pli-tv-kd18:12.2.3"
+msgid "Upajjhāyena, bhikkhave, saddhivihāriko saṅgahetabbo anuggahetabbo uddesena paripucchāya ovādena anusāsaniyā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.2.4"
+msgid "Sace upajjhāyassa patto hoti, saddhivihārikassa patto na hoti, upajjhāyena saddhivihārikassa patto dātabbo, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.2.5"
+msgid "kinti nu kho saddhivihārikassa patto uppajjiyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.2.6"
+msgid "Sace upajjhāyassa cīvaraṃ hoti, saddhivihārikassa cīvaraṃ na hoti, upajjhāyena saddhivihārikassa cīvaraṃ dātabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.2.7"
+msgid "kinti nu kho saddhivihārikassa cīvaraṃ uppajjiyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.2.8"
+msgid "Sace upajjhāyassa parikkhāro hoti, saddhivihārikassa parikkhāro na hoti, upajjhāyena saddhivihārikassa parikkhāro dātabbo, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.2.9"
+msgid "kinti nu kho saddhivihārikassa parikkhāro uppajjiyethāti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc74
+msgctxt "pli-tv-kd18:12.3.1"
+msgid "Sace saddhivihāriko gilāno hoti, kālasseva uṭṭhāya dantakaṭṭhaṃ dātabbaṃ, mukhodakaṃ dātabbaṃ, āsanaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.3.2"
+msgid "Sace yāgu hoti, bhājanaṃ dhovitvā yāgu upanāmetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.3.3"
+msgid "Yāguṃ pītassa udakaṃ datvā bhājanaṃ paṭiggahetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena dhovitvā paṭisāmetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.3.4"
+msgid "Saddhivihārikamhi vuṭṭhite āsanaṃ uddharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.3.5"
+msgid "Sace so deso uklāpo hoti, so deso sammajjitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc75
+msgctxt "pli-tv-kd18:12.4.1"
+msgid "Sace saddhivihāriko gāmaṃ pavisitukāmo hoti, nivāsanaṃ dātabbaṃ, paṭinivāsanaṃ paṭiggahetabbaṃ, kāyabandhanaṃ dātabbaṃ, saguṇaṃ katvā saṅghāṭiyo dātabbā, dhovitvā patto sodako dātabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc76
+msgctxt "pli-tv-kd18:12.4.2"
+msgid "Ettāvatā nivattissatīti āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ, paccuggantvā pattacīvaraṃ paṭiggahetabbaṃ, paṭinivāsanaṃ dātabbaṃ, nivāsanaṃ paṭiggahetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.4.3"
+msgid "Sace cīvaraṃ sinnaṃ hoti, muhuttaṃ uṇhe otāpetabbaṃ, na ca uṇhe cīvaraṃ nidahitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.4.4"
+msgid "Cīvaraṃ saṅgharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.4.5"
+msgid "Cīvaraṃ saṅgharantena caturaṅgulaṃ kaṇṇaṃ ussāretvā cīvaraṃ saṅgharitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.4.6"
+msgid "mā majjhe bhaṅgo ahosīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.4.7"
+msgid "Obhoge kāyabandhanaṃ kātabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc77, pts-vp-pli2.229
+msgctxt "pli-tv-kd18:12.4.8"
+msgid "Sace piṇḍapāto hoti, saddhivihāriko ca bhuñjitukāmo hoti, udakaṃ datvā piṇḍapāto upanāmetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.5.1"
+msgid "Saddhivihāriko pānīyena pucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.5.2"
+msgid "Bhuttāvissa udakaṃ datvā pattaṃ paṭiggahetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena dhovitvā vodakaṃ katvā muhuttaṃ uṇhe otāpetabbo, na ca uṇhe patto nidahitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.5.3"
+msgid "Pattacīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.5.4"
+msgid "Pattaṃ nikkhipantena ekena hatthena pattaṃ gahetvā ekena hatthena heṭṭhāmañcaṃ vā heṭṭhāpīṭhaṃ vā parāmasitvā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.5.5"
+msgid "Na ca anantarahitāya bhūmiyā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.5.6"
+msgid "Cīvaraṃ nikkhipantena ekena hatthena cīvaraṃ gahetvā ekena hatthena cīvaravaṃsaṃ vā cīvararajjuṃ vā pamajjitvā pārato antaṃ orato bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.5.7"
+msgid "Saddhivihārikamhi vuṭṭhite āsanaṃ uddharitabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ paṭisāmetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.5.8"
+msgid "Sace so deso uklāpo hoti, so deso sammajjitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc78
+msgctxt "pli-tv-kd18:12.6.1"
+msgid "Sace saddhivihāriko nahāyitukāmo hoti, nahānaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.6.2"
+msgid "Sace sītena attho hoti, sītaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.6.3"
+msgid "Sace uṇhena attho hoti, uṇhaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc79
+#. VAR: temetabbā, jantāgharapīṭhaṃ ādāya → ādāya saddhivihārikassa piṭṭhito piṭṭhito (mr)
+msgctxt "pli-tv-kd18:12.6.4"
+msgid "Sace saddhivihāriko jantāgharaṃ pavisitukāmo hoti, cuṇṇaṃ sannetabbaṃ, mattikā temetabbā, jantāgharapīṭhaṃ ādāya gantvā jantāgharapīṭhaṃ datvā cīvaraṃ paṭiggahetvā ekamantaṃ nikkhipitabbaṃ, cuṇṇaṃ dātabbaṃ, mattikā dātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.6.5"
+msgid "Sace ussahati jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.6.6"
+msgid "Jantāgharaṃ pavisantena mattikāya mukhaṃ makkhetvā purato ca pacchato ca paṭicchādetvā jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.7.1"
+msgid "Na there bhikkhū anupakhajja nisīditabbaṃ, na navā bhikkhū āsanena paṭibāhitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.7.2"
+msgid "Jantāghare saddhivihārikassa parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.7.3"
+msgid "Jantāgharā nikkhamantena jantāgharapīṭhaṃ ādāya purato ca pacchato ca paṭicchādetvā jantāgharā nikkhamitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc80
+msgctxt "pli-tv-kd18:12.7.4"
+msgid "Udakepi saddhivihārikassa parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.7.5"
+msgid "Nahātena paṭhamataraṃ uttaritvā attano gattaṃ vodakaṃ katvā nivāsetvā saddhivihārikassa gattato udakaṃ pamajjitabbaṃ, nivāsanaṃ dātabbaṃ, saṅghāṭi dātabbā, jantāgharapīṭhaṃ ādāya paṭhamataraṃ āgantvā āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.7.6"
+msgid "Saddhivihāriko pānīyena pucchitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc81
+msgctxt "pli-tv-kd18:12.8.1"
+msgid "Yasmiṃ vihāre saddhivihāriko viharati, sace so vihāro uklāpo hoti, sace ussahati, sodhetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.8.2"
+msgid "Vihāraṃ sodhentena paṭhamaṃ pattacīvaraṃ nīharitvā ekamantaṃ nikkhipitabbaṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.8.4"
+msgid "sace ācamanakumbhiyā udakaṃ na hoti, ācamanakumbhiyā udakaṃ āsiñcitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc82, pts-vp-pli2.230
+msgctxt "pli-tv-kd18:12.8.5"
+msgid "Sace saddhivihārikassa anabhirati uppannā hoti, upajjhāyena vūpakāsetabbo, vūpakāsāpetabbo, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.8.6"
+msgid "Sace saddhivihārikassa kukkuccaṃ uppannaṃ hoti, upajjhāyena vinodetabbaṃ, vinodāpetabbaṃ, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.8.7"
+msgid "Sace saddhivihārikassa diṭṭhigataṃ uppannaṃ hoti, upajjhāyena vivecetabbaṃ, vivecāpetabbaṃ, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.9.1"
+msgid "Sace saddhivihāriko garudhammaṃ ajjhāpanno hoti parivāsāraho, upajjhāyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.9.2"
+msgid "kinti nu kho saṃgho saddhivihārikassa parivāsaṃ dadeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.9.3"
+msgid "Sace saddhivihāriko mūlāyapaṭikassanāraho hoti, upajjhāyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.9.4"
+msgid "kinti nu kho saṃgho saddhivihārikaṃ mūlāya paṭikasseyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.9.5"
+msgid "Sace saddhivihāriko mānattāraho hoti, upajjhāyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.9.6"
+msgid "kinti nu kho saṃgho saddhivihārikassa mānattaṃ dadeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.9.7"
+msgid "Sace saddhivihāriko abbhānāraho hoti, upajjhāyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.9.8"
+msgid "kinti nu kho saṃgho saddhivihārikaṃ abbheyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.10.1"
+msgid "Sace saṃgho saddhivihārikassa kammaṃ kattukāmo hoti, tajjanīyaṃ vā niyassaṃ vā pabbājanīyaṃ vā paṭisāraṇīyaṃ vā ukkhepanīyaṃ vā, upajjhāyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.10.2"
+msgid "kinti nu kho saṃgho saddhivihārikassa kammaṃ na kareyya, lahukāya vā pariṇāmeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.10.3"
+msgid "Kataṃ vā panassa hoti saṃghena kammaṃ, tajjanīyaṃ vā niyassaṃ vā pabbājanīyaṃ vā paṭisāraṇīyaṃ vā, ukkhepanīyaṃ vā, upajjhāyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.10.4"
+msgid "kinti nu kho saddhivihāriko sammā vatteyya lomaṃ pāteyya, netthāraṃ vatteyya, saṃgho taṃ kammaṃ paṭippassambheyyāti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc83, pts-vp-pli2.231
+msgctxt "pli-tv-kd18:12.11.1"
+msgid "Sace saddhivihārikassa cīvaraṃ dhovitabbaṃ hoti, upajjhāyena ācikkhitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.2"
+msgid "evaṃ dhoveyyāsīti, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.3"
+msgid "kinti nu kho saddhivihārikassa cīvaraṃ dhoviyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.4"
+msgid "Sace saddhivihārikassa cīvaraṃ kātabbaṃ hoti, upajjhāyena ācikkhitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.5"
+msgid "evaṃ kareyyāsīti, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.6"
+msgid "kinti nu kho saddhivihārikassa cīvaraṃ kariyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.7"
+msgid "Sace saddhivihārikassa rajanaṃ pacitabbaṃ hoti, upajjhāyena ācikkhitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.8"
+msgid "evaṃ paceyyāsīti, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.9"
+msgid "kinti nu kho saddhivihārikassa rajanaṃ paciyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.10"
+msgid "Sace saddhivihārikassa cīvaraṃ rajitabbaṃ hoti, upajjhāyena ācikkhitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.11"
+msgid "evaṃ rajeyyāsīti, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.12"
+msgid "kinti nu kho saddhivihārikassa cīvaraṃ rajiyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.13"
+msgid "Cīvaraṃ rajantena sādhukaṃ samparivattakaṃ samparivattakaṃ rajitabbaṃ, na ca acchinne theve pakkamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.14"
+msgid "Sace saddhivihāriko gilāno hoti, yāvajīvaṃ upaṭṭhātabbo, vuṭṭhānamassa āgametabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:12.11.15"
+msgid "Idaṃ kho, bhikkhave, upajjhāyānaṃ saddhivihārikesu vattaṃ yathā upajjhāyehi saddhivihārikesu sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><p class="endsutta">
+#. REF: sc84
+msgctxt "pli-tv-kd18:12.11.16"
+msgid "Dutiyabhāṇavāro niṭṭhito."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:13.1.0"
+msgid "13. Ācariyavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc85
+msgctxt "pli-tv-kd18:13.1.1"
+msgid "Tena kho pana samayena antevāsikā ācariyesu na sammā vattanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.5"
+msgid "“kathañhi nāma antevāsikā ācariyesu na sammā vattissantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.6"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.8"
+msgid "“saccaṃ kira, bhikkhave, antevāsikā ācariyesu na sammā vattantī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.9"
+msgid "“Saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.11"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.13"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc86
+msgctxt "pli-tv-kd18:13.1.14"
+msgid "“Tena hi, bhikkhave, antevāsikānaṃ ācariyesu vattaṃ paññapessāmi yathā antevāsikehi ācariyesu sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.15"
+msgid "Antevāsikena, bhikkhave, ācariyamhi sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.16"
+msgid "Tatrāyaṃ sammāvattanā—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc87
+msgctxt "pli-tv-kd18:13.1.17"
+msgid "Kālasseva uṭṭhāya upāhanā omuñcitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā dantakaṭṭhaṃ dātabbaṃ, mukhodakaṃ dātabbaṃ, āsanaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.18"
+msgid "Sace yāgu hoti, bhājanaṃ dhovitvā yāgu upanāmetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.19"
+msgid "Yāguṃ pītassa udakaṃ datvā bhājanaṃ paṭiggahetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena dhovitvā paṭisāmetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.20"
+msgid "Ācariyamhi vuṭṭhite āsanaṃ uddharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.21"
+msgid "Sace so deso uklāpo hoti, so deso sammajjitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc88
+msgctxt "pli-tv-kd18:13.1.22"
+msgid "Sace ācariyo gāmaṃ pavisitukāmo hoti, nivāsanaṃ dātabbaṃ, paṭinivāsanaṃ paṭiggahetabbaṃ, kāyabandhanaṃ dātabbaṃ, saguṇaṃ katvā saṅghāṭiyo dātabbā, dhovitvā patto sodako dātabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.23"
+msgid "Sace ācariyo pacchāsamaṇaṃ ākaṅkhati, timaṇḍalaṃ paṭicchādentena parimaṇḍalaṃ nivāsetvā kāyabandhanaṃ bandhitvā saguṇaṃ katvā saṅghāṭiyo pārupitvā gaṇṭhikaṃ paṭimuñcitvā dhovitvā pattaṃ gahetvā ācariyassa pacchāsamaṇena hotabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.24"
+msgid "Nātidūre gantabbaṃ, nāccāsanne gantabbaṃ, pattapariyāpannaṃ paṭiggahetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.25"
+msgid "Na ācariyassa bhaṇamānassa antarantarā kathā opātetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.26"
+msgid "Ācariyo āpattisāmantā bhaṇamāno nivāretabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc89
+msgctxt "pli-tv-kd18:13.1.27"
+msgid "Nivattantena paṭhamataraṃ āgantvā āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ, paccuggantvā pattacīvaraṃ paṭiggahetabbaṃ, paṭinivāsanaṃ dātabbaṃ, nivāsanaṃ paṭiggahetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.28"
+msgid "Sace cīvaraṃ sinnaṃ hoti, muhuttaṃ uṇhe otāpetabbaṃ, na ca uṇhe cīvaraṃ nidahitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.29"
+msgid "Cīvaraṃ saṅgharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.30"
+msgid "Cīvaraṃ saṅgharantena caturaṅgulaṃ kaṇṇaṃ ussāretvā cīvaraṃ saṅgharitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.31"
+msgid "mā majjhe bhaṅgo ahosīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.32"
+msgid "Obhoge kāyabandhanaṃ kātabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc90
+msgctxt "pli-tv-kd18:13.1.33"
+msgid "Sace piṇḍapāto hoti, ācariyo ca bhuñjitukāmo hoti, udakaṃ datvā piṇḍapāto upanāmetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.34"
+msgid "Ācariyo pānīyena pucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.35"
+msgid "Bhuttāvissa udakaṃ datvā pattaṃ paṭiggahetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena dhovitvā vodakaṃ katvā muhuttaṃ uṇhe otāpetabbo, na ca uṇhe patto nidahitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.36"
+msgid "Pattacīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.37"
+msgid "Pattaṃ nikkhipantena ekena hatthena pattaṃ gahetvā ekena hatthena heṭṭhāmañcaṃ vā heṭṭhāpīṭhaṃ vā parāmasitvā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.38"
+msgid "Na ca anantarahitāya bhūmiyā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.39"
+msgid "Cīvaraṃ nikkhipantena ekena hatthena cīvaraṃ gahetvā ekena hatthena cīvaravaṃsaṃ vā cīvararajjuṃ vā pamajjitvā pārato antaṃ orato bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.40"
+msgid "Ācariyamhi vuṭṭhite āsanaṃ uddharitabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ paṭisāmetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.41"
+msgid "Sace so deso uklāpo hoti, so deso sammajjitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc91
+msgctxt "pli-tv-kd18:13.1.42"
+msgid "Sace ācariyo nahāyitukāmo hoti, nahānaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.43"
+msgid "Sace sītena attho hoti, sītaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.44"
+msgid "Sace uṇhena attho hoti, uṇhaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc92
+msgctxt "pli-tv-kd18:13.1.45"
+msgid "Sace ācariyo jantāgharaṃ pavisitukāmo hoti, cuṇṇaṃ sannetabbaṃ, mattikā temetabbā, jantāgharapīṭhaṃ ādāya ācariyassa piṭṭhito piṭṭhito gantvā jantāgharapīṭhaṃ datvā cīvaraṃ paṭiggahetvā ekamantaṃ nikkhipitabbaṃ, cuṇṇaṃ dātabbaṃ, mattikā dātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.46"
+msgid "Sace ussahati, jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.47"
+msgid "Jantāgharaṃ pavisantena mattikāya mukhaṃ makkhetvā purato ca pacchato ca paṭicchādetvā jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.48"
+msgid "Na there bhikkhū anupakhajja nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.49"
+msgid "Na navā bhikkhū āsanena paṭibāhitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.50"
+msgid "Jantāghare ācariyassa parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.51"
+msgid "Jantāgharā nikkhamantena jantāgharapīṭhaṃ ādāya purato ca pacchato ca paṭicchādetvā jantāgharā nikkhamitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc93
+msgctxt "pli-tv-kd18:13.1.52"
+msgid "Udakepi ācariyassa parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.53"
+msgid "Nahātena paṭhamataraṃ uttaritvā attano gattaṃ vodakaṃ katvā nivāsetvā ācariyassa gattato udakaṃ pamajjitabbaṃ, nivāsanaṃ dātabbaṃ, saṅghāṭi dātabbā, jantāgharapīṭhaṃ ādāya paṭhamataraṃ āgantvā āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.54"
+msgid "Ācariyo pānīyena pucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.55"
+msgid "Sace uddisāpetukāmo hoti, uddisitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.56"
+msgid "Sace paripucchitukāmo hoti, paripucchitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc94
+msgctxt "pli-tv-kd18:13.1.57"
+msgid "Yasmiṃ vihāre ācariyo viharati, sace so vihāro uklāpo hoti, sace ussahati, sodhetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.58"
+msgid "Vihāraṃ sodhentena paṭhamaṃ pattacīvaraṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.59"
+msgid "nisīdanapaccattharaṇaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.60"
+msgid "bhisibibbohanaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.61"
+msgid "mañco nīcaṃ katvā sādhukaṃ appaṭighaṃsantena asaṅghaṭṭentena kavāṭapiṭṭhaṃ, nīharitvā ekamantaṃ nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.62"
+msgid "pīṭhaṃ nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.63"
+msgid "mañcapaṭipādakā nīharitvā ekamantaṃ nikkhipitabbā;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.64"
+msgid "kheḷamallako nīharitvā ekamantaṃ nikkhipitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.65"
+msgid "apassenaphalakaṃ nīharitvā ekamantaṃ nikkhipitabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.66"
+msgid "bhūmattharaṇaṃ yathāpaññattaṃ sallakkhetvā nīharitvā ekamantaṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.67"
+msgid "Sace vihāre santānakaṃ hoti, ullokā paṭhamaṃ ohāretabbaṃ, ālokasandhikaṇṇabhāgā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.68"
+msgid "Sace gerukaparikammakatā bhitti kaṇṇakitā hoti, coḷakaṃ temetvā pīḷetvā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.69"
+msgid "Sace kāḷavaṇṇakatā bhūmi kaṇṇakitā hoti, coḷakaṃ temetvā pīḷetvā pamajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.70"
+msgid "Sace akatā hoti bhūmi, udakena paripphositvā paripphositvā sammajjitabbā—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.71"
+msgid "mā vihāro rajena uhaññīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.72"
+msgid "Saṅkāraṃ vicinitvā ekamantaṃ chaḍḍetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc95
+msgctxt "pli-tv-kd18:13.1.73"
+msgid "Bhūmattharaṇaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.74"
+msgid "Mañcapaṭipādakā otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.75"
+msgid "Mañco otāpetvā sodhetvā papphoṭetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, atiharitvā yathāpaññattaṃ paññapetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.76"
+msgid "Pīṭhaṃ otāpetvā sodhetvā papphoṭetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena, asaṅghaṭṭentena kavāṭapiṭṭhaṃ, atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.77"
+msgid "Bhisibibbohanaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.78"
+msgid "Nisīdanapaccattharaṇaṃ otāpetvā sodhetvā papphoṭetvā atiharitvā yathāpaññattaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.79"
+msgid "Kheḷamallako otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.80"
+msgid "Apassenaphalakaṃ otāpetvā pamajjitvā atiharitvā yathāṭhāne ṭhapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.81"
+msgid "Pattacīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.82"
+msgid "Pattaṃ nikkhipantena ekena hatthena pattaṃ gahetvā ekena hatthena heṭṭhāmañcaṃ vā heṭṭhāpīṭhaṃ vā parāmasitvā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.83"
+msgid "Na ca anantarahitāya bhūmiyā patto nikkhipitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.84"
+msgid "Cīvaraṃ nikkhipantena ekena hatthena cīvaraṃ gahetvā ekena hatthena cīvaravaṃsaṃ vā cīvararajjuṃ vā pamajjitvā pārato antaṃ orato bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc96
+msgctxt "pli-tv-kd18:13.1.85"
+msgid "Sace puratthimā sarajā vātā vāyanti, puratthimā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.86"
+msgid "Sace pacchimā sarajā vātā vāyanti, pacchimā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.87"
+msgid "Sace uttarā sarajā vātā vāyanti, uttarā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.88"
+msgid "Sace dakkhiṇā sarajā vātā vāyanti, dakkhiṇā vātapānā thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.89"
+msgid "Sace sītakālo hoti, divā vātapānā vivaritabbā, rattiṃ thaketabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.90"
+msgid "Sace uṇhakālo hoti, divā vātapānā thaketabbā, rattiṃ vivaritabbā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc97
+msgctxt "pli-tv-kd18:13.1.91"
+msgid "Sace pariveṇaṃ uklāpaṃ hoti, pariveṇaṃ sammajjitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.92"
+msgid "Sace koṭṭhako uklāpo hoti, koṭṭhako sammajjitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.93"
+msgid "Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.94"
+msgid "Sace aggisālā uklāpā hoti, aggisālā sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.95"
+msgid "Sace vaccakuṭi uklāpā hoti, vaccakuṭi sammajjitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.96"
+msgid "Sace pānīyaṃ na hoti, pānīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.97"
+msgid "Sace paribhojanīyaṃ na hoti, paribhojanīyaṃ upaṭṭhāpetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.98"
+msgid "Sace ācamanakumbhiyā udakaṃ na hoti, ācamanakumbhiyā udakaṃ āsiñcitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc98
+msgctxt "pli-tv-kd18:13.1.99"
+msgid "Sace ācariyassa anabhirati uppannā hoti, antevāsikena vūpakāsetabbo, vūpakāsāpetabbo, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.100"
+msgid "Sace ācariyassa kukkuccaṃ uppannaṃ hoti, antevāsikena vinodetabbaṃ, vinodāpetabbaṃ, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.101"
+msgid "Sace ācariyassa diṭṭhigataṃ uppannaṃ hoti, antevāsikena vivecetabbaṃ, vivecāpetabbaṃ, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.102"
+msgid "Sace ācariyo garudhammaṃ ajjhāpanno hoti, parivāsāraho, antevāsikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.103"
+msgid "kinti nu kho saṃgho ācariyassa parivāsaṃ dadeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.104"
+msgid "Sace ācariyo mūlāyapaṭikassanāraho hoti, antevāsikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.105"
+msgid "kinti nu kho saṃgho ācariyaṃ mūlāya paṭikasseyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.106"
+msgid "Sace ācariyo mānattāraho hoti, antevāsikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.107"
+msgid "kinti nu kho saṃgho ācariyassa mānattaṃ dadeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.108"
+msgid "Sace ācariyo abbhānāraho hoti, antevāsikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.109"
+msgid "kinti nu kho saṃgho ācariyaṃ abbheyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.110"
+msgid "Sace saṃgho ācariyassa kammaṃ kattukāmo hoti, tajjanīyaṃ vā niyassaṃ vā pabbājanīyaṃ vā paṭisāraṇīyaṃ vā ukkhepanīyaṃ vā, antevāsikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.111"
+msgid "kinti nu kho saṃgho ācariyassa kammaṃ na kareyya, lahukāya vā pariṇāmeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.112"
+msgid "Kataṃ vā panassa hoti saṃghena kammaṃ, tajjanīyaṃ vā niyassaṃ vā pabbājanīyaṃ vā paṭisāraṇīyaṃ vā ukkhepanīyaṃ vā, antevāsikena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.113"
+msgid "kinti nu kho ācariyo sammā vatteyya, lomaṃ pāteyya, netthāraṃ vatteyya, saṃgho taṃ kammaṃ paṭippassambheyyāti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc99
+msgctxt "pli-tv-kd18:13.1.114"
+msgid "Sace ācariyassa cīvaraṃ dhovitabbaṃ hoti, antevāsikena dhovitabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.115"
+msgid "kinti nu kho ācariyassa cīvaraṃ dhoviyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.116"
+msgid "Sace ācariyassa cīvaraṃ kātabbaṃ hoti, antevāsikena kātabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.117"
+msgid "kinti nu kho ācariyassa cīvaraṃ kariyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.118"
+msgid "Sace ācariyassa rajanaṃ pacitabbaṃ hoti, antevāsikena pacitabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.119"
+msgid "kinti nu kho ācariyassa rajanaṃ paciyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.120"
+msgid "Sace ācariyassa cīvaraṃ rajitabbaṃ hoti, antevāsikena rajitabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.121"
+msgid "kinti nu kho ācariyassa cīvaraṃ rajiyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.122"
+msgid "Cīvaraṃ rajantena sādhukaṃ samparivattakaṃ samparivattakaṃ rajitabbaṃ, na ca acchinne theve pakkamitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc100
+msgctxt "pli-tv-kd18:13.1.123"
+msgid "Na ācariyaṃ anāpucchā ekaccassa patto dātabbo, na ekaccassa patto paṭiggahetabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.124"
+msgid "na ekaccassa cīvaraṃ dātabbaṃ, na ekaccassa cīvaraṃ paṭiggahetabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.125"
+msgid "na ekaccassa parikkhāro dātabbo, na ekaccassa parikkhāro paṭiggahetabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.126"
+msgid "na ekaccassa kesā cheditabbā, na ekaccena kesā chedāpetabbā;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.127"
+msgid "na ekaccassa parikammaṃ kātabbaṃ, na ekaccena parikammaṃ kārāpetabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.128"
+msgid "na ekaccassa veyyāvacco kātabbo, na ekaccena veyyāvacco kārāpetabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.129"
+msgid "na ekaccassa pacchāsamaṇena hotabbaṃ, na ekacco pacchāsamaṇo ādātabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.130"
+msgid "na ekaccassa piṇḍapāto nīharitabbo, na ekaccena piṇḍapāto nīharāpetabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.131"
+msgid "na ācariyaṃ anāpucchā gāmo pavisitabbo;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.132"
+msgid "na susānaṃ gantabbaṃ;"
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.133"
+msgid "na disā pakkamitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.134"
+msgid "Sace ācariyo gilāno hoti, yāvajīvaṃ upaṭṭhātabbo, vuṭṭhānamassa āgametabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:13.1.135"
+msgid "Idaṃ kho, bhikkhave, antevāsikānaṃ ācariyesu vattaṃ yathā antevāsikehi ācariyesu sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><h2>
+msgctxt "pli-tv-kd18:14.1.0"
+msgid "14. Antevāsikavattakathā"
+msgstr ""
+
+#. HTML: </h2><p>
+#. REF: sc101
+msgctxt "pli-tv-kd18:14.1.1"
+msgid "Tena kho pana samayena ācariyā antevāsikesu na sammā vattanti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.2"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.4"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.5"
+msgid "“kathañhi nāma ācariyā antevāsikesu na sammā vattissantī”ti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.6"
+msgid "Atha kho te bhikkhū bhagavato etamatthaṃ ārocesuṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.7"
+msgid "Atha kho bhagavā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā bhikkhū paṭipucchi—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.8"
+msgid "“saccaṃ kira, bhikkhave, ācariyā antevāsikesu na sammā vattantī”ti?"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.9"
+msgid "“Saccaṃ, bhagavā”ti … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.11"
+msgid "vigarahitvā … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.13"
+msgid "dhammiṃ kathaṃ katvā bhikkhū āmantesi—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc102
+msgctxt "pli-tv-kd18:14.1.14"
+msgid "“Tena hi, bhikkhave, ācariyānaṃ antevāsikesu vattaṃ paññapessāmi yathā ācariyehi antevāsikesu sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.15"
+msgid "Ācariyena, bhikkhave, antevāsikamhi sammā vattitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.16"
+msgid "Tatrāyaṃ sammāvattanā—"
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc103
+msgctxt "pli-tv-kd18:14.1.17"
+msgid "Ācariyena, bhikkhave, antevāsiko saṅgahetabbo anuggahetabbo uddesena paripucchāya ovādena anusāsaniyā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.18"
+msgid "Sace ācariyassa patto hoti, antevāsikassa patto na hoti, ācariyena antevāsikassa patto dātabbo, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.19"
+msgid "kinti nu kho antevāsikassa patto uppajjiyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.20"
+msgid "Sace ācariyassa cīvaraṃ hoti, antevāsikassa cīvaraṃ na hoti, ācariyena antevāsikassa cīvaraṃ dātabbaṃ, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.21"
+msgid "kinti nu kho antevāsikassa cīvaraṃ uppajjiyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.22"
+msgid "Sace ācariyassa parikkhāro hoti, antevāsikassa parikkhāro na hoti, ācariyena antevāsikassa parikkhāro dātabbo, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.23"
+msgid "kinti nu kho antevāsikassa parikkhāro uppajjiyethāti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc104
+msgctxt "pli-tv-kd18:14.1.24"
+msgid "Sace antevāsiko gilāno hoti, kālasseva uṭṭhāya dantakaṭṭhaṃ dātabbaṃ, mukhodakaṃ dātabbaṃ, āsanaṃ paññapetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.25"
+msgid "Sace yāgu hoti, bhājanaṃ dhovitvā yāgu upanāmetabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.26"
+msgid "Yāguṃ pītassa udakaṃ datvā bhājanaṃ paṭiggahetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena dhovitvā paṭisāmetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.27"
+msgid "Antevāsikamhi vuṭṭhite āsanaṃ uddharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.28"
+msgid "Sace so deso uklāpo hoti, so deso sammajjitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc105
+msgctxt "pli-tv-kd18:14.1.29"
+msgid "Sace antevāsiko gāmaṃ pavisitukāmo hoti, nivāsanaṃ dātabbaṃ, paṭinivāsanaṃ paṭiggahetabbaṃ, kāyabandhanaṃ dātabbaṃ, saguṇaṃ katvā saṅghāṭiyo dātabbā, dhovitvā patto sodako dātabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc106
+msgctxt "pli-tv-kd18:14.1.30"
+msgid "Ettāvatā nivattissatīti āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ, paccuggantvā pattacīvaraṃ paṭiggahetabbaṃ, paṭinivāsanaṃ dātabbaṃ, nivāsanaṃ paṭiggahetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.31"
+msgid "Sace cīvaraṃ sinnaṃ hoti, muhuttaṃ uṇhe otāpetabbaṃ, na ca uṇhe cīvaraṃ nidahitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.32"
+msgid "Cīvaraṃ saṅgharitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.33"
+msgid "Cīvaraṃ saṅgharantena caturaṅgulaṃ kaṇṇaṃ ussāretvā cīvaraṃ saṅgharitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.34"
+msgid "mā majjhe bhaṅgo ahosīti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.35"
+msgid "Obhoge kāyabandhanaṃ kātabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc107
+msgctxt "pli-tv-kd18:14.1.36"
+msgid "Sace piṇḍapāto hoti, antevāsiko ca bhuñjitukāmo hoti, udakaṃ datvā piṇḍapāto upanāmetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.37"
+msgid "Antevāsiko pānīyena pucchitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.38"
+msgid "Bhuttāvissa udakaṃ datvā pattaṃ paṭiggahetvā nīcaṃ katvā sādhukaṃ appaṭighaṃsantena dhovitvā vodakaṃ katvā muhuttaṃ uṇhe otāpetabbo, na ca uṇhe patto nidahitabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.39"
+msgid "Pattacīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.40"
+msgid "Pattaṃ nikkhipantena … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.42"
+msgid "cīvaraṃ nikkhipantena … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.44"
+msgid "pārato antaṃ orato bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.45"
+msgid "Antevāsikamhi uṭṭhite āsanaṃ uddharitabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ paṭisāmetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.46"
+msgid "Sace so deso uklāpo hoti, so deso sammajjitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc108
+msgctxt "pli-tv-kd18:14.1.47"
+msgid "Sace antevāsiko nahāyitukāmo hoti, nahānaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.48"
+msgid "Sace sītena attho hoti, sītaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.49"
+msgid "Sace uṇhena attho hoti, uṇhaṃ paṭiyādetabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc109
+#. VAR: temetabbā, jantāgharapīṭhaṃ ādāya → ādāya antevāsikassa piṭṭhito piṭṭhito (mr)
+msgctxt "pli-tv-kd18:14.1.50"
+msgid "Sace antevāsiko jantāgharaṃ pavisitukāmo hoti, cuṇṇaṃ sannetabbaṃ, mattikā temetabbā, jantāgharapīṭhaṃ ādāya gantvā jantāgharapīṭhaṃ datvā cīvaraṃ paṭiggahetvā ekamantaṃ nikkhipitabbaṃ, cuṇṇaṃ dātabbaṃ, mattikā dātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.51"
+msgid "Sace ussahati jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.52"
+msgid "Jantāgharaṃ pavisantena mattikāya mukhaṃ makkhetvā purato ca pacchato ca paṭicchādetvā jantāgharaṃ pavisitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.53"
+msgid "Na there bhikkhū anupakhajja nisīditabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.54"
+msgid "Na navā bhikkhū āsanena paṭibāhitabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.55"
+msgid "Jantāghare antevāsikassa parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.56"
+msgid "Jantāgharā nikkhamantena jantāgharapīṭhaṃ ādāya purato ca pacchato ca paṭicchādetvā jantāgharā nikkhamitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc110
+msgctxt "pli-tv-kd18:14.1.57"
+msgid "Udakepi antevāsikassa parikammaṃ kātabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.58"
+msgid "Nahātena paṭhamataraṃ uttaritvā attano gattaṃ vodakaṃ katvā nivāsetvā antevāsikassa gattato udakaṃ pamajjitabbaṃ, nivāsanaṃ dātabbaṃ, saṅghāṭi dātabbā, jantāgharapīṭhaṃ ādāya paṭhamataraṃ āgantvā āsanaṃ paññapetabbaṃ, pādodakaṃ pādapīṭhaṃ pādakathalikaṃ upanikkhipitabbaṃ, antevāsiko pānīyena pucchitabbo."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc111
+msgctxt "pli-tv-kd18:14.1.59"
+msgid "Yasmiṃ vihāre antevāsiko viharati, sace so vihāro uklāpo hoti, sace ussahati, sodhetabbo."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.60"
+msgid "Vihāraṃ sodhentena paṭhamaṃ pattacīvaraṃ nīharitvā ekamantaṃ nikkhipitabbaṃ … pe …"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.62"
+msgid "ācamanakumbhiyā udakaṃ na hoti, ācamanakumbhiyā udakaṃ āsiñcitabbaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc112
+msgctxt "pli-tv-kd18:14.1.63"
+msgid "Sace antevāsikassa anabhirati uppannā hoti, ācariyena vūpakāsetabbo, vūpakāsāpetabbo, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.64"
+msgid "Sace antevāsikassa kukkuccaṃ uppannaṃ hoti, ācariyena vinodetabbaṃ, vinodāpetabbaṃ, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.65"
+msgid "Sace antevāsikassa diṭṭhigataṃ uppannaṃ hoti, ācariyena vivecetabbaṃ, vivecāpetabbaṃ, dhammakathā vāssa kātabbā."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.66"
+msgid "Sace antevāsiko garudhammaṃ ajjhāpanno hoti, parivāsāraho, ācariyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.67"
+msgid "kinti nu kho saṃgho antevāsikassa parivāsaṃ dadeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.68"
+msgid "Sace antevāsiko mūlāyapaṭikassanāraho hoti, ācariyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.69"
+msgid "kinti nu kho saṃgho antevāsikaṃ mūlāya paṭikasseyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.70"
+msgid "Sace antevāsiko mānattāraho hoti, ācariyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.71"
+msgid "kinti nu kho saṃgho antevāsikassa mānattaṃ dadeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.72"
+msgid "Sace antevāsiko abbhānāraho hoti, ācariyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.73"
+msgid "kinti nu kho saṃgho antevāsikaṃ abbheyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.74"
+msgid "Sace saṃgho antevāsikassa kammaṃ kattukāmo hoti, tajjanīyaṃ vā niyassaṃ vā pabbājanīyaṃ vā paṭisāraṇīyaṃ vā ukkhepanīyaṃ vā, ācariyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.75"
+msgid "kinti nu kho saṃgho antevāsikassa kammaṃ na kareyya, lahukāya vā pariṇāmeyyāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.76"
+msgid "Kataṃ vā panassa hoti, saṃghena kammaṃ, tajjanīyaṃ vā niyassaṃ vā pabbājanīyaṃ vā paṭisāraṇīyaṃ vā ukkhepanīyaṃ vā, ācariyena ussukkaṃ kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.77"
+msgid "kinti nu kho antevāsiko sammā vatteyya, lomaṃ pāteyya, netthāraṃ vatteyya, saṃgho taṃ kammaṃ paṭippassambheyyāti."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc113
+msgctxt "pli-tv-kd18:14.1.78"
+msgid "Sace antevāsikassa cīvaraṃ dhovitabbaṃ hoti, ācariyena ācikkhitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.79"
+msgid "evaṃ dhoveyyāsīti, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.80"
+msgid "kinti nu kho antevāsikassa cīvaraṃ dhoviyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.81"
+msgid "Sace antevāsikassa cīvaraṃ kātabbaṃ hoti, ācariyena ācikkhitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.82"
+msgid "evaṃ kareyyāsīti, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.83"
+msgid "kinti nu kho antevāsikassa cīvaraṃ kariyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.84"
+msgid "Sace antevāsikassa rajanaṃ pacitabbaṃ hoti, ācariyena ācikkhitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.85"
+msgid "evaṃ paceyyāsīti, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.86"
+msgid "kinti nu kho antevāsikassa rajanaṃ paciyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.87"
+msgid "Sace antevāsikassa cīvaraṃ rajitabbaṃ hoti, ācariyena ācikkhitabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.88"
+msgid "evaṃ rajeyyāsīti, ussukkaṃ vā kātabbaṃ—"
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.89"
+msgid "kinti nu kho antevāsikassa cīvaraṃ rajiyethāti."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.90"
+msgid "Cīvaraṃ rajantena sādhukaṃ samparivattakaṃ samparivattakaṃ rajitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.91"
+msgid "Na ca acchinne theve pakkamitabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.92"
+msgid "Sace antevāsiko gilāno hoti, yāvajīvaṃ upaṭṭhātabbo, vuṭṭhānamassa āgametabbaṃ."
+msgstr ""
+
+msgctxt "pli-tv-kd18:14.1.93"
+msgid "Idaṃ kho, bhikkhave, ācariyānaṃ antevāsikesu vattaṃ yathā ācariyehi antevāsikesu sammā vattitabban”ti."
+msgstr ""
+
+#. HTML: </p><p class="endsutta">
+#. REF: sc114
+msgctxt "pli-tv-kd18:14.1.94"
+msgid "Vattakkhandhako aṭṭhamo."
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.1"
+msgid "Imamhi khandhake vatthū ekūnavīsati, vattā cuddasa."
+msgstr ""
+
+#. HTML: </p><p class="uddana-intro">
+#. REF: sc115
+msgctxt "pli-tv-kd18:15.1.2"
+msgid "Tassuddānaṃ"
+msgstr ""
+
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: sc116
+msgctxt "pli-tv-kd18:15.1.3"
+msgid "Saupāhanā chattā ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.4"
+msgid "oguṇṭhi sīsaṃ pānīyaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.5"
+msgid "Nābhivāde na pucchanti,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.6"
+msgid "ahi ujjhanti pesalā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc117
+msgctxt "pli-tv-kd18:15.1.7"
+msgid "Omuñci chattaṃ khandhe ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.8"
+msgid "atarañca paṭikkamaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.9"
+msgid "Pattacīvaraṃ nikkhipā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.10"
+msgid "patirūpañca pucchitā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc118
+msgctxt "pli-tv-kd18:15.1.11"
+msgid "Āsiñceyya dhovitena,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.12"
+msgid "sukkhenallenupāhanā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.13"
+msgid "Vuḍḍho navako puccheyya,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.14"
+msgid "ajjhāvuṭṭhañca gocarā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc119
+msgctxt "pli-tv-kd18:15.1.15"
+msgid "Sekkhā vaccā pānī pari,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.16"
+msgid "kattaraṃ katikaṃ tato;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.17"
+msgid "Kālaṃ muhuttaṃ uklāpo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.18"
+msgid "bhūmattharaṇaṃ nīhare."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc120
+msgctxt "pli-tv-kd18:15.1.19"
+msgid "Paṭipādo bhisibibbo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.20"
+msgid "mañcapīṭhañca mallakaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.21"
+msgid "Apassenullokakaṇṇā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.22"
+msgid "gerukā kāḷa akatā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc121
+msgctxt "pli-tv-kd18:15.1.23"
+msgid "Saṅkārañca bhūmattharaṇaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.24"
+msgid "paṭipādakaṃ mañcapīṭhaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.25"
+msgid "Bhisi nisīdanampi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.26"
+msgid "mallakaṃ apassena ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc122
+msgctxt "pli-tv-kd18:15.1.27"
+msgid "Pattacīvaraṃ bhūmi ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.28"
+msgid "pārantaṃ orato bhogaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.29"
+msgid "Puratthimā pacchimā ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.30"
+msgid "uttarā atha dakkhiṇā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc123
+msgctxt "pli-tv-kd18:15.1.31"
+msgid "Sītuṇhe ca divārattiṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.32"
+msgid "pariveṇañca koṭṭhako;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.33"
+msgid "Upaṭṭhānaggi sālā ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.34"
+msgid "vattaṃ vaccakuṭīsu ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc124
+msgctxt "pli-tv-kd18:15.1.35"
+msgid "Pānī paribhojaniyā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.36"
+msgid "kumbhi ācamanesu ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.37"
+msgid "Anopamena paññattaṃ,"
+msgstr ""
+
+#. HTML: <br>
+#. VAR: āgantukehime → ... ve (mr)
+msgctxt "pli-tv-kd18:15.1.38"
+msgid "vattaṃ āgantukehime."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc125
+msgctxt "pli-tv-kd18:15.1.39"
+msgid "Nevāsanaṃ na udakaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.40"
+msgid "na paccu na ca pāniyaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.41"
+msgid "Nābhivāde na paññape,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.42"
+msgid "ujjhāyanti ca pesalā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc126
+msgctxt "pli-tv-kd18:15.1.43"
+msgid "Vuḍḍhāsanañca udakaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.44"
+msgid "paccuggantvā ca pāniyaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.45"
+msgid "Upāhane ekamantaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.46"
+msgid "abhivāde ca paññape."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc127, pts-vp-pli2.232
+msgctxt "pli-tv-kd18:15.1.47"
+msgid "Vutthaṃ gocarasekkho ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.48"
+msgid "ṭhānaṃ pāniyabhojanaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.49"
+msgid "Kattaraṃ katikaṃ kālaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.50"
+msgid "navakassa nisinnake."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc128
+msgctxt "pli-tv-kd18:15.1.51"
+msgid "Abhivādaye ācikkhe,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.52"
+msgid "yathā heṭṭhā tathā naye;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.53"
+msgid "Niddiṭṭhaṃ satthavāhena,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.54"
+msgid "vattaṃ āvāsikehime."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc129
+msgctxt "pli-tv-kd18:15.1.55"
+msgid "Gamikā dārumatti ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.56"
+msgid "vivaritvā na pucchiya;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.57"
+msgid "Nassanti ca aguttañca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.58"
+msgid "ujjhāyanti ca pesalā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc130
+msgctxt "pli-tv-kd18:15.1.59"
+msgid "Paṭisāmetvā thaketvā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.60"
+msgid "āpucchitvāva pakkame;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.61"
+msgid "Bhikkhu vā sāmaṇero vā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.62"
+msgid "ārāmiko upāsako."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc131
+msgctxt "pli-tv-kd18:15.1.63"
+msgid "Pāsāṇakesu ca puñjaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.64"
+msgid "paṭisāme thakeyya ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.65"
+msgid "Sace ussahati ussukkaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.66"
+msgid "anovasse tatheva ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc132
+msgctxt "pli-tv-kd18:15.1.67"
+msgid "Sabbo ovassati gāmaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.68"
+msgid "ajjhokāse tatheva ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.69"
+msgid "Appevaṅgāni seseyyuṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.70"
+msgid "vattaṃ gamikabhikkhunā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc133
+msgctxt "pli-tv-kd18:15.1.71"
+msgid "Nānumodanti therena,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.72"
+msgid "ohāya catupañcahi;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.73"
+msgid "Vaccito mucchito āsi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.74"
+msgid "vattānumodanesume."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc134
+msgctxt "pli-tv-kd18:15.1.75"
+msgid "Chabbaggiyā dunnivatthā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.76"
+msgid "athopi ca duppārutā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.77"
+msgid "Anākappā ca vokkamma,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.78"
+msgid "there anupakhajjane."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc135
+msgctxt "pli-tv-kd18:15.1.79"
+msgid "Nave bhikkhū ca saṅghāṭi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.80"
+msgid "ujjhāyanti ca pesalā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.81"
+msgid "Timaṇḍalaṃ nivāsetvā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.82"
+msgid "kāyasaguṇagaṇṭhikā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc136
+msgctxt "pli-tv-kd18:15.1.83"
+msgid "Na vokkamma paṭicchannaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.84"
+msgid "susaṃvutokkhittacakkhu;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.85"
+msgid "Ukkhittojjagghikāsaddo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.86"
+msgid "tayo ceva pacālanā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc137
+msgctxt "pli-tv-kd18:15.1.87"
+msgid "Khambhoguṇṭhiukkuṭikā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.88"
+msgid "paṭicchannaṃ susaṃvuto;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.89"
+msgid "Okkhittukkhittaujjagghi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.90"
+msgid "appasaddo tayo calā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc138
+msgctxt "pli-tv-kd18:15.1.91"
+msgid "Khambhoguṇṭhipallatthi ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.92"
+msgid "anupakhajja nāsane;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.93"
+msgid "Ottharitvāna udake,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.94"
+msgid "nīcaṃ katvāna siñciyā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc139
+msgctxt "pli-tv-kd18:15.1.95"
+msgid "Paṭi sāmantā saṅghāṭi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.96"
+msgid "odane ca paṭiggahe;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.97"
+msgid "Sūpaṃ uttaribhaṅgena,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.98"
+msgid "sabbesaṃ samatitthi ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc140
+msgctxt "pli-tv-kd18:15.1.99"
+msgid "Sakkaccaṃ pattasaññī ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.100"
+msgid "sapadānañca sūpakaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.101"
+msgid "Na thūpato paṭicchāde,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.102"
+msgid "viññattujjhānasaññinā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc141
+msgctxt "pli-tv-kd18:15.1.103"
+msgid "Mahantamaṇḍaladvāraṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.104"
+msgid "sabbahattho na byāhare;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.105"
+msgid "Ukkhepo chedanāgaṇḍa,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.106"
+msgid "dhunaṃ sitthāvakārakaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc142
+msgctxt "pli-tv-kd18:15.1.107"
+msgid "Jivhānicchārakañceva,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.108"
+msgid "capucapu surusuru;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.109"
+msgid "Hatthapattoṭṭhanillehaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.110"
+msgid "sāmisena paṭiggahe."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc143
+msgctxt "pli-tv-kd18:15.1.111"
+msgid "Yāva na sabbe udake,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.112"
+msgid "nīcaṃ katvāna siñciyaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.113"
+msgid "Paṭi sāmantā saṅghāṭi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.114"
+msgid "nīcaṃ katvā chamāya ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc144
+msgctxt "pli-tv-kd18:15.1.115"
+msgid "Sasitthakaṃ nivattante,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.116"
+msgid "suppaṭicchannamukkuṭi;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.117"
+msgid "Dhammarājena paññattaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.118"
+msgid "idaṃ bhattaggavattanaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc145
+msgctxt "pli-tv-kd18:15.1.119"
+msgid "Dunnivatthā anākappā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.120"
+msgid "asallakkhetvā ca sahasā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.121"
+msgid "Dūre acca ciraṃ lahuṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.122"
+msgid "tatheva piṇḍacāriko."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc146, pts-vp-pli2.233
+msgctxt "pli-tv-kd18:15.1.123"
+msgid "Paṭicchannova gaccheyya,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.124"
+msgid "susaṃvutokkhittacakkhu;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.125"
+msgid "Ukkhittojjagghikāsaddo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.126"
+msgid "tayo ceva pacālanā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc147
+msgctxt "pli-tv-kd18:15.1.127"
+msgid "Khambhoguṇṭhiukkuṭikā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.128"
+msgid "sallakkhetvā ca sahasā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.129"
+msgid "Dūre acca ciraṃ lahuṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.130"
+msgid "āsanakaṃ kaṭacchukā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc148
+msgctxt "pli-tv-kd18:15.1.131"
+msgid "Bhājanaṃ vā ṭhapeti ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.132"
+msgid "uccāretvā paṇāmetvā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.133"
+msgid "Paṭiggahe na ulloke,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.134"
+msgid "sūpesupi tatheva taṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc149
+msgctxt "pli-tv-kd18:15.1.135"
+msgid "Bhikkhu saṅghāṭiyā chāde,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.136"
+msgid "paṭicchanneva gacchiyaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.137"
+msgid "Saṃvutokkhittacakkhu ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.138"
+msgid "ukkhittojjagghikāya ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.139"
+msgid "Appasaddo tayo cālā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.140"
+msgid "khambhoguṇṭhikaukkuṭi."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc150
+msgctxt "pli-tv-kd18:15.1.141"
+msgid "Paṭhamāsanavakkāra,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.142"
+msgid "pāniyaṃ paribhojanī;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.143"
+msgid "Pacchākaṅkhati bhuñjeyya,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.144"
+msgid "opilāpeyya uddhare."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc151
+msgctxt "pli-tv-kd18:15.1.145"
+msgid "Paṭisāmeyya sammajje,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.146"
+msgid "rittaṃ tucchaṃ upaṭṭhape;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.147"
+msgid "Hatthavikāre bhindeyya,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.148"
+msgid "vattidaṃ piṇḍacārike."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc152
+msgctxt "pli-tv-kd18:15.1.149"
+msgid "Pānī pari aggiraṇi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.150"
+msgid "nakkhattadisacorā ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.151"
+msgid "Sabbaṃ natthīti koṭṭetvā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.152"
+msgid "pattaṃse cīvaraṃ tato."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc153
+msgctxt "pli-tv-kd18:15.1.153"
+msgid "Idāni aṃse laggetvā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.154"
+msgid "timaṇḍalaṃ parimaṇḍalaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.155"
+msgid "Yathā piṇḍacārivattaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.156"
+msgid "naye āraññakesupi."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc154
+msgctxt "pli-tv-kd18:15.1.157"
+msgid "Pattaṃse cīvaraṃ sīse,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.158"
+msgid "ārohitvā ca pāniyaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.159"
+msgid "Paribhojaniyaṃ aggi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.160"
+msgid "araṇī cāpi kattaraṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc155
+msgctxt "pli-tv-kd18:15.1.161"
+msgid "Nakkhattaṃ sappadesaṃ vā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.162"
+msgid "disāpi kusalo bhave;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.163"
+msgid "Sattuttamena paññattaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.164"
+msgid "vattaṃ āraññakesume."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc156
+msgctxt "pli-tv-kd18:15.1.165"
+msgid "Ajjhokāse okiriṃsu,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.166"
+msgid "ujjhāyanti ca pesalā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.167"
+msgid "Sace vihāro uklāpo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.168"
+msgid "paṭhamaṃ pattacīvaraṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc157
+msgctxt "pli-tv-kd18:15.1.169"
+msgid "Bhisibibbohanaṃ mañcaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.170"
+msgid "pīṭhañca kheḷamallakaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.171"
+msgid "Apassenullokakaṇṇā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.172"
+msgid "gerukā kāḷa akatā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc158
+msgctxt "pli-tv-kd18:15.1.173"
+msgid "Saṅkāraṃ bhikkhusāmantā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.174"
+msgid "senāvihārapāniyaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.175"
+msgid "Paribhojanasāmantā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.176"
+msgid "paṭivāte ca aṅgaṇe."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc159
+msgctxt "pli-tv-kd18:15.1.177"
+msgid "Adhovāte attharaṇaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.178"
+msgid "paṭipādakamañco ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.179"
+msgid "Pīṭhaṃ bhisi nisīdanaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.180"
+msgid "mallakaṃ apassena ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc160
+msgctxt "pli-tv-kd18:15.1.181"
+msgid "Pattacīvaraṃ bhūmi ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.182"
+msgid "pārantaṃ orato bhogaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.183"
+msgid "Puratthimā ca pacchimā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.184"
+msgid "uttarā atha dakkhiṇā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc161
+msgctxt "pli-tv-kd18:15.1.185"
+msgid "Sītuṇhe ca divā rattiṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.186"
+msgid "pariveṇañca koṭṭhako;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.187"
+msgid "Upaṭṭhānaggisālā ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.188"
+msgid "vaccakuṭī ca pāniyaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc162
+msgctxt "pli-tv-kd18:15.1.189"
+msgid "Ācamanakumbhi vuḍḍhe ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.190"
+msgid "uddesapucchanā sajjhā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.191"
+msgid "Dhammo padīpaṃ vijjhāpe,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.192"
+msgid "na vivare napi thake."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc163
+msgctxt "pli-tv-kd18:15.1.193"
+msgid "Yena vuḍḍho parivatti,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.194"
+msgid "kaṇṇenapi na ghaṭṭaye;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.195"
+msgid "Paññapesi mahāvīro,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.196"
+msgid "vattaṃ senāsanesu taṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc164, pts-vp-pli2.234
+msgctxt "pli-tv-kd18:15.1.197"
+msgid "Nivāriyamānā dvāraṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.198"
+msgid "mucchitujjhanti pesalā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.199"
+msgid "Chārikaṃ chaḍḍaye jantā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.200"
+msgid "paribhaṇḍaṃ tatheva ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc165
+msgctxt "pli-tv-kd18:15.1.201"
+msgid "Pariveṇaṃ koṭṭhako sālā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.202"
+msgid "cuṇṇamattikadoṇikā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.203"
+msgid "Mukhaṃ purato na there,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.204"
+msgid "na nave ussahati sace."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc166
+msgctxt "pli-tv-kd18:15.1.205"
+msgid "Purato uparimaggo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.206"
+msgid "cikkhallaṃ matti pīṭhakaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.207"
+msgid "Vijjhāpetvā thaketvā ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.208"
+msgid "vattaṃ jantāgharesume."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc167
+msgctxt "pli-tv-kd18:15.1.209"
+msgid "Nācameti yathāvuḍḍhaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.210"
+msgid "paṭipāṭi ca sahasā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.211"
+msgid "Ubbhaji nitthuno kaṭṭhaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.212"
+msgid "vaccaṃ passāva kheḷakaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc168
+msgctxt "pli-tv-kd18:15.1.213"
+msgid "Pharusā kūpa sahasā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.214"
+msgid "ubbhaji capu sesena;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.215"
+msgid "Bahi anto ca ukkāse,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.216"
+msgid "rajju ataramānañca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc169
+msgctxt "pli-tv-kd18:15.1.217"
+msgid "Sahasā ubbhaji ṭhite,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.218"
+msgid "nitthune kaṭṭha vaccañca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.219"
+msgid "Passāva kheḷa pharusā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.220"
+msgid "kūpañca vaccapāduke."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc170
+msgctxt "pli-tv-kd18:15.1.221"
+msgid "Nātisahasā ubbhaji,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.222"
+msgid "pādukāya capucapu;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.223"
+msgid "Na sesaye paṭicchāde,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.224"
+msgid "uhatapidharena ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc171
+msgctxt "pli-tv-kd18:15.1.225"
+msgid "Vaccakuṭī paribhaṇḍaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.226"
+msgid "pariveṇañca koṭṭhako;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.227"
+msgid "Ācamane ca udakaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.228"
+msgid "vattaṃ vaccakuṭīsume."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc172
+msgctxt "pli-tv-kd18:15.1.229"
+msgid "Upāhanā dantakaṭṭhaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.230"
+msgid "mukhodakañca āsanaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.231"
+msgid "Yāgu udakaṃ dhovitvā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.232"
+msgid "uddhāruklāpa gāma ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc173
+msgctxt "pli-tv-kd18:15.1.233"
+msgid "Nivāsanā kāyabandhā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.234"
+msgid "saguṇaṃ pattasodakaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.235"
+msgid "Pacchā timaṇḍalo ceva,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.236"
+msgid "parimaṇḍala bandhanaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc174
+msgctxt "pli-tv-kd18:15.1.237"
+msgid "Saguṇaṃ dhovitvā pacchā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.238"
+msgid "nātidūre paṭiggahe;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.239"
+msgid "Bhaṇamānassa āpatti,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.240"
+msgid "paṭhamāgantvāna āsanaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc175
+msgctxt "pli-tv-kd18:15.1.241"
+msgid "Udakaṃ pīṭhakathali,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.242"
+msgid "paccuggantvā nivāsanaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.243"
+msgid "Otāpe nidahi bhaṅgo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.244"
+msgid "obhoge bhuñjitu name."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc176
+msgctxt "pli-tv-kd18:15.1.245"
+msgid "Pānīyaṃ udakaṃ nīcaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.246"
+msgid "muhuttaṃ na ca nidahe;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.247"
+msgid "Pattacīvaraṃ bhūmi ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.248"
+msgid "pārantaṃ orato bhogaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc177
+msgctxt "pli-tv-kd18:15.1.249"
+msgid "Uddhare paṭisāme ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.250"
+msgid "uklāpo ca nahāyituṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.251"
+msgid "Sītaṃ uṇhaṃ jantāgharaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.252"
+msgid "cuṇṇaṃ mattika piṭṭhito."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc178
+msgctxt "pli-tv-kd18:15.1.253"
+msgid "Pīṭhañca cīvaraṃ cuṇṇaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.254"
+msgid "mattikussahati mukhaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.255"
+msgid "Purato there nave ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.256"
+msgid "parikammañca nikkhame."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc179
+msgctxt "pli-tv-kd18:15.1.257"
+msgid "Purato udake nhāte,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.258"
+msgid "nivāsetvā upajjhāyaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.259"
+msgid "Nivāsanañca saṅghāṭi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.260"
+msgid "pīṭhakaṃ āsanena ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc180
+msgctxt "pli-tv-kd18:15.1.261"
+msgid "Pādo pīṭhaṃ kathaliñca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.262"
+msgid "pānīyuddesapucchanā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.263"
+msgid "Uklāpaṃ susodheyya,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.264"
+msgid "paṭhamaṃ pattacīvaraṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc181
+msgctxt "pli-tv-kd18:15.1.265"
+msgid "Nisīdanapaccattharaṇaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.266"
+msgid "bhisi bibbohanāni ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.267"
+msgid "Mañco pīṭhaṃ paṭipādaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.268"
+msgid "mallakaṃ apassena ca."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc182
+msgctxt "pli-tv-kd18:15.1.269"
+msgid "Bhūma santāna āloka,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.270"
+msgid "gerukā kāḷa akatā;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.271"
+msgid "Bhūmattharapaṭipādā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.272"
+msgid "mañco pīṭhaṃ bibbohanaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc183, pts-vp-pli2.235
+msgctxt "pli-tv-kd18:15.1.273"
+msgid "Nisīdattharaṇaṃ kheḷa,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.274"
+msgid "apasse pattacīvaraṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.275"
+msgid "Puratthimā pacchimā ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.276"
+msgid "uttarā atha dakkhiṇā."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc184
+msgctxt "pli-tv-kd18:15.1.277"
+msgid "Sītuṇhañca divā rattiṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.278"
+msgid "pariveṇañca koṭṭhako;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.279"
+msgid "Upaṭṭhānaggisālā ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.280"
+msgid "vaccapāniyabhojanī."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc185
+msgctxt "pli-tv-kd18:15.1.281"
+msgid "Ācamaṃ anabhirati,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.282"
+msgid "kukkuccaṃ diṭṭhi ca garu;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.283"
+msgid "Mūlamānattaabbhānaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.284"
+msgid "tajjanīyaṃ niyassakaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc186
+msgctxt "pli-tv-kd18:15.1.285"
+msgid "Pabbāja paṭisāraṇī,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.286"
+msgid "ukkhepañca kataṃ yadi;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.287"
+msgid "Dhove kātabbaṃ rajañca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.288"
+msgid "raje samparivattakaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc187
+msgctxt "pli-tv-kd18:15.1.289"
+msgid "Pattañca cīvarañcāpi,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.290"
+msgid "parikkhārañca chedanaṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.291"
+msgid "Parikammaṃ veyyāvaccaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.292"
+msgid "pacchā piṇḍaṃ pavisanaṃ."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc188
+msgctxt "pli-tv-kd18:15.1.293"
+msgid "Na susānaṃ disā ceva,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.294"
+msgid "yāvajīvaṃ upaṭṭhahe;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.295"
+msgid "Saddhivihārikenetaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.296"
+msgid "vattupajjhāyakesume."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc189
+msgctxt "pli-tv-kd18:15.1.297"
+msgid "Ovādasāsanuddesā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.298"
+msgid "pucchā pattañca cīvaraṃ;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.299"
+msgid "Parikkhāro gilāno ca,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.300"
+msgid "na pacchāsamaṇo bhave."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc190
+msgctxt "pli-tv-kd18:15.1.301"
+msgid "Upajjhāyesu ye vattā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.302"
+msgid "evaṃ ācariyesupi;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.303"
+msgid "Saddhivihārike vattā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.304"
+msgid "tatheva antevāsike."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc191
+msgctxt "pli-tv-kd18:15.1.305"
+msgid "Āgantukesu ye vattā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.306"
+msgid "puna āvāsikesu ca;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.307"
+msgid "Gamikānumodanikā,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.308"
+msgid "bhattagge piṇḍacārike."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc192
+msgctxt "pli-tv-kd18:15.1.309"
+msgid "Āraññakesu yaṃ vattaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.310"
+msgid "yañca senāsanesupi;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.311"
+msgid "Jantāghare vaccakuṭī,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.312"
+msgid "upajjhā saddhivihārike."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc193
+msgctxt "pli-tv-kd18:15.1.313"
+msgid "Ācariyesu yaṃ vattaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.314"
+msgid "tatheva antevāsike;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.315"
+msgid "Ekūnavīsati vatthū,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.316"
+msgid "vattā cuddasa khandhake."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc194
+msgctxt "pli-tv-kd18:15.1.317"
+msgid "Vattaṃ aparipūrento,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.318"
+msgid "na sīlaṃ paripūrati;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.319"
+msgid "Asuddhasīlo duppañño,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.320"
+msgid "cittekaggaṃ na vindati."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc195
+msgctxt "pli-tv-kd18:15.1.321"
+msgid "Vikkhittacittonekaggo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.322"
+msgid "sammā dhammaṃ na passati;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.323"
+msgid "Apassamāno saddhammaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.324"
+msgid "dukkhā na parimuccati."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc196
+msgctxt "pli-tv-kd18:15.1.325"
+msgid "Yaṃ vattaṃ paripūrento,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.326"
+msgid "sīlampi paripūrati;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.327"
+msgid "Visuddhasīlo sappañño,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.328"
+msgid "cittekaggampi vindati."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc197
+msgctxt "pli-tv-kd18:15.1.329"
+msgid "Avikkhittacitto ekaggo,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.330"
+msgid "sammā dhammaṃ vipassati;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.331"
+msgid "Sampassamāno saddhammaṃ,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.332"
+msgid "dukkhā so parimuccati."
+msgstr ""
+
+#. HTML: </p><p>
+#. REF: sc198
+msgctxt "pli-tv-kd18:15.1.333"
+msgid "Tasmā hi vattaṃ pūreyya,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.334"
+msgid "jinaputto vicakkhaṇo;"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.335"
+msgid "Ovādaṃ buddhaseṭṭhassa,"
+msgstr ""
+
+#. HTML: <br>
+msgctxt "pli-tv-kd18:15.1.336"
+msgid "tato nibbānamehitīti."
+msgstr ""
+
+#. HTML: </p></blockquote><p class="endsection">
+#. REF: sc199
+msgctxt "pli-tv-kd18:15.1.337"
+msgid "Vattakkhandhako niṭṭhito."
+msgstr ""
+
