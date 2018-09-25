@@ -1,45 +1,34 @@
 import regex
-import os.path
+import pathlib
 
-class ZFiller:
-    def __init__(self, files):
-        self.tree = {}
-        self.seen = set()
-        common_path = pathlib.Path(*os.path.commonprefix([(p if p.is_dir() else p.parent).parts for p in infiles]))
-        self.add_files(files, common_path)
+
+def zfiller(start_dir):
+    print(start_dir)
+    files = list(start_dir.glob('*'))
+    nums = []
     
-    def split(self, string):
-        return [int(part) if part.isdigit() else part 
-                for part
-                in regex.findall(r'\p{alpha}+|\d+|[^\p{alpha}\d]+', string)]
+    for file in files:
+        m = regex.search(r'\d+', file.name)
+        if m:
+            nums.append(m[0])
     
-    def add_files(self, files):
+    if nums:
+        max_len = max(len(n) for n in nums)
+        print(nums, max_len)
+        
+        def repl(m):
+            print(m)
+            return m[0].zfill(max_len)
+        
         for file in files:
-            string = file.relative_to(common_path)
-            parts = self.split(str(string))
-            branch = self.tree
-            for part in parts:
-                if part not in branch:
-                    branch[part] = {}
-                branch = branch[part]
-                self.seen.add(part)
-    
-    def zfill(self, string):
-     try:
-        parts = self.split(string)
-        out = []
-        branch = self.tree
-        for part in parts:
-            if isinstance(part, int):
-                maxlen = len(str(max(branch.keys())))
-                out.append(str(part).zfill(maxlen))
-            else:
-                out.append(part)
-            branch = branch[part]
-        return ''.join(out)
-     except Exception as e:
-         globals().update(locals())
-         raise
+            new_file = file.parent / regex.sub(r'\d+', repl, file.name)
+            print(f'renaming {file.relative_to(start_dir)} to {new_file.relative_to(start_dir)}')
+            file.rename(new_file)
+        
+    for file in start_dir.glob('*'):
+        if file.is_dir():
+            zfiller(file)
+        
 
-def zfill(files):
+        
     
