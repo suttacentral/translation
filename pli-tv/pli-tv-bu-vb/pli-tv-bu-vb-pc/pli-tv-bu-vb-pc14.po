@@ -103,7 +103,7 @@ msgstr "‘If a monk takes a bed, a bench, a mattress, or a stool belonging to t
 
 #. HTML: </span></p><p class="endsection">
 #. REF: sc4, ms2V_383
-msgctxt "pli-tv-bu-vb-pc14:1.1.12"
+msgctxt "pli-tv-bu-vb-pc14:1.1.11"
 msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
 msgstr "In this way the Master laid down this training rule for the monks."
 
@@ -225,8 +225,8 @@ msgctxt "pli-tv-bu-vb-pc14:2.1.17"
 msgid "Kocchaṃ nāma—"
 msgstr "A stool:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: I have rendered khus-khus reed, _muñja_-reed, and _pabbaja_-reed with the single word “reed.” I am not aware that these types of reed can be properly distinguished in English.
+#. HTML: </span><span class="gloss">
 #. VAR: pabbajamayaṃ → babbajamayaṃ (bj, pts1)
 msgctxt "pli-tv-bu-vb-pc14:2.1.18"
 msgid "vākamayaṃ vā usīramayaṃ vā muñjamayaṃ vā pabbajamayaṃ vā anto saṃveṭhetvā baddhaṃ hoti."
@@ -386,5 +386,3 @@ msgstr "if he is the first offender."
 msgctxt "pli-tv-bu-vb-pc14:2.3.10"
 msgid "Senāsanasikkhāpadaṃ niṭṭhitaṃ catutthaṃ."
 msgstr "The fourth rule, the training rule on furniture, is finished."
-
-

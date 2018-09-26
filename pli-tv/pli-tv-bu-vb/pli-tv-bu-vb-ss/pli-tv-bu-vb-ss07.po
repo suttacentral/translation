@@ -131,8 +131,8 @@ msgctxt "pli-tv-bu-vb-ss7:1.19a"
 msgid ""
 msgstr "Final ruling"
 
-#. HTML: </h2><p><span class="rule">
 # NOTE: I have rendered _sassāmikaṃ_ as “with a sponsoring owner.” The word _sāmika_ generally means “owner,” and there seems to be no reason why that should not also be the meaning here. However, although the monk does not own the dwelling, he is still the builder and the intended user once the building is finished. To indicate this, I have added the word “sponsoring.”
+#. HTML: </h2><p><span class="rule">
 #. REF: sc4
 msgctxt "pli-tv-bu-vb-ss7:1.20"
 msgid "“Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ bhikkhū abhinetabbā vatthudesanāya."
@@ -880,21 +880,21 @@ msgctxt "pli-tv-bu-vb-ss7:3.4.20"
 msgid "“anārambho ca hotu saparikkamano cā”ti "
 msgstr "to build one where no harm will be done, and which has a space on all sides. … "
 
-msgctxt "pli-tv-bu-vb-ss7:3.4.20"
+msgctxt "pli-tv-bu-vb-ss7:3.4.21"
 msgid "pe …"
 msgstr "This paragraph is to be expanded as in [Saṅghādisesa 6, paragraphs 64–75](pli-tv-bu-vb-ss6#64)."
 
 # NOTE: The last two sets of ellipses points are not found in MS. I have added them for clarification.
 #. VAR: hotū”ti → hotūti … pe … anārambhaṃ saparikkamanaṃ (bj) | hotūti … pe … (s1-3)
-msgctxt "pli-tv-bu-vb-ss7:3.4.21"
+msgctxt "pli-tv-bu-vb-ss7:3.4.22"
 msgid "“anārambho hotū”ti."
 msgstr "where no harm will be done. …"
 
-msgctxt "pli-tv-bu-vb-ss7:3.4.22"
+msgctxt "pli-tv-bu-vb-ss7:3.4.23"
 msgid "“Saparikkamano hotū”ti,"
 msgstr "which has a space on all sides. …"
 
-msgctxt "pli-tv-bu-vb-ss7:3.4.23"
+msgctxt "pli-tv-bu-vb-ss7:3.4.24"
 msgid "anāpatti."
 msgstr "There is no offense."
 
@@ -1110,5 +1110,3 @@ msgstr "if he is the first offender."
 msgctxt "pli-tv-bu-vb-ss7:3.7.11"
 msgid "Vihāra­kāra­sikkhā­padaṃ niṭṭhitaṃ sattamaṃ."
 msgstr "The seventh rule, the training rule on building dwellings, is finished."
-
-

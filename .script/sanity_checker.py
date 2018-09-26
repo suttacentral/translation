@@ -34,7 +34,7 @@ def is_1_greater(a, b, uid, original_con):
         if original_con.endswith('.0a'):
             return
         print(f"{uid}:{original_con}   {'.'.join(str(n) for n in a)} -> {'.'.join(str(n) for n in b)}")
-
+        return False
 
 def renumber_zeros(po):
     i = 1
@@ -50,6 +50,44 @@ def renumber_zeros(po):
         else:
             return i > 1
 
+def renumber_segments(po):
+    changed = False
+    last_nums = None
+    inc = 1
+    for unit in po.units:
+        msgctxt = unit.msgctxt
+        if not msgctxt:
+            continue
+        uid, num = msgctxt[0][1:-1].split(':')
+        
+        nums = num.split('.')
+        
+        if last_nums and len(last_nums) == 3:
+            if nums[:2] == last_nums[:2]:
+                m = regex.match(r'(\d+)([a-z]*)', last_nums[2])
+                last_num, last_alpha = m[1], m[2]
+                m = regex.match(r'(\d+)([a-z]*)', nums[2])
+                num, alpha = m[1], m[2]
+                
+                if alpha:
+                    continue
+                
+                new_num = str(int(last_num) + 1)
+                if new_num != nums[2]:
+                    nums[2] = new_num
+                    new_ctxt = f'"{uid}:{".".join(nums)}"'
+                    if msgctxt[0] != new_ctxt:
+                        print(f'Replace: {msgctxt[0]} -> {new_ctxt}, {msgctxt[0] == new_ctxt}')
+                        unit.msgctxt = [new_ctxt]
+                        changed = True
+        last_nums = nums
+    return changed
+            
+            
+            
+            
+        
+
 def compare_order(a, b):
     nums_a = [l[1] for l in a]
     nums_b = [l[1] for l in b]
@@ -59,7 +97,8 @@ def compare_order(a, b):
         if i != j:
             print(f'{a[0][0]}: Sort Mismatch {i} != {j}')
             return
-    
+
+
 
 def check_ordering(contexts, file):
     
@@ -74,6 +113,8 @@ for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
     changed = False
     if 'np' in file.name:
         changed = renumber_zeros(po)
+    
+    changed = renumber_segments(po) or changed 
     
     contexts = []
     for unit in po.units:    
