@@ -35,7 +35,7 @@ msgid "Pattavagga"
 msgstr "Monks’ Relinquishment"
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bu-vb-np22:0.6"
+msgctxt "pli-tv-bu-vb-np22:0.5"
 msgid "22. Ūnapañcabandhanasikkhāpada"
 msgstr "22. The training rule on less than five mends"
 
@@ -347,8 +347,8 @@ msgctxt "pli-tv-bu-vb-np22:2.1.8"
 msgid "Abandhanokāso nāma patto"
 msgstr "A bowl with a mend that does not count:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: That is, a fracture of two finger-breaths, _dvaṅgulā_. For the conversion into metric units I follow the suggestions of BMC I, pp. 565-566.
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-np22:2.1.9"
 msgid "yassa dvaṅgulā rāji na hoti."
 msgstr "one that does not have a 4 cm long fracture."
@@ -921,5 +921,3 @@ msgstr "if he is the first offender."
 msgctxt "pli-tv-bu-vb-np22:2.2.75"
 msgid "Ūnapañcabandhanasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ."
 msgstr "The second rule, the training rule on less than five mends, is finished."
-
-

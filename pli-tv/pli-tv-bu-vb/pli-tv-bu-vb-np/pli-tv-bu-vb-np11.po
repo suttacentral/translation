@@ -35,7 +35,7 @@ msgid "Kosiyavagga"
 msgstr "Monks’ Relinquishment"
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bu-vb-np11:0.6"
+msgctxt "pli-tv-bu-vb-np11:0.5"
 msgid "11. Kosiyasikkhāpada"
 msgstr "11. The training rule on silk"
 
@@ -306,11 +306,9 @@ msgctxt "pli-tv-bu-vb-np11:2.2.10"
 msgid "ādikammikassāti."
 msgstr "if he is the first offender."
 
-#. HTML: </p><hr><p class="endsutta">
 # NOTE: It is called the first rule in the Pali since it is the first rule of the second chapter on relinquishment. If, however, one disregards the division into chapters, it is the eleventh rule on relinquishment.
+#. HTML: </p><hr><p class="endsutta">
 #. REF: sc11, ms1V_2108
 msgctxt "pli-tv-bu-vb-np11:2.2.11"
 msgid "Kosiyasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr "The first rule, the training rule on silk, is finished."
-
-

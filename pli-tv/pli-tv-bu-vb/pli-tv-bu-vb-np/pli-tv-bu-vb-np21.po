@@ -35,12 +35,12 @@ msgid "Pattavagga"
 msgstr "Monks’ Relinquishment"
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bu-vb-np21:0.6"
+msgctxt "pli-tv-bu-vb-np21:0.5"
 msgid "21. Pattasikkhāpada"
 msgstr "21. The training rule on bowls"
 
 #. HTML: </h1></div><h2>
-msgctxt "pli-tv-bu-vb-np21:0.7"
+msgctxt "pli-tv-bu-vb-np21:0.6"
 msgid ""
 msgstr "Origin story"
 
@@ -322,8 +322,8 @@ msgctxt "pli-tv-bu-vb-np21:3.18"
 msgid "Taṃ atikkāmayato nissaggiyo hotīti"
 msgstr "If he keeps it beyond that […] entailing relinquishment:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: According to the commentary this means the tenth dawn after one received the bowl, see [](Sp.3.639.27)
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-np21:3.19"
 msgid "ekādase aruṇuggamane nissaggiyo hoti."
 msgstr "it becomes subject to relinquishment at dawn on the eleventh day."
@@ -567,5 +567,3 @@ msgstr "If a monk doesn’t give it back, he commits an offense of wrong conduct
 msgctxt "pli-tv-bu-vb-np21:4.5"
 msgid "Pattasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ."
 msgstr "The first rule, the training rule on bowls, is finished."
-
-

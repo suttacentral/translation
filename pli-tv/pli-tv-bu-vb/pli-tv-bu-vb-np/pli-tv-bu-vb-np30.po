@@ -35,7 +35,7 @@ msgid "Pattavagga"
 msgstr "Monks’ Relinquishment"
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bu-vb-np30:0.6"
+msgctxt "pli-tv-bu-vb-np30:0.5"
 msgid "30. Pariṇatasikkhāpada"
 msgstr "30. The training rule on what is intended"
 
@@ -213,8 +213,8 @@ msgctxt "pli-tv-bu-vb-np30:2.6"
 msgid "Jānāti nāma"
 msgstr "He knows:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: The meaning of the last of these three ways of knowing, _so vā āroceti_, is not clear. CPD suggests: “_sa (sā) āroceti_ (?). Perhaps this last form is conformable to sa. [Sanskrit] _ārocayate_ med. caus. [middle voice causative] in the meaning: he or she makes inquiries (of others).” However, this does not fit with the parallel usage at Confession 29 [](MS.2.638) where the text says that she tells (_sā vā āroceti_) him, presumably referring to the nun telling the monk. In this case _āroceti_ cannot refer to the monk making inquiries. The commentaries are silent, and I therefore assume that a straight-forward meaning is the most likely one. I would suggest, then, that it simply refers to the donor telling the monk directly.
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-np30:2.7"
 msgid "sāmaṃ vā jānāti aññe vā tassa ārocenti so vā āroceti."
 msgstr "he knows by himself or others have told him or the donor has told him."
@@ -460,5 +460,3 @@ msgstr "The chapter on offenses entailing relinquishment is finished."
 msgctxt "pli-tv-bu-vb-np30:2.55"
 msgid "Pārājikapāḷi niṭṭhitā."
 msgstr "The text on expulsion is finished."
-
-

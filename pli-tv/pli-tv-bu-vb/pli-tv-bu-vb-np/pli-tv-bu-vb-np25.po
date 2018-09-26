@@ -35,7 +35,7 @@ msgid "Pattavagga"
 msgstr "Monks’ Relinquishment"
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bu-vb-np25:0.6"
+msgctxt "pli-tv-bu-vb-np25:0.5"
 msgid "25. Cīvaraacchindanasikkhāpada"
 msgstr "25. The training rule on taking robe-cloth back"
 
@@ -233,9 +233,9 @@ msgctxt "pli-tv-bu-vb-np25:1.39"
 msgid "Cīvaraṃ nāma"
 msgstr "Robe-cloth:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: The six are linen, cotton, silk, wool, sunn hemp, and hemp; see [](Mv.8.3.1).
 # NOTE: This means not smaller than 8 by 4 standard (_sugata_) finger-breadths, or 16 by 8 cm; see [](Kkh. 94.4) and BMC I, pp. 565-566.
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-np25:1.40"
 msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
 msgstr "one of the six kinds of robe-cloth, but not smaller than what can be transferred."
@@ -385,5 +385,3 @@ msgstr "if he is the first offender."
 msgctxt "pli-tv-bu-vb-np25:1.68"
 msgid "Cīvaraacchindanasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ."
 msgstr "The fifth rule, the training rule on taking robe-cloth back, is finished."
-
-

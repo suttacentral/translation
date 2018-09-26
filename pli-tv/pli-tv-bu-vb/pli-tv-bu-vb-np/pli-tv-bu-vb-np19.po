@@ -35,7 +35,7 @@ msgid "Kosiyavagga"
 msgstr "Monks’ Relinquishment"
 
 #. HTML: </p><h1>
-msgctxt "pli-tv-bu-vb-np19:0.6"
+msgctxt "pli-tv-bu-vb-np19:0.5"
 msgid "19. Rūpiyasaṃvohārasikkhāpada"
 msgstr "19. The training rule on trading with money"
 
@@ -423,8 +423,8 @@ msgctxt "pli-tv-bu-vb-np19:2.63a"
 msgid ""
 msgstr "Permutations"
 
-#. HTML: </h2><p>
 # NOTE: The commentarial explanation makes it clear that what is meant here is that one exchanges money into money. The same is true for the next two cases. See [](Sp.3.696.30): “For one who is exchanging a relinquishable object with a relinquishable object, in accordance with the cases spoken of in the previous training rule,” _purimasikkhāpade vuttavatthūsu nissaggiyavatthunā nissaggiyavatthuṃ cetāpentassa_.
+#. HTML: </h2><p>
 #. REF: sc13, ms1V_2234
 msgctxt "pli-tv-bu-vb-np19:2.64"
 msgid "Rūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
@@ -438,8 +438,8 @@ msgctxt "pli-tv-bu-vb-np19:2.66"
 msgid "Rūpiye arūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is money, but he does not perceive it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
 
-#. HTML: </p><p>
 # NOTE: The commentarial explanation makes it clear that what is meant here is that one exchanges what is not money into money, that is, one is selling something and therefore ending up with money. The same is true for the next two cases. See [](Sp.3.697.7): “One exchanges one’s own non-money for someone else’s money,” _attano vā hi arūpiyena parassa rūpiyaṃ cetāpeyya_.
+#. HTML: </p><p>
 msgctxt "pli-tv-bu-vb-np19:2.67"
 msgid "Arūpiye rūpiyasaññī rūpiyaṃ cetāpeti, nissaggiyaṃ pācittiyaṃ."
 msgstr "If it is not money, but he perceives it as money, and he exchanges it into money, he commits an offense entailing relinquishment and confession."
@@ -490,5 +490,3 @@ msgstr "if he is the first offender."
 msgctxt "pli-tv-bu-vb-np19:2.76"
 msgid "Rūpiyasaṃvohārasikkhāpadaṃ niṭṭhitaṃ navamaṃ."
 msgstr "The ninth rule, the training rule on trading with money, is finished."
-
-

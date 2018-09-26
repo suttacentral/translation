@@ -94,3 +94,5 @@ for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
             
         
         last_nums = nums
+    if changed:
+        po.save()
