@@ -107,8 +107,21 @@ def check_ordering(contexts, file):
     
 
 for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
+    
     with file.open('r') as f:
         po = pofile(f)  
+    
+    if po.header() is None:
+        print(f'{file.name}: Header not readable!')
+        with file.open('r') as f:
+            lines = []
+            for line in f:
+                if line.startswith('msgid'):
+                    break
+                lines.append(line)
+        cruft = '\n'.join(lines)
+        print(f'File starts with: {cruft}')
+    
     
     changed = False
     if 'np' in file.name:
