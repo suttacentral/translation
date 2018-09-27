@@ -121,12 +121,16 @@ for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
         msgctxt = unit.msgctxt
         if msgctxt:
             contexts.append(msgctxt[0][1:-1].split(':'))
-            
+    
+    
     check_ordering(contexts, file)
     
+    file_uid = regex.sub(r'(\D)(0+)', r'\1', file.stem)
     nums = []
     last_nums = None
     for uid, con in contexts:
+        if file_uid != uid:
+            print(f'Mismatched UID: {uid} in {file_uid}')
         
         con2 = regex.sub(r'[a-z]$', lambda m: '.'+str(ord(m[0])-96), con )
         nums = [Num(num) for num in con2.split('.')]
