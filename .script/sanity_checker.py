@@ -1,4 +1,5 @@
 import regex
+from tempfile import NamedTemporaryFile
 
 from common import PO_DIR, pofile, humansortkey
 
@@ -53,7 +54,6 @@ def renumber_zeros(po):
 def renumber_segments(po):
     changed = False
     last_nums = None
-    inc = 1
     for unit in po.units:
         msgctxt = unit.msgctxt
         if not msgctxt:
@@ -62,19 +62,28 @@ def renumber_segments(po):
         
         nums = num.split('.')
         
-        if last_nums and len(last_nums) == 3:
-            if nums[:2] == last_nums[:2]:
-                m = regex.match(r'(\d+)([a-z]*)', last_nums[2])
+        if last_nums and len(last_nums) in {2, 3} and len(last_nums) == len(nums):
+            should_be_1 = False
+            # try:
+                # if int(nums[-2]) - int(last_nums[-2]) == 1:
+                    # should_be_1 = True
+            # except ValueError:
+                # continue
+            
+            if nums[:-1] == last_nums[:-1]:
+                m = regex.match(r'(\d+)([a-z]*)', last_nums[-1])
                 last_num, last_alpha = m[1], m[2]
-                m = regex.match(r'(\d+)([a-z]*)', nums[2])
+                m = regex.match(r'(\d+)([a-z]*)', nums[-1])
                 num, alpha = m[1], m[2]
-                
+
                 if alpha:
                     continue
-                
-                new_num = str(int(last_num) + 1)
-                if new_num != nums[2]:
-                    nums[2] = new_num
+                if should_be_1:
+                    new_num = '1'
+                else:
+                    new_num = str(int(last_num) + 1)
+                if new_num != nums[-1]:
+                    nums[-1] = new_num
                     new_ctxt = f'"{uid}:{".".join(nums)}"'
                     if msgctxt[0] != new_ctxt:
                         print(f'Replace: {msgctxt[0]} -> {new_ctxt}, {msgctxt[0] == new_ctxt}')
@@ -105,6 +114,25 @@ def check_ordering(contexts, file):
     compare_order(contexts, sorted(contexts, key=humansortkey))
     compare_order(contexts, sorted(reversed(contexts), key=humansortkey))
     
+
+def is_data_intact(file, po):
+    with file.open('r') as f:
+        original = f.read()
+    
+    with NamedTemporaryFile('wb', delete=False) as f:
+        po.savefile(f)
+        # pofile closes the file object so we need to reopen
+        with open(f.name) as f2:
+            new = f2.read()
+    
+    old_strings = regex.findall('(?:msgid|msgctxt )?".*"', original)
+    new_strings = regex.findall('(?:msgid|msgctxt )?".*"', new)
+    
+    len_diff = len(old_strings) - len(new_strings)
+    if len_diff != 0:
+        print(f'{file.name}: Missing strings')
+        return False
+    return True
 
 for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
     
@@ -152,5 +180,7 @@ for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
             
         
         last_nums = nums
-    if changed:
+    intact = is_data_intact(file, po)
+    
+    if changed and intact:
         po.save()
