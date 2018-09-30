@@ -1,8 +1,11 @@
 import regex
+import pathlib
+from itertools import zip_longest
 from tempfile import NamedTemporaryFile
 
 from common import PO_DIR, pofile, humansortkey
 
+compare_dir = pathlib.Path('./compare')
 
 class Num:
     def __init__(self, string):
@@ -95,13 +98,14 @@ def renumber_segments(po):
             
             
             
-        
+problems = {}
 
 def compare_order(a, b):
     nums_a = [l[1] for l in a]
     nums_b = [l[1] for l in b]
     if nums_a == nums_b:
         return False
+    problems[a[0][0]] = (nums_a, nums_b)
     for i, j in zip(nums_a, nums_b):
         if i != j:
             print(f'{a[0][0]}: Sort Mismatch {i} != {j}')
@@ -115,24 +119,53 @@ def check_ordering(contexts, file):
     compare_order(contexts, sorted(reversed(contexts), key=humansortkey))
     
 
+def compare_strings(a, b, pattern, file):
+    strings = []
+    a_strings = a.split('\n')
+    b_strings = b.split('\n')
+    for i, (a_s, b_s) in enumerate(zip_longest(a_strings, b_strings)):
+        a_m = regex.search(pattern, a)
+        b_m = regex.search(pattern, b)
+        
+        strings.append((i, a_m[0] if a_m else None, b_m[0] if b_m else None))
+    
+    for lineno, a_s, b_s in strings:
+        if a_s != b_s:
+            print(f'{file.name}:{lineno}: Mismatch {a_s}, {b_s}')
+            return False
+    return True
+        
+    
+
 def is_data_intact(file, po):
     with file.open('r') as f:
         original = f.read()
     
-    with NamedTemporaryFile('wb', delete=False) as f:
-        po.savefile(f)
-        # pofile closes the file object so we need to reopen
-        with open(f.name) as f2:
-            new = f2.read()
+    comparefile = compare_dir / file.relative_to(PO_DIR)
+    comparefile.parent.mkdir(exist_ok=True, parents=True)
+    with comparefile.open('wb') as f:
+        po.savefile(f)  
+    # pofile closes the file object so we need to reopen
+    with open(f.name) as f2:
+        new = f2.read()
+    pattern = 'msgid ".*"'
+    strings = []
+    a_strings = original.split('\n')
+    b_strings = new.split('\n')
+    for i, (a_s, b_s) in enumerate(zip_longest(a_strings, b_strings, fillvalue='')):
+        a_m = regex.search(pattern, a_s)
+        b_m = regex.search(pattern, b_s)
+        
+        strings.append((i, a_m[0] if a_m else None, b_m[0] if b_m else None))
     
-    old_strings = regex.findall('(?:msgid|msgctxt )?".*"', original)
-    new_strings = regex.findall('(?:msgid|msgctxt )?".*"', new)
-    
-    len_diff = len(old_strings) - len(new_strings)
-    if len_diff != 0:
-        print(f'{file.name}: Missing strings')
-        return False
+    for lineno, a_s, b_s in strings:
+        if a_s != b_s:
+            print(f'{file.stem}:{lineno}: Mismatch {a_s}, {b_s}')
+            return False
+    comparefile.unlink()
     return True
+
+
 
 for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
     
@@ -150,6 +183,10 @@ for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
         cruft = '\n'.join(lines)
         print(f'File starts with: {cruft}')
     
+    intact = is_data_intact(file, po)
+    if not intact:
+        print(f'Not saving {file.name} because not intact')
+        continue
     
     changed = False
     if 'np' in file.name:
@@ -180,7 +217,8 @@ for file in sorted(PO_DIR.glob('pli-tv/**/*.po')):
             
         
         last_nums = nums
-    intact = is_data_intact(file, po)
+    
     
     if changed and intact:
-        po.save()
+        with file.open('wb') as f:
+            po.savefile(f)
