@@ -645,8 +645,8 @@ msgctxt "pli-tv-bu-vb-pj2:2.0a"
 msgid ""
 msgstr "Second sub-story"
 
-#. HTML: </h3><p>
 # NOTE: The text simply says “the dyers’ spread,” _rajakattharaṇaṃ_, but the commentary qualifies that this refers to their spread of “cloth,” _vatthāni_, see [](Sp.2.298.17).
+#. HTML: </h3><p>
 #. REF: sc18, pts-cs-bu-pj2.2, ms1V_208
 msgctxt "pli-tv-bu-vb-pj2:2.1"
 msgid "Tena kho pana samayena chabbaggiyā bhikkhū raja­kattha­ra­ṇaṃ gantvā rajaka­bhaṇḍi­kaṃ avaharitvā ārāmaṃ haritvā bhājesuṃ."
@@ -980,8 +980,8 @@ msgctxt "pli-tv-bu-vb-pj2:3.35"
 msgid "Corosi bālosi mūḷhosi thenosīti"
 msgstr "You’re a bandit, you’re a fool, you’ve gone astray, you’re a thief:"
 
-#. HTML: </span><span class="gloss">
 # NOTE: Because I have not tried to replicate the structure of the Pali—in this case the subordinate/demonstrative clause structure and the resulting repetitiveness—the next two terms defined in the Pali have no counterpart in my translation. But no information is lost since both terms have already been defined earlier. The two terms in question are _tathārūpaṃ_, which is defined in exactly the same way as _yathārūpaṃ_, “the sort,” and secondly, _ādiyamāno_, which is defined in exactly the same way as _ādiyeyya_, “takes.”
+#. HTML: </span><span class="gloss">
 msgctxt "pli-tv-bu-vb-pj2:3.36"
 msgid "paribhāso eso."
 msgstr "this is a rebuke."
@@ -1995,8 +1995,8 @@ msgctxt "pli-tv-bu-vb-pj2:4.16.5"
 msgid "Ṭhānā cāveti, āpatti pārājikassa."
 msgstr "If he moves it from its base, he commits an offense entailing expulsion."
 
-#. HTML: </p><p>
 # NOTE: The Pali text just says “into,” and I have added “the container holding the water” for clarity.
+#. HTML: </p><p>
 msgctxt "pli-tv-bu-vb-pj2:4.16.6"
 msgid "Attano bhājanaṃ pavesetvā pañcamāsakaṃ vā ati­reka­pañca­māsakaṃ vā agghanakaṃ udakaṃ theyyacitto āmasati, āpatti dukkaṭassa."
 msgstr "If, intending to steal, he puts his own vessel into the container holding the water, and he touches water having a value of five _māsaka_ coins or more than five _māsakas_, he commits an offense of wrong conduct."
@@ -3158,142 +3158,142 @@ msgid "Adinnādānamhi paṭha­ma­bhā­ṇavāro niṭṭhito."
 msgstr "The first section on stealing is finished."
 
 #. HTML: </p><hr><h5>
-msgctxt "pli-tv-bu-vb-pj2:6.4.12"
+msgctxt "pli-tv-bu-vb-pj2:6.4.13"
 msgid "2.1. Vinīta­vatthu­uddāna­gāthā"
 msgstr "Case rulings mnemonic list"
 
 #. HTML: </h5><div class="uddana"><p>
 #. REF: sc92, ms1V_282
-msgctxt "pli-tv-bu-vb-pj2:6.4.13"
+msgctxt "pli-tv-bu-vb-pj2:6.4.14"
 msgid "Rajakehi pañca akkhātā,"
 msgstr "Five are told with dyers,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.14"
+msgctxt "pli-tv-bu-vb-pj2:6.4.15"
 msgid "caturo attharaṇehi ca;"
 msgstr "And four with blankets;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.15"
+msgctxt "pli-tv-bu-vb-pj2:6.4.16"
 msgid "Andhakārena ve pañca,"
 msgstr "Five with darkness,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.16"
+msgctxt "pli-tv-bu-vb-pj2:6.4.17"
 msgid "pañca hāraṇakena ca."
 msgstr "And five with a carrier."
 
 #. HTML: </p><p>
 #. REF: sc93, ms1V_283
-msgctxt "pli-tv-bu-vb-pj2:6.4.17"
+msgctxt "pli-tv-bu-vb-pj2:6.4.18"
 msgid "Niruttiyā pañca akkhātā,"
 msgstr "Five are told with ways of speaking,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.18"
+msgctxt "pli-tv-bu-vb-pj2:6.4.19"
 msgid "vātehi apare duve;"
 msgstr "Another two with wind;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.19"
+msgctxt "pli-tv-bu-vb-pj2:6.4.20"
 msgid "Asambhinne kusāpāto,"
 msgstr "Fresh, the dropping of a grass ticket,"
 
 #. HTML: <br>
 #. VAR: jantaggena → jantāgharena (s1-3) | jantagghena (pts1)
-msgctxt "pli-tv-bu-vb-pj2:6.4.20"
+msgctxt "pli-tv-bu-vb-pj2:6.4.21"
 msgid "jantaggena sahā dasa."
 msgstr "With the sauna it is ten."
 
 #. HTML: </p><p>
 #. REF: sc94, ms1V_284
-msgctxt "pli-tv-bu-vb-pj2:6.4.21"
+msgctxt "pli-tv-bu-vb-pj2:6.4.22"
 msgid "Vighāsehi pañca akkhātā,"
 msgstr "Five are told with animal kills,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.22"
+msgctxt "pli-tv-bu-vb-pj2:6.4.23"
 msgid "pañca ceva amūlakā;"
 msgstr "And five without grounds;"
 
 #. HTML: <br>
 #. VAR: kuramaṃsañca → kūramaṃsañca (s1-3) | kuru-maṃsañ ca (pts1)
-msgctxt "pli-tv-bu-vb-pj2:6.4.23"
+msgctxt "pli-tv-bu-vb-pj2:6.4.24"
 msgid "Dubbhikkhe kuramaṃsañca,"
 msgstr "During a shortage of food: boiled rice, and meat,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.24"
+msgctxt "pli-tv-bu-vb-pj2:6.4.25"
 msgid "pūva­sak­kha­li­modakā."
 msgstr "Biscuits, pastries, confectioneries."
 
 #. HTML: </p><p>
 #. VAR: Cha­parik­khā­ra­thavikā → saparik­khā­ra­thavi­kaṃ (bj) | saparik­khā­ra­thavikā (s1-3, pts1)
 #. REF: sc95, ms1V_285,  
-msgctxt "pli-tv-bu-vb-pj2:6.4.25"
+msgctxt "pli-tv-bu-vb-pj2:6.4.26"
 msgid "Cha­parik­khā­ra­thavikā,"
 msgstr "Six on articles, bag,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.26"
+msgctxt "pli-tv-bu-vb-pj2:6.4.27"
 msgid "bhisivaṃsā na nikkhame;"
 msgstr "Mattress, bamboo, on not coming out;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.27"
+msgctxt "pli-tv-bu-vb-pj2:6.4.28"
 msgid "Khādanīyañca vissāsaṃ,"
 msgstr "And taking food on trust,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.28"
+msgctxt "pli-tv-bu-vb-pj2:6.4.29"
 msgid "sasaññāyapare duve."
 msgstr "Another two on perceiving as one’s own."
 
 #. HTML: </p><p>
 #. REF: sc96, ms1V_286
-msgctxt "pli-tv-bu-vb-pj2:6.4.29"
+msgctxt "pli-tv-bu-vb-pj2:6.4.30"
 msgid "Satta nāvaharāmāti,"
 msgstr "Seven on “We didn’t take,”"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.30"
+msgctxt "pli-tv-bu-vb-pj2:6.4.31"
 msgid "satta ceva avāharuṃ;"
 msgstr "And seven where they did take;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.31"
+msgctxt "pli-tv-bu-vb-pj2:6.4.32"
 msgid "Saṃghassa avaharuṃ satta,"
 msgstr "Seven where they took from the Order,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.32"
+msgctxt "pli-tv-bu-vb-pj2:6.4.33"
 msgid "pupphehi apare duve."
 msgstr "Another two with flowers."
 
 #. HTML: </p><p>
 #. REF: sc97, ms1V_287
-msgctxt "pli-tv-bu-vb-pj2:6.4.33"
+msgctxt "pli-tv-bu-vb-pj2:6.4.34"
 msgid "Tayo ca vuttavādino,"
 msgstr "And three on taking messages,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.34"
+msgctxt "pli-tv-bu-vb-pj2:6.4.35"
 msgid "maṇi tīṇi atikkame;"
 msgstr "Three on taking jewels past;"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.35"
+msgctxt "pli-tv-bu-vb-pj2:6.4.36"
 msgid "Sūkarā ca migā macchā,"
 msgstr "And pigs, deer, fish,"
 
 #. HTML: <br>
-msgctxt "pli-tv-bu-vb-pj2:6.4.36"
+msgctxt "pli-tv-bu-vb-pj2:6.4.37"
 msgid "yānañcāpi pavattayi."
 msgstr "And he set a vehicle in motion."
 
 #. HTML: </p><p>
 #. REF: sc98, ms1V_288
-msgctxt "pli-tv-bu-vb-pj2:6.4.37"
+msgctxt "pli-tv-bu-vb-pj2:6.4.38"
 msgid "Duve pesī duve dārū,"
 msgstr "Two on a piece, two on wood,"
 
@@ -3438,51 +3438,51 @@ msgstr "“There’s no offense for the arising of a thought.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc104, ms1V_294
-msgctxt "pli-tv-bu-vb-pj2:7.2.8"
+msgctxt "pli-tv-bu-vb-pj2:7.2.7"
 msgid "Tena kho pana samayena aññataro bhikkhu raja­kattha­ra­ṇaṃ gantvā mahagghaṃ dussaṃ passitvā theyyacitto āmasi."
 msgstr "On one occasion a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he touched it."
 
-msgctxt "pli-tv-bu-vb-pj2:7.2.9"
+msgctxt "pli-tv-bu-vb-pj2:7.2.8"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.2.10"
+msgctxt "pli-tv-bu-vb-pj2:7.2.9"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.2.11"
+msgctxt "pli-tv-bu-vb-pj2:7.2.10"
 msgid "Āpatti dukkaṭassā”ti. #3"
 msgstr "but there’s an offense of wrong conduct.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc105, ms1V_295
-msgctxt "pli-tv-bu-vb-pj2:7.2.13"
+msgctxt "pli-tv-bu-vb-pj2:7.2.11"
 msgid "Tena kho pana samayena aññataro bhikkhu raja­kattha­ra­ṇaṃ gantvā mahagghaṃ dussaṃ passitvā theyyacitto phandāpesi."
 msgstr "On one occasion a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he made it quiver."
 
-msgctxt "pli-tv-bu-vb-pj2:7.2.14"
+msgctxt "pli-tv-bu-vb-pj2:7.2.12"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.2.15"
+msgctxt "pli-tv-bu-vb-pj2:7.2.13"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.2.16"
+msgctxt "pli-tv-bu-vb-pj2:7.2.14"
 msgid "Āpatti thullaccayassā”ti. #4"
 msgstr "but there’s a serious offense.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc106, ms1V_296
-msgctxt "pli-tv-bu-vb-pj2:7.2.18"
+msgctxt "pli-tv-bu-vb-pj2:7.2.15"
 msgid "Tena kho pana samayena aññataro bhikkhu raja­kattha­ra­ṇaṃ gantvā mahagghaṃ dussaṃ passitvā theyyacitto ṭhānā cāvesi."
 msgstr "On one occasion a monk went to the dyers’ spread of cloth, saw a valuable garment, and intending to steal it, he moved it from its base."
 
-msgctxt "pli-tv-bu-vb-pj2:7.2.19"
+msgctxt "pli-tv-bu-vb-pj2:7.2.16"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.2.20"
+msgctxt "pli-tv-bu-vb-pj2:7.2.17"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #5"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -3548,27 +3548,27 @@ msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><p>
 #. REF: sc109, pts-vp-pli3.57, ms1V_299
-msgctxt "pli-tv-bu-vb-pj2:7.4.10"
+msgctxt "pli-tv-bu-vb-pj2:7.4.9"
 msgid "Tena kho pana samayena aññataro bhikkhu divā bhaṇḍaṃ passitvā nimittaṃ akāsi—"
 msgstr "On one occasion a monk saw some goods during the day, and he took note of them with the thought,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.4.11"
+msgctxt "pli-tv-bu-vb-pj2:7.4.10"
 msgid "“rattiṃ avaharissāmī”ti."
 msgstr "“I’ll steal them at night.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.4.12"
+msgctxt "pli-tv-bu-vb-pj2:7.4.11"
 msgid "So taṃ maññamāno attano bhaṇḍaṃ avahari."
 msgstr "But he stole his own goods, thinking they were the ones he had seen."
 
-msgctxt "pli-tv-bu-vb-pj2:7.4.13"
+msgctxt "pli-tv-bu-vb-pj2:7.4.12"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.4.14"
+msgctxt "pli-tv-bu-vb-pj2:7.4.13"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.4.15"
+msgctxt "pli-tv-bu-vb-pj2:7.4.14"
 msgid "Āpatti dukkaṭassā”ti. #14"
 msgstr "but there’s an offense of wrong conduct.”"
 
@@ -3688,106 +3688,106 @@ msgstr "“If it was just a way of speaking, there’s no offense.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc112, ms1V_302
-msgctxt "pli-tv-bu-vb-pj2:7.6.15"
+msgctxt "pli-tv-bu-vb-pj2:7.6.14"
 msgid "Tena kho pana samayena aññataro bhikkhu pīṭhe cīvaraṃ nikkhipitvā."
 msgstr "On one occasion a monk put down his robe on a bench …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.16"
+msgctxt "pli-tv-bu-vb-pj2:7.6.15"
 msgid "Pīṭhe nisīdanaṃ nikkhipitvā …"
 msgstr "put down his sitting-mat on a bench …"
 
 # NOTE: I have added one set of ellipses points that seems to be missing from the Pali of MS.1.302.
-msgctxt "pli-tv-bu-vb-pj2:7.6.17"
+msgctxt "pli-tv-bu-vb-pj2:7.6.16"
 msgid "heṭṭhāpīṭhe pattaṃ nikkhipitvā vihāraṃ pāvisi."
 msgstr "put his bowl under a bench and entered his dwelling."
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.18"
+msgctxt "pli-tv-bu-vb-pj2:7.6.17"
 msgid "Aññataro bhikkhu—"
 msgstr "A second monk, thinking,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.19"
+msgctxt "pli-tv-bu-vb-pj2:7.6.18"
 msgid "“māyaṃ patto nassī”ti paṭisāmesi."
 msgstr "“May it not be lost,” put it away."
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.20"
+msgctxt "pli-tv-bu-vb-pj2:7.6.19"
 msgid "So nikkhamitvā taṃ bhikkhuṃ pucchi—"
 msgstr "The first monk came out and asked the monks,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.21"
+msgctxt "pli-tv-bu-vb-pj2:7.6.20"
 msgid "“āvuso, mayhaṃ patto kena avahaṭo”ti?"
 msgstr "“Who’s taken my bowl?”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.22"
+msgctxt "pli-tv-bu-vb-pj2:7.6.21"
 msgid "So evamāha—"
 msgstr "The second monk said,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.23"
+msgctxt "pli-tv-bu-vb-pj2:7.6.22"
 msgid "“mayā avahaṭo”ti."
 msgstr "“I’ve taken it.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.24"
+msgctxt "pli-tv-bu-vb-pj2:7.6.23"
 msgid "So taṃ ādiyi, “assamaṇosi tvan”ti."
 msgstr "The first monk took hold of him and said, “You’re no longer an ascetic.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.25"
+msgctxt "pli-tv-bu-vb-pj2:7.6.24"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "The second monk became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.26"
+msgctxt "pli-tv-bu-vb-pj2:7.6.25"
 msgid "“anāpatti, bhikkhu, niruttipathe”ti. #27–‍29"
 msgstr "“If it was just a way of speaking, there’s no offense.”"
 
 #. HTML: </p><hr><p><span class="bhikkhuni">
 #. REF: sc113, ms1V_303
-msgctxt "pli-tv-bu-vb-pj2:7.6.28"
+msgctxt "pli-tv-bu-vb-pj2:7.6.26"
 msgid "Tena kho pana samayena aññatarā bhikkhunī vatiyā cīvaraṃ pattharitvā vihāraṃ pāvisi."
 msgstr "On one occasion a nun spread out her robe on a fence and entered her dwelling."
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.29"
+msgctxt "pli-tv-bu-vb-pj2:7.6.27"
 msgid "Aññatarā bhikkhunī—"
 msgstr "A second nun, thinking,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.30"
+msgctxt "pli-tv-bu-vb-pj2:7.6.28"
 msgid "“māyidaṃ cīvaraṃ nassī”ti paṭisāmesi."
 msgstr "“May it not be lost,” put it away."
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.31"
+msgctxt "pli-tv-bu-vb-pj2:7.6.29"
 msgid "Sā nikkhamitvā taṃ bhikkhuniṃ pucchi—"
 msgstr "The first nun came out and asked the nuns,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.32"
+msgctxt "pli-tv-bu-vb-pj2:7.6.30"
 msgid "“ayye, mayhaṃ cīvaraṃ kena avahaṭan”ti?"
 msgstr "“Venerables, who’s taken my robe?”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.33"
+msgctxt "pli-tv-bu-vb-pj2:7.6.31"
 msgid "Sā evamāha—"
 msgstr "The second nun said,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.34"
+msgctxt "pli-tv-bu-vb-pj2:7.6.32"
 msgid "“mayā avahaṭan”ti."
 msgstr "“I’ve taken it.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.35"
+msgctxt "pli-tv-bu-vb-pj2:7.6.33"
 msgid "“Sā taṃ ādiyi, assamaṇīsi tvan”ti."
 msgstr "The first nun took hold of her and said, “You’re no longer an ascetic.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.36"
+msgctxt "pli-tv-bu-vb-pj2:7.6.34"
 msgid "Tassā kukkuccaṃ ahosi … pe …."
 msgstr "The second nun became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.37"
+msgctxt "pli-tv-bu-vb-pj2:7.6.35"
 msgid "Atha kho sā bhikkhunī bhikkhunīnaṃ etamatthaṃ ārocesi."
 msgstr "She told the nuns,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.38"
+msgctxt "pli-tv-bu-vb-pj2:7.6.36"
 msgid "Bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ."
 msgstr "who in turn told the monks,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.39"
+msgctxt "pli-tv-bu-vb-pj2:7.6.37"
 msgid "Bhikkhū bhagavato etamatthaṃ ārocesuṃ … pe …"
 msgstr "who in turn told the Master. …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.6.40"
+msgctxt "pli-tv-bu-vb-pj2:7.6.38"
 msgid "“anāpatti, bhikkhave, niruttipathe”ti. #30"
 msgstr "“If it was just a way of speaking, there’s no offense.”"
 
@@ -3826,27 +3826,27 @@ msgstr "“There’s no offense for one who doesn’t intend to steal.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc115, ms1V_305
-msgctxt "pli-tv-bu-vb-pj2:7.7.9"
+msgctxt "pli-tv-bu-vb-pj2:7.7.8"
 msgid "Tena kho pana samayena aññataro bhikkhu vāta­maṇḍa­li­kāya ukkhittaṃ veṭhanaṃ passitvā—"
 msgstr "On one occasion a monk took hold of a turban that had been blown up by a whirlwind,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.7.10"
+msgctxt "pli-tv-bu-vb-pj2:7.7.9"
 msgid "“pure sāmikā passantī”ti theyyacitto aggahesi."
 msgstr "intending to steal it before the owners saw it."
 
-msgctxt "pli-tv-bu-vb-pj2:7.7.11"
+msgctxt "pli-tv-bu-vb-pj2:7.7.10"
 msgid "Sāmikā taṃ bhikkhuṃ codesuṃ—"
 msgstr "The owners accused him, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.7.12"
+msgctxt "pli-tv-bu-vb-pj2:7.7.11"
 msgid "“assamaṇosi tvan”ti."
 msgstr "“You’re no longer an ascetic.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.7.13"
+msgctxt "pli-tv-bu-vb-pj2:7.7.12"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.7.14"
+msgctxt "pli-tv-bu-vb-pj2:7.7.13"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #32"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -3960,27 +3960,27 @@ msgstr "“There’s no offense when it’s the remains of a lion’s kill.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc120, ms1V_310
-msgctxt "pli-tv-bu-vb-pj2:7.11.5"
+msgctxt "pli-tv-bu-vb-pj2:7.11.4"
 msgid "Tena kho pana samayena sambahulā bhikkhū gijjhakūṭā pabbatā orohantā byag­gha­vighā­saṃ passitvā …"
 msgstr "On one occasion a number of monks were descending from Mount Vulture Peak when they saw the remains of a tiger’s kill …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.11.6"
+msgctxt "pli-tv-bu-vb-pj2:7.11.5"
 msgid "dīpivighāsaṃ passitvā …"
 msgstr "saw the remains of a panther’s kill …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.11.7"
+msgctxt "pli-tv-bu-vb-pj2:7.11.6"
 msgid "tarac­cha­vighā­saṃ passitvā …"
 msgstr "saw the remains of a hyena’s kill …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.11.8"
+msgctxt "pli-tv-bu-vb-pj2:7.11.7"
 msgid "kokavighāsaṃ passitvā pacāpetvā paribhuñjiṃsu."
 msgstr "saw the remains of a wolf’s kill. They had it cooked …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.11.9"
+msgctxt "pli-tv-bu-vb-pj2:7.11.8"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj2:7.11.10"
+msgctxt "pli-tv-bu-vb-pj2:7.11.9"
 msgid "“anāpatti, bhikkhave, tiracchā­na­gata­parig­gahe”ti. #37–‍40"
 msgstr "“There’s no offense when it’s the possession of an animal.”"
 
@@ -4008,36 +4008,36 @@ msgstr "but there’s an offense entailing confession for lying.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc122, ms1V_312
-msgctxt "pli-tv-bu-vb-pj2:7.12.7"
+msgctxt "pli-tv-bu-vb-pj2:7.12.6"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa khādanīye bhājīyamāne …"
 msgstr "On one occasion when food belonging to the Order was being distributed …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.12.8"
+msgctxt "pli-tv-bu-vb-pj2:7.12.7"
 msgid "saṃghassa pūve bhājīyamāne …"
 msgstr "when biscuits belonging to the Order were being distributed …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.12.9"
+msgctxt "pli-tv-bu-vb-pj2:7.12.8"
 msgid "saṃghassa ucchumhi bhājīyamāne …"
 msgstr "when sugar-cane belonging to the Order was being distributed …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.12.10"
+msgctxt "pli-tv-bu-vb-pj2:7.12.9"
 msgid "saṃghassa timbarūsake bhājīyamāne—"
 msgstr "when _timbarūsaka_ fruits belonging to the Order were being distributed,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.12.11"
+msgctxt "pli-tv-bu-vb-pj2:7.12.10"
 msgid "“aparassa bhāgaṃ dehī”ti amūlakaṃ aggahesi."
 msgstr "a monk said without having a proper reason, “Give me a portion for someone else,” and he took it away."
 
 #. REF: pts-vp-en1.99
-msgctxt "pli-tv-bu-vb-pj2:7.12.12"
+msgctxt "pli-tv-bu-vb-pj2:7.12.11"
 msgid "Tassa kukkuccaṃ ahosi … pe …."
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.12.13"
+msgctxt "pli-tv-bu-vb-pj2:7.12.12"
 msgid "“Anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.12.14"
+msgctxt "pli-tv-bu-vb-pj2:7.12.13"
 msgid "Āpatti sam­pajā­na­musā­vāde pācittiyassā”ti. #42–‍45"
 msgstr "but there’s an offense entailing confession for lying.”"
 
@@ -4058,37 +4058,37 @@ msgstr "“You have committed an offense entailing expulsion.”"
 #. HTML: </p><hr><p>
 #. VAR: sūnagharaṃ → sūnāgharaṃ (bj)
 #. REF: sc124, ms1V_314,  
-msgctxt "pli-tv-bu-vb-pj2:7.13.5"
+msgctxt "pli-tv-bu-vb-pj2:7.13.4"
 msgid "Tena kho pana samayena aññataro bhikkhu dubbhikkhe sūnagharaṃ pavisitvā pattapūraṃ maṃsaṃ theyyacitto avahari."
 msgstr "On one occasion during a shortage of food, a monk, intending to steal, entered a slaughterhouse and took a bowlful of meat."
 
-msgctxt "pli-tv-bu-vb-pj2:7.13.6"
+msgctxt "pli-tv-bu-vb-pj2:7.13.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "…"
 
-msgctxt "pli-tv-bu-vb-pj2:7.13.7"
+msgctxt "pli-tv-bu-vb-pj2:7.13.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #47"
 msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc125, ms1V_315
-msgctxt "pli-tv-bu-vb-pj2:7.13.9"
+msgctxt "pli-tv-bu-vb-pj2:7.13.7"
 msgid "Tena kho pana samayena aññataro bhikkhu dubbhikkhe pūvagharaṃ pavisitvā pattapūraṃ pūvaṃ theyyacitto avahari … pe …"
 msgstr "On one occasion during a shortage of food, a monk, intending to steal, entered a bakery and took a bowlful of biscuits …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.13.10"
+msgctxt "pli-tv-bu-vb-pj2:7.13.8"
 msgid "pattapūrā sakkhaliyo theyyacitto avahari … pe …"
 msgstr "took a bowlful of pastries …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.13.11"
+msgctxt "pli-tv-bu-vb-pj2:7.13.9"
 msgid "pattapūre modake theyyacitto avahari."
 msgstr "took a bowlful of confectioneries."
 
-msgctxt "pli-tv-bu-vb-pj2:7.13.12"
+msgctxt "pli-tv-bu-vb-pj2:7.13.10"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.13.13"
+msgctxt "pli-tv-bu-vb-pj2:7.13.11"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #48–‍50"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -4128,27 +4128,27 @@ msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc127, ms1V_317
-msgctxt "pli-tv-bu-vb-pj2:7.14.10"
+msgctxt "pli-tv-bu-vb-pj2:7.14.9"
 msgid "Tena kho pana samayena aññataro bhikkhu divā parikkhāraṃ passitvā nimittaṃ akāsi—"
 msgstr "On one occasion a monk saw an article during the day, and he took note of it with the thought,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.14.11"
+msgctxt "pli-tv-bu-vb-pj2:7.14.10"
 msgid "“rattiṃ avaharissāmī”ti."
 msgstr "“I’ll steal it at night.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.14.12"
+msgctxt "pli-tv-bu-vb-pj2:7.14.11"
 msgid "So taṃ maññamāno attano parikkhāraṃ avahari."
 msgstr "But he took his own article, thinking it was what he had seen."
 
-msgctxt "pli-tv-bu-vb-pj2:7.14.13"
+msgctxt "pli-tv-bu-vb-pj2:7.14.12"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.14.14"
+msgctxt "pli-tv-bu-vb-pj2:7.14.13"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.14.15"
+msgctxt "pli-tv-bu-vb-pj2:7.14.14"
 msgid "Āpatti dukkaṭassā”ti. #55"
 msgstr "but there’s an offense of wrong conduct.”"
 
@@ -4308,31 +4308,31 @@ msgstr "“There’s no offense for one who perceives it as his own.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc134, ms1V_324
-msgctxt "pli-tv-bu-vb-pj2:7.20.11"
+msgctxt "pli-tv-bu-vb-pj2:7.20.10"
 msgid "Tena kho pana samayena sambahulā bhikkhū cīvarakammaṃ karonti."
 msgstr "On one occasion a number of monks were making robes."
 
-msgctxt "pli-tv-bu-vb-pj2:7.20.12"
+msgctxt "pli-tv-bu-vb-pj2:7.20.11"
 msgid "Saṃghassa khādanīye bhājīyamāne aññatarassa bhikkhuno pattena aññatarassa bhikkhuno paṭiviso āharitvā upanikkhitto hoti."
 msgstr "When food belonging to the Order was being distributed, they brought a certain monk’s share in the bowl of another monk and put it aside."
 
-msgctxt "pli-tv-bu-vb-pj2:7.20.13"
+msgctxt "pli-tv-bu-vb-pj2:7.20.12"
 msgid "Pattasāmiko bhikkhu attano maññamāno paribhuñji."
 msgstr "The monk who was the owner of the bowl ate the food, thinking it was his own."
 
-msgctxt "pli-tv-bu-vb-pj2:7.20.14"
+msgctxt "pli-tv-bu-vb-pj2:7.20.13"
 msgid "So jānitvā taṃ codesi—"
 msgstr "Finding out about this, the owner of the food accused him"
 
-msgctxt "pli-tv-bu-vb-pj2:7.20.15"
+msgctxt "pli-tv-bu-vb-pj2:7.20.14"
 msgid "“assamaṇosi tvan”ti."
 msgstr "…"
 
-msgctxt "pli-tv-bu-vb-pj2:7.20.16"
+msgctxt "pli-tv-bu-vb-pj2:7.20.15"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj2:7.20.17"
+msgctxt "pli-tv-bu-vb-pj2:7.20.16"
 msgid "“anāpatti, bhikkhu, sakasaññissā”ti. #62"
 msgstr "“There’s no offense for one who perceives it as his own.”"
 
@@ -4387,56 +4387,56 @@ msgstr "“There’s no offense for one who perceives something as discarded.”
 
 #. HTML: </p><hr><p>
 #. REF: sc136, ms1V_326
-msgctxt "pli-tv-bu-vb-pj2:7.21.13"
+msgctxt "pli-tv-bu-vb-pj2:7.21.12"
 msgid "Tena kho pana samayena jambucorakā …"
 msgstr "On one occasion black plum thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.14"
+msgctxt "pli-tv-bu-vb-pj2:7.21.13"
 msgid "labujacorakā …"
 msgstr "bread-fruit thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.15"
+msgctxt "pli-tv-bu-vb-pj2:7.21.14"
 msgid "panasacorakā …"
 msgstr "jack-fruit thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.16"
+msgctxt "pli-tv-bu-vb-pj2:7.21.15"
 msgid "­tālapak­ka­corakā …"
 msgstr "palm-fruit thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.17"
+msgctxt "pli-tv-bu-vb-pj2:7.21.16"
 msgid "ucchucorakā …"
 msgstr "sugar-cane thieves …"
 
 #. REF: pts-vp-pli3.61
-msgctxt "pli-tv-bu-vb-pj2:7.21.18"
+msgctxt "pli-tv-bu-vb-pj2:7.21.17"
 msgid "tim­barū­saka­corakā timbarūsake uccinitvā bhaṇḍikaṃ ādāya agamaṃsu."
 msgstr "thieves of _timbarūsaka_ fruit took some, collected them in a bundle, and left."
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.19"
+msgctxt "pli-tv-bu-vb-pj2:7.21.18"
 msgid "Sāmikā te corake anubandhiṃsu."
 msgstr "The owners pursued them."
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.20"
+msgctxt "pli-tv-bu-vb-pj2:7.21.19"
 msgid "Corakā sāmike passitvā bhaṇḍikaṃ pātetvā palāyiṃsu."
 msgstr "When they saw the owners, the thieves dropped the bundle and ran away."
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.21"
+msgctxt "pli-tv-bu-vb-pj2:7.21.20"
 msgid "Bhikkhū paṃsu­kūla­saññino paṭiggahāpetvā paribhuñjiṃsu."
 msgstr "Some monks, who perceived the mangoes as discarded, had them offered and ate them."
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.22"
+msgctxt "pli-tv-bu-vb-pj2:7.21.21"
 msgid "Sāmikā te bhikkhū codesuṃ—"
 msgstr "But the owners accused them, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.23"
+msgctxt "pli-tv-bu-vb-pj2:7.21.22"
 msgid "“assamaṇāttha tumhe”ti."
 msgstr "“You’re no longer ascetics.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.24"
+msgctxt "pli-tv-bu-vb-pj2:7.21.23"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr "They became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.21.25"
+msgctxt "pli-tv-bu-vb-pj2:7.21.24"
 msgid "“anāpatti, bhikkhave, paṃsu­kūla­saññissā”ti. #64–‍69"
 msgstr "“There’s no offense for one who perceives something as discarded.”"
 
@@ -4476,55 +4476,55 @@ msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc138, ms1V_328
-msgctxt "pli-tv-bu-vb-pj2:7.22.10"
+msgctxt "pli-tv-bu-vb-pj2:7.22.9"
 msgid "Tena kho pana samayena jambucorakā …"
 msgstr "On one occasion black plum thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.11"
+msgctxt "pli-tv-bu-vb-pj2:7.22.10"
 msgid "labujacorakā …"
 msgstr "bread-fruit thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.12"
+msgctxt "pli-tv-bu-vb-pj2:7.22.11"
 msgid "panasacorakā …"
 msgstr "jack-fruit thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.13"
+msgctxt "pli-tv-bu-vb-pj2:7.22.12"
 msgid "­tālapak­ka­corakā …"
 msgstr "palm-fruit thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.14"
+msgctxt "pli-tv-bu-vb-pj2:7.22.13"
 msgid "ucchucorakā …"
 msgstr "sugar-cane thieves …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.15"
+msgctxt "pli-tv-bu-vb-pj2:7.22.14"
 msgid "tim­barū­saka­corakā timbarūsake uccinitvā bhaṇḍikaṃ ādāya agamaṃsu."
 msgstr "thieves of _timbarūsaka_ fruit took some, collected them in a bundle, and left."
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.16"
+msgctxt "pli-tv-bu-vb-pj2:7.22.15"
 msgid "Sāmikā te corake anubandhiṃsu."
 msgstr "The owners pursued them."
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.17"
+msgctxt "pli-tv-bu-vb-pj2:7.22.16"
 msgid "Corakā sāmike passitvā bhaṇḍikaṃ pātetvā palāyiṃsu."
 msgstr "When they saw the owners, the thieves dropped the bundle and ran away."
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.18"
+msgctxt "pli-tv-bu-vb-pj2:7.22.17"
 msgid "Bhikkhū—“pure sāmikā passantī”ti, theyyacittā paribhuñjiṃsu."
 msgstr "Some monks, intending to steal them before the owners saw it, ate them."
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.19"
+msgctxt "pli-tv-bu-vb-pj2:7.22.18"
 msgid "Sāmikā te bhikkhū codesuṃ—"
 msgstr "The owners accused those monks, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.20"
+msgctxt "pli-tv-bu-vb-pj2:7.22.19"
 msgid "“assamaṇāttha tumhe”ti."
 msgstr "“You’re no longer ascetics.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.21"
+msgctxt "pli-tv-bu-vb-pj2:7.22.20"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr "They became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.22.22"
+msgctxt "pli-tv-bu-vb-pj2:7.22.21"
 msgid "“āpattiṃ tumhe, bhikkhave, āpannā pārājikan”ti. #71–‍76"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -4582,15 +4582,15 @@ msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc141, ms1V_331
-msgctxt "pli-tv-bu-vb-pj2:7.24.5"
+msgctxt "pli-tv-bu-vb-pj2:7.24.4"
 msgid "Tena kho pana samayena aññataro bhikkhu pupphārāmaṃ gantvā pupphaṃ ocinitvā pañca­mā­saggha­nakaṃ theyyacitto avahari."
 msgstr "On one occasion a monk went to a flower-garden, and intending to steal it, he picked a flower worth five _māsaka_ coins and took it away."
 
-msgctxt "pli-tv-bu-vb-pj2:7.24.6"
+msgctxt "pli-tv-bu-vb-pj2:7.24.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.24.7"
+msgctxt "pli-tv-bu-vb-pj2:7.24.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #85"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -4637,92 +4637,92 @@ msgstr "If you do, you commit an offense of wrong conduct.”"
 
 #. HTML: </span> </p><hr><p>
 #. REF: sc143, ms1V_333
-msgctxt "pli-tv-bu-vb-pj2:7.25.11"
+msgctxt "pli-tv-bu-vb-pj2:7.25.10"
 msgid "Tena kho pana samayena aññataro bhikkhu gāmakaṃ gacchati."
 msgstr "On one occasion a certain monk was going to the village."
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.12"
+msgctxt "pli-tv-bu-vb-pj2:7.25.11"
 msgid "Aññataro bhikkhu taṃ bhikkhuṃ etadavoca—"
 msgstr "Another monk said to him, "
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.13"
+msgctxt "pli-tv-bu-vb-pj2:7.25.12"
 msgid "“āvuso, mayhaṃ upaṭṭhākakulaṃ vutto vajjehī”ti."
 msgstr "“Please take a message to the family that supports me.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.14"
+msgctxt "pli-tv-bu-vb-pj2:7.25.13"
 msgid "So gantvā yugasāṭakaṃ āharāpetvā ekaṃ attanā paribhuñji, ekaṃ tassa bhikkhuno adāsi."
 msgstr "He went there and brought back a pair of robes. He used one himself and gave the other to the other monk."
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.15"
+msgctxt "pli-tv-bu-vb-pj2:7.25.14"
 msgid "So jānitvā taṃ codesi—"
 msgstr "The other monk, finding out about this, accused him, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.16"
+msgctxt "pli-tv-bu-vb-pj2:7.25.15"
 msgid "“assamaṇosi tvan”ti."
 msgstr "“You’re no longer an ascetic.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.17"
+msgctxt "pli-tv-bu-vb-pj2:7.25.16"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.18"
+msgctxt "pli-tv-bu-vb-pj2:7.25.17"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
 #. HTML: <span class="rule"> 
-msgctxt "pli-tv-bu-vb-pj2:7.25.19"
+msgctxt "pli-tv-bu-vb-pj2:7.25.18"
 msgid "Na ca, bhikkhave, vutto vajjehīti vattabbo."
 msgstr "But you shouldn’t say, ‘Please take a message.’"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.20"
+msgctxt "pli-tv-bu-vb-pj2:7.25.19"
 msgid "Yo vadeyya, āpatti dukkaṭassā”ti. #87"
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
 #. HTML: </span> </p><hr><p>
 #. REF: sc144, ms1V_334, pts-vp-pli3.62
-msgctxt "pli-tv-bu-vb-pj2:7.25.22"
+msgctxt "pli-tv-bu-vb-pj2:7.25.20"
 msgid "Tena kho pana samayena aññataro bhikkhu gāmakaṃ gacchanto aññataraṃ bhikkhuṃ etadavoca—"
 msgstr "On one occasion, as he was going to the village, a monk said to another monk,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.23"
+msgctxt "pli-tv-bu-vb-pj2:7.25.21"
 msgid "“āvuso, tuyhaṃ upaṭṭhākakulaṃ vutto vajjemī”ti."
 msgstr "“I can take a message to the family that supports you.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.24"
+msgctxt "pli-tv-bu-vb-pj2:7.25.22"
 msgid "Sopi evamāha—"
 msgstr "He replied,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.25"
+msgctxt "pli-tv-bu-vb-pj2:7.25.23"
 msgid "“vutto vajjehī”ti."
 msgstr "“Please do.”"
 
 #. REF: pts-vp-en1.104
-msgctxt "pli-tv-bu-vb-pj2:7.25.26"
+msgctxt "pli-tv-bu-vb-pj2:7.25.24"
 msgid "So gantvā āḷhakaṃ sappiṃ tulaṃ guḷaṃ doṇaṃ taṇḍulaṃ āharāpetvā attanā paribhuñji."
 msgstr "He went there and brought back an _āḷhaka_ measure of ghee, a _tulā_ measure of sugar, and a _doṇa_ measure of husked rice, which he ate himself."
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.27"
+msgctxt "pli-tv-bu-vb-pj2:7.25.25"
 msgid "So jānitvā taṃ codesi—"
 msgstr "The other monk, finding out about this, accused him, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.28"
+msgctxt "pli-tv-bu-vb-pj2:7.25.26"
 msgid "“assamaṇosi tvan”ti."
 msgstr "“You’re no longer an ascetic.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.29"
+msgctxt "pli-tv-bu-vb-pj2:7.25.27"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.30"
+msgctxt "pli-tv-bu-vb-pj2:7.25.28"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion."
 
 #. HTML: <span class="rule"> 
-msgctxt "pli-tv-bu-vb-pj2:7.25.31"
+msgctxt "pli-tv-bu-vb-pj2:7.25.29"
 msgid "Na ca, bhikkhave, vutto vajjemīti vattabbo, na ca vutto vajjehīti vattabbo."
 msgstr "But you should not say, ‘I can take a message;’ nor should you say, ‘Please do.’"
 
-msgctxt "pli-tv-bu-vb-pj2:7.25.32"
+msgctxt "pli-tv-bu-vb-pj2:7.25.30"
 msgid "Yo vadeyya, āpatti dukkaṭassā”ti. #88"
 msgstr "If you do, you commit an offense of wrong conduct.”"
 
@@ -4757,75 +4757,75 @@ msgstr "“There’s no offense for one who doesn’t know.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc146, ms1V_336
-msgctxt "pli-tv-bu-vb-pj2:7.26.8"
+msgctxt "pli-tv-bu-vb-pj2:7.26.7"
 msgid "Tena kho pana samayena aññataro puriso mahagghaṃ maṇiṃ ādāya aññatarena bhikkhunā saddhiṃ addhā­na­maggap­paṭi­panno hoti."
 msgstr "At one time a man who was carrying a valuable jewel was walking along a main road together with a monk."
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.9"
+msgctxt "pli-tv-bu-vb-pj2:7.26.8"
 msgid "Atha kho so puriso suṅkaṭṭhānaṃ passitvā gilānālayaṃ karitvā attano bhaṇḍikaṃ tassa bhikkhuno adāsi."
 msgstr "The man saw a customs station, and pretending to be sick, he gave his own bag to the monk."
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.10"
+msgctxt "pli-tv-bu-vb-pj2:7.26.9"
 msgid "Atha kho so puriso suṅkaṭṭhānaṃ atikkamitvā taṃ bhikkhuṃ etadavoca—"
 msgstr "When they had passed the customs station, he said to the monk,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.11"
+msgctxt "pli-tv-bu-vb-pj2:7.26.10"
 msgid "“āhara me, bhante, bhaṇḍikaṃ;"
 msgstr "“Give me my bag, Venerable,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.12"
+msgctxt "pli-tv-bu-vb-pj2:7.26.11"
 msgid "nāhaṃ akallako”ti."
 msgstr " I’m not sick.”"
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-pj2:7.26.13"
+msgctxt "pli-tv-bu-vb-pj2:7.26.12"
 msgid "“Kissa pana tvaṃ, āvuso, evarūpaṃ akāsī”ti?"
 msgstr "“Then why did you say so?”"
 
 #. HTML: </p><p>
-msgctxt "pli-tv-bu-vb-pj2:7.26.14"
+msgctxt "pli-tv-bu-vb-pj2:7.26.13"
 msgid "Atha kho so puriso tassa bhikkhuno etamatthaṃ ārocesi."
 msgstr "The man told the monk."
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.15"
+msgctxt "pli-tv-bu-vb-pj2:7.26.14"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.16"
+msgctxt "pli-tv-bu-vb-pj2:7.26.15"
 msgid "“kiṃcitto tvaṃ, bhikkhū”ti?"
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.17"
+msgctxt "pli-tv-bu-vb-pj2:7.26.16"
 msgid "“Nāhaṃ, bhagavā, jānāmī”ti."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.18"
+msgctxt "pli-tv-bu-vb-pj2:7.26.17"
 msgid "“Anāpatti, bhikkhu, ajānantassā”ti. #90"
 msgstr "“There’s no offense for one who does not know.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc147, ms1V_337, pts-vp-en1.105
-msgctxt "pli-tv-bu-vb-pj2:7.26.20"
+msgctxt "pli-tv-bu-vb-pj2:7.26.18"
 msgid "Tena kho pana samayena aññataro bhikkhu satthena saddhiṃ addhā­na­maggap­paṭi­panno hoti."
 msgstr "At one time a monk was traveling along a main road together with a group of travelers."
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.21"
+msgctxt "pli-tv-bu-vb-pj2:7.26.19"
 msgid "Aññataro puriso taṃ bhikkhuṃ āmisena upalāpetvā suṅkaṭṭhānaṃ passitvā mahagghaṃ maṇiṃ tassa bhikkhuno adāsi—"
 msgstr "A man befriended that monk with a gift. Seeing a customs station, he gave the monk a valuable jewel, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.22"
+msgctxt "pli-tv-bu-vb-pj2:7.26.20"
 msgid "“imaṃ, bhante, maṇiṃ suṅkaṭṭhānaṃ atikkāmehī”ti."
 msgstr "“Venerable, please take this jewel past the customs.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.23"
+msgctxt "pli-tv-bu-vb-pj2:7.26.21"
 msgid "Atha kho so bhikkhu taṃ maṇiṃ suṅkaṭṭhānaṃ atikkāmesi."
 msgstr "And the monk took the jewel past the customs station."
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.24"
+msgctxt "pli-tv-bu-vb-pj2:7.26.22"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.26.25"
+msgctxt "pli-tv-bu-vb-pj2:7.26.23"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #91"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -4855,54 +4855,54 @@ msgstr "“There’s no offense for one who is motivated by compassion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc149, ms1V_339
-msgctxt "pli-tv-bu-vb-pj2:7.27.7"
+msgctxt "pli-tv-bu-vb-pj2:7.27.6"
 msgid "Tena kho pana samayena aññataro bhikkhu pāse bandhaṃ sūkaraṃ—"
 msgstr "On one occasion a monk released a pig trapped in a snare,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.8"
+msgctxt "pli-tv-bu-vb-pj2:7.27.7"
 msgid "“pure sāmikā passantī”ti, theyyacitto muñci."
 msgstr "intending to steal it before the owners saw it."
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.9"
+msgctxt "pli-tv-bu-vb-pj2:7.27.8"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.10"
+msgctxt "pli-tv-bu-vb-pj2:7.27.9"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #93"
 msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc150, ms1V_340
-msgctxt "pli-tv-bu-vb-pj2:7.27.12"
+msgctxt "pli-tv-bu-vb-pj2:7.27.10"
 msgid "Tena kho pana samayena aññataro bhikkhu pāse bandhaṃ migaṃ kāruññena muñci …"
 msgstr "On one occasion a monk, feeling compassion, released a deer trapped in a snare. … “There’s no offense for one who is motivated by compassion.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.13"
+msgctxt "pli-tv-bu-vb-pj2:7.27.11"
 msgid "pāse bandhaṃ migaṃ—"
 msgstr "he released a deer trapped in a snare,"
 
 #. REF: pts-vp-pli3.63
-msgctxt "pli-tv-bu-vb-pj2:7.27.14"
+msgctxt "pli-tv-bu-vb-pj2:7.27.12"
 msgid "“pure sāmikā passantī”ti, theyyacitto muñci …"
 msgstr "intending to steal it before the owners saw it. … “You have committed an offense entailing expulsion.” …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.15"
+msgctxt "pli-tv-bu-vb-pj2:7.27.13"
 msgid "kumine bandhe macche kāruññena muñci …"
 msgstr "feeling compassion, released fish trapped in a fish-net … “There’s no offense for one who is motivated by compassion.” …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.16"
+msgctxt "pli-tv-bu-vb-pj2:7.27.14"
 msgid "kumine bandhe macche—"
 msgstr "he released fish trapped in a fish-net,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.17"
+msgctxt "pli-tv-bu-vb-pj2:7.27.15"
 msgid "“pure sāmikā passantī”ti theyyacitto muñci."
 msgstr "intending to steal them before the owners saw it."
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.18"
+msgctxt "pli-tv-bu-vb-pj2:7.27.16"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.27.19"
+msgctxt "pli-tv-bu-vb-pj2:7.27.17"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #94–‍97"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -4957,27 +4957,27 @@ msgstr "“There’s no offense for one who does not intend to steal.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc153, pts-vp-en1.106, ms1V_343
-msgctxt "pli-tv-bu-vb-pj2:7.29.8"
+msgctxt "pli-tv-bu-vb-pj2:7.29.7"
 msgid "Tena kho pana samayena aññataro bhikkhu kulalena ukkhittaṃ maṃsapesiṃ—"
 msgstr "On one occasion a monk seized a piece of flesh taken up by a hawk,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.29.9"
+msgctxt "pli-tv-bu-vb-pj2:7.29.8"
 msgid "“pure sāmikā passantī”ti, theyyacitto aggahesi."
 msgstr "intending to steal it before the owners saw it."
 
-msgctxt "pli-tv-bu-vb-pj2:7.29.10"
+msgctxt "pli-tv-bu-vb-pj2:7.29.9"
 msgid "Sāmikā taṃ bhikkhuṃ codesuṃ—"
 msgstr "The owners accused him, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.29.11"
+msgctxt "pli-tv-bu-vb-pj2:7.29.10"
 msgid "“assamaṇosi tvan”ti."
 msgstr "“You’re no longer an ascetic.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.29.12"
+msgctxt "pli-tv-bu-vb-pj2:7.29.11"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.29.13"
+msgctxt "pli-tv-bu-vb-pj2:7.29.12"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #100"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -5014,31 +5014,31 @@ msgstr "“There’s no offense for one who perceives something as discarded.”
 
 #. HTML: </p><hr><p>
 #. REF: sc155, ms1V_345
-msgctxt "pli-tv-bu-vb-pj2:7.30.9"
+msgctxt "pli-tv-bu-vb-pj2:7.30.8"
 msgid "Tena kho pana samayena manussā uḷumpaṃ bandhitvā aciravatiyā nadiyā osārenti."
 msgstr "At one time some men made a barge and put it on the river Aciravatī."
 
-msgctxt "pli-tv-bu-vb-pj2:7.30.10"
+msgctxt "pli-tv-bu-vb-pj2:7.30.9"
 msgid "Bandhane chinne kaṭṭhāni vippakiṇṇāni agamaṃsu."
 msgstr "When the binding ropes were destroyed, the sticks were scattered about."
 
-msgctxt "pli-tv-bu-vb-pj2:7.30.11"
+msgctxt "pli-tv-bu-vb-pj2:7.30.10"
 msgid "Bhikkhū—“pure sāmikā passantī”ti, theyyacittā uttāresuṃ."
 msgstr "Some monks removed them from the water, intending to steal them before the owners saw it."
 
-msgctxt "pli-tv-bu-vb-pj2:7.30.12"
+msgctxt "pli-tv-bu-vb-pj2:7.30.11"
 msgid "Sāmikā te bhikkhū codesuṃ—"
 msgstr "The owners accused those monks, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.30.13"
+msgctxt "pli-tv-bu-vb-pj2:7.30.12"
 msgid "“assamaṇāttha tumhe”ti."
 msgstr "“You’re no longer ascetics.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.30.14"
+msgctxt "pli-tv-bu-vb-pj2:7.30.13"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr "They became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.30.15"
+msgctxt "pli-tv-bu-vb-pj2:7.30.14"
 msgid "“āpattiṃ tumhe, bhikkhave, āpannā pārājikan”ti. #102"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -5097,28 +5097,28 @@ msgstr "“There’s no offense for one who does not intend to steal.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc158, ms1V_348
-msgctxt "pli-tv-bu-vb-pj2:7.32.8"
+msgctxt "pli-tv-bu-vb-pj2:7.32.7"
 msgid "Tena kho pana samayena aññatarassa bhikkhuno nadiṃ tarantassa rajakānaṃ hatthato muttaṃ sāṭakaṃ pāde laggaṃ hoti."
 msgstr "On one occasion, as a monk was crossing a river, a robe that had escaped from the hands of dyers stuck to his foot."
 
 #. REF: pts-vp-pli3.64
-msgctxt "pli-tv-bu-vb-pj2:7.32.9"
+msgctxt "pli-tv-bu-vb-pj2:7.32.8"
 msgid "So bhikkhu—“pure sāmikā passantī”ti, theyyacitto aggahesi."
 msgstr "The monk took hold of it, intending to steal it before the owners saw it."
 
-msgctxt "pli-tv-bu-vb-pj2:7.32.10"
+msgctxt "pli-tv-bu-vb-pj2:7.32.9"
 msgid "Sāmikā taṃ bhikkhuṃ codesuṃ—"
 msgstr "The owners accused him, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.32.11"
+msgctxt "pli-tv-bu-vb-pj2:7.32.10"
 msgid "“assamaṇosi tvan”ti."
 msgstr "“You’re no longer a ascetic.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.32.12"
+msgctxt "pli-tv-bu-vb-pj2:7.32.11"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.32.13"
+msgctxt "pli-tv-bu-vb-pj2:7.32.12"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #105"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -5176,27 +5176,27 @@ msgstr "He said, “You’ve all committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc161, ms1V_351
-msgctxt "pli-tv-bu-vb-pj2:7.34.10"
+msgctxt "pli-tv-bu-vb-pj2:7.34.9"
 msgid "Tena kho pana samayena sambahulā bhikkhū saṃvidahitvā bhaṇḍaṃ avaharitvā bhājesuṃ."
 msgstr "At one time a number of monks made an arrangement, stole some goods, and shared them out."
 
-msgctxt "pli-tv-bu-vb-pj2:7.34.11"
+msgctxt "pli-tv-bu-vb-pj2:7.34.10"
 msgid "Tehi bhājīyamāne ekamekassa paṭiviso na pañcamāsako pūri."
 msgstr "When it was being shared out, each of them received a share with a value of less than five _māsaka_ coins."
 
-msgctxt "pli-tv-bu-vb-pj2:7.34.12"
+msgctxt "pli-tv-bu-vb-pj2:7.34.11"
 msgid "Te evamāhaṃsu—"
 msgstr "They said,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.34.13"
+msgctxt "pli-tv-bu-vb-pj2:7.34.12"
 msgid "“na mayaṃ pārājikā”ti."
 msgstr "“We’re not expelled.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.34.14"
+msgctxt "pli-tv-bu-vb-pj2:7.34.13"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They told the Master."
 
-msgctxt "pli-tv-bu-vb-pj2:7.34.15"
+msgctxt "pli-tv-bu-vb-pj2:7.34.14"
 msgid "“Āpattiṃ tumhe, bhikkhave, āpannā pārājikan”ti. #108"
 msgstr "He said, “You have committed an offense entailing expulsion.”"
 
@@ -5216,23 +5216,23 @@ msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc163, ms1V_353
-msgctxt "pli-tv-bu-vb-pj2:7.35.5"
+msgctxt "pli-tv-bu-vb-pj2:7.35.4"
 msgid "Tena kho pana samayena aññataro bhikkhu sāvatthiyaṃ dubbhikkhe āpaṇikassa muggamuṭṭhiṃ …"
 msgstr "On one occasion when Sāvatthī was short of food, a monk, intending to steal, took a handful of green gram …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.35.6"
+msgctxt "pli-tv-bu-vb-pj2:7.35.5"
 msgid "māsamuṭṭhiṃ …"
 msgstr "a handful of black gram …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.35.7"
+msgctxt "pli-tv-bu-vb-pj2:7.35.6"
 msgid "tilamuṭṭhiṃ theyyacitto avahari."
 msgstr "a handful of sesame belonging to a shopkeeper."
 
-msgctxt "pli-tv-bu-vb-pj2:7.35.8"
+msgctxt "pli-tv-bu-vb-pj2:7.35.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.35.9"
+msgctxt "pli-tv-bu-vb-pj2:7.35.8"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #110–‍112"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -5265,27 +5265,27 @@ msgstr "“There’s no offense for one who perceives something as discarded.”
 
 #. HTML: </p><hr><p>
 #. REF: sc165, ms1V_355
-msgctxt "pli-tv-bu-vb-pj2:7.36.8"
+msgctxt "pli-tv-bu-vb-pj2:7.36.7"
 msgid "Tena kho pana samayena sāvatthiyaṃ andhavane corakā sūkaraṃ hantvā maṃsaṃ khāditvā sesakaṃ paṭisāmetvā agamaṃsu."
 msgstr "At one time, in the Dark Wood near Sāvatthī, some thieves killed a pig …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.36.9"
+msgctxt "pli-tv-bu-vb-pj2:7.36.8"
 msgid "Bhikkhū paṃsu­kūla­saññino paṭiggahāpetvā paribhuñjiṃsu."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj2:7.36.10"
+msgctxt "pli-tv-bu-vb-pj2:7.36.9"
 msgid "Corakā te bhikkhū codesuṃ—"
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj2:7.36.11"
+msgctxt "pli-tv-bu-vb-pj2:7.36.10"
 msgid "“assamaṇāttha tumhe”ti."
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj2:7.36.12"
+msgctxt "pli-tv-bu-vb-pj2:7.36.11"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr ""
 
-msgctxt "pli-tv-bu-vb-pj2:7.36.13"
+msgctxt "pli-tv-bu-vb-pj2:7.36.12"
 msgid "“anāpatti, bhikkhave, paṃsu­kūla­saññissā”ti. #114"
 msgstr "“There’s no offense for one who perceives something as discarded.”"
 
@@ -5305,15 +5305,15 @@ msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc167, ms1V_357
-msgctxt "pli-tv-bu-vb-pj2:7.37.5"
+msgctxt "pli-tv-bu-vb-pj2:7.37.4"
 msgid "Tena kho pana samayena aññataro bhikkhu tiṇakkhettaṃ gantvā tiṇaṃ lāyitvā pañca­mā­saggha­nakaṃ theyyacitto avahari."
 msgstr "On one occasion a monk went to a meadow, and intending to steal it, he cut grass worth five _māsaka_ coins and took it away."
 
-msgctxt "pli-tv-bu-vb-pj2:7.37.6"
+msgctxt "pli-tv-bu-vb-pj2:7.37.5"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.37.7"
+msgctxt "pli-tv-bu-vb-pj2:7.37.6"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #116"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -5357,43 +5357,43 @@ msgstr "“There’s no offense for one who thinks something is meant for eating
 
 #. HTML: </p><hr><p>
 #. REF: sc169, ms1V_359
-msgctxt "pli-tv-bu-vb-pj2:7.38.10"
+msgctxt "pli-tv-bu-vb-pj2:7.38.9"
 msgid "Tena kho pana samayena āgantukā bhikkhū saṃghassa jambuṃ …"
 msgstr "On one occasion some newly arrived monks divided up the black plums belonging to the Order …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.11"
+msgctxt "pli-tv-bu-vb-pj2:7.38.10"
 msgid "saṃghassa labujaṃ …"
 msgstr "the bread-fruit …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.12"
+msgctxt "pli-tv-bu-vb-pj2:7.38.11"
 msgid "saṃghassa panasaṃ …"
 msgstr "the jack-fruit …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.13"
+msgctxt "pli-tv-bu-vb-pj2:7.38.12"
 msgid "saṃghassa tālapakkaṃ …"
 msgstr "the palm fruits …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.14"
+msgctxt "pli-tv-bu-vb-pj2:7.38.13"
 msgid "saṃghassa ucchuṃ …"
 msgstr "the sugar-cane …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.15"
+msgctxt "pli-tv-bu-vb-pj2:7.38.14"
 msgid "saṃghassa timbarūsakaṃ bhājāpetvā paribhuñjiṃsu."
 msgstr "the _timbarūsaka_ fruits belonging to the Order and ate them."
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.16"
+msgctxt "pli-tv-bu-vb-pj2:7.38.15"
 msgid "Āvāsikā bhikkhū te bhikkhū codesuṃ—"
 msgstr "The resident monks accused those monks, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.17"
+msgctxt "pli-tv-bu-vb-pj2:7.38.16"
 msgid "“assamaṇāttha tumhe”ti."
 msgstr "“You’re no longer ascetics.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.18"
+msgctxt "pli-tv-bu-vb-pj2:7.38.17"
 msgid "Tesaṃ kukkuccaṃ ahosi … pe …"
 msgstr "They became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.38.19"
+msgctxt "pli-tv-bu-vb-pj2:7.38.18"
 msgid "“anāpatti, bhikkhave, pari­bhogat­thāyā”ti. #118–‍123"
 msgstr "“There’s no offense for one who thinks something is meant for eating.”"
 
@@ -5421,43 +5421,43 @@ msgstr "He said, “There’s no offense when it’s a gift from a guardian.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc171, ms1V_361
-msgctxt "pli-tv-bu-vb-pj2:7.39.7"
+msgctxt "pli-tv-bu-vb-pj2:7.39.6"
 msgid "Tena kho pana samayena jambupālakā …"
 msgstr "On one occasion the keepers of a black plum grove …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.8"
+msgctxt "pli-tv-bu-vb-pj2:7.39.7"
 msgid "labujapālakā …"
 msgstr "of a bread-fruit grove …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.9"
+msgctxt "pli-tv-bu-vb-pj2:7.39.8"
 msgid "panasapālakā …"
 msgstr "of a jack-fruit grove …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.10"
+msgctxt "pli-tv-bu-vb-pj2:7.39.9"
 msgid "­tālapak­ka­pālakā …"
 msgstr "of a palm grove …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.11"
+msgctxt "pli-tv-bu-vb-pj2:7.39.10"
 msgid "ucchupālakā …"
 msgstr "of a sugar-cane field …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.12"
+msgctxt "pli-tv-bu-vb-pj2:7.39.11"
 msgid "tim­barū­saka­pālakā bhikkhūnaṃ timbarūsakaṃ denti."
 msgstr "of a _timbarūsaka_ grove gave _timbarūsaka_ fruit to some monks."
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.13"
+msgctxt "pli-tv-bu-vb-pj2:7.39.12"
 msgid "Bhikkhū—“gopetuṃ ime issarā, nayime dātun”ti,"
 msgstr "The monks, thinking, “They have the authority to guard, but not to give,”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.14"
+msgctxt "pli-tv-bu-vb-pj2:7.39.13"
 msgid "kukkuccāyantā na paṭiggaṇhanti."
 msgstr "were afraid of wrongdoing and did not accept it."
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.15"
+msgctxt "pli-tv-bu-vb-pj2:7.39.14"
 msgid "Bhagavato etamatthaṃ ārocesuṃ."
 msgstr "They told the Master."
 
-msgctxt "pli-tv-bu-vb-pj2:7.39.16"
+msgctxt "pli-tv-bu-vb-pj2:7.39.15"
 msgid "“Anāpatti, bhikkhave, gopakassa dāne”ti. #125–‍130"
 msgstr "He said, “There’s no offense when it’s a gift from a guardian.”"
 
@@ -5521,19 +5521,19 @@ msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc174, ms1V_364
-msgctxt "pli-tv-bu-vb-pj2:7.41.7"
+msgctxt "pli-tv-bu-vb-pj2:7.41.6"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa puñjakitaṃ tiṇaṃ theyyacitto jhāpesi."
 msgstr "On one occasion a monk who had the intention to steal set fire to a pile of grass belonging to the Order."
 
-msgctxt "pli-tv-bu-vb-pj2:7.41.8"
+msgctxt "pli-tv-bu-vb-pj2:7.41.7"
 msgid "Tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.41.9"
+msgctxt "pli-tv-bu-vb-pj2:7.41.8"
 msgid "“anāpatti, bhikkhu, pārājikassa."
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.41.10"
+msgctxt "pli-tv-bu-vb-pj2:7.41.9"
 msgid "Āpatti dukkaṭassā”ti. #135"
 msgstr "but there’s an offense of wrong conduct.”"
 
@@ -5553,37 +5553,37 @@ msgstr "“You have committed an offense entailing expulsion.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc176, ms1V_366
-msgctxt "pli-tv-bu-vb-pj2:7.42.5"
+msgctxt "pli-tv-bu-vb-pj2:7.42.4"
 msgid "Tena kho pana samayena aññataro bhikkhu saṃghassa pīṭhaṃ …"
 msgstr "On one occasion a monk, intending to steal it, took a bench belonging to the Order …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.42.6"
+msgctxt "pli-tv-bu-vb-pj2:7.42.5"
 msgid "saṃghassa bhisiṃ …"
 msgstr "took a mattress …"
 
 #. VAR: bibbohanaṃ → bimbohanaṃ (bj, s1-3, pts1)
-msgctxt "pli-tv-bu-vb-pj2:7.42.7"
+msgctxt "pli-tv-bu-vb-pj2:7.42.6"
 msgid "saṃghassa bibbohanaṃ …"
 msgstr "a pillow …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.42.8"
+msgctxt "pli-tv-bu-vb-pj2:7.42.7"
 msgid "saṃghassa kavāṭaṃ …"
 msgstr "a door …"
 
 #. REF: pts-vp-en1.110
-msgctxt "pli-tv-bu-vb-pj2:7.42.9"
+msgctxt "pli-tv-bu-vb-pj2:7.42.8"
 msgid "saṃghassa ālokasandhiṃ …"
 msgstr "a window …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.42.10"
+msgctxt "pli-tv-bu-vb-pj2:7.42.9"
 msgid "saṃghassa gopānasiṃ theyyacitto avahari …"
 msgstr "intending to steal it, he took a rafter belonging to the Order. …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.42.11"
+msgctxt "pli-tv-bu-vb-pj2:7.42.10"
 msgid "tassa kukkuccaṃ ahosi … pe …"
 msgstr "He became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.42.12"
+msgctxt "pli-tv-bu-vb-pj2:7.42.11"
 msgid "“āpattiṃ tvaṃ, bhikkhu, āpanno pārājikan”ti. #137–‍142"
 msgstr "“You have committed an offense entailing expulsion.”"
 
@@ -5682,35 +5682,35 @@ msgstr "but there’s an offense entailing confession for lying.”"
 
 #. HTML: </p><hr><p>
 #. REF: sc180, ms1V_370
-msgctxt "pli-tv-bu-vb-pj2:7.45.13"
+msgctxt "pli-tv-bu-vb-pj2:7.45.12"
 msgid "Tena kho pana samayena rājagahe thullanandāya bhikkhuniyā antevāsinī bhikkhunī thullanandāya bhikkhuniyā upaṭṭhākakulaṃ gantvā—"
 msgstr "On one occasion in Rājagaha, a nun who was a pupil of the nun Thullanandā went to a family who supported Thullanandā and said,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.45.14"
+msgctxt "pli-tv-bu-vb-pj2:7.45.13"
 msgid "“ayyā icchati madhugoḷakaṃ khāditun”ti,"
 msgstr "“The Venerable wants to eat a honey-ball.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.45.15"
+msgctxt "pli-tv-bu-vb-pj2:7.45.14"
 msgid "pacāpetvā haritvā attanā paribhuñji."
 msgstr "When it was ready, she took it away and ate it herself."
 
-msgctxt "pli-tv-bu-vb-pj2:7.45.16"
+msgctxt "pli-tv-bu-vb-pj2:7.45.15"
 msgid "Sā jānitvā taṃ codesi—"
 msgstr "When Thullanandā found out about this, she accused her, saying,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.45.17"
+msgctxt "pli-tv-bu-vb-pj2:7.45.16"
 msgid "“assamaṇīsi tvan”ti."
 msgstr "“You’re no longer an ascetic.”"
 
-msgctxt "pli-tv-bu-vb-pj2:7.45.18"
+msgctxt "pli-tv-bu-vb-pj2:7.45.17"
 msgid "Tassā kukkuccaṃ ahosi … pe …"
 msgstr "She became remorseful …"
 
-msgctxt "pli-tv-bu-vb-pj2:7.45.19"
+msgctxt "pli-tv-bu-vb-pj2:7.45.18"
 msgid "“anāpatti, bhikkhave, pārājikassa;"
 msgstr "“There’s no offense entailing expulsion,"
 
-msgctxt "pli-tv-bu-vb-pj2:7.45.20"
+msgctxt "pli-tv-bu-vb-pj2:7.45.19"
 msgid "āpatti sam­pajā­na­musā­vāde pācittiyassā”ti. #146"
 msgstr "but there’s an offense entailing confession for lying.”"
 
@@ -5958,6 +5958,6 @@ msgstr "That monk was delighted."
 
 #. HTML: </p><hr><p class="endsutta">
 #. REF: sc185, ms1V_375
-msgctxt "pli-tv-bu-vb-pj2:7.49.11"
+msgctxt "pli-tv-bu-vb-pj2:7.49.10"
 msgid "Dutiya­pā­rāji­kaṃ samattaṃ."
 msgstr "The second offense entailing expulsion is finished."
