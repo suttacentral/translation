@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn45/sn45.008.po\n"
-"X-Pootle-Revision: 6212\n"
+"X-Pootle-Revision: 71170\n"
 
 #. <section class="sutta" id="sn45.8"><article><div class="hgroup"><p class="division">
 msgctxt "sn45.8:0.1"
@@ -64,7 +64,7 @@ msgstr ""
 "livelihood, right effort, right mindfulness, and right immersion."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli5.9"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi5.9"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "sn45.8:3.1"
 msgid "Katamā ca, bhikkhave, sammādiṭṭhi?"
@@ -75,7 +75,7 @@ msgid ""
 "Yaṃ kho, bhikkhave, dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, "
 "dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ—"
 msgstr ""
-"Not knowing about suffering, the origin of suffering, the cessation of "
+"Knowing about suffering, the origin of suffering, the cessation of "
 "suffering, and the practice that leads to the cessation of suffering."
 
 msgctxt "sn45.8:3.3"
@@ -123,7 +123,7 @@ msgctxt "sn45.8:6.2"
 msgid ""
 "Yā kho, bhikkhave, pāṇātipātā veramaṇī, adinnādānā veramaṇī, abrahmacariyā "
 "veramaṇī—"
-msgstr "Avoiding killing living creatures, stealing, and sexual misconduct."
+msgstr "Avoiding killing living creatures, stealing, and sexual activity."
 
 msgctxt "sn45.8:6.3"
 msgid "ayaṃ vuccati, bhikkhave, sammākammanto."
@@ -191,7 +191,7 @@ msgid "ayaṃ vuccati, bhikkhave, sammāvāyāmo."
 msgstr "This is called right effort."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli5.10"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi5.10"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "sn45.8:9.1"
 msgid "Katamā ca, bhikkhave, sammāsati?"

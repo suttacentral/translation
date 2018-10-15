@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.065.po\n"
-"X-Pootle-Revision: 5604\n"
+"X-Pootle-Revision: 9698\n"
 
 #. <section class="sutta" id="sn35.65"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.65:0.1"
@@ -28,7 +28,7 @@ msgstr "7. With Migajāla"
 #. VAR: 65. Paṭhamasamiddhimārapañhāsutta → samidhimārapañhasuttaṃ (bj) | samiddhi 1 (pts1)
 msgctxt "sn35.65:0.3"
 msgid "65. Paṭhamasamiddhimārapañhāsutta"
-msgstr "65. Samiddhi’s Question About Māra (1st)"
+msgstr "65. Samiddhi’s Question About Māra"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -56,7 +56,7 @@ msgid "Kittāvatā nu kho, bhante, māro vā assa mārapaññatti vā”ti?"
 msgstr "How do we define Māra or what is known as Māra?”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.39"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.39"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn35.65:2.1"
 msgid ""

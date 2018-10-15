@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.238.po\n"
-"X-Pootle-Revision: 5890\n"
+"X-Pootle-Revision: 58212\n"
 
 #. <section class="sutta" id="sn35.238"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.238:0.1"
@@ -31,7 +31,7 @@ msgid "238. Āsīvisopamasutta"
 msgstr "238. The Simile of the Vipers"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.173"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.173"></a>
 #. <a class="sc" id="sc1"></a>
 #. VAR: āsīvisā → āsivisā (bj) | āsiviso (pts1)
 msgctxt "sn35.238:1.1"
@@ -144,7 +144,7 @@ msgctxt "sn35.238:4.3"
 msgid ""
 "Yaññadeva gharaṃ paviseyya rittakaññeva paviseyya tucchakaññeva paviseyya "
 "suññakaññeva paviseyya."
-msgstr "But whatever house he’d enter is vacant, deserted, and empty."
+msgstr "But whatever house he enters is vacant, deserted, and empty."
 
 # I’m a little curious about this line. What exactly is going on here? parimasati is always used in the sense of “rub, stroke”. Is he going around sounding the vessels to see if any have any treasure?
 msgctxt "sn35.238:4.4"
@@ -167,7 +167,7 @@ msgid "Yaṃ te, ambho purisa, karaṇīyaṃ taṃ karohī’ti."
 msgstr "So then, mister, do what has to be done.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.174"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.174"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn35.238:5.1"
 msgid ""
@@ -272,33 +272,33 @@ msgstr ""
 "greed."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.175"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.175"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "sn35.238:10.1"
 msgid ""
 "Suñño gāmoti kho, bhikkhave, channetaṃ ajjhattikānaṃ āyatanānaṃ adhivacanaṃ."
 msgstr "‘Empty village’ is a term for the six interior sense fields."
 
-# BB evidently takes “nam” to be referring to the six sense; but of course it’s singular. Okay, it could be treating them as a group, but cp. SN 35.243, the only other place this idiom occurs. Here the “nam” refers back to the meditating monk. In this case, I think it’s best to take it as referring back to the “empty village”, which is just a metaphor for the same thing.
+# BB evidently takes “nam” to be referring to the six senses; but of course it’s singular. Okay, it could be treating them as a group, but cp. SN 35.243, the only other place this idiom occurs. Here the “nam” refers back to the meditating monk. In this case, I think it’s best to take it as referring back to the “empty village”, which is just a metaphor for the same thing.
 msgctxt "sn35.238:10.2"
 msgid ""
 "Cakkhuto cepi naṃ, bhikkhave, paṇḍito byatto medhāvī upaparikkhati "
 "rittakaññeva khāyati, tucchakaññeva khāyati, suññakaññeva khāyati … pe …"
 msgstr ""
-"If an astute, competent, clever person investigates this through the eye, it "
-"appears to them as vacant, hollow, and empty."
+"If an astute, competent, clever person investigates this in relation to the "
+"eye, it appears vacant, hollow, and empty."
 
 msgctxt "sn35.238:10.3"
 msgid "jivhāto cepi naṃ, bhikkhave … pe …"
 msgstr ""
-"If an astute, competent, clever person investigates this through the ear … "
-"nose … tongue … body …"
+"If an astute, competent, clever person investigates this in relation to the "
+"ear … nose … tongue … body …"
 
 msgctxt "sn35.238:10.4"
 msgid ""
 "manato cepi naṃ, bhikkhave, paṇḍito byatto medhāvī upaparikkhati "
 "rittakaññeva khāyati, tucchakaññeva khāyati, suññakaññeva khāyati."
-msgstr "mind, it appears to them as vacant, hollow, and empty."
+msgstr "mind, it appears vacant, hollow, and empty."
 
 #. </p><p>
 #. <a class="sc" id="sc11"></a>
@@ -350,7 +350,7 @@ msgctxt "sn35.238:13.1"
 msgid ""
 "Orimaṃ tīraṃ sāsaṅkaṃ sappaṭibhayanti kho, bhikkhave, sakkāyassetaṃ "
 "adhivacanaṃ."
-msgstr "‘The near shore that’s dubious and perilous’ is term for identity."
+msgstr "‘The near shore that’s dubious and perilous’ is a term for identity."
 
 #. </p><p>
 #. <a class="sc" id="sc14"></a>

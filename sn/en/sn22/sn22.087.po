@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn22/sn22.087.po\n"
-"X-Pootle-Revision: 9297\n"
+"X-Pootle-Revision: 73163\n"
 
 #. <section class="sutta" id="sn22.87"><article><div class="hgroup"><p class="division">
 msgctxt "sn22.87:0.1"
@@ -601,12 +601,11 @@ msgctxt "sn22.87:8.35"
 msgid "“Evamāvuso”ti kho te bhikkhū āyasmato vakkalissa paṭissutvā pakkamiṃsu."
 msgstr "“Yes, reverend,” those monks replied, and left."
 
-# The literal idion is “used the knife”. But the Vibhanga to Pj 3 says that any means of killing is included, so best to use the normal English idiom.
 msgctxt "sn22.87:8.36"
 msgid "Atha kho āyasmā vakkali acirapakkantesu tesu bhikkhūsu satthaṃ āharesi."
 msgstr ""
-"And then, not long after those mendicants had left, Venerable Vakkali "
-"committed suicide."
+"And then, not long after those mendicants had left, Venerable Vakkali slit "
+"his wrists."
 
 #. </p><p>
 #. <a class="sc" id="sc9"></a>
@@ -690,7 +689,7 @@ msgstr "“Come, mendicants, let’s go to the Black Rock on the slopes of Isigi
 
 msgctxt "sn22.87:10.3"
 msgid "yattha vakkalinā kulaputtena satthamāharitan”ti."
-msgstr "where Vakkali, the son of a good family, committed suicide.”"
+msgstr "where Vakkali, the son of a good family, slit his wrists.”"
 
 msgctxt "sn22.87:10.4"
 msgid "“Evaṃ, bhante”ti kho te bhikkhū bhagavato paccassosuṃ."

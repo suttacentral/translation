@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn36/sn36.03.po\n"
-"X-Pootle-Revision: 5916\n"
+"X-Pootle-Revision: 21438\n"
 
 #. <section class="sutta" id="sn36.3"><article><div class="hgroup"><p class="division">
 msgctxt "sn36.3:0.1"
@@ -66,14 +66,14 @@ msgstr ""
 "When a mendicant has given up these underlying tendencies, they’re called a "
 "mendicant without underlying tendencies, who sees rightly, has cut off "
 "craving, untied the fetters, and by rightly comprehending conceit has made "
-"an end of suffering.”"
+"an end of suffering."
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc2"></a>
 #. VAR: vedayamānassa → vediyamānassa (bj, pts1)
 msgctxt "sn36.3:2.1"
 msgid "Sukhaṃ vedayamānassa,"
-msgstr "“When you feel pleasure"
+msgstr "When you feel pleasure"
 
 #. <br>
 msgctxt "sn36.3:2.2"
@@ -133,7 +133,7 @@ msgid "neva dukkhā pamuccati."
 msgstr "you’re still not released from suffering."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.206"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.206"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn36.3:5.1"
 msgid "Yato ca bhikkhu ātāpī,"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:15+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.095.po\n"
-"X-Pootle-Revision: 5664\n"
+"X-Pootle-Revision: 78485\n"
 
 #. <section class="sutta" id="sn35.95"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.95:0.1"
@@ -199,7 +199,7 @@ msgstr "When you’re not ‘in that’,"
 
 msgctxt "sn35.95:10.7"
 msgid "tato tvaṃ, mālukyaputta, nevidha, na huraṃ, na ubhayamantarena."
-msgstr "you won’t be here or beyond or in between the two."
+msgstr "you won’t be in this world or the world beyond or in between the two."
 
 msgctxt "sn35.95:10.8"
 msgid "Esevanto dukkhassā”ti."
@@ -219,12 +219,12 @@ msgstr ""
 #. <a class="sc" id="sc12"></a>
 msgctxt "sn35.95:12.1"
 msgid "‘Rūpaṃ disvā sati muṭṭhā,"
-msgstr "‘When you see a sight, mindfulness is confused"
+msgstr "‘When you see a sight, mindfulness is lost"
 
 #. <br>
 msgctxt "sn35.95:12.2"
 msgid "Piyaṃ nimittaṃ manasi karoto;"
-msgstr "and attention is focused on the pleasant aspect."
+msgstr "as attention latches on the pleasant aspect."
 
 #. <br>
 msgctxt "sn35.95:12.3"
@@ -272,12 +272,12 @@ msgstr "you’re said to be far from extinguishment."
 #. <a class="sc" id="sc14"></a>
 msgctxt "sn35.95:14.1"
 msgid "Saddaṃ sutvā sati muṭṭhā,"
-msgstr "When you hear a sound, mindfulness is confused"
+msgstr "When you hear a sound, mindfulness is lost"
 
 #. <br>
 msgctxt "sn35.95:14.2"
 msgid "Piyaṃ nimittaṃ manasi karoto;"
-msgstr "and attention is focused on the pleasant aspect."
+msgstr "as attention latches on the pleasant aspect."
 
 #. <br>
 msgctxt "sn35.95:14.3"
@@ -325,12 +325,12 @@ msgstr "you’re said to be far from extinguishment."
 #. <a class="sc" id="sc16"></a>
 msgctxt "sn35.95:16.1"
 msgid "Gandhaṃ ghatvā sati muṭṭhā,"
-msgstr "When you smell an odor, mindfulness is confused"
+msgstr "When you smell an odor, mindfulness is lost"
 
 #. <br>
 msgctxt "sn35.95:16.2"
 msgid "Piyaṃ nimittaṃ manasi karoto;"
-msgstr "and attention is focused on the pleasant aspect."
+msgstr "as attention latches on the pleasant aspect."
 
 #. <br>
 msgctxt "sn35.95:16.3"
@@ -377,12 +377,12 @@ msgstr "you’re said to be far from extinguishment."
 #. <a class="sc" id="sc18"></a>
 msgctxt "sn35.95:18.1"
 msgid "Rasaṃ bhotvā sati muṭṭhā,"
-msgstr "When you enjoy a taste, mindfulness is confused"
+msgstr "When you enjoy a taste, mindfulness is lost"
 
 #. <br>
 msgctxt "sn35.95:18.2"
 msgid "Piyaṃ nimittaṃ manasi karoto;"
-msgstr "and attention is focused on the pleasant aspect."
+msgstr "as attention latches on the pleasant aspect."
 
 #. <br>
 msgctxt "sn35.95:18.3"
@@ -429,12 +429,12 @@ msgstr "you’re said to be far from extinguishment."
 #. <a class="sc" id="sc20"></a>
 msgctxt "sn35.95:20.1"
 msgid "Phassaṃ phussa sati muṭṭhā,"
-msgstr "When you experience a touch, mindfulness is confused"
+msgstr "When you sense a touch, mindfulness is lost"
 
 #. <br>
 msgctxt "sn35.95:20.2"
 msgid "Piyaṃ nimittaṃ manasi karoto;"
-msgstr "and attention is focused on the pleasant aspect."
+msgstr "as attention latches on the pleasant aspect."
 
 #. <br>
 msgctxt "sn35.95:20.3"
@@ -481,12 +481,12 @@ msgstr "you’re said to be far from extinguishment."
 #. <a class="sc" id="sc22"></a>
 msgctxt "sn35.95:22.1"
 msgid "Dhammaṃ ñatvā sati muṭṭhā,"
-msgstr "When you know a thought, mindfulness is confused"
+msgstr "When you know a thought, mindfulness is lost"
 
 #. <br>
 msgctxt "sn35.95:22.2"
 msgid "Piyaṃ nimittaṃ manasi karoto;"
-msgstr "and attention is focused on the pleasant aspect."
+msgstr "as attention latches on the pleasant aspect."
 
 #. <br>
 msgctxt "sn35.95:22.3"
@@ -559,7 +559,7 @@ msgstr "Even as you see a sight"
 #. <br>
 msgctxt "sn35.95:25.2"
 msgid "sevato cāpi vedanaṃ;"
-msgstr "and undergo a feeling,"
+msgstr "and get familiar with how it feels,"
 
 #. <br>
 msgctxt "sn35.95:25.3"
@@ -574,7 +574,7 @@ msgstr "that’s how to live mindfully."
 #. <br>
 msgctxt "sn35.95:25.5"
 msgid "Evaṃ apacinato dukkhaṃ,"
-msgstr "Reducing suffering like this,"
+msgstr "Eroding suffering like this,"
 
 #. <br>
 msgctxt "sn35.95:25.6"
@@ -611,7 +611,7 @@ msgstr "Even as you hear a sound"
 #. <br>
 msgctxt "sn35.95:27.2"
 msgid "sevato cāpi vedanaṃ;"
-msgstr "and undergo a feeling,"
+msgstr "and get familiar with how it feels,"
 
 #. <br>
 msgctxt "sn35.95:27.3"
@@ -626,7 +626,7 @@ msgstr "that’s how to live mindfully."
 #. <br>
 msgctxt "sn35.95:27.5"
 msgid "Evaṃ apacinato dukkhaṃ,"
-msgstr "Reducing suffering like this,"
+msgstr "Eroding suffering like this,"
 
 #. <br>
 msgctxt "sn35.95:27.6"
@@ -643,7 +643,7 @@ msgstr "When you smell an odor with mindfulness,"
 #. <br>
 msgctxt "sn35.95:28.2"
 msgid "gandhaṃ ghatvā paṭissato;"
-msgstr "there’s no desire for smells."
+msgstr "there’s no desire for odors."
 
 #. <br>
 msgctxt "sn35.95:28.3"
@@ -664,7 +664,7 @@ msgstr "Even as you smell an odor"
 #. <br>
 msgctxt "sn35.95:29.2"
 msgid "sevato cāpi vedanaṃ;"
-msgstr "and undergo a feeling,"
+msgstr "and get familiar with how it feels,"
 
 #. <br>
 msgctxt "sn35.95:29.3"
@@ -679,7 +679,7 @@ msgstr "that’s how to live mindfully."
 #. <br>
 msgctxt "sn35.95:29.5"
 msgid "Evaṃ apacinato dukkhaṃ,"
-msgstr "Reducing suffering like this,"
+msgstr "Eroding suffering like this,"
 
 #. <br>
 msgctxt "sn35.95:29.6"
@@ -716,7 +716,7 @@ msgstr "Even as you savor a taste"
 #. <br>
 msgctxt "sn35.95:31.2"
 msgid "sevato cāpi vedanaṃ;"
-msgstr "and undergo a feeling,"
+msgstr "and get familiar with how it feels,"
 
 #. <br>
 msgctxt "sn35.95:31.3"
@@ -731,7 +731,7 @@ msgstr "that’s how to live mindfully."
 #. <br>
 msgctxt "sn35.95:31.5"
 msgid "Evaṃ apacinato dukkhaṃ,"
-msgstr "Reducing suffering like this,"
+msgstr "Eroding suffering like this,"
 
 #. <br>
 msgctxt "sn35.95:31.6"
@@ -742,7 +742,7 @@ msgstr "you’re said to be in the presence of extinguishment."
 #. <a class="sc" id="sc32"></a>
 msgctxt "sn35.95:32.1"
 msgid "Na so rajjati phassesu,"
-msgstr "When you experience a touch with mindfulness,"
+msgstr "When you sense a touch with mindfulness,"
 
 #. <br>
 msgctxt "sn35.95:32.2"
@@ -763,12 +763,12 @@ msgstr "you don’t keep clinging to it."
 #. <a class="sc" id="sc33"></a>
 msgctxt "sn35.95:33.1"
 msgid "Yathāssa phusato phassaṃ,"
-msgstr "Even as you experience a touch"
+msgstr "Even as you sense a touch"
 
 #. <br>
 msgctxt "sn35.95:33.2"
 msgid "sevato cāpi vedanaṃ;"
-msgstr "and undergo a feeling,"
+msgstr "and get familiar with how it feels,"
 
 #. <br>
 msgctxt "sn35.95:33.3"
@@ -783,7 +783,7 @@ msgstr "that’s how to live mindfully."
 #. <br>
 msgctxt "sn35.95:33.5"
 msgid "Evaṃ apacinato dukkhaṃ,"
-msgstr "Reducing suffering like this,"
+msgstr "Eroding suffering like this,"
 
 #. <br>
 msgctxt "sn35.95:33.6"
@@ -821,7 +821,7 @@ msgstr "Even as you know a thought"
 #. <br>
 msgctxt "sn35.95:35.2"
 msgid "Sevato cāpi vedanaṃ;"
-msgstr "and undergo a feeling,"
+msgstr "and get familiar with how it feels,"
 
 #. <br>
 msgctxt "sn35.95:35.3"
@@ -836,7 +836,7 @@ msgstr "that’s how to live mindfully."
 #. <br>
 msgctxt "sn35.95:35.5"
 msgid "Evaṃ apacinato dukkhaṃ,"
-msgstr "Reducing suffering like this,"
+msgstr "Eroding suffering like this,"
 
 #. <br>
 msgctxt "sn35.95:35.6"
@@ -874,7 +874,7 @@ msgstr "(The Buddha repeats the verses in full.)"
 #. <br>
 msgctxt "sn35.95:37.2"
 msgid "Piyaṃ nimittaṃ manasi karoto;"
-msgstr ""
+msgstr "as attention latches on the pleasant aspect."
 
 #. <br>
 msgctxt "sn35.95:37.3"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn37/sn37.04.po\n"
-"X-Pootle-Revision: 5980\n"
+"X-Pootle-Revision: 21461\n"
 
 #. <section class="sutta" id="sn37.4"><article><div class="hgroup"><p class="division">
 msgctxt "sn37.4:0.1"
@@ -31,16 +31,16 @@ msgid "4. Tīhidhammehisutta"
 msgstr "4. Three Qualities"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.240"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.240"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn37.4:1.1"
 msgid ""
 "“Tīhi, bhikkhave, dhammehi samannāgato mātugāmo yebhuyyena kāyassa bhedā "
 "paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati."
 msgstr ""
-"“Mendicants, when they have three qualities females—when their body breaks "
-"up, after death—are mostly reborn in a place of loss, a bad place, the "
-"underworld, hell."
+"“Mendicants, when females have three qualities females, when their body "
+"breaks up, after death, they are mostly reborn in a place of loss, a bad "
+"place, the underworld, hell."
 
 msgctxt "sn37.4:1.2"
 msgid "Katamehi tīhi?"
@@ -67,8 +67,8 @@ msgid ""
 "Imehi kho, bhikkhave, tīhi dhammehi samannāgato mātugāmo yebhuyyena kāyassa "
 "bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī”ti."
 msgstr ""
-"When they have these three qualities females—when their body breaks up, "
-"after death—are mostly reborn in a place of loss, a bad place, the "
+"When females have these three qualities, when their body breaks up, after "
+"death, they are mostly reborn in a place of loss, a bad place, the "
 "underworld, hell.”"
 
 #. </p><p class="endsection">
@@ -79,4 +79,4 @@ msgstr ""
 #. </p><p class="endsection">
 msgctxt "sn37.4:1.8"
 msgid "()"
-msgstr "()"
+msgstr ""

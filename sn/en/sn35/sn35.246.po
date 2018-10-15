@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.246.po\n"
-"X-Pootle-Revision: 5906\n"
+"X-Pootle-Revision: 21422\n"
 
 #. <section class="sutta" id="sn35.246"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.246:0.1"
@@ -28,7 +28,7 @@ msgstr "19. The Simile of the Vipers"
 #. VAR: 246. Vīṇopamasutta → vīṇā (pts1)
 msgctxt "sn35.246:0.3"
 msgid "246. Vīṇopamasutta"
-msgstr "246. The Simile of the Lute"
+msgstr "246. The Simile of the Harp"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
@@ -103,7 +103,7 @@ msgstr ""
 "mind."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.196"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.196"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "sn35.246:2.1"
 msgid "Seyyathāpi, bhikkhave, kiṭṭhaṃ sampannaṃ."
@@ -203,7 +203,7 @@ msgstr ""
 "unifies, and becomes immersed in samādhi."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.197"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.197"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "sn35.246:4.1"
 msgid ""
@@ -214,7 +214,7 @@ msgstr ""
 
 msgctxt "sn35.246:4.2"
 msgid "So vīṇāsaddaṃ suṇeyya."
-msgstr "When he first the sound,"
+msgstr "When he first hears the sound,"
 
 msgctxt "sn35.246:4.3"
 msgid "So evaṃ vadeyya:"

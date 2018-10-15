@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn35/sn35.243.po\n"
-"X-Pootle-Revision: 5900\n"
+"X-Pootle-Revision: 71158\n"
 
 #. <section class="sutta" id="sn35.243"><article><div class="hgroup"><p class="division">
 msgctxt "sn35.243:0.1"
@@ -31,7 +31,7 @@ msgid "243. Avassutapariyāyasutta"
 msgstr "243. The Explanation on the Corrupt"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.183"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.183"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "sn35.243:1.1"
 msgid "Ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ nigrodhārāme."
@@ -90,7 +90,7 @@ msgid "Adhivāsesi bhagavā tuṇhībhāvena."
 msgstr "The Buddha consented in silence."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.184"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.184"></a>
 #. <a class="sc" id="sc2"></a>
 #. VAR: sabbasanthariṃ → sabbasantharisanthataṃ (s1-3) | sabbasanthariṃ santhataṃ (mr)
 msgctxt "sn35.243:2.1"
@@ -102,10 +102,10 @@ msgid ""
 "bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ etadavocuṃ:"
 msgstr ""
 "Then, knowing that the Buddha had accepted, the Sakyans got up from their "
-"seat, bowed, and respectfully circled the Buddha, keeping him on his right. "
-"Then they went to the new town hall, where they spread carpets all over, "
-"prepared seats, set up a water jar, and placed a lamp. Then they went back "
-"to the Buddha and told him of their preparations, saying:"
+"seat, bowed, and respectfully circled the Buddha, keeping him on their "
+"right. Then they went to the new town hall, where they spread carpets all "
+"over, prepared seats, set up a water jar, and placed a lamp. Then they went "
+"back to the Buddha and told him of their preparations, saying:"
 
 #. VAR: sabbasantharisanthataṃ → sabbasanthariṃ santhataṃ (pts1, mr)
 msgctxt "sn35.243:2.2"
@@ -207,9 +207,9 @@ msgid ""
 "sīhaseyyaṃ kappesi, pāde pādaṃ accādhāya, sato sampajāno uṭṭhānasaññaṃ "
 "manasi karitvā."
 msgstr ""
-"And then the Buddha spread out his outer robe folded in four and lay down in "
-"the lion’s posture—on the right side, placing one foot on top of the other—"
-"mindful and aware, and focused on the time of getting up."
+"And then the Buddha spread out his outer robe folded in four and laid down "
+"in the lion’s posture—on the right side, placing one foot on top of the "
+"other—mindful and aware, and focused on the time of getting up."
 
 msgctxt "sn35.243:3.8"
 msgid "Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi:"
@@ -244,7 +244,7 @@ msgid "Āyasmā mahāmoggallāno etadavoca:"
 msgstr "Venerable Mahāmoggallāna said this:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.185"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.185"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "sn35.243:4.1"
 msgid "“Kathaṃ, āvuso, avassuto hoti?"
@@ -311,14 +311,14 @@ msgid ""
 "Evaṃvihāriñcāvuso, bhikkhuṃ cakkhuto cepi naṃ māro upasaṅkamati labhateva "
 "māro otāraṃ, labhati māro ārammaṇaṃ … pe …"
 msgstr ""
-"When a mendicant lives like this, if Māra approaches their eye he finds a "
-"vulnerability and gets hold of them."
+"When a mendicant lives like this, if Māra comes at them through the eye he "
+"finds a vulnerability and gets hold of them."
 
 msgctxt "sn35.243:4.11"
 msgid ""
 "jivhāto cepi naṃ māro upasaṅkamati, labhateva māro otāraṃ, labhati māro "
 "ārammaṇaṃ … pe …"
-msgstr "If Māra approaches their ear … nose … tongue … body …"
+msgstr "If Māra comes at them through the ear … nose … tongue … body …"
 
 msgctxt "sn35.243:4.12"
 msgid ""
@@ -327,7 +327,7 @@ msgid ""
 msgstr "mind he finds a vulnerability and gets hold of them."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.186"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.186"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "sn35.243:5.1"
 msgid ""
@@ -341,7 +341,7 @@ msgctxt "sn35.243:5.2"
 msgid ""
 "Puratthimāya cepi naṃ disāya puriso ādittāya tiṇukkāya upasaṅkameyya, "
 "labhetheva aggi otāraṃ, labhetha aggi ārammaṇaṃ;"
-msgstr "If a person came with a burning grass torch from the east,"
+msgstr "If a person came to it with a burning grass torch from the east,"
 
 msgctxt "sn35.243:5.3"
 msgid ""
@@ -377,12 +377,12 @@ msgid ""
 "Evameva kho, āvuso, evaṃvihāriṃ bhikkhuṃ cakkhuto cepi naṃ māro "
 "upasaṅkamati, labhateva māro otāraṃ, labhati māro ārammaṇaṃ … pe …"
 msgstr ""
-"In the same way, when a mendicant lives like this, if Māra approaches their "
-"eye he finds a vulnerability and gets hold of them."
+"In the same way, when a mendicant lives like this, if Māra comes at them "
+"through the eye he finds a vulnerability and gets hold of them."
 
 msgctxt "sn35.243:5.10"
 msgid "jivhāto cepi naṃ māro upasaṅkamati … pe …"
-msgstr "If Māra comes in through their ear … nose … tongue … body …"
+msgstr "If Māra comes at them through the ear … nose … tongue … body …"
 
 msgctxt "sn35.243:5.11"
 msgid ""
@@ -492,12 +492,12 @@ msgid ""
 "Evaṃvihāriñcāvuso, bhikkhuṃ cakkhuto cepi naṃ māro upasaṅkamati, neva "
 "labhati māro otāraṃ, na labhati māro ārammaṇaṃ … pe …"
 msgstr ""
-"When a mendicant lives like this, if Māra approaches their eye he doesn’t "
-"find a vulnerability or get hold of them."
+"When a mendicant lives like this, if Māra comes at them through the eye he "
+"doesn’t find a vulnerability or get hold of them."
 
 msgctxt "sn35.243:6.10"
 msgid "jivhāto cepi naṃ māro upasaṅkamati … pe …"
-msgstr "If Māra approaches their ear … nose … tongue … body …"
+msgstr "If Māra comes at them through the ear … nose … tongue … body …"
 
 msgctxt "sn35.243:6.11"
 msgid ""
@@ -506,7 +506,7 @@ msgid ""
 msgstr "mind he doesn’t find a vulnerability or get hold of them."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.187"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.187"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "sn35.243:7.1"
 msgid "Seyyathāpi, āvuso, kūṭāgāraṃ vā sālā vā bahalamattikā addāvalepanā."
@@ -518,7 +518,7 @@ msgctxt "sn35.243:7.2"
 msgid ""
 "Puratthimāya cepi naṃ disāya puriso ādittāya tiṇukkāya upasaṅkameyya, neva "
 "labhetha aggi otāraṃ, na labhetha aggi ārammaṇaṃ … pe …"
-msgstr "If a person came with a burning grass torch from the east,"
+msgstr "If a person came to it with a burning grass torch from the east,"
 
 msgctxt "sn35.243:7.3"
 msgid "pacchimāya cepi naṃ …"
@@ -553,16 +553,16 @@ msgid ""
 "Evameva kho, āvuso, evaṃvihāriṃ bhikkhuṃ cakkhuto cepi naṃ māro "
 "upasaṅkamati, neva labhati māro otāraṃ, na labhati māro ārammaṇaṃ … pe …"
 msgstr ""
-"In the same way, when a mendicant lives like this, if Māra approaches their "
-"eye he doesn’t find a vulnerability or get hold of them."
+"In the same way, when a mendicant lives like this, if Māra comes at them "
+"through the eye he doesn’t find a vulnerability or get hold of them."
 
 msgctxt "sn35.243:7.10"
 msgid ""
 "manato cepi naṃ māro upasaṅkamati, neva labhati māro otāraṃ, na labhati māro "
 "ārammaṇaṃ."
 msgstr ""
-"If Māra comes in through their ear … nose … tongue … body … mind he doesn’t "
-"find a vulnerability or get hold of them."
+"If Māra comes at them through the ear … nose … tongue … body … mind he doesn’"
+"t find a vulnerability or get hold of them."
 
 msgctxt "sn35.243:7.11"
 msgid "Evaṃvihārī cāvuso, bhikkhu rūpe adhibhosi, na rūpā bhikkhuṃ adhibhaṃsu;"
@@ -625,7 +625,7 @@ msgstr ""
 "uncorrupted.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli4.188"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi4.188"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "sn35.243:9.1"
 msgid "Idamavoca āyasmā mahāmoggallāno."

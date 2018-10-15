@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:14+0000\n"
+"POT-Creation-Date: 2018-10-15 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/sn/sn08/sn8.08.po\n"
-"X-Pootle-Revision: 4230\n"
+"X-Pootle-Revision: 82161\n"
 
 #. <section class="sutta" id="sn8.8"><article><div class="hgroup"><p class="division">
 msgctxt "sn8.8:0.1"
@@ -52,8 +52,8 @@ msgid ""
 "Te ca bhikkhū aṭṭhiṃ katvā manasi katvā sabbacetasā samannāharitvā ohitasotā "
 "dhammaṃ suṇanti."
 msgstr ""
-"And those mendicants were paying attention, focusing, concentrating "
-"wholeheartedly, and listening well."
+"And those mendicants were paying heed, paying attention, engaging "
+"wholeheartedly, and lending an ear."
 
 msgctxt "sn8.8:1.4"
 msgid "Atha kho āyasmato vaṅgīsassa etadahosi:"
@@ -72,8 +72,8 @@ msgid ""
 "Te ca bhikkhū aṭṭhiṃ katvā manasi katvā sabbacetasā samannāharitvā ohitasotā "
 "dhammaṃ suṇanti."
 msgstr ""
-"And the mendicants are paying attention, focusing, concentrating "
-"wholeheartedly, and listening well."
+"And those mendicants are paying heed, paying attention, engaging "
+"wholeheartedly, and lending an ear."
 
 msgctxt "sn8.8:1.7"
 msgid "Yannūnāhaṃ bhagavantaṃ sammukhā sāruppāhi gāthāhi abhitthaveyyan”ti."
@@ -146,7 +146,7 @@ msgstr "the Buddha is so brilliant,"
 #. <br>
 msgctxt "sn8.8:4.4"
 msgid "bhikkhusaṅghapurakkhato."
-msgstr "seated before the mendicant Saṅgha."
+msgstr "at the fore of the mendicant Saṅgha,"
 
 #. </p><p>
 #. <a class="sc" id="sc5"></a>
@@ -175,7 +175,7 @@ msgstr "that rains on your disciples."
 #. <a class="sc" id="sc6"></a>
 msgctxt "sn8.8:6.1"
 msgid "Divāvihārā nikkhamma,"
-msgstr "I’ve emerged from my day’s meditation,"
+msgstr "I’ve left my day’s meditation,"
 
 #. <br>
 #. VAR: satthudassanakamyatā → satthudassanakāmatā (s1-3, km)
@@ -279,7 +279,7 @@ msgstr "The bringer of light who has pierced the truth,"
 #. <br>
 msgctxt "sn8.8:10.2"
 msgid "Sabbaṭṭhitīnaṃ atikkamamaddasa;"
-msgstr "you’ve seen what lies beyond all states of rebirth."
+msgstr "you’ve seen what lies beyond all states of being."
 
 #. <br>
 msgctxt "sn8.8:10.3"
@@ -301,7 +301,7 @@ msgstr "When the Dhamma has been so well taught,"
 #. VAR: pamādo vijānataṃ dhammaṃ → ko pamādo vijānataṃ (bj, s1-3, km)
 msgctxt "sn8.8:11.2"
 msgid "Ko pamādo vijānataṃ dhammaṃ;"
-msgstr "how could those who understand it be negligent?"
+msgstr "how could those who know it be negligent?"
 
 #. <br>
 msgctxt "sn8.8:11.3"
