@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:24+0000\n"
+"POT-Creation-Date: 2018-10-15 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn/mn026.po\n"
-"X-Pootle-Revision: 732\n"
+"X-Pootle-Revision: 75066\n"
 
 #. <section class="sutta" id="mn26"><article><div class="hgroup"><p class="division">
 msgctxt "mn26:0.1"
@@ -80,7 +80,7 @@ msgstr "“Yes, reverend,” they replied."
 
 #. </p><p>
 #. <a class="nya" id="nya3"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.161"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.161"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn26:3.1"
 msgid ""
@@ -257,7 +257,7 @@ msgid "ariyā ca pariyesanā, anariyā ca pariyesanā."
 msgstr "the noble search and the ignoble search."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.162"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.162"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "mn26:5.3"
 msgid "Katamā ca, bhikkhave, anariyā pariyesanā?"
@@ -451,7 +451,7 @@ msgstr "This is the ignoble search."
 
 #. </p><p>
 #. <a class="nya" id="nya12"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.163"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.163"></a>
 #. <a class="sc" id="sc14"></a>
 msgctxt "mn26:12.1"
 msgid "Katamā ca, bhikkhave, ariyā pariyesanā?"
@@ -530,7 +530,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya14"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.164"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.164"></a>
 #. <a class="sc" id="sc16"></a>
 msgctxt "mn26:14.1"
 msgid ""
@@ -709,7 +709,7 @@ msgstr ""
 "point, and live having achieved it.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.165"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.165"></a>
 #. <a class="sc" id="sc22"></a>
 msgctxt "mn26:15.26"
 msgid "‘Lābhā no, āvuso, suladdhaṃ no, āvuso, "
@@ -774,7 +774,7 @@ msgid ""
 "‘nāyaṃ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya "
 "na sambodhāya na nibbānāya saṃvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti."
 msgstr ""
-"‘This teaching doesn’t lead to disillusionment, fading away, cessation, "
+"‘This teaching doesn’t lead to disillusionment, dispassion, cessation, "
 "peace, insight, awakening, and extinguishment. It only leads as far as "
 "rebirth in the dimension of nothingness.’"
 
@@ -782,8 +782,7 @@ msgctxt "mn26:15.36"
 msgid ""
 "So kho ahaṃ, bhikkhave, taṃ dhammaṃ analaṅkaritvā tasmā dhammā nibbijja "
 "apakkamiṃ."
-msgstr ""
-"Realizing that this teaching was inadequate, I got disillusioned and left."
+msgstr "Realizing that this teaching was inadequate, I left disappointed."
 
 #. </p><p>
 #. <a class="nya" id="nya16"></a>
@@ -852,13 +851,13 @@ msgid "addhā rāmo imaṃ dhammaṃ jānaṃ passaṃ vihāsī’ti."
 msgstr "Surely he meditated knowing and seeing this teaching.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.166"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.166"></a>
 #. <a class="sc" id="sc25"></a>
 msgctxt "mn26:16.11"
 msgid ""
 "Atha khvāhaṃ, bhikkhave, yena udako rāmaputto tenupasaṅkamiṃ; upasaṅkamitvā "
 "udakaṃ rāmaputtaṃ etadavocaṃ:"
-msgstr "So I approached Uddaka, Rāma’s son, and said to him:"
+msgstr "So I approached Uddaka, son of Rāma, and said to him:"
 
 msgctxt "mn26:16.12"
 msgid ""
@@ -872,7 +871,7 @@ msgctxt "mn26:16.13"
 msgid ""
 "Evaṃ vutte, bhikkhave, udako rāmaputto nevasaññānāsaññāyatanaṃ pavedesi."
 msgstr ""
-"When I said this, Uddaka, Rāma’s son, declared the dimension of neither "
+"When I said this, Uddaka, son of Rāma, declared the dimension of neither "
 "perception nor non-perception."
 
 msgctxt "mn26:16.14"
@@ -921,7 +920,7 @@ msgctxt "mn26:16.22"
 msgid ""
 "Atha khvāhaṃ, bhikkhave, yena udako rāmaputto tenupasaṅkamiṃ; upasaṅkamitvā "
 "udakaṃ rāmaputtaṃ etadavocaṃ:"
-msgstr "So I approached Uddaka, Rāma’s son, and said to him:"
+msgstr "So I approached Uddaka, son of Rāma, and said to him:"
 
 #. </p><p>
 #. <a class="sc" id="sc27"></a>
@@ -1016,7 +1015,7 @@ msgid ""
 "na sambodhāya na nibbānāya saṃvattati, yāvadeva "
 "nevasaññānāsaññāyatanūpapattiyā’ti."
 msgstr ""
-"‘This teaching doesn’t lead to disillusionment, fading away, cessation, "
+"‘This teaching doesn’t lead to disillusionment, dispassion, cessation, "
 "peace, insight, awakening, and extinguishment. It only leads as far as "
 "rebirth in the dimension of neither perception nor non-perception.’"
 
@@ -1024,12 +1023,11 @@ msgctxt "mn26:16.36"
 msgid ""
 "So kho ahaṃ, bhikkhave, taṃ dhammaṃ analaṅkaritvā tasmā dhammā nibbijja "
 "apakkamiṃ."
-msgstr ""
-"Realizing that this teaching was inadequate, I got disillusioned and left."
+msgstr "Realizing that this teaching was inadequate, I left disappointed."
 
 #. </p><p>
 #. <a class="nya" id="nya17"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.167"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.167"></a>
 #. <a class="sc" id="sc32"></a>
 msgctxt "mn26:17.1"
 msgid ""
@@ -1116,7 +1114,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.168"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.168"></a>
 #. <a class="sc" id="sc34"></a>
 msgctxt "mn26:19.1"
 msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
@@ -1333,7 +1331,7 @@ msgid "Avekkhassu jātijarābhibhūtaṃ."
 msgstr "overwhelmed with sorrow, oppressed by rebirth and old age."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.169"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.169"></a>
 #. <a class="sc" id="sc40"></a>
 msgctxt "mn26:20.20"
 msgid "Uṭṭhehi vīra vijitasaṅgāma,"
@@ -1376,8 +1374,8 @@ msgstr ""
 "And I saw sentient beings with little dust in their eyes, and some with much "
 "dust in their eyes; with keen faculties and with weak faculties, with good "
 "qualities and with bad qualities, easy to teach and hard to teach. And some "
-"of them lived seeing the danger in the flaw to do with the next world, while "
-"others did not."
+"of them lived seeing the danger in the fault to do with the next world, "
+"while others did not."
 
 #. VAR: ṭhitāni → tiṭṭhanti (bj, s1-3, pts1)
 msgctxt "mn26:21.3"
@@ -1443,7 +1441,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya22"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.170"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.170"></a>
 #. <a class="sc" id="sc44"></a>
 msgctxt "mn26:22.1"
 msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
@@ -1529,7 +1527,7 @@ msgid ""
 "‘ayaṃ kho udako rāmaputto paṇḍito viyatto medhāvī dīgharattaṃ "
 "apparajakkhajātiko."
 msgstr ""
-"‘That Uddaka, Rāma’s son, is astute, competent, clever, and has long had "
+"‘That Uddaka, son of Rāma, is astute, competent, clever, and has long had "
 "little dust in his eyes."
 
 msgctxt "mn26:23.6"
@@ -1546,7 +1544,7 @@ msgstr "But a deity came to me and said:"
 
 msgctxt "mn26:23.9"
 msgid "‘abhidosakālaṅkato, bhante, udako rāmaputto’ti."
-msgstr "‘Sir, Uddaka, Rāma’s son, passed away just last night.’"
+msgstr "‘Sir, Uddaka, son of Rāma, passed away just last night.’"
 
 msgctxt "mn26:23.10"
 msgid "Ñāṇañca pana me dassanaṃ udapādi:"
@@ -1554,7 +1552,7 @@ msgstr "And knowledge and vision arose in me:"
 
 msgctxt "mn26:23.11"
 msgid "‘abhidosakālaṅkato udako rāmaputto’ti."
-msgstr "‘Uddaka, Rāma’s son, passed away just last night.’"
+msgstr "‘Uddaka, son of Rāma, passed away just last night.’"
 
 msgctxt "mn26:23.12"
 msgid "Tassa mayhaṃ, bhikkhave, etadahosi:"
@@ -1624,7 +1622,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya25"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.171"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.171"></a>
 #. <a class="sc" id="sc47"></a>
 #. VAR: ājīvako → ājīviko (si, pts1, mr)
 msgctxt "mn26:25.1"
@@ -1780,7 +1778,7 @@ msgid ""
 "Evaṃ vutte, bhikkhave, upako ājīvako ‘hupeyyapāvuso’ti vatvā sīsaṃ okampetvā "
 "ummaggaṃ gahetvā pakkāmi."
 msgstr ""
-"When I had spoken, Upaka said: ‘If you say so, reverend.’ Wobbling his head, "
+"When I had spoken, Upaka said: ‘If you say so, reverend.’ Shaking his head, "
 "he took a wrong turn and left."
 
 #. </p><p>
@@ -1843,7 +1841,7 @@ msgstr "But they still addressed me by name and as ‘reverend’."
 
 #. </p><p>
 #. <a class="nya" id="nya27"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.172"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.172"></a>
 #. <a class="sc" id="sc56"></a>
 msgctxt "mn26:27.1"
 msgid "Evaṃ vutte, ahaṃ, bhikkhave, pañcavaggiye bhikkhū etadavocaṃ:"
@@ -1863,8 +1861,8 @@ msgid ""
 "Odahatha, bhikkhave, sotaṃ, amatamadhigataṃ, ahamanusāsāmi, ahaṃ dhammaṃ "
 "desemi."
 msgstr ""
-"Listen, mendicants: I have achieved the Deathless! I shall instruct you, I "
-"will teach you the Dhamma."
+"Listen up, mendicants: I have achieved the Deathless! I shall instruct you, "
+"I will teach you the Dhamma."
 
 msgctxt "mn26:27.5"
 msgid ""
@@ -1917,8 +1915,8 @@ msgid ""
 "Odahatha, bhikkhave, sotaṃ, amatamadhigataṃ, ahamanusāsāmi, ahaṃ dhammaṃ "
 "desemi."
 msgstr ""
-"Listen, mendicants: I have achieved the Deathless! I shall instruct you, I "
-"will teach you the Dhamma."
+"Listen up, mendicants: I have achieved the Deathless! I shall instruct you, "
+"I will teach you the Dhamma."
 
 msgctxt "mn26:27.12"
 msgid ""
@@ -1977,7 +1975,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya28"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.173"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.173"></a>
 #. <a class="sc" id="sc59"></a>
 msgctxt "mn26:28.1"
 msgid "Evaṃ vutte, ahaṃ, bhikkhave, pañcavaggiye bhikkhū etadavocaṃ:"
@@ -2002,8 +2000,8 @@ msgid ""
 "Odahatha, bhikkhave, sotaṃ, amatamadhigataṃ, ahamanusāsāmi, ahaṃ dhammaṃ "
 "desemi."
 msgstr ""
-"Listen, mendicants: I have achieved the Deathless! I shall instruct you, I "
-"will teach you the Dhamma."
+"Listen up, mendicants: I have achieved the Deathless! I shall instruct you, "
+"I will teach you the Dhamma."
 
 msgctxt "mn26:28.6"
 msgid ""
@@ -2137,7 +2135,7 @@ msgstr ""
 "have met with calamity and disaster, and are vulnerable to the Wicked One."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.174"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.174"></a>
 #. <a class="sc" id="sc63"></a>
 msgctxt "mn26:32.3"
 msgid "Seyyathāpi, bhikkhave, āraññako mago baddho pāsarāsiṃ adhisayeyya."
@@ -2234,7 +2232,7 @@ msgid ""
 "gacchati, vissattho tiṭṭhati, vissattho nisīdati, vissattho seyyaṃ kappeti."
 msgstr ""
 "Suppose there was a wild deer wandering in the forest that walked, stood, "
-"sat, and lay down in confidence."
+"sat, and laid down in confidence."
 
 msgctxt "mn26:34.2"
 msgid "Taṃ kissa hetu?"
@@ -2369,7 +2367,7 @@ msgstr "This is called a mendicant who has blinded Māra …"
 
 #. </p><p>
 #. <a class="nya" id="nya41"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.175"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.175"></a>
 #. <a class="sc" id="sc72"></a>
 msgctxt "mn26:41.1"
 msgid ""

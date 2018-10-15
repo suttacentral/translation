@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:24+0000\n"
+"POT-Creation-Date: 2018-10-15 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn/mn036.po\n"
-"X-Pootle-Revision: 752\n"
+"X-Pootle-Revision: 71164\n"
 
 #. <section class="sutta" id="mn36"><article><div class="hgroup"><p class="division">
 msgctxt "mn36:0.1"
@@ -99,7 +99,7 @@ msgstr ""
 # “development of body” is too literal. this is not body building—the opposite, if anything.
 #. </p><p>
 #. <a class="nya" id="nya4"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.238"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.238"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn36:4.1"
 msgid ""
@@ -275,7 +275,7 @@ msgid "Te imaṃ kāyaṃ balaṃ gāhenti nāma, brūhenti nāma, medenti nām�
 msgstr "They gather their body’s strength, build it up, and get fat.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.239"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.239"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "mn36:6.5"
 msgid ""
@@ -396,7 +396,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya9"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.240"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.240"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "mn36:9.1"
 msgid "Kathañca, aggivessana, bhāvitakāyo ca hoti bhāvitacitto ca?"
@@ -528,8 +528,8 @@ msgid ""
 "Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā "
 "anagāriyaṃ pabbajeyyan’ti."
 msgstr ""
-"Why don’t I shave off my hair and beard, dressed in ocher robes, and go "
-"forth from the lay life to homelessness?’"
+"Why don’t I shave off my hair and beard, dress in ocher robes, and go forth "
+"from the lay life to homelessness?’"
 
 #. <a class="nya" id="nya13"></a>
 msgctxt "mn36:13.1"
@@ -757,7 +757,7 @@ msgid ""
 "‘nāyaṃ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya "
 "na sambodhāya na nibbānāya saṃvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti."
 msgstr ""
-"‘This teaching doesn’t lead to disillusionment, fading away, cessation, "
+"‘This teaching doesn’t lead to disillusionment, dispassion, cessation, "
 "peace, insight, awakening, and extinguishment. It only leads as far as "
 "rebirth in the dimension of nothingness.’"
 
@@ -765,8 +765,7 @@ msgctxt "mn36:14.15"
 msgid ""
 "So kho ahaṃ, aggivessana, taṃ dhammaṃ analaṅkaritvā tasmā dhammā nibbijja "
 "apakkamiṃ."
-msgstr ""
-"Realizing that this teaching was inadequate, I got disillusioned and left."
+msgstr "Realizing that this teaching was inadequate, I left disappointed."
 
 #. </p><p>
 #. <a class="nya" id="nya15"></a>
@@ -836,7 +835,7 @@ msgctxt "mn36:15.11"
 msgid ""
 "Atha khvāhaṃ, aggivessana, yena udako rāmaputto tenupasaṅkamiṃ; "
 "upasaṅkamitvā udakaṃ rāmaputtaṃ etadavocaṃ:"
-msgstr "So I approached Uddaka, Rāma’s son, and said to him:"
+msgstr "So I approached Uddaka, son of Rāma, and said to him:"
 
 msgctxt "mn36:15.12"
 msgid ""
@@ -850,7 +849,7 @@ msgctxt "mn36:15.13"
 msgid ""
 "Evaṃ vutte, aggivessana, udako rāmaputto nevasaññānāsaññāyatanaṃ pavedesi."
 msgstr ""
-"When I said this, Uddaka, Rāma’s son, declared the dimension of neither "
+"When I said this, Uddaka, son of Rāma, declared the dimension of neither "
 "perception nor non-perception."
 
 msgctxt "mn36:15.14"
@@ -899,7 +898,7 @@ msgctxt "mn36:15.22"
 msgid ""
 "Atha khvāhaṃ, aggivessana, yena udako rāmaputto tenupasaṅkamiṃ; "
 "upasaṅkamitvā udakaṃ rāmaputtaṃ etadavocaṃ:"
-msgstr "So I approached Uddaka, Rāma’s son, and said to him:"
+msgstr "So I approached Uddaka, son of Rāma, and said to him:"
 
 msgctxt "mn36:15.23"
 msgid ""
@@ -978,7 +977,7 @@ msgid ""
 "na sambodhāya na nibbānāya saṃvattati, yāvadeva "
 "nevasaññānāsaññāyatanūpapattiyā’ti."
 msgstr ""
-"‘This teaching doesn’t lead to disillusionment, fading away, cessation, "
+"‘This teaching doesn’t lead to disillusionment, dispassion, cessation, "
 "peace, insight, awakening, and extinguishment. It only leads as far as "
 "rebirth in the dimension of neither perception nor non-perception.’"
 
@@ -986,8 +985,7 @@ msgctxt "mn36:15.35"
 msgid ""
 "So kho ahaṃ, aggivessana, taṃ dhammaṃ analaṅkaritvā tasmā dhammā nibbijja "
 "apakkamiṃ."
-msgstr ""
-"Realizing that this teaching was inadequate, I got disillusioned and left."
+msgstr "Realizing that this teaching was inadequate, I left disappointed."
 
 #. </p><p>
 #. <a class="nya" id="nya16"></a>
@@ -1040,7 +1038,7 @@ msgstr "‘This is good enough for meditation.’"
 
 #. </p><p>
 #. <a class="nya" id="nya17"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.241"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.241"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "mn36:17.1"
 msgid ""
@@ -1202,7 +1200,7 @@ msgstr "This was the second example that occurred to me."
 
 #. </p><p>
 #. <a class="nya" id="nya19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.242"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.242"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "mn36:19.1"
 msgid ""
@@ -1287,7 +1285,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya20"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.243"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.243"></a>
 #. <a class="sc" id="sc20"></a>
 msgctxt "mn36:20.1"
 msgid "Tassa mayhaṃ, aggivessana, etadahosi:"
@@ -1338,9 +1336,9 @@ msgid ""
 "asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho teneva "
 "dukkhappadhānena padhānābhitunnassa sato."
 msgstr ""
-"My energy was roused up and vigorous, and my mindfulness was established and "
-"lucid, but my body was disturbed, not tranquil, because I’d pushed too hard "
-"with that painful striving."
+"My energy was roused up and unflagging, and my mindfulness was established "
+"and lucid, but my body was disturbed, not tranquil, because I’d pushed too "
+"hard with that painful striving."
 
 msgctxt "mn36:20.8"
 msgid ""
@@ -1386,9 +1384,9 @@ msgid ""
 "asammuṭṭhā. Sāraddho ca pana me kāyo hoti appaṭippassaddho teneva "
 "dukkhappadhānena padhānābhitunnassa sato."
 msgstr ""
-"My energy was roused up and vigorous, and my mindfulness was established and "
-"lucid, but my body was disturbed, not tranquil, because I’d pushed too hard "
-"with that painful striving."
+"My energy was roused up and unflagging, and my mindfulness was established "
+"and lucid, but my body was disturbed, not tranquil, because I’d pushed too "
+"hard with that painful striving."
 
 msgctxt "mn36:21.8"
 msgid ""
@@ -1440,9 +1438,9 @@ msgid ""
 "asammuṭṭhā. Sāraddho ca pana me kāyo hoti appaṭippassaddho teneva "
 "dukkhappadhānena padhānābhitunnassa sato."
 msgstr ""
-"My energy was roused up and vigorous, and my mindfulness was established and "
-"lucid, but my body was disturbed, not tranquil, because I’d pushed too hard "
-"with that painful striving."
+"My energy was roused up and unflagging, and my mindfulness was established "
+"and lucid, but my body was disturbed, not tranquil, because I’d pushed too "
+"hard with that painful striving."
 
 msgctxt "mn36:22.8"
 msgid ""
@@ -1452,7 +1450,7 @@ msgstr "But even such painful feeling did not occupy my mind."
 
 #. </p><p>
 #. <a class="nya" id="nya23"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.244"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.244"></a>
 #. <a class="sc" id="sc23"></a>
 msgctxt "mn36:23.1"
 msgid "Tassa mayhaṃ, aggivessana, etadahosi:"
@@ -1492,9 +1490,9 @@ msgid ""
 "asammuṭṭhā. Sāraddho ca pana me kāyo hoti appaṭippassaddho teneva "
 "dukkhappadhānena padhānābhitunnassa sato."
 msgstr ""
-"My energy was roused up and vigorous, and my mindfulness was established and "
-"lucid, but my body was disturbed, not tranquil, because I’d pushed too hard "
-"with that painful striving."
+"My energy was roused up and unflagging, and my mindfulness was established "
+"and lucid, but my body was disturbed, not tranquil, because I’d pushed too "
+"hard with that painful striving."
 
 msgctxt "mn36:23.8"
 msgid ""
@@ -1545,9 +1543,9 @@ msgid ""
 "asammuṭṭhā. Sāraddho ca pana me kāyo hoti appaṭippassaddho teneva "
 "dukkhappadhānena padhānābhitunnassa sato."
 msgstr ""
-"My energy was roused up and vigorous, and my mindfulness was established and "
-"lucid, but my body was disturbed, not tranquil, because I’d pushed too hard "
-"with that painful striving."
+"My energy was roused up and unflagging, and my mindfulness was established "
+"and lucid, but my body was disturbed, not tranquil, because I’d pushed too "
+"hard with that painful striving."
 
 msgctxt "mn36:24.8"
 msgid ""
@@ -1557,7 +1555,7 @@ msgstr "But even such painful feeling did not occupy my mind."
 
 #. </p><p>
 #. <a class="nya" id="nya25"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.245"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.245"></a>
 #. <a class="sc" id="sc25"></a>
 msgctxt "mn36:25.1"
 msgid "Tassa mayhaṃ, aggivessana, etadahosi:"
@@ -1599,9 +1597,9 @@ msgid ""
 "asammuṭṭhā. Sāraddho ca pana me kāyo hoti appaṭippassaddho teneva "
 "dukkhappadhānena padhānābhitunnassa sato."
 msgstr ""
-"My energy was roused up and vigorous, and my mindfulness was established and "
-"lucid, but my body was disturbed, not tranquil, because I’d pushed too hard "
-"with that painful striving."
+"My energy was roused up and unflagging, and my mindfulness was established "
+"and lucid, but my body was disturbed, not tranquil, because I’d pushed too "
+"hard with that painful striving."
 
 msgctxt "mn36:25.8"
 msgid ""
@@ -1684,11 +1682,11 @@ msgstr ""
 
 msgctxt "mn36:27.8"
 msgid "So kho ahaṃ, aggivessana, tā devatā paccācikkhāmi, ‘halan’ti vadāmi."
-msgstr "So I said dismissed those deities, saying, ‘There’s no need.’"
+msgstr "So I dismissed those deities, saying, ‘There’s no need.’"
 
 #. </p><p>
 #. <a class="nya" id="nya28"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.246"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.246"></a>
 #. <a class="sc" id="sc27"></a>
 msgctxt "mn36:28.1"
 msgid "Tassa mayhaṃ, aggivessana, etadahosi:"
@@ -1818,7 +1816,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya30"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.247"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.247"></a>
 #. <a class="sc" id="sc29"></a>
 msgctxt "mn36:30.1"
 msgid "Tassa mayhaṃ, aggivessana, etadahosi:"
@@ -1945,8 +1943,7 @@ msgctxt "mn36:33.6"
 msgid ""
 "Yato kho ahaṃ, aggivessana, oḷārikaṃ āhāraṃ āhāresiṃ odanakummāsaṃ, atha me "
 "te pañca bhikkhū nibbijja pakkamiṃsu:"
-msgstr ""
-"But when I ate some solid food, they got disillusioned and left, saying:"
+msgstr "But when I ate some solid food, they left disappointed in me, saying:"
 
 #. VAR: bāhulliko → bāhuliko (bj, pts1)
 msgctxt "mn36:33.7"
@@ -2027,7 +2024,7 @@ msgstr "But even such pleasant feeling did not occupy my mind."
 
 #. </p><p>
 #. <a class="nya" id="nya38"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.248"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.248"></a>
 #. <a class="sc" id="sc32"></a>
 msgctxt "mn36:38.1"
 msgid ""
@@ -2035,9 +2032,9 @@ msgid ""
 "mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṃ "
 "abhininnāmesiṃ."
 msgstr ""
-"When my mind had immersed in samādhi like this—purified, bright, spotless, "
-"rid of taints, pliable, workable, steady, and imperturbable—I extended it "
-"toward recollection of past lives."
+"When my mind had immersed in samādhi like this—purified, bright, flawless, "
+"rid of imperfections, pliable, workable, steady, and imperturbable—I "
+"extended it toward recollection of past lives."
 
 msgctxt "mn36:38.2"
 msgid ""
@@ -2075,9 +2072,9 @@ msgid ""
 "mudubhūte kammaniye ṭhite āneñjappatte sattānaṃ cutūpapātañāṇāya cittaṃ "
 "abhininnāmesiṃ."
 msgstr ""
-"When my mind had immersed in samādhi like this—purified, bright, spotless, "
-"rid of taints, pliable, workable, steady, and imperturbable—I extended it "
-"toward knowledge of the death and rebirth of sentient beings."
+"When my mind had immersed in samādhi like this—purified, bright, flawless, "
+"rid of imperfections, pliable, workable, steady, and imperturbable—I "
+"extended it toward knowledge of the death and rebirth of sentient beings."
 
 msgctxt "mn36:40.2"
 msgid ""
@@ -2120,9 +2117,9 @@ msgid ""
 "mudubhūte kammaniye ṭhite āneñjappatte āsavānaṃ khayañāṇāya cittaṃ "
 "abhininnāmesiṃ."
 msgstr ""
-"When my mind had immersed in samādhi like this—purified, bright, spotless, "
-"rid of taints, pliable, workable, steady, and imperturbable—I extended it "
-"toward knowledge of the ending of defilements."
+"When my mind had immersed in samādhi like this—purified, bright, flawless, "
+"rid of imperfections, pliable, workable, steady, and imperturbable—I "
+"extended it toward knowledge of the ending of defilements."
 
 msgctxt "mn36:42.2"
 msgid ""
@@ -2155,7 +2152,7 @@ msgstr ""
 
 msgctxt "mn36:43.2"
 msgid "Vimuttasmiṃ vimuttamiti ñāṇaṃ ahosi."
-msgstr "When freed, I knew ‘it is freed’."
+msgstr "When it was freed, I knew it was freed."
 
 msgctxt "mn36:43.3"
 msgid ""
@@ -2224,7 +2221,7 @@ msgstr ""
 
 # Cp. Ss 2, yathatam yuva yuvatim, “just like a boy would say to a girl”
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.250"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.250"></a>
 #. <a class="sc" id="sc36"></a>
 msgctxt "mn36:45.7"
 msgid "“Okappaniyametaṃ bhoto gotamassa yathā taṃ arahato sammāsambuddhassa."
@@ -2311,7 +2308,7 @@ msgstr ""
 "The Realized One has given up the defilements—corruptions that lead to "
 "future lives and are hurtful, resulting in suffering and future rebirth, old "
 "age, and death. He has cut them off at the root, made them like a palm "
-"stump, exterminated them so they are unable to arise in the future."
+"stump, obliterated them so they are unable to arise in the future."
 
 msgctxt "mn36:47.6"
 msgid "Seyyathāpi, aggivessana, tālo matthakacchinno abhabbo puna virūḷhiyā;"
@@ -2329,7 +2326,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya48"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.251"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi1.251"></a>
 #. <a class="sc" id="sc39"></a>
 msgctxt "mn36:48.1"
 msgid "Evaṃ vutte, saccako nigaṇṭhaputto bhagavantaṃ etadavoca:"

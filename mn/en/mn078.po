@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:12+0000\n"
+"POT-Creation-Date: 2018-10-15 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn/mn078.po\n"
-"X-Pootle-Revision: 836\n"
+"X-Pootle-Revision: 58731\n"
 
 #. <section class="sutta" id="mn78"><article><div class="hgroup"><p class="division">
 msgctxt "mn78:0.1"
@@ -22,7 +22,7 @@ msgstr "Middle Discourses 78"
 #. </p><h1>
 msgctxt "mn78:0.2"
 msgid "Samaṇamuṇḍikasutta"
-msgstr "With Samaṇamuṇḍika"
+msgstr "With Uggāhamāna Samaṇamuṇḍika"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
@@ -742,7 +742,7 @@ msgstr "And what are unskillful thoughts?"
 
 msgctxt "mn78:12.2"
 msgid "Kāmasaṅkappo, byāpādasaṅkappo, vihiṃsāsaṅkappo—"
-msgstr "Thoughts of sensuality, of ill will, and of harming."
+msgstr "Thoughts of sensuality, of malice, and of cruelty."
 
 msgctxt "mn78:12.3"
 msgid "ime vuccanti, thapati, akusalā saṅkappā."
@@ -772,7 +772,7 @@ msgstr "Perception takes many and diverse forms."
 
 msgctxt "mn78:12.9"
 msgid "Kāmasaññā, byāpādasaññā, vihiṃsāsaññā—"
-msgstr "Perceptions of sensuality, ill will, and harming—"
+msgstr "Perceptions of sensuality, malice, and cruelty—"
 
 msgctxt "mn78:12.10"
 msgid "itosamuṭṭhānā akusalā saṅkappā."
@@ -978,8 +978,8 @@ msgid ""
 "sammāñāṇena samannāgato hoti, asekhāya sammāvimuttiyā samannāgato hoti—"
 msgstr ""
 "It’s when a mendicant has an adept’s right view, right thought, right "
-"speech, right action, right livelihood, right mindfulness, right immersion, "
-"right knowledge, and right freedom."
+"speech, right action, right livelihood, right effort, right mindfulness, "
+"right immersion, right knowledge, and right freedom."
 
 msgctxt "mn78:14.3"
 msgid ""

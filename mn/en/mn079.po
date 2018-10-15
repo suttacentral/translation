@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:12+0000\n"
+"POT-Creation-Date: 2018-10-15 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn/mn079.po\n"
-"X-Pootle-Revision: 838\n"
+"X-Pootle-Revision: 59574\n"
 
 #. <section class="sutta" id="mn79"><article><div class="hgroup"><p class="division">
 msgctxt "mn79:0.1"
@@ -43,7 +43,7 @@ msgid ""
 "paṭivasati mahatiyā paribbājakaparisāya saddhiṃ."
 msgstr ""
 "Now at that time the wanderer Sakuludāyī was residing together with a large "
-"assembly of wanderers in the monastery of the wanderers in the peacock’s "
+"assembly of wanderers in the monastery of the wanderers in the peacocks’ "
 "feeding ground."
 
 #. <a class="nya" id="nya2"></a>
@@ -343,13 +343,13 @@ msgstr "I shall teach you the Dhamma:"
 
 msgctxt "mn79:7.7"
 msgid "imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati;"
-msgstr "When this exists, that is; due to the arising of this, that arises."
+msgstr "‘When this exists, that is; due to the arising of this, that arises."
 
 msgctxt "mn79:7.8"
 msgid "imasmiṃ asati idaṃ na hoti, imassa nirodhā idaṃ nirujjhatī”ti."
 msgstr ""
 "When this doesn’t exist, that is not; due to the cessation of this, that "
-"ceases.”"
+"ceases.’”"
 
 #. </p><p>
 #. <a class="nya" id="nya8"></a>
@@ -398,7 +398,7 @@ msgstr "I shall teach you the Dhamma:"
 
 msgctxt "mn79:8.8"
 msgid "imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati;"
-msgstr "When this exists, that is; due to the arising of this, that arises."
+msgstr "“When this exists, that is; due to the arising of this, that arises."
 
 msgctxt "mn79:8.9"
 msgid ""
@@ -406,7 +406,7 @@ msgid ""
 "bhiyyoso mattāya na pakkhāyati."
 msgstr ""
 "When this doesn’t exist, that is not; due to the cessation of this, that "
-"ceases.’ But that is even more unclear to me."
+"ceases.”’ But that is even more unclear to me."
 
 msgctxt "mn79:8.10"
 msgid ""
@@ -791,7 +791,7 @@ msgid ""
 "Te mayaṃ, bhante, bhagavatā sake ācariyake samanuyuñjīyamānā "
 "samanuggāhīyamānā samanubhāsīyamānā rittā tucchā aparaddhā”ti."
 msgstr ""
-"But when engaged, pressed, and examined on our own teacher’s doctrine, we "
+"But when pursued, pressed, and grilled on our own teacher’s doctrine, we "
 "turned out to be void, hollow, and mistaken.”"
 
 #. </p><p>
@@ -802,7 +802,7 @@ msgid ""
 "“Kiṃ panudāyi, atthi ekantasukho loko, atthi ākāravatī paṭipadā "
 "ekantasukhassa lokassa sacchikiriyāyā”ti?"
 msgstr ""
-"“But Udāyī, is there a world of perfect happiness? And is there a reasonable "
+"“But Udāyī, is there a world of perfect happiness? And is there a grounded "
 "path for realizing a world of perfect happiness?”"
 
 msgctxt "mn79:20.2"
@@ -814,8 +814,8 @@ msgid ""
 "‘atthi ekantasukho loko, atthi ākāravatī paṭipadā ekantasukhassa lokassa "
 "sacchikiriyāyā’”ti."
 msgstr ""
-"‘There is a world of perfect happiness. And there is a reasonable path for "
-"realizing a world of perfect happiness.’"
+"‘There is a world of perfect happiness. And there is a grounded path for "
+"realizing a world of perfect happiness.’”"
 
 #. </p><p>
 #. <a class="nya" id="nya21"></a>
@@ -826,7 +826,7 @@ msgid ""
 "“Katamā pana sā, udāyi, ākāravatī paṭipadā ekantasukhassa lokassa "
 "sacchikiriyāyā”ti?"
 msgstr ""
-"“Well, what is that reasonable path for realizing a world of perfect "
+"“Well, what is that grounded path for realizing a world of perfect "
 "happiness?”"
 
 # Vā is frequently conjunctive, and I think this makes more sense here.
@@ -845,8 +845,7 @@ msgctxt "mn79:21.3"
 msgid ""
 "Ayaṃ kho sā, bhante, ākāravatī paṭipadā ekantasukhassa lokassa "
 "sacchikiriyāyā”ti."
-msgstr ""
-"This is the reasonable path for realizing a world of perfect happiness.”"
+msgstr "This is the grounded path for realizing a world of perfect happiness.”"
 
 #. </p><p>
 #. <a class="nya" id="nya22"></a>
@@ -970,7 +969,7 @@ msgid ""
 "‘atthi ekantasukho loko, atthi ākāravatī paṭipadā ekantasukhassa lokassa "
 "sacchikiriyāyā’ti."
 msgstr ""
-"‘There is a world of perfect happiness. And there is a reasonable path for "
+"‘There is a world of perfect happiness. And there is a grounded path for "
 "realizing a world of perfect happiness.’"
 
 #. VAR: aparaddhā”ti → aparaddhāpi (s1-3, km, pts1)
@@ -979,7 +978,7 @@ msgid ""
 "Te mayaṃ, bhante, bhagavatā sake ācariyake samanuyuñjiyamānā "
 "samanuggāhiyamānā samanubhāsiyamānā rittā tucchā aparaddhā”ti."
 msgstr ""
-"But when engaged, pressed, and examined on our own teacher’s doctrine, we "
+"But when pursued, pressed, and grilled on our own teacher’s doctrine, we "
 "turned out to be void, hollow, and mistaken."
 
 #. </p><p>
@@ -990,8 +989,8 @@ msgid ""
 "“Kiṃ pana, bhante, atthi ekantasukho loko, atthi ākāravatī paṭipadā "
 "ekantasukhassa lokassa sacchikiriyāyā”ti?"
 msgstr ""
-"But sir, is there a world of perfect happiness? And is there a reasonable "
-"path for realizing a world of perfect happiness?”"
+"But sir, is there a world of perfect happiness? And is there a grounded path "
+"for realizing a world of perfect happiness?”"
 
 #. <a class="nya" id="nya24"></a>
 msgctxt "mn79:24.1"
@@ -999,8 +998,8 @@ msgid ""
 "“Atthi kho, udāyi, ekantasukho loko, atthi ākāravatī paṭipadā ekantasukhassa "
 "lokassa sacchikiriyāyā”ti."
 msgstr ""
-"“There is a world of perfect happiness, Udāyī. And there is a reasonable "
-"path for realizing a world of perfect happiness.”"
+"“There is a world of perfect happiness, Udāyī. And there is a grounded path "
+"for realizing a world of perfect happiness.”"
 
 #. </p><p>
 #. <a class="sc" id="sc35"></a>
@@ -1009,7 +1008,7 @@ msgid ""
 "“Katamā pana sā, bhante, ākāravatī paṭipadā ekantasukhassa lokassa "
 "sacchikiriyāyā”ti?"
 msgstr ""
-"“Well sir, what is that reasonable path for realizing a world of perfect "
+"“Well sir, what is that grounded path for realizing a world of perfect "
 "happiness?”"
 
 #. <a class="nya" id="nya25"></a>
@@ -1037,8 +1036,7 @@ msgctxt "mn79:25.4"
 msgid ""
 "ayaṃ kho sā, udāyi, ākāravatī paṭipadā ekantasukhassa lokassa "
 "sacchikiriyāyā”ti."
-msgstr ""
-"This is the reasonable path for realizing a world of perfect happiness.”"
+msgstr "This is the grounded path for realizing a world of perfect happiness.”"
 
 #. </p><p>
 #. <a class="sc" id="sc36"></a>
@@ -1048,7 +1046,7 @@ msgid ""
 "“Na kho sā, bhante, ākāravatī paṭipadā ekantasukhassa lokassa "
 "sacchikiriyāya, sacchikato hissa, bhante, ettāvatā ekantasukho loko hotī”ti."
 msgstr ""
-"“Sir, that’s not the reasonable path for realizing a world of perfect "
+"“Sir, that’s not the grounded path for realizing a world of perfect "
 "happiness. At that point a perfectly happy world has already been realized.”"
 
 msgctxt "mn79:25.6"
@@ -1058,8 +1056,7 @@ msgstr ""
 
 msgctxt "mn79:25.7"
 msgid "ākāravatī tveva sā paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti."
-msgstr ""
-"This is the reasonable path for realizing a world of perfect happiness.”"
+msgstr "This is the grounded path for realizing a world of perfect happiness.”"
 
 #. </p><p>
 #. <a class="nya" id="nya26"></a>
@@ -1219,8 +1216,8 @@ msgid ""
 "abhininnāmeti."
 msgstr ""
 "When their mind has become immersed in samādhi like this—purified, bright, "
-"spotless, rid of taints, pliable, workable, steady, and imperturbable—they "
-"extend it toward recollection of past lives."
+"flawless, rid of imperfections, pliable, workable, steady, and imperturbable—"
+"they extend it toward recollection of past lives."
 
 msgctxt "mn79:41.2"
 msgid ""
@@ -1249,8 +1246,8 @@ msgid ""
 "abhininnāmeti."
 msgstr ""
 "When their mind has become immersed in samādhi like this—purified, bright, "
-"spotless, rid of taints, pliable, workable, steady, and imperturbable—they "
-"extend it toward knowledge of the death and rebirth of sentient beings."
+"flawless, rid of imperfections, pliable, workable, steady, and imperturbable—"
+"they extend it toward knowledge of the death and rebirth of sentient beings."
 
 msgctxt "mn79:42.2"
 msgid ""
@@ -1280,8 +1277,8 @@ msgid ""
 "abhininnāmeti."
 msgstr ""
 "When their mind has become immersed in samādhi like this—purified, bright, "
-"spotless, rid of taints, pliable, workable, steady, and imperturbable—they "
-"extend it toward knowledge of the ending of defilements."
+"flawless, rid of imperfections, pliable, workable, steady, and imperturbable—"
+"they extend it toward knowledge of the ending of defilements."
 
 msgctxt "mn79:43.2"
 msgid ""
@@ -1313,7 +1310,7 @@ msgstr ""
 
 msgctxt "mn79:44.2"
 msgid "Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti."
-msgstr "When freed, they know ‘it is freed’."
+msgstr "When they’re freed, they know they’re freed."
 
 msgctxt "mn79:44.3"
 msgid ""
@@ -1356,10 +1353,10 @@ msgid ""
 "cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhagavatā anekapariyāyena dhammo "
 "pakāsito."
 msgstr ""
-"As if he was righting the overturned, or revealing the hidden, or pointing "
+"As if he were righting the overturned, or revealing the hidden, or pointing "
 "out the path to the lost, or lighting a lamp in the dark so people with good "
-"eyes can see what’s there, so too the Buddha has made the teaching clear in "
-"many ways."
+"eyes can see what’s there, the Buddha has made the teaching clear in many "
+"ways."
 
 msgctxt "mn79:45.4"
 msgid ""

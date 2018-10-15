@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:12+0000\n"
+"POT-Creation-Date: 2018-10-15 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn/mn086.po\n"
-"X-Pootle-Revision: 8564\n"
+"X-Pootle-Revision: 78774\n"
 
 #. <section class="sutta" id="mn86"><article><div class="hgroup"><p class="division">
 msgctxt "mn86:0.1"
@@ -132,7 +132,7 @@ msgstr "But when they said this, the Buddha went on in silence."
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn86:3.12"
 msgid "Dutiyampi kho gopālakā … pe …"
-msgstr "For a second time,"
+msgstr "For a second time …"
 
 msgctxt "mn86:3.13"
 msgid ""
@@ -196,12 +196,12 @@ msgstr "Still they meet their end by my hand."
 msgctxt "mn86:4.7"
 msgid "Atha ca panāyaṃ samaṇo eko adutiyo pasayha maññe āgacchati."
 msgstr ""
-"But still this ascetic comes along alone and unaccompanied, like he’d beaten "
-"me already."
+"But still this ascetic comes along alone and unaccompanied, like he had "
+"beaten me already."
 
 msgctxt "mn86:4.8"
 msgid "Yannūnāhaṃ imaṃ samaṇaṃ jīvitā voropeyyan”ti."
-msgstr "Why don’t I take his life?’"
+msgstr "Why don’t I take his life?”"
 
 #. </p><p>
 #. <a class="nya" id="nya5"></a>
@@ -308,7 +308,7 @@ msgstr "I’m asking you this, ascetic:"
 #. <br>
 msgctxt "mn86:6.5"
 msgid "Kathaṃ ṭhito tvaṃ ahamaṭṭhitomhī”ti."
-msgstr "How is it you’ve stopped and I have not?”"
+msgstr "how is it you’ve stopped and I have not?”"
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
@@ -324,19 +324,19 @@ msgstr "I’ve cast off violence towards all creatures."
 #. <br>
 msgctxt "mn86:6.8"
 msgid "Tuvañca pāṇesu asaññatosi,"
-msgstr "But you’re uncontrolled towards living creatures;"
+msgstr "But you can’t stop yourself from harming living creatures;"
 
 #. <br>
 msgctxt "mn86:6.9"
 msgid "Tasmā ṭhitohaṃ tuvamaṭṭhitosī”ti."
-msgstr "That’s why I’ve stopped, but you have not.”"
+msgstr "that’s why I’ve stopped, but you have not.”"
 
 #. </p><p>
 #. <a class="pts-vp-pi" id="pts-vp-pi2.100"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "mn86:6.10"
 msgid "“Cirassaṃ vata me mahito mahesī,"
-msgstr "“Oh, at long last an ascetic,"
+msgstr "“Oh, at long last a hermit,"
 
 # taking me to apply to mahita; I prefer this because of proximity and thinness; it adds less meaning. Readings as per PTS, etc.
 #. <br>
@@ -376,13 +376,13 @@ msgstr "He venerated the Holy One’s feet,"
 #. <br>
 msgctxt "mn86:6.17"
 msgid "Tattheva naṃ pabbajjaṃ ayāci."
-msgstr "and asked for the going forth right there."
+msgstr "and asked him for the going forth right away."
 
 #. </p><p>
 #. <a class="sc" id="sc10"></a>
 msgctxt "mn86:6.18"
 msgid "Buddho ca kho kāruṇiko mahesi,"
-msgstr "Then the Buddha, the compassionate great sage,"
+msgstr "Then the Buddha, the compassionate great hermit,"
 
 #. <br>
 msgctxt "mn86:6.19"
@@ -412,7 +412,7 @@ msgstr ""
 
 msgctxt "mn86:7.2"
 msgid "Anupubbena cārikaṃ caramāno yena sāvatthi tadavasari."
-msgstr "Travelling stage by stage, he arrived at Sāvatthī,"
+msgstr "Traveling stage by stage, he arrived at Sāvatthī,"
 
 msgctxt "mn86:7.3"
 msgid ""
@@ -500,7 +500,7 @@ msgid ""
 "adayāpanno pāṇabhūtesu."
 msgstr ""
 "In my realm there is a bandit named Aṅgulimāla. He is violent, bloody-"
-"handed, a hardened killer, merciless to living beings."
+"handed, a hardened killer, merciless to living beings. …"
 
 msgctxt "mn86:10.3"
 msgid ""
@@ -655,7 +655,7 @@ msgid ""
 "bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho rājā "
 "pasenadi kosalo bhagavantaṃ etadavoca:"
 msgstr ""
-"Then the king went back to the Buddha bowed, sat down to one side, and said "
+"Then the king went back to the Buddha, bowed, sat down to one side, and said "
 "to him:"
 
 msgctxt "mn86:13.5"
@@ -677,7 +677,7 @@ msgid ""
 "adaṇḍena asattheneva danto."
 msgstr ""
 "For I was not able to tame him with the rod and the sword, but the Buddha "
-"tamed him without rod or the sword."
+"tamed him without rod or sword."
 
 #. VAR: Handa ca dāni → handadāni (s1-3, km, pts1)
 msgctxt "mn86:13.8"
@@ -719,7 +719,7 @@ msgid ""
 "Addasā kho āyasmā aṅgulimālo sāvatthiyaṃ sapadānaṃ piṇḍāya caramāno "
 "aññataraṃ itthiṃ mūḷhagabbhaṃ vighātagabbhaṃ."
 msgstr ""
-"Then as he was walking for alms to be consumed on site he saw a woman "
+"Then as he was wandering indiscriminately for alms-food he saw a woman "
 "undergoing a painful obstructed labor."
 
 msgctxt "mn86:14.3"
@@ -894,7 +894,7 @@ msgstr "The Buddha saw him coming off in the distance,"
 
 msgctxt "mn86:17.5"
 msgid "Disvāna āyasmantaṃ aṅgulimālaṃ etadavoca:"
-msgstr "and said:"
+msgstr "and said to him:"
 
 msgctxt "mn86:17.6"
 msgid "“adhivāsehi tvaṃ, brāhmaṇa, adhivāsehi tvaṃ, brāhmaṇa."
@@ -955,7 +955,7 @@ msgstr "Someone who, with skillful deeds,"
 #. VAR: pidhīyati → pithīyati (bj, s1-3, km, pts1)
 msgctxt "mn86:18.8"
 msgid "kusalena pidhīyati;"
-msgstr "closes the door on bad things they’ve done,"
+msgstr "shuts the door on bad things they’ve done,"
 
 #. <br>
 msgctxt "mn86:18.9"
@@ -1043,15 +1043,16 @@ msgctxt "mn86:18.24"
 msgid "aññaṃ vā pana kiñci naṃ;"
 msgstr "upon myself or others."
 
+# pappuyya is absolutive, not optative as per BB.
 #. <br>
 msgctxt "mn86:18.25"
 msgid "Pappuyya paramaṃ santiṃ,"
-msgstr "Protecting creatures firm and fragile,"
+msgstr "Having arrived at ultimate peace,"
 
 #. <br>
 msgctxt "mn86:18.26"
 msgid "rakkheyya tasathāvare."
-msgstr "they’d attain ultimate peace."
+msgstr "they’d look after creatures firm and frail."
 
 #. </p><p>
 #. <a class="sc" id="sc31"></a>
@@ -1068,7 +1069,7 @@ msgstr "and fletchers straighten arrows;"
 #. <br>
 msgctxt "mn86:18.29"
 msgid "Dāruṃ namayanti tacchakā,"
-msgstr "carpenters shape timber—"
+msgstr "carpenters carve timber—"
 
 #. <br>
 msgctxt "mn86:18.30"
@@ -1158,7 +1159,7 @@ msgstr "See the refuge I’ve found—"
 #. <br>
 msgctxt "mn86:18.46"
 msgid "bhavanetti samūhatā."
-msgstr "the attachment to being reborn is undone."
+msgstr "the attachment to rebirth is eradicated."
 
 #. </p><p>
 #. <a class="sc" id="sc36"></a>

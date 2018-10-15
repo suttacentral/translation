@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:12+0000\n"
+"POT-Creation-Date: 2018-10-15 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn/mn092.po\n"
-"X-Pootle-Revision: 8628\n"
+"X-Pootle-Revision: 78545\n"
 
 #. <section class="sutta" id="mn92"><article><div class="hgroup"><p class="division">
 msgctxt "mn92:0.1"
@@ -142,7 +142,7 @@ msgstr ""
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn92:3.8"
 msgid "Dutiyampi kho keṇiyo jaṭilo bhagavantaṃ etadavoca:"
-msgstr "For a second time,"
+msgstr "For a second time …"
 
 msgctxt "mn92:3.9"
 msgid ""
@@ -237,8 +237,8 @@ msgid ""
 "veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo, tīṇi ca māṇavakasatāni "
 "mante vāceti."
 msgstr ""
-"Now at that time the brahmin Sela was residing in Āpaṇa. He was an expert in "
-"the three Vedas, together with their vocabularies, ritual, phonology and "
+"Now at that time the brahmin Sela was residing in Āpaṇa. He had mastered the "
+"three Vedas, together with their vocabularies, ritual, phonology and "
 "etymology, and the testament as fifth. He knew philology and grammar, and "
 "was well versed in cosmology and the marks of a great man. And he was "
 "teaching three hundred students to recite the hymns."
@@ -480,7 +480,8 @@ msgctxt "mn92:13.3"
 msgid ""
 "Ekamantaṃ nisinno kho selo brāhmaṇo bhagavato kāye "
 "dvattiṃsamahāpurisalakkhaṇāni samannesi."
-msgstr "and searched his body for the thirty-two marks of a great man."
+msgstr ""
+"and scrutinized the Buddha’s body for the thirty-two marks of a great man."
 
 #. </p><p>
 #. <a class="sc" id="sc15"></a>
@@ -498,7 +499,7 @@ msgstr "which he had doubts about:"
 msgctxt "mn92:13.6"
 msgid "kosohite ca vatthaguyhe pahūtajivhatāya ca."
 msgstr ""
-"whether the private parts were retracted, and the largeness of the tongue."
+"whether the private parts are retracted, and the largeness of the tongue."
 
 msgctxt "mn92:13.7"
 msgid "Atha kho bhagavato etadahosi:"
@@ -580,7 +581,7 @@ msgstr "Why don’t I extoll him in his presence with appropriate verses?”"
 msgctxt "mn92:15.7"
 msgid ""
 "Atha kho selo brāhmaṇo bhagavantaṃ sammukhā sāruppāhi gāthāhi abhitthavi:"
-msgstr "Then Sela extolled the Buddha in his presence with appropriate verses."
+msgstr "Then Sela extolled the Buddha in his presence with appropriate verses:"
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="nya" id="nya16"></a>
@@ -641,7 +642,7 @@ msgstr "you’re formidable, upright, majestic."
 #. <br>
 msgctxt "mn92:16.11"
 msgid "Majjhe samaṇasaṃghassa,"
-msgstr "In the middle of the Saṅgha of ascetics,"
+msgstr "In the midst of the Saṅgha of ascetics,"
 
 #. <br>
 msgctxt "mn92:16.12"
@@ -652,7 +653,7 @@ msgstr "you shine like the sun."
 #. <a class="sc" id="sc20"></a>
 msgctxt "mn92:16.13"
 msgid "Kalyāṇadassano bhikkhu,"
-msgstr "You’re a mendicant lovely to see,"
+msgstr "You’re a mendicant fine to see,"
 
 #. <br>
 msgctxt "mn92:16.14"
@@ -689,7 +690,7 @@ msgstr "victorious in the four directions,"
 #. VAR: jambusaṇḍassa → jambumaṇḍassa (si, mr)
 msgctxt "mn92:16.20"
 msgid "jambusaṇḍassa issaro."
-msgstr "sovereign of all India."
+msgstr "lord of all India."
 
 #. </p><p>
 #. <a class="sc" id="sc22"></a>
@@ -728,12 +729,12 @@ msgstr "the supreme king of the teaching."
 #. <br>
 msgctxt "mn92:17.3"
 msgid "Dhammena cakkaṃ vattemi,"
-msgstr "By the teaching I roll forth the wheel,"
+msgstr "By the teaching I roll forth the wheel"
 
 #. <br>
 msgctxt "mn92:17.4"
 msgid "cakkaṃ appaṭivattiyaṃ”."
-msgstr "and it cannot be rolled back.”"
+msgstr "which cannot be rolled back.”"
 
 #. </p><p>
 #. <a class="nya" id="nya18"></a>
@@ -788,7 +789,7 @@ msgstr "“By me the wheel was rolled forth,” said the Buddha,"
 #. <br>
 msgctxt "mn92:19.2"
 msgid "Dhammacakkaṃ anuttaraṃ;"
-msgstr "“The supreme wheel of teaching."
+msgstr "“the supreme wheel of teaching."
 
 #. <br>
 msgctxt "mn92:19.3"
@@ -831,7 +832,7 @@ msgstr "Dispel your doubt in me—"
 #. <br>
 msgctxt "mn92:19.10"
 msgid "adhimuccassu brāhmaṇa;"
-msgstr "Make up your mind, brahmin!"
+msgstr "make up your mind, brahmin!"
 
 #. <br>
 msgctxt "mn92:19.11"
@@ -858,7 +859,7 @@ msgstr "the supreme surgeon,"
 #. <br>
 msgctxt "mn92:19.15"
 msgid "Sohaṃ brāhmaṇa sambuddho,"
-msgstr "whose appearance in the world"
+msgstr "one of those whose appearance in the world"
 
 #. <br>
 msgctxt "mn92:19.16"
@@ -938,7 +939,7 @@ msgstr "Those who wish may follow me;"
 #. <br>
 msgctxt "mn92:20.10"
 msgid "yo vā nicchati gacchatu;"
-msgstr "those who don’t wish may go."
+msgstr "those who don’t may go."
 
 #. <br>
 msgctxt "mn92:20.11"
@@ -1005,7 +1006,7 @@ msgstr "“The spiritual life is well explained,” said the Buddha,"
 #. <br>
 msgctxt "mn92:23.2"
 msgid "Sandiṭṭhikamakālikaṃ;"
-msgstr "“Realizable in this very life, immediately effective."
+msgstr "“realizable in this very life, immediately effective."
 
 #. <br>
 msgctxt "mn92:23.3"
@@ -1218,7 +1219,7 @@ msgstr "You have transcended attachments,"
 #. <br>
 msgctxt "mn92:28.11"
 msgid "āsavā te padālitā;"
-msgstr "your defilements have been torn apart;"
+msgstr "your defilements are shattered;"
 
 #. <br>
 msgctxt "mn92:28.12"
@@ -1228,7 +1229,7 @@ msgstr "by not grasping, like a lion,"
 #. <br>
 msgctxt "mn92:28.13"
 msgid "pahīnabhayabheravo."
-msgstr "you’ve given up fear and dread."
+msgstr "you’ve given up fear and terror."
 
 #. </p><p>
 #. <a class="sc" id="sc46"></a>

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:24+0000\n"
+"POT-Creation-Date: 2018-10-15 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/mn/mn095.po\n"
-"X-Pootle-Revision: 870\n"
+"X-Pootle-Revision: 77596\n"
 
 #. <section class="sutta" id="mn95"><article><div class="hgroup"><p class="division">
 msgctxt "mn95:0.1"
@@ -26,7 +26,7 @@ msgstr "With Caṅkī"
 
 #. </h1></div><p>
 #. <a class="nya" id="nya1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.164"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.164"></a>
 #. <a class="sc" id="sc1"></a>
 msgctxt "mn95:1.1"
 msgid "Evaṃ me sutaṃ—​"
@@ -45,7 +45,7 @@ msgctxt "mn95:1.3"
 msgid ""
 "Tatra sudaṃ bhagavā opāsāde viharati uttarena opāsādaṃ devavane sālavane."
 msgstr ""
-"He stayed on in a sal grove to the north of Opāsāda called the “Gods’ Grove”."
+"He stayed in a sal grove to the north of Opāsāda called the “Gods’ Grove”."
 
 # BB has “grasslands, woodlands, and waterlands” for satiṇakaṭṭhodakaṃ, but these things refer to the products, not the productive land, see AN 7.67: tiṇakaṭṭhodakaṃ sannicitaṃ. For Brahmadeyya, comm. regularly has Brahmadeyyanti seṭṭhadeyyaṃ, so “sacred grant” would seem inappropriate. also, ajjhavasati means “dwell, live”, not “rule”.
 #. <a class="nya" id="nya2"></a>
@@ -113,7 +113,7 @@ msgstr "It’s good to see such perfected ones.”"
 # I think the idiom saṅghasaṅghī gaṇībhūtā is a little more meaningful than “groups and bands”. I think it refers to the various groups in a town—guilds, clans—each forming together.
 #. </p><p>
 #. <a class="nya" id="nya4"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.165"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.165"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "mn95:4.1"
 msgid ""
@@ -147,7 +147,7 @@ msgid ""
 "“kiṃ nu kho, bho khatte, opāsādakā brāhmaṇagahapatikā opāsādā nikkhamitvā "
 "saṅghasaṅghī gaṇībhūtā uttarenamukhā gacchanti yena devavanaṃ sālavanan”ti?"
 msgstr ""
-"“My steward, why are the brahmins and householders headed north for the God’"
+"“My steward, why are the brahmins and householders heading north for the God’"
 "s Grove?”"
 
 #. <a class="nya" id="nya6"></a>
@@ -191,7 +191,7 @@ msgctxt "mn95:6.7"
 msgid ""
 "āgamentu kira bhonto, caṅkīpi brāhmaṇo samaṇaṃ gotamaṃ dassanāya "
 "upasaṅkamissatī’”ti."
-msgstr "you to wait, as he will also go to see the asectic Gotama.”"
+msgstr "you to wait, as he will also go to see the ascetic Gotama.”"
 
 msgctxt "mn95:6.8"
 msgid ""
@@ -212,7 +212,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya7"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.166"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.166"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "mn95:7.1"
 msgid ""
@@ -292,7 +292,7 @@ msgid ""
 "sākkharappabhedānaṃ itihāsapañcamānaṃ, padako, veyyākaraṇo, "
 "lokāyatamahāpurisalakkhaṇesu anavayo … pe …"
 msgstr ""
-"You recite and remember the hymns, and are an expert in the three Vedas, "
+"You recite and remember the hymns, and have mastered the three Vedas, "
 "together with their vocabularies, ritual, phonology and etymology, and the "
 "testament as fifth. You know philology and grammar, and are well versed in "
 "cosmology and the marks of a great man. …"
@@ -440,7 +440,7 @@ msgstr ""
 "from the lay life to homelessness. …"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.167"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.167"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "mn95:9.10"
 msgid ""
@@ -576,7 +576,7 @@ msgstr ""
 "life to the ascetic Gotama. …"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.168"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.168"></a>
 #. <a class="sc" id="sc23"></a>
 msgctxt "mn95:9.26"
 msgid ""
@@ -654,7 +654,7 @@ msgstr "Well then, gentlemen, let’s all go to see the ascetic Gotama.”"
 
 #. </p><p>
 #. <a class="nya" id="nya10"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.169"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.169"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "mn95:10.1"
 msgid ""
@@ -688,8 +688,8 @@ msgid ""
 "lokāyatamahāpurisalakkhaṇesu anavayo tassaṃ parisāyaṃ nisinno hoti."
 msgstr ""
 "Now at that time the brahmin student Kāpaṭika was sitting in that assembly. "
-"He was young, just tonsured; he was sixteen years old. He was an expert in "
-"the three Vedas, together with their vocabularies, ritual, phonology and "
+"He was young, just tonsured; he was sixteen years old. He had mastered the "
+"three Vedas, together with their vocabularies, ritual, phonology and "
 "etymology, and the testament as fifth. He knew philology and grammar, and "
 "was well versed in cosmology and the marks of a great man."
 
@@ -768,7 +768,7 @@ msgid ""
 msgstr "Then the Buddha, knowing what Kāpaṭika was thinking, looked at him."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.170"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.170"></a>
 #. <a class="sc" id="sc25"></a>
 msgctxt "mn95:12.7"
 msgid "Atha kho kāpaṭikassa māṇavassa etadahosi:"
@@ -776,7 +776,7 @@ msgstr "Then Kāpaṭika thought:"
 
 msgctxt "mn95:12.8"
 msgid "“samannāharati kho maṃ samaṇo gotamo."
-msgstr "“The ascetic Gotama is concentrating on me."
+msgstr "“The ascetic Gotama is engaging with me."
 
 msgctxt "mn95:12.9"
 msgid "Yannūnāhaṃ samaṇaṃ gotamaṃ pañhaṃ puccheyyan”ti."
@@ -821,7 +821,7 @@ msgctxt "mn95:13.4"
 msgid "“No hidaṃ, bho gotama”."
 msgstr "“No, Master Gotama.”"
 
-# BB has: “a single teacher or a single teacher’s teacher back to the seventh generation of teachers”. But see DN 13, which clearly treats the last two clauses as separate. That this is so in the current case is confirmed by the three “-pi” s.
+# BB has: “a single teacher or a single teacher’s teacher back to the seventh generation of teachers”. But see DN 13, which clearly treats the last two clauses as separate. That this is so in the current case is confirmed by the three “-pli” s.
 msgctxt "mn95:13.5"
 msgid ""
 "“Kiṃ pana, bhāradvāja, atthi koci brāhmaṇānaṃ ekācariyopi, "
@@ -851,7 +851,7 @@ msgid ""
 "vācitamanuvācenti seyyathidaṃ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi "
 "aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu,"
 msgstr ""
-"“Well, what of the ancient seers of the brahmins, namely Aṭṭhaka, Vāmaka, "
+"“Well, what of the ancient hermits of the brahmins, namely Aṭṭhaka, Vāmaka, "
 "Vāmadeva, Vessāmitta, Yamadaggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa, "
 "and Bhagu? They were the authors and propagators of the hymns, whose hymnal "
 "was sung and propagated and compiled in ancient times. These days, brahmins "
@@ -911,7 +911,7 @@ msgid ""
 "tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti "
 "seyyathidaṃ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo "
 "vāseṭṭho kassapo bhagu, tepi na evamāhaṃsu:"
-msgstr "nor even the ancient seers of the brahmins who says:"
+msgstr "nor even the ancient hermits of the brahmins who say:"
 
 msgctxt "mn95:13.21"
 msgid "‘mayametaṃ jānāma, mayametaṃ passāma."
@@ -922,7 +922,7 @@ msgid "Idameva saccaṃ, moghamaññan’ti."
 msgstr "this is the only truth, other ideas are stupid.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.171"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.171"></a>
 #. <a class="sc" id="sc27"></a>
 msgctxt "mn95:13.23"
 msgid ""
@@ -1102,7 +1102,7 @@ msgstr "But this is not yet the awakening to the truth.”"
 
 #. </p><p>
 #. <a class="nya" id="nya16"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.172"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.172"></a>
 #. <a class="sc" id="sc29"></a>
 msgctxt "mn95:16.1"
 msgid ""
@@ -1134,8 +1134,8 @@ msgctxt "mn95:17.2"
 msgid ""
 "Tamenaṃ gahapati vā gahapatiputto vā upasaṅkamitvā tīsu dhammesu samannesati—"
 msgstr ""
-"A householder or their child approaches and searches them for three kinds of "
-"things:"
+"A householder or their child approaches and scrutinizes them for three kinds "
+"of things:"
 
 # BB has “based on …”. But in the similar phrases at AN 4.117 and 5.114 it seems the meaning as i have given, and there BB has “things that provoke …”
 msgctxt "mn95:17.3"
@@ -1168,13 +1168,13 @@ msgstr ""
 
 msgctxt "mn95:17.7"
 msgid "Tamenaṃ samannesamāno evaṃ jānāti:"
-msgstr "Searching them they find that"
+msgstr "Scrutinizing them they find:"
 
 msgctxt "mn95:17.8"
 msgid ""
 "‘natthi kho imassāyasmato tathārūpā lobhanīyā dhammā yathārūpehi lobhanīyehi "
 "dhammehi pariyādinnacitto ajānaṃ vā vadeyya—"
-msgstr "they have no such qualities that arouse greed."
+msgstr "‘This venerable has no such qualities that arouse greed."
 
 msgctxt "mn95:17.9"
 msgid "jānāmīti, apassaṃ vā vadeyya—"
@@ -1218,8 +1218,8 @@ msgid ""
 "Yato naṃ samannesamāno visuddhaṃ lobhanīyehi dhammehi samanupassati tato naṃ "
 "uttari samannesati dosanīyesu dhammesu."
 msgstr ""
-"Searching them in this way they see that they are purified of qualities that "
-"arouse greed. Next, they search them for qualities that provoke hate."
+"Scrutinizing them in this way they see that they are purified of qualities "
+"that arouse greed. Next, they search them for qualities that provoke hate."
 
 msgctxt "mn95:18.2"
 msgid ""
@@ -1245,13 +1245,13 @@ msgstr ""
 
 msgctxt "mn95:18.5"
 msgid "Tamenaṃ samannesamāno evaṃ jānāti:"
-msgstr "Searching them they find that"
+msgstr "Scrutinizing them they find:"
 
 msgctxt "mn95:18.6"
 msgid ""
 "‘natthi kho imassāyasmato tathārūpā dosanīyā dhammā yathārūpehi dosanīyehi "
 "dhammehi pariyādinnacitto ajānaṃ vā vadeyya—"
-msgstr "they have no such qualities that provoke hate."
+msgstr "‘This venerable has no such qualities that provoke hate."
 
 msgctxt "mn95:18.7"
 msgid "jānāmīti, apassaṃ vā vadeyya—"
@@ -1286,15 +1286,16 @@ msgstr "It’s not easy for someone with hate to teach this.’"
 
 #. </p><p>
 #. <a class="nya" id="nya19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.173"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.173"></a>
 #. <a class="sc" id="sc31"></a>
 msgctxt "mn95:19.1"
 msgid ""
 "Yato naṃ samannesamāno visuddhaṃ dosanīyehi dhammehi samanupassati, tato naṃ "
 "uttari samannesati mohanīyesu dhammesu."
 msgstr ""
-"Searching them in this way they see that they are purified of qualities that "
-"provoke hate. Next, they search them for qualities that promote delusion."
+"Scrutinizing them in this way they see that they are purified of qualities "
+"that provoke hate. Next, they scrutinize them for qualities that promote "
+"delusion."
 
 msgctxt "mn95:19.2"
 msgid ""
@@ -1320,13 +1321,13 @@ msgstr ""
 
 msgctxt "mn95:19.5"
 msgid "Tamenaṃ samannesamāno evaṃ jānāti:"
-msgstr "Searching them they find that"
+msgstr "Scrutinizing them they find:"
 
 msgctxt "mn95:19.6"
 msgid ""
 "‘natthi kho imassāyasmato tathārūpā mohanīyā dhammā yathārūpehi mohanīyehi "
 "dhammehi pariyādinnacitto ajānaṃ vā vadeyya—"
-msgstr "they have no such qualities that promote delusion."
+msgstr "‘This venerable has no such qualities that promote delusion."
 
 msgctxt "mn95:19.7"
 msgid "jānāmīti, apassaṃ vā vadeyya—"
@@ -1365,8 +1366,8 @@ msgstr "It’s not easy for someone with delusion to teach this.’"
 msgctxt "mn95:20.1"
 msgid "Yato naṃ samannesamāno visuddhaṃ mohanīyehi dhammehi samanupassati;"
 msgstr ""
-"Searching them in this way they see that they are purified of qualities that "
-"promote delusion."
+"Scrutinizing them in this way they see that they are purified of qualities "
+"that promote delusion."
 
 #. VAR: dhatānaṃ → dhāritānaṃ (pts1, mr)
 msgctxt "mn95:20.2"
@@ -1380,7 +1381,7 @@ msgid ""
 "passati."
 msgstr ""
 "Next, they place faith in them. When faith has arisen they approach the "
-"teacher. They pay homage, listen well, hear the teachings, remember the "
+"teacher. They pay homage, lend an ear, hear the teachings, remember the "
 "teachings, reflect on their meaning, and accept them after consideration. "
 "Then enthusiasm springs up; they make an effort, scrutinize, and persevere. "
 "Persevering, they directly realize the ultimate truth, and see it with "
@@ -1400,7 +1401,7 @@ msgstr "But this is not yet the arrival at the truth.”"
 
 #. </p><p>
 #. <a class="nya" id="nya21"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.174"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.174"></a>
 #. <a class="sc" id="sc33"></a>
 msgctxt "mn95:21.1"
 msgid ""
@@ -1553,7 +1554,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya26"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.175"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.175"></a>
 #. <a class="sc" id="sc38"></a>
 msgctxt "mn95:26.1"
 msgid "“Chandassa pana, bho gotama, katamo dhammo bahukāro?"
@@ -1668,7 +1669,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="nya" id="nya30"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.176"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.176"></a>
 #. <a class="sc" id="sc42"></a>
 msgctxt "mn95:30.1"
 msgid "“Dhammassavanassa pana, bho gotama, katamo dhammo bahukāro?"
@@ -1777,7 +1778,7 @@ msgstr "That’s why faith is helpful for approaching a teacher.”"
 
 #. </p><p>
 #. <a class="nya" id="nya34"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.177"></a>
+#. <a class="pts-vp-pi" id="pts-vp-pi2.177"></a>
 #. <a class="sc" id="sc46"></a>
 msgctxt "mn95:34.1"
 msgid ""
