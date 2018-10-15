@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:27+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an/an06/an6.043.po\n"
-"X-Pootle-Revision: 8623\n"
+"X-Pootle-Revision: 77030\n"
 
 #. <section class="sutta" id="an6.43"><article><div class="hgroup"><p class="division">
 msgctxt "an6.43:0.1"
@@ -232,7 +232,7 @@ msgstr "And I celebrate the well-spoken words of the Buddha with these verses:"
 #. <a class="sc" id="sc5"></a>
 msgctxt "an6.43:5.1"
 msgid "Manussabhūtaṃ sambuddhaṃ,"
-msgstr "A person who has become awakened as a human being,"
+msgstr "Awakened as a human being,"
 
 #. <br>
 msgctxt "an6.43:5.2"
@@ -247,7 +247,7 @@ msgstr "following the spiritual path,"
 #. <br>
 msgctxt "an6.43:5.4"
 msgid "cittassūpasame rataṃ."
-msgstr "loves peace of mind."
+msgstr "he loves peace of mind."
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
@@ -275,7 +275,7 @@ msgstr "so I’ve heard from the perfected one."
 #. <a class="sc" id="sc7"></a>
 msgctxt "an6.43:7.1"
 msgid "Sabbasaṃyojanātītaṃ,"
-msgstr "He has transcended all fetters,"
+msgstr "He has transcended all fetters"
 
 #. <br>
 #. VAR: nibbanamāgataṃ → nibbāna … (s1-3, km, pts1)
@@ -287,7 +287,7 @@ msgstr "and escaped from entanglements."
 #. VAR: nekkhammarataṃ → nekkhamme rataṃ (si)
 msgctxt "an6.43:7.3"
 msgid "Kāmehi nekkhammarataṃ,"
-msgstr "Delighting in the renunciation of sensual pleasures,"
+msgstr "Delighting to renounce sensual pleasures,"
 
 #. <br>
 msgctxt "an6.43:7.4"
@@ -303,7 +303,7 @@ msgstr "That giant outshines all,"
 #. <br>
 msgctxt "an6.43:8.2"
 msgid "himavāññe siluccaye;"
-msgstr "as the Himalaya outshines other mountains."
+msgstr "like the Himalaya beside other mountains."
 
 #. <br>
 msgctxt "an6.43:8.3"
@@ -487,7 +487,7 @@ msgctxt "an6.43:16.4"
 msgid "sucigandhaṃ manoramaṃ."
 msgstr "but the water doesn’t cling to it."
 
-# BB has “well-born”, but I suspect lokesu is merely a locative plural metri causa.
+# BB has “well-born”, but I suspect lokesu is merely a locative plural metri causa. The parallel line in Tag 15.2 lacks su, inserting a ca instead.
 #. </p><p>
 #. <a class="sc" id="sc17"></a>
 msgctxt "an6.43:17.1"

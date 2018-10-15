@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an/an01/an1.011-20.po\n"
-"X-Pootle-Revision: 988\n"
+"X-Pootle-Revision: 61869\n"
 
 #. <section id="vagga"><section class="sutta" data-uid="an1.11" id="11"><article><div class="hgroup"><p class="division">
 msgctxt "an1.11-20:0.1"
 msgid "Aṅguttara Nikāya 1"
-msgstr "Numbered Collection 1"
+msgstr "Numbered Discourses 1"
 
 #. </p><p>
 #. VAR: nīvaraṇappahāṇavaggo (bj) | nīvaraṇavagga (pts1)
@@ -31,7 +31,7 @@ msgid "11"
 msgstr "11"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.3"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.3"></a>
 #. <a class="sc" id="sc11.1"></a>
 msgctxt "an1.11-20:11.1.1"
 msgid ""
@@ -47,7 +47,7 @@ msgid ""
 "Subhanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando "
 "uppajjati uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattatī”ti."
 msgstr ""
-"When you attend improperly on the aspect of beauty, sensual desire arises, "
+"When you attend improperly to the aspect of beauty, sensual desire arises, "
 "and once arisen it increases and grows.”"
 
 #. </p><p class="endsection">
@@ -76,7 +76,7 @@ msgid ""
 "Paṭighanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva byāpādo "
 "uppajjati uppanno ca byāpādo bhiyyobhāvāya vepullāya saṃvattatī”ti."
 msgstr ""
-"When you attend improperly on the aspect of repulsion, ill will arises, and "
+"When you attend improperly to the aspect of repulsion, ill will arises, and "
 "once arisen it increases and grows.”"
 
 #. </p><p class="endsection">
@@ -154,7 +154,7 @@ msgid "15"
 msgstr "15"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.4"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.4"></a>
 #. <a class="sc" id="sc15.1"></a>
 msgctxt "an1.11-20:15.1.1"
 msgid ""
@@ -199,7 +199,7 @@ msgid ""
 "Asubhanimittaṃ, bhikkhave, yoniso manasi karoto anuppanno ceva kāmacchando "
 "nuppajjati uppanno ca kāmacchando pahīyatī”ti."
 msgstr ""
-"When you attend properly on the aspect of ugliness, sensual desire does not "
+"When you attend properly to the aspect of ugliness, sensual desire does not "
 "arise, or, if it’s already arisen, it’s given up.”"
 
 #. </p><p class="endsection">
@@ -252,7 +252,7 @@ msgid ""
 msgstr ""
 "“Mendicants, I do not see a single thing that prevents dullness and "
 "drowsiness from arising, or, when they have arisen, by which they are given "
-"up like the elements of initiative, persistence, and exertion."
+"up like the elements of initiative, persistence, and vigor."
 
 msgctxt "an1.11-20:18.1.2"
 msgid ""
@@ -303,7 +303,7 @@ msgid "20"
 msgstr "20"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.5"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.5"></a>
 #. <a class="sc" id="sc20.1"></a>
 msgctxt "an1.11-20:20.1.1"
 msgid ""

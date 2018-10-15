@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:27+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an/an04/an4.052.po\n"
-"X-Pootle-Revision: 1504\n"
+"X-Pootle-Revision: 76663\n"
 
 #. <section class="sutta" id="an4.52"><article><div class="hgroup"><p class="division">
 msgctxt "an4.52:0.1"
@@ -108,10 +108,10 @@ msgid ""
 msgstr ""
 "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, "
 "straightforward, methodical, and proper. It consists of the four pairs, the "
-"eight individuals. This Saṅgha of the Buddha’s disciples is worthy of "
-"offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’"
-"s offering, and worthy of greeting with joined palms. It is a supreme field "
-"of merit for the world.’"
+"eight individuals. This is the Saṅgha of the Buddha’s disciples that is "
+"worthy of offerings dedicated to the gods, worthy of hospitality, worthy of "
+"a teacher’s offering, worthy of greeting with joined palms, and is the "
+"supreme field of merit for the world.’"
 
 msgctxt "an4.52:3.3"
 msgid ""
@@ -130,8 +130,8 @@ msgid ""
 "aparāmaṭṭhehi samādhisaṃvattanikehi."
 msgstr ""
 "Furthermore, a noble disciple’s ethical conduct is loved by the noble ones, "
-"unbroken, unflawed, unblemished, untainted, liberating, praised by sensible "
-"people, not mistaken, and leading to immersion."
+"unbroken, impeccable, spotless, and unmarred, liberating, praised by "
+"sensible people, not mistaken, and leading to immersion."
 
 msgctxt "an4.52:4.2"
 msgid ""
@@ -160,7 +160,7 @@ msgstr "Whoever has faith in the Realized One,"
 #. <br>
 msgctxt "an4.52:5.2"
 msgid "acalā suppatiṭṭhitā;"
-msgstr "unwavering and well established;"
+msgstr "unwavering and well grounded;"
 
 #. <br>
 msgctxt "an4.52:5.3"
@@ -197,23 +197,23 @@ msgstr "their life is not in vain."
 #. <a class="sc" id="sc7"></a>
 msgctxt "an4.52:7.1"
 msgid "Tasmā saddhañca sīlañca,"
-msgstr "And so an intelligent person,"
+msgstr "So let the wise devote themselves"
 
 # This line is of course displaced. Like BB, I render buddhanasasana as singular, despite that fact that the received form is plural. I assume the original reading is anusasana. It seems to me incongruous that one should be asked to “remember the instruction of (all) the Buddhas”.
 #. <br>
 msgctxt "an4.52:7.2"
 msgid "pasādaṃ dhammadassanaṃ;"
-msgstr "remembering the Buddha’s instructions,"
+msgstr "to faith, ethical behaviour,"
 
 #. <br>
 msgctxt "an4.52:7.3"
 msgid "Anuyuñjetha medhāvī,"
-msgstr "should be committed to faith and ethics,"
+msgstr "confidence, and insight into the teaching,"
 
 #. <br>
 msgctxt "an4.52:7.4"
 msgid "saraṃ buddhāna sāsanan”ti."
-msgstr "confidence, and seeing the truth.”"
+msgstr "remembering the instructions of the Buddhas."
 
 #. </p></blockquote><p class="endsection">
 msgctxt "an4.52:7.5"

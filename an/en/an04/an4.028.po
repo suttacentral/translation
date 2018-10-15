@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:27+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an/an04/an4.028.po\n"
-"X-Pootle-Revision: 1456\n"
+"X-Pootle-Revision: 62185\n"
 
 #. <section class="sutta" id="an4.28"><article><div class="hgroup"><p class="division">
 msgctxt "an4.28:0.1"
@@ -167,7 +167,7 @@ msgid ""
 "puratthimāya cepi disāya viharati sveva aratiṃ sahati, na taṃ arati sahati;"
 msgstr ""
 "When a mendicant has these four noble traditions, if they live in the east "
-"they beat discontent, and discontent doesn’t beat them."
+"they prevail over discontent, and discontent doesn’t prevail over them."
 
 msgctxt "an4.28:5.2"
 msgid ""
@@ -181,7 +181,9 @@ msgstr "the north …"
 msgctxt "an4.28:5.4"
 msgid ""
 "dakkhiṇāya cepi disāya viharati sveva aratiṃ sahati, na taṃ arati sahati."
-msgstr "the south, they beat discontent, and discontent doesn’t beat them."
+msgstr ""
+"the south, they prevail over discontent, and discontent doesn’t prevail over "
+"them."
 
 msgctxt "an4.28:5.5"
 msgid "Taṃ kissa hetu?"
@@ -189,30 +191,30 @@ msgstr "Why is that?"
 
 msgctxt "an4.28:5.6"
 msgid "Aratiratisaho hi, bhikkhave, dhīroti."
-msgstr "Because a stable person prevails over desire and discontent."
+msgstr "Because a wise one prevails over desire and discontent."
 
 #. </p><blockquote class="gatha"><p>
 #. <a class="sc" id="sc6"></a>
 #. VAR: dhīraṃ → vīraṃ (bj)
 msgctxt "an4.28:6.1"
 msgid "Nārati sahati dhīraṃ,"
-msgstr "Dissatisfaction doesn’t beat a stable one;"
+msgstr "Dissatisfaction doesn’t prevail over a wise one;"
 
 #. <br>
 msgctxt "an4.28:6.2"
 msgid "nārati dhīraṃ sahati;"
-msgstr "for the stable one is not beaten by discontent."
+msgstr "for the wise one is not beaten by discontent."
 
 #. <br>
 msgctxt "an4.28:6.3"
 msgid "Dhīrova aratiṃ sahati,"
-msgstr "A stable person beats discontent,"
+msgstr "A wise one prevails over discontent,"
 
 # So, you do better.
 #. <br>
 msgctxt "an4.28:6.4"
 msgid "dhīro hi aratissaho."
-msgstr "for the stable one is a beater of discontent."
+msgstr "for the wise one is a beater of discontent."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.29"></a>

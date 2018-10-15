@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an/an01/an1.248-257.po\n"
-"X-Pootle-Revision: 1022\n"
+"X-Pootle-Revision: 61870\n"
 
 #. <section class="sutta" id="an1.248-257"><article><div class="hgroup"><p class="division">
 msgctxt "an1.248-257:0.1"
 msgid "Aṅguttara Nikāya 1"
-msgstr "Numbered Collection 1"
+msgstr "Numbered Discourses 1"
 
 #. </p><p>
 msgctxt "an1.248-257:0.2"
@@ -30,7 +30,7 @@ msgid "248–​257"
 msgstr "248–​257"
 
 #. </h1></div><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.26"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.26"></a>
 #. <a class="sc" id="sc1"></a>
 #. VAR: tapussabhallikā → tapassubhallikā (bj, pts1)
 msgctxt "an1.248-257:1.1"
@@ -38,8 +38,8 @@ msgid ""
 "“Etadaggaṃ, bhikkhave, mama sāvakānaṃ upāsakānaṃ paṭhamaṃ saraṇaṃ "
 "gacchantānaṃ yadidaṃ tapussabhallikā vāṇijā. (1)"
 msgstr ""
-"“The foremost of my lay followers in first going for refuge are the "
-"merchants Tapussa and Bhallika."
+"“The foremost of my laymen in first going for refuge are the merchants "
+"Tapussa and Bhallika."
 
 #. </p><p>
 #. <a class="sc" id="sc2"></a>
@@ -66,33 +66,32 @@ msgstr ""
 #. <a class="sc" id="sc5"></a>
 msgctxt "an1.248-257:5.1"
 msgid "… Paṇītadāyakānaṃ yadidaṃ mahānāmo sakko. (5)"
-msgstr "… who donates good things is Mahānāma Sakka."
+msgstr "… who donate good things is Mahānāma Sakka."
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
 msgctxt "an1.248-257:6.1"
 msgid "… Manāpadāyakānaṃ yadidaṃ uggo gahapati vesāliko. (6)"
-msgstr "… who donates nice things is the householder Ugga of Vesālī."
+msgstr "… who donate nice things is the householder Ugga of Vesālī."
 
 #. </p><p>
 #. <a class="sc" id="sc7"></a>
 msgctxt "an1.248-257:7.1"
 msgid "… Saṅghupaṭṭhākānaṃ yadidaṃ hatthigāmako uggato gahapati. (7)"
-msgstr ""
-"… who attends on the Saṅgha is the householder Uggata of Hatthi Village."
+msgstr "… who attend on the Saṅgha is the householder Uggata of Hatthi Village."
 
 #. </p><p>
 #. <a class="sc" id="sc8"></a>
 #. VAR: sūrambaṭṭho → sūro ambaṭṭho (bj, s1-3, km, pts1) | surabandho (mr)
 msgctxt "an1.248-257:8.1"
 msgid "… Aveccappasannānaṃ yadidaṃ sūrambaṭṭho. (8)"
-msgstr "… who has the experiential confidence is Sūrambaṭṭha."
+msgstr "… who have experiential confidence is Sūrambaṭṭha."
 
 #. </p><p>
 #. <a class="sc" id="sc9"></a>
 msgctxt "an1.248-257:9.1"
 msgid "… Puggalappasannānaṃ yadidaṃ jīvako komārabhacco. (9)"
-msgstr "… who has confidence in a person is Jīvaka Komārabhacca."
+msgstr "… who have confidence in a person is Jīvaka Komārabhacca."
 
 #. </p><p>
 #. <a class="sc" id="sc10"></a>

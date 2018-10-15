@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:25+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an/an03/an3.035.po\n"
-"X-Pootle-Revision: 1154\n"
+"X-Pootle-Revision: 52955\n"
 
 #. <section class="sutta" id="an3.35"><article><div class="hgroup"><p class="division">
 msgctxt "an3.35:0.1"
@@ -31,10 +31,12 @@ msgstr "35. With Hatthaka"
 
 #. </h1></div><p>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "an3.35:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 msgctxt "an3.35:1.2"
 msgid ""
 "ekaṃ samayaṃ bhagavā āḷaviyaṃ viharati gomagge siṃsapāvane paṇṇasanthare."
@@ -72,7 +74,7 @@ msgid "Ye ca pana loke sukhaṃ senti, ahaṃ tesaṃ aññataro”ti."
 msgstr "I am one of those who sleep well in the world.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.137"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.137"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an3.35:2.1"
 msgid ""
@@ -181,7 +183,7 @@ msgid ""
 msgstr ""
 "“The greed that burns that householder or householder’s son, making them "
 "sleep badly, has been cut off at the root by the Realized One, made like a "
-"palm stump, exterminated, and unable to arise in the future."
+"palm stump, obliterated, and unable to arise in the future."
 
 msgctxt "an3.35:5.2"
 msgid "Tasmāhaṃ sukhamasayitthaṃ."
@@ -212,7 +214,7 @@ msgid "“Evaṃ, bhante”ti."
 msgstr "“Yes, sir.”"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.138"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.138"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "an3.35:7.1"
 msgid ""
@@ -222,7 +224,7 @@ msgid ""
 msgstr ""
 "“The delusion that burns that householder or householder’s son, making them "
 "sleep badly, has been cut off at the root by the Realized One, made like a "
-"palm stump, exterminated, and unable to arise in the future."
+"palm stump, obliterated, and unable to arise in the future."
 
 msgctxt "an3.35:7.2"
 msgid "Tasmāhaṃ sukhamasayitthanti."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:27+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an/an04/an4.211.po\n"
-"X-Pootle-Revision: 1820\n"
+"X-Pootle-Revision: 61854\n"
 
 #. <section class="sutta" id="an4.211"><article><div class="hgroup"><p class="division">
 msgctxt "an4.211:0.1"
@@ -35,7 +35,7 @@ msgstr "211. Assembly"
 #. <a class="sc" id="sc1"></a>
 msgctxt "an4.211:1.1"
 msgid "“Cattārome, bhikkhave, parisadūsanā."
-msgstr "“Mendicants, these four things corrupt an assembly."
+msgstr "“Mendicants, these four corrupt an assembly."
 
 msgctxt "an4.211:1.2"
 msgid "Katame cattāro?"
@@ -60,14 +60,14 @@ msgstr ""
 
 msgctxt "an4.211:1.7"
 msgid "Ime kho, bhikkhave, cattāro parisadūsanā."
-msgstr "These are the four things that corrupt an assembly."
+msgstr "These are the four that corrupt an assembly."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli2.226"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "an4.211:2.1"
 msgid "Cattārome, bhikkhave, parisasobhanā."
-msgstr "Mendicants, these four things light up an assembly."
+msgstr "Mendicants, these four beautify an assembly."
 
 msgctxt "an4.211:2.2"
 msgid "Katame cattāro?"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "an4.211:2.7"
 msgid "Ime kho, bhikkhave, cattāro parisasobhanā”ti."
-msgstr "These are the four things that light up an assembly.”"
+msgstr "These are the four that beautify an assembly.”"
 
 #. </p><p class="endsection">
 msgctxt "an4.211:2.8"

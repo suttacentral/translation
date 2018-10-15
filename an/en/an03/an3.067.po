@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:27+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/an/an03/an3.067.po\n"
-"X-Pootle-Revision: 1218\n"
+"X-Pootle-Revision: 62170\n"
 
 #. <section class="sutta" id="an3.67"><article><div class="hgroup"><p class="division">
 msgctxt "an3.67:0.1"
@@ -184,7 +184,7 @@ msgid ""
 "hoti."
 msgstr ""
 "When a person is asked a question, if they intimidate, crush, mock, or seize "
-"on trivial flaws, then that person is not competent to hold a discussion."
+"on trivial mistakes, then that person is not competent to hold a discussion."
 
 msgctxt "an3.67:5.3"
 msgid ""
@@ -193,7 +193,8 @@ msgid ""
 "puggalo kaccho hoti."
 msgstr ""
 "When a person is asked a question, if they don’t intimidate, crush, mock, or "
-"seize on trivial flaws, then that person is competent to hold a discussion."
+"seize on trivial mistakes, then that person is competent to hold a "
+"discussion."
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
@@ -208,7 +209,7 @@ msgstr ""
 msgctxt "an3.67:6.2"
 msgid "Anohitasoto, bhikkhave, anupaniso hoti, ohitasoto saupaniso hoti."
 msgstr ""
-"If they listen well they have what’s required; if they don’t listen well "
+"If they lend an ear they have what’s required; if they don’t lend an ear "
 "they don’t have what’s required."
 
 msgctxt "an3.67:6.3"
@@ -307,7 +308,7 @@ msgstr "the kind of discussion that noble ones hold—"
 #. VAR: ariyacaritā → ariyācaritā (bj) | ariyañcaritā (si) | ariyādikā (mr)
 msgctxt "an3.67:9.4"
 msgid "yā ariyacaritā kathā."
-msgstr "then that astute person should start the discussion,"
+msgstr "then that wise one should start the discussion,"
 
 #. </p><p>
 #. <a class="sc" id="sc10"></a>
@@ -363,7 +364,7 @@ msgstr "They’d not persist in finding faults,"
 #. VAR: na gāhaye → na bhāsaye (mr)
 msgctxt "an3.67:12.2"
 msgid "khalitañca na gāhaye;"
-msgstr "nor seize on trivial flaws,"
+msgstr "nor seize on trivial mistakes,"
 
 #. <br>
 msgctxt "an3.67:12.3"

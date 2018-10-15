@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 13:27+0000\n"
+"POT-Creation-Date: 2018-10-15 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,8 +39,8 @@ msgid ""
 "“Aṭṭha ca, bhikkhave, assakhaḷuṅke desessāmi aṭṭha ca assadose, aṭṭha ca "
 "purisakhaḷuṅke aṭṭha ca purisadose."
 msgstr ""
-"“Mendicants, I will teach you about eight wild colts and eight flaws in "
-"horses, and about eight wild people and eight flaws in people."
+"“Mendicants, I will teach you about eight wild colts and eight defects in "
+"horses, and about eight wild people and eight defects in people."
 
 msgctxt "an8.14:1.2"
 msgid "Taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī”ti."
@@ -60,7 +60,7 @@ msgstr "The Buddha said this:"
 msgctxt "an8.14:2.1"
 msgid "“Katame ca, bhikkhave, aṭṭha assakhaḷuṅkā aṭṭha ca assadosā?"
 msgstr ""
-"“And what, mendicants, are the eight wild colts and eight flaws in horses?"
+"“And what, mendicants, are the eight wild colts and eight defects in horses?"
 
 # pehi is a special idiom used in exactly the same way as giddyup in English.
 msgctxt "an8.14:2.2"
@@ -77,7 +77,7 @@ msgstr "Some wild colts are like that."
 
 msgctxt "an8.14:2.4"
 msgid "Ayaṃ, bhikkhave, paṭhamo assadoso."
-msgstr "This is the first flaw of a horse."
+msgstr "This is the first defect of a horse."
 
 # See note on SN 4.10
 #. </p><p>
@@ -96,7 +96,7 @@ msgstr "Some wild colts are like that."
 
 msgctxt "an8.14:3.3"
 msgid "Ayaṃ, bhikkhave, dutiyo assadoso."
-msgstr "This is the second flaw of a horse."
+msgstr "This is the second defect of a horse."
 
 #. </p><p>
 #. <a class="sc" id="sc4"></a>
@@ -115,7 +115,7 @@ msgstr "Some wild colts are like that."
 
 msgctxt "an8.14:4.3"
 msgid "Ayaṃ, bhikkhave, tatiyo assadoso."
-msgstr "This is the third flaw of a horse."
+msgstr "This is the third defect of a horse."
 
 #. </p><p>
 #. <a class="sc" id="sc5"></a>
@@ -133,7 +133,7 @@ msgstr "Some wild colts are like that."
 
 msgctxt "an8.14:5.3"
 msgid "Ayaṃ, bhikkhave, catuttho assadoso."
-msgstr "This is the fourth flaw of a horse."
+msgstr "This is the fourth defect of a horse."
 
 #. </p><p>
 #. <a class="sc" id="sc6"></a>
@@ -151,7 +151,7 @@ msgstr "Some wild colts are like that."
 
 msgctxt "an8.14:6.3"
 msgid "Ayaṃ, bhikkhave, pañcamo assadoso."
-msgstr "This is the fifth flaw of a horse."
+msgstr "This is the fifth defect of a horse."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli4.192"></a>
@@ -174,7 +174,7 @@ msgstr "Some wild colts are like that."
 
 msgctxt "an8.14:7.3"
 msgid "Ayaṃ, bhikkhave, chaṭṭho assadoso."
-msgstr "This is the sixth flaw of a horse."
+msgstr "This is the sixth defect of a horse."
 
 #. </p><p>
 #. <a class="sc" id="sc8"></a>
@@ -194,7 +194,7 @@ msgstr "Some wild colts are like that."
 
 msgctxt "an8.14:8.3"
 msgid "Ayaṃ, bhikkhave, sattamo assadoso."
-msgstr "This is the seventh flaw of a horse."
+msgstr "This is the seventh defect of a horse."
 
 #. </p><p>
 #. <a class="sc" id="sc9"></a>
@@ -215,17 +215,17 @@ msgstr "Some wild colts are like that."
 
 msgctxt "an8.14:9.3"
 msgid "Ayaṃ, bhikkhave, aṭṭhamo assadoso."
-msgstr "This is the eighth flaw of a horse."
+msgstr "This is the eighth defect of a horse."
 
 msgctxt "an8.14:9.4"
 msgid "Ime kho, bhikkhave, aṭṭha assakhaḷuṅkā aṭṭha ca assadosā."
-msgstr "These are the eight wild colts and the eight flaws in horses."
+msgstr "These are the eight wild colts and the eight defects in horses."
 
 #. </p><p>
 #. <a class="sc" id="sc10"></a>
 msgctxt "an8.14:10.1"
 msgid "Katame ca, bhikkhave, aṭṭha purisakhaḷuṅkā aṭṭha ca purisadosā?"
-msgstr "And what are the eight wild people and eight flaws in people?"
+msgstr "And what are the eight wild people and eight defects in people?"
 
 msgctxt "an8.14:10.2"
 msgid "Idha, bhikkhave, bhikkhū bhikkhuṃ āpattiyā codenti."
@@ -255,7 +255,7 @@ msgstr "Some wild people are like that."
 
 msgctxt "an8.14:10.7"
 msgid "Ayaṃ, bhikkhave, paṭhamo purisadoso."
-msgstr "This is the first flaw of a person."
+msgstr "This is the first defect of a person."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli4.193"></a>
@@ -295,7 +295,7 @@ msgstr "Some wild people are like that."
 
 msgctxt "an8.14:11.8"
 msgid "Ayaṃ, bhikkhave, dutiyo purisadoso."
-msgstr "This is the second flaw of a person."
+msgstr "This is the second defect of a person."
 
 #. </p><p>
 #. <a class="sc" id="sc12"></a>
@@ -333,7 +333,7 @@ msgstr "Some wild people are like that."
 
 msgctxt "an8.14:12.7"
 msgid "Ayaṃ, bhikkhave, tatiyo purisadoso."
-msgstr "This is the third flaw of a person."
+msgstr "This is the third defect of a person."
 
 #. </p><p>
 #. <a class="sc" id="sc13"></a>
@@ -368,7 +368,7 @@ msgstr "Some wild people are like that."
 
 msgctxt "an8.14:13.6"
 msgid "Ayaṃ, bhikkhave, catuttho purisadoso."
-msgstr "This is the fourth flaw of a person."
+msgstr "This is the fourth defect of a person."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli4.194"></a>
@@ -404,7 +404,7 @@ msgstr "Some wild people are like that."
 
 msgctxt "an8.14:14.6"
 msgid "Ayaṃ, bhikkhave, pañcamo purisadoso."
-msgstr "This is the fifth flaw of a person."
+msgstr "This is the fifth defect of a person."
 
 #. </p><p>
 #. <a class="sc" id="sc15"></a>
@@ -440,7 +440,7 @@ msgstr "Some wild people are like that."
 
 msgctxt "an8.14:15.6"
 msgid "Ayaṃ, bhikkhave, chaṭṭho purisadoso."
-msgstr "This is the sixth flaw of a person."
+msgstr "This is the sixth defect of a person."
 
 #. </p><p>
 #. <a class="sc" id="sc16"></a>
@@ -476,7 +476,7 @@ msgstr "Some wild people are like that."
 
 msgctxt "an8.14:16.6"
 msgid "Ayaṃ, bhikkhave, sattamo purisadoso."
-msgstr "This is the seventh flaw of a person."
+msgstr "This is the seventh defect of a person."
 
 #. </p><p>
 #. <a class="pts-vp-pli" id="pts-vp-pli4.195"></a>
@@ -526,11 +526,11 @@ msgstr "Some wild people are like that."
 
 msgctxt "an8.14:17.9"
 msgid "Ayaṃ, bhikkhave, aṭṭhamo purisadoso."
-msgstr "This is the eighth flaw of a person."
+msgstr "This is the eighth defect of a person."
 
 msgctxt "an8.14:17.10"
 msgid "Ime kho, bhikkhave, aṭṭha purisakhaḷuṅkā aṭṭha ca purisadosā”ti."
-msgstr "These are the eight wild people and eight flaws in people.”"
+msgstr "These are the eight wild people and eight defects in people.”"
 
 #. </p><p class="endsection">
 msgctxt "an8.14:17.11"
