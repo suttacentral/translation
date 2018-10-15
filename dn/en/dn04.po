@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:22+0000\n"
+"POT-Creation-Date: 2018-10-15 14:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn04.po\n"
-"X-Pootle-Revision: 620\n"
+"X-Pootle-Revision: 77586\n"
 
 #. <section class="sutta" id="dn4"><article><div class="hgroup"><p class="division">
 msgctxt "dn4:0.1"
@@ -31,12 +31,14 @@ msgstr "1. The Brahmins and Householders of Campā"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.111"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.111"></a>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "dn4:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 msgctxt "dn4:1.2"
 msgid ""
 "ekaṃ samayaṃ bhagavā aṅgesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ "
@@ -47,7 +49,7 @@ msgstr ""
 
 msgctxt "dn4:1.3"
 msgid "Tatra sudaṃ bhagavā campāyaṃ viharati gaggarāya pokkharaṇiyā tīre."
-msgstr "where he stayed on the banks of the Gaggarā Lotus Pond."
+msgstr "where he stayed by the banks of the Gaggarā Lotus Pond."
 
 msgctxt "dn4:1.4"
 msgid ""
@@ -62,7 +64,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.112"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.112"></a>
 #. <a class="sc" id="sc2"></a>
 msgctxt "dn4:2.1"
 msgid "Assosuṃ kho campeyyakā brāhmaṇagahapatikā:"
@@ -123,7 +125,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs3"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.113"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.113"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "dn4:3.1"
 msgid ""
@@ -316,7 +318,7 @@ msgid "Bhavañhi soṇadaṇḍo aḍḍho mahaddhano mahābhogo … pe …"
 msgstr "You’re rich, affluent, and wealthy. …"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.114"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.114"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "dn4:5.10"
 msgid ""
@@ -324,7 +326,7 @@ msgid ""
 "sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ padako "
 "veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo … pe …"
 msgstr ""
-"You recite and remember the hymns, and are an expert in the three Vedas, "
+"You recite and remember the hymns, and are have mastered the three Vedas, "
 "together with their vocabularies, ritual, phonology and etymology, and the "
 "testament as fifth. You know philology and grammar, and are well versed in "
 "cosmology and the marks of a great man. …"
@@ -444,7 +446,7 @@ msgid "Evaṃ vutte, soṇadaṇḍo brāhmaṇo te brāhmaṇe etadavoca:"
 msgstr "When they had spoken, Soṇadaṇḍa said to those brahmins:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.115"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.115"></a>
 #. <a class="sc" id="sc18"></a>
 msgctxt "dn4:6.2"
 msgid ""
@@ -588,7 +590,7 @@ msgid ""
 msgstr "He went forth from a rich, affluent, and wealthy family. …"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.116"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.116"></a>
 #. <a class="sc" id="sc31"></a>
 msgctxt "dn4:6.19"
 msgid ""
@@ -737,7 +739,7 @@ msgid ""
 msgstr "and the brahmin Pokkharasāti."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.117"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.117"></a>
 #. <a class="sc" id="sc46"></a>
 msgctxt "dn4:6.36"
 msgid ""
@@ -824,7 +826,7 @@ msgid "4. Soṇadaṇḍaparivitakka"
 msgstr "4. Soṇadaṇḍa’s Second Thoughts"
 
 #. </h2><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.118"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.118"></a>
 #. <a class="sc" id="sc48"></a>
 msgctxt "dn4:7.5"
 msgid ""
@@ -979,7 +981,7 @@ msgstr ""
 # Given the Buddha’s savage takedown of Ambattha, perhaps Sonadanda’s worries were not completely misplaced!
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs10"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.119"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.119"></a>
 #. <a class="sc" id="sc50"></a>
 msgctxt "dn4:10.1"
 msgid ""
@@ -1109,7 +1111,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs12"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.120"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.120"></a>
 #. <a class="sc" id="sc52"></a>
 msgctxt "dn4:12.1"
 msgid "Atha kho soṇadaṇḍassa brāhmaṇassa etadahosi:"
@@ -1178,7 +1180,7 @@ msgid ""
 "sākkharappabhedānaṃ itihāsapañcamānaṃ padako veyyākaraṇo "
 "lokāyatamahāpurisalakkhaṇesu anavayo;"
 msgstr ""
-"He recites and remembers the hymns, and is an expert in the three Vedas, "
+"He recites and remembers the hymns, and have mastered the three Vedas, "
 "together with their vocabularies, ritual, phonology and etymology, and the "
 "testament as fifth. He knows philology and grammar, and is well versed in "
 "cosmology and the marks of a great man."
@@ -1218,7 +1220,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs14"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.121"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.121"></a>
 #. <a class="sc" id="sc54"></a>
 msgctxt "dn4:14.1"
 msgid ""
@@ -1388,7 +1390,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs17"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.122"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.122"></a>
 #. <a class="sc" id="sc57"></a>
 msgctxt "dn4:17.1"
 msgid "Evaṃ vutte, te brāhmaṇā soṇadaṇḍaṃ brāhmaṇaṃ etadavocuṃ:"
@@ -1445,7 +1447,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.123"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.123"></a>
 #. <a class="sc" id="sc59"></a>
 msgctxt "dn4:19.1"
 msgid "Evaṃ vutte, soṇadaṇḍo brāhmaṇo bhagavantaṃ etadavoca:"
@@ -1519,7 +1521,7 @@ msgid ""
 "sanighaṇḍukeṭubhānaṃ sākkharappabhedānaṃ itihāsapañcamānaṃ padako "
 "veyyākaraṇo lokāyatamahāpurisalakkhaṇesu anavayo."
 msgstr ""
-"Aṅgaka recites and remembers the hymns, and is an expert in the three Vedas, "
+"Aṅgaka recites and remembers the hymns, and have mastered the three Vedas, "
 "together with their vocabularies, ritual, phonology and etymology, and the "
 "testament as fifth. He knows philology and grammar, and is well versed in "
 "cosmology and the marks of a great man."
@@ -1580,7 +1582,7 @@ msgstr "6. The Discussion of Ethics and Wisdom"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs21"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.124"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.124"></a>
 #. <a class="sc" id="sc61"></a>
 msgctxt "dn4:21.1"
 msgid ""
@@ -1775,7 +1777,7 @@ msgstr "7. Soṇadaṇḍa Declares Himself a Lay Follower"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs24"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.125"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.125"></a>
 #. <a class="sc" id="sc63"></a>
 msgctxt "dn4:24.1"
 msgid "Evaṃ vutte, soṇadaṇḍo brāhmaṇo bhagavantaṃ etadavoca:"
@@ -1792,9 +1794,9 @@ msgid ""
 " ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhotā gotamena anekapariyāyena "
 "dhammo pakāsito."
 msgstr ""
-"As if he was righting the overturned, or revealing the hidden, or pointing "
+"As if he were righting the overturned, or revealing the hidden, or pointing "
 "out the path to the lost, or lighting a lamp in the dark so people with good "
-"eyes can see what’s there, just so has he made the Teaching clear in many "
+"eyes can see what’s there, Master Gotama has made the Teaching clear in many "
 "ways."
 
 msgctxt "dn4:24.4"
@@ -1864,7 +1866,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs26"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli1.126"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli1.126"></a>
 #. <a class="sc" id="sc65"></a>
 msgctxt "dn4:26.1"
 msgid ""

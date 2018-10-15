@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:22+0000\n"
+"POT-Creation-Date: 2018-10-15 14:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn29.po\n"
-"X-Pootle-Revision: 670\n"
+"X-Pootle-Revision: 57582\n"
 
 #. <section class="sutta" id="dn29"><article><div class="hgroup"><p class="division">
 msgctxt "dn29:0.1"
@@ -26,12 +26,14 @@ msgstr "An Impressive Discourse"
 
 #. </h1></div><p>
 #. <a class="pts-cs" id="pts-cs1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.117"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.117"></a>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "dn29:1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 msgctxt "dn29:1.2"
 msgid ""
 "ekaṃ samayaṃ bhagavā sakkesu viharati vedhaññā nāma sakyā, tesaṃ ambavane "
@@ -42,7 +44,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.118"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.118"></a>
 #. <a class="sc" id="sc2"></a>
 #. VAR: nāṭaputto → nātaputto (bj) | nāthaputto (pts1)
 msgctxt "dn29:2.1"
@@ -174,7 +176,7 @@ msgstr "1. The Teaching of the Unawakened"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs6"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.119"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.119"></a>
 #. <a class="sc" id="sc6"></a>
 msgctxt "dn29:6.1"
 msgid ""
@@ -271,7 +273,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs7"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.120"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.120"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "dn29:7.1"
 msgid ""
@@ -444,7 +446,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs9"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.121"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.121"></a>
 #. <a class="sc" id="sc9"></a>
 msgctxt "dn29:9.1"
 msgid ""
@@ -539,7 +541,7 @@ msgstr "3. When Disciples Have Regrets"
 # Comm: aviññāpitatthāti abodhitatthā. I think this is a mistake. it is to be understood in line with the Buddha inviting the monks to question him on his deathbed. viññāpita is used in the sense “asked about or for”.
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs10"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.122"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.122"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "dn29:10.1"
 msgid ""
@@ -602,7 +604,7 @@ msgstr "4. When Disciples Have No Regrets"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs11"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.123"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.123"></a>
 #. <a class="sc" id="sc11"></a>
 msgctxt "dn29:11.1"
 msgid ""
@@ -749,7 +751,7 @@ msgstr "then that spiritual path is complete in that respect."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs16"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.124"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.124"></a>
 #. <a class="sc" id="sc16"></a>
 msgctxt "dn29:16.1"
 msgid ""
@@ -836,7 +838,7 @@ msgid ""
 msgstr ""
 "the spiritual path is successful and prosperous, extensive, popular, "
 "widespread, and well proclaimed wherever there are gods and humans, but it "
-"has not reached the pinnacle of material possessions and fame."
+"has not reached the peak of material possessions and fame."
 
 msgctxt "dn29:16.14"
 msgid "Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena."
@@ -844,7 +846,7 @@ msgstr "Then that spiritual path is incomplete in that respect."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs17"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.125"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.125"></a>
 #. <a class="sc" id="sc17"></a>
 msgctxt "dn29:17.1"
 msgid ""
@@ -905,7 +907,7 @@ msgid ""
 msgstr ""
 "and the spiritual path is successful and prosperous, extensive, popular, "
 "widespread, and well proclaimed wherever there are gods and humans, and it "
-"has reached the pinnacle of material possessions and fame,"
+"has reached the peak of material possessions and fame,"
 
 msgctxt "dn29:17.13"
 msgid "Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena."
@@ -950,7 +952,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs19"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.126"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.126"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "dn29:19.1"
 msgid ""
@@ -1025,7 +1027,7 @@ msgid ""
 "ekasatthārampi samanupassāmi evaṃlābhaggayasaggappattaṃ yatharivāhaṃ."
 msgstr ""
 "Of all the teachers in the world today, Cunda, I don’t see even a single one "
-"who has reached the pinnacle of material possessions and fame like me."
+"who has reached the peak of material possessions and fame like me."
 
 msgctxt "dn29:20.2"
 msgid "Yāvatā kho pana, cunda, etarahi saṅgho vā gaṇo vā loke uppanno;"
@@ -1063,12 +1065,12 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs21"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.127"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.127"></a>
 #. <a class="sc" id="sc21"></a>
 #. VAR: Udako → uddako (bj, s1-3, pts1)
 msgctxt "dn29:21.1"
 msgid "Udako sudaṃ, cunda, rāmaputto evaṃ vācaṃ bhāsati:"
-msgstr "Uddaka, Rāma’s son, used to say:"
+msgstr "Uddaka, son of Rāma, used to say:"
 
 msgctxt "dn29:21.2"
 msgid "‘passaṃ na passatī’ti."
@@ -1180,7 +1182,7 @@ msgstr "6. Teachings Should be Recited in Concert"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs22"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.128"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.128"></a>
 #. <a class="sc" id="sc22"></a>
 msgctxt "dn29:22.1"
 msgid ""
@@ -1294,7 +1296,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs24"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.129"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.129"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "dn29:24.1"
 msgid "Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya."
@@ -1439,7 +1441,7 @@ msgstr "8. The Reasons for Allowing Requisites"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs27"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.130"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.130"></a>
 #. <a class="sc" id="sc27"></a>
 msgctxt "dn29:27.1"
 msgid ""
@@ -1584,7 +1586,7 @@ msgstr "This is the first kind of indulgence in pleasure."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs31"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.131"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.131"></a>
 #. <a class="sc" id="sc31"></a>
 msgctxt "dn29:31.1"
 msgid ""
@@ -1633,8 +1635,8 @@ msgid ""
 "abhiññāya na sambodhāya na nibbānāya saṃvattanti."
 msgstr ""
 "These are the four kinds of indulgence in pleasure that are low, crude, "
-"ordinary, ignoble, and pointless. They don’t lead to disillusionment, fading "
-"away, cessation, peace, insight, awakening, and extinguishment."
+"ordinary, ignoble, and pointless. They don’t lead to disillusionment, "
+"dispassion, cessation, peace, insight, awakening, and extinguishment."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs35"></a>
@@ -1672,7 +1674,7 @@ msgid ""
 "upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti."
 msgstr ""
 "These four kinds of indulgence in pleasure, when developed and cultivated, "
-"lead solely to disillusionment, fading away, cessation, peace, insight, "
+"lead solely to disillusionment, dispassion, cessation, peace, insight, "
 "awakening, and extinguishment."
 
 msgctxt "dn29:36.2"
@@ -1732,7 +1734,7 @@ msgstr "This is the third kind of indulgence in pleasure."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs40"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.132"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.132"></a>
 #. <a class="sc" id="sc40"></a>
 msgctxt "dn29:40.1"
 msgid ""
@@ -1756,7 +1758,7 @@ msgid ""
 "upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti."
 msgstr ""
 "These are the four kinds of indulgence in pleasure which, when developed and "
-"cultivated, lead solely to disillusionment, fading away, cessation, peace, "
+"cultivated, lead solely to disillusionment, dispassion, cessation, peace, "
 "insight, awakening, and extinguishment."
 
 #. </p><p>
@@ -1889,7 +1891,7 @@ msgstr "11. Things Impossible for the Perfected"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs44"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.133"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.133"></a>
 #. <a class="sc" id="sc44"></a>
 msgctxt "dn29:44.1"
 msgid ""
@@ -1940,8 +1942,8 @@ msgid ""
 msgstr ""
 "A mendicant who is perfected—with defilements ended, who has completed the "
 "spiritual journey, done what had to be done, laid down the burden, achieved "
-"their own goal, utterly ended the fetters of rebirth, and is rightly freed "
-"through enlightenment—can’t transgress in nine respects."
+"their own true goal, utterly ended the fetters of rebirth, and is rightly "
+"freed through enlightenment—can’t transgress in nine respects."
 
 msgctxt "dn29:44.8"
 msgid ""
@@ -1974,7 +1976,7 @@ msgstr "12. Questions and Answers"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs45"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.134"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.134"></a>
 #. <a class="sc" id="sc45"></a>
 msgctxt "dn29:45.1"
 msgid ""
@@ -2137,7 +2139,7 @@ msgstr "13. The Undeclared Points"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs47"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.136"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.136"></a>
 #. <a class="sc" id="sc47"></a>
 msgctxt "dn29:47.1"
 msgid ""
@@ -2277,7 +2279,7 @@ msgid ""
 "na nibbānāya saṃvattati, tasmā taṃ bhagavatā abyākatan’ti."
 msgstr ""
 "‘Because it’s not beneficial or relevant to the fundamentals of the "
-"spiritual life. It doesn’t lead to disillusionment, fading away, cessation, "
+"spiritual life. It doesn’t lead to disillusionment, dispassion, cessation, "
 "peace, insight, awakening, and extinguishment. That’s why it hasn’t been "
 "declared by the Buddha.’"
 
@@ -2316,7 +2318,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs53"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.137"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.137"></a>
 #. <a class="sc" id="sc53"></a>
 msgctxt "dn29:53.1"
 msgid ""
@@ -2339,7 +2341,7 @@ msgid ""
 "saṃvattati. Tasmā taṃ bhagavatā byākatan’ti."
 msgstr ""
 "‘Because it’s beneficial and relevant to the fundamentals of the spiritual "
-"life. It leads to disillusionment, fading away, cessation, peace, insight, "
+"life. It leads to disillusionment, dispassion, cessation, peace, insight, "
 "awakening, and extinguishment. That’s why it has been declared by the "
 "Buddha.’"
 
@@ -2350,7 +2352,7 @@ msgstr "15. Views of the Past"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs54"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.138"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.138"></a>
 #. <a class="sc" id="sc54"></a>
 #. VAR: vo → te (s2, s3)
 msgctxt "dn29:54.1"
@@ -2527,7 +2529,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs56"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.139"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.139"></a>
 #. <a class="sc" id="sc56"></a>
 msgctxt "dn29:56.1"
 msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"
@@ -2661,7 +2663,7 @@ msgstr "16. Views of the Future"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs57"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.140"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.140"></a>
 #. <a class="sc" id="sc57"></a>
 msgctxt "dn29:57.1"
 msgid ""
@@ -2773,7 +2775,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs58"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.141"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.141"></a>
 #. <a class="sc" id="sc58"></a>
 msgctxt "dn29:58.1"
 msgid "Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino:"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:22+0000\n"
+"POT-Creation-Date: 2018-10-15 14:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn33.po\n"
-"X-Pootle-Revision: 678\n"
+"X-Pootle-Revision: 79920\n"
+
+msgctxt "dn33:1.10.121"
+msgid ""
+"savitakkasavicāro samādhi, avitakkavicāramatto immersion, avitakkaavicāro "
+"samādhi. (50)"
+msgstr ""
+"Immersion with placing the mind and keeping it connected. Immersion without "
+"placing the mind, but just keeping it connected. Immersion without placing "
+"the mind or keeping it connected."
+
+msgctxt "dn33:1.10.123"
+msgid "suññato immersion, animitto immersion, appaṇihito immersion. (51)"
+msgstr "emptiness, signless, and undirected."
 
 #. <section class="sutta" id="dn33"><article><div class="hgroup"><p class="division">
 msgctxt "dn33:0.1"
@@ -26,20 +39,22 @@ msgstr "Reciting in Concert"
 
 #. </h1></div><p>
 #. <a class="pts-cs" id="pts-cs1.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.207"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.207"></a>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "dn33:1.1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 msgctxt "dn33:1.1.2"
 msgid ""
 "ekaṃ samayaṃ bhagavā mallesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ "
 "pañcamattehi bhikkhusatehi yena pāvā nāma mallānaṃ nagaraṃ tadavasari."
 msgstr ""
-"At one time the Buddha was wandering in the land of the Mallians together "
-"with a large Saṅgha of five hundred mendicants when he arrived at a Mallian "
-"town named Pāvā."
+"At one time the Buddha was wandering in the land of the Mallas together with "
+"a large Saṅgha of five hundred mendicants when he arrived at a Mallian town "
+"named Pāvā."
 
 msgctxt "dn33:1.1.3"
 msgid "Tatra sudaṃ bhagavā pāvāyaṃ viharati cundassa kammāraputtassa ambavane."
@@ -47,7 +62,7 @@ msgstr "There he stayed in Cunda the smith’s mango grove."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.2"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.208"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.208"></a>
 #. <a class="sc" id="sc2"></a>
 #. VAR: sandhāgāraṃ → santhāgāraṃ (bj) | saṇṭhāgāraṃ (s1-3, km) | santhagāraṃ (pts1)
 #. VAR: anajjhāvuṭṭhaṃ → anajjhāvutthaṃ (bj, s1-3, pts1, mr)
@@ -58,7 +73,7 @@ msgid ""
 "kenaci vā manussabhūtena."
 msgstr ""
 "Now at that time a new town hall named Ubbhaṭaka had recently been "
-"constructed for the Mallians of Pāvā. It had not yet been occupied by an "
+"constructed for the Mallas of Pāvā. It had not yet been occupied by an "
 "ascetic or brahmin or any person at all."
 
 msgctxt "dn33:1.2.2"
@@ -67,8 +82,8 @@ msgid ""
 "bhikkhusaṃghena saddhiṃ pañcamattehi bhikkhusatehi pāvaṃ anuppatto pāvāyaṃ "
 "viharati cundassa kammāraputtassa ambavane”ti."
 msgstr ""
-"The Mallians of Pāvā also heard that the Buddha had arrived and was staying "
-"in Cunda’s mango grove."
+"The Mallas of Pāvā also heard that the Buddha had arrived and was staying in "
+"Cunda’s mango grove."
 
 msgctxt "dn33:1.2.3"
 msgid ""
@@ -86,21 +101,21 @@ msgid ""
 "manussabhūtena."
 msgstr ""
 "“Sir, a new town hall named Ubbhaṭaka has recently been constructed for the "
-"Mallians of Pāvā. It has not yet been occupied by an ascetic or brahmin or "
-"any person at all."
+"Mallas of Pāvā. It has not yet been occupied by an ascetic or brahmin or any "
+"person at all."
 
 msgctxt "dn33:1.2.5"
 msgid ""
 "Tañca kho, bhante, bhagavā paṭhamaṃ paribhuñjatu, bhagavatā paṭhamaṃ "
 "paribhuttaṃ pacchā pāveyyakā mallā paribhuñjissanti."
 msgstr ""
-"May the Buddha be the first to use it, and only then will the Mallians of "
-"Pāvā use it."
+"May the Buddha be the first to use it, and only then will the Mallas of Pāvā "
+"use it."
 
 msgctxt "dn33:1.2.6"
 msgid "Tadassa pāveyyakānaṃ mallānaṃ dīgharattaṃ hitāya sukhāyā”ti."
 msgstr ""
-"That would be for the lasting welfare and happiness of the Mallians of Pāvā.”"
+"That would be for the lasting welfare and happiness of the Mallas of Pāvā.”"
 
 msgctxt "dn33:1.2.7"
 msgid "Adhivāsesi kho bhagavā tuṇhībhāvena."
@@ -118,7 +133,7 @@ msgid ""
 "paññāpetvā udakamaṇikaṃ patiṭṭhapetvā telapadīpaṃ āropetvā yena bhagavā "
 "tenupasaṅkamiṃsu;"
 msgstr ""
-"Then, knowing that the Buddha had accepted, the Mallians got up from their "
+"Then, knowing that the Buddha had accepted, the Mallas got up from their "
 "seat, bowed, and respectfully circled the Buddha, keeping him on their "
 "right. Then they went to the new town hall, where they spread carpets all "
 "over, prepared seats, set up a water jar, and placed a lamp. Then they went "
@@ -144,7 +159,7 @@ msgstr "“Please, sir, come at your convenience.”"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.4"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.209"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.209"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "dn33:1.4.1"
 msgid ""
@@ -170,7 +185,7 @@ msgid ""
 "Pāveyyakāpi kho mallā pāde pakkhāletvā sandhāgāraṃ pavisitvā puratthimaṃ "
 "bhittiṃ nissāya pacchimābhimukhā nisīdiṃsu bhagavantaṃyeva purakkhatvā."
 msgstr ""
-"The Mallians of Pāvā also washed their feet, entered the town hall, and sat "
+"The Mallas of Pāvā also washed their feet, entered the town hall, and sat "
 "against the east wall facing west, with the Buddha right in front of them."
 
 msgctxt "dn33:1.4.4"
@@ -179,7 +194,7 @@ msgid ""
 "sandassetvā samādapetvā samuttejetvā sampahaṃsetvā uyyojesi:"
 msgstr ""
 "The Buddha spent most of the night educating, encouraging, firing up, and "
-"inspiring the Mallians with a Dhamma talk. Then he dismissed them:"
+"inspiring the Mallas with a Dhamma talk. Then he dismissed them:"
 
 msgctxt "dn33:1.4.5"
 msgid "“abhikkantā kho, vāseṭṭhā, ratti."
@@ -194,7 +209,7 @@ msgid ""
 "“Evaṃ, bhante”ti kho pāveyyakā mallā bhagavato paṭissutvā uṭṭhāyāsanā "
 "bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkamiṃsu."
 msgstr ""
-"“Yes, sir,” replied the Mallians. They got up from their seat, bowed, and "
+"“Yes, sir,” replied the Mallas. They got up from their seat, bowed, and "
 "respectfully circled the Buddha, keeping him on their right, before leaving."
 
 #. </p><p>
@@ -237,13 +252,13 @@ msgid ""
 "sīhaseyyaṃ kappesi pāde pādaṃ accādhāya, sato sampajāno uṭṭhānasaññaṃ manasi "
 "karitvā."
 msgstr ""
-"And then the Buddha spread out his outer robe folded in four and lay down in "
-"the lion’s posture—on the right side, placing one foot on top of the other—"
-"mindful and aware, and focused on the time of getting up."
+"And then the Buddha spread out his outer robe folded in four and laid down "
+"in the lion’s posture—on the right side, placing one foot on top of the "
+"other—mindful and aware, and focused on the time of getting up."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.6"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.210"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.210"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "dn33:1.6.1"
 msgid "Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṃ adhunākālaṅkato hoti."
@@ -299,7 +314,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.7"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.211"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.211"></a>
 #. <a class="sc" id="sc8"></a>
 msgctxt "dn33:1.7.1"
 msgid "Atha kho āyasmā sāriputto bhikkhū āmantesi:"
@@ -369,7 +384,7 @@ msgid "1. Ekaka"
 msgstr "1. Ones"
 
 #. </h2><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.212"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.212"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "dn33:1.7.10"
 msgid ""
@@ -462,13 +477,13 @@ msgstr "Name and form."
 #. <a class="sc" id="sc13"></a>
 msgctxt "dn33:1.9.5"
 msgid "Avijjā ca bhavataṇhā ca. (2)"
-msgstr "Ignorance and craving to be reborn."
+msgstr "Ignorance and craving for continued existence."
 
 #. </p><p>
 #. <a class="sc" id="sc14"></a>
 msgctxt "dn33:1.9.6"
 msgid "Bhavadiṭṭhi ca vibhavadiṭṭhi ca. (3)"
-msgstr "Views about being reborn and views about not being reborn."
+msgstr "Views favoring continued existence and views favoring ending existence."
 
 #. </p><p>
 #. <a class="sc" id="sc15"></a>
@@ -487,13 +502,13 @@ msgstr "Conscience and prudence."
 #. <a class="sc" id="sc17"></a>
 msgctxt "dn33:1.9.9"
 msgid "Dovacassatā ca pāpamittatā ca. (6)"
-msgstr "Being hard to correct and having bad friends."
+msgstr "Being hard to admonish and having bad friends."
 
 #. </p><p>
 #. <a class="sc" id="sc18"></a>
 msgctxt "dn33:1.9.10"
 msgid "Sovacassatā ca kalyāṇamittatā ca. (7)"
-msgstr "Being easy to correct and having good friends."
+msgstr "Being easy to admonish and having good friends."
 
 #. </p><p>
 #. <a class="sc" id="sc19"></a>
@@ -527,7 +542,7 @@ msgid "Ṭhānakusalatā ca aṭṭhānakusalatā ca. (12)"
 msgstr "Skill in what is possible and skill in what is impossible."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.213"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.213"></a>
 #. <a class="sc" id="sc24"></a>
 msgctxt "dn33:1.9.16"
 msgid "Ajjavañca lajjavañca. (13)"
@@ -618,7 +633,7 @@ msgid "Sīlasampadā ca diṭṭhisampadā ca. (27)"
 msgstr "Accomplishment in ethics and accomplishment in view."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.214"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.214"></a>
 #. <a class="sc" id="sc39"></a>
 msgctxt "dn33:1.9.31"
 msgid "Sīlavisuddhi ca diṭṭhivisuddhi ca. (28)"
@@ -728,7 +743,7 @@ msgid "kāyaduccaritaṃ, vacīduccaritaṃ, manoduccaritaṃ. (3)"
 msgstr "by body, speech, and mind."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.215"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.215"></a>
 #. <a class="sc" id="sc50"></a>
 msgctxt "dn33:1.10.10"
 msgid "Tīṇi sucaritāni—"
@@ -849,7 +864,7 @@ msgid "hīnadhātu, majjhimadhātu, paṇītadhātu. (15)"
 msgstr "lower, middle, and higher."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.216"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.216"></a>
 #. <a class="sc" id="sc62"></a>
 msgctxt "dn33:1.10.34"
 msgid "Tisso taṇhā—"
@@ -857,8 +872,7 @@ msgstr "Three cravings:"
 
 msgctxt "dn33:1.10.35"
 msgid "kāmataṇhā, bhavataṇhā, vibhavataṇhā. (16)"
-msgstr ""
-"for sensual pleasures, for continued existence, and to terminate existence."
+msgstr "for sensual pleasures, to continue existence, and to end existence."
 
 #. </p><p>
 #. <a class="sc" id="sc63"></a>
@@ -974,7 +988,7 @@ msgstr ""
 "conditions, and the suffering inherent in perishing."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.217"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.217"></a>
 #. <a class="sc" id="sc74"></a>
 msgctxt "dn33:1.10.58"
 msgid "Tayo rāsī—"
@@ -1099,7 +1113,7 @@ msgid "puññābhisaṅkhāro, apuññābhisaṅkhāro, āneñjābhisaṅkhāro.
 msgstr "good choices, bad choices, and imperturbable choices."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.218"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.218"></a>
 #. <a class="sc" id="sc82"></a>
 msgctxt "dn33:1.10.79"
 msgid "Tayo puggalā—"
@@ -1190,7 +1204,7 @@ msgid "Ayaṃ tatiyā kāmūpapatti. (40)"
 msgstr "This is the third kind of sensual rebirth."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.219"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.219"></a>
 #. <a class="sc" id="sc87"></a>
 #. VAR: sukhūpapattiyo → sukhupapattiyo (s2, pts1, mr)
 msgctxt "dn33:1.10.94"
@@ -1369,7 +1383,7 @@ msgid "kāyasoceyyaṃ, vacīsoceyyaṃ, manosoceyyaṃ. (52)"
 msgstr "purity of body, speech, and mind."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.220"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.220"></a>
 #. <a class="sc" id="sc99"></a>
 msgctxt "dn33:1.10.126"
 msgid "Tīṇi moneyyāni—"
@@ -1499,7 +1513,7 @@ msgstr "4. Fours"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs1.11"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.221"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.221"></a>
 #. <a class="sc" id="sc108"></a>
 msgctxt "dn33:1.11.1"
 msgid ""
@@ -1590,7 +1604,7 @@ msgstr ""
 "mature, and are completed by development."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.222"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.222"></a>
 #. <a class="sc" id="sc111"></a>
 msgctxt "dn33:1.11.14"
 msgid "Cattāro iddhipādā."
@@ -1607,8 +1621,8 @@ msgstr ""
 msgctxt "dn33:1.11.16"
 msgid "Cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti."
 msgstr ""
-"They develop the basis of psychic power that has immersion due to higher "
-"mind, and active effort."
+"They develop the basis of psychic power that has immersion due to mental "
+"development, and active effort."
 
 msgctxt "dn33:1.11.17"
 msgid "Vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti."
@@ -1709,7 +1723,7 @@ msgstr ""
 "defilements."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.223"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.223"></a>
 #. <a class="sc" id="sc114"></a>
 msgctxt "dn33:1.11.29"
 msgid ""
@@ -1856,7 +1870,7 @@ msgstr ""
 "defilements."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.224"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.224"></a>
 #. <a class="sc" id="sc118"></a>
 msgctxt "dn33:1.11.51"
 msgid "Catasso appamaññā."
@@ -1954,7 +1968,7 @@ msgstr ""
 "some things, and gets rid of some things."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.225"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.225"></a>
 #. <a class="sc" id="sc121"></a>
 msgctxt "dn33:1.11.63"
 msgid "Cattāro ariyavaṃsā."
@@ -2042,7 +2056,7 @@ msgstr ""
 "stand in the ancient, original noble tradition."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.226"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.226"></a>
 #. <a class="sc" id="sc125"></a>
 msgctxt "dn33:1.11.72"
 msgid "Cattāri padhānāni."
@@ -2129,7 +2143,7 @@ msgstr ""
 "It’s when a mendicant doesn’t tolerate a sensual, malicious, or cruel "
 "thought that has arisen, but gives it up, gets rid of it, eliminates it, and "
 "exterminates it. They don’t tolerate any bad, unskillful qualities that have "
-"arisen, but give them up, get rid of them, eliminate them, and exterminate "
+"arisen, but give them up, get rid of them, eliminate them, and obliterate "
 "them."
 
 msgctxt "dn33:1.11.86"
@@ -2197,7 +2211,7 @@ msgstr ""
 "others’ minds, and conventional knowledge."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.227"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.227"></a>
 #. <a class="sc" id="sc130"></a>
 msgctxt "dn33:1.11.95"
 msgid "Aparānipi cattāri ñāṇāni—"
@@ -2208,7 +2222,7 @@ msgid ""
 "dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, "
 "dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ. (12)"
 msgstr ""
-"knowledge about suffering, the origin of suffering, the cessation of "
+"knowing about suffering, the origin of suffering, the cessation of "
 "suffering, and the practice that leads to the cessation of suffering."
 
 #. </p><p>
@@ -2272,10 +2286,10 @@ msgid ""
 msgstr ""
 "‘The Saṅgha of the Buddha’s disciples is practicing the way that’s good, "
 "straightforward, methodical, and proper. It consists of the four pairs, the "
-"eight individuals. This Saṅgha of the Buddha’s disciples is worthy of "
-"offerings dedicated to the gods, worthy of hospitality, worthy of a teacher’"
-"s offering, and worthy of greeting with joined palms. It is the supreme "
-"field of merit for the world.’"
+"eight individuals. This is the Saṅgha of the Buddha’s disciples that is "
+"worthy of offerings dedicated to the gods, worthy of hospitality, worthy of "
+"a teacher’s offering, worthy of greeting with joined palms, and is the "
+"supreme field of merit for the world.’"
 
 msgctxt "dn33:1.11.106"
 msgid ""
@@ -2283,9 +2297,9 @@ msgid ""
 "akammāsehi bhujissehi viññuppasatthehi aparāmaṭṭhehi samādhisaṃvattanikehi. "
 "(14)"
 msgstr ""
-"And a noble disciple’s ethical conduct is loved by the noble ones, "
-"uncorrupted, unflawed, unblemished, untainted, liberating, praised by "
-"sensible people, not mistaken, and leading to immersion."
+"And a noble disciple’s ethical conduct is loved by the noble ones, unbroken, "
+"impeccable, spotless, and unmarred, liberating, praised by sensible people, "
+"not mistaken, and leading to immersion."
 
 #. </p><p>
 #. <a class="sc" id="sc133"></a>
@@ -2298,7 +2312,7 @@ msgid "sotāpattiphalaṃ, sakadāgāmiphalaṃ, anāgāmiphalaṃ, arahattaphal
 msgstr "stream-entry, once-return, non-return, and perfection."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.228"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.228"></a>
 #. <a class="sc" id="sc134"></a>
 msgctxt "dn33:1.11.109"
 msgid "Catasso dhātuyo—"
@@ -2408,7 +2422,7 @@ msgstr ""
 "insight."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.229"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.229"></a>
 #. <a class="sc" id="sc140"></a>
 msgctxt "dn33:1.11.127"
 msgid "Aparāpi catasso paṭipadā—"
@@ -2492,7 +2506,7 @@ msgstr "Four foundations:"
 msgctxt "dn33:1.11.141"
 msgid ""
 "paññādhiṭṭhānaṃ, saccādhiṭṭhānaṃ, cāgādhiṭṭhānaṃ, upasamādhiṭṭhānaṃ. (27)"
-msgstr "wisdom, truth, generosity, and peace."
+msgstr "the foundations of wisdom, truth, generosity, and peace."
 
 #. </p><p>
 #. <a class="sc" id="sc146"></a>
@@ -2511,7 +2525,7 @@ msgstr ""
 "be set aside."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.230"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.230"></a>
 #. <a class="sc" id="sc147"></a>
 msgctxt "dn33:1.11.144"
 msgid "Cattāri kammāni—"
@@ -2608,8 +2622,8 @@ msgid ""
 "abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, "
 "idaṃsaccābhiniveso kāyagantho. (34)"
 msgstr ""
-"the personal ties to covetousness, ill will, precepts and observances, and "
-"the insistence that this is the only truth."
+"the personal ties to covetousness, ill will, misapprehension of precepts and "
+"observances, and the insistence that this is the only truth."
 
 #. </p><p>
 #. <a class="sc" id="sc153"></a>
@@ -2637,7 +2651,7 @@ msgstr ""
 "spontaneously."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.231"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.231"></a>
 #. <a class="sc" id="sc155"></a>
 msgctxt "dn33:1.11.166"
 msgid "Catasso gabbhāvakkantiyo."
@@ -2721,7 +2735,7 @@ msgstr ""
 "effective."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.232"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.232"></a>
 #. <a class="sc" id="sc157"></a>
 msgctxt "dn33:1.11.176"
 msgid "Catasso dakkhiṇāvisuddhiyo."
@@ -2839,7 +2853,7 @@ msgstr ""
 "saying you’ve seen, heard, thought, or cognized something, and you have."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.233"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.233"></a>
 #. <a class="sc" id="sc165"></a>
 msgctxt "dn33:1.11.195"
 msgid "Cattāro puggalā."
@@ -2929,7 +2943,7 @@ msgid ""
 "samaṇamacalo, samaṇapadumo, samaṇapuṇḍarīko, samaṇesu samaṇasukhumālo. (50)"
 msgstr ""
 "the confirmed ascetic, the white lotus ascetic, the pink lotus ascetic, and "
-"the refined ascetic of ascetics."
+"the exquisite ascetic of ascetics."
 
 #. </p><p>
 #. <a class="sc" id="sc169"></a>
@@ -2989,7 +3003,7 @@ msgid ""
 msgstr "form, feeling, perception, choices, and consciousness."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.234"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.234"></a>
 #. <a class="sc" id="sc172"></a>
 msgctxt "dn33:2.1.6"
 msgid "Pañcupādānakkhandhā."
@@ -3097,7 +3111,7 @@ msgstr ""
 "formless realm, conceit, restlessness, and ignorance."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.235"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.235"></a>
 #. <a class="sc" id="sc179"></a>
 msgctxt "dn33:2.1.24"
 msgid "Pañca sikkhāpadāni—"
@@ -3189,7 +3203,7 @@ msgstr ""
 "realm."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.236"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.236"></a>
 #. <a class="sc" id="sc183"></a>
 msgctxt "dn33:2.1.36"
 msgid "Pañca ādīnavā dussīlassa sīlavipattiyā."
@@ -3316,7 +3330,7 @@ msgid "ayaṃ pañcamo ānisaṃso sīlavato sīlasampadāya. (14)"
 msgstr "This is the fifth benefit."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.237"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.237"></a>
 #. <a class="sc" id="sc185"></a>
 msgctxt "dn33:2.1.58"
 msgid ""
@@ -3396,8 +3410,8 @@ msgid ""
 "upasampadāya thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu."
 msgstr ""
 "They live with energy roused up for giving up unskillful qualities and "
-"gaining skillful qualities. They’re strong, firmly applied, not slacking off "
-"when it comes to developing skillful qualities."
+"gaining skillful qualities. They’re strong, staunchly vigorous, not slacking "
+"off when it comes to developing skillful qualities."
 
 msgctxt "dn33:2.1.71"
 msgid ""
@@ -3435,7 +3449,7 @@ msgstr ""
 "the Akaniṭṭha realm."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.238"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.238"></a>
 #. <a class="sc" id="sc189"></a>
 msgctxt "dn33:2.1.76"
 msgid "Pañca cetokhilā."
@@ -3487,7 +3501,7 @@ msgstr ""
 "persistence, and striving. This is the fifth kind of emotional barrenness."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.239"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.239"></a>
 #. <a class="sc" id="sc190"></a>
 msgctxt "dn33:2.1.84"
 msgid "Pañca cetasovinibandhā."
@@ -3567,7 +3581,7 @@ msgstr "Five faculties:"
 msgctxt "dn33:2.1.96"
 msgid ""
 "cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ. (21)"
-msgstr "eye, ear, nose, tongue, body, and mind."
+msgstr "eye, ear, nose, tongue, and body."
 
 #. </p><p>
 #. <a class="sc" id="sc192"></a>
@@ -3593,7 +3607,7 @@ msgid ""
 msgstr "faith, energy, mindfulness, immersion, and wisdom."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.240"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.240"></a>
 #. <a class="sc" id="sc194"></a>
 msgctxt "dn33:2.1.101"
 msgid "Pañca nissaraṇiyā dhātuyo."
@@ -3605,15 +3619,15 @@ msgid ""
 "pasīdati na santiṭṭhati na vimuccati."
 msgstr ""
 "Take a case where a mendicant focuses on sensual pleasures, but their mind "
-"isn’t eager, confident, steady, and decided about them."
+"isn’t eager, confident, settled, and decided about them."
 
 msgctxt "dn33:2.1.103"
 msgid ""
 "Nekkhammaṃ kho panassa manasikaroto nekkhamme cittaṃ pakkhandati pasīdati "
 "santiṭṭhati vimuccati."
 msgstr ""
-"But when they focus on renunciation, their mind is eager, confident, steady, "
-"and decided about it."
+"But when they focus on renunciation, their mind is eager, confident, "
+"settled, and decided about it."
 
 msgctxt "dn33:2.1.104"
 msgid ""
@@ -3739,7 +3753,7 @@ msgid "Idamakkhātaṃ rūpānaṃ nissaraṇaṃ. (24.4)"
 msgstr "This is how the escape from forms is explained."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.241"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.241"></a>
 #. <a class="sc" id="sc198"></a>
 msgctxt "dn33:2.1.122"
 msgid ""
@@ -3747,7 +3761,7 @@ msgid ""
 "pakkhandati na pasīdati na santiṭṭhati na vimuccati."
 msgstr ""
 "Take a case where a mendicant focuses on identity, but their mind isn’t "
-"eager, confident, steady, and decided about it."
+"eager, confident, settled, and decided about it."
 
 msgctxt "dn33:2.1.123"
 msgid ""
@@ -3755,7 +3769,7 @@ msgid ""
 "pasīdati santiṭṭhati vimuccati."
 msgstr ""
 "But when they focus on the ending of identity, their mind is eager, "
-"confident, steady, and decided about it."
+"confident, settled, and decided about it."
 
 msgctxt "dn33:2.1.124"
 msgid ""
@@ -3816,7 +3830,7 @@ msgid "Idaṃ paṭhamaṃ vimuttāyatanaṃ. (25.1)"
 msgstr "This is the first opportunity for freedom."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.242"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.242"></a>
 #. <a class="sc" id="sc200"></a>
 msgctxt "dn33:2.1.132"
 msgid ""
@@ -3981,7 +3995,7 @@ msgid ""
 msgstr "contact through the eye, ear, nose, tongue, body, and mind."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.244"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.244"></a>
 #. <a class="sc" id="sc208"></a>
 msgctxt "dn33:2.2.12"
 msgid "Cha vedanākāyā—"
@@ -4068,13 +4082,13 @@ msgstr ""
 #. <a class="sc" id="sc214"></a>
 msgctxt "dn33:2.2.24"
 msgid "Cha somanassūpavicārā."
-msgstr "Six neighborhoods near happiness."
+msgstr "Six preoccupations with happiness."
 
 msgctxt "dn33:2.2.25"
 msgid "Cakkhunā rūpaṃ disvā somanassaṭṭhāniyaṃ rūpaṃ upavicarati;"
 msgstr ""
-"Seeing a sight with the eye, you linger in the neighborhood of a sight that’"
-"s a basis for happiness."
+"Seeing a sight with the eye, one is preoccupied with a sight that’s a basis "
+"for happiness."
 
 msgctxt "dn33:2.2.26"
 msgid "sotena saddaṃ sutvā …"
@@ -4095,45 +4109,45 @@ msgstr "Feeling a touch with the body …"
 msgctxt "dn33:2.2.30"
 msgid "Manasā dhammaṃ viññāya somanassaṭṭhāniyaṃ dhammaṃ upavicarati. (11)"
 msgstr ""
-"Knowing a thought with the mind, you linger in the neighborhood of a thought "
-"that’s a basis for happiness."
+"Knowing a thought with the mind, one is preoccupied with a thought that’s a "
+"basis for happiness."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.245"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.245"></a>
 #. <a class="sc" id="sc215"></a>
 msgctxt "dn33:2.2.31"
 msgid "Cha domanassūpavicārā."
-msgstr "Six neighborhoods near sadness."
+msgstr "Six preoccupations with sadness."
 
 msgctxt "dn33:2.2.32"
 msgid "Cakkhunā rūpaṃ disvā domanassaṭṭhāniyaṃ rūpaṃ upavicarati … pe …"
 msgstr ""
-"Seeing a sight with the eye, you linger in the neighborhood of a sight that’"
-"s a basis for sadness. …"
+"Seeing a sight with the eye, one is preoccupied with a sight that’s a basis "
+"for sadness. …"
 
 msgctxt "dn33:2.2.33"
 msgid "manasā dhammaṃ viññāya domanassaṭṭhāniyaṃ dhammaṃ upavicarati. (12)"
 msgstr ""
-"Knowing a thought with the mind, you linger in the neighborhood of a thought "
-"that’s a basis for sadness."
+"Knowing a thought with the mind, one is preoccupied with a thought that’s a "
+"basis for sadness."
 
 #. </p><p>
 #. <a class="sc" id="sc216"></a>
 msgctxt "dn33:2.2.34"
 msgid "Cha upekkhūpavicārā."
-msgstr "Six neighborhoods near equanimity."
+msgstr "Six preoccupations with equanimity."
 
 msgctxt "dn33:2.2.35"
 msgid "Cakkhunā rūpaṃ disvā upekkhāṭṭhāniyaṃ rūpaṃ upavicarati … pe …"
 msgstr ""
-"Seeing a sight with the eye, you linger in the neighborhood of a sight that’"
-"s a basis for equanimity. …"
+"Seeing a sight with the eye, one is preoccupied with a sight that’s a basis "
+"for equanimity. …"
 
 msgctxt "dn33:2.2.36"
 msgid "manasā dhammaṃ viññāya upekkhāṭṭhāniyaṃ dhammaṃ upavicarati. (13)"
 msgstr ""
-"Knowing a thought with the mind, you linger in the neighborhood of a thought "
-"that’s a basis for equanimity."
+"Knowing a thought with the mind, one is preoccupied with a thought that’s a "
+"basis for equanimity."
 
 #. </p><p>
 #. <a class="sc" id="sc217"></a>
@@ -4203,7 +4217,7 @@ msgid "Ayampi dhammo sāraṇīyo … pe … ekībhāvāya saṃvattati. (14.4)"
 msgstr "This too is a warm-hearted quality."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.246"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.246"></a>
 #. <a class="sc" id="sc221"></a>
 msgctxt "dn33:2.2.46"
 msgid ""
@@ -4213,7 +4227,7 @@ msgid ""
 msgstr ""
 "Furthermore, a mendicant lives according to the precepts shared with their "
 "spiritual companions, both in public and in private. Those precepts are "
-"uncorrupted, unflawed, unblemished, untainted, liberating, praised by "
+"unbroken, impeccable, spotless, and unmarred, liberating, praised by "
 "sensible people, not mistaken, and leading to immersion."
 
 msgctxt "dn33:2.2.47"
@@ -4297,7 +4311,7 @@ msgstr ""
 "the future."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.247"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.247"></a>
 #. <a class="sc" id="sc224"></a>
 msgctxt "dn33:2.2.57"
 msgid "Puna caparaṃ, āvuso, bhikkhu makkhī hoti paḷāsī … pe …"
@@ -4374,7 +4388,7 @@ msgid ""
 msgstr "earth, water, fire, air, space, and consciousness."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.248"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.248"></a>
 #. <a class="sc" id="sc226"></a>
 msgctxt "dn33:2.2.69"
 msgid "Cha nissaraṇiyā dhātuyo."
@@ -4469,7 +4483,7 @@ msgstr ""
 "of harming.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.249"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.249"></a>
 #. <a class="sc" id="sc228"></a>
 msgctxt "dn33:2.2.84"
 msgid "Idha panāvuso, bhikkhu evaṃ vadeyya:"
@@ -4596,7 +4610,7 @@ msgstr ""
 "signs.’"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.250"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.250"></a>
 #. <a class="sc" id="sc231"></a>
 msgctxt "dn33:2.2.105"
 msgid "Idha panāvuso, bhikkhu evaṃ vadeyya:"
@@ -4703,7 +4717,7 @@ msgstr ""
 "remain equanimous, mindful and aware."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.251"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.251"></a>
 #. <a class="sc" id="sc235"></a>
 msgctxt "dn33:2.2.120"
 msgid "Chaḷābhijātiyo."
@@ -4812,7 +4826,7 @@ msgstr ""
 "generosity, and wisdom."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.252"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.252"></a>
 #. <a class="sc" id="sc240"></a>
 msgctxt "dn33:2.3.6"
 msgid "Satta bojjhaṅgā—"
@@ -4869,11 +4883,12 @@ msgstr ""
 "a mendicant is faithful, conscientious, prudent, learned, energetic, "
 "mindful, and wise."
 
+# Here, as throughout, dhamma in sappurisadhamma (and ariyadhamma) refers to "teachings". Note that below all the qualities specifically pertain to knowledges about teaching: know your audience!
 #. </p><p>
 #. <a class="sc" id="sc244"></a>
 msgctxt "dn33:2.3.14"
 msgid "Satta sappurisadhammā—"
-msgstr "Seven qualities of a good person:"
+msgstr "Seven aspects of the teachings of the good persons:"
 
 msgctxt "dn33:2.3.15"
 msgid ""
@@ -4884,7 +4899,7 @@ msgstr ""
 "moderation, knows the right time, knows assemblies, and knows people."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.253"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.253"></a>
 #. <a class="sc" id="sc245"></a>
 msgctxt "dn33:2.3.16"
 msgid "Satta niddasavatthūni."
@@ -5056,7 +5071,7 @@ msgid "Ayaṃ sattamī viññāṇaṭṭhiti. (10)"
 msgstr "This is the seventh plane of consciousness."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.254"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.254"></a>
 #. <a class="sc" id="sc255"></a>
 msgctxt "dn33:2.3.43"
 msgid "Satta puggalā dakkhiṇeyyā—"
@@ -5180,7 +5195,7 @@ msgstr ""
 "wrong effort, wrong mindfulness, and wrong immersion."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.255"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.255"></a>
 #. <a class="sc" id="sc262"></a>
 msgctxt "dn33:3.1.6"
 msgid "Aṭṭha sammattā—"
@@ -5324,7 +5339,7 @@ msgid "idaṃ catutthaṃ kusītavatthu."
 msgstr "This is the fourth ground for laziness."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.256"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.256"></a>
 #. <a class="sc" id="sc268"></a>
 msgctxt "dn33:3.1.31"
 msgid ""
@@ -5468,9 +5483,10 @@ msgid ""
 "buddhānaṃ sāsanaṃ manasi kātuṃ, handāhaṃ vīriyaṃ ārabhāmi appattassa pattiyā "
 "anadhigatassa adhigamāya, asacchikatassa sacchikiriyāyā’ti."
 msgstr ""
-"‘I have some work to do. While working it’s not easy to focus on the Buddhas’"
-" instructions. I’d better preemptively rouse up energy for attaining the "
-"unattained, achieving the unachieved, and realizing the unrealized.’"
+"‘I have some work to do. While working it’s not easy to focus on the "
+"instructions of the Buddhas. I’d better preemptively rouse up energy for "
+"attaining the unattained, achieving the unachieved, and realizing the "
+"unrealized.’"
 
 msgctxt "dn33:3.1.56"
 msgid ""
@@ -5485,7 +5501,7 @@ msgid "Idaṃ paṭhamaṃ ārambhavatthu."
 msgstr "This is the first ground for arousing energy."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.257"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.257"></a>
 #. <a class="sc" id="sc273"></a>
 msgctxt "dn33:3.1.58"
 msgid "Puna caparaṃ, āvuso, bhikkhunā kammaṃ kataṃ hoti."
@@ -5501,7 +5517,7 @@ msgid ""
 "sāsanaṃ manasi kātuṃ, handāhaṃ vīriyaṃ ārabhāmi … pe …"
 msgstr ""
 "‘I’ve done some work. While I was working I wasn’t able to focus on the "
-"Buddhas’ instructions. I’d better preemptively rouse up energy.’"
+"instructions of the Buddhas. I’d better preemptively rouse up energy.’"
 
 msgctxt "dn33:3.1.61"
 msgid "so vīriyaṃ ārabhati …"
@@ -5527,7 +5543,7 @@ msgid ""
 "buddhānaṃ sāsanaṃ manasi kātuṃ."
 msgstr ""
 "‘I have to go on a journey. While walking it’s not easy to focus on the "
-"Buddhas’ instructions. I’d better preemptively rouse up energy.’"
+"instructions of the Buddhas. I’d better preemptively rouse up energy.’"
 
 msgctxt "dn33:3.1.66"
 msgid "Handāhaṃ vīriyaṃ ārabhāmi … pe …"
@@ -5557,7 +5573,7 @@ msgid ""
 "sāsanaṃ manasi kātuṃ, handāhaṃ vīriyaṃ ārabhāmi … pe …"
 msgstr ""
 "‘I’ve gone on a journey. While I was walking I wasn’t able to focus on the "
-"Buddhas’ instructions. I’d better preemptively rouse up energy.’"
+"instructions of the Buddhas. I’d better preemptively rouse up energy.’"
 
 msgctxt "dn33:3.1.72"
 msgid "so vīriyaṃ ārabhati …"
@@ -5632,7 +5648,7 @@ msgid "idaṃ chaṭṭhaṃ ārambhavatthu."
 msgstr "This is the sixth ground for arousing energy."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.258"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.258"></a>
 #. <a class="sc" id="sc278"></a>
 msgctxt "dn33:3.1.84"
 msgid "Puna caparaṃ, āvuso, bhikkhuno uppanno hoti appamattako ābādho."
@@ -5718,7 +5734,7 @@ msgid "Cittālaṅkāracittaparikkhāratthaṃ dānaṃ deti. (6)"
 msgstr ""
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.259"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.259"></a>
 #. <a class="sc" id="sc281"></a>
 msgctxt "dn33:3.1.97"
 msgid "Aṭṭha dānūpapattiyo."
@@ -5897,7 +5913,7 @@ msgid "Ijjhatāvuso, sīlavato cetopaṇidhi visuddhattā. (7.3–7.)"
 msgstr "The heart’s wish of an ethical person succeeds because of their purity."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.260"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.260"></a>
 #. <a class="sc" id="sc284"></a>
 msgctxt "dn33:3.1.128"
 msgid ""
@@ -6048,7 +6064,7 @@ msgid "Idaṃ catutthaṃ abhibhāyatanaṃ."
 msgstr "This is the fourth dimension of mastery."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.261"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.261"></a>
 #. <a class="sc" id="sc291"></a>
 msgctxt "dn33:3.1.152"
 msgid ""
@@ -6189,7 +6205,7 @@ msgid "Ayaṃ paṭhamo vimokkho."
 msgstr "This is the first liberation."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.262"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.262"></a>
 #. <a class="sc" id="sc296"></a>
 msgctxt "dn33:3.1.171"
 msgid "Ajjhattaṃ arūpasaññī bahiddhā rūpāni passati."
@@ -6330,15 +6346,15 @@ msgstr "Nine grounds for resentment."
 
 msgctxt "dn33:3.2.5"
 msgid "‘Anatthaṃ me acarī’ti āghātaṃ bandhati;"
-msgstr "Thinking: ‘They did wrong by me,’ you harbor resentment."
+msgstr "Thinking: ‘They did wrong to me,’ you harbor resentment."
 
 msgctxt "dn33:3.2.6"
 msgid "‘anatthaṃ me caratī’ti āghātaṃ bandhati;"
-msgstr "Thinking: ‘They are doing wrong by me’ …"
+msgstr "Thinking: ‘They are doing wrong to me’ …"
 
 msgctxt "dn33:3.2.7"
 msgid "‘anatthaṃ me carissatī’ti āghātaṃ bandhati;"
-msgstr "‘They will do wrong by me’ …"
+msgstr "‘They will do wrong to me’ …"
 
 msgctxt "dn33:3.2.8"
 msgid "‘piyassa me manāpassa anatthaṃ acarī’ti āghātaṃ bandhati … pe …"
@@ -6365,7 +6381,7 @@ msgid "atthaṃ carissatīti āghātaṃ bandhati. (1)"
 msgstr "Thinking: ‘They will help someone I dislike,’ you harbor resentment."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.263"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.263"></a>
 #. <a class="sc" id="sc306"></a>
 msgctxt "dn33:3.2.14"
 msgid "Nava āghātapaṭivinayā."
@@ -6375,16 +6391,16 @@ msgstr "Nine methods to get rid of resentment."
 msgctxt "dn33:3.2.15"
 msgid "‘Anatthaṃ me acari, taṃ kutettha labbhā’ti āghātaṃ paṭivineti;"
 msgstr ""
-"Thinking: ‘They did wrong by me, but what can I possibly do?’ you get rid of "
+"Thinking: ‘They did wrong to me, but what can I possibly do?’ you get rid of "
 "resentment."
 
 msgctxt "dn33:3.2.16"
 msgid "‘anatthaṃ me carati, taṃ kutettha labbhā’ti āghātaṃ paṭivineti;"
-msgstr "Thinking: ‘They are doing wrong by me …’ …"
+msgstr "Thinking: ‘They are doing wrong to me …’ …"
 
 msgctxt "dn33:3.2.17"
 msgid "‘anatthaṃ me carissati, taṃ kutettha labbhā’ti āghātaṃ paṭivineti;"
-msgstr "‘They will do wrong by me …’ …"
+msgstr "‘They will do wrong to me …’ …"
 
 msgctxt "dn33:3.2.18"
 msgid "‘piyassa me manāpassa anatthaṃ acari … pe …"
@@ -6545,7 +6561,7 @@ msgid "Ayaṃ navamo sattāvāso. (3)"
 msgstr "This is the ninth abode of sentient beings."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.264"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.264"></a>
 #. <a class="sc" id="sc316"></a>
 msgctxt "dn33:3.2.43"
 msgid "Nava akkhaṇā asamayā brahmacariyavāsāya."
@@ -6645,7 +6661,7 @@ msgid "Ayaṃ chaṭṭho akkhaṇo asamayo brahmacariyavāsāya."
 msgstr "This is the sixth lost opportunity for spiritual practice."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.265"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.265"></a>
 #. <a class="sc" id="sc322"></a>
 msgctxt "dn33:3.2.62"
 msgid "Puna caparaṃ … pe … "
@@ -6720,7 +6736,7 @@ msgid "Ayaṃ navamo akkhaṇo asamayo brahmacariyavāsāya. (4)"
 msgstr "This is the ninth lost opportunity for spiritual practice."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.266"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.266"></a>
 #. <a class="sc" id="sc325"></a>
 msgctxt "dn33:3.2.72"
 msgid "Nava anupubbavihārā."
@@ -6901,7 +6917,7 @@ msgid "Katame dasa?"
 msgstr "What are the teachings grouped by ten?"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.267"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.267"></a>
 #. <a class="sc" id="sc329"></a>
 msgctxt "dn33:3.3.4"
 msgid "Dasa nāthakaraṇā dhammā."
@@ -6915,7 +6931,7 @@ msgid ""
 msgstr ""
 "Firstly, a mendicant is ethical, restrained in the monastic code, and has "
 "appropriate behavior and means of collecting alms. Seeing danger in the "
-"slightest flaw, they keep the rules they’ve undertaken."
+"slightest fault, they keep the rules they’ve undertaken."
 
 msgctxt "dn33:3.3.6"
 msgid ""
@@ -6978,8 +6994,8 @@ msgid ""
 "Puna caparaṃ, āvuso, bhikkhu suvaco hoti sovacassakaraṇehi dhammehi "
 "samannāgato khamo padakkhiṇaggāhī anusāsaniṃ."
 msgstr ""
-"Furthermore, a mendicant is easy to correct, having qualities that make them "
-"easy to correct. They’re patient, and take instruction respectfully."
+"Furthermore, a mendicant is easy to admonish, having qualities that make "
+"them easy to admonish. They’re patient, and take instruction respectfully."
 
 msgctxt "dn33:3.3.15"
 msgid "Yaṃpāvuso, bhikkhu suvaco hoti … pe … padakkhiṇaggāhī anusāsaniṃ."
@@ -7029,7 +7045,7 @@ msgid "Ayampi dhammo nāthakaraṇo. (1.6)"
 msgstr "This too is a quality that serves as protector."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.268"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.268"></a>
 #. <a class="sc" id="sc335"></a>
 msgctxt "dn33:3.3.23"
 msgid ""
@@ -7056,8 +7072,9 @@ msgid ""
 "anikkhittadhuro kusalesu dhammesu."
 msgstr ""
 "Furthermore, a mendicant lives with energy roused up for giving up "
-"unskillful qualities and gaining skillful qualities. They are strong, firmly "
-"applied, not slacking off when it comes to developing skillful qualities."
+"unskillful qualities and gaining skillful qualities. They are strong, "
+"staunchly vigorous, not slacking off when it comes to developing skillful "
+"qualities."
 
 msgctxt "dn33:3.3.27"
 msgid ""
@@ -7157,7 +7174,7 @@ msgstr ""
 "across, non-dual and limitless."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.269"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.269"></a>
 #. <a class="sc" id="sc340"></a>
 msgctxt "dn33:3.3.46"
 msgid "Dasa akusalakammapathā—"
@@ -7258,7 +7275,7 @@ msgid "Evaṃ kho, āvuso, bhikkhu chaḷaṅgasamannāgato hoti. (5.2)"
 msgstr "That’s how a mendicant possesses six factors."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.270"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.270"></a>
 #. <a class="sc" id="sc345"></a>
 msgctxt "dn33:3.3.60"
 msgid "Kathañcāvuso, bhikkhu ekārakkho hoti?"
@@ -7385,7 +7402,7 @@ msgid "Evaṃ kho, āvuso, bhikkhu suvimuttacitto hoti. (5.9)"
 msgstr "That’s how a mendicant is well freed in mind."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli3.271"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli3.271"></a>
 #. <a class="sc" id="sc352"></a>
 msgctxt "dn33:3.3.81"
 msgid "Kathañcāvuso, bhikkhu suvimuttapañño hoti?"
@@ -7397,7 +7414,7 @@ msgid ""
 "āyatiṃ anuppādadhammo’ti pajānāti."
 msgstr ""
 "It’s when a mendicant understands: ‘I’ve given up greed, hate, and delusion, "
-"cut them off at the root, made them like a palm stump, exterminated them, so "
+"cut them off at the root, made them like a palm stump, obliterated them, so "
 "they’re unable to arise in the future.’"
 
 msgctxt "dn33:3.3.83"

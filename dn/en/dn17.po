@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-27 14:22+0000\n"
+"POT-Creation-Date: 2018-10-15 14:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/dn/dn17.po\n"
-"X-Pootle-Revision: 646\n"
+"X-Pootle-Revision: 71148\n"
 
 #. <section class="sutta" id="dn17"><article><div class="hgroup"><p class="division">
 msgctxt "dn17:0.1"
@@ -26,12 +26,14 @@ msgstr "King Mahāsudassana"
 
 #. </h1></div><p>
 #. <a class="pts-cs" id="pts-cs1.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.169"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.169"></a>
 #. <a class="sc" id="sc1"></a>
+#. <span class="evam">
 msgctxt "dn17:1.1.1"
 msgid "Evaṃ me sutaṃ—​"
 msgstr "So I have heard."
 
+#. </span>
 msgctxt "dn17:1.1.2"
 msgid ""
 "ekaṃ samayaṃ bhagavā kusinārāyaṃ viharati upavattane mallānaṃ sālavane "
@@ -97,7 +99,7 @@ msgid "1. Kusāvatīrājadhānī"
 msgstr "1. The Capital City of Kusāvatī"
 
 #. </h2><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.170"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.170"></a>
 #. <a class="sc" id="sc3"></a>
 msgctxt "dn17:1.3.4"
 msgid ""
@@ -117,8 +119,8 @@ msgid ""
 "Puratthimena ca pacchimena ca dvādasayojanāni āyāmena, uttarena ca "
 "dakkhiṇena ca sattayojanāni vitthārena."
 msgstr ""
-"It stretched for twelve leagues east to west, and seven leagues north to "
-"south."
+"It stretched for twelve leagues from east to west, and seven leagues from "
+"north to south."
 
 msgctxt "dn17:1.3.7"
 msgid ""
@@ -156,12 +158,12 @@ msgid ""
 "pivatha khādathā’ti dasamena saddena."
 msgstr ""
 "the sound of elephants, horses, chariots, drums, clay drums, arched harps, "
-"singing, horns, gongs, and handbells; and the cry ‘Eat, drink, be merry!’ as "
-"the tenth."
+"singing, horns, gongs, and handbells; and the cry, ‘Eat, drink, be merry!’ "
+"as the tenth."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.4"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.171"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.171"></a>
 #. <a class="sc" id="sc4"></a>
 msgctxt "dn17:1.4.1"
 msgid "Kusāvatī, ānanda, rājadhānī sattahi pākārehi parikkhittā ahosi."
@@ -206,7 +208,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.6"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.172"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.172"></a>
 #. <a class="sc" id="sc5"></a>
 msgctxt "dn17:1.6.1"
 msgid "Kusāvatī, ānanda, rājadhānī sattahi tālapantīhi parikkhittā ahosi."
@@ -357,7 +359,7 @@ msgstr "Am I then a wheel-turning monarch?’"
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.8"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.173"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.173"></a>
 #. <a class="sc" id="sc7"></a>
 msgctxt "dn17:1.8.1"
 msgid ""
@@ -521,8 +523,8 @@ msgstr "Next, the elephant-treasure appeared to King Mahāsudassana. "
 msgctxt "dn17:1.12.2"
 msgid "sabbaseto sattappatiṭṭho iddhimā vehāsaṅgamo uposatho nāma nāgarājā."
 msgstr ""
-"It was all-white sky-walker with psychic power, touching the ground in seven "
-"places, a king of elephants named Sabbath."
+"It was an all-white sky-walker with psychic power, touching the ground in "
+"seven places, a king of elephants named Sabbath."
 
 msgctxt "dn17:1.12.3"
 msgid "Taṃ disvā rañño mahāsudassanassa cittaṃ pasīdi:"
@@ -562,7 +564,7 @@ msgstr "2.3. The Horse-Treasure"
 
 #. </h3><p>
 #. <a class="pts-cs" id="pts-cs1.13"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.175"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.175"></a>
 #. <a class="sc" id="sc10"></a>
 msgctxt "dn17:1.13.1"
 msgid "Puna caparaṃ, ānanda, rañño mahāsudassanassa assaratanaṃ pāturahosi "
@@ -659,7 +661,7 @@ msgstr "2.5. The Woman Treasure"
 
 #. </h3><p>
 #. <a class="pts-cs" id="pts-cs1.15"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.176"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.176"></a>
 #. <a class="sc" id="sc12"></a>
 msgctxt "dn17:1.15.1"
 msgid "Puna caparaṃ, ānanda, rañño mahāsudassanassa itthiratanaṃ pāturahosi "
@@ -724,7 +726,7 @@ msgstr "2.6. The Householder Treasure"
 
 #. </h3><p>
 #. <a class="pts-cs" id="pts-cs1.16"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.177"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.177"></a>
 #. <a class="sc" id="sc13"></a>
 msgctxt "dn17:1.16.1"
 msgid ""
@@ -899,7 +901,7 @@ msgstr "This is the third blessing."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.21"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.178"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.178"></a>
 #. <a class="sc" id="sc19"></a>
 msgctxt "dn17:1.21.1"
 msgid ""
@@ -1011,7 +1013,7 @@ msgid ""
 msgstr "made of gold, silver, beryl, and crystal."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.179"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.179"></a>
 #. <a class="sc" id="sc23"></a>
 msgctxt "dn17:1.22.6"
 msgid ""
@@ -1121,7 +1123,7 @@ msgid ""
 msgstr "So that’s what he did."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.180"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.180"></a>
 #. <a class="sc" id="sc26"></a>
 msgctxt "dn17:1.23.7"
 msgid "Atha kho, ānanda, rañño mahāsudassanassa etadahosi:"
@@ -1214,7 +1216,7 @@ msgstr "King Mahāsudassana consented in silence."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.25"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.181"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.181"></a>
 #. <a class="sc" id="sc28"></a>
 #. VAR: vissakammaṃ → visukammaṃ (mr)
 msgctxt "dn17:1.25.1"
@@ -1271,8 +1273,8 @@ msgid ""
 "Dhammo, ānanda, pāsādo puratthimena pacchimena ca yojanaṃ āyāmena ahosi. "
 "Uttarena dakkhiṇena ca aḍḍhayojanaṃ vitthārena."
 msgstr ""
-"The Palace of Principle stretched for a league east to west, and half a "
-"league north to south."
+"The Palace of Principle stretched for a league from east to west, and half a "
+"league from north to south."
 
 msgctxt "dn17:1.25.9"
 msgid ""
@@ -1310,7 +1312,7 @@ msgid ""
 msgstr "made of gold, silver, beryl, and crystal."
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.182"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.182"></a>
 #. <a class="sc" id="sc31"></a>
 msgctxt "dn17:1.26.5"
 msgid ""
@@ -1411,7 +1413,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.27"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.183"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.183"></a>
 #. <a class="sc" id="sc33"></a>
 msgctxt "dn17:1.27.1"
 msgid "Atha kho, ānanda, rañño mahāsudassanassa etadahosi:"
@@ -1458,7 +1460,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.29"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.184"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.184"></a>
 #. <a class="sc" id="sc34"></a>
 msgctxt "dn17:1.29.1"
 msgid "Dhammo, ānanda, pāsādo dvīhi kiṅkiṇikajālehi parikkhitto ahosi—"
@@ -1550,8 +1552,8 @@ msgid ""
 "Dhammā, ānanda, pokkharaṇī puratthimena pacchimena ca yojanaṃ āyāmena ahosi, "
 "uttarena dakkhiṇena ca aḍḍhayojanaṃ vitthārena."
 msgstr ""
-"The Lotus Pond of Principle stretched for a league east to west, and half a "
-"league north to south."
+"The Lotus Pond of Principle stretched for a league from east to west, and "
+"half a league from north to south."
 
 msgctxt "dn17:1.30.5"
 msgid "Dhammā, ānanda, pokkharaṇī catunnaṃ vaṇṇānaṃ iṭṭhakāhi citā ahosi—"
@@ -1630,7 +1632,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs1.32"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.185"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.185"></a>
 #. <a class="sc" id="sc38"></a>
 msgctxt "dn17:1.32.1"
 msgid "Dhammā, ānanda, pokkharaṇī sattahi tālapantīhi parikkhittā ahosi—"
@@ -1745,7 +1747,7 @@ msgstr "5. Attaining Absorption"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs2.1"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.186"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.186"></a>
 #. <a class="sc" id="sc40"></a>
 msgctxt "dn17:2.1.1"
 msgid "Atha kho, ānanda, rañño mahāsudassanassa etadahosi:"
@@ -1842,7 +1844,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.4"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.187"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.187"></a>
 #. <a class="sc" id="sc43"></a>
 msgctxt "dn17:2.4.1"
 msgid ""
@@ -1892,7 +1894,7 @@ msgstr "6. Of All Cities"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs2.5"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.188"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.188"></a>
 #. <a class="sc" id="sc44"></a>
 msgctxt "dn17:2.5.1"
 msgid ""
@@ -1986,7 +1988,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.6"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.189"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.189"></a>
 #. <a class="sc" id="sc45"></a>
 msgctxt "dn17:2.6.1"
 msgid ""
@@ -2042,7 +2044,7 @@ msgstr "7. The Visit of Queen Subhaddā"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs2.7"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.190"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.190"></a>
 #. <a class="sc" id="sc46"></a>
 msgctxt "dn17:2.7.1"
 msgid ""
@@ -2060,7 +2062,7 @@ msgstr "‘It is long since I have seen the king. Why don’t I go to see him?�
 
 msgctxt "dn17:2.7.3"
 msgid "Atha kho, ānanda, subhaddā devī itthāgāraṃ āmantesi:"
-msgstr "Then the Queen addressed the ladies of the harem:"
+msgstr "Then the queen addressed the ladies of the harem:"
 
 msgctxt "dn17:2.7.4"
 msgid "‘etha tumhe sīsāni nhāyatha pītāni vatthāni pārupatha."
@@ -2083,7 +2085,7 @@ msgstr ""
 #. <a class="pts-cs" id="pts-cs2.8"></a>
 msgctxt "dn17:2.8.1"
 msgid "Atha kho, ānanda, subhaddā devī pariṇāyakaratanaṃ āmantesi:"
-msgstr "Then the Queen addressed the counselor-treasure:"
+msgstr "Then the queen addressed the counselor-treasure:"
 
 msgctxt "dn17:2.8.2"
 msgid ""
@@ -2164,7 +2166,7 @@ msgid ""
 "Atha kho, ānanda, rājā mahāsudassano dakkhiṇena passena sīhaseyyaṃ kappesi "
 "pāde pādaṃ accādhāya sato sampajāno."
 msgstr ""
-"The king lay down in the lion’s posture—on the right side, placing one foot "
+"The king laid down in the lion’s posture—on the right side, placing one foot "
 "on top of the other—mindful and aware."
 
 #. </p><p>
@@ -2185,7 +2187,7 @@ msgstr ""
 "pure and bright. Let him not pass away!’ She said to him:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.191"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.191"></a>
 #. <a class="sc" id="sc48"></a>
 msgctxt "dn17:2.10.3"
 msgid ""
@@ -2200,7 +2202,7 @@ msgstr "Arouse desire for these! Take an interest in life!’"
 msgctxt "dn17:2.10.5"
 msgid "Imāni te, deva, caturāsīti pāsādasahassāni dhammapāsādappamukhāni."
 msgstr ""
-"And she likewise urged the king live on by taking an interest in all his "
+"And she likewise urged the king to live on by taking an interest in all his "
 "possessions as described above."
 
 msgctxt "dn17:2.10.6"
@@ -2330,7 +2332,7 @@ msgid "Evaṃ vutte, ānanda, rājā mahāsudassano subhaddaṃ deviṃ etadavoc
 msgstr "When the queen had spoken, the king said to her:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.193"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.193"></a>
 #. <a class="sc" id="sc50"></a>
 msgctxt "dn17:2.11.2"
 msgid ""
@@ -2374,7 +2376,7 @@ msgstr ""
 
 msgctxt "dn17:2.11.8"
 msgid "Ettha, deva, chandaṃ pajaha jīvite apekkhaṃ mākāsi."
-msgstr "Give up desire for these! Take no interest in life!”"
+msgstr "Give up desire for these! Take no interest in life!”’"
 
 msgctxt "dn17:2.11.9"
 msgid "Imāni te, deva, caturāsīti pāsādasahassāni dhammapāsādappamukhāni."
@@ -2515,7 +2517,7 @@ msgid ""
 msgstr "Wiping away her tears, the queen said to the king:"
 
 #. </p><p>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.195"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.195"></a>
 #. <a class="sc" id="sc52"></a>
 msgctxt "dn17:2.12.3"
 msgid ""
@@ -2666,7 +2668,7 @@ msgstr "8. Rebirth in the Brahmā Realm"
 
 #. </h2><p>
 #. <a class="pts-cs" id="pts-cs2.13"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.196"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.196"></a>
 #. <a class="sc" id="sc53"></a>
 msgctxt "dn17:2.13.1"
 msgid "Atha kho, ānanda, rājā mahāsudassano na cirasseva kālamakāsi."
@@ -2718,7 +2720,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.14"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.197"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.197"></a>
 #. <a class="sc" id="sc54"></a>
 msgctxt "dn17:2.14.1"
 msgid "Siyā kho panānanda, evamassa:"
@@ -2765,7 +2767,7 @@ msgstr ""
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.15"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.198"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.198"></a>
 #. <a class="sc" id="sc55"></a>
 msgctxt "dn17:2.15.1"
 msgid ""
@@ -2838,8 +2840,8 @@ msgid ""
 "Tesaṃ kho panānanda, caturāsīti thālipākasahassānaṃ ekoyeva so thālipāko "
 "hoti, yato nāḷikodanaparamaṃ bhuñjāmi tadupiyañca sūpeyyaṃ."
 msgstr ""
-"Of those 84,000 servings of food, I only had one, eating at most a serve of "
-"rice and suitable sauce."
+"Of those 84,000 servings of food, I only had one, eating at most a serving "
+"of rice and suitable sauce."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.16"></a>
@@ -2868,11 +2870,11 @@ msgid ""
 "alaṃ vimuccituṃ."
 msgstr ""
 "This is quite enough for you to become disillusioned, dispassionate, and "
-"freed from all conditions."
+"freed regarding all conditions."
 
 #. </p><p>
 #. <a class="pts-cs" id="pts-cs2.17"></a>
-#. <a class="pts-vp-pi" id="pts-vp-pli2.199"></a>
+#. <a class="pts-vp-pli" id="pts-vp-pli2.199"></a>
 #. <a class="sc" id="sc57"></a>
 msgctxt "dn17:2.17.1"
 msgid ""
