@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.08.po\n"
-"X-Pootle-Revision: 7919\n"
+"X-Pootle-Revision: 75987\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,71 +21,70 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.8:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.8:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.8:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag2.8:4.1"
 msgid "2.8. Surādhattheragāthā"
-msgstr ""
+msgstr "2.8. Surādha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc135"></a><a class="verse-num-pts"
 #. id="verse-num-pts135"></a>
 msgctxt "thag2.8:5.1"
 msgid "“Khīṇā hi mayhaṃ jāti,"
-msgstr "Rebirth is ended for me,"
+msgstr "Rebirth is ended for me;"
 
 #. <br>
 msgctxt "thag2.8:5.2"
 msgid "vusitaṃ jinasāsanaṃ;"
-msgstr "The conqueror’s instruction is fulfilled,"
+msgstr "the victor’s instruction is fulfilled;"
 
 #. <br>
 msgctxt "thag2.8:5.3"
 msgid "Pahīno jālasaṅkhāto,"
-msgstr "What they call a “net” is abandoned,"
+msgstr "what they call a “net” is given up;"
 
 #. <br>
 msgctxt "thag2.8:5.4"
 msgid "bhavanetti samūhatā."
-msgstr "The attachment to being reborn in any state of existence is undone."
+msgstr "the attachment to rebirth is eradicated."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc136"></a><a class="verse-num-pts" id="verse-num-pts136"></a>
 msgctxt "thag2.8:6.1"
 msgid "Yassatthāya pabbajito,"
-msgstr "I’ve arrived at the goal"
+msgstr "I’ve reached the goal"
 
 #. <br>
 msgctxt "thag2.8:6.2"
 msgid "agārasmānagāriyaṃ;"
-msgstr "For the sake of which I went forth"
+msgstr "for the sake of which I went forth"
 
 #. <br>
 msgctxt "thag2.8:6.3"
 msgid "So me attho anuppatto,"
-msgstr "From the home life into homelessness:"
+msgstr "from the lay life into homelessness:"
 
 #. <br>
 msgctxt "thag2.8:6.4"
 msgid "sabbasaṃyojanakkhayo”ti."
-msgstr "The ending of all fetters."
+msgstr "the ending of all fetters."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.8:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.8:7.2"
 msgid "Surādho thero …."

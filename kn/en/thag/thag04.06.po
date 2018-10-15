@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag04.06.po\n"
-"X-Pootle-Revision: 8045\n"
+"X-Pootle-Revision: 73672\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,44 +21,44 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag4.6:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag4.6:2.1"
 msgid "Catukkanipāta"
-msgstr ""
+msgstr "The Book of the Fours"
 
 #. </p><p>
 msgctxt "thag4.6:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag4.6:4.1"
 msgid "4.6. Senakattheragāthā"
-msgstr ""
+msgstr "4.6. Senaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc287"></a><a class="verse-num-pts"
 #. id="verse-num-pts287"></a>
 msgctxt "thag4.6:5.1"
 msgid "“Svāgataṃ vata me āsi,"
-msgstr "During the spring festival at Gayā,"
+msgstr "It was so welcome for me"
 
 #. <br>
 msgctxt "thag4.6:5.2"
 msgid "gayāyaṃ gayaphagguyā;"
-msgstr "It was so welcome for me"
+msgstr "during the Gayā spring festival"
 
 #. <br>
 msgctxt "thag4.6:5.3"
 msgid "Yaṃ addasāsiṃ sambuddhaṃ,"
-msgstr "To see the Buddha,"
+msgstr "to see the Awakened One"
 
 #. <br>
 msgctxt "thag4.6:5.4"
 msgid "desentaṃ dhammamuttamaṃ."
-msgstr "Teaching the supreme Dhamma."
+msgstr "teaching the supreme Dhamma."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc288"></a><a class="verse-num-pts" id="verse-num-pts288"></a>
@@ -69,28 +69,28 @@ msgstr "He was glorious, the teacher of a community,"
 #. <br>
 msgctxt "thag4.6:6.2"
 msgid "aggapattaṃ vināyakaṃ;"
-msgstr "Who had realised the highest, a leader,"
+msgstr "a leader who had realised the highest."
 
 #. <br>
 msgctxt "thag4.6:6.3"
 msgid "Sadevakassa lokassa,"
-msgstr "Conqueror of the world with its gods;"
+msgstr "In all the world with its gods,"
 
 #. <br>
 msgctxt "thag4.6:6.4"
 msgid "jinaṃ atuladassanaṃ."
-msgstr "His vision was unequalled."
+msgstr "he was the victor of unequalled vision."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc289"></a><a class="verse-num-pts" id="verse-num-pts289"></a>
 msgctxt "thag4.6:7.1"
 msgid "Mahānāgaṃ mahāvīraṃ,"
-msgstr "A great being of power, a great hero,"
+msgstr "A great giant, a great hero,"
 
 #. <br>
 msgctxt "thag4.6:7.2"
 msgid "mahājutimanāsavaṃ;"
-msgstr "A great light, without defilements."
+msgstr "a great light free of defilement."
 
 #. <br>
 msgctxt "thag4.6:7.3"
@@ -100,7 +100,7 @@ msgstr "With the utter ending of all defilements,"
 #. <br>
 msgctxt "thag4.6:7.4"
 msgid "satthāramakutobhayaṃ."
-msgstr "The teacher fears nothing from any quarter."
+msgstr "the teacher fears nothing from any quarter."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc290"></a><a class="verse-num-pts" id="verse-num-pts290"></a>
@@ -113,7 +113,7 @@ msgctxt "thag4.6:8.2"
 msgid ""
 "<span class=\"var\" title=\"... sandhitaṃ (si, s2, s3) | sanditaṃ (bj-a, "
 "pts1-2)\" id=\"note173\">diṭṭhisandānabandhitaṃ</span>;"
-msgstr "Fettered by the bond of wrong view."
+msgstr "fettered by the bond of wrong view."
 
 #. <br>
 msgctxt "thag4.6:8.3"
@@ -123,13 +123,12 @@ msgstr "That Blessed One, Senaka,"
 #. <br>
 msgctxt "thag4.6:8.4"
 msgid "sabbaganthehi senakan”ti."
-msgstr "Released me from all ties."
+msgstr "released me from all ties."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag4.6:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag4.6:9.2"
 msgid "Senako thero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag15.2.po\n"
-"X-Pootle-Revision: 8157\n"
+"X-Pootle-Revision: 77527\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag15.2:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag15.2:2.1"
 msgid "Soḷasakanipāta"
-msgstr ""
+msgstr "The Book of the Sixteens"
 
 #. </p><p>
 msgctxt "thag15.2:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag15.2:4.1"
 msgid "15.2. Udāyittheragāthā"
-msgstr ""
+msgstr "15.2. Udāyi"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag15.2:5.1"
@@ -44,22 +44,22 @@ msgid ""
 "<span class=\"cross\" title=\"^an6.43#1 [43. Nāgasutta]\" id=\"note320\""
 ">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc689\"></a><a class"
 "=\"verse-num-pts\" id=\"verse-num-pts689\"></a>“Manussabhūtaṃ sambuddhaṃ,"
-msgstr "An person who has become awakened as a human being,"
+msgstr "Awakened as a human being,"
 
 #. <br>
 msgctxt "thag15.2:5.2"
 msgid "Attadantaṃ samāhitaṃ;"
-msgstr "Self-tamed, with samādhi,"
+msgstr "self-tamed and serene,"
 
 #. <br>
 msgctxt "thag15.2:5.3"
 msgid "Iriyamānaṃ brahmapathe,"
-msgstr "Following the spiritual path,"
+msgstr "following the spiritual path,"
 
 #. <br>
 msgctxt "thag15.2:5.4"
 msgid "Cittassūpasame rataṃ."
-msgstr "Delights in peace of mind."
+msgstr "he loves peace of mind."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc690"></a><a class="verse-num-pts" id="verse-num-pts690"></a>
@@ -70,17 +70,17 @@ msgstr "Revered by people,"
 #. <br>
 msgctxt "thag15.2:6.2"
 msgid "sabbadhammāna pāraguṃ;"
-msgstr "Gone beyond all things,"
+msgstr "gone beyond all things,"
 
 #. <br>
 msgctxt "thag15.2:6.3"
 msgid "Devāpi taṃ namassanti,"
-msgstr "Even the gods revere him;"
+msgstr "even the gods revere him;"
 
 #. <br>
 msgctxt "thag15.2:6.4"
 msgid "iti me arahato sutaṃ."
-msgstr "So I’ve heard from the Arahant."
+msgstr "so I’ve heard from the perfected one."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc691"></a><a class="verse-num-pts"
@@ -92,21 +92,21 @@ msgstr "He has transcended all fetters,"
 #. <br>
 msgctxt "thag15.2:7.2"
 msgid "vanā nibbanamāgataṃ;"
-msgstr "And escaped from entanglements,"
+msgstr "and escaped from entanglements."
 
 #. <br>
 msgctxt "thag15.2:7.3"
 msgid ""
 "Kāmehi <span class=\"var\" title=\"nikkhammarataṃ (pts1-2, mr)\" id=\""
 "note321\">nekkhammarataṃ</span>,"
-msgstr "Delighting in the renunciation of sensual pleasures,"
+msgstr "Delighting to renounce sensual pleasures,"
 
 #. <br>
 msgctxt "thag15.2:7.4"
 msgid ""
 "<span class=\"var\" title=\"muttaselā va (pts1)\" id=\"note322\">muttaṃ "
 "selāva</span> kañcanaṃ."
-msgstr "He is liberated like gold from stone."
+msgstr "he’s freed like gold from stone."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc692"></a><a class="verse-num-pts" id="verse-num-pts692"></a>
@@ -114,43 +114,43 @@ msgctxt "thag15.2:8.1"
 msgid ""
 "Sa ve <span class=\"var\" title=\"accantaruci (bj) | accantarucī (pts1)\" id="
 "\"note323\">accaruci</span> nāgo,"
-msgstr "That elephant outshines all,"
+msgstr "That giant outshines all,"
 
 #. <br>
 msgctxt "thag15.2:8.2"
 msgid "himavāvaññe siluccaye;"
-msgstr "As the Himālaya outshines other mountains."
+msgstr "like the Himalaya beside other mountains."
 
 #. <br>
 msgctxt "thag15.2:8.3"
 msgid "Sabbesaṃ nāganāmānaṃ,"
-msgstr "Of all those named “elephant”,"
+msgstr "Of all those named “giant”,"
 
 #. <br>
 msgctxt "thag15.2:8.4"
 msgid "saccanāmo anuttaro."
-msgstr "He is truly named, and unsurpassed."
+msgstr "he is truly named, supreme."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc693"></a><a class="verse-num-pts" id="verse-num-pts693"></a>
 msgctxt "thag15.2:9.1"
 msgid "Nāgaṃ vo kittayissāmi,"
-msgstr "I’ll extol the elephant to you,"
+msgstr "I’ll extol the giant for you,"
 
 #. <br>
 msgctxt "thag15.2:9.2"
 msgid "na hi āguṃ karoti so;"
-msgstr "For he does nothing wrong."
+msgstr "for he does nothing monstrous."
 
 #. <br>
 msgctxt "thag15.2:9.3"
 msgid "Soraccaṃ avihiṃsā ca,"
-msgstr "The elephant’s front two feet"
+msgstr "Gentleness and harmlessness"
 
 #. <br>
 msgctxt "thag15.2:9.4"
 msgid "pādā nāgassa te duve."
-msgstr "Are gentleness and harmlessness."
+msgstr "are two feet of the giant."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc694"></a><a class="verse-num-pts" id="verse-num-pts694"></a>
@@ -161,28 +161,28 @@ msgstr "Mindfulness and awareness"
 #. <br>
 msgctxt "thag15.2:10.2"
 msgid "caraṇā nāgassa tepare;"
-msgstr "Are the elephant’s other feet."
+msgstr "are his two other feet."
 
 #. <br>
 msgctxt "thag15.2:10.3"
 msgid "Saddhāhattho mahānāgo,"
-msgstr "Faith is the great elephant’s trunk,"
+msgstr "Faith is the giant’s trunk,"
 
 #. <br>
 msgctxt "thag15.2:10.4"
 msgid "upekkhāsetadantavā."
-msgstr "And equanimity is the white tusks."
+msgstr "and equanimity his white tusks."
 
 #. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
 #. id="verse-num-sc695"></a><a class="verse-num-pts" id="verse-num-pts695"></a>
 msgctxt "thag15.2:11.1"
 msgid "Sati gīvā siro paññā,"
-msgstr "Mindfulness is his neck, his head is understanding—"
+msgstr "Mindfulness is his neck, his head is wisdom—"
 
 #. <br>
 msgctxt "thag15.2:11.2"
 msgid "vīmaṃsā dhammacintanā;"
-msgstr "The investigation and reflection on phenomena—"
+msgstr "investigation and thinking about principles."
 
 #. <br>
 msgctxt "thag15.2:11.3"
@@ -192,49 +192,49 @@ msgstr "His belly is the sacred hearth of the Dhamma,"
 #. <br>
 msgctxt "thag15.2:11.4"
 msgid "viveko tassa vāladhi."
-msgstr "His tail is seclusion."
+msgstr "and his tail is seclusion."
 
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
 #. id="verse-num-sc696"></a><a class="verse-num-pts" id="verse-num-pts696"></a>
 msgctxt "thag15.2:12.1"
 msgid "So jhāyī assāsarato,"
-msgstr "Practicing jhāna, delighting in the breath,"
+msgstr "Practicing absorption, enjoying the breath,"
 
 #. <br>
 msgctxt "thag15.2:12.2"
 msgid "ajjhattaṃ susamāhito;"
-msgstr "Serene inside himself."
+msgstr "he is serene within."
 
 #. <br>
 msgctxt "thag15.2:12.3"
 msgid "Gacchaṃ samāhito nāgo,"
-msgstr "The elephant is serene when walking,"
+msgstr "The giant is serene when walking,"
 
 #. <br>
 msgctxt "thag15.2:12.4"
 msgid "ṭhito nāgo samāhito."
-msgstr "The elephant is serene when standing,"
+msgstr "the giant is serene when standing,"
 
 #. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
 #. id="verse-num-sc697"></a><a class="verse-num-pts" id="verse-num-pts697"></a>
 msgctxt "thag15.2:13.1"
 msgid "Sayaṃ samāhito nāgo,"
-msgstr "The elephant is serene when lying down,"
+msgstr "the giant is serene when lying down,"
 
 #. <br>
 msgctxt "thag15.2:13.2"
 msgid "nisinnopi samāhito;"
-msgstr "And when sitting, the elephant is serene."
+msgstr "and when sitting, the giant is serene."
 
 #. <br>
 msgctxt "thag15.2:13.3"
 msgid "Sabbattha saṃvuto nāgo,"
-msgstr "The elephant is restrained everywhere:"
+msgstr "The giant is restrained everywhere:"
 
 #. <br>
 msgctxt "thag15.2:13.4"
 msgid "esā nāgassa sampadā."
-msgstr "This is the accomplishment of the elephant."
+msgstr "this is the accomplishment of the giant."
 
 #. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
 #. id="verse-num-sc698"></a><a class="verse-num-pts" id="verse-num-pts698"></a>
@@ -245,7 +245,7 @@ msgstr "He eats blameless things,"
 #. <br>
 msgctxt "thag15.2:14.2"
 msgid "sāvajjāni na bhuñjati;"
-msgstr "He doesn’t eat blameworthy things."
+msgstr "he doesn’t eat blameworthy things."
 
 #. <br>
 msgctxt "thag15.2:14.3"
@@ -255,18 +255,18 @@ msgstr "When he gets food and clothes,"
 #. <br>
 msgctxt "thag15.2:14.4"
 msgid "sannidhiṃ parivajjayaṃ."
-msgstr "He avoids storing them up."
+msgstr "he avoids storing them up."
 
 #. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
 #. id="verse-num-sc699"></a><a class="verse-num-pts" id="verse-num-pts699"></a>
 msgctxt "thag15.2:15.1"
 msgid "Saṃyojanaṃ aṇuṃ thūlaṃ,"
-msgstr "Having cut off all bonds,"
+msgstr "Having severed all bonds,"
 
 #. <br>
 msgctxt "thag15.2:15.2"
 msgid "sabbaṃ chetvāna bandhanaṃ;"
-msgstr "Fetters large and small,"
+msgstr "fetters large and small,"
 
 #. <br>
 msgctxt "thag15.2:15.3"
@@ -276,51 +276,51 @@ msgstr "Wherever he goes,"
 #. <br>
 msgctxt "thag15.2:15.4"
 msgid "anapekkhova gacchati."
-msgstr "He goes without longing"
+msgstr "he goes without concern."
 
 #. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
 #. id="verse-num-sc700"></a><a class="verse-num-pts" id="verse-num-pts700"></a>
 msgctxt "thag15.2:16.1"
 msgid "Yathāpi udake jātaṃ,"
-msgstr "Just as a white lotus,"
+msgstr "A white lotus,"
 
 #. <br>
 msgctxt "thag15.2:16.2"
 msgid "puṇḍarīkaṃ pavaḍḍhati;"
-msgstr "Fragrant and delightful,"
+msgstr "fragrant and delightful,"
 
 #. <br>
 msgctxt "thag15.2:16.3"
 msgid "Nopalippati toyena,"
-msgstr "Is born in water and grows there,"
+msgstr "sprouts in water and grows there,"
 
 #. <br>
 msgctxt "thag15.2:16.4"
 msgid "sucigandhaṃ manoramaṃ."
-msgstr "But the water does not stick to it;"
+msgstr "but the water doesn’t cling to it."
 
 #. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
 #. id="verse-num-sc701"></a><a class="verse-num-pts" id="verse-num-pts701"></a>
 msgctxt "thag15.2:17.1"
 msgid "Tatheva ca loke jāto,"
-msgstr "So the Buddha is born in the world,"
+msgstr "Just so the Buddha is born in the world,"
 
 #. <br>
 msgctxt "thag15.2:17.2"
 msgid ""
 "buddho loke <span class=\"var\" title=\"virajjati (pts2)\" id=\"note324\""
 ">viharati</span>;"
-msgstr "And lives in the world,"
+msgstr "and lives in the world,"
 
 #. <br>
 msgctxt "thag15.2:17.3"
 msgid "Nopalippati lokena,"
-msgstr "But the world does not stick to him,"
+msgstr "but the world doesn’t stick to him,"
 
 #. <br>
 msgctxt "thag15.2:17.4"
 msgid "toyena padumaṃ yathā."
-msgstr "As the water does not stick to the lotus."
+msgstr "as the water does not stick to the lotus."
 
 #. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
 #. id="verse-num-sc702"></a><a class="verse-num-pts" id="verse-num-pts702"></a>
@@ -331,17 +331,17 @@ msgstr "A great blazing fire"
 #. <br>
 msgctxt "thag15.2:18.2"
 msgid "anāhāropasammati;"
-msgstr "Dies down when the fuel runs out;"
+msgstr "dies down when the fuel runs out."
 
 #. <br>
 msgctxt "thag15.2:18.3"
 msgid "Aṅgāresu ca santesu,"
-msgstr "When the coals have gone out"
+msgstr "And when the coals have gone out"
 
 #. <br>
 msgctxt "thag15.2:18.4"
 msgid "nibbutoti pavuccati."
-msgstr "It’s said to be “quenched”."
+msgstr "it’s said to be “extinguished”."
 
 #. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
 #. id="verse-num-sc703"></a><a class="verse-num-pts" id="verse-num-pts703"></a>
@@ -352,46 +352,45 @@ msgstr "This simile is taught by the discerning"
 #. <br>
 msgctxt "thag15.2:19.2"
 msgid "upamā viññūhi desitā;"
-msgstr "To express the meaning clearly."
+msgstr "to express the meaning clearly."
 
 #. <br>
 msgctxt "thag15.2:19.3"
 msgid "Viññissanti mahānāgā,"
-msgstr "Great elephants will understand"
+msgstr "Great giants will understand"
 
 #. <br>
 msgctxt "thag15.2:19.4"
 msgid "nāgaṃ nāgena desitaṃ."
-msgstr "What the elephant taught the elephant."
+msgstr "what the giant taught the giant."
 
 #. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
 #. id="verse-num-sc704"></a><a class="verse-num-pts" id="verse-num-pts704"></a>
 msgctxt "thag15.2:20.1"
 msgid "Vītarāgo vītadoso,"
-msgstr "Free of desire, free of hatred,"
+msgstr "Free of greed, free of hate,"
 
 #. <br>
 msgctxt "thag15.2:20.2"
 msgid "Vītamoho anāsavo;"
-msgstr "Free of delusion, without defilements,"
+msgstr "free of delusion, undefiled;"
 
 #. <br>
 msgctxt "thag15.2:20.3"
 msgid "Sarīraṃ vijahaṃ nāgo,"
-msgstr "The elephant, abandoning their body,"
+msgstr "the giant, giving up his body,"
 
 #. <br>
 msgctxt "thag15.2:20.4"
 msgid ""
 "<span class=\"var\" title=\"parinibbissattyanāsavoti (bj) | "
 "parinibbātyanāsavo (pts2)\" id=\"note325\">Parinibbissatyanāsavo”ti</span>."
-msgstr "Realises nibbāna without defilements."
+msgstr "will be quenched without defilements."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag15.2:21.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag15.2:21.2"
 msgid "Udāyī thero …."

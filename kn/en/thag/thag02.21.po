@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.21.po\n"
-"X-Pootle-Revision: 7945\n"
+"X-Pootle-Revision: 73473\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,34 +21,34 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.21:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.21:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.21:3.1"
 msgid "Tatiyavagga"
-msgstr ""
+msgstr "Chapter Three"
 
 #. </p><h1>
 msgctxt "thag2.21:4.1"
 msgid "2.21. Uttarattheragāthā"
-msgstr ""
+msgstr "2.21. Uttara"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc161"></a><a class="verse-num-pts"
 #. id="verse-num-pts161"></a>
 msgctxt "thag2.21:5.1"
 msgid "“Khandhā mayā pariññātā,"
-msgstr "I’ve fully understood the aggregates,"
+msgstr "I’ve fully understood the aggregates;"
 
 #. <br>
 msgctxt "thag2.21:5.2"
 msgid "taṇhā me susamūhatā;"
-msgstr "I’ve undone craving;"
+msgstr "I’ve eradicated craving;"
 
 #. <br>
 msgctxt "thag2.21:5.3"
@@ -58,7 +58,7 @@ msgstr "I’ve developed the factors of awakening,"
 #. <br>
 msgctxt "thag2.21:5.4"
 msgid "patto me āsavakkhayo."
-msgstr "And I’ve realized the ending of defilements."
+msgstr "I’ve attained the ending of defilements."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc162"></a><a class="verse-num-pts" id="verse-num-pts162"></a>
@@ -71,23 +71,22 @@ msgctxt "thag2.21:6.2"
 msgid ""
 "<span class=\"var\" title=\"abbhahitvāna (s2, s3) | abbuhitvāna (mr)\" id=\""
 "note107\">abbahitvāna</span> jāliniṃ;"
-msgstr "Having plucked out the weaver of the web,"
+msgstr "having plucked out the weaver of the web,"
 
 #. <br>
 msgctxt "thag2.21:6.3"
 msgid "Bhāvayitvāna bojjhaṅge,"
-msgstr "Having developed the factors of awakening,"
+msgstr "having developed the factors of awakening,"
 
 #. <br>
 msgctxt "thag2.21:6.4"
 msgid "nibbāyissaṃ anāsavo”ti."
-msgstr "I’ll realize nibbāna, without defilements."
+msgstr "I’ll be quenched without defilements."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.21:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.21:7.2"
 msgid "Uttaro thero …."

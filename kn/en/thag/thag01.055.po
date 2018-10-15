@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2016-07-13 01:07+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1468372043.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag01.055.po\n"
+"X-Pootle-Revision: 73387\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.55:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.55:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.55:3.1"
 msgid "Chaṭṭhavagga"
-msgstr ""
+msgstr "Chapter Six"
 
 #. </p><h1>
 msgctxt "thag1.55:4.1"
 msgid "1.55. Añjanavaniyattheragāthā"
-msgstr ""
+msgstr "1.55. Añjanavaniya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc55"></a><a class="verse-num-pts"
@@ -49,7 +48,7 @@ msgstr "I plunged into the Añjana forest"
 #. <br>
 msgctxt "thag1.55:5.2"
 msgid "ogayha añjanaṃ vanaṃ;"
-msgstr "And made a little hut to live in."
+msgstr "and made a little hut to live in."
 
 #. <br>
 msgctxt "thag1.55:5.3"
@@ -59,7 +58,7 @@ msgstr "I’ve attained the three knowledges"
 #. <br>
 msgctxt "thag1.55:5.4"
 msgid "kataṃ buddhassa sāsanan”ti."
-msgstr "And fulfilled the Buddha’s instructions."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag1.55:6.1"
@@ -67,5 +66,7 @@ msgid "…"
 msgstr ""
 
 msgctxt "thag1.55:6.2"
-msgid "<span class=\"var\" title=\"añjanāvaniyo (s2, s3, pts1-2)\" id=\"note45\">Añjanavaniyo</span> thero …."
+msgid ""
+"<span class=\"var\" title=\"añjanāvaniyo (s2, s3, pts1-2)\" id=\"note45\""
+">Añjanavaniyo</span> thero …."
 msgstr ""

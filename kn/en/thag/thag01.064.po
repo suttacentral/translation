@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.064.po\n"
-"X-Pootle-Revision: 7791\n"
+"X-Pootle-Revision: 73396\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,29 +21,29 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.64:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.64:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.64:3.1"
 msgid "Sattamavagga"
-msgstr ""
+msgstr "Chapter Seven"
 
 #. </p><h1>
 msgctxt "thag1.64:4.1"
 msgid "1.64. Vimalakoṇḍaññattheragāthā"
-msgstr ""
+msgstr "1.64. Vimalakoṇḍañña"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc64"></a><a class="verse-num-pts"
 #. id="verse-num-pts64"></a>
 msgctxt "thag1.64:5.1"
 msgid "“Dumavhayāya uppanno,"
-msgstr "I arose from the one named after a tree,"
+msgstr "I arose from the one named after a tree;"
 
 #. <br>
 msgctxt "thag1.64:5.2"
@@ -61,10 +61,9 @@ msgid "mahāketuṃ padhaṃsayī”ti."
 msgstr "By means of the banner itself."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.64:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.64:6.2"
 msgid "Vimalakoṇḍañño thero …."

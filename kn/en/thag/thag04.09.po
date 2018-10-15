@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag04.09.po\n"
-"X-Pootle-Revision: 8051\n"
+"X-Pootle-Revision: 57417\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag4.9:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag4.9:2.1"
 msgid "Catukkanipāta"
-msgstr ""
+msgstr "The Book of the Fours"
 
 #. </p><p>
 msgctxt "thag4.9:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag4.9:4.1"
 msgid "4.9. Candanattheragāthā"
-msgstr ""
+msgstr "4.9. Candana"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc299"></a><a class="verse-num-pts"
@@ -45,22 +45,22 @@ msgctxt "thag4.9:5.1"
 msgid ""
 "“Jātarūpena <span class=\"var\" title=\"pacchannā (bj, pts1-2)\" id=\""
 "note176\">sañchannā</span>,"
-msgstr "Covered with gold,"
+msgstr "Covered over with gold,"
 
 #. <br>
 msgctxt "thag4.9:5.2"
 msgid "dāsīgaṇapurakkhatā;"
-msgstr "Surrounded by all her maids,"
+msgstr "surrounded by all her maids,"
 
 #. <br>
 msgctxt "thag4.9:5.3"
 msgid "Aṅkena puttamādāya,"
-msgstr "With my son upon her hip,"
+msgstr "with my son upon her hip,"
 
 #. <br>
 msgctxt "thag4.9:5.4"
 msgid "bhariyā maṃ upāgami."
-msgstr "My wife came up to me."
+msgstr "my wife came to me."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc300"></a><a class="verse-num-pts" id="verse-num-pts300"></a>
@@ -71,17 +71,17 @@ msgstr "I saw her coming,"
 #. <br>
 msgctxt "thag4.9:6.2"
 msgid "sakaputtassa mātaraṃ;"
-msgstr "The mother of my son,"
+msgstr "the mother of my son,"
 
 #. <br>
 msgctxt "thag4.9:6.3"
 msgid "Alaṅkataṃ suvasanaṃ,"
-msgstr "Adorned with jewellery and all dressed up,"
+msgstr "adorned with jewellery and all dressed up,"
 
 #. <br>
 msgctxt "thag4.9:6.4"
 msgid "maccupāsaṃva oḍḍitaṃ."
-msgstr "Like a snare of death laid down."
+msgstr "like a snare of death laid down."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc301"></a><a class="verse-num-pts" id="verse-num-pts301"></a>
@@ -92,44 +92,43 @@ msgstr "Then the realization"
 #. <br>
 msgctxt "thag4.9:7.2"
 msgid "yoniso udapajjatha;"
-msgstr "Came upon me—"
+msgstr "came upon me—"
 
 #. <br>
 msgctxt "thag4.9:7.3"
 msgid "Ādīnavo pāturahu,"
-msgstr "The danger became clear,"
+msgstr "The danger became clear"
 
 #. <br>
 msgctxt "thag4.9:7.4"
 msgid "nibbidā samatiṭṭhatha."
-msgstr "And I was firmly repulsed."
+msgstr "and I was firmly disillusioned."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc302"></a><a class="verse-num-pts" id="verse-num-pts302"></a>
 msgctxt "thag4.9:8.1"
 msgid "Tato cittaṃ vimucci me,"
-msgstr "Then my mind was liberated—"
+msgstr "Then my mind was freed—"
 
 #. <br>
 msgctxt "thag4.9:8.2"
 msgid "passa dhammasudhammataṃ;"
-msgstr "See the excellence of the Dhamma!"
+msgstr "see the excellence of the teaching!"
 
 #. <br>
 msgctxt "thag4.9:8.3"
 msgid "Tisso vijjā anuppattā,"
-msgstr "I’ve attained the three knowledges,"
+msgstr "I’ve attained the three knowledges"
 
 #. <br>
 msgctxt "thag4.9:8.4"
 msgid "kataṃ buddhassa sāsanan”ti."
-msgstr "And fulfilled the Buddha’s instructions."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag4.9:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag4.9:9.2"
 msgid "Candano thero …."

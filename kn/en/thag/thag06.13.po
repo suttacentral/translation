@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag06.13.po\n"
-"X-Pootle-Revision: 8107\n"
+"X-Pootle-Revision: 73244\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,17 +21,17 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag6.13:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag6.13:2.1"
 msgid "Chakkanipāta"
-msgstr ""
+msgstr "The Book of the Sixes"
 
 #. </p><p>
 msgctxt "thag6.13:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag6.13:4.1"
@@ -55,7 +55,7 @@ msgstr "The rain saturates things that are covered up;"
 #. <br>
 msgctxt "thag6.13:5.2"
 msgid "vivaṭaṃ nātivassati;"
-msgstr "It doesn’t saturate things that are open."
+msgstr "it doesn’t saturate things that are open."
 
 #. <br>
 msgctxt "thag6.13:5.3"
@@ -65,7 +65,7 @@ msgstr "Therefore you should open up a covered thing,"
 #. <br>
 msgctxt "thag6.13:5.4"
 msgid "evaṃ taṃ nātivassati."
-msgstr "So the rain will not saturate it."
+msgstr "so the rain will not saturate it."
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag6.13:6.1"
@@ -74,7 +74,7 @@ msgid ""
 "[Vibhaṅga/ Yuttihāravibhaṅga]\" id=\"note228\">*</span> <a class=\"verse-num-"
 "sc\" id=\"verse-num-sc448\"></a><a class=\"verse-num-pts\" id=\"verse-num-"
 "pts448\"></a>Maccunābbhahato loko,"
-msgstr "The world is beaten down by death,"
+msgstr "The world is beaten down by death"
 
 #. <br>
 msgctxt "thag6.13:6.2"
@@ -102,17 +102,17 @@ msgstr "The world is beaten down by death,"
 #. <br>
 msgctxt "thag6.13:7.2"
 msgid "parikkhitto jarāya ca;"
-msgstr "Caged by old age,"
+msgstr "caged by old age,"
 
 #. <br>
 msgctxt "thag6.13:7.3"
 msgid "Haññati niccamattāṇo,"
-msgstr "Beaten constantly, without respite,"
+msgstr "beaten constantly without respite,"
 
 #. <br>
 msgctxt "thag6.13:7.4"
 msgid "pattadaṇḍova takkaro."
-msgstr "Like a thief being flogged."
+msgstr "like a thief being flogged."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc450"></a><a class="verse-num-pts" id="verse-num-pts450"></a>
@@ -123,7 +123,7 @@ msgstr "Three things are coming, like a wall of flame:"
 #. <br>
 msgctxt "thag6.13:8.2"
 msgid "maccu byādhi jarā tayo;"
-msgstr "Death, disease, and old age."
+msgstr "death, disease, and old age."
 
 #. <br>
 msgctxt "thag6.13:8.3"
@@ -133,7 +133,7 @@ msgstr "No power can stand before them,"
 #. <br>
 msgctxt "thag6.13:8.4"
 msgid "javo natthi palāyituṃ."
-msgstr "And there is no speed to flee."
+msgstr "and no speed’s enough to flee."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc451"></a><a class="verse-num-pts" id="verse-num-pts451"></a>
@@ -144,7 +144,7 @@ msgstr "Don’t waste your day,"
 #. <br>
 msgctxt "thag6.13:9.2"
 msgid "appena bahukena vā;"
-msgstr "A little or a lot."
+msgstr "a little or a lot."
 
 #. <br>
 msgctxt "thag6.13:9.3"
@@ -157,7 +157,7 @@ msgstr "Every night that passes"
 #. <br>
 msgctxt "thag6.13:9.4"
 msgid "tadūnaṃ tassa jīvitaṃ."
-msgstr "Shortens your life by that much."
+msgstr "shortens your life by that much."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc452"></a><a class="verse-num-pts" id="verse-num-pts452"></a>
@@ -168,23 +168,22 @@ msgstr "Walking or standing,"
 #. <br>
 msgctxt "thag6.13:10.2"
 msgid "āsīnasayanassa vā;"
-msgstr "Sitting or lying down:"
+msgstr "sitting or lying down:"
 
 #. <br>
 msgctxt "thag6.13:10.3"
 msgid "Upeti carimā ratti,"
-msgstr "Your final night draws near."
+msgstr "your final night draws near;"
 
 #. <br>
 msgctxt "thag6.13:10.4"
 msgid "na te kālo pamajjitun”ti."
-msgstr "You have no time to be heedless."
+msgstr "you have no time to be careless."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag6.13:11.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag6.13:11.2"
 msgid ""

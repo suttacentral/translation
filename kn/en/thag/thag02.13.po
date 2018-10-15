@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.13.po\n"
-"X-Pootle-Revision: 7929\n"
+"X-Pootle-Revision: 73465\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,44 +21,44 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.13:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.13:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.13:3.1"
 msgid "Dutiyavagga"
-msgstr ""
+msgstr "Chapter Two"
 
 #. </p><h1>
 msgctxt "thag2.13:4.1"
 msgid "2.13. Heraññakānittheragāthā"
-msgstr ""
+msgstr "2.13. Heraññakāni"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc145"></a><a class="verse-num-pts"
 #. id="verse-num-pts145"></a>
 msgctxt "thag2.13:5.1"
 msgid "“Accayanti ahorattā,"
-msgstr "The days and nights pass by,"
+msgstr "The days and nights rush by,"
 
 #. <br>
 msgctxt "thag2.13:5.2"
 msgid "jīvitaṃ uparujjhati;"
-msgstr "And then life is cut short."
+msgstr "and then life is cut short."
 
 #. <br>
 msgctxt "thag2.13:5.3"
 msgid "Āyu khīyati maccānaṃ,"
-msgstr "The vitality of mortals wastes away,"
+msgstr "The life of mortals wastes away,"
 
 #. <br>
 msgctxt "thag2.13:5.4"
 msgid "kunnadīnaṃva odakaṃ."
-msgstr "Like the water in tiny streams."
+msgstr "like the water in tiny streams."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc146"></a><a class="verse-num-pts" id="verse-num-pts146"></a>
@@ -69,23 +69,22 @@ msgstr "But while doing bad deeds"
 #. <br>
 msgctxt "thag2.13:6.2"
 msgid "karaṃ bālo na bujjhati;"
-msgstr "The fool doesn’t realize—"
+msgstr "the fool doesn’t realize—"
 
 #. <br>
 msgctxt "thag2.13:6.3"
 msgid "Pacchāssa kaṭukaṃ hoti,"
-msgstr "It’ll be bitter later on;"
+msgstr "it’ll be bitter later on;"
 
 #. <br>
 msgctxt "thag2.13:6.4"
 msgid "vipāko hissa pāpako”ti."
-msgstr "Yes, the result will be bad for him."
+msgstr "for the result will be bad for them."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.13:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.13:7.2"
 msgid "Heraññakānitthero …."

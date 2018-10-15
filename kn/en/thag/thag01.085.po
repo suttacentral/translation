@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.085.po\n"
-"X-Pootle-Revision: 7833\n"
+"X-Pootle-Revision: 73417\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.85:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.85:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.85:3.1"
 msgid "Navamavagga"
-msgstr ""
+msgstr "Chapter Nine"
 
 #. </p><h1>
 msgctxt "thag1.85:4.1"
 msgid "1.85. Sunāgattheragāthā"
-msgstr ""
+msgstr "1.85. Sunāga"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc85"></a><a class="verse-num-pts"
@@ -50,23 +50,22 @@ msgctxt "thag1.85:5.2"
 msgid ""
 "<span class=\"var\" title=\"pavivekassa rasaṃ (pts2)\" id=\"note61\""
 ">Pavivekarasaṃ</span> vijāniya;"
-msgstr "Understanding the sweetness of seclusion,"
+msgstr "understanding the sweetness of seclusion,"
 
 #. <br>
 msgctxt "thag1.85:5.3"
 msgid "Jhāyaṃ nipako patissato,"
-msgstr "Practising jhāna, disciplined, mindful:"
+msgstr "practising absorption, disciplined, mindful:"
 
 #. <br>
 msgctxt "thag1.85:5.4"
 msgid "Adhigaccheyya sukhaṃ nirāmisan”ti."
-msgstr "Such a person would realize spiritual happiness."
+msgstr "such a person would realize spiritual happiness."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.85:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.85:6.2"
 msgid "Sunāgo thero …."

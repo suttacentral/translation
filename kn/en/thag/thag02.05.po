@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.05.po\n"
-"X-Pootle-Revision: 7913\n"
+"X-Pootle-Revision: 73457\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,74 +21,73 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.5:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.5:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.5:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag2.5:4.1"
 msgid "2.5. Ajinattheragāthā"
-msgstr ""
+msgstr "2.5. Ajina"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc129"></a><a class="verse-num-pts"
 #. id="verse-num-pts129"></a>
 msgctxt "thag2.5:5.1"
 msgid "“Api ce hoti tevijjo,"
-msgstr "Even someone with the three knowledges,"
+msgstr "Even a master of the three knowledges,"
 
 #. <br>
 msgctxt "thag2.5:5.2"
 msgid "maccuhāyī anāsavo;"
-msgstr "Who has conquered death, and is without defilements,"
+msgstr "who has conquered death, and is without defilements,"
 
 #. <br>
 msgctxt "thag2.5:5.3"
 msgid "Appaññātoti naṃ bālā,"
-msgstr "Is looked down on for being unknown"
+msgstr "is looked down on for being unknown"
 
 #. <br>
 msgctxt "thag2.5:5.4"
 msgid ""
 "avajānanti <span class=\"var\" title=\"ajānakā (s2, s3, pts2)\" id=\"note84\""
 ">ajānatā</span>."
-msgstr "By fools without wisdom."
+msgstr "by ignorant fools."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc130"></a><a class="verse-num-pts"
 #. id="verse-num-pts130"></a><a class="pts" id="pts19"></a>
 msgctxt "thag2.5:6.1"
 msgid "Yo ca kho annapānassa,"
-msgstr ""
+msgstr "But any person here"
 
 #. <br>
 msgctxt "thag2.5:6.2"
 msgid "lābhī hotidha puggalo;"
-msgstr ""
+msgstr "who gets food and drink"
 
 #. <br>
 msgctxt "thag2.5:6.3"
 msgid "Pāpadhammopi ce hoti,"
-msgstr ""
+msgstr "is honored by them,"
 
 #. <br>
 msgctxt "thag2.5:6.4"
 msgid "so nesaṃ hoti sakkato”ti."
-msgstr ""
+msgstr "even if they are of bad character."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.5:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.5:7.2"
 msgid "Ajino thero …."

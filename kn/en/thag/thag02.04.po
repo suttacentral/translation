@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.04.po\n"
-"X-Pootle-Revision: 7911\n"
+"X-Pootle-Revision: 73456\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.4:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.4:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.4:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag2.4:4.1"
 msgid "2.4. Gaṅgātīriyattheragāthā"
-msgstr ""
+msgstr "2.4. Gaṅgātīriya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc127"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "My hut on the bank of the Ganges"
 #. <br>
 msgctxt "thag2.4:5.2"
 msgid "gaṅgātīre kuṭī katā;"
-msgstr "Is made from three palm leaves."
+msgstr "is made from three palm leaves."
 
 #. <br>
 msgctxt "thag2.4:5.3"
@@ -58,7 +58,7 @@ msgstr "My alms-bowl is a funeral pot,"
 #. <br>
 msgctxt "thag2.4:5.4"
 msgid "paṃsukūlañca cīvaraṃ."
-msgstr "My robe is castoff rags."
+msgstr "my robe is cast-off rags."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc128"></a><a class="verse-num-pts" id="verse-num-pts128"></a>
@@ -74,20 +74,19 @@ msgstr "I spoke only one word."
 #. <br>
 msgctxt "thag2.4:6.3"
 msgid "Tatiye antaravassamhi,"
-msgstr "In my third rainy season,"
+msgstr "In my third rainy season"
 
 #. <br>
 msgctxt "thag2.4:6.4"
 msgid ""
 "<span class=\"var\" title=\"tamokkhandho (bj, s2, s3)\" id=\"note83\""
 ">tamokhandho</span> padālito”ti."
-msgstr "The mass of darkness was torn apart."
+msgstr "the mass of darkness was shattered."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.4:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.4:7.2"
 msgid "Gaṅgātīriyo thero …."

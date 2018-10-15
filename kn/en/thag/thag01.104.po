@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.104.po\n"
-"X-Pootle-Revision: 7871\n"
+"X-Pootle-Revision: 73436\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.104:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.104:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.104:3.1"
 msgid "Ekādasamavagga"
-msgstr ""
+msgstr "Chapter Eleven"
 
 #. </p><h1>
 msgctxt "thag1.104:4.1"
 msgid "1.104. Khitakattheragāthā"
-msgstr ""
+msgstr "1.104. Khitaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc104"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "Hey! My body is light,"
 #. <br>
 msgctxt "thag1.104:5.2"
 msgid "Phuṭṭho ca pītisukhena vipulena;"
-msgstr "Full of so much rapture and happiness."
+msgstr "full of so much rapture and happiness."
 
 #. <br>
 msgctxt "thag1.104:5.3"
@@ -58,13 +58,12 @@ msgstr "My body feels like it’s floating,"
 #. <br>
 msgctxt "thag1.104:5.4"
 msgid "Pilavatīva me kāyo”ti."
-msgstr "Like cotton on the wind."
+msgstr "like cotton on the wind."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.104:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.104:6.2"
 msgid "Khitako thero …."

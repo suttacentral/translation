@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag21.1.po\n"
-"X-Pootle-Revision: 8191\n"
+"X-Pootle-Revision: 86318\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag21.1:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag21.1:2.1"
 msgid "Mahānipāta"
-msgstr ""
+msgstr "The Great Book"
 
 #. </p><p>
 msgctxt "thag21.1:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag21.1:4.1"
 msgid "21.1. Vaṅgīsattheragāthā"
-msgstr ""
+msgstr "21.1. Vaṅgīsa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc1219"></a><a class="verse-num-pts"
@@ -48,24 +48,24 @@ msgstr "“Now that I’ve gone forth"
 #. <br>
 msgctxt "thag21.1:5.2"
 msgid "agārasmānagāriyaṃ;"
-msgstr "From the home life into homelessness,"
+msgstr "from the lay life into homelessness,"
 
 #. <br>
 msgctxt "thag21.1:5.3"
 msgid "Vitakkā upadhāvanti,"
-msgstr "I’m assailed"
+msgstr "I’m overrun"
 
 #. <br>
 msgctxt "thag21.1:5.4"
 msgid "pagabbhā kaṇhato ime."
-msgstr "By the reckless thoughts of the Dark One."
+msgstr "by the impudent thoughts of the Dark One."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc1220"></a><a class="verse-num-pts"
 #. id="verse-num-pts1210"></a>
 msgctxt "thag21.1:6.1"
 msgid "Uggaputtā mahissāsā,"
-msgstr "Even if a thousand mighty princes and great archers, "
+msgstr "Even if a thousand mighty princes and great archers,"
 
 #. <br>
 msgctxt "thag21.1:6.2"
@@ -118,7 +118,7 @@ msgstr "for I stand firm in the teaching."
 #. id="verse-num-pts1212"></a>
 msgctxt "thag21.1:8.1"
 msgid "Sakkhī hi me sutaṃ etaṃ,"
-msgstr "I heard with my own ears"
+msgstr "I heard this with my own ears"
 
 #. <br>
 msgctxt "thag21.1:8.2"
@@ -145,17 +145,17 @@ msgstr "Wicked One, if you come near me"
 #. <br>
 msgctxt "thag21.1:9.2"
 msgid "pāpima upagacchasi;"
-msgstr "As I live like this,"
+msgstr "as I meditate like this,"
 
 #. <br>
 msgctxt "thag21.1:9.3"
 msgid "Tathā maccu karissāmi,"
-msgstr "I’ll act in such a way that you, Death,"
+msgstr "I’ll make sure that you, Death,"
 
 #. <br>
 msgctxt "thag21.1:9.4"
 msgid "na me maggampi dakkhasi."
-msgstr "Will not even see the path I travel."
+msgstr "won’t even see the path I take.”"
 
 #. </p><p><a class="sc" id="6"></a>
 msgctxt "thag21.1:10.1"
@@ -164,7 +164,7 @@ msgid ""
 ">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1224\"></a><a class"
 "=\"verse-num-pts\" id=\"verse-num-pts1214\"></a><span class=\"var\" title=\""
 "aratiṃ (bahūsu)\" id=\"note517\">Aratiñca</span> ratiñca pahāya,"
-msgstr "Giving up dissatisfaction and desire,"
+msgstr "“Giving up discontent and desire,"
 
 #. <br>
 msgctxt "thag21.1:10.2"
@@ -204,7 +204,7 @@ msgstr "wears out, it is all impermanent;"
 #. <br>
 msgctxt "thag21.1:11.4"
 msgid "Evaṃ samecca caranti mutattā."
-msgstr "the wise live having comprehended this truth."
+msgstr "the thoughtful live having comprehended this truth."
 
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
 #. id="verse-num-sc1226"></a><a class="verse-num-pts"
@@ -270,7 +270,7 @@ msgctxt "thag21.1:14.1"
 msgid ""
 "Dabbo <span class=\"var\" title=\"cirarattaṃ samāhito (s2, s3, pts1)\" id=\""
 "note526\">cirarattasamāhito</span>,"
-msgstr "Clever, long trained in convergence,"
+msgstr "Clever, long serene,"
 
 #. <br>
 msgctxt "thag21.1:14.2"
@@ -305,7 +305,7 @@ msgctxt "thag21.1:15.3"
 msgid ""
 "<span class=\"var\" title=\"mānapathasmiṃ (s2, s3, pts2)\" id=\"note527\""
 ">Mānapathamhi</span> sa mucchito,"
-msgstr "Stupefied with the different kinds of conceit,"
+msgstr "Besotted with the different kinds of conceit,"
 
 #. <br>
 msgctxt "thag21.1:15.4"
@@ -422,7 +422,7 @@ msgstr "because of a perversion of perception."
 #. <br>
 msgctxt "thag21.1:20.3"
 msgid "Nimittaṃ parivajjehi,"
-msgstr "Avoid noticing the attractive aspect of things,"
+msgstr "Turn away from the aspect of things"
 
 #. <br>
 msgctxt "thag21.1:20.4"
@@ -430,7 +430,7 @@ msgid ""
 "subhaṃ rāgūpasaṃhitaṃ. <span class=\"var\" title=\"Saṅkhāre parato passa "
 "dukkhato mā ca attato, nibbāpehi mahārāgaṃ mā ḍayihittho punappunaṃ (bj "
 "^sn8.4#1 [4. Ānandasutta])\" id=\"note531\">()</span>"
-msgstr "for that just provokes lust."
+msgstr "that’s attractive, provoking lust."
 
 #. </p><p><a class="sc" id="17"></a>
 msgctxt "thag21.1:21.1"
@@ -444,7 +444,7 @@ msgstr "Meditate on the unattractive,"
 #. <br>
 msgctxt "thag21.1:21.2"
 msgid "ekaggaṃ susamāhitaṃ;"
-msgstr "unified, serenely converged;"
+msgstr "unified, serene;"
 
 #. <br>
 msgctxt "thag21.1:21.3"
@@ -454,7 +454,7 @@ msgstr "with mindfulness immersed in the body,"
 #. <br>
 msgctxt "thag21.1:21.4"
 msgid "nibbidābahulo bhava."
-msgstr "be full of disenchantment."
+msgstr "be full of disillusionment."
 
 #. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
 #. id="verse-num-sc1236"></a><a class="verse-num-pts"
@@ -510,17 +510,17 @@ msgstr "Speak only pleasing words,"
 #. <br>
 msgctxt "thag21.1:24.2"
 msgid "yā vācā paṭinanditā;"
-msgstr "words gladly welcomed;"
+msgstr "words gladly welcomed."
 
 #. <br>
 msgctxt "thag21.1:24.3"
 msgid "Yaṃ anādāya pāpāni,"
-msgstr "pleasing words are those"
+msgstr "Pleasing words are those"
 
 #. <br>
 msgctxt "thag21.1:24.4"
 msgid "paresaṃ bhāsate piyaṃ."
-msgstr "that bring nothing bad on others."
+msgstr "that bring nothing bad to others."
 
 #. </p><p><a class="sc" id="21"></a><a class="verse-num-sc"
 #. id="verse-num-sc1239"></a><a class="verse-num-pts"
@@ -554,12 +554,12 @@ msgstr "The words spoken by the Buddha"
 #. <br>
 msgctxt "thag21.1:26.2"
 msgid "khemaṃ nibbānapattiyā;"
-msgstr "reliably lead to extinguishment,"
+msgstr "for realizing the sanctuary, extinguishment,"
 
 #. <br>
 msgctxt "thag21.1:26.3"
 msgid "Dukkhassantakiriyāya,"
-msgstr "to making an end of suffering:"
+msgstr "for making an end of suffering:"
 
 #. <br>
 msgctxt "thag21.1:26.4"
@@ -656,22 +656,22 @@ msgstr "their hearts uplifted.”"
 #. id="verse-num-pts1234"></a>
 msgctxt "thag21.1:30.1"
 msgid "“Ajja pannarase visuddhiyā,"
-msgstr "“Today, on the fifteenth day uposatha,"
+msgstr "“Today, on the fifteenth day sabbath,"
 
 #. <br>
 msgctxt "thag21.1:30.2"
 msgid "Bhikkhū pañcasatā samāgatā;"
-msgstr "500 monks have gathered together to purify their precepts."
+msgstr "five hundred monks have gathered together to purify their precepts."
 
 #. <br>
 msgctxt "thag21.1:30.3"
 msgid "Saṃyojanabandhanacchidā,"
-msgstr "These sages without affliction have cut off their fetters and bonds,"
+msgstr "These untroubled sages have cut off their fetters and bonds,"
 
 #. <br>
 msgctxt "thag21.1:30.4"
 msgid "Anīghā khīṇapunabbhavā isī."
-msgstr "they will not be reborn again into any state of existence."
+msgstr "they will not be reborn again."
 
 #. </p><p><a class="sc" id="27"></a><a class="verse-num-sc"
 #. id="verse-num-sc1245"></a><a class="verse-num-pts"
@@ -783,7 +783,7 @@ msgstr "The Buddha is so brilliant,"
 #. <br>
 msgctxt "thag21.1:35.4"
 msgid "bhikkhusaṃghapurakkhato."
-msgstr "seated before the mendicant Saṅgha."
+msgstr "at the fore of the mendicant Saṅgha,"
 
 #. </p><p><a class="sc" id="32"></a><a class="verse-num-sc"
 #. id="verse-num-sc1250"></a><a class="verse-num-pts"
@@ -812,7 +812,7 @@ msgstr "that rains on your disciples."
 #. id="verse-num-pts1241"></a>
 msgctxt "thag21.1:37.1"
 msgid "Divā vihārā nikkhamma,"
-msgstr "I’ve emerged from my day’s meditation,"
+msgstr "I’ve left my day’s meditation,"
 
 #. <br>
 msgctxt "thag21.1:37.2"
@@ -890,17 +890,17 @@ msgid ""
 "<span class=\"var\" title=\"sabbaṭṭhitīnaṃ (bj, pts1-2)\" id=\"note539\""
 ">Sabbaṭhitīnaṃ</span> <span class=\"var\" title=\"atikkamamaddā (bj, pts1-2, "
 "mr)\" id=\"note540\">atikkamamaddasa</span>;"
-msgstr "he’s seen what lies beyond all states of rebirth."
+msgstr "he’s seen what lies beyond all states of being."
 
 #. <br>
 msgctxt "thag21.1:40.3"
 msgid "Ñatvā ca sacchikatvā ca,"
-msgstr "When he saw and realized this for himself,"
+msgstr "When you saw and realized this for yourself,"
 
 #. <br>
 msgctxt "thag21.1:40.4"
 msgid "Aggaṃ so desayi dasaddhānaṃ."
-msgstr "he taught it first to the group of five."
+msgstr "you taught it first to the group of five."
 
 #. </p><p><a class="sc" id="37"></a><a class="verse-num-sc"
 #. id="verse-num-sc1255"></a><a class="verse-num-pts"
@@ -912,7 +912,7 @@ msgstr "When the Dhamma has been so well taught,"
 #. <br>
 msgctxt "thag21.1:41.2"
 msgid "Ko pamādo vijānataṃ dhammaṃ;"
-msgstr "how could those who understand it be negligent?"
+msgstr "how could those who know it be negligent?"
 
 #. <br>
 msgctxt "thag21.1:41.3"
@@ -929,14 +929,14 @@ msgstr "in the Buddha’s teaching.”"
 #. id="verse-num-pts1246"></a>
 msgctxt "thag21.1:42.1"
 msgid "“Buddhānubuddho yo thero,"
-msgstr "“The senior monk who was awakened after the Buddha"
+msgstr "The senior monk who was awakened right after the Buddha,"
 
 #. <br>
 msgctxt "thag21.1:42.2"
 msgid ""
 "koṇḍañño <span class=\"var\" title=\"tibbanikkhamo (bj, pts1)\" id=\""
 "note541\">tibbanikkamo</span>;"
-msgstr "Koṇḍañña is keenly energetic."
+msgstr "Koṇḍañña, is keenly energetic."
 
 #. <br>
 msgctxt "thag21.1:42.3"
@@ -990,7 +990,7 @@ msgstr "Koṇḍañña, the heir to the Buddha,"
 #. <br>
 msgctxt "thag21.1:44.4"
 msgid "pāde vandati satthuno”."
-msgstr "bows at the teacher’s feet.”"
+msgstr "bows at the Teacher’s feet.”"
 
 #. </p><p><a class="sc" id="41"></a>
 msgctxt "thag21.1:45.1"
@@ -1036,7 +1036,7 @@ msgctxt "thag21.1:46.3"
 msgid ""
 "Cittaṃ nesaṃ <span class=\"var\" title=\"samannesaṃ (^sn8.10#1 [10. "
 "Moggallānasutta])\" id=\"note544\">samanvesaṃ</span>,"
-msgstr "searching their minds,"
+msgstr "scrutinizing their minds,"
 
 #. <br>
 msgctxt "thag21.1:46.4"
@@ -1110,7 +1110,7 @@ msgstr "Then we saw the Buddha,"
 #. <br>
 msgctxt "thag21.1:49.4"
 msgid "Sabbadhammāna pāraguṃ."
-msgstr "who has gone beyond all things."
+msgstr "who has gone beyond all things,"
 
 #. </p><p><a class="sc" id="46"></a><a class="verse-num-sc"
 #. id="verse-num-sc1264"></a><a class="verse-num-pts"
@@ -1122,7 +1122,7 @@ msgstr "He, the sage gone beyond suffering,"
 #. <br>
 msgctxt "thag21.1:50.2"
 msgid "muni dukkhassa pāragū;"
-msgstr "Taught me the Dhamma;"
+msgstr "taught me the Dhamma."
 
 #. <br>
 msgctxt "thag21.1:50.3"
@@ -1134,7 +1134,7 @@ msgctxt "thag21.1:50.4"
 msgid ""
 "<span class=\"var\" title=\"addhā (bj)\" id=\"note546\">saddhā</span> no "
 "udapajjatha."
-msgstr "Faith arose in us."
+msgstr "faith arose in us."
 
 #. </p><p><a class="sc" id="47"></a><a class="verse-num-sc"
 #. id="verse-num-sc1265"></a><a class="verse-num-pts"
@@ -1146,63 +1146,63 @@ msgstr "Hearing him speak of"
 #. <br>
 msgctxt "thag21.1:51.2"
 msgid "khandhe āyatanāni ca;"
-msgstr "The aggregates, the sense-bases,"
+msgstr "the aggregates, the sense-fields,"
 
 #. <br>
 msgctxt "thag21.1:51.3"
 msgid "Dhātuyo ca viditvāna,"
-msgstr "And the elements, I understood."
+msgstr "and the elements, I understood;"
 
 #. <br>
 msgctxt "thag21.1:51.4"
 msgid "pabbajiṃ anagāriyaṃ."
-msgstr "I went forth into homelessness."
+msgstr "and then I went forth into homelessness."
 
 #. </p><p><a class="sc" id="48"></a><a class="verse-num-sc"
 #. id="verse-num-sc1266"></a><a class="verse-num-pts"
 #. id="verse-num-pts1256"></a>
 msgctxt "thag21.1:52.1"
 msgid "Bahūnaṃ vata atthāya,"
-msgstr "Truly, Tathāgatas arise"
+msgstr "It is for the benefit of many"
 
 #. <br>
 msgctxt "thag21.1:52.2"
 msgid "uppajjanti tathāgatā;"
-msgstr "For the benefit of the many"
+msgstr "that the Realized Ones arise—"
 
 #. <br>
 msgctxt "thag21.1:52.3"
 msgid "Itthīnaṃ purisānañca,"
-msgstr "Men and women"
+msgstr "the men and women"
 
 #. <br>
 msgctxt "thag21.1:52.4"
 msgid "ye te sāsanakārakā."
-msgstr "Who follow their teachings."
+msgstr "who follow their instructions."
 
 #. </p><p><a class="sc" id="49"></a><a class="verse-num-sc"
 #. id="verse-num-sc1267"></a><a class="verse-num-pts"
 #. id="verse-num-pts1257"></a>
 msgctxt "thag21.1:53.1"
 msgid "Tesaṃ kho vata atthāya,"
-msgstr "Truly, it is for their benefit"
+msgstr "It is truly for their benefit"
 
 #. <br>
 msgctxt "thag21.1:53.2"
 msgid "bodhimajjhagamā muni;"
-msgstr "That the sage indeed realised awakening;"
+msgstr "that the sage realised awakening—"
 
 #. <br>
 msgctxt "thag21.1:53.3"
 msgid "Bhikkhūnaṃ bhikkhunīnañca,"
-msgstr "The monks and nuns, who see"
+msgstr "for the monks and for the nuns"
 
 #. <br>
 msgctxt "thag21.1:53.4"
 msgid ""
 "ye <span class=\"var\" title=\"niyāmagataddasā (bj, pts2) | niyāmagataṃdasā ("
 "s2, s3, pts1)\" id=\"note547\">nirāmagataddasā</span>."
-msgstr "The natural principles of the Dhamma."
+msgstr "who see that they’ve reached certainty."
 
 #. </p><p><a class="sc" id="50"></a><a class="verse-num-sc"
 #. id="verse-num-sc1268"></a><a class="verse-num-pts"
@@ -1214,51 +1214,51 @@ msgstr "The seer, the Buddha,"
 #. <br>
 msgctxt "thag21.1:54.2"
 msgid "buddhenādiccabandhunā;"
-msgstr "The Kinsman of the Sun,"
+msgstr "the Kinsman of the Sun,"
 
 #. <br>
 msgctxt "thag21.1:54.3"
 msgid "Cattāri ariyasaccāni,"
-msgstr "Has well taught the four noble truths"
+msgstr "has well taught the four noble truths"
 
 #. <br>
 msgctxt "thag21.1:54.4"
 msgid "anukampāya pāṇinaṃ."
-msgstr "Out of compassion for living creatures."
+msgstr "out of compassion for living creatures."
 
 #. </p><p><a class="sc" id="51"></a><a class="verse-num-sc"
 #. id="verse-num-sc1269"></a><a class="verse-num-pts"
 #. id="verse-num-pts1259"></a>
 msgctxt "thag21.1:55.1"
 msgid "Dukkhaṃ dukkhasamuppādaṃ,"
-msgstr "Suffering, the origin of suffering,"
+msgstr "Suffering, suffering’s origin,"
 
 #. <br>
 msgctxt "thag21.1:55.2"
 msgid "Dukkhassa ca atikkamaṃ;"
-msgstr "The transcending of suffering ,"
+msgstr "suffering’s transcendence,"
 
 #. <br>
 msgctxt "thag21.1:55.3"
 msgid "Ariyaṃ caṭṭhaṅgikaṃ maggaṃ,"
-msgstr "And the noble eight-fold path"
+msgstr "and the noble eightfold path"
 
 #. <br>
 msgctxt "thag21.1:55.4"
 msgid "Dukkhūpasamagāminaṃ."
-msgstr "That leads to the stilling of suffering."
+msgstr "that leads to the stilling of suffering."
 
 #. </p><p><a class="sc" id="52"></a><a class="verse-num-sc"
 #. id="verse-num-sc1270"></a><a class="verse-num-pts"
 #. id="verse-num-pts1260"></a>
 msgctxt "thag21.1:56.1"
 msgid "Evamete tathā vuttā,"
-msgstr "As these things were spoken,"
+msgstr "As these things were taught,"
 
 #. <br>
 msgctxt "thag21.1:56.2"
 msgid "diṭṭhā me te yathā tathā;"
-msgstr "So I have seen them."
+msgstr "so I have seen them."
 
 #. <br>
 msgctxt "thag21.1:56.3"
@@ -1268,14 +1268,14 @@ msgstr "I’ve realized my own true goal,"
 #. <br>
 msgctxt "thag21.1:56.4"
 msgid "kataṃ buddhassa sāsanaṃ."
-msgstr "The Buddha’s instruction is completed."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p><p><a class="sc" id="53"></a><a class="verse-num-sc"
 #. id="verse-num-sc1271"></a><a class="verse-num-pts"
 #. id="verse-num-pts1261"></a>
 msgctxt "thag21.1:57.1"
 msgid "Svāgataṃ vata me āsi,"
-msgstr "It has been so welcome for me,"
+msgstr "It was so welcome for me"
 
 #. <br>
 msgctxt "thag21.1:57.2"
@@ -1304,17 +1304,17 @@ msgstr "I’ve realised the perfection of direct knowledge;"
 #. <br>
 msgctxt "thag21.1:58.2"
 msgid "sotadhātu visodhitā;"
-msgstr "I have supernormal hearing;"
+msgstr "my clairaudience is purified;"
 
 #. <br>
 msgctxt "thag21.1:58.3"
 msgid "Tevijjo iddhipattomhi,"
-msgstr "I have the three knowledges and psychic powers,"
+msgstr "I am master of three knowledges, attained in psychic power,"
 
 #. <br>
 msgctxt "thag21.1:58.4"
 msgid "cetopariyakovido”."
-msgstr "I’m skilled at reading the minds of others.”"
+msgstr "I’m expert at reading the minds of others.”"
 
 #. </p><p><a class="sc" id="55"></a>
 msgctxt "thag21.1:59.1"
@@ -1323,24 +1323,24 @@ msgid ""
 "id=\"note549\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc1273\""
 "></a><a class=\"verse-num-pts\" id=\"verse-num-pts1263\"></a><a class=\"pts\""
 " id=\"pts113\"></a>“Pucchāmi satthāramanomapaññaṃ,"
-msgstr "“I ask the teacher unrivalled in understanding,"
+msgstr "“I ask the teacher unrivalled in wisdom,"
 
 #. <br>
 msgctxt "thag21.1:59.2"
 msgid ""
 "Diṭṭheva dhamme yo vicikicchānaṃ <span class=\"var\" title=\"chetvā (bj, "
 "pts1)\" id=\"note550\">chettā</span>;"
-msgstr "Who has cut off all doubts in this very life—"
+msgstr "who has cut off all doubts in this very life—"
 
 #. <br>
 msgctxt "thag21.1:59.3"
 msgid "Aggāḷave kālamakāsi bhikkhu,"
-msgstr "Has a monk died at Aggāḷava, who was"
+msgstr "has a monk died at Aggāḷava, who was"
 
 #. <br>
 msgctxt "thag21.1:59.4"
 msgid "Ñāto yasassī abhinibbutatto."
-msgstr "Well-known, famous, and attained to nibbāna?"
+msgstr "well-known, famous, and quenched?"
 
 #. </p><p><a class="sc" id="56"></a><a class="verse-num-sc"
 #. id="verse-num-sc1274"></a><a class="verse-num-pts"
@@ -1352,31 +1352,31 @@ msgstr "Nigrodhakappa was his name;"
 #. <br>
 msgctxt "thag21.1:60.2"
 msgid "Tayā kataṃ bhagavā brāhmaṇassa;"
-msgstr "It was given to that brahman by you, Blessed One."
+msgstr "it was given to that brahman by you, Blessed One."
 
 #. <br>
 msgctxt "thag21.1:60.3"
 msgid ""
 "So taṃ namassaṃ acari <span class=\"var\" title=\"mutyapekkho (s2, s3 "
 "^snp2.12#158 [Nigrodhakappa (vaṅgīsa)\" id=\"note551\">mutyapekho</span>,"
-msgstr "Yearning for freedom, energetic, firmly seeing the Dhamma,"
+msgstr "Yearning for freedom, energetic, firmly seeing the teaching,"
 
 #. <br>
 msgctxt "thag21.1:60.4"
 msgid "Āraddhavīriyo daḷhadhammadassī."
-msgstr "He wandered in your honor."
+msgstr "he wandered in your honor."
 
 #. </p><p><a class="sc" id="57"></a><a class="verse-num-sc"
 #. id="verse-num-sc1275"></a><a class="verse-num-pts"
 #. id="verse-num-pts1265"></a>
 msgctxt "thag21.1:61.1"
 msgid "Taṃ sāvakaṃ sakka mayampi sabbe,"
-msgstr "O Sakyan, who sees all around,"
+msgstr "O Sakyan, all-seer,"
 
 #. <br>
 msgctxt "thag21.1:61.2"
 msgid "Aññātumicchāma samantacakkhu;"
-msgstr "All of us wish to know about that disciple."
+msgstr "all of us wish to know about that disciple."
 
 #. <br>
 msgctxt "thag21.1:61.3"
@@ -1388,7 +1388,7 @@ msgstr "Our ears are eager to hear,"
 #. <br>
 msgctxt "thag21.1:61.4"
 msgid "Tuvaṃ no satthā tvamanuttarosi."
-msgstr "For you’re truly the most excellent teacher."
+msgstr "for you are truly the most excellent teacher."
 
 #. </p><p><a class="sc" id="58"></a><a class="verse-num-sc"
 #. id="verse-num-sc1276"></a><a class="verse-num-pts"
@@ -1400,7 +1400,7 @@ msgstr "Cut off our doubt, declare this to us;"
 #. <br>
 msgctxt "thag21.1:62.2"
 msgid "Parinibbutaṃ vedaya bhūripañña;"
-msgstr "Your understanding is vast, tell us of his nibbāna!"
+msgstr "your wisdom is vast, tell us of his quenching!"
 
 #. <br>
 msgctxt "thag21.1:62.3"
@@ -1410,7 +1410,7 @@ msgstr "You see all around, so speak among us,"
 #. <br>
 msgctxt "thag21.1:62.4"
 msgid "Sakkova devāna sahassanetto."
-msgstr "Like the thousand-eyed Sakka in the assembly of the gods!"
+msgstr "like the thousand-eyed Sakka in the assembly of the gods!"
 
 #. </p><p><a class="sc" id="59"></a><a class="verse-num-sc"
 #. id="verse-num-sc1277"></a><a class="verse-num-pts"
@@ -1424,42 +1424,41 @@ msgstr "Whatever ties there are, or paths to delusion,"
 #. <br>
 msgctxt "thag21.1:63.2"
 msgid "Aññāṇapakkhā vicikicchaṭhānā;"
-msgstr ""
-"Or things that are on the side of unknowing, or that are bases of doubt:"
+msgstr "or things that are on the side of unknowing, or that are bases of doubt"
 
 #. <br>
 msgctxt "thag21.1:63.3"
 msgid "Tathāgataṃ patvā na te bhavanti,"
-msgstr "When it comes to the Tathāgata there are none;"
+msgstr "don’t touch a Realized One,"
 
 #. <br>
 msgctxt "thag21.1:63.4"
 msgid "Cakkhuñhi etaṃ paramaṃ narānaṃ."
-msgstr "Among people, his eye is the best."
+msgstr "for his eye is the best of all people’s."
 
 #. </p><p><a class="sc" id="60"></a><a class="verse-num-sc"
 #. id="verse-num-sc1278"></a><a class="verse-num-pts"
 #. id="verse-num-pts1268"></a>
 msgctxt "thag21.1:64.1"
 msgid "No ce hi jātu puriso kilese,"
-msgstr "For if no man were ever to disperse defilements,"
+msgstr "For if no man were ever to disperse corruptions,"
 
 #. <br>
 msgctxt "thag21.1:64.2"
 msgid "Vāto yathā abbhaghanaṃ vihāne;"
-msgstr "Like the wind dispersing a mass of clouds,"
+msgstr "like the wind dispersing a mass of clouds,"
 
 #. <br>
 msgctxt "thag21.1:64.3"
 msgid "Tamovassa nivuto sabbaloko,"
-msgstr "Darkness would cover the whole world,"
+msgstr "darkness would cover the whole world;"
 
 #. <br>
 msgctxt "thag21.1:64.4"
 msgid ""
 "<span class=\"var\" title=\"na jotimantopi narā tapeyyuṃ (^snp2.12#162 ["
 "Nigrodhakappa (vaṅgīsa)\" id=\"note554\">Jotimantopi na pabhāseyyuṃ</span>."
-msgstr "And even a lamp would not shine."
+msgstr "not even a lamp would shine."
 
 #. </p><p><a class="sc" id="61"></a><a class="verse-num-sc"
 #. id="verse-num-sc1279"></a><a class="verse-num-pts"
@@ -1471,17 +1470,17 @@ msgstr "The wise are makers of light;"
 #. <br>
 msgctxt "thag21.1:65.2"
 msgid "Taṃ taṃ ahaṃ vīra tatheva maññe;"
-msgstr "My hero, that is what I think of you."
+msgstr "my hero, that is what I think of you."
 
 #. <br>
 msgctxt "thag21.1:65.3"
 msgid "Vipassinaṃ jānamupāgamimha,"
-msgstr "We’ve come to you for your insight and knowledge:"
+msgstr "We’ve come to you for your discernment and knowledge:"
 
 #. <br>
 msgctxt "thag21.1:65.4"
 msgid "Parisāsu no āvikarohi kappaṃ."
-msgstr "Here in this assembly, declare to us about Kappāyana."
+msgstr "here in this assembly, declare to us about Kappāyana."
 
 #. </p><p><a class="sc" id="62"></a><a class="verse-num-sc"
 #. id="verse-num-sc1280"></a><a class="verse-num-pts"
@@ -1495,17 +1494,17 @@ msgctxt "thag21.1:66.2"
 msgid ""
 "Haṃsova paggayha <span class=\"var\" title=\"sanikaṃ (bj, pts1) | saṇiṃ "
 "(pts2)\" id=\"note555\">saṇikaṃ</span> nikūja;"
-msgstr "Like a goose stretching its neck, gently honking,"
+msgstr "like a goose stretching its neck, gently honking,"
 
 #. <br>
 msgctxt "thag21.1:66.3"
 msgid "Bindussarena suvikappitena,"
-msgstr "The sound is smooth, with a lovely tone:"
+msgstr "sound in smooth, with a lovely tone:"
 
 #. <br>
 msgctxt "thag21.1:66.4"
 msgid "Sabbeva te ujjugatā suṇoma."
-msgstr "Alert, we are all listening to you."
+msgstr "alert, we are all listening to you."
 
 #. </p><p><a class="sc" id="63"></a><a class="verse-num-sc"
 #. id="verse-num-sc1281"></a><a class="verse-num-pts"
@@ -1519,21 +1518,21 @@ msgctxt "thag21.1:67.2"
 msgid ""
 "Niggayha dhonaṃ <span class=\"var\" title=\" paṭivediyāmi (sī1)\" id=\""
 "note556\">vadessāmi dhammaṃ</span>;"
-msgstr "Restrained and pure, speak the Dhamma!"
+msgstr "restrained and pure, speak the Dhamma!"
 
 #. <br>
 msgctxt "thag21.1:67.3"
 msgid ""
 "Na kāmakāro <span class=\"var\" title=\"hoti (si)\" id=\"note558\">hi</span> "
 "puthujjanānaṃ,"
-msgstr "Unenlightened people can’t fulfil all their wishes,"
+msgstr "Ordinary people can’t fulfil all their wishes,"
 
 #. <br>
 msgctxt "thag21.1:67.4"
 msgid ""
 "Saṅkheyyakāro <span class=\"var\" title=\"va (bahūsu)\" id=\"note559\""
 ">ca</span> tathāgatānaṃ."
-msgstr "But Tathāgatas can achieve what they intend."
+msgstr "but the Realized Ones can achieve what they wish."
 
 #. </p><p><a class="sc" id="64"></a><a class="verse-num-sc"
 #. id="verse-num-sc1282"></a><a class="verse-num-pts"
@@ -1545,17 +1544,17 @@ msgstr "Your answer is definitive, and we will accept it,"
 #. <br>
 msgctxt "thag21.1:68.2"
 msgid "Samujjupaññassa samuggahītaṃ;"
-msgstr "For you have perfect understanding."
+msgstr "for you have perfect understanding."
 
 #. <br>
 msgctxt "thag21.1:68.3"
 msgid "Ayamañjali pacchimo suppaṇāmito,"
-msgstr "We raise our hands in añjalī one last time,"
+msgstr "We raise our joined palms one last time,"
 
 #. <br>
 msgctxt "thag21.1:68.4"
 msgid "Mā mohayī jānamanomapañña."
-msgstr "Your understanding is unrivalled, so do not knowingly confuse us."
+msgstr "your wisdom is unrivalled, so do not knowingly confuse us."
 
 #. </p><p><a class="sc" id="65"></a><a class="verse-num-sc"
 #. id="verse-num-sc1283"></a><a class="verse-num-pts"
@@ -1564,12 +1563,12 @@ msgctxt "thag21.1:69.1"
 msgid ""
 "<span class=\"var\" title=\"parovaraṃ (bj, s2, s3, pts1)\" id=\"note560\""
 ">Paroparaṃ</span> ariyadhammaṃ viditvā,"
-msgstr "Knowing the noble Dhamma from top to bottom,"
+msgstr "Knowing the noble teaching from top to bottom,"
 
 #. <br>
 msgctxt "thag21.1:69.2"
 msgid "Mā mohayī jānamanomavīriya;"
-msgstr "Your energy is unrivalled, so do not knowingly confuse us."
+msgstr "your energy is unrivalled, so do not knowingly confuse us."
 
 #. <br>
 msgctxt "thag21.1:69.3"
@@ -1591,14 +1590,14 @@ msgstr "Surely Kappāyana did not live the spiritual life in vain?"
 #. <br>
 msgctxt "thag21.1:70.2"
 msgid "Kappāyano kaccissataṃ amoghaṃ;"
-msgstr "Did he realise nibbāna,"
+msgstr "Did he realise quenching,"
 
 #. <br>
 msgctxt "thag21.1:70.3"
 msgid ""
 "Nibbāyi so <span class=\"var\" title=\" anupādisesā (ka-sī), anupādiseso (ka-"
 "ma)\" id=\"note561\">ādu saupādiseso</span>,"
-msgstr "Or did he still have a remnant of defilement?"
+msgstr "or did he still have a remnant of defilement?"
 
 #. <br>
 msgctxt "thag21.1:70.4"
@@ -1612,12 +1611,13 @@ msgctxt "thag21.1:71.1"
 msgid ""
 "“Acchecchi taṇhaṃ idha nāmarūpe,<span class=\"gathaQuote\">(iti "
 "bhagavā)</span>"
-msgstr "“He cut off craving for mind and body in this very life,"
+msgstr ""
+"“He cut off craving for mind and body in this very life,” said the Buddha,"
 
 #. <br>
 msgctxt "thag21.1:71.2"
 msgid "Kaṇhassa sotaṃ dīgharattānusayitaṃ;"
-msgstr "The river of darkness that had long lain within him."
+msgstr "“The river of darkness that had long lain within him."
 
 #. <br>
 msgctxt "thag21.1:71.3"
@@ -1639,7 +1639,7 @@ msgstr "“Now that I have heard your words,"
 #. <br>
 msgctxt "thag21.1:72.2"
 msgid "vaco te isisattama;"
-msgstr "Seventh of sages, I am confident."
+msgstr "seventh of sages, I am confident."
 
 #. <br>
 msgctxt "thag21.1:72.3"
@@ -1649,7 +1649,7 @@ msgstr "My question, it seems, was not in vain,"
 #. <br>
 msgctxt "thag21.1:72.4"
 msgid "na maṃ vañcesi brāhmaṇo."
-msgstr "The brahman did not deceive me."
+msgstr "the brahman did not deceive me."
 
 #. </p><p><a class="sc" id="69"></a><a class="verse-num-sc"
 #. id="verse-num-sc1287"></a><a class="verse-num-pts"
@@ -1661,17 +1661,17 @@ msgstr "As he spoke, so he acted;"
 #. <br>
 msgctxt "thag21.1:73.2"
 msgid "ahu buddhassa sāvako;"
-msgstr "He was a disciple of the Buddha."
+msgstr "he was a disciple of the Buddha."
 
 #. <br>
 msgctxt "thag21.1:73.3"
 msgid "Acchecchi maccuno jālaṃ,"
-msgstr "He cut the net of death the illusionist,"
+msgstr "He cut the net of death the deceiver,"
 
 #. <br>
 msgctxt "thag21.1:73.4"
 msgid "tataṃ māyāvino daḷhaṃ."
-msgstr "So extended and strong."
+msgstr "so extended and strong."
 
 #. </p><p><a class="sc" id="70"></a><a class="verse-num-sc"
 #. id="verse-num-sc1288"></a><a class="verse-num-pts"
@@ -1683,7 +1683,7 @@ msgstr "Blessed One, Kappāyana saw"
 #. <br>
 msgctxt "thag21.1:74.2"
 msgid "upādānassa kappiyo;"
-msgstr "The starting point of grasping."
+msgstr "the starting point of grasping."
 
 #. <br>
 msgctxt "thag21.1:74.3"
@@ -1700,27 +1700,28 @@ msgstr "Death’s domain so hard to pass."
 #. id="verse-num-pts1279"></a>
 msgctxt "thag21.1:75.1"
 msgid "Taṃ devadevaṃ vandāmi,"
-msgstr "God of gods, best of men, I bow to you;"
+msgstr "God of gods, best of men, I bow to you,"
 
 #. <br>
 msgctxt "thag21.1:75.2"
 msgid "puttaṃ te dvipaduttama;"
-msgstr "And to your son,"
+msgstr "and to your son,"
 
 #. <br>
 msgctxt "thag21.1:75.3"
 msgid "Anujātaṃ mahāvīraṃ,"
-msgstr "Who follows your example, a great hero"
+msgstr "who followed your example, a great hero;"
 
 #. <br>
 msgctxt "thag21.1:75.4"
 msgid "nāgaṃ nāgassa orasan”ti."
-msgstr "An elephant, rightful son of an elephant.”"
+msgstr "a giant, rightful son of an giant.”"
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag21.1:76.1"
 msgid "Itthaṃ sudaṃ āyasmā vaṅgīso thero gāthāyo abhāsitthāti."
 msgstr ""
+"It was thus that these verses were recited by the senior venerable Vaṅgīsa."
 
 #. </p><p class="endsection">
 msgctxt "thag21.1:77.1"
@@ -1805,4 +1806,4 @@ msgstr ""
 #. </p></blockquote><p class="endbook">
 msgctxt "thag21.1:84.1"
 msgid "Theragāthāpāḷi niṭṭhitā."
-msgstr ""
+msgstr "The Verses of the Senior Monks are finished."

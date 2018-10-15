@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag01.039.po\n"
+"X-Pootle-Revision: 73371\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -18,42 +21,49 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.39:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.39:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.39:3.1"
 msgid "Catutthavagga"
-msgstr ""
+msgstr "Chapter Four"
 
 #. </p><h1>
 msgctxt "thag1.39:4.1"
 msgid "1.39. Tissattheragāthā"
-msgstr ""
+msgstr "1.39. Tissatthera (1st)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag1.39:5.1"
-msgid "<span class=\"cross\" title=\"(gāthā 39--40) ^sn1.21#1 [21. Sattisutta] | ^sn2.16#1 [16. Vāsudattasutta] | ^thag16.1#23 [Mahāmoggallānattheragāthā]-1535 | ^ne6#181 [Sāsanapaṭṭhāna] | ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi]\" id=\"note35\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc39\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts39\"></a>“Sattiyā viya omaṭṭho,"
-msgstr "As if struck by a sword,"
+msgid ""
+"<span class=\"cross\" title=\"(gāthā 39--40) ^sn1.21#1 [21. Sattisutta] | "
+"^sn2.16#1 [16. Vāsudattasutta] | ^thag16.1#23 [Mahāmoggallānattheragāthā]-"
+"1535 | ^ne6#181 [Sāsanapaṭṭhāna] | ^pe2#97 [Sāsanapaṭṭhānadutiyabhūmi]\" id="
+"\"note35\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc39\"></a><a "
+"class=\"verse-num-pts\" id=\"verse-num-pts39\"></a>“Sattiyā viya omaṭṭho,"
+msgstr "Like they’re struck by a sword,"
 
 #. <br>
 msgctxt "thag1.39:5.2"
-msgid "<span class=\"var\" title=\"ḍayhamāneva (sabbattha)\" id=\"note36\">ḍayhamānova</span> matthake;"
-msgstr "As if their head was on fire,"
+msgid ""
+"<span class=\"var\" title=\"ḍayhamāneva (sabbattha)\" id=\"note36\""
+">ḍayhamānova</span> matthake;"
+msgstr "like their head was on fire,"
 
 #. <br>
 msgctxt "thag1.39:5.3"
 msgid "Kāmarāgappahānāya,"
-msgstr "A monk should go forth mindfully,"
+msgstr "a mendicant should go forth mindfully"
 
 #. <br>
 msgctxt "thag1.39:5.4"
 msgid "sato bhikkhu paribbaje”ti."
-msgstr "To abandon desire for sensual pleasures."
+msgstr "to give up sensual desire."
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag1.39:6.1"
@@ -63,4 +73,3 @@ msgstr ""
 msgctxt "thag1.39:6.2"
 msgid "Tisso thero …."
 msgstr ""
-

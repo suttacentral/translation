@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag03.06.po\n"
-"X-Pootle-Revision: 8013\n"
+"X-Pootle-Revision: 73507\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.6:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.6:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.6:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.6:4.1"
 msgid "3.6. Khujjasobhitattheragāthā"
-msgstr ""
+msgstr "3.6. Khujjasobhita"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc234"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "“One of those monks who live in Pāṭaliputta—"
 #. <br>
 msgctxt "thag3.6:5.2"
 msgid "Samaṇā pāṭaliputtavāsino;"
-msgstr "Such brilliant speakers, and very learned—"
+msgstr "such brilliant speakers, and very learned—"
 
 #. <br>
 msgctxt "thag3.6:5.3"
 msgid "Tesaññataroyamāyuvā,"
-msgstr "Stands at the door:"
+msgstr "stands at the door:"
 
 #. <br>
 msgctxt "thag3.6:5.4"
 msgid "Dvāre tiṭṭhati khujjasobhito”."
-msgstr "The old man, Khujjasobhita."
+msgstr "the old man, Khujjasobhita."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc235"></a><a class="verse-num-pts" id="verse-num-pts235"></a>
@@ -69,17 +69,17 @@ msgstr "One of those monks who live in Pāṭaliputta—"
 #. <br>
 msgctxt "thag3.6:6.2"
 msgid "Samaṇā pāṭaliputtavāsino;"
-msgstr "Such brilliant speakers, and very learned—"
+msgstr "such brilliant speakers, and very learned—"
 
 #. <br>
 msgctxt "thag3.6:6.3"
 msgid "Tesaññataroyamāyuvā,"
-msgstr "Stands at the door:"
+msgstr "stands at the door:"
 
 #. <br>
 msgctxt "thag3.6:6.4"
 msgid "Dvāre tiṭṭhati māluterito”."
-msgstr "An old man, trembling in the wind.”"
+msgstr "an old man, trembling in the wind.”"
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc236"></a><a class="verse-num-pts" id="verse-num-pts236"></a>
@@ -90,23 +90,22 @@ msgstr "“By war well fought, by sacrifice well made,"
 #. <br>
 msgctxt "thag3.6:7.2"
 msgid "saṅgāmavijayena ca;"
-msgstr "By victory in battle;"
+msgstr "by victory in battle;"
 
 #. <br>
 msgctxt "thag3.6:7.3"
 msgid "Brahmacariyānuciṇṇena,"
-msgstr "By living the spiritual life:"
+msgstr "by living the spiritual life:"
 
 #. <br>
 msgctxt "thag3.6:7.4"
 msgid "evāyaṃ sukhamedhatī”ti."
-msgstr "That’s how this person prospers in happiness.”"
+msgstr "that’s how one prospers in happiness.”"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag3.6:8.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag3.6:8.2"
 msgid "Khujjasobhito thero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.24.po\n"
-"X-Pootle-Revision: 7951\n"
+"X-Pootle-Revision: 73476\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.24:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.24:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.24:3.1"
 msgid "Tatiyavagga"
-msgstr ""
+msgstr "Chapter Three"
 
 #. </p><h1>
 msgctxt "thag2.24:4.1"
 msgid "2.24. Valliyattheragāthā"
-msgstr ""
+msgstr "2.24. Valliya (3rd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc167"></a><a class="verse-num-pts"
@@ -48,30 +48,30 @@ msgstr "The duty of one whose energy is strong;"
 #. <br>
 msgctxt "thag2.24:5.2"
 msgid "yaṃ kiccaṃ boddhumicchatā;"
-msgstr "The duty of one intent on awakening:"
+msgstr "the duty of one who longs to wake up:"
 
 #. <br>
 msgctxt "thag2.24:5.3"
 msgid ""
 "Karissaṃ <span class=\"var\" title=\"nāvarujjhissaṃ (bj, mr)\" id=\"note112\""
 ">nāvarajjhissaṃ</span>,"
-msgstr "That I’ll do, I won’t fail—"
+msgstr "that I’ll do, I won’t fail—"
 
 #. <br>
 msgctxt "thag2.24:5.4"
 msgid "passa vīriyaṃ parakkamaṃ."
-msgstr "See my energy and effort!"
+msgstr "see my energy and vigor!"
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc168"></a><a class="verse-num-pts" id="verse-num-pts168"></a>
 msgctxt "thag2.24:6.1"
 msgid "Tvañca me maggamakkhāhi,"
-msgstr "Teach me the path,"
+msgstr "Teach me the path"
 
 #. <br>
 msgctxt "thag2.24:6.2"
 msgid "añjasaṃ amatogadhaṃ;"
-msgstr "The road that culminates in the deathless."
+msgstr "the direct route that culminates in the deathless."
 
 #. <br>
 msgctxt "thag2.24:6.3"
@@ -81,13 +81,12 @@ msgstr "I’ll know it with wisdom,"
 #. <br>
 msgctxt "thag2.24:6.4"
 msgid "gaṅgāsotova sāgaran”ti."
-msgstr "As the Ganges knows the ocean."
+msgstr "as the Ganges knows the ocean."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.24:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.24:7.2"
 msgid "Valliyo thero …."

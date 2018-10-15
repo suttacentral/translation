@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.17.po\n"
-"X-Pootle-Revision: 7937\n"
+"X-Pootle-Revision: 73469\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,44 +21,44 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.17:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.17:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.17:3.1"
 msgid "Dutiyavagga"
-msgstr ""
+msgstr "Chapter Two"
 
 #. </p><h1>
 msgctxt "thag2.17:4.1"
 msgid "2.17. Tissattheragāthā"
-msgstr ""
+msgstr "2.17. Tissa (3rd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc153"></a><a class="verse-num-pts"
 #. id="verse-num-pts153"></a>
 msgctxt "thag2.17:5.1"
 msgid "“Bahū sapatte labhati,"
-msgstr "When your head is shaven, and you’re wrapped in the outer robe,"
+msgstr "A shaven one wrapped in the outer robe"
 
 #. <br>
 msgctxt "thag2.17:5.2"
 msgid "muṇḍo saṅghāṭipāruto;"
-msgstr "You’ll have many enemies"
+msgstr "gets many enemies"
 
 #. <br>
 msgctxt "thag2.17:5.3"
 msgid "Lābhī annassa pānassa,"
-msgstr "When you receive food and drink,"
+msgstr "when they receive food and drink,"
 
 #. <br>
 msgctxt "thag2.17:5.4"
 msgid "vatthassa sayanassa ca."
-msgstr "Clothes and lodgings."
+msgstr "clothes and lodgings."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc154"></a><a class="verse-num-pts" id="verse-num-pts154"></a>
@@ -69,23 +69,22 @@ msgstr "Knowing this danger,"
 #. <br>
 msgctxt "thag2.17:6.2"
 msgid "sakkāresu mahabbhayaṃ;"
-msgstr "This great fear in honours,"
+msgstr "this great fear in honours,"
 
 #. <br>
 msgctxt "thag2.17:6.3"
 msgid "Appalābho anavassuto,"
-msgstr "A monk should go forth mindfully,"
+msgstr "a mendicant should go forth mindfully,"
 
 #. <br>
 msgctxt "thag2.17:6.4"
 msgid "sato bhikkhu paribbaje”ti."
-msgstr "With few possessions, and not full of desire."
+msgstr "with few possessions, not full of desire."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.17:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.17:7.2"
 msgid "Tisso thero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.095.po\n"
-"X-Pootle-Revision: 7853\n"
+"X-Pootle-Revision: 73427\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.95:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.95:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.95:3.1"
 msgid "Dasamavagga"
-msgstr ""
+msgstr "Chapter Ten"
 
 #. </p><h1>
 msgctxt "thag1.95:4.1"
 msgid "1.95. Cakkhupālattheragāthā"
-msgstr ""
+msgstr "1.95. Cakkhupāla"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc95"></a><a class="verse-num-pts"
@@ -60,13 +60,12 @@ msgstr "Even if I have to crawl I’ll keep going—"
 #. <br>
 msgctxt "thag1.95:5.4"
 msgid "na sahāyena pāpenā”ti."
-msgstr "Though not with wicked companions."
+msgstr "though not with wicked companions."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.95:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.95:6.2"
 msgid "Cakkhupālo thero …."

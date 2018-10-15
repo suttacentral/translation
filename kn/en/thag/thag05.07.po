@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag05.07.po\n"
-"X-Pootle-Revision: 8071\n"
+"X-Pootle-Revision: 62759\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag5.7:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag5.7:2.1"
 msgid "Pañcakanipāta"
-msgstr ""
+msgstr "The Book of the Fives"
 
 #. </p><p>
 msgctxt "thag5.7:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag5.7:4.1"
 msgid "5.7. Gayākassapattheragāthā"
-msgstr ""
+msgstr "5.7. Gayākassapa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc345"></a><a class="verse-num-pts"
@@ -50,17 +50,17 @@ msgstr "Three times a day—"
 #. <br>
 msgctxt "thag5.7:5.2"
 msgid "tikkhattuṃ divasassahaṃ;"
-msgstr "Morning, midday, and evening—"
+msgstr "morning, midday, and evening—"
 
 #. <br>
 msgctxt "thag5.7:5.3"
 msgid "Otariṃ udakaṃ sohaṃ,"
-msgstr "I went down into the water at Gayā,"
+msgstr "I went down into the water at Gayā"
 
 #. <br>
 msgctxt "thag5.7:5.4"
 msgid "gayāya gayaphagguyā."
-msgstr "For the Gayā spring festival."
+msgstr "for the Gayā spring festival."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc346"></a><a class="verse-num-pts" id="verse-num-pts346"></a>
@@ -71,7 +71,7 @@ msgstr "“Whatever bad things I’ve done"
 #. <br>
 msgctxt "thag5.7:6.2"
 msgid "pubbe aññāsu jātisu;"
-msgstr "In previous births,"
+msgstr "in previous lives,"
 
 #. <br>
 msgctxt "thag5.7:6.3"
@@ -81,34 +81,34 @@ msgstr "I’ll now wash away right here”—"
 #. <br>
 msgctxt "thag5.7:6.4"
 msgid "evaṃdiṭṭhi pure ahuṃ."
-msgstr "This is the view I previously held."
+msgstr "such was the view I used to hold."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc347"></a><a class="verse-num-pts" id="verse-num-pts347"></a>
 msgctxt "thag5.7:7.1"
 msgid "Sutvā subhāsitaṃ vācaṃ,"
-msgstr "Having heard the well-spoken words"
+msgstr "Having heard the wonderful words,"
 
 #. <br>
 msgctxt "thag5.7:7.2"
 msgid "dhammatthasahitaṃ padaṃ;"
-msgstr "Regarding the Dhamma and the goal,"
+msgstr "a passage meaningful and principled,"
 
 #. <br>
 msgctxt "thag5.7:7.3"
 msgid "Tathaṃ yāthāvakaṃ atthaṃ,"
-msgstr "I wisely reflected"
+msgstr "I properly reflected"
 
 #. <br>
 msgctxt "thag5.7:7.4"
 msgid "yoniso paccavekkhisaṃ."
-msgstr "On the true, essential goal."
+msgstr "on the true, essential goal."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc348"></a><a class="verse-num-pts" id="verse-num-pts348"></a>
 msgctxt "thag5.7:8.1"
 msgid "Ninhātasabbapāpomhi,"
-msgstr "I’ve washed away all bad things"
+msgstr "I’ve washed away all bad things;"
 
 #. <br>
 msgctxt "thag5.7:8.2"
@@ -118,12 +118,12 @@ msgstr "I’m stainless, clean, pristine;"
 #. <br>
 msgctxt "thag5.7:8.3"
 msgid "Suddho suddhassa dāyādo,"
-msgstr "The pure heir of the pure one,"
+msgstr "the pure heir of the pure one,"
 
 #. <br>
 msgctxt "thag5.7:8.4"
 msgid "putto buddhassa oraso."
-msgstr "A rightful son of the Buddha."
+msgstr "a true-born child of the Buddha."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc349"></a><a class="verse-num-pts" id="verse-num-pts349"></a>
@@ -134,23 +134,22 @@ msgstr "When I plunged into the eight-fold stream,"
 #. <br>
 msgctxt "thag5.7:9.2"
 msgid "sabbapāpaṃ pavāhayiṃ;"
-msgstr "All bad things were washed away."
+msgstr "all bad things were washed away."
 
 #. <br>
 msgctxt "thag5.7:9.3"
 msgid "Tisso vijjā ajjhagamiṃ,"
-msgstr "I’ve attained the three knowledges,"
+msgstr "I’ve attained the three knowledges"
 
 #. <br>
 msgctxt "thag5.7:9.4"
 msgid "kataṃ buddhassa sāsanan”ti."
-msgstr "And fulfilled the Buddha’s instructions."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag5.7:10.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag5.7:10.2"
 msgid "Gayākassapo thero …."

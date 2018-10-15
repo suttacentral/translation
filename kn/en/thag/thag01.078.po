@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.078.po\n"
-"X-Pootle-Revision: 7819\n"
+"X-Pootle-Revision: 86243\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,50 +21,50 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.78:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.78:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.78:3.1"
 msgid "Aṭṭhamavagga"
-msgstr ""
+msgstr "Chapter Eight"
 
 #. </p><h1>
 msgctxt "thag1.78:4.1"
 msgid "1.78. Meṇḍasirattheragāthā"
-msgstr ""
+msgstr "1.78. Meṇḍasira"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc78"></a><a class="verse-num-pts"
 #. id="verse-num-pts78"></a>
 msgctxt "thag1.78:5.1"
 msgid "“Anekajātisaṃsāraṃ,"
-msgstr "Transmigrating through countless births,"
+msgstr "Transmigrating through countless rebirths,"
 
 #. <br>
 msgctxt "thag1.78:5.2"
 msgid "sandhāvissaṃ anibbisaṃ;"
-msgstr "I’ve journeyed without end."
+msgstr "I’ve journeyed without reward."
 
 #. <br>
 msgctxt "thag1.78:5.3"
 msgid "Tassa me dukkhajātassa,"
-msgstr "I’ve suffered, but now:"
+msgstr "I’ve suffered, but now"
 
+# Reading of aparaddha is uncertain. see Norman and comm: Aparaddhoti arahattamaggappattito paṭṭhāya paribbhaṭṭho cuto na abhinibbattissati. ‘‘Aparaṭṭho’’ti vā pāṭho, apagatasamiddhito samucchinnakāraṇattā apagatoti attho. Idameva ca therassa aññābyākaraṇaṃ ahosi.
 #. <br>
 msgctxt "thag1.78:5.4"
 msgid "dukkhakkhandho aparaddho”ti."
-msgstr "The mass of suffering has collapsed."
+msgstr "the mass of suffering has fallen away."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.78:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.78:6.2"
 msgid "Meṇḍasiro thero …."

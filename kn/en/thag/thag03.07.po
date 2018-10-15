@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag03.07.po\n"
-"X-Pootle-Revision: 8015\n"
+"X-Pootle-Revision: 73508\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.7:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.7:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.7:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.7:4.1"
 msgid "3.7. Vāraṇattheragāthā"
-msgstr ""
+msgstr "3.7. Vāraṇa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc237"></a><a class="verse-num-pts"
@@ -48,38 +48,38 @@ msgstr "Anyone among men"
 #. <br>
 msgctxt "thag3.7:5.2"
 msgid "parapāṇāni hiṃsati;"
-msgstr "Who harms other creatures:"
+msgstr "who harms other creatures:"
 
 #. <br>
 msgctxt "thag3.7:5.3"
 msgid "Asmā lokā paramhā ca,"
-msgstr "From this world and the next,"
+msgstr "that person will fall"
 
 #. <br>
 msgctxt "thag3.7:5.4"
 msgid "ubhayā dhaṃsate naro."
-msgstr "That person will fall."
+msgstr "both from this world and the next."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc238"></a><a class="verse-num-pts" id="verse-num-pts238"></a>
 msgctxt "thag3.7:6.1"
 msgid "Yo ca mettena cittena,"
-msgstr "But someone with a mind of loving-kindness,"
+msgstr "But someone with a mind of love,"
 
 #. <br>
 msgctxt "thag3.7:6.2"
 msgid "sabbapāṇānukampati;"
-msgstr "Compassionate for all creatures:"
+msgstr "compassionate for all creatures:"
 
 #. <br>
 msgctxt "thag3.7:6.3"
 msgid "Bahuñhi so pasavati,"
-msgstr "That sort of person"
+msgstr "a person like that"
 
 #. <br>
 msgctxt "thag3.7:6.4"
 msgid "puññaṃ tādisako naro."
-msgstr "Gives rise to merit in abundance."
+msgstr "makes much merit."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc239"></a><a class="verse-num-pts" id="verse-num-pts239"></a>
@@ -92,23 +92,22 @@ msgctxt "thag3.7:7.2"
 msgid ""
 "<span class=\"var\" title=\"samaṇupāsanassa (s2, s3, pts1)\" id=\"note157\""
 ">samaṇūpāsanassa</span> ca;"
-msgstr "In attending closely to ascetics,"
+msgstr "in attending closely to ascetics,"
 
 #. <br>
 msgctxt "thag3.7:7.3"
 msgid "Ekāsanassa ca raho,"
-msgstr "In sitting alone in hidden places,"
+msgstr "in sitting alone in hidden places,"
 
 #. <br>
 msgctxt "thag3.7:7.4"
 msgid "cittavūpasamassa cā”ti."
-msgstr "And in calming the mind."
+msgstr "and in calming the mind."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag3.7:8.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag3.7:8.2"
 msgid "Vāraṇo thero …."

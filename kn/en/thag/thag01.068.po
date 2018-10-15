@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.068.po\n"
-"X-Pootle-Revision: 7799\n"
+"X-Pootle-Revision: 73400\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.68:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.68:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.68:3.1"
 msgid "Sattamavagga"
-msgstr ""
+msgstr "Chapter Seven"
 
 #. </p><h1>
 msgctxt "thag1.68:4.1"
 msgid "1.68. Ekudāniyattheragāthā"
-msgstr ""
+msgstr "1.68. Ekudāniya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag1.68:5.1"
@@ -45,28 +45,27 @@ msgid ""
 "Atthaṅgatasikkhāpada] | ^ud4.7#1 [Sāriputtasutta]\" id=\"note53\">*</span> <"
 "a class=\"verse-num-sc\" id=\"verse-num-sc68\"></a><a class=\"verse-num-pts\""
 " id=\"verse-num-pts68\"></a>“Adhicetaso appamajjato,"
-msgstr "A sage with higher consciousness, diligent,"
+msgstr "For a sage of higher consciousness, diligent,"
 
 #. <br>
 msgctxt "thag1.68:5.2"
 msgid "Munino monapathesu sikkhato;"
-msgstr "Training in the ways of silence,"
+msgstr "training in the ways of sagacity:"
 
 #. <br>
 msgctxt "thag1.68:5.3"
 msgid "Sokā na bhavanti tādino,"
-msgstr "At peace and always mindful:"
+msgstr "there are no sorrows for one so poised,"
 
 #. <br>
 msgctxt "thag1.68:5.4"
 msgid "Upasantassa sadā satīmato”ti."
-msgstr "Such a one has no sorrow."
+msgstr "calm and ever mindful."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.68:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.68:6.2"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag07.2.po\n"
-"X-Pootle-Revision: 8113\n"
+"X-Pootle-Revision: 73605\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,24 +21,24 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag7.2:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag7.2:2.1"
 msgid "Sattakanipāta"
-msgstr ""
+msgstr "The Book of the Sevens"
 
 #. </p><p>
 msgctxt "thag7.2:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag7.2:4.1"
 msgid ""
 "<span class=\"var\" title=\"lakuṇṭakabhaddiyattheragāthā (bj)\" id=\""
 "note239\">7.2 Lakuṇḍakabhaddiyattheragāthā</span>"
-msgstr ""
+msgstr "7.2. Lakuṇṭaka Bhaddiya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc466"></a><a class="verse-num-pts"
@@ -50,12 +50,12 @@ msgstr "Bhaddiya has plucked out craving, root and all,"
 #. <br>
 msgctxt "thag7.2:5.2"
 msgid "vanasaṇḍamhi bhaddiyo;"
-msgstr "And in a jungle thicket"
+msgstr "and in a jungle thicket"
 
 #. <br>
 msgctxt "thag7.2:5.3"
 msgid "Samūlaṃ taṇhamabbuyha,"
-msgstr "On the far side of the Wild Mango Monastery,"
+msgstr "on the far side of the Wild Mango Monastery,"
 
 #. <br>
 msgctxt "thag7.2:5.4"
@@ -63,7 +63,7 @@ msgid ""
 "tattha <span class=\"var\" title=\"bhaddo jhiyāyati (bj, s2, s3, pts1-2) | "
 "bhaddo'dhijhāyāyati (si) | bhaddo jijhāyati (?)\" id=\"note240\">bhaddova "
 "jhāyati</span>."
-msgstr "He practices jhāna; he is truly well-favoured."
+msgstr "he practices absorption; he is truly well-favoured."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc467"></a><a class="verse-num-pts" id="verse-num-pts467"></a>
@@ -71,12 +71,12 @@ msgctxt "thag7.2:6.1"
 msgid ""
 "Ramanteke <span class=\"var\" title=\"mutiṅgehi (bj, pts1-2)\" id=\"note241\""
 ">mudiṅgehi</span>,"
-msgstr "Some delight in drums,"
+msgstr "Some delight in clay drums,"
 
 #. <br>
 msgctxt "thag7.2:6.2"
 msgid "vīṇāhi paṇavehi ca;"
-msgstr "In lutes, and in cymbals;"
+msgstr "in arched harps, and in cymbals."
 
 #. <br>
 msgctxt "thag7.2:6.3"
@@ -99,38 +99,38 @@ msgstr "If the Buddha were to grant me one wish,"
 #. <br>
 msgctxt "thag7.2:7.2"
 msgid "so ca labbhetha me varo;"
-msgstr "And I were to get what I wished for,"
+msgstr "and I were to get what I wished for,"
 
 #. <br>
 msgctxt "thag7.2:7.3"
 msgid "Gaṇhehaṃ sabbalokassa,"
-msgstr "I’d choose that the whole world"
+msgstr "I’d choose for the whole world"
 
 #. <br>
 msgctxt "thag7.2:7.4"
 msgid "niccaṃ kāyagataṃ satiṃ."
-msgstr "Be always mindful of the body."
+msgstr "constant mindfulness of the body."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc469"></a><a class="verse-num-pts" id="verse-num-pts469"></a>
 msgctxt "thag7.2:8.1"
 msgid "Ye maṃ rūpena pāmiṃsu,"
-msgstr "Those who’ve judged me by my appearance,"
+msgstr "Those who’ve judged me on appearance,"
 
 #. <br>
 msgctxt "thag7.2:8.2"
 msgid "ye ca ghosena anvagū;"
-msgstr "And those who’ve followed my call,"
+msgstr "and those swayed by my voice,"
 
 #. <br>
 msgctxt "thag7.2:8.3"
 msgid "Chandarāgavasūpetā,"
-msgstr "They’re under the sway of desire and lust;"
+msgstr "are full of desire and greed;"
 
 #. <br>
 msgctxt "thag7.2:8.4"
 msgid "na maṃ jānanti te janā."
-msgstr "They don’t know me."
+msgstr "they don’t know me."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc470"></a><a class="verse-num-pts" id="verse-num-pts470"></a>
@@ -141,17 +141,17 @@ msgstr "Not knowing what’s inside,"
 #. <br>
 msgctxt "thag7.2:9.2"
 msgid "bahiddhā ca na passati;"
-msgstr "Not seeing what’s outside;"
+msgstr "nor seeing what’s outside,"
 
 #. <br>
 msgctxt "thag7.2:9.3"
 msgid "Samantāvaraṇo bālo,"
-msgstr "The fool, obstructed all around,"
+msgstr "the fool shut in on every side,"
 
 #. <br>
 msgctxt "thag7.2:9.4"
 msgid "sa ve ghosena vuyhati."
-msgstr "Is carried away by my voice."
+msgstr "gets carried away by a voice."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc471"></a><a class="verse-num-pts" id="verse-num-pts471"></a>
@@ -162,17 +162,17 @@ msgstr "Not knowing what’s inside,"
 #. <br>
 msgctxt "thag7.2:10.2"
 msgid "bahiddhā ca vipassati;"
-msgstr "But discerning what’s outside;"
+msgstr "but seeing what’s outside,"
 
 #. <br>
 msgctxt "thag7.2:10.3"
 msgid "Bahiddhā phaladassāvī,"
-msgstr "They too, seeing only the external fruits of practice,"
+msgstr "seeing the fruit outside,"
 
 #. <br>
 msgctxt "thag7.2:10.4"
 msgid "sopi ghosena vuyhati."
-msgstr "Are carried away by my voice."
+msgstr "they’re also carried away by a voice."
 
 #. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
 #. id="verse-num-sc472"></a><a class="verse-num-pts" id="verse-num-pts472"></a>
@@ -183,23 +183,22 @@ msgstr "Understanding what’s inside,"
 #. <br>
 msgctxt "thag7.2:11.2"
 msgid "bahiddhā ca vipassati;"
-msgstr "And discerning what’s outside;"
+msgstr "and seeing what’s outside,"
 
 #. <br>
 msgctxt "thag7.2:11.3"
 msgid "Anāvaraṇadassāvī,"
-msgstr "They, seeing without obstacles,"
+msgstr "seeing without obstacles,"
 
 #. <br>
 msgctxt "thag7.2:11.4"
 msgid "na so ghosena vuyhatī”ti."
-msgstr "Are not carried away by my voice."
+msgstr "they don’t get carried away by a voice."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag7.2:12.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag7.2:12.2"
 msgid ""

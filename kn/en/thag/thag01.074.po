@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.074.po\n"
-"X-Pootle-Revision: 7811\n"
+"X-Pootle-Revision: 73406\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.74:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.74:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.74:3.1"
 msgid "Aṭṭhamavagga"
-msgstr ""
+msgstr "Chapter Eight"
 
 #. </p><h1>
 msgctxt "thag1.74:4.1"
 msgid "1.74. Suyāmanattheragāthā"
-msgstr ""
+msgstr "1.74. Suyāmana"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc74"></a><a class="verse-num-pts"
@@ -50,23 +50,22 @@ msgctxt "thag1.74:5.2"
 msgid ""
 "<span class=\"var\" title=\"thīnamiddhañca (bj, s2, s3, pts1-2)\" id=\""
 "note58\">Thinamiddhañca</span> bhikkhuno;"
-msgstr "Dullness & drowsiness,"
+msgstr "dullness & drowsiness,"
 
 #. <br>
 msgctxt "thag1.74:5.3"
 msgid "Uddhaccaṃ vicikicchā ca,"
-msgstr "Restlessness, and doubt"
+msgstr "restlessness, and doubt"
 
 #. <br>
 msgctxt "thag1.74:5.4"
 msgid "Sabbasova na vijjatī”ti."
-msgstr "Are not found in a monk at all."
+msgstr "are not found in a monk at all."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.74:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.74:6.2"
 msgid "Suyāmano thero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag12.2.po\n"
-"X-Pootle-Revision: 8147\n"
+"X-Pootle-Revision: 76576\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,34 +21,34 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag12.2:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag12.2:2.1"
 msgid "Dvādasakanipāta"
-msgstr ""
+msgstr "The Book of the Twelves"
 
 #. </p><p>
 msgctxt "thag12.2:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag12.2:4.1"
 msgid "12.2. Sunītattheragāthā"
-msgstr ""
+msgstr "12.2. Sunīta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc620"></a><a class="verse-num-pts"
 #. id="verse-num-pts620"></a>
 msgctxt "thag12.2:5.1"
 msgid "“Nīce kulamhi jātohaṃ,"
-msgstr "I was born in a low-class family,"
+msgstr "I was born in a low-class family."
 
 #. <br>
 msgctxt "thag12.2:5.2"
 msgid "daliddo appabhojano;"
-msgstr "Poor, with little to eat."
+msgstr "We were poor, with little to eat."
 
 #. <br>
 msgctxt "thag12.2:5.3"
@@ -71,39 +71,39 @@ msgstr "Shunned by people,"
 #. <br>
 msgctxt "thag12.2:6.2"
 msgid "paribhūto ca vambhito;"
-msgstr "I was disregarded and treated with contempt."
+msgstr "I was disregarded and held in contempt."
 
 #. <br>
 msgctxt "thag12.2:6.3"
 msgid "Nīcaṃ manaṃ karitvāna,"
-msgstr "I humbled my heart,"
+msgstr "I humbled my heart"
 
 #. <br>
 msgctxt "thag12.2:6.4"
 msgid "vandissaṃ bahukaṃ janaṃ."
-msgstr "And paid respects to many people."
+msgstr "and paid respects to many people."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc622"></a><a class="verse-num-pts"
 #. id="verse-num-pts622"></a><a class="pts" id="pts64"></a>
 msgctxt "thag12.2:7.1"
 msgid "Athaddasāsiṃ sambuddhaṃ,"
-msgstr "Then I saw the Buddha,"
+msgstr "Then I saw the Buddha"
 
 #. <br>
 msgctxt "thag12.2:7.2"
 msgid "bhikkhusaṃghapurakkhataṃ;"
-msgstr "Honoured by the Saṅgha of monks,"
+msgstr "at the fore of the mendicant Saṅgha;"
 
 #. <br>
 msgctxt "thag12.2:7.3"
 msgid "Pavisantaṃ mahāvīraṃ,"
-msgstr "The great hero,"
+msgstr "the great hero"
 
 #. <br>
 msgctxt "thag12.2:7.4"
 msgid "magadhānaṃ puruttamaṃ."
-msgstr "Entering the capital city of Magadhā."
+msgstr "was entering the capital city of Magadhā."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc623"></a><a class="verse-num-pts" id="verse-num-pts623"></a>
@@ -114,7 +114,7 @@ msgstr "I dropped my flail"
 #. <br>
 msgctxt "thag12.2:8.2"
 msgid "vandituṃ upasaṅkamiṃ;"
-msgstr "And approached to pay respects."
+msgstr "and approached to pay homage."
 
 #. <br>
 msgctxt "thag12.2:8.3"
@@ -124,44 +124,44 @@ msgstr "Out of compassion for me,"
 #. <br>
 msgctxt "thag12.2:8.4"
 msgid "aṭṭhāsi purisuttamo."
-msgstr "The supreme man stood still."
+msgstr "the supreme man stood still."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc624"></a><a class="verse-num-pts" id="verse-num-pts624"></a>
 msgctxt "thag12.2:9.1"
 msgid "Vanditvā satthuno pāde,"
-msgstr "When I had paid respects at the teacher’s feet,"
+msgstr "When I had paid homage at the Teacher’s feet,"
 
 #. <br>
 msgctxt "thag12.2:9.2"
 msgid "ekamantaṃ ṭhito tadā;"
-msgstr "I stood to one side,"
+msgstr "I stood to one side"
 
 #. <br>
 msgctxt "thag12.2:9.3"
 msgid "Pabbajjaṃ ahamāyāciṃ,"
-msgstr "And asked the most excellent of all beings"
+msgstr "and asked the supreme being"
 
 #. <br>
 msgctxt "thag12.2:9.4"
 msgid "sabbasattānamuttamaṃ."
-msgstr "For the going-forth."
+msgstr "for the going-forth."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc625"></a><a class="verse-num-pts" id="verse-num-pts625"></a>
 msgctxt "thag12.2:10.1"
 msgid "Tato kāruṇiko satthā,"
-msgstr "Then the teacher, being sympathetic,"
+msgstr "Then the Teacher, being sympathetic,"
 
 #. <br>
 msgctxt "thag12.2:10.2"
 msgid "sabbalokānukampako;"
-msgstr "And having compassion for the whole world,"
+msgstr "and having compassion for the whole world,"
 
 #. <br>
 msgctxt "thag12.2:10.3"
 msgid "‘Ehi bhikkhū’ti maṃ āha,"
-msgstr "Said to me, “Come, monk!”"
+msgstr "said to me, “Come, monk!”"
 
 #. <br>
 msgctxt "thag12.2:10.4"
@@ -177,17 +177,17 @@ msgstr "Staying alone in the wilderness,"
 #. <br>
 msgctxt "thag12.2:11.2"
 msgid "viharanto atandito;"
-msgstr "Without laziness,"
+msgstr "meditating tirelessly,"
 
 #. <br>
 msgctxt "thag12.2:11.3"
 msgid "Akāsiṃ satthu vacanaṃ,"
-msgstr "I did what the teacher said,"
+msgstr "I have completed what the Teacher taught,"
 
 #. <br>
 msgctxt "thag12.2:11.4"
 msgid "yathā maṃ ovadī jino."
-msgstr "As the conqueror had advised me."
+msgstr "just as the victor advised me."
 
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
 #. id="verse-num-sc627"></a><a class="verse-num-pts" id="verse-num-pts627"></a>
@@ -198,7 +198,7 @@ msgstr "In the first watch of the night,"
 #. <br>
 msgctxt "thag12.2:12.2"
 msgid "Pubbajātimanussariṃ;"
-msgstr "I recollected my previous births."
+msgstr "I recollected my past lives."
 
 #. <br>
 msgctxt "thag12.2:12.3"
@@ -210,7 +210,7 @@ msgctxt "thag12.2:12.4"
 msgid ""
 "<span class=\"var\" title=\"dibbacakkhuṃ visodhitaṃ (pts1) | dibbacakkhu "
 "visodhitaṃ (mr)\" id=\"note291\">Dibbacakkhuṃ visodhayiṃ</span>;"
-msgstr "I purified the divine eye."
+msgstr "I purified my clairvoyance."
 
 #. <br>
 msgctxt "thag12.2:12.5"
@@ -220,7 +220,7 @@ msgstr "In the last watch of the night,"
 #. <br>
 msgctxt "thag12.2:12.6"
 msgid "Tamokhandhaṃ padālayiṃ."
-msgstr "I tore apart the mass of darkness."
+msgstr "I shattered the mass of darkness."
 
 #. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
 #. id="verse-num-sc628"></a><a class="verse-num-pts" id="verse-num-pts628"></a>
@@ -231,7 +231,7 @@ msgstr "At the end of the night,"
 #. <br>
 msgctxt "thag12.2:13.2"
 msgid "sūriyassuggamanaṃ pati;"
-msgstr "As the sunrise drew near,"
+msgstr "as the sunrise drew near,"
 
 #. <br>
 msgctxt "thag12.2:13.3"
@@ -241,13 +241,13 @@ msgstr "Indra and Brahmā came"
 #. <br>
 msgctxt "thag12.2:13.4"
 msgid "maṃ namassiṃsu pañjalī."
-msgstr "And paid homage me with hands in añjalī."
+msgstr "and revered me with joined hands."
 
 #. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
 #. id="verse-num-sc629"></a><a class="verse-num-pts" id="verse-num-pts629"></a>
 msgctxt "thag12.2:14.1"
 msgid "‘Namo te purisājañña,"
-msgstr "“Homage to you, thoroughbred among men!"
+msgstr "‘Homage to you, O thoroughbred!"
 
 #. <br>
 msgctxt "thag12.2:14.2"
@@ -257,12 +257,12 @@ msgstr "Homage to you, supreme among men!"
 #. <br>
 msgctxt "thag12.2:14.3"
 msgid "Yassa te āsavā khīṇā,"
-msgstr "Your defilements are ended—"
+msgstr "Since your defilements are ended,"
 
 #. <br>
 msgctxt "thag12.2:14.4"
 msgid "dakkhiṇeyyosi mārisa’."
-msgstr "You, sir, are worthy of offerings.”"
+msgstr "you, sir, are worthy of a teacher’s offerings.”"
 
 #. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
 #. id="verse-num-sc630"></a><a class="verse-num-pts" id="verse-num-pts630"></a>
@@ -273,17 +273,17 @@ msgstr "When he saw me honored"
 #. <br>
 msgctxt "thag12.2:15.2"
 msgid "devasaṅghapurakkhataṃ;"
-msgstr "By the assembly of gods,"
+msgstr "by the assembly of gods,"
 
 #. <br>
 msgctxt "thag12.2:15.3"
 msgid "Sitaṃ pātukaritvāna,"
-msgstr "The teacher smiled,"
+msgstr "the teacher smiled"
 
 #. <br>
 msgctxt "thag12.2:15.4"
 msgid "imamatthaṃ abhāsatha."
-msgstr "And said the following:"
+msgstr "and said the following:"
 
 #. </p><p><a class="sc" id="12"></a>
 msgctxt "thag12.2:16.1"
@@ -291,28 +291,27 @@ msgid ""
 "<span class=\"cross\" title=\"^snp3.9#497 [Vāseṭṭhasutta]\" id=\"note292\""
 ">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc631\"></a><a class"
 "=\"verse-num-pts\" id=\"verse-num-pts631\"></a>‘Tapena brahmacariyena,"
-msgstr "“By austerity and by the holy life,"
+msgstr "“By austerity and spiritual practice,"
 
 #. <br>
 msgctxt "thag12.2:16.2"
 msgid "saṃyamena damena ca;"
-msgstr "By restraint and by taming:"
+msgstr "by restraint and by taming:"
 
 #. <br>
 msgctxt "thag12.2:16.3"
 msgid "Etena brāhmaṇo hoti,"
-msgstr "By this one is a holy man,"
+msgstr "that’s how to become a brahmin,"
 
 #. <br>
 msgctxt "thag12.2:16.4"
 msgid "etaṃ brāhmaṇamuttaman’”ti."
-msgstr "This is the supreme holiness.”"
+msgstr "this is the supreme brahmin.”"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag12.2:17.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag12.2:17.2"
 msgid "Sunīto thero …."

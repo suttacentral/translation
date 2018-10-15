@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.41.po\n"
-"X-Pootle-Revision: 7985\n"
+"X-Pootle-Revision: 73493\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.41:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.41:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.41:3.1"
 msgid "Pañcamavagga"
-msgstr ""
+msgstr "Chapter Five"
 
 #. </p><h1>
 msgctxt "thag2.41:4.1"
 msgid "2.41. Kumārakassapattheragāthā"
-msgstr ""
+msgstr "2.41. Kumārakassapa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc201"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "Oh, the Buddhas! Oh, the Dhammas!"
 #. <br>
 msgctxt "thag2.41:5.2"
 msgid "aho no satthu sampadā;"
-msgstr "Oh, the perfections of the Teacher!"
+msgstr "Oh, the accomplishments of the Teacher!"
 
 #. <br>
 msgctxt "thag2.41:5.3"
 msgid "Yattha etādisaṃ dhammaṃ,"
-msgstr "Where a disciple may see"
+msgstr "Here a disciple may realize"
 
 #. <br>
 msgctxt "thag2.41:5.4"
 msgid "sāvako sacchikāhiti."
-msgstr "Such a Dhamma for themselves."
+msgstr "such a teaching for themselves."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc202"></a><a class="verse-num-pts" id="verse-num-pts202"></a>
@@ -69,33 +69,32 @@ msgstr "Through countless aeons"
 #. <br>
 msgctxt "thag2.41:6.2"
 msgid "sakkāyādhigatā ahū;"
-msgstr "They obtained an identity;"
+msgstr "they obtained individual identities."
 
 #. <br>
 msgctxt "thag2.41:6.3"
 msgid "Tesamayaṃ pacchimako,"
-msgstr "This is the end,"
+msgstr "This is their last,"
 
 #. <br>
 msgctxt "thag2.41:6.4"
 msgid "carimoyaṃ samussayo;"
-msgstr "Their last body;"
+msgstr "their very final body"
 
 #. <br>
 msgctxt "thag2.41:6.5"
 msgid "Jātimaraṇasaṃsāro,"
-msgstr "Transmigrating through births and deaths,"
+msgstr "in the transmigration through births and deaths;"
 
 #. <br>
 msgctxt "thag2.41:6.6"
 msgid "natthi dāni punabbhavo”ti."
-msgstr "Now there is no more rebirth into any state of existence."
+msgstr "now there are no more future lives."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.41:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.41:7.2"
 msgid "Kumārakassapo thero …."

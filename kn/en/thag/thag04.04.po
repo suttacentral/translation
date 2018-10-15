@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag04.04.po\n"
-"X-Pootle-Revision: 8041\n"
+"X-Pootle-Revision: 81393\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,56 +21,57 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag4.4:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag4.4:2.1"
 msgid "Catukkanipāta"
-msgstr ""
+msgstr "The Book of the Fours"
 
 #. </p><p>
 msgctxt "thag4.4:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag4.4:4.1"
 msgid "4.4. Nandakattheragāthā"
-msgstr ""
+msgstr "4.4. Nandaka"
 
+# Pura is a rare poetic term for the body, see Norman's note. Apparently is the same PIE origin as "frame", for what it's worth. The idea is the body like an enclosed citadel, and "frame" is probably the closest. The -e endings here and in the closely related lines at Thag 20.1 are difficult to parse. Norman reads those here as accusative (probably plural) and in Thag 20.1 as either feminine vocative singular or locative. But I find it improbable that exactly the same forms in the same phrases should thus have two different readings. I take the forms as being feminine singular vocative throughout.
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc279"></a><a class="verse-num-pts"
 #. id="verse-num-pts279"></a>
 msgctxt "thag4.4:5.1"
 msgid "“Dhiratthu pūre duggandhe,"
-msgstr "Damn these stinking bodies!"
+msgstr "Damn you mortal frame, you stink!"
 
 #. <br>
 msgctxt "thag4.4:5.2"
 msgid "mārapakkhe avassute;"
-msgstr "They’re on Māra’s side, they ooze;"
+msgstr "You’re on Māra’s side, you ooze!"
 
 #. <br>
 msgctxt "thag4.4:5.3"
 msgid "Navasotāni te kāye,"
-msgstr "And bodies have nine streams"
+msgstr "O body, you have nine streams"
 
 #. <br>
 msgctxt "thag4.4:5.4"
 msgid "yāni sandanti sabbadā."
-msgstr "That are always flowing."
+msgstr "that are flowing all the time."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc280"></a><a class="verse-num-pts"
 #. id="verse-num-pts280"></a><a class="pts" id="pts34"></a>
 msgctxt "thag4.4:6.1"
 msgid "Mā purāṇaṃ amaññittho,"
-msgstr "Don’t think much of bodies;"
+msgstr "Don’t think much of mortal frames;"
 
 #. <br>
 msgctxt "thag4.4:6.2"
 msgid "māsādesi tathāgate;"
-msgstr "Don’t disparage the Tathāgatas."
+msgstr "don’t disparage the Realized Ones."
 
 #. <br>
 msgctxt "thag4.4:6.3"
@@ -82,56 +83,55 @@ msgctxt "thag4.4:6.4"
 msgid ""
 "<span class=\"var\" title=\"kimaṅga pana (bj, pts1-2)\" id=\"note172\">"
 "kimaṅgaṃ pana</span> mānuse."
-msgstr "Let alone by humans."
+msgstr "let alone by humans."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc281"></a><a class="verse-num-pts" id="verse-num-pts281"></a>
 msgctxt "thag4.4:7.1"
 msgid "Ye ca kho bālā dummedhā,"
-msgstr "But those dumb fools,"
+msgstr "But those who are stupid fools,"
 
 #. <br>
 msgctxt "thag4.4:7.2"
 msgid "dummantī mohapārutā;"
-msgstr "With bad advisors, shrouded in delusion,"
+msgstr "with bad advisors, shrouded in delusion,"
 
 #. <br>
 msgctxt "thag4.4:7.3"
 msgid "Tādisā tattha rajjanti,"
-msgstr "That kind of person is aroused by bodies,"
+msgstr "that kind of person is aroused by bodies,"
 
 #. <br>
 msgctxt "thag4.4:7.4"
 msgid "mārakhittamhi bandhane."
-msgstr "When Māra has thrown the snare."
+msgstr "when Māra has laid down the snare."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc282"></a><a class="verse-num-pts" id="verse-num-pts282"></a>
 msgctxt "thag4.4:8.1"
 msgid "Yesaṃ rāgo ca doso ca,"
-msgstr "Those who have discarded"
+msgstr "Those whose greed, hate, and ignorance"
 
 #. <br>
 msgctxt "thag4.4:8.2"
 msgid "avijjā ca virājitā;"
-msgstr "Lust, hatred, and ignorance:"
+msgstr "has faded away;"
 
 #. <br>
 msgctxt "thag4.4:8.3"
 msgid "Tādī tattha na rajjanti,"
-msgstr "They’ve cut the strings, they’re no longer bound—"
+msgstr "such people are not aroused by bodies,"
 
 # Compare SN 41.5, this maybe should be chinnasota
 #. <br>
 msgctxt "thag4.4:8.4"
 msgid "chinnasuttā abandhanā”ti."
-msgstr "Such people are not aroused by bodies."
+msgstr "they’ve cut the strings, they’re no longer bound."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag4.4:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag4.4:9.2"
 msgid "Nandako thero …."

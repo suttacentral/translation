@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag07.5.po\n"
-"X-Pootle-Revision: 8119\n"
+"X-Pootle-Revision: 73773\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,44 +21,44 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag7.5:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag7.5:2.1"
 msgid "Sattakanipāta"
-msgstr ""
+msgstr "The Book of the Sevens"
 
 #. </p><p>
 msgctxt "thag7.5:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag7.5:4.1"
 msgid "7.5. Sarabhaṅgattheragāthā"
-msgstr ""
+msgstr "7.5. Sarabhaṅga"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc487"></a><a class="verse-num-pts"
 #. id="verse-num-pts487"></a>
 msgctxt "thag7.5:5.1"
 msgid "“Sare hatthehi bhañjitvā,"
-msgstr ""
+msgstr "I broke the reeds off with my hands,"
 
 #. <br>
 msgctxt "thag7.5:5.2"
 msgid "katvāna kuṭimacchisaṃ;"
-msgstr ""
+msgstr "made a hut, and stayed there."
 
 #. <br>
 msgctxt "thag7.5:5.3"
 msgid "Tena me sarabhaṅgoti,"
-msgstr ""
+msgstr "That’s how I became known"
 
 #. <br>
 msgctxt "thag7.5:5.4"
 msgid "nāmaṃ sammutiyā ahu."
-msgstr ""
+msgstr "as “Reed-breaker”."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc488"></a><a class="verse-num-pts"
@@ -70,7 +70,7 @@ msgstr "But now it’s not appropriate"
 #. <br>
 msgctxt "thag7.5:6.2"
 msgid "sare hatthehi bhañjituṃ;"
-msgstr "For me to break reeds with my hands."
+msgstr "for me to break reeds with my hands."
 
 #. <br>
 msgctxt "thag7.5:6.3"
@@ -80,7 +80,7 @@ msgstr "The training rules have been laid down for us"
 #. <br>
 msgctxt "thag7.5:6.4"
 msgid "gotamena yasassinā."
-msgstr "By Gotama the renowned."
+msgstr "by Gotama the renowned."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc489"></a><a class="verse-num-pts" id="verse-num-pts489"></a>
@@ -91,7 +91,7 @@ msgstr "Previously, I, Sarabhaṅga,"
 #. <br>
 msgctxt "thag7.5:7.2"
 msgid "Sarabhaṅgo nāddasaṃ pubbe;"
-msgstr "Didn’t see the disease in its entirety."
+msgstr "didn’t see the disease in its entirety."
 
 #. <br>
 msgctxt "thag7.5:7.3"
@@ -101,7 +101,7 @@ msgstr "But now I have seen the disease,"
 #. <br>
 msgctxt "thag7.5:7.4"
 msgid "Vacanakarenātidevassa."
-msgstr "Because I practised what was taught by the one beyond the gods."
+msgstr "as I’ve practised what was taught by he who is beyond the gods."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc490"></a><a class="verse-num-pts" id="verse-num-pts490"></a>
@@ -112,12 +112,12 @@ msgstr "Gotama travelled by that straight road;"
 #. <br>
 msgctxt "thag7.5:8.2"
 msgid "Yeneva maggena sikhī ca vessabhū;"
-msgstr "The same path travelled by Vipassī,"
+msgstr "the same path travelled by Vipassī,"
 
 #. <br>
 msgctxt "thag7.5:8.3"
 msgid "Kakusandhakoṇāgamano ca kassapo,"
-msgstr "The same path as Sikhī, Vessabhū,"
+msgstr "by Sikhī, Vessabhū,"
 
 #. <br>
 msgctxt "thag7.5:8.4"
@@ -128,38 +128,38 @@ msgstr "Kakusandha, Koṇāgamana, and Kassapa."
 #. id="verse-num-sc491"></a><a class="verse-num-pts" id="verse-num-pts491"></a>
 msgctxt "thag7.5:9.1"
 msgid "Vītataṇhā anādānā,"
-msgstr "By these seven Buddhas, who plunged into the ending,"
+msgstr "These seven Buddhas have plunged into the ending,"
 
 #. <br>
 msgctxt "thag7.5:9.2"
 msgid "satta buddhā khayogadhā;"
-msgstr "Free of craving, without grasping,"
+msgstr "free of craving, without grasping,"
 
 #. <br>
 msgctxt "thag7.5:9.3"
 msgid "Yehāyaṃ desito dhammo,"
-msgstr "Having become Dhamma, poised,"
+msgstr "having become Dhamma, poised."
 
 #. <br>
 msgctxt "thag7.5:9.4"
 msgid "dhammabhūtehi tādibhi."
-msgstr "This Dhamma was taught,"
+msgstr "They have taught this Dhamma"
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc492"></a><a class="verse-num-pts" id="verse-num-pts492"></a>
 msgctxt "thag7.5:10.1"
 msgid "Cattāri ariyasaccāni,"
-msgstr "Out of compassion for living creatures—"
+msgstr "out of compassion for living creatures—"
 
 #. <br>
 msgctxt "thag7.5:10.2"
 msgid "anukampāya pāṇinaṃ;"
-msgstr "Suffering, origin, path,"
+msgstr "suffering, origin, path,"
 
 #. <br>
 msgctxt "thag7.5:10.3"
 msgid "Dukkhaṃ samudayo maggo,"
-msgstr "And cessation, the ending of suffering."
+msgstr "and cessation, the ending of suffering."
 
 #. <br>
 msgctxt "thag7.5:10.4"
@@ -172,38 +172,37 @@ msgctxt "thag7.5:11.1"
 msgid ""
 "<span class=\"var\" title=\"yasmiṃ nibbattate (pts1) | yasmiṃ na nibbattate "
 "(mr)\" id=\"note247\">Yasmiṃ nivattate</span> dukkhaṃ,"
-msgstr "Suffering is stopped,"
+msgstr "the endless suffering of transmigration"
 
 #. <br>
 msgctxt "thag7.5:11.2"
 msgid "saṃsārasmiṃ anantakaṃ;"
-msgstr "This endless transmigration."
+msgstr "finally comes to an end."
 
 #. <br>
 msgctxt "thag7.5:11.3"
 msgid "Bhedā imassa kāyassa,"
-msgstr "When the body has broken up,"
+msgstr "When the body breaks up,"
 
 #. <br>
 msgctxt "thag7.5:11.4"
 msgid "jīvitassa ca saṅkhayā;"
-msgstr "And life has come to an end,"
+msgstr "and life comes to an end,"
 
 #. <br>
 msgctxt "thag7.5:11.5"
 msgid "Añño punabbhavo natthi,"
-msgstr "There is no more rebirth into any state of existence:"
+msgstr "there are no future lives;"
 
 #. <br>
 msgctxt "thag7.5:11.6"
 msgid "suvimuttomhi sabbadhī”ti."
-msgstr "I’m well-liberated in every way."
+msgstr "I’m well-freed in every way."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag7.5:12.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag7.5:12.2"
 msgid "Sarabhaṅgo thero …."

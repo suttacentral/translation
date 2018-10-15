@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.093.po\n"
-"X-Pootle-Revision: 7849\n"
+"X-Pootle-Revision: 73425\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.93:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.93:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.93:3.1"
 msgid "Dasamavagga"
-msgstr ""
+msgstr "Chapter Ten"
 
 #. </p><h1>
 msgctxt "thag1.93:4.1"
 msgid "1.93. Erakattheragāthā"
-msgstr ""
+msgstr "1.93. Eraka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc93"></a><a class="verse-num-pts"
@@ -58,7 +58,7 @@ msgstr "One who enjoys sensual pleasures"
 #. <br>
 msgctxt "thag1.93:5.4"
 msgid "Dukkhaṃ so kāmayati eraka;"
-msgstr "Enjoys suffering, Eraka!"
+msgstr "enjoys suffering, Eraka!"
 
 #. <br>
 msgctxt "thag1.93:5.5"
@@ -68,13 +68,12 @@ msgstr "One who doesn’t enjoy sensual pleasures"
 #. <br>
 msgctxt "thag1.93:5.6"
 msgid "Dukkhaṃ so na kāmayati erakā”ti."
-msgstr "Doesn’t enjoy suffering, Eraka!"
+msgstr "doesn’t enjoy suffering, Eraka!"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.93:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.93:6.2"
 msgid "Erako thero …."

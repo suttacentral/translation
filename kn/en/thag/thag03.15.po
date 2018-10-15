@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag03.15.po\n"
-"X-Pootle-Revision: 8031\n"
+"X-Pootle-Revision: 73516\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.15:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.15:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.15:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.15:4.1"
 msgid "3.15. Hāritattheragāthā"
-msgstr ""
+msgstr "3.15. Hārita"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc261"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "Whoever wishes to do afterwards"
 #. <br>
 msgctxt "thag3.15:5.2"
 msgid "pacchā so kātumicchati;"
-msgstr "What they should have done before,"
+msgstr "what they should have done before"
 
 #. <br>
 msgctxt "thag3.15:5.3"
 msgid "Sukhā so dhaṃsate ṭhānā,"
-msgstr "They’ve lost the causes for happiness,"
+msgstr "has lost the causes for happiness,"
 
 #. <br>
 msgctxt "thag3.15:5.4"
 msgid "pacchā ca manutappati."
-msgstr "And afterwards they’re tormented by regrets."
+msgstr "and afterwards they’re tormented by regrets."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc262"></a><a class="verse-num-pts" id="verse-num-pts262"></a>
@@ -69,7 +69,7 @@ msgstr "You should only say what you would do;"
 #. <br>
 msgctxt "thag3.15:6.2"
 msgid "yaṃ na kayirā na taṃ vade;"
-msgstr "You shouldn’t say what you wouldn’t do."
+msgstr "you shouldn’t say what you wouldn’t do."
 
 #. <br>
 msgctxt "thag3.15:6.3"
@@ -79,7 +79,7 @@ msgstr "The wise will recognize"
 #. <br>
 msgctxt "thag3.15:6.4"
 msgid "parijānanti paṇḍitā."
-msgstr "One who talks without doing."
+msgstr "one who talks without doing."
 
 #. </p><p><a class="sc" id="3"></a>
 msgctxt "thag3.15:7.1"
@@ -88,28 +88,27 @@ msgid ""
 "[Sāsanapaṭṭhāna]\" id=\"note167\">*</span> <a class=\"verse-num-sc\" id"
 "=\"verse-num-sc263\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts263\""
 "></a>Susukhaṃ vata nibbānaṃ,"
-msgstr "Oh! nibbāna is so very blissful,"
+msgstr "Oh! Extinguishment is so very blissful,"
 
 #. <br>
 msgctxt "thag3.15:7.2"
 msgid "sammāsambuddhadesitaṃ;"
-msgstr "As taught by the Buddha:"
+msgstr "as taught by the fully awakened Buddha:"
 
 #. <br>
 msgctxt "thag3.15:7.3"
 msgid "Asokaṃ virajaṃ khemaṃ,"
-msgstr "Sorrowless, stainless, secure;"
+msgstr "sorrowless, stainless, secure,"
 
 #. <br>
 msgctxt "thag3.15:7.4"
 msgid "yattha dukkhaṃ nirujjhatī”ti."
-msgstr "Where suffering all ceases."
+msgstr "where suffering all ceases."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag3.15:8.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag3.15:8.2"
 msgid "Hārito thero …."

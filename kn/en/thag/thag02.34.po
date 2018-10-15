@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.34.po\n"
-"X-Pootle-Revision: 7971\n"
+"X-Pootle-Revision: 73486\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.34:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.34:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.34:3.1"
 msgid "Catutthavagga"
-msgstr ""
+msgstr "Chapter Four"
 
 #. </p><h1>
 msgctxt "thag2.34:4.1"
 msgid "2.34. Isidinnattheragāthā"
-msgstr ""
+msgstr "2.34. Isidinna"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc187"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "I’ve seen lay disciples who have memorized discourses,"
 #. <br>
 msgctxt "thag2.34:5.2"
 msgid "Kāmā aniccā iti bhāsamānā;"
-msgstr "Saying “Sensual pleasures are impermanent”;"
+msgstr "saying, “Sensual pleasures are impermanent”."
 
 #. <br>
 msgctxt "thag2.34:5.3"
 msgid "Sārattarattā maṇikuṇḍalesu,"
-msgstr "But they’re full of desire for jewels and earrings,"
+msgstr "But they’re infatuated with jewels and earrings,"
 
 #. <br>
 msgctxt "thag2.34:5.4"
 msgid "Puttesu dāresu ca te apekkhā."
-msgstr "Desiring children and wives."
+msgstr "concerned for their partners and children."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc188"></a><a class="verse-num-pts" id="verse-num-pts188"></a>
@@ -69,7 +69,7 @@ msgstr "To be honest, they don’t know Dhamma,"
 #. <br>
 msgctxt "thag2.34:6.2"
 msgid "Kāmā aniccā iti cāpi āhu;"
-msgstr "Despite saying “Sensual pleasures are impermanent”;"
+msgstr "even though they say “Sensual pleasures are impermanent”."
 
 #. <br>
 msgctxt "thag2.34:6.3"
@@ -79,13 +79,12 @@ msgstr "They don’t have the power to cut their lust,"
 #. <br>
 msgctxt "thag2.34:6.4"
 msgid "Tasmā sitā puttadāraṃ dhanañcā”ti."
-msgstr "So they’re attached to children, wives, and wealth."
+msgstr "which is why they cling to children, wives, and wealth."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.34:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.34:7.2"
 msgid "Isidinno thero …."

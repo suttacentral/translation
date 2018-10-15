@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.33.po\n"
-"X-Pootle-Revision: 7969\n"
+"X-Pootle-Revision: 73485\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,38 +21,38 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.33:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.33:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.33:3.1"
 msgid "Catutthavagga"
-msgstr ""
+msgstr "Chapter Four"
 
 #. </p><h1>
 msgctxt "thag2.33:4.1"
 msgid ""
 "<span class=\"var\" title=\"upavānattheragāthā (bj)\" id=\"note118\">2.33 "
 "Upavāṇattheragāthā</span>"
-msgstr ""
+msgstr "2.33 Upavāṇa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc185"></a><a class="verse-num-pts"
 #. id="verse-num-pts185"></a>
 msgctxt "thag2.33:5.1"
 msgid "“Arahaṃ sugato loke,"
-msgstr "The Worthy One, the world’s Holy One"
+msgstr "The perfected one, the Holy One in the world,"
 
 #. <br>
 msgctxt "thag2.33:5.2"
 msgid ""
 "<span class=\"var\" title=\"... bādhito (bj, s2, s3, pts1-2, mr)\" id=\""
 "note119\">vātehābādhiko</span> muni;"
-msgstr "The sage is afflicted by winds."
+msgstr "the sage is afflicted by winds."
 
 #. <br>
 msgctxt "thag2.33:5.3"
@@ -62,7 +62,7 @@ msgstr "If there’s hot water,"
 #. <br>
 msgctxt "thag2.33:5.4"
 msgid "munino dehi brāhmaṇa."
-msgstr "Give it to the sage, brahmin."
+msgstr "give it to the sage, brahmin."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc186"></a><a class="verse-num-pts" id="verse-num-pts186"></a>
@@ -75,7 +75,7 @@ msgstr "I wish to bring it to the one"
 #. <br>
 msgctxt "thag2.33:6.2"
 msgid "sakkareyyāna sakkato;"
-msgstr "Who is honoured by those worthy of honour,"
+msgstr "who is esteemed by the estimable,"
 
 #. <br>
 msgctxt "thag2.33:6.3"
@@ -83,18 +83,17 @@ msgid ""
 "<span class=\"var\" title=\"apacitopacanīyānaṃ (bj) | apacito apacineyyānaṃ ("
 "s2, s3, pts1) | apacito apaceyyānaṃ (pts2)\" id=\"note121\""
 ">Apacitopaceyyānaṃ</span>,"
-msgstr "Revered by those worthy of reverence,"
+msgstr "honored by the honorable,"
 
 #. <br>
 msgctxt "thag2.33:6.4"
 msgid "tassa icchāmi hātave”ti."
-msgstr "And respected by those worthy of respect."
+msgstr "venerated by the venerable."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.33:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.33:7.2"
 msgid ""

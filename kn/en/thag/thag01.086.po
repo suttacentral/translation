@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.086.po\n"
-"X-Pootle-Revision: 7835\n"
+"X-Pootle-Revision: 73418\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.86:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.86:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.86:3.1"
 msgid "Navamavagga"
-msgstr ""
+msgstr "Chapter Nine"
 
 #. </p><h1>
 msgctxt "thag1.86:4.1"
 msgid "1.86. Nāgitattheragāthā"
-msgstr ""
+msgstr "1.86. Nāgita"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc86"></a><a class="verse-num-pts"
@@ -48,23 +48,22 @@ msgstr "Elsewhere there are many other doctrines;"
 #. <br>
 msgctxt "thag1.86:5.2"
 msgid "Maggo na nibbānagamo yathā ayaṃ;"
-msgstr "Those paths don’t lead to nibbāna, but this one does."
+msgstr "those paths don’t lead to quenching like this one does."
 
 #. <br>
 msgctxt "thag1.86:5.3"
 msgid "Itissu saṃghaṃ bhagavānusāsati,"
-msgstr "Indeed, the Blessed One himself counsels the Saṅgha;"
+msgstr "For the Buddha himself instructs the Saṅgha;"
 
 #. <br>
 msgctxt "thag1.86:5.4"
 msgid "Satthā sayaṃ pāṇitaleva dassayan”ti."
-msgstr "The Teacher shows the palms of his hands."
+msgstr "the Teacher shows the palms of his hands."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.86:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.86:6.2"
 msgid "Nāgito thero …."

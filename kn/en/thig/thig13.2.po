@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 13:24+0157\n"
-"PO-Revision-Date: 2017-05-07 09:18+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1494148704.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thig/thig13.2.po\n"
+"X-Pootle-Revision: 86260\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -31,29 +30,39 @@ msgstr ""
 
 #. </p><h1>
 msgctxt "thig13.2:3.1"
-msgid "<span class=\"var\" title=\"rohiṇītherīgāthā (bj)\" id=\"note83\">2 Rohinītherīgāthā</span>"
+msgid ""
+"<span class=\"var\" title=\"rohiṇītherīgāthā (bj)\" id=\"note83\">2 "
+"Rohinītherīgāthā</span>"
 msgstr ""
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc271"></a><a class="verse-num-pts"
 #. id="verse-num-pts271"></a>
 msgctxt "thig13.2:4.1"
-msgid "“‘<span class=\"var\" title=\"bhoti tvaṃ sayasi (bj) | bhoti maṃ vipassi (s2, s3, pts1-2)\" id=\"note84\">Samaṇā’ti bhoti supi</span>,"
+msgid ""
+"“‘<span class=\"var\" title=\"bhoti tvaṃ sayasi (bj) | bhoti maṃ vipassi ("
+"s2, s3, pts1-2)\" id=\"note84\">Samaṇā’ti bhoti supi</span>,"
 msgstr "“You fell asleep saying ‘recluses’"
 
 #. <br>
 msgctxt "thig13.2:4.2"
-msgid "‘samaṇā’ti <span class=\"var\" title=\"paṭibujjhasi (bj, s2, s3, pts1-2)\" id=\"note85\">pabujjhasi</span>;"
+msgid ""
+"‘samaṇā’ti <span class=\"var\" title=\"paṭibujjhasi (bj, s2, s3, pts1-2)\" "
+"id=\"note85\">pabujjhasi</span>;"
 msgstr "You awoke saying ‘recluses’"
 
 #. <br>
 msgctxt "thig13.2:4.3"
-msgid "<span class=\"var\" title=\"samaṇānameva (bj, s2, s3, pts1-2)\" id=\"note86\">Samaṇāneva</span> kittesi,"
+msgid ""
+"<span class=\"var\" title=\"samaṇānameva (bj, s2, s3, pts1-2)\" id=\"note86\""
+">Samaṇāneva</span> kittesi,"
 msgstr "You only praise recluses"
 
 #. <br>
 msgctxt "thig13.2:4.4"
-msgid "<span class=\"var\" title=\"samaṇī nu (mr)\" id=\"note87\">samaṇī nūna</span> bhavissasi."
+msgid ""
+"<span class=\"var\" title=\"samaṇī nu (mr)\" id=\"note87\">samaṇī nūna</span>"
+" bhavissasi."
 msgstr "Surely you’ll be a recluse"
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
@@ -64,7 +73,9 @@ msgstr "To recluses"
 
 #. <br>
 msgctxt "thig13.2:5.2"
-msgid "samaṇānaṃ <span class=\"var\" title=\"payacchasi (bj) | pavecchasi (s2, s3, pts1-2)\" id=\"note88\">paveccasi</span>;"
+msgid ""
+"samaṇānaṃ <span class=\"var\" title=\"payacchasi (bj) | pavecchasi (s2, s3, "
+"pts1-2)\" id=\"note88\">paveccasi</span>;"
 msgstr "You provide abundant food and drink"
 
 #. <br>
@@ -117,7 +128,7 @@ msgstr "Now I’ll explain "
 #. <br>
 msgctxt "thig13.2:7.4"
 msgid "paññāsīlaparakkamaṃ."
-msgstr "Their wisdom, virtue and exertion"
+msgstr "Their wisdom, virtue, and vigor"
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc275"></a><a class="verse-num-pts" id="verse-num-pts275"></a>
@@ -195,7 +206,9 @@ msgstr "Pure inside and out"
 
 #. <br>
 msgctxt "thig13.2:11.3"
-msgid "Puṇṇā <span class=\"var\" title=\"sukkehi dhammehi (bj, s2, s3)\" id=\"note89\">sukkāna dhammānaṃ</span>,"
+msgid ""
+"Puṇṇā <span class=\"var\" title=\"sukkehi dhammehi (bj, s2, s3)\" id=\""
+"note89\">sukkāna dhammānaṃ</span>,"
 msgstr "Full of good qualities:"
 
 #. <br>
@@ -254,7 +267,7 @@ msgstr "Travelling far, mindful"
 #. <br>
 msgctxt "thig13.2:14.2"
 msgid "mantabhāṇī anuddhatā;"
-msgstr "Wise in counsel and steady;"
+msgstr "thoughtful in counsel, and stable;"
 
 #. <br>
 msgctxt "thig13.2:14.3"
@@ -343,7 +356,9 @@ msgstr "From various families, various countries"
 
 #. <br>
 msgctxt "thig13.2:18.3"
-msgid "Aññamaññaṃ <span class=\"var\" title=\"pihayanti (mr)\" id=\"note90\">piyāyanti</span>,"
+msgid ""
+"Aññamaññaṃ <span class=\"var\" title=\"pihayanti (mr)\" id=\"note90\""
+">piyāyanti</span>,"
 msgstr "They’re all beloved to each other:"
 
 #. <br>
@@ -355,7 +370,7 @@ msgstr "That’s why recluses are dear to me.”"
 #. id="verse-num-sc286"></a><a class="verse-num-pts" id="verse-num-pts286"></a>
 msgctxt "thig13.2:19.1"
 msgid "“Atthāya vata no bhoti,"
-msgstr "“Madam, truly for our sake"
+msgstr "“Madam, it was truly for our benefit"
 
 #. <br>
 msgctxt "thig13.2:19.2"
@@ -406,7 +421,9 @@ msgstr "it will be abundant.”"
 
 #. <br>
 msgctxt "thig13.2:21.3"
-msgid "<a class=\"verse-num-pts\" id=\"verse-num-pts288\"></a>“Sace bhāyasi dukkhassa,"
+msgid ""
+"<a class=\"verse-num-pts\" id=\"verse-num-pts288\"></a>“Sace bhāyasi "
+"dukkhassa,"
 msgstr "“If you fear suffering"
 
 #. <br>
@@ -478,10 +495,13 @@ msgid "vedagū camhi nhātako”."
 msgstr "I’ve realized the highest knowledge, I’ve bathed”"
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="22"></a>
+#, fuzzy
 msgctxt "thig13.2:25.1"
 msgid "…"
-msgstr ""
+msgstr "…"
 
 msgctxt "thig13.2:25.2"
-msgid "<span class=\"var\" title=\"rohiṇī (bj, s2, s3, pts1-2)\" id=\"note91\">Rohinī</span> therī …."
+msgid ""
+"<span class=\"var\" title=\"rohiṇī (bj, s2, s3, pts1-2)\" id=\"note91\""
+">Rohinī</span> therī …."
 msgstr ""

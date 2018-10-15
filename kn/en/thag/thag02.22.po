@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.22.po\n"
-"X-Pootle-Revision: 7947\n"
+"X-Pootle-Revision: 73474\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,34 +21,34 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.22:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.22:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.22:3.1"
 msgid "Tatiyavagga"
-msgstr ""
+msgstr "Chapter Three"
 
 #. </p><h1>
 msgctxt "thag2.22:4.1"
 msgid "2.22. Bhaddajittheragāthā"
-msgstr ""
+msgstr "2.22. Bhaddaji"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc163"></a><a class="verse-num-pts"
 #. id="verse-num-pts163"></a>
 msgctxt "thag2.22:5.1"
 msgid "“Panādo nāma so rājā,"
-msgstr "That king was named Panāda,"
+msgstr "There was a king was named Panāda"
 
 #. <br>
 msgctxt "thag2.22:5.2"
 msgid "yassa yūpo suvaṇṇayo;"
-msgstr "Whose sacrificial post was golden."
+msgstr "who had a sacrificial post all golden."
 
 #. <br>
 msgctxt "thag2.22:5.3"
@@ -62,7 +62,7 @@ msgctxt "thag2.22:5.4"
 msgid ""
 "<span class=\"var\" title=\"uddhamāhu (bj) | uccamāhu (s2, s3)\" id=\""
 "note109\">ubbhamāhu</span> sahassadhā."
-msgstr "And the top was a thousand-fold."
+msgstr "and the top was a thousand-fold."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc164"></a><a class="verse-num-pts" id="verse-num-pts164"></a>
@@ -71,28 +71,27 @@ msgid ""
 "<span class=\"var\" title=\"sahassakaṇḍu (pts1)\" id=\"note110\""
 ">Sahassakaṇḍo</span> <span class=\"var\" title=\"satabheṇḍu (bj, pts1)\" id="
 "\"note111\">satageṇḍu</span>,"
-msgstr "With a thousand panels, and a hundred ball-caps,"
+msgstr "It had thousand panels and a hundred ball-caps,"
 
 #. <br>
 msgctxt "thag2.22:6.2"
 msgid "dhajālu haritāmayo;"
-msgstr "Adorned with banners, made of gold;"
+msgstr "all adorned with banners, and made of gold."
 
 #. <br>
 msgctxt "thag2.22:6.3"
 msgid "Anaccuṃ tattha gandhabbā,"
-msgstr "There, the seven times six hundred"
+msgstr "There danced the fairies,"
 
 #. <br>
 msgctxt "thag2.22:6.4"
 msgid "chasahassāni sattadhā”ti."
-msgstr "Gods of music danced."
+msgstr "numbering seven times six thousand."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.22:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.22:7.2"
 msgid "Bhaddajitthero …."

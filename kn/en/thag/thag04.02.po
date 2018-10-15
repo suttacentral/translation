@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag04.02.po\n"
-"X-Pootle-Revision: 8037\n"
+"X-Pootle-Revision: 86316\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag4.2:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag4.2:2.1"
 msgid "Catukkanipāta"
-msgstr ""
+msgstr "The Book of the Fours"
 
 #. </p><p>
 msgctxt "thag4.2:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag4.2:4.1"
 msgid "4.2. Bhaguttheragāthā"
-msgstr ""
+msgstr "4.2. Bhagu"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc271"></a><a class="verse-num-pts"
@@ -48,12 +48,12 @@ msgstr "Overwhelmed by drowsiness,"
 #. <br>
 msgctxt "thag4.2:5.2"
 msgid "vihārā upanikkhamiṃ;"
-msgstr "I came out of my dwelling;"
+msgstr "I left my dwelling."
 
 #. <br>
 msgctxt "thag4.2:5.3"
 msgid "Caṅkamaṃ abhiruhanto,"
-msgstr "Stepping up on to the walking meditation path,"
+msgstr "Stepping up to the path for walking meditation,"
 
 #. <br>
 msgctxt "thag4.2:5.4"
@@ -69,7 +69,7 @@ msgstr "I rubbed my limbs, and again"
 #. <br>
 msgctxt "thag4.2:6.2"
 msgid "punapāruyha caṅkamaṃ;"
-msgstr "I stepped up on to the walking meditation path."
+msgstr "I stepped up on the path for walking meditation."
 
 #. <br>
 msgctxt "thag4.2:6.3"
@@ -79,7 +79,7 @@ msgstr "I walked meditation up and down the path,"
 #. <br>
 msgctxt "thag4.2:6.4"
 msgid "ajjhattaṃ susamāhito."
-msgstr "Serene inside myself."
+msgstr "serene inside myself."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc273"></a><a class="verse-num-pts" id="verse-num-pts273"></a>
@@ -90,28 +90,28 @@ msgstr "Then the realization"
 #. <br>
 msgctxt "thag4.2:7.2"
 msgid "yoniso udapajjatha;"
-msgstr "Came upon me—"
+msgstr "came upon me—"
 
 #. <br>
 msgctxt "thag4.2:7.3"
 msgid "Ādīnavo pāturahu,"
-msgstr "The danger became clear,"
+msgstr "the danger became clear,"
 
 #. <br>
 msgctxt "thag4.2:7.4"
 msgid "nibbidā samatiṭṭhatha."
-msgstr "And I was firmly repulsed."
+msgstr "and I grew firmly disillusioned."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc274"></a><a class="verse-num-pts" id="verse-num-pts274"></a>
 msgctxt "thag4.2:8.1"
 msgid "Tato cittaṃ vimucci me,"
-msgstr "Then my mind was liberated—"
+msgstr "Then my mind was freed—"
 
 #. <br>
 msgctxt "thag4.2:8.2"
 msgid "passa dhammasudhammataṃ;"
-msgstr "See the excellence of the Dhamma!"
+msgstr "see the excellence of the teaching!"
 
 #. <br>
 msgctxt "thag4.2:8.3"
@@ -121,13 +121,12 @@ msgstr "I’ve attained the three knowledges,"
 #. <br>
 msgctxt "thag4.2:8.4"
 msgid "kataṃ buddhassa sāsanan”ti."
-msgstr "And fulfilled the Buddha’s instructions."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag4.2:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag4.2:9.2"
 msgid "Bhagutthero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag06.11.po\n"
-"X-Pootle-Revision: 8103\n"
+"X-Pootle-Revision: 84668\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,60 +21,60 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag6.11:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag6.11:2.1"
 msgid "Chakkanipāta"
-msgstr ""
+msgstr "The Book of the Sixes"
 
 #. </p><p>
 msgctxt "thag6.11:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag6.11:4.1"
 msgid "6.11. Nhātakamunittheragāthā"
-msgstr ""
+msgstr "6.11. Nhātakamuni"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc435"></a><a class="verse-num-pts"
 #. id="verse-num-pts435"></a>
 msgctxt "thag6.11:5.1"
 msgid "“Vātarogābhinīto tvaṃ,"
-msgstr "“Struck by a wind ailment,"
+msgstr "“Struck by a wind ailment"
 
 #. <br>
 msgctxt "thag6.11:5.2"
 msgid "viharaṃ kānane vane;"
-msgstr "While staying in a forest grove;"
+msgstr "while dwelling in a forest grove,"
 
 #. <br>
 msgctxt "thag6.11:5.3"
 msgid "Paviddhagocare lūkhe,"
-msgstr "You’ve gone into a tough place for gathering alms:"
+msgstr "you’ve entered a tough place for gathering alms—"
 
 #. <br>
 msgctxt "thag6.11:5.4"
 msgid "kathaṃ bhikkhu karissasi”."
-msgstr "How will you get by, monk?”"
+msgstr "how will you get by, monk?”"
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc436"></a><a class="verse-num-pts" id="verse-num-pts436"></a>
 msgctxt "thag6.11:6.1"
 msgid "“Pītisukhena vipulena,"
-msgstr "“Pervading my body"
+msgstr "“Pervading this bag of bones"
 
 #. <br>
 msgctxt "thag6.11:6.2"
 msgid "pharitvāna samussayaṃ;"
-msgstr "With lots of rapture and happiness,"
+msgstr "with abundant rapture and happiness,"
 
 #. <br>
 msgctxt "thag6.11:6.3"
 msgid "Lūkhampi abhisambhonto,"
-msgstr "Putting up with what’s tough,"
+msgstr "putting up with what’s tough,"
 
 #. <br>
 msgctxt "thag6.11:6.4"
@@ -85,19 +85,19 @@ msgstr "I’ll dwell in the forest."
 #. id="verse-num-sc437"></a><a class="verse-num-pts" id="verse-num-pts437"></a>
 msgctxt "thag6.11:7.1"
 msgid "Bhāvento satta bojjhaṅge,"
-msgstr "Developing the seven factors of awakening,"
+msgstr "Developing the seven awakening factors,"
 
 #. <br>
 msgctxt "thag6.11:7.2"
 msgid "indriyāni balāni ca;"
-msgstr "The faculties and the powers,"
+msgstr "the faculties and the powers,"
 
 #. <br>
 msgctxt "thag6.11:7.3"
 msgid ""
 "<span class=\"var\" title=\"jhānasukhumasampanno (s2, s3, mr)\" id=\""
 "note222\">Jhānasokhummasampanno</span>,"
-msgstr "Endowed with subtle jhānas,"
+msgstr "endowed with subtle absorptions,"
 
 #. <br>
 msgctxt "thag6.11:7.4"
@@ -108,12 +108,12 @@ msgstr "I’ll dwell without defilements."
 #. id="verse-num-sc438"></a><a class="verse-num-pts" id="verse-num-pts438"></a>
 msgctxt "thag6.11:8.1"
 msgid "Vippamuttaṃ kilesehi,"
-msgstr "Freed from stains,"
+msgstr "Freed from corruptions,"
 
 #. <br>
 msgctxt "thag6.11:8.2"
 msgid "suddhacittaṃ anāvilaṃ;"
-msgstr "My pure mind is undisturbed;"
+msgstr "my pure mind is unclouded."
 
 #. <br>
 msgctxt "thag6.11:8.3"
@@ -123,7 +123,7 @@ msgstr "Frequently reviewing this,"
 #. <br>
 msgctxt "thag6.11:8.4"
 msgid "viharissaṃ anāsavo."
-msgstr "I’ll dwell without defilements."
+msgstr "I’ll meditate without defilements."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc439"></a><a class="verse-num-pts" id="verse-num-pts439"></a>
@@ -134,44 +134,43 @@ msgstr "Those defilements that were found in me,"
 #. <br>
 msgctxt "thag6.11:9.2"
 msgid "ye me vijjiṃsu āsavā;"
-msgstr "Internally and externally,"
+msgstr "internally and externally,"
 
 #. <br>
 msgctxt "thag6.11:9.3"
 msgid "Sabbe asesā ucchinnā,"
-msgstr "Are all cut off without remainder,"
+msgstr "are all cut off without remainder,"
 
 #. <br>
 msgctxt "thag6.11:9.4"
 msgid "na ca uppajjare puna."
-msgstr "And will not arise again."
+msgstr "and will not arise again."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc440"></a><a class="verse-num-pts" id="verse-num-pts440"></a>
 msgctxt "thag6.11:10.1"
 msgid "Pañcakkhandhā pariññātā,"
-msgstr "The five aggregates are fully understood;"
+msgstr "The five aggregates are fully understood,"
 
 #. <br>
 msgctxt "thag6.11:10.2"
 msgid "tiṭṭhanti chinnamūlakā;"
-msgstr "They remain with their root cut off."
+msgstr "they remain, but their root is cut."
 
 #. <br>
 msgctxt "thag6.11:10.3"
 msgid "Dukkhakkhayo anuppatto,"
-msgstr "I have attained the ending of suffering,"
+msgstr "I have reached the ending of suffering,"
 
 #. <br>
 msgctxt "thag6.11:10.4"
 msgid "natthi dāni punabbhavo”ti."
-msgstr "Now there is no more rebirth into any state of existence.”"
+msgstr "now there are no more future lives."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag6.11:11.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag6.11:11.2"
 msgid "Nhātakamunitthero …."

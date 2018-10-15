@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.09.po\n"
-"X-Pootle-Revision: 7921\n"
+"X-Pootle-Revision: 73461\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.9:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.9:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.9:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag2.9:4.1"
 msgid "2.9. Gotamattheragāthā"
-msgstr ""
+msgstr "2.9. Gotama"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc137"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "Sages sleep happily"
 #. <br>
 msgctxt "thag2.9:5.2"
 msgid "ye itthīsu na bajjhare;"
-msgstr "When they’re not attached to women;"
+msgstr "when they’re not bound to women."
 
 #. <br>
 msgctxt "thag2.9:5.3"
 msgid "Sadā ve rakkhitabbāsu,"
-msgstr "For the truth is hard to find among them,"
+msgstr "For the truth is hard to find among them"
 
 #. <br>
 msgctxt "thag2.9:5.4"
 msgid "yāsu saccaṃ sudullabhaṃ."
-msgstr "And one must always be guarded."
+msgstr "and one must always be guarded."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc138"></a><a class="verse-num-pts" id="verse-num-pts138"></a>
@@ -74,18 +74,17 @@ msgstr "We’re not in your debt any more."
 #. <br>
 msgctxt "thag2.9:6.3"
 msgid "Gacchāma dāni nibbānaṃ,"
-msgstr "Now we go to nibbāna,"
+msgstr "Now we go to quenching,"
 
 #. <br>
 msgctxt "thag2.9:6.4"
 msgid "yattha gantvā na socatī”ti."
-msgstr "Where there is no more sorrow."
+msgstr "where there is no sorrow."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.9:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.9:7.2"
 msgid "Gotamo thero …."

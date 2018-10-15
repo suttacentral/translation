@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.082.po\n"
-"X-Pootle-Revision: 7827\n"
+"X-Pootle-Revision: 73414\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,52 +21,51 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.82:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.82:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.82:3.1"
 msgid "Navamavagga"
-msgstr ""
+msgstr "Chapter Nine"
 
 #. </p><h1>
 msgctxt "thag1.82:4.1"
 msgid "1.82. Kassapattheragāthā"
-msgstr ""
+msgstr "1.82. Kassapa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc82"></a><a class="verse-num-pts"
 #. id="verse-num-pts82"></a>
 msgctxt "thag1.82:5.1"
 msgid "“Yena yena subhikkhāni,"
-msgstr "Go, child,"
+msgstr "Go, child, to any place"
 
 #. <br>
 msgctxt "thag1.82:5.2"
 msgid "sivāni abhayāni ca;"
-msgstr "Where there’s plenty of food,"
+msgstr "where there’s plenty of food,"
 
 #. <br>
 msgctxt "thag1.82:5.3"
 msgid "Tena puttaka gacchassu,"
-msgstr "Safe and fearless—"
+msgstr "where it’s safe and free of peril—"
 
 #. <br>
 msgctxt "thag1.82:5.4"
 msgid ""
 "mā <span class=\"var\" title=\"sokā pahato (s2, s3, pts1)\" id=\"note60\""
 ">sokāpahato</span> bhavā”ti."
-msgstr "May you not be overcome by sorrow!"
+msgstr "may you not be overcome by sorrow!"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.82:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.82:6.2"
 msgid "Kassapo thero …."

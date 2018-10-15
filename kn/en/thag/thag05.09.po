@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag05.09.po\n"
-"X-Pootle-Revision: 8075\n"
+"X-Pootle-Revision: 57842\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag5.9:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag5.9:2.1"
 msgid "Pañcakanipāta"
-msgstr ""
+msgstr "The Book of the Fives"
 
 #. </p><p>
 msgctxt "thag5.9:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag5.9:4.1"
 msgid "5.9. Vijitasenattheragāthā"
-msgstr ""
+msgstr "5.9. Vijitasena"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc355"></a><a class="verse-num-pts"
@@ -48,12 +48,12 @@ msgstr "I’ll cage you, mind,"
 #. <br>
 msgctxt "thag5.9:5.2"
 msgid "āṇidvāreva hatthinaṃ;"
-msgstr "Like an elephant in a stockade."
+msgstr "like an elephant in a stockade."
 
 #. <br>
 msgctxt "thag5.9:5.3"
 msgid "Na taṃ pāpe niyojessaṃ,"
-msgstr "Born of the flesh, that net of sensual pleasures,"
+msgstr "Born of the flesh, that net of the senses,"
 
 #. <br>
 msgctxt "thag5.9:5.4"
@@ -68,12 +68,12 @@ msgstr "I won’t urge you to do bad."
 #. id="verse-num-pts356"></a><a class="pts" id="pts40"></a>
 msgctxt "thag5.9:6.1"
 msgid "Tvaṃ olaggo na gacchasi,"
-msgstr "Caged, you won’t escape,"
+msgstr "Caged, you won’t go anywhere,"
 
 #. <br>
 msgctxt "thag5.9:6.2"
 msgid "Dvāravivaraṃ gajova alabhanto;"
-msgstr "Like an elephant who can’t find an open gate."
+msgstr "like an elephant who can’t find an open gate."
 
 #. <br>
 msgctxt "thag5.9:6.3"
@@ -85,28 +85,28 @@ msgctxt "thag5.9:6.4"
 msgid ""
 "<span class=\"var\" title=\"pasahaṃ (bj, s2, s3, pts1-2)\" id=\"note198\""
 ">Pasakka</span> pāparato carissasi."
-msgstr "Bullying, and loving to do bad."
+msgstr "bullying, in love with wickedness."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc357"></a><a class="verse-num-pts" id="verse-num-pts357"></a>
 msgctxt "thag5.9:7.1"
 msgid "Yathā kuñjaraṃ adantaṃ,"
-msgstr "Just as a strong trainer with a hook,"
+msgstr "Just as a strong trainer with a hook"
 
 #. <br>
 msgctxt "thag5.9:7.2"
 msgid "Navaggahamaṅkusaggaho;"
-msgstr "Takes a wild, newly captured elephant"
+msgstr "takes a wild, newly captured elephant"
 
 #. <br>
 msgctxt "thag5.9:7.3"
 msgid "Balavā āvatteti akāmaṃ,"
-msgstr "And wins it over against its will,"
+msgstr "and wins it over against its will,"
 
 #. <br>
 msgctxt "thag5.9:7.4"
 msgid "Evaṃ āvattayissaṃ taṃ."
-msgstr "So I’ll win you over."
+msgstr "so I’ll win you over."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc358"></a><a class="verse-num-pts" id="verse-num-pts358"></a>
@@ -117,47 +117,47 @@ msgstr "Just as a fine charioteer, skilled in the taming"
 #. <br>
 msgctxt "thag5.9:8.2"
 msgid "Sārathi pavaro dameti ājaññaṃ;"
-msgstr "Of fine horses, tames a thoroughbred,"
+msgstr "of fine horses, tames a thoroughbred,"
 
 #. <br>
 msgctxt "thag5.9:8.3"
 msgid "Evaṃ damayissaṃ taṃ,"
-msgstr "So I’ll tame you,"
+msgstr "so I’ll tame you,"
 
 #. <br>
 msgctxt "thag5.9:8.4"
 msgid "Patiṭṭhito pañcasu balesu."
-msgstr "Firmly established in the five powers."
+msgstr "firmly established in the five powers."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc359"></a><a class="verse-num-pts" id="verse-num-pts359"></a>
 msgctxt "thag5.9:9.1"
 msgid "Satiyā taṃ nibandhissaṃ,"
-msgstr "I’ll bind you with mindfulness,"
+msgstr "I’ll bind you with mindfulness;"
 
+# See Norman's note on this line.
 #. <br>
 msgctxt "thag5.9:9.2"
 msgid ""
 "<span class=\"var\" title=\"payatatto vo dapessāmi (bj, pts2) | payatatto te "
 "damissāmi (s2, s3) | payatatto vo damessāmi (pts1)\" id=\"note199\">Payutto "
 "te damessāmi</span>;"
-msgstr "I’m committed to taming you;"
+msgstr "devout, I shall tame you;"
 
 #. <br>
 msgctxt "thag5.9:9.3"
 msgid "Vīriyadhuraniggahito,"
-msgstr "Restrained by harnessed energy,"
+msgstr "kept in check by harnessed energy,"
 
 #. <br>
 msgctxt "thag5.9:9.4"
 msgid "Na yito dūraṃ gamissase cittā”ti."
-msgstr "Mind, you won’t go far from here."
+msgstr "mind, you won’t go far from here."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag5.9:10.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag5.9:10.2"
 msgid "Vijitaseno thero …."

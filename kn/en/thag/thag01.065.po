@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.065.po\n"
-"X-Pootle-Revision: 7793\n"
+"X-Pootle-Revision: 73397\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,24 +21,24 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.65:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.65:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.65:3.1"
 msgid "Sattamavagga"
-msgstr ""
+msgstr "Chapter Seven"
 
 #. </p><h1>
 msgctxt "thag1.65:4.1"
 msgid ""
 "<span class=\"var\" title=\"upekkhapakaṭavacchattheragāthā (bj)\" id=\""
 "note49\">1.65 Ukkhepakatavacchattheragāthā</span>"
-msgstr ""
+msgstr "1.65. Ukkhepakatavaccha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc65"></a><a class="verse-num-pts"
@@ -50,7 +50,7 @@ msgstr "Vaccha has tossed away"
 #. <br>
 msgctxt "thag1.65:5.2"
 msgid "Saṅkalitaṃ bahūhi vassehi;"
-msgstr "What he built over many years."
+msgstr "what he built over many years."
 
 #. <br>
 msgctxt "thag1.65:5.3"
@@ -60,13 +60,12 @@ msgstr "Sitting comfortably, uplifted with joy,"
 #. <br>
 msgctxt "thag1.65:5.4"
 msgid "Sunisinno uḷārapāmojjo”ti."
-msgstr "He teaches this to householders."
+msgstr "he teaches this to householders."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.65:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.65:6.2"
 msgid ""

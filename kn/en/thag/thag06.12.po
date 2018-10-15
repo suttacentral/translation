@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag06.12.po\n"
-"X-Pootle-Revision: 8105\n"
+"X-Pootle-Revision: 73119\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag6.12:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag6.12:2.1"
 msgid "Chakkanipāta"
-msgstr ""
+msgstr "The Book of the Sixes"
 
 #. </p><p>
 msgctxt "thag6.12:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag6.12:4.1"
 msgid "6.12. Brahmadattattheragāthā"
-msgstr ""
+msgstr "6.12. Brahmadatta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag6.12:5.1"
@@ -44,7 +44,7 @@ msgid ""
 "<span class=\"cross\" title=\"^sn7.2#1 [2. Akkosasutta]\" id=\"note223\""
 ">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc441\"></a><a class"
 "=\"verse-num-pts\" id=\"verse-num-pts441\"></a>“Akkodhassa kuto kodho,"
-msgstr "For one without anger, tamed, living simply,"
+msgstr "For one free of anger, tamed, living in balance,"
 
 #. <br>
 msgctxt "thag6.12:5.2"
@@ -110,7 +110,7 @@ msgstr "if you’re mindful and stay calm."
 #. id="verse-num-sc444"></a><a class="verse-num-pts" id="verse-num-pts444"></a>
 msgctxt "thag6.12:8.1"
 msgid "Ubhinnaṃ tikicchantaṃ taṃ,"
-msgstr "People unskilled in Dhamma"
+msgstr "People unfamiliar with the teaching"
 
 #. <br>
 msgctxt "thag6.12:8.2"
@@ -138,44 +138,43 @@ msgstr "If anger arises in you,"
 #. <br>
 msgctxt "thag6.12:9.2"
 msgid "āvajja kakacūpamaṃ;"
-msgstr "Reflect on the simile of the saw;"
+msgstr "reflect on the simile of the saw;"
 
 #. <br>
 msgctxt "thag6.12:9.3"
 msgid "Uppajje ce rase taṇhā,"
-msgstr "If craving for flavours arises in you,"
+msgstr "if craving for flavours arises in you,"
 
 #. <br>
 msgctxt "thag6.12:9.4"
 msgid "puttamaṃsūpamaṃ sara."
-msgstr "Remember the simile of the son’s flesh."
+msgstr "remember the simile of the child’s flesh."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc446"></a><a class="verse-num-pts" id="verse-num-pts446"></a>
 msgctxt "thag6.12:10.1"
 msgid "Sace dhāvati cittaṃ te,"
-msgstr "If your mind runs"
+msgstr "If your mind runs off"
 
 #. <br>
 msgctxt "thag6.12:10.2"
 msgid "kāmesu ca bhavesu ca;"
-msgstr "Among sensual pleasures and rebirth in various states of existence,"
+msgstr "to sensual pleasures and future lives,"
 
 #. <br>
 msgctxt "thag6.12:10.3"
 msgid "Khippaṃ niggaṇha satiyā,"
-msgstr "Quickly curb it with mindfulness,"
+msgstr "quickly curb it with mindfulness,"
 
 #. <br>
 msgctxt "thag6.12:10.4"
 msgid "kiṭṭhādaṃ viya duppasun”ti."
-msgstr "As one would curb a greedy cow eating corn."
+msgstr "as one would curb a greedy cow eating corn."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag6.12:11.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag6.12:11.2"
 msgid "Brahmadatto thero …."

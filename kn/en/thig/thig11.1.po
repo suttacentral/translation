@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thig/thig11.1.po\n"
-"X-Pootle-Revision: 8319\n"
+"X-Pootle-Revision: 75995\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -98,7 +98,7 @@ msgstr "I went forth in Rājagaha"
 #. <br>
 msgctxt "thig11.1:6.4"
 msgid "agārasmānagāriyaṃ."
-msgstr "From home life into homelessness"
+msgstr "From the lay life into homelessness"
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc227"></a><a class="verse-num-pts" id="verse-num-pts227"></a>
@@ -281,7 +281,7 @@ msgstr "This delight is defeated everywhere"
 #. <br>
 msgctxt "thig11.1:15.2"
 msgid "Tamokhandho padālito;"
-msgstr "I put an end to the mass of darkness"
+msgstr "I shattered the mass of darkness"
 
 #. <br>
 msgctxt "thig11.1:15.3"
@@ -291,7 +291,7 @@ msgstr "So know this evil one:"
 #. <br>
 msgctxt "thig11.1:15.4"
 msgid "Nihato tvamasi antakā”ti."
-msgstr "You're defeated, ended"
+msgstr "You're beaten, ended"
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="13"></a>
 #, fuzzy
@@ -306,4 +306,4 @@ msgstr ""
 #. </p><p class="endsection"><a class="sc" id="14"></a>
 msgctxt "thig11.1:17.1"
 msgid "Dvādasakanipāto niṭṭhito."
-msgstr ""
+msgstr "The Book of the Twelves is finished."

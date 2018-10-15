@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.090.po\n"
-"X-Pootle-Revision: 7843\n"
+"X-Pootle-Revision: 73422\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.90:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.90:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.90:3.1"
 msgid "Navamavagga"
-msgstr ""
+msgstr "Chapter Nine"
 
 #. </p><h1>
 msgctxt "thag1.90:4.1"
 msgid "1.90. Sāmidattattheragāthā"
-msgstr ""
+msgstr "1.90. Sāmidatta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc90"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "The five aggregates are fully understood;"
 #. <br>
 msgctxt "thag1.90:5.2"
 msgid "tiṭṭhanti chinnamūlakā;"
-msgstr "They remain with the root cut off."
+msgstr "they remain, but their root is cut."
 
 #. <br>
 msgctxt "thag1.90:5.3"
@@ -58,13 +58,12 @@ msgstr "Transmigration is finished,"
 #. <br>
 msgctxt "thag1.90:5.4"
 msgid "natthi dāni punabbhavo”ti."
-msgstr "Now there is no more rebirth into any state of existence."
+msgstr "now there are no more future lives."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.90:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.90:6.2"
 msgid "Sāmidatto thero …."

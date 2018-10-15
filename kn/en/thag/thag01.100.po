@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.100.po\n"
-"X-Pootle-Revision: 7863\n"
+"X-Pootle-Revision: 73432\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.100:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.100:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.100:3.1"
 msgid "Dasamavagga"
-msgstr ""
+msgstr "Chapter Ten"
 
 #. </p><h1>
 msgctxt "thag1.100:4.1"
 msgid "1.100. (Dutiya) Devasabhattheragāthā"
-msgstr ""
+msgstr "1.100. Devasabha (2nd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc100"></a><a class="verse-num-pts"
@@ -48,25 +48,24 @@ msgstr "Accomplished in the four right efforts,"
 #. <br>
 msgctxt "thag1.100:5.2"
 msgid "Satipaṭṭhānagocaro;"
-msgstr "With establishment of mindfulness as your safe place,"
+msgstr "mindfulness meditation is your territory;"
 
 #. <br>
 msgctxt "thag1.100:5.3"
 msgid "Vimuttikusumasañchanno,"
-msgstr "Festooned with the flowers of liberation,"
+msgstr "festooned with the flowers of liberation,"
 
 #. <br>
 msgctxt "thag1.100:5.4"
 msgid ""
 "<span class=\"var\" title=\"parinibbāyissatyanāsavoti (s2, s3) | "
 "parinibbātyanāsavoti (pts2)\" id=\"note69\">Parinibbissatyanāsavo”ti</span>."
-msgstr "You’ll realise nibbāna without defilements."
+msgstr "you’ll realise quenching without defilements."
 
 #. </p></blockquote><p class="endsutta"><a class="pts" id="pts15"></a>
-#, fuzzy
 msgctxt "thag1.100:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.100:6.2"
 msgid "Devasabho thero …."

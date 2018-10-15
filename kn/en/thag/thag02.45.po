@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.45.po\n"
-"X-Pootle-Revision: 7993\n"
+"X-Pootle-Revision: 79966\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.45:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.45:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.45:3.1"
 msgid "Pañcamavagga"
-msgstr ""
+msgstr "Chapter Five"
 
 #. </p><h1>
 msgctxt "thag2.45:4.1"
 msgid "2.45. Visākhapañcālaputtattheragāthā"
-msgstr ""
+msgstr "2.45. Visākhapañcālaputta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc209"></a><a class="verse-num-pts"
@@ -51,7 +51,7 @@ msgstr ""
 msgctxt "thag2.45:5.2"
 msgid "Na okkhipe pāragataṃ na eraye;"
 msgstr ""
-"And neither disparage nor raise one’s voice against one who has crossed to "
+"and neither disparage nor raise one’s voice against one who has crossed to "
 "the further shore."
 
 #. <br>
@@ -64,7 +64,7 @@ msgstr "One should not praise oneself among the assemblies,"
 #. <br>
 msgctxt "thag2.45:5.4"
 msgid "Anuddhato sammitabhāṇi subbato."
-msgstr "But be without conceit, measured in speech, and true to your vows."
+msgstr "but be stable, measured in speech, and true to your vows."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc210"></a><a class="verse-num-pts" id="verse-num-pts210"></a>
@@ -75,23 +75,22 @@ msgstr "For one who sees the goal, so very subtle and fine,"
 #. <br>
 msgctxt "thag2.45:6.2"
 msgid "Matikusalena nivātavuttinā;"
-msgstr "Who has wholesome thoughts and humbleness,"
+msgstr "who is skilled in thought and humble in manner,"
 
 #. <br>
 msgctxt "thag2.45:6.3"
 msgid "Saṃsevitavuddhasīlinā,"
-msgstr "And cultivates the Buddha’s ethical conduct,"
+msgstr "who has cultivated mature ethics—"
 
 #. <br>
 msgctxt "thag2.45:6.4"
 msgid "Nibbānaṃ na hi tena dullabhan”ti."
-msgstr "It’s not hard to gain nibbāna."
+msgstr "it’s not hard to gain extinguishment."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.45:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.45:7.2"
 msgid ""

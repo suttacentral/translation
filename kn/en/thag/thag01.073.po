@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.073.po\n"
-"X-Pootle-Revision: 7809\n"
+"X-Pootle-Revision: 73405\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,34 +21,34 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.73:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.73:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.73:3.1"
 msgid "Aṭṭhamavagga"
-msgstr ""
+msgstr "Chapter Eight"
 
 #. </p><h1>
 msgctxt "thag1.73:4.1"
 msgid "1.73. Māṇavattheragāthā"
-msgstr ""
+msgstr "1.73. Māṇava"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc73"></a><a class="verse-num-pts"
 #. id="verse-num-pts73"></a>
 msgctxt "thag1.73:5.1"
 msgid "“Jiṇṇañca disvā dukhitañca byādhitaṃ,"
-msgstr "Seeing an old person, one suffering from disease,"
+msgstr "Seeing an old person, and one suffering from disease,"
 
 #. <br>
 msgctxt "thag1.73:5.2"
 msgid "Matañca disvā gatamāyusaṅkhayaṃ;"
-msgstr "And a corpse, come to the end of life,"
+msgstr "and a corpse come to the end of life,"
 
 #. <br>
 msgctxt "thag1.73:5.3"
@@ -58,13 +58,12 @@ msgstr "I went forth, becoming a wanderer,"
 #. <br>
 msgctxt "thag1.73:5.4"
 msgid "Pahāya kāmāni manoramānī”ti."
-msgstr "And abandoning the pleasures of the senses."
+msgstr "and giving up the pleasures of the senses."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.73:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.73:6.2"
 msgid "Māṇavo thero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag03.13.po\n"
-"X-Pootle-Revision: 8027\n"
+"X-Pootle-Revision: 73514\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,34 +21,34 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.13:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.13:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.13:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.13:4.1"
 msgid "3.13. Abhibhūtattheragāthā"
-msgstr ""
+msgstr "3.13. Abhibhūta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc255"></a><a class="verse-num-pts"
 #. id="verse-num-pts255"></a>
 msgctxt "thag3.13:5.1"
 msgid "“Suṇātha ñātayo sabbe,"
-msgstr "All my family gathered here,"
+msgstr "Listen up, all my relatives,"
 
 #. <br>
 msgctxt "thag3.13:5.2"
 msgid "yāvantettha samāgatā;"
-msgstr "Listen to me,"
+msgstr "those who have gathered here:"
 
 #. <br>
 msgctxt "thag3.13:5.3"
@@ -58,7 +58,7 @@ msgstr "I’ll teach you Dhamma!"
 #. <br>
 msgctxt "thag3.13:5.4"
 msgid "dukkhā jāti punappunaṃ."
-msgstr "Being born again and again is suffering."
+msgstr "Painful is birth again and again."
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag3.13:6.1"
@@ -75,7 +75,7 @@ msgstr "Rouse yourselves, try harder!"
 #. <br>
 msgctxt "thag3.13:6.2"
 msgid "Yuñjatha buddhasāsane;"
-msgstr "Devote yourselves to the teachings of the Buddha!"
+msgstr "Devote yourselves to the instructions of the Buddha!"
 
 #. <br>
 msgctxt "thag3.13:6.3"
@@ -85,36 +85,35 @@ msgstr "Crush the army of death,"
 #. <br>
 msgctxt "thag3.13:6.4"
 msgid "Naḷāgāraṃva kuñjaro."
-msgstr "Like an elephant crushes a hut of reeds."
+msgstr "as an elephant a hut of reeds."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc257"></a><a class="verse-num-pts" id="verse-num-pts257"></a>
 msgctxt "thag3.13:7.1"
 msgid "Yo imasmiṃ dhammavinaye,"
-msgstr "Whoever will live heedfully"
+msgstr "Anyone who meditates diligently"
 
 #. <br>
 msgctxt "thag3.13:7.2"
 msgid ""
 "appamatto <span class=\"var\" title=\"vihessati (bj, s2, s3, pts1-2)\" id=\""
 "note165\">vihassati</span>;"
-msgstr "In this Dhamma and discipline,"
+msgstr "in this teaching and training,"
 
 #. <br>
 msgctxt "thag3.13:7.3"
 msgid "Pahāya jātisaṃsāraṃ,"
-msgstr "Will abandon transmigration through births,"
+msgstr "giving up transmigration,"
 
 #. <br>
 msgctxt "thag3.13:7.4"
 msgid "dukkhassantaṃ karissatī”ti."
-msgstr "And make an end to suffering."
+msgstr "will make an end to suffering."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag3.13:8.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag3.13:8.2"
 msgid "Abhibhūto thero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag05.03.po\n"
-"X-Pootle-Revision: 8063\n"
+"X-Pootle-Revision: 57555\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,92 +21,91 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag5.3:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag5.3:2.1"
 msgid "Pañcakanipāta"
-msgstr ""
+msgstr "The Book of the Fives"
 
 #. </p><p>
 msgctxt "thag5.3:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag5.3:4.1"
 msgid "5.3. Girimānandattheragāthā"
-msgstr ""
+msgstr "5.3. Girimānanda"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc325"></a><a class="verse-num-pts"
 #. id="verse-num-pts325"></a><a class="pts" id="pts38"></a>
 msgctxt "thag5.3:5.1"
 msgid "“Vassati devo yathā sugītaṃ,"
-msgstr "The sky rains down, like a beautiful song,"
+msgstr "The sky rains down, like a beautiful song;"
 
 #. <br>
 msgctxt "thag5.3:5.2"
 msgid "Channā me kuṭikā sukhā nivātā;"
-msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"
+msgstr "my little hut is ro­ofed and pleasant, sheltered from the wind;"
 
 #. <br>
 msgctxt "thag5.3:5.3"
 msgid "Tassaṃ viharāmi vūpasanto,"
-msgstr ""
-"Giving up restlessness and remorse, he meditates without restlessness, his "
-"mind settled inside, cleansing the mind of restlessness and remorse."
+msgstr "I meditate there, peaceful:"
 
 #. <br>
 msgctxt "thag5.3:5.4"
 msgid "Atha ce patthayasī pavassa deva."
-msgstr "So rain, sky, as you please."
+msgstr "so rain, sky, as you please."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc326"></a><a class="verse-num-pts" id="verse-num-pts326"></a>
 msgctxt "thag5.3:6.1"
 msgid "Vassati devo yathā sugītaṃ,"
-msgstr "The sky rains down, like a beautiful song, "
+msgstr "The sky rains down, like a beautiful song;"
 
 #. <br>
 msgctxt "thag5.3:6.2"
 msgid "Channā me kuṭikā sukhā nivātā;"
-msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"
+msgstr "my little hut is ro­ofed and pleasant, sheltered from the wind;"
 
 #. <br>
 msgctxt "thag5.3:6.3"
 msgid "Tassaṃ viharāmi santacitto,"
-msgstr "I dwell there, with peaceful mind:"
+msgstr "I meditate there, my mind at peace:"
 
 #. <br>
 msgctxt "thag5.3:6.4"
 msgid "Atha ce patthayasī pavassa deva."
-msgstr "So rain, sky, as you please. "
+msgstr "so rain, sky, as you please."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc327"></a><a class="verse-num-pts" id="verse-num-pts327"></a>
 msgctxt "thag5.3:7.1"
 msgid "Vassati devo,"
-msgstr "The sky rains down, like a beautiful song,"
+msgstr "The sky rains down, like a beautiful song;"
 
 #. <br>
 msgctxt "thag5.3:7.2"
 msgid "…"
-msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"
+msgstr "my little hut is ro­ofed and pleasant, sheltered from the wind;"
 
+#, fuzzy
 msgctxt "thag5.3:7.3"
 msgid "pe …"
-msgstr ""
+msgstr " "
 
 #. <br>
 msgctxt "thag5.3:7.4"
 msgid "tassaṃ viharāmi vītarāgo,"
-msgstr "I dwell there, free of lust:"
+msgstr "I meditate there, free of lust:"
 
 #. <br>
 msgctxt "thag5.3:7.5"
 msgid "…"
-msgstr "So rain, sky, as you please."
+msgstr "so rain, sky, as you please."
 
 msgctxt "thag5.3:7.6"
 msgid "pe …"
@@ -116,26 +115,27 @@ msgstr ""
 #. id="verse-num-sc328"></a><a class="verse-num-pts" id="verse-num-pts328"></a>
 msgctxt "thag5.3:8.1"
 msgid "Vassati devo,"
-msgstr "The sky rains down, like a beautiful song, "
+msgstr "The sky rains down, like a beautiful song;"
 
 #. <br>
 msgctxt "thag5.3:8.2"
 msgid "…"
-msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"
+msgstr "my little hut is ro­ofed and pleasant, sheltered from the wind;"
 
+#, fuzzy
 msgctxt "thag5.3:8.3"
 msgid "pe …"
-msgstr ""
+msgstr " "
 
 #. <br>
 msgctxt "thag5.3:8.4"
 msgid "tassaṃ viharāmi vītadoso,"
-msgstr "I dwell there, free of hate:"
+msgstr "I meditate there, free of hate:"
 
 #. <br>
 msgctxt "thag5.3:8.5"
 msgid "…"
-msgstr "So rain, sky, as you please."
+msgstr "so rain, sky, as you please."
 
 msgctxt "thag5.3:8.6"
 msgid "pe …"
@@ -145,12 +145,12 @@ msgstr ""
 #. id="verse-num-sc329"></a><a class="verse-num-pts" id="verse-num-pts329"></a>
 msgctxt "thag5.3:9.1"
 msgid "Vassati devo,"
-msgstr "The sky rains down, like a beautiful song, "
+msgstr "The sky rains down, like a beautiful song;"
 
 #. <br>
 msgctxt "thag5.3:9.2"
 msgid "…"
-msgstr "My little hut is ro­ofed and pleasant, sheltered from the wind:"
+msgstr "my little hut is ro­ofed and pleasant, sheltered from the wind;"
 
 msgctxt "thag5.3:9.3"
 msgid "pe …"
@@ -159,18 +159,17 @@ msgstr ""
 #. <br>
 msgctxt "thag5.3:9.4"
 msgid "tassaṃ viharāmi vītamoho,"
-msgstr "I dwell there, free of delusion:"
+msgstr "I meditate there, free of delusion:"
 
 #. <br>
 msgctxt "thag5.3:9.5"
 msgid "Atha ce patthayasī pavassa devā”ti."
-msgstr "So rain, sky, as you please."
+msgstr "so rain, sky, as you please."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag5.3:10.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag5.3:10.2"
 msgid "Girimānando thero …."

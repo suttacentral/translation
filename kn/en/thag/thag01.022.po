@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag01.022.po\n"
+"X-Pootle-Revision: 73354\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -18,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.22:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.22:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.22:3.1"
 msgid "Tatiyavagga"
-msgstr ""
+msgstr "Chapter Three"
 
 #. </p><h1>
 msgctxt "thag1.22:4.1"
 msgid "1.22. Cittakattheragāthā"
-msgstr ""
+msgstr "1.22. Cittaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc22"></a><a class="verse-num-pts"
@@ -44,18 +47,25 @@ msgstr "Crested peacocks with beautiful blue necks"
 
 #. <br>
 msgctxt "thag1.22:5.2"
-msgid "Morā <span class=\"var\" title=\"kāraṃviyaṃ (bj, pts1-2) | kāraviyaṃ (s2, s3)\" id=\"note24\">kārambhiyaṃ</span> abhinadanti;"
-msgstr "Cry out in Karaṃvī."
+msgid ""
+"Morā <span class=\"var\" title=\"kāraṃviyaṃ (bj, pts1-2) | kāraviyaṃ (s2, s3)"
+"\" id=\"note24\">kārambhiyaṃ</span> abhinadanti;"
+msgstr "cry out in Karaṃvī."
 
+# The correct reading here would seem to be -kalitā, which is accpted by both Norman and Cone (vol. 1 p. 653). This is exceedingly rare in Pali, but see http://sanskritdictionary.com/k%C4%81layate/159031/3
 #. <br>
 msgctxt "thag1.22:5.3"
-msgid "Te <span class=\"var\" title=\"sītavātakadditakalitā (bj) | sītavātakalitā (s2, s3, pts1-2)\" id=\"note25\">sītavātakīḷitā</span>,"
-msgstr "Aroused by a cool breeze,"
+msgid ""
+"Te <span class=\"var\" title=\"sītavātakadditakalitā (bj) | sītavātakalitā ("
+"s2, s3, pts1-2)\" id=\"note25\">sītavātakīḷitā</span>,"
+msgstr "Stirred by a cool breeze,"
 
 #. <br>
 msgctxt "thag1.22:5.4"
-msgid "Suttaṃ <span class=\"var\" title=\"jhānaṃ (s2, s3) | jhāyiṃ (?)\" id=\"note26\">jhāyaṃ</span> nibodhentī”ti."
-msgstr "They awaken the sleeper to practice jhāna."
+msgid ""
+"Suttaṃ <span class=\"var\" title=\"jhānaṃ (s2, s3) | jhāyiṃ (?)\" id=\""
+"note26\">jhāyaṃ</span> nibodhentī”ti."
+msgstr "they wake the sleeper to practice absorption."
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag1.22:6.1"
@@ -65,4 +75,3 @@ msgstr ""
 msgctxt "thag1.22:6.2"
 msgid "Cittako thero …."
 msgstr ""
-

@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag06.07.po\n"
+"X-Pootle-Revision: 73204\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -18,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag6.7:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag6.7:2.1"
 msgid "Chakkanipāta"
-msgstr ""
+msgstr "The Book of the Sixes"
 
 #. </p><p>
 msgctxt "thag6.7:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag6.7:4.1"
 msgid "6.7. Kātiyānattheragāthā"
-msgstr ""
+msgstr "6.7. Kātiyāna"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc411"></a><a class="verse-num-pts"
@@ -50,23 +53,25 @@ msgstr "Don’t sleep too much, be wakeful."
 #. <br>
 msgctxt "thag6.7:5.3"
 msgid "Mā taṃ alasaṃ pamattabandhu,"
-msgstr "Don’t be lazy, and let the kinsman of the heedless,"
+msgstr "Don’t be lazy and let the kinsman of the heedless,"
 
 #. <br>
 msgctxt "thag6.7:5.4"
 msgid "Kūṭeneva jinātu maccurājā."
-msgstr "The king of death, catch you in his trap."
+msgstr "the King of Death, catch you in his trap."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc412"></a><a class="verse-num-pts" id="verse-num-pts412"></a>
 msgctxt "thag6.7:6.1"
-msgid "<span class=\"var\" title=\"sayathāpi (bj, pts1-2)\" id=\"note216\">Seyyathāpi</span> mahāsamuddavego,"
+msgid ""
+"<span class=\"var\" title=\"sayathāpi (bj, pts1-2)\" id=\"note216\""
+">Seyyathāpi</span> mahāsamuddavego,"
 msgstr "Like a wave in the mighty ocean,"
 
 #. <br>
 msgctxt "thag6.7:6.2"
 msgid "Evaṃ jātijarātivattate taṃ;"
-msgstr "Birth and old age overwhelm you."
+msgstr "birth and old age sweep you under."
 
 #. <br>
 msgctxt "thag6.7:6.3"
@@ -76,7 +81,7 @@ msgstr "Make a safe island of yourself,"
 #. <br>
 msgctxt "thag6.7:6.4"
 msgid "Na hi tāṇaṃ tava vijjateva aññaṃ."
-msgstr "For you have no other shelter."
+msgstr "for you have no other shelter."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc413"></a><a class="verse-num-pts" id="verse-num-pts413"></a>
@@ -87,50 +92,52 @@ msgstr "The teacher has mastered this path,"
 #. <br>
 msgctxt "thag6.7:7.2"
 msgid "Saṅgā jātijarābhayā atītaṃ;"
-msgstr "Which transcends ties, and the fear of birth and old age."
+msgstr "which transcends ties, and the fear of birth and old age."
 
 #. <br>
 msgctxt "thag6.7:7.3"
 msgid "Pubbāpararattamappamatto,"
-msgstr "Be heedful all the time,"
+msgstr "Be diligent all the time"
 
 #. <br>
 msgctxt "thag6.7:7.4"
 msgid "Anuyuñjassu daḷhaṃ karohi yogaṃ."
-msgstr "And devote yourself to dedicated practice."
+msgstr "and dedicate yourself to practice."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc414"></a><a class="verse-num-pts" id="verse-num-pts414"></a>
 msgctxt "thag6.7:8.1"
 msgid "Purimāni pamuñca bandhanāni,"
-msgstr "Be free of your former bonds!"
+msgstr "Free yourself from your former bonds!"
 
 #. <br>
 msgctxt "thag6.7:8.2"
 msgid "Saṅghāṭikhuramuṇḍabhikkhabhojī;"
-msgstr "Wearing outer robe, with shaven head, eating almsfood,"
+msgstr "Wearing your outer robe, with shaven head, eating almsfood,"
 
 #. <br>
 msgctxt "thag6.7:8.3"
 msgid "Mā khiḍḍāratiñca mā niddaṃ,"
-msgstr "Don’t delight in play or sleep,"
+msgstr "don’t delight in play or sleep,"
 
 #. <br>
 msgctxt "thag6.7:8.4"
 msgid "Anuyuñjittha jhāya kātiyāna."
-msgstr "Devote yourself to jhāna, Kātiyāna."
+msgstr "dedicate yourself to absorption, Kātiyāna."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc415"></a><a class="verse-num-pts"
 #. id="verse-num-pts415"></a><a class="pts" id="pts45"></a>
 msgctxt "thag6.7:9.1"
 msgid "Jhāyāhi jināhi kātiyāna,"
-msgstr "Practice jhāna and conquer, Kātiyāna,"
+msgstr "Meditate and conquer, Kātiyāna,"
 
 #. <br>
 msgctxt "thag6.7:9.2"
-msgid "Yogakkhemapathesu <span class=\"var\" title=\"... pathe sukovidosi (s2, s3, pts1)\" id=\"note217\">kovidosi</span>;"
-msgstr "You’re skilled in the path to security from the yoke."
+msgid ""
+"Yogakkhemapathesu <span class=\"var\" title=\"... pathe sukovidosi (s2, s3, "
+"pts1)\" id=\"note217\">kovidosi</span>;"
+msgstr "you’re an expert in the path to sanctuary."
 
 #. <br>
 msgctxt "thag6.7:9.3"
@@ -140,28 +147,28 @@ msgstr "Attaining unexcelled purity,"
 #. <br>
 msgctxt "thag6.7:9.4"
 msgid "Parinibbāhisi vārināva joti."
-msgstr "You’ll be quenched, like a flame by water."
+msgstr "you’ll be quenched, as a flame by water."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc416"></a><a class="verse-num-pts" id="verse-num-pts416"></a>
 msgctxt "thag6.7:10.1"
 msgid "Pajjotakaro parittaraṃso,"
-msgstr "A lamp with feeble flames"
+msgstr "A lamp of feeble flame"
 
 #. <br>
 msgctxt "thag6.7:10.2"
 msgid "Vātena vinamyate latāva;"
-msgstr "Is bent down by the wind, like a creeper;"
+msgstr "is bent down by the wind, like a creeper;"
 
 #. <br>
 msgctxt "thag6.7:10.3"
 msgid "Evampi tuvaṃ anādiyāno,"
-msgstr "Just so, kinsman of Indra,"
+msgstr "just so, kinsman of Indra,"
 
 #. <br>
 msgctxt "thag6.7:10.4"
 msgid "Māraṃ indasagotta niddhunāhi;"
-msgstr "You shake off Māra, without grasping."
+msgstr "shake off Māra, without grasping."
 
 #. <br>
 msgctxt "thag6.7:10.5"
@@ -171,7 +178,7 @@ msgstr "Free of lust for feelings,"
 #. <br>
 msgctxt "thag6.7:10.6"
 msgid "Kālaṃ kaṅkha idheva sītibhūto”ti."
-msgstr "Await your time here, cooled."
+msgstr "await your time here, cooled."
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag6.7:11.1"
@@ -181,4 +188,3 @@ msgstr ""
 msgctxt "thag6.7:11.2"
 msgid "Kātiyāno thero …."
 msgstr ""
-

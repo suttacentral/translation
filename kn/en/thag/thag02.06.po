@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.06.po\n"
-"X-Pootle-Revision: 7915\n"
+"X-Pootle-Revision: 73458\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,24 +21,24 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.6:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.6:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.6:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag2.6:4.1"
 msgid ""
 "<span class=\"var\" title=\"melajinattheragāthā (bj)\" id=\"note85\">2.6 "
 "Meḷajinattheragāthā</span>"
-msgstr ""
+msgstr "2.6. Meḷajina"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc131"></a><a class="verse-num-pts"
@@ -50,7 +50,7 @@ msgstr "When I heard the Teacher"
 #. <br>
 msgctxt "thag2.6:5.2"
 msgid "bhāsamānassa satthuno;"
-msgstr "Speaking Dhamma,"
+msgstr "speaking Dhamma,"
 
 #. <br>
 msgctxt "thag2.6:5.3"
@@ -60,18 +60,18 @@ msgstr "I wasn’t aware of any doubt"
 #. <br>
 msgctxt "thag2.6:5.4"
 msgid "sabbaññūaparājite."
-msgstr "In the all-knowing, unconquered one,"
+msgstr "in the all-knowing, unconquered one,"
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc132"></a><a class="verse-num-pts" id="verse-num-pts132"></a>
 msgctxt "thag2.6:6.1"
 msgid "Satthavāhe mahāvīre,"
-msgstr "The caravan leader, the great hero"
+msgstr "the caravan leader, the great hero,"
 
 #. <br>
 msgctxt "thag2.6:6.2"
 msgid "sārathīnaṃ varuttame;"
-msgstr "The most excellent of charioteers."
+msgstr "the most excellent of charioteers."
 
 #. <br>
 msgctxt "thag2.6:6.3"
@@ -81,13 +81,12 @@ msgstr "I have no doubt"
 #. <br>
 msgctxt "thag2.6:6.4"
 msgid "kaṅkhā mayhaṃ na vijjatī”ti."
-msgstr "In the path or practice."
+msgstr "in the path or practice."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.6:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.6:7.2"
 msgid ""

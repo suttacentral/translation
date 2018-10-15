@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2017-04-07 00:47+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1491526022.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag03.09.po\n"
+"X-Pootle-Revision: 73510\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.9:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.9:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.9:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.9:4.1"
 msgid "3.9. Yasojattheragāthā"
-msgstr ""
+msgstr "3.9. Yasoja"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc243"></a><a class="verse-num-pts"
@@ -48,61 +47,63 @@ msgstr "“With knobbly knees,"
 
 #. <br>
 msgctxt "thag3.9:5.2"
-msgid "kiso <span class=\"var\" title=\"dhamanisaṇṭhito (s2, s3) | dhamanisantato (pts1)\" id=\"note160\">dhamanisanthato</span>;"
-msgstr "Thin, veiny,"
+msgid ""
+"kiso <span class=\"var\" title=\"dhamanisaṇṭhito (s2, s3) | dhamanisantato "
+"(pts1)\" id=\"note160\">dhamanisanthato</span>;"
+msgstr "thin and veiny,"
 
 #. <br>
 msgctxt "thag3.9:5.3"
 msgid "Mattaññū annapānamhi,"
-msgstr "Eating and drinking in moderation—"
+msgstr "eating and drinking but little—"
 
 #. <br>
 msgctxt "thag3.9:5.4"
 msgid "adīnamānaso naro”."
-msgstr "This person’s spirit is undaunted.”"
+msgstr "this person’s spirit is undaunted.”"
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc244"></a><a class="verse-num-pts"
 #. id="verse-num-pts244"></a><a class="pts" id="pts31"></a>
 msgctxt "thag3.9:6.1"
 msgid "“Phuṭṭho ḍaṃsehi makasehi,"
-msgstr "“Pestered by gadflies and mosquitoes"
+msgstr "“Pestered by flies and mosquitoes"
 
 #. <br>
 msgctxt "thag3.9:6.2"
 msgid "araññasmiṃ brahāvane;"
-msgstr "In the awesome wilderness;"
+msgstr "in the wilds, the formidable forest,"
 
 #. <br>
 msgctxt "thag3.9:6.3"
 msgid "Nāgo saṅgāmasīseva,"
-msgstr "One should mindfully endure,"
+msgstr "one should mindfully endure,"
 
 #. <br>
 msgctxt "thag3.9:6.4"
 msgid "sato tatrādhivāsaye."
-msgstr "Like an elephant at the head of the battle."
+msgstr "like an elephant at the head of the battle."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc245"></a><a class="verse-num-pts" id="verse-num-pts245"></a>
 msgctxt "thag3.9:7.1"
 msgid "Yathā brahmā tathā eko,"
-msgstr "A monk alone is like Brahmā;"
+msgstr "A monk alone is like the supreme Brahmā;"
 
 #. <br>
 msgctxt "thag3.9:7.2"
 msgid "yathā devo tathā duve;"
-msgstr "A pair of monks are like devas;"
+msgstr "a pair of monks are like gods;"
 
 #. <br>
 msgctxt "thag3.9:7.3"
 msgid "Yathā gāmo tathā tayo,"
-msgstr "Three are like a village;"
+msgstr "three are like a village;"
 
 #. <br>
 msgctxt "thag3.9:7.4"
 msgid "kolāhalaṃ tatuttarin”ti."
-msgstr "And more than that is a rabble.”"
+msgstr "and more than that is a rabble.”"
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag3.9:8.1"

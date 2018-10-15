@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.092.po\n"
-"X-Pootle-Revision: 7847\n"
+"X-Pootle-Revision: 73424\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,60 +21,59 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.92:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.92:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.92:3.1"
 msgid "Dasamavagga"
-msgstr ""
+msgstr "Chapter Ten"
 
 #. </p><h1>
 msgctxt "thag1.92:4.1"
 msgid "1.92. Vijayattheragāthā"
-msgstr ""
+msgstr "1.92. Vijaya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc92"></a><a class="verse-num-pts"
 #. id="verse-num-pts92"></a><a class="pts" id="pts14"></a>
 msgctxt "thag1.92:5.1"
 msgid "“Yassāsavā parikkhīṇā,"
-msgstr "The one whose defilements are dried up,"
+msgstr "One whose defilements have ended;"
 
 #. <br>
 msgctxt "thag1.92:5.2"
 msgid "āhāre ca anissito;"
-msgstr "Who’s not attached to food,"
+msgstr "who’s not attached to food;"
 
 #. <br>
 msgctxt "thag1.92:5.3"
 msgid "Suññato animitto ca,"
-msgstr "Whose resort is the liberation"
+msgstr "whose resort is the liberation"
 
 #. <br>
 msgctxt "thag1.92:5.4"
 msgid "vimokkho yassa gocaro;"
-msgstr "That is signless and empty:"
+msgstr "of the signless and the empty:"
 
 #. <br>
 msgctxt "thag1.92:5.5"
 msgid "Ākāseva sakuntānaṃ,"
-msgstr "Their track is hard to trace,"
+msgstr "their track is hard to trace,"
 
 #. <br>
 msgctxt "thag1.92:5.6"
 msgid "padaṃ tassa durannayan”ti."
-msgstr "Like that of birds in the sky."
+msgstr "like birds in the sky."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.92:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.92:6.2"
 msgid "Vijayo thero …."

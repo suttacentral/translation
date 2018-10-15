@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag04.11.po\n"
-"X-Pootle-Revision: 8055\n"
+"X-Pootle-Revision: 57452\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag4.11:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag4.11:2.1"
 msgid "Catukkanipāta"
-msgstr ""
+msgstr "The Book of the Fours"
 
 #. </p><p>
 msgctxt "thag4.11:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag4.11:4.1"
 msgid "4.11. Sappakattheragāthā"
-msgstr ""
+msgstr "4.11. Sappaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc307"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "When the crane with its beautiful white wings,"
 #. <br>
 msgctxt "thag4.11:5.2"
 msgid "Kāḷassa meghassa bhayena tajjitā;"
-msgstr "Startled by fear of the dark thundercloud,"
+msgstr "startled by fear of the dark thundercloud,"
 
 #. <br>
 msgctxt "thag4.11:5.3"
 msgid "Palehiti ālayamālayesinī,"
-msgstr "Flees, seeking shelter—"
+msgstr "flees, seeking shelter—"
 
 #. <br>
 msgctxt "thag4.11:5.4"
 msgid "Tadā nadī ajakaraṇī rameti maṃ."
-msgstr "Then the River Ajakaraṇī delights me."
+msgstr "then the River Ajakaraṇī delights me."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc308"></a><a class="verse-num-pts"
@@ -70,17 +70,17 @@ msgstr "When the crane, so pure and white,"
 #. <br>
 msgctxt "thag4.11:6.2"
 msgid "Kāḷassa meghassa bhayena tajjitā;"
-msgstr "Startled by fear of the dark thundercloud,"
+msgstr "startled by fear of the dark thundercloud,"
 
 #. <br>
 msgctxt "thag4.11:6.3"
 msgid "Pariyesati leṇamaleṇadassinī,"
-msgstr "Seeks a cave to shelter in, but can’t see one—"
+msgstr "seeks a cave to shelter in, but can’t see one—"
 
 #. <br>
 msgctxt "thag4.11:6.4"
 msgid "Tadā nadī ajakaraṇī rameti maṃ."
-msgstr "Then the River Ajakaraṇī delights me."
+msgstr "then the River Ajakaraṇī delights me."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc309"></a><a class="verse-num-pts" id="verse-num-pts309"></a>
@@ -91,19 +91,19 @@ msgstr "Who wouldn’t be delighted"
 #. <br>
 msgctxt "thag4.11:7.2"
 msgid "jambuyo ubhato tahiṃ;"
-msgstr "By the rose-apple trees"
+msgstr "by the rose-apple trees"
 
 #. <br>
 msgctxt "thag4.11:7.3"
 msgid "Sobhenti āpagākūlaṃ,"
-msgstr "That adorn both banks of the river there,"
+msgstr "that adorn both banks of the river,"
 
 #. <br>
 msgctxt "thag4.11:7.4"
 msgid ""
 "<span class=\"var\" title=\"mahāleṇassa (s2, s3, mr) | mahālenassa (pts1)\" "
 "id=\"note179\">mama leṇassa</span> pacchato."
-msgstr "Behind my cave?"
+msgstr "there, behind my cave?"
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc310"></a><a class="verse-num-pts" id="verse-num-pts310"></a>
@@ -116,7 +116,7 @@ msgstr "Rid of snakes, that death-mad swarm,"
 #. <br>
 msgctxt "thag4.11:8.2"
 msgid "Bhekā mandavatī panādayanti;"
-msgstr "The lazy frogs croak:"
+msgstr "the lazy frogs croak:"
 
 #. <br>
 msgctxt "thag4.11:8.3"
@@ -129,10 +129,9 @@ msgid "Khemā ajakaraṇī sivā surammā’”ti."
 msgstr "Ajakaraṇī is safe, pleasant, and delightful.”"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag4.11:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag4.11:9.2"
 msgid "Sappako thero …."

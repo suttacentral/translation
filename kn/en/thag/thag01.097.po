@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.097.po\n"
-"X-Pootle-Revision: 7857\n"
+"X-Pootle-Revision: 73429\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.97:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.97:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.97:3.1"
 msgid "Dasamavagga"
-msgstr ""
+msgstr "Chapter Ten"
 
 #. </p><h1>
 msgctxt "thag1.97:4.1"
 msgid "1.97. Tissattheragāthā"
-msgstr ""
+msgstr "1.97. Tissa (2nd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc97"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "Giving up a valuable bronze bowl,"
 #. <br>
 msgctxt "thag1.97:5.2"
 msgid "Sovaṇṇaṃ satarājikaṃ;"
-msgstr "And a precious golden one, too,"
+msgstr "and a precious golden one, too,"
 
 #. <br>
 msgctxt "thag1.97:5.3"
@@ -58,13 +58,12 @@ msgstr "I took a bowl made of clay:"
 #. <br>
 msgctxt "thag1.97:5.4"
 msgid "Idaṃ dutiyābhisecanan”ti."
-msgstr "This is my second anointing."
+msgstr "this is my second initiation."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.97:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.97:6.2"
 msgid "Tisso thero …."

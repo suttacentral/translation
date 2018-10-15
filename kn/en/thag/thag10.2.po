@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag10.2.po\n"
-"X-Pootle-Revision: 8131\n"
+"X-Pootle-Revision: 74175\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag10.2:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag10.2:2.1"
 msgid "Dasakanipāta"
-msgstr ""
+msgstr "The Book of the Tens"
 
 #. </p><p>
 msgctxt "thag10.2:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag10.2:4.1"
 msgid "10.2. Ekavihāriyattheragāthā"
-msgstr ""
+msgstr "10.2. Ekavihāriya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc537"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "If no-one else is found"
 #. <br>
 msgctxt "thag10.2:5.2"
 msgid "aparo ce na vijjati;"
-msgstr "In front or behind,"
+msgstr "in front or behind,"
 
 #. <br>
 msgctxt "thag10.2:5.3"
 msgid "Atīva phāsu bhavati,"
-msgstr "It’s extremely pleasant,"
+msgstr "it’s extremely pleasant"
 
 #. <br>
 msgctxt "thag10.2:5.4"
 msgid "ekassa vasato vane."
-msgstr "Dwelling alone in a forest grove."
+msgstr "to be dwelling alone in a forest grove."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc538"></a><a class="verse-num-pts" id="verse-num-pts538"></a>
@@ -69,19 +69,19 @@ msgstr "Come now, I’ll go alone"
 #. <br>
 msgctxt "thag10.2:6.2"
 msgid "araññaṃ buddhavaṇṇitaṃ;"
-msgstr "To the wilderness praised by the Buddha."
+msgstr "to the wilderness praised by the Buddha."
 
 #. <br>
 msgctxt "thag10.2:6.3"
 msgid ""
 "<span class=\"var\" title=\"phāsuṃ (s2, s3, pts1-2)\" id=\"note265\""
 ">Phāsu</span> ekavihārissa,"
-msgstr "It’s pleasant for a monk"
+msgstr "It’s pleasant for a mendicant"
 
 #. <br>
 msgctxt "thag10.2:6.4"
 msgid "pahitattassa bhikkhuno."
-msgstr "Dwelling alone and resolute."
+msgstr "to be dwelling alone and resolute."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc539"></a><a class="verse-num-pts" id="verse-num-pts539"></a>
@@ -97,12 +97,12 @@ msgstr "I’ll quickly enter the delightful forest,"
 #. <br>
 msgctxt "thag10.2:7.3"
 msgid "Eko attavasī khippaṃ,"
-msgstr "Which gives joy to meditators,"
+msgstr "which gives joy to meditators,"
 
 #. <br>
 msgctxt "thag10.2:7.4"
 msgid "pavisissāmi kānanaṃ."
-msgstr "And is frequented by rutting elephants."
+msgstr "and is frequented by rutting elephants."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc540"></a><a class="verse-num-pts" id="verse-num-pts540"></a>
@@ -113,7 +113,7 @@ msgstr "In Sītavana, so full of flowers,"
 #. <br>
 msgctxt "thag10.2:8.2"
 msgid "sītale girikandare;"
-msgstr "In a cool mountain cave,"
+msgstr "in a cool mountain cave,"
 
 #. <br>
 msgctxt "thag10.2:8.3"
@@ -123,7 +123,7 @@ msgstr "I’ll bathe my limbs"
 #. <br>
 msgctxt "thag10.2:8.4"
 msgid "caṅkamissāmi ekako."
-msgstr "And walk meditation alone."
+msgstr "and walk meditation alone."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc541"></a><a class="verse-num-pts" id="verse-num-pts541"></a>
@@ -134,17 +134,17 @@ msgstr "When will I dwell alone,"
 #. <br>
 msgctxt "thag10.2:9.2"
 msgid "ramaṇīye mahāvane;"
-msgstr "Without a companion,"
+msgstr "without a companion,"
 
 #. <br>
 msgctxt "thag10.2:9.3"
 msgid "Kadāhaṃ viharissāmi,"
-msgstr "In the great wood, so delightful,"
+msgstr "in the great wood, so delightful,"
 
 #. <br>
 msgctxt "thag10.2:9.4"
 msgid "katakicco anāsavo."
-msgstr "My task complete, free of defilements?"
+msgstr "my task complete, free of defilements?"
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc542"></a><a class="verse-num-pts" id="verse-num-pts542"></a>
@@ -155,17 +155,17 @@ msgstr "This is what I want to do:"
 #. <br>
 msgctxt "thag10.2:10.2"
 msgid "adhippāyo samijjhatu;"
-msgstr "May my wish succeed!"
+msgstr "may my wish succeed!"
 
 #. <br>
 msgctxt "thag10.2:10.3"
 msgid "Sādhayissāmahaṃyeva,"
-msgstr "I’ll make it happen myself:"
+msgstr "I’ll make it happen myself,"
 
 #. <br>
 msgctxt "thag10.2:10.4"
 msgid "nāñño aññassa kārako."
-msgstr "No-one can do someone else’s duty."
+msgstr "for no-one can do another’s duty."
 
 #. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
 #. id="verse-num-sc543"></a><a class="verse-num-pts" id="verse-num-pts543"></a>
@@ -181,12 +181,12 @@ msgstr "I’ll enter the forest."
 #. <br>
 msgctxt "thag10.2:11.3"
 msgid "Na tato nikkhamissāmi,"
-msgstr "I won’t leave here"
+msgstr "I won’t leave"
 
 #. <br>
 msgctxt "thag10.2:11.4"
 msgid "appatto āsavakkhayaṃ."
-msgstr "Until I have attained the end of defilements."
+msgstr "without attaining the end of defilements."
 
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
 #. id="verse-num-sc544"></a><a class="verse-num-pts" id="verse-num-pts544"></a>
@@ -199,7 +199,7 @@ msgctxt "thag10.2:12.2"
 msgid ""
 "sīte <span class=\"var\" title=\"... gandhake (s2, s3, pts1-2, mr)\" id=\""
 "note266\">surabhigandhike</span>;"
-msgstr "With fragrant scent,"
+msgstr "with fragrant scent,"
 
 #. <br>
 msgctxt "thag10.2:12.3"
@@ -209,7 +209,7 @@ msgstr "I’ll split ignorance apart,"
 #. <br>
 msgctxt "thag10.2:12.4"
 msgid "nisinno nagamuddhani."
-msgstr "Sitting on the mountain-peak."
+msgstr "sitting on the mountain-peak."
 
 #. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
 #. id="verse-num-sc545"></a><a class="verse-num-pts" id="verse-num-pts545"></a>
@@ -220,7 +220,7 @@ msgstr "In a forest grove covered with blossoms,"
 #. <br>
 msgctxt "thag10.2:13.2"
 msgid "pabbhāre nūna sītale;"
-msgstr "In a cave so very cool,"
+msgstr "in a cave so very cool,"
 
 #. <br>
 msgctxt "thag10.2:13.3"
@@ -230,7 +230,7 @@ msgstr "I take pleasure in Giribbaja,"
 #. <br>
 msgctxt "thag10.2:13.4"
 msgid "ramissāmi giribbaje."
-msgstr "Happy with the happiness of freedom."
+msgstr "happy with the happiness of freedom."
 
 #. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
 #. id="verse-num-sc546"></a><a class="verse-num-pts"
@@ -244,7 +244,7 @@ msgctxt "thag10.2:14.2"
 msgid ""
 "cando <span class=\"var\" title=\"paṇṇaraso (s2, s3) | pannarase (pts2)\" id="
 "\"note267\">pannaraso</span> yathā;"
-msgstr "Like the moon on the fifteenth day."
+msgstr "like the moon on the fifteenth day."
 
 #. <br>
 msgctxt "thag10.2:14.3"
@@ -254,13 +254,12 @@ msgstr "With the utter ending of all defilements,"
 #. <br>
 msgctxt "thag10.2:14.4"
 msgid "natthi dāni punabbhavo”ti."
-msgstr "Now there is no more rebirth into any state of existence."
+msgstr "now there are no more future lives."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag10.2:15.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag10.2:15.2"
 msgid "Ekavihāriyo thero …."

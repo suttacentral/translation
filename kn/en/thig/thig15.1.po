@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thig/thig15.1.po\n"
-"X-Pootle-Revision: 8335\n"
+"X-Pootle-Revision: 77538\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -1003,7 +1003,7 @@ msgstr "Then because of massive interest"
 #. <br>
 msgctxt "thig15.1:48.2"
 msgid "Ussannāya vipulāya vaḍḍhiyā;"
-msgstr "I was dragged away wailing"
+msgstr "I was dragged away squealing,"
 
 #. <br>
 msgctxt "thig15.1:48.3"
@@ -1095,4 +1095,4 @@ msgstr ""
 #. </p><p class="endsection"><a class="sc" id="50"></a>
 msgctxt "thig15.1:53.1"
 msgid "Cattālīsanipāto niṭṭhito."
-msgstr ""
+msgstr "The Book of the Forties is finished."

@@ -1,19 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
-"PO-Revision-Date: 2017-04-23 02:06+0000\n"
-"Last-Translator: sujato <sujato@gmail.com>\n"
-"Language-Team: SuttaCentral\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
-"Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1492913185.000000\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag01.002.po\n"
+"X-Pootle-Revision: 79965\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -22,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.2:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.2:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.2:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag1.2:4.1"
 msgid "1.2. Mahākoṭṭhikattheragāthā"
-msgstr ""
+msgstr "1.2. Mahākoṭṭhika"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc2"></a><a class="verse-num-pts"
@@ -49,19 +48,23 @@ msgstr "Calm and quiet,"
 #. <br>
 msgctxt "thag1.2:5.2"
 msgid "mantabhāṇī anuddhato;"
-msgstr "Thoughtful in counsel and steady;"
+msgstr "thoughtful in counsel, and stable—"
 
 #. <br>
 msgctxt "thag1.2:5.3"
 msgid "Dhunāti pāpake dhamme,"
-msgstr "Shaking off bad qualities,"
+msgstr "he shakes off bad qualities"
 
 #. <br>
 msgctxt "thag1.2:5.4"
 msgid "dumapattaṃva māluto”ti."
-msgstr "As the wind shakes leaves off a tree."
+msgstr "as the wind shakes leaves off a tree."
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag1.2:6.1"
-msgid "Itthaṃ sudaṃ āyasmā <span class=\"var\" title=\"mahākoṭṭhito (bj, s2, s3) | mahākoṭṭhika (pts1-2)\" id=\"note3\">mahākoṭṭhiko</span> thero gāthaṃ abhāsitthāti."
+msgid ""
+"Itthaṃ sudaṃ āyasmā <span class=\"var\" title=\"mahākoṭṭhito (bj, s2, s3) | "
+"mahākoṭṭhika (pts1-2)\" id=\"note3\">mahākoṭṭhiko</span> thero gāthaṃ "
+"abhāsitthāti."
 msgstr ""
+"It was thus that this verse was recited by the senior venerable Mahākoṭṭhika."

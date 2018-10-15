@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.072.po\n"
-"X-Pootle-Revision: 7807\n"
+"X-Pootle-Revision: 73404\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,36 +21,36 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.72:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.72:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.72:3.1"
 msgid "Aṭṭhamavagga"
-msgstr ""
+msgstr "Chapter Eight"
 
 #. </p><h1>
 msgctxt "thag1.72:4.1"
 msgid "1.72. Ātumattheragāthā"
-msgstr ""
+msgstr "1.72. Ātuma"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc72"></a><a class="verse-num-pts"
 #. id="verse-num-pts72"></a>
 msgctxt "thag1.72:5.1"
 msgid "“Yathā kaḷīro susu vaḍḍhitaggo,"
-msgstr "A young bamboo is hard to trample"
+msgstr "A young bamboo is hard to extract"
 
 #. <br>
 msgctxt "thag1.72:5.2"
 msgid ""
 "<span class=\"var\" title=\"dunnikkhaso (s2, s3) | dunnikkamo (pts2)\" id=\""
 "note57\">Dunnikkhamo</span> hoti pasākhajāto;"
-msgstr "When the point is grown and it’s become woody;"
+msgstr "when the point is grown and it’s become woody."
 
 #. <br>
 msgctxt "thag1.72:5.3"
@@ -63,10 +63,9 @@ msgid "Anumaññaṃ maṃ pabbajitomhi dānī”ti."
 msgstr "Give me permission—now I’ve gone forth."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.72:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.72:6.2"
 msgid "Ātumo thero …."

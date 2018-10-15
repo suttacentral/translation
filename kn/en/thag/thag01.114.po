@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.114.po\n"
-"X-Pootle-Revision: 7891\n"
+"X-Pootle-Revision: 73446\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,52 +21,51 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.114:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.114:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.114:3.1"
 msgid "Dvādasamavagga"
-msgstr ""
+msgstr "Chapter Twelve"
 
 #. </p><h1>
 msgctxt "thag1.114:4.1"
 msgid "1.114. Adhimuttattheragāthā"
-msgstr ""
+msgstr "1.114. Adhimutta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc114"></a><a class="verse-num-pts"
 #. id="verse-num-pts114"></a>
 msgctxt "thag1.114:5.1"
 msgid "“Kāyaduṭṭhullagaruno,"
-msgstr "When your body is uncomfortably heavy,"
+msgstr "Your body is uncomfortably heavy,"
 
 #. <br>
 msgctxt "thag1.114:5.2"
 msgid ""
 "<span class=\"var\" title=\"hīyamānamhi (bj)\" id=\"note77\""
 ">hiyyamānamhi</span> jīvite;"
-msgstr "While life is running out;"
+msgstr "and life is running out;"
 
 #. <br>
 msgctxt "thag1.114:5.3"
 msgid "Sarīrasukhagiddhassa,"
-msgstr "Greedy for physical pleasure,"
+msgstr "greedy for physical pleasure,"
 
 #. <br>
 msgctxt "thag1.114:5.4"
 msgid "kuto samaṇasādhutā”ti."
-msgstr "How can you find happiness as an ascetic?"
+msgstr "how can you find happiness as an ascetic?"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.114:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.114:6.2"
 msgid "Adhimutto thero …."

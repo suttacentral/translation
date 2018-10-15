@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.07.po\n"
-"X-Pootle-Revision: 7917\n"
+"X-Pootle-Revision: 73459\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.7:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.7:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.7:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag2.7:4.1"
 msgid "2.7. Rādhattheragāthā"
-msgstr ""
+msgstr "2.7. Rādha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag2.7:5.1"
@@ -50,17 +50,17 @@ msgstr "Just as rain seeps into"
 #. <br>
 msgctxt "thag2.7:5.2"
 msgid "vuṭṭhī samativijjhati;"
-msgstr "A poorly roofed house,"
+msgstr "a poorly roofed house,"
 
 #. <br>
 msgctxt "thag2.7:5.3"
 msgid "Evaṃ abhāvitaṃ cittaṃ,"
-msgstr "Lust seeps into"
+msgstr "lust seeps into"
 
 #. <br>
 msgctxt "thag2.7:5.4"
 msgid "rāgo samativijjhati."
-msgstr "An undeveloped mind."
+msgstr "an undeveloped mind."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc134"></a><a class="verse-num-pts" id="verse-num-pts134"></a>
@@ -71,23 +71,22 @@ msgstr "Just as rain doesn’t seep into"
 #. <br>
 msgctxt "thag2.7:6.2"
 msgid "Vuṭṭhī na samativijjhati;"
-msgstr "A well roofed house,"
+msgstr "a well roofed house,"
 
 #. <br>
 msgctxt "thag2.7:6.3"
 msgid "Evaṃ subhāvitaṃ cittaṃ,"
-msgstr "Lust doesn’t seep into"
+msgstr "lust doesn’t seep into"
 
 #. <br>
 msgctxt "thag2.7:6.4"
 msgid "Rāgo na samativijjhatī”ti."
-msgstr "A well-developed mind."
+msgstr "a well-developed mind."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.7:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.7:7.2"
 msgid "Rādho thero …."

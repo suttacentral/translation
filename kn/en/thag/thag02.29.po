@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.29.po\n"
-"X-Pootle-Revision: 7961\n"
+"X-Pootle-Revision: 75970\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.29:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.29:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.29:3.1"
 msgid "Tatiyavagga"
-msgstr ""
+msgstr "Chapter Three"
 
 #. </p><h1>
 msgctxt "thag2.29:4.1"
 msgid "2.29. Bhāradvājattheragāthā"
-msgstr ""
+msgstr "2.29. Bhāradvāja"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc177"></a><a class="verse-num-pts"
@@ -48,25 +48,25 @@ msgstr "This is how the wise roar:"
 #. <br>
 msgctxt "thag2.29:5.2"
 msgid "sīhāva girigabbhare;"
-msgstr "Like lions in mountain caves,"
+msgstr "like lions in mountain caves,"
 
 #. <br>
 msgctxt "thag2.29:5.3"
 msgid "Vīrā vijitasaṅgāmā,"
-msgstr "Heroes, triumphant in battle,"
+msgstr "heroes, triumphant in battle,"
 
 #. <br>
 msgctxt "thag2.29:5.4"
 msgid ""
 "jetvā māraṃ <span class=\"var\" title=\"savāhanaṃ (si, s2, s3, pts1-2)\" id="
 "\"note113\">savāhiniṃ</span>."
-msgstr "Having vanquished Māra and his army."
+msgstr "having vanquished Māra and his mount."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc178"></a><a class="verse-num-pts" id="verse-num-pts178"></a>
 msgctxt "thag2.29:6.1"
 msgid "Satthā ca pariciṇṇo me,"
-msgstr "I’ve attended on the teacher;"
+msgstr "I’ve served the teacher;"
 
 #. <br>
 msgctxt "thag2.29:6.2"
@@ -81,13 +81,12 @@ msgstr "I’m happy and joyful,"
 #. <br>
 msgctxt "thag2.29:6.4"
 msgid "puttaṃ disvā anāsavan”ti."
-msgstr "Because I’ve seen my son free of defilements."
+msgstr "because I’ve seen my son free of defilements."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.29:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.29:7.2"
 msgid "Bhāradvājo thero …."

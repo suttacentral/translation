@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag10.1.po\n"
-"X-Pootle-Revision: 8129\n"
+"X-Pootle-Revision: 77608\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag10.1:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag10.1:2.1"
 msgid "Dasakanipāta"
-msgstr ""
+msgstr "The Book of the Tens"
 
 #. </p><p>
 msgctxt "thag10.1:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag10.1:4.1"
 msgid "10.1. Kāḷudāyittheragāthā"
-msgstr ""
+msgstr "10.1. Kāḷudāyin"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc527"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "“The trees are now crimson, venerable sir,"
 #. <br>
 msgctxt "thag10.1:5.2"
 msgid "Phalesino chadanaṃ vippahāya;"
-msgstr "They’ve shed their foliage, and are ready to fruit."
+msgstr "they’ve shed their foliage, and are ready to fruit."
 
 #. <br>
 msgctxt "thag10.1:5.3"
 msgid "Te accimantova pabhāsayanti,"
-msgstr "They’re splendid, as if on fire;"
+msgstr "They’re splendid, as if aflame;"
 
 #. <br>
 msgctxt "thag10.1:5.4"
 msgid "Samayo mahāvīra bhāgī rasānaṃ."
-msgstr "Great hero, this period is full of flavour."
+msgstr "great hero, this season is full of flavour."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc528"></a><a class="verse-num-pts" id="verse-num-pts528"></a>
@@ -69,7 +69,7 @@ msgstr "The blossoming trees are delightful,"
 #. <br>
 msgctxt "thag10.1:6.2"
 msgid "Samantato sabbadisā pavanti;"
-msgstr "Wafting their scent all around, in all directions,"
+msgstr "wafting their scent all around, in all directions."
 
 #. <br>
 msgctxt "thag10.1:6.3"
@@ -81,7 +81,7 @@ msgstr "They’ve shed their leaves and wish to fruit,"
 #. <br>
 msgctxt "thag10.1:6.4"
 msgid "Kālo ito pakkamanāya vīra."
-msgstr "Hero, it is time to depart from here."
+msgstr "hero, it is time to depart from here."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc529"></a><a class="verse-num-pts" id="verse-num-pts529"></a>
@@ -92,7 +92,7 @@ msgstr "It is neither too hot nor too cold,"
 #. <br>
 msgctxt "thag10.1:7.2"
 msgid "Sukhā utu addhaniyā bhadante;"
-msgstr "Venerable sir, it’s a pleasant season for travelling."
+msgstr "venerable sir, it’s a pleasant season for travelling."
 
 #. <br>
 msgctxt "thag10.1:7.3"
@@ -103,7 +103,7 @@ msgstr "Let the Sākiyas and Koḷiyas see you,"
 #. <br>
 msgctxt "thag10.1:7.4"
 msgid "Pacchāmukhaṃ rohiniyaṃ tarantaṃ."
-msgstr "Heading west across the Rohiṇī river."
+msgstr "heading west across the Rohiṇī river."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc530"></a><a class="verse-num-pts" id="verse-num-pts530"></a>
@@ -114,17 +114,17 @@ msgstr "In hope, the field is ploughed;"
 #. <br>
 msgctxt "thag10.1:8.2"
 msgid "bījaṃ āsāya vappati;"
-msgstr "The seed is sown in hope;"
+msgstr "the seed is sown in hope;"
 
 #. <br>
 msgctxt "thag10.1:8.3"
 msgid "Āsāya vāṇijā yanti,"
-msgstr "In hope, merchants travel the seas,"
+msgstr "in hope, merchants travel the seas,"
 
 #. <br>
 msgctxt "thag10.1:8.4"
 msgid "samuddaṃ dhanahārakā;"
-msgstr "Carrying rich cargoes."
+msgstr "carrying rich cargoes."
 
 #. <br>
 msgctxt "thag10.1:8.5"
@@ -134,7 +134,7 @@ msgstr "The hope that I stand for:"
 #. <br>
 msgctxt "thag10.1:8.6"
 msgid "sā me āsā samijjhatu."
-msgstr "May it succeed!"
+msgstr "may it succeed!"
 
 #. </p><p><a class="sc" id="5"></a>
 msgctxt "thag10.1:9.1"
@@ -147,17 +147,17 @@ msgstr "Again and again, they sow the seed;"
 #. <br>
 msgctxt "thag10.1:9.2"
 msgid "Punappunaṃ vassati devarājā;"
-msgstr "Again and again, the king of gods sends rain;"
+msgstr "again and again, the sky god sends rain;"
 
 #. <br>
 msgctxt "thag10.1:9.3"
 msgid "Punappunaṃ khettaṃ kasanti kassakā,"
-msgstr "Again and again, farmers plough the field;"
+msgstr "again and again, farmers plough the field;"
 
 #. <br>
 msgctxt "thag10.1:9.4"
 msgid "Punappunaṃ dhaññamupeti raṭṭhaṃ."
-msgstr "Again and again, grain is produced for the nation."
+msgstr "again and again, grain is produced for the nation."
 
 #. </p><p><a class="sc" id="6"></a>
 msgctxt "thag10.1:10.1"
@@ -170,7 +170,7 @@ msgstr "Again and again, the beggars wander,"
 #. <br>
 msgctxt "thag10.1:10.2"
 msgid "Punappunaṃ dānapatī dadanti;"
-msgstr "Again and again, the donors give,"
+msgstr "again and again, the donors give."
 
 #. <br>
 msgctxt "thag10.1:10.3"
@@ -180,7 +180,7 @@ msgstr "Again and again, when the donors have given,"
 #. <br>
 msgctxt "thag10.1:10.4"
 msgid "Punappunaṃ saggamupenti ṭhānaṃ."
-msgstr "Again and again, they go to their place in heaven."
+msgstr "again and again, they take their place in heaven."
 
 #. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
 #. id="verse-num-sc533"></a><a class="verse-num-pts"
@@ -194,7 +194,7 @@ msgstr "A hero of vast wisdom purifies seven generations"
 #. <br>
 msgctxt "thag10.1:11.2"
 msgid "Yasmiṃ kule jāyati bhūripañño;"
-msgstr "Of the family in which they’re born."
+msgstr "of the family in which they’re born."
 
 #. <br>
 msgctxt "thag10.1:11.3"
@@ -206,18 +206,18 @@ msgctxt "thag10.1:11.4"
 msgid ""
 "<span class=\"var\" title=\"tayābhijāto (si)\" id=\"note264\">Tayā hi "
 "jāto</span> muni saccanāmo."
-msgstr "Since you fathered the one who is truly called a sage."
+msgstr "since you fathered the one who is truly called a sage."
 
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
 #. id="verse-num-sc534"></a><a class="verse-num-pts" id="verse-num-pts534"></a>
 msgctxt "thag10.1:12.1"
 msgid "Suddhodano nāma pitā mahesino,"
-msgstr "The father of the great sage is named Suddhodana;"
+msgstr "The father of the great hermit is named Suddhodana;"
 
 #. <br>
 msgctxt "thag10.1:12.2"
 msgid "Buddhassa mātā pana māyanāmā;"
-msgstr "But the Buddha’s mother is named Māyā."
+msgstr "but the Buddha’s mother is named Māyā."
 
 #. <br>
 msgctxt "thag10.1:12.3"
@@ -227,7 +227,7 @@ msgstr "Having borne the Bodhisatta in her belly,"
 #. <br>
 msgctxt "thag10.1:12.4"
 msgid "Kāyassa bhedā tidivamhi modati."
-msgstr "She rejoices in the heaven of the Thirty-Three."
+msgstr "she rejoices in the heaven of the Thirty-Three."
 
 #. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
 #. id="verse-num-sc535"></a><a class="verse-num-pts" id="verse-num-pts535"></a>
@@ -238,12 +238,12 @@ msgstr "When she died and passed away from here,"
 #. <br>
 msgctxt "thag10.1:13.2"
 msgid "Dibbehi kāmehi samaṅgibhūtā;"
-msgstr "She was blessed with heavenly sensual pleasures;"
+msgstr "she was blessed with heavenly sensual pleasures;"
 
 #. <br>
 msgctxt "thag10.1:13.3"
 msgid "Sā modati kāmaguṇehi pañcahi,"
-msgstr "Rejoicing in the five kinds of sensual stimulation,"
+msgstr "enjoying the five kinds of sensual stimulation."
 
 #. <br>
 msgctxt "thag10.1:13.4"
@@ -272,10 +272,9 @@ msgid "Dhammena me gotama ayyakosī”ti."
 msgstr "Gotama, you are my grandfather in the Dhamma.”"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag10.1:15.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag10.1:15.2"
 msgid "Kāḷudāyī thero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.02.po\n"
-"X-Pootle-Revision: 7907\n"
+"X-Pootle-Revision: 80293\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.2:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.2:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.2:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag2.2:4.1"
 msgid "2.2. Piṇḍolabhāradvājattheragāthā"
-msgstr ""
+msgstr "2.2. Piṇḍolabhāradvāja"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc123"></a><a class="verse-num-pts"
@@ -48,12 +48,12 @@ msgstr "You can’t live by fasting,"
 #. <br>
 msgctxt "thag2.2:5.2"
 msgid "Nāhāro hadayassa santiko;"
-msgstr "But food doesn’t lead to peace of heart."
+msgstr "but food doesn’t lead to peace of heart."
 
 #. <br>
 msgctxt "thag2.2:5.3"
 msgid "Āhāraṭṭhitiko samussayo,"
-msgstr "Seeing how the body is sustained by food,"
+msgstr "Seeing how this bag of bones is sustained by food,"
 
 #. <br>
 msgctxt "thag2.2:5.4"
@@ -64,24 +64,26 @@ msgstr "I wander, seeking."
 #. id="verse-num-sc124"></a><a class="verse-num-pts" id="verse-num-pts124"></a>
 msgctxt "thag2.2:6.1"
 msgid "Paṅkoti hi naṃ pavedayuṃ,"
-msgstr "They know it’s a swamp,"
+msgstr "They know it’s just a swamp,"
 
 #. <br>
 msgctxt "thag2.2:6.2"
 msgid "Yāyaṃ vandanapūjanā kulesu;"
-msgstr "This worship and homage from respectable families;"
+msgstr "this homage and veneration in respectable families."
 
 #. <br>
 msgctxt "thag2.2:6.3"
 msgid "Sukhumaṃ sallaṃ durubbahaṃ,"
-msgstr "A subtle dart, hard to pull out;"
+msgstr "Honor is a subtle dart, hard to extract,"
 
 #. <br>
 msgctxt "thag2.2:6.4"
 msgid "Sakkāro kāpurisena dujjaho”ti."
-msgstr "It’s hard for a corrupt person to give up honor."
+msgstr "and hard for a sinner to give up."
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag2.2:7.1"
 msgid "Itthaṃ sudaṃ āyasmā piṇḍolabhāradvājo thero gāthāyo abhāsitthāti."
 msgstr ""
+"It was thus that these verses were recited by the senior venerable "
+"Piṇḍolabhāradvāja."

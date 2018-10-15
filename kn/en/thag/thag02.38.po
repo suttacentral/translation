@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.38.po\n"
-"X-Pootle-Revision: 7979\n"
+"X-Pootle-Revision: 73490\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,46 +21,46 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.38:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.38:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.38:3.1"
 msgid "Catutthavagga"
-msgstr ""
+msgstr "Chapter Four"
 
 #. </p><h1>
 msgctxt "thag2.38:4.1"
 msgid "2.38. Nisabhattheragāthā"
-msgstr ""
+msgstr "2.38. Nisabha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc195"></a><a class="verse-num-pts"
 #. id="verse-num-pts195"></a>
 msgctxt "thag2.38:5.1"
 msgid "“Pañca kāmaguṇe hitvā,"
-msgstr "One who has gone forth from the home life out of faith,"
+msgstr "One who has left the home life out of faith,"
 
 #. <br>
 msgctxt "thag2.38:5.2"
 msgid "Piyarūpe manorame;"
-msgstr "Leaving behind the five kinds of sensual stimulation,"
+msgstr "giving up the five kinds of sensual stimulation,"
 
 #. <br>
 msgctxt "thag2.38:5.3"
 msgid ""
 "Saddhāya <span class=\"var\" title=\" abhinikkhamma (sī1, pā1)\" id=\""
 "note129\">gharā nikkhamma</span>,"
-msgstr "So pleasant seeming, delighting the mind—"
+msgstr "so pleasing and delightful—"
 
 #. <br>
 msgctxt "thag2.38:5.4"
 msgid "Dukkhassantakaro bhave."
-msgstr "Let them put an end to suffering."
+msgstr "let them make an end to suffering!"
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag2.38:6.1"
@@ -85,13 +85,12 @@ msgstr "I await my time,"
 #. <br>
 msgctxt "thag2.38:6.4"
 msgid "sampajāno patissato”ti."
-msgstr "Aware and mindful."
+msgstr "aware and mindful."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.38:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.38:7.2"
 msgid "Nisabho thero …."

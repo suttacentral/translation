@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.113.po\n"
-"X-Pootle-Revision: 7889\n"
+"X-Pootle-Revision: 75936\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,50 +21,49 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.113:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.113:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.113:3.1"
 msgid "Dvādasamavagga"
-msgstr ""
+msgstr "Chapter Twelve"
 
 #. </p><h1>
 msgctxt "thag1.113:4.1"
 msgid "1.113. Vanavacchattheragāthā"
-msgstr ""
+msgstr "1.113. Vanavaccha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc113"></a><a class="verse-num-pts"
 #. id="verse-num-pts113"></a>
 msgctxt "thag1.113:5.1"
 msgid "“Acchodikā puthusilā,"
-msgstr "The water is clear and the crags are large,"
+msgstr "The water’s clear and the rocks are broad,"
 
 #. <br>
 msgctxt "thag1.113:5.2"
 msgid "gonaṅgulamigāyutā;"
-msgstr "Monkeys and deer are all around;"
+msgstr "monkeys and deer are all around;"
 
 #. <br>
 msgctxt "thag1.113:5.3"
 msgid "Ambusevālasañchannā,"
-msgstr "Festooned with dewy moss,"
+msgstr "festooned with dewy moss,"
 
 #. <br>
 msgctxt "thag1.113:5.4"
 msgid "te selā ramayanti man”ti."
-msgstr "These rocky crags delight me!"
+msgstr "these rocky crags delight me!"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.113:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.113:6.2"
 msgid "Vanavaccho thero …."

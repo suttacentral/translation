@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.43.po\n"
-"X-Pootle-Revision: 7989\n"
+"X-Pootle-Revision: 73495\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.43:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.43:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.43:3.1"
 msgid "Pañcamavagga"
-msgstr ""
+msgstr "Chapter Five"
 
 #. </p><h1>
 msgctxt "thag2.43:4.1"
 msgid "2.43. Brahmālittheragāthā"
-msgstr ""
+msgstr "2.43. Brahmāli"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc205"></a><a class="verse-num-pts"
@@ -52,7 +52,7 @@ msgstr "Whose faculties have become serene,"
 #. <br>
 msgctxt "thag2.43:5.2"
 msgid "Assā yathā sārathinā sudantā;"
-msgstr "Like horses tamed by a charioteer?"
+msgstr "like horses tamed by a charioteer?"
 
 #. <br>
 msgctxt "thag2.43:5.3"
@@ -64,7 +64,7 @@ msgctxt "thag2.43:5.4"
 msgid ""
 "Devāpi <span class=\"var\" title=\"tassa (bj, s2, s3, pts1)\" id=\"note137\""
 ">kassa</span> pihayanti tādinoti."
-msgstr "Becoming such that even the gods envy them?"
+msgstr "becoming such that even the gods envy them?"
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag2.43:6.1"
@@ -79,7 +79,7 @@ msgstr "My faculties have become serene,"
 #. <br>
 msgctxt "thag2.43:6.2"
 msgid "Assā yathā sārathinā sudantā;"
-msgstr "Like horses tamed by a charioteer?"
+msgstr "like horses tamed by a charioteer."
 
 #. <br>
 msgctxt "thag2.43:6.3"
@@ -89,13 +89,12 @@ msgstr "I have abandoned conceit and defilements,"
 #. <br>
 msgctxt "thag2.43:6.4"
 msgid "Devāpi mayhaṃ pihayanti tādino”ti."
-msgstr "Becoming such that even the gods envy me."
+msgstr "becoming such that even the gods envy me."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.43:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.43:7.2"
 msgid "Brahmāli thero …."

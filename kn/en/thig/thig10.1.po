@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thig/thig10.1.po\n"
-"X-Pootle-Revision: 8317\n"
+"X-Pootle-Revision: 73658\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -128,7 +128,7 @@ msgstr "Some even cut their throat"
 #. <br>
 msgctxt "thig10.1:8.2"
 msgid "Sukhumāliniyo visāni khādanti;"
-msgstr "Some tender ones take poison"
+msgstr "Some delicate ones take poison"
 
 #. <br>
 msgctxt "thig10.1:8.3"
@@ -281,4 +281,4 @@ msgstr ""
 #. </p><p class="endsection"><a class="sc" id="13"></a>
 msgctxt "thig10.1:16.1"
 msgid "Ekādasakanipāto niṭṭhito."
-msgstr ""
+msgstr "The Book of the Elevens is finished."

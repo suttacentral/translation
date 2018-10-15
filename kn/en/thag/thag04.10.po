@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag04.10.po\n"
-"X-Pootle-Revision: 8053\n"
+"X-Pootle-Revision: 62756\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag4.10:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag4.10:2.1"
 msgid "Catukkanipāta"
-msgstr ""
+msgstr "The Book of the Fours"
 
 #. </p><p>
 msgctxt "thag4.10:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag4.10:4.1"
 msgid "4.10. Dhammikattheragāthā"
-msgstr ""
+msgstr "4.10. Dhammika"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag4.10:5.1"
@@ -47,22 +47,22 @@ msgid ""
 ">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc303\"></a><a class"
 "=\"verse-num-pts\" id=\"verse-num-pts303\"></a>“Dhammo have rakkhati "
 "dhammacāriṃ,"
-msgstr "“Dhamma really protects you if you practice Dhamma;"
+msgstr "“Dhamma surely protects one who practices Dhamma;"
 
 #. <br>
 msgctxt "thag4.10:5.2"
 msgid "Dhammo suciṇṇo sukhamāvahati;"
-msgstr "The teaching brings happiness when practiced well."
+msgstr "the teaching brings happiness when practiced well."
 
 #. <br>
 msgctxt "thag4.10:5.3"
 msgid "Esānisaṃso dhamme suciṇṇe,"
-msgstr "If you practice Dhamma, this is the benefit—"
+msgstr "This is the benefit of practising Dhamma:"
 
 #. <br>
 msgctxt "thag4.10:5.4"
 msgid "Na duggatiṃ gacchati dhammacārī."
-msgstr "You won’t go to a bad destination."
+msgstr "one doesn’t go to a bad destination."
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag4.10:6.1"
@@ -71,12 +71,12 @@ msgid ""
 "[Sāsanapaṭṭhāna]\" id=\"note178\">*</span> <a class=\"verse-num-sc\" id"
 "=\"verse-num-sc304\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts304\""
 "></a>Na hi dhammo adhammo ca,"
-msgstr "Dhamma and what is not Dhamma"
+msgstr "It’s not the case that Dhamma and what is not Dhamma"
 
 #. <br>
 msgctxt "thag4.10:6.2"
 msgid "ubho samavipākino;"
-msgstr "Don’t both lead to the same results."
+msgstr "lead to the same results."
 
 #. <br>
 msgctxt "thag4.10:6.3"
@@ -86,28 +86,28 @@ msgstr "What is not Dhamma leads to hell,"
 #. <br>
 msgctxt "thag4.10:6.4"
 msgid "dhammo pāpeti suggatiṃ."
-msgstr "While Dhamma takes you to a good destination."
+msgstr "while Dhamma takes you to a good place."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc305"></a><a class="verse-num-pts" id="verse-num-pts305"></a>
 msgctxt "thag4.10:7.1"
 msgid "Tasmā hi dhammesu kareyya chandaṃ,"
-msgstr "So you should be enthusiastic to perform acts of Dhamma,"
+msgstr "So you should rouse enthusiasm for the teachings;"
 
 #. <br>
 msgctxt "thag4.10:7.2"
 msgid "Iti modamāno sugatena tādinā;"
-msgstr "Rejoicing in the Fortunate One, the poised."
+msgstr "such rejoicing is owing to the Holy One, the poised."
 
 #. <br>
 msgctxt "thag4.10:7.3"
 msgid "Dhamme ṭhitā sugatavarassa sāvakā,"
-msgstr "Disciples of the best of Fortunate Ones are firm in Dhamma;"
+msgstr "The disciples of the best of Holy Ones are firm in the teaching;"
 
 #. <br>
 msgctxt "thag4.10:7.4"
 msgid "Nīyanti dhīrā saraṇavaraggagāmino”."
-msgstr "Those wise ones are led on, going to the very best of refuges.”"
+msgstr "those wise ones are led on, headed to the very best of refuges.”"
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc306"></a><a class="verse-num-pts" id="verse-num-pts306"></a>
@@ -118,7 +118,7 @@ msgstr "“The boil has been burst from its root,"
 #. <br>
 msgctxt "thag4.10:8.2"
 msgid "Taṇhājālo samūhato;"
-msgstr "The net of craving is undone."
+msgstr "the net of craving is eradicated."
 
 #. <br>
 msgctxt "thag4.10:8.3"
@@ -128,13 +128,12 @@ msgstr "He has ended transmigration, he has nothing,"
 #. <br>
 msgctxt "thag4.10:8.4"
 msgid "Cando yathā dosinā puṇṇamāsiyan”ti."
-msgstr "Just like the full moon on a bright night.”"
+msgstr "he’s like the full moon on a bright night.”"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag4.10:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag4.10:9.2"
 msgid "Dhammiko thero …."

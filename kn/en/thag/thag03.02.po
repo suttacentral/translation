@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag03.02.po\n"
-"X-Pootle-Revision: 8005\n"
+"X-Pootle-Revision: 73503\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.2:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.2:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.2:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.2:4.1"
 msgid "3.2. Paccayattheragāthā"
-msgstr ""
+msgstr "3.2. Paccaya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc222"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "I went forth five days ago,"
 #. <br>
 msgctxt "thag3.2:5.2"
 msgid "sekho appattamānaso;"
-msgstr "A trainee, with my heart’s desire unfulfilled."
+msgstr "a trainee, my heart’s desire unfulfilled."
 
 #. <br>
 msgctxt "thag3.2:5.3"
 msgid "Vihāraṃ me paviṭṭhassa,"
-msgstr "I entered my dwelling,"
+msgstr "I entered my dwelling"
 
 #. <br>
 msgctxt "thag3.2:5.4"
 msgid "cetaso paṇidhī ahu."
-msgstr "And a wish arose in my mind."
+msgstr "and resolved in my heart:"
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc223"></a><a class="verse-num-pts" id="verse-num-pts223"></a>
@@ -76,39 +76,38 @@ msgstr "I won’t leave my dwelling;"
 #. <br>
 msgctxt "thag3.2:6.3"
 msgid "Napi passaṃ nipātessaṃ,"
-msgstr "Nor will I lie down on my side—"
+msgstr "nor will I lie down on my side—"
 
 #. <br>
 msgctxt "thag3.2:6.4"
 msgid "taṇhāsalle anūhate."
-msgstr "Until the dart of craving is pulled out."
+msgstr "not until the dart of craving is pulled out."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc224"></a><a class="verse-num-pts" id="verse-num-pts224"></a>
 msgctxt "thag3.2:7.1"
 msgid "Tassa mevaṃ viharato,"
-msgstr "See my energy and effort"
+msgstr "See my energy and vigor"
 
 #. <br>
 msgctxt "thag3.2:7.2"
 msgid "passa vīriyaparakkamaṃ;"
-msgstr "As I practice this way!"
+msgstr "as I meditate like this!"
 
 #. <br>
 msgctxt "thag3.2:7.3"
 msgid "Tisso vijjā anuppattā,"
-msgstr "I’ve attained the three knowledges,"
+msgstr "I’ve attained the three knowledges"
 
 #. <br>
 msgctxt "thag3.2:7.4"
 msgid "kataṃ buddhassa sāsanan”ti."
-msgstr "And fulfilled the Buddha’s instructions."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag3.2:8.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag3.2:8.2"
 msgid "Paccayo thero …."

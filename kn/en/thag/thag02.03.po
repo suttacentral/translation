@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.03.po\n"
-"X-Pootle-Revision: 7909\n"
+"X-Pootle-Revision: 73455\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.3:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.3:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.3:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag2.3:4.1"
 msgid "2.3. Valliyattheragāthā"
-msgstr ""
+msgstr "2.3. Valliya (2nd)"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc125"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "A monkey went up to the little hut"
 #. <br>
 msgctxt "thag2.3:5.2"
 msgid "kuṭikāyaṃ pasakkiya;"
-msgstr "With five doors."
+msgstr "with five doors."
 
 #. <br>
 msgctxt "thag2.3:5.3"
@@ -58,7 +58,7 @@ msgstr "He circles around, knocking"
 #. <br>
 msgctxt "thag2.3:5.4"
 msgid "ghaṭṭayanto muhuṃ muhuṃ."
-msgstr "On each door, again and again."
+msgstr "on each door, again and again."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc126"></a><a class="verse-num-pts" id="verse-num-pts126"></a>
@@ -74,18 +74,17 @@ msgstr "Things are different now;"
 #. <br>
 msgctxt "thag2.3:6.3"
 msgid "Niggahītosi paññāya,"
-msgstr "You’ve been caught by wisdom—"
+msgstr "you’ve been caught by wisdom—"
 
 #. <br>
 msgctxt "thag2.3:6.4"
 msgid "neva dūraṃ gamissatī”ti."
-msgstr "You won’t go far."
+msgstr "you won’t go far."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.3:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.3:7.2"
 msgid "Valliyo thero …."

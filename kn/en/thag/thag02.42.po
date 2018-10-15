@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.42.po\n"
-"X-Pootle-Revision: 7987\n"
+"X-Pootle-Revision: 73494\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.42:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.42:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.42:3.1"
 msgid "Pañcamavagga"
-msgstr ""
+msgstr "Chapter Five"
 
 #. </p><h1>
 msgctxt "thag2.42:4.1"
 msgid "2.42. Dhammapālattheragāthā"
-msgstr ""
+msgstr "2.42. Dhammapāla"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc203"></a><a class="verse-num-pts"
@@ -48,19 +48,19 @@ msgstr "The young monk"
 #. <br>
 msgctxt "thag2.42:5.2"
 msgid "yuñjati buddhasāsane;"
-msgstr "Who is devoted to the teaching of the Buddha,"
+msgstr "who is devoted to the teaching of the Buddha,"
 
 #. <br>
 msgctxt "thag2.42:5.3"
 msgid ""
 "Jāgaro <span class=\"var\" title=\"patisuttesu (bj, pts1, mr)\" id=\""
 "note135\">sa hi suttesu</span>,"
-msgstr "Wakeful among those who sleep—"
+msgstr "wakeful while others sleep—"
 
 #. <br>
 msgctxt "thag2.42:5.4"
 msgid "amoghaṃ tassa jīvitaṃ."
-msgstr "His life isn’t in vain."
+msgstr "his life is not in vain."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc204"></a><a class="verse-num-pts" id="verse-num-pts204"></a>
@@ -71,23 +71,22 @@ msgstr "So let the wise devote themselves"
 #. <br>
 msgctxt "thag2.42:6.2"
 msgid "pasādaṃ dhammadassanaṃ;"
-msgstr "To faith, virtuous behaviour,"
+msgstr "to faith, ethical behaviour,"
 
 #. <br>
 msgctxt "thag2.42:6.3"
 msgid "Anuyuñjetha medhāvī,"
-msgstr "Confidence, and insight into Dhamma,"
+msgstr "confidence, and insight into the teaching,"
 
 #. <br>
 msgctxt "thag2.42:6.4"
 msgid "saraṃ buddhāna sāsanan”ti."
-msgstr "Remembering the teachings of the Buddhas."
+msgstr "remembering the instructions of the Buddhas."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.42:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.42:7.2"
 msgid "Dhammapālo thero …."

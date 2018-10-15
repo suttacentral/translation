@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag04.08.po\n"
-"X-Pootle-Revision: 8049\n"
+"X-Pootle-Revision: 79225\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag4.8:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag4.8:2.1"
 msgid "Catukkanipāta"
-msgstr ""
+msgstr "The Book of the Fours"
 
 #. </p><p>
 msgctxt "thag4.8:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag4.8:4.1"
 msgid "4.8. Rāhulattheragāthā"
-msgstr ""
+msgstr "4.8. Rāhula"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc295"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "I am known as “Fortunate Rāhula”,"
 #. <br>
 msgctxt "thag4.8:5.2"
 msgid "rāhulabhaddoti maṃ vidū;"
-msgstr "Because I’m endowed in both ways:"
+msgstr "because I’m accomplished in both ways:"
 
 #. <br>
 msgctxt "thag4.8:5.3"
@@ -58,7 +58,7 @@ msgstr "I am the son of the Buddha,"
 #. <br>
 msgctxt "thag4.8:5.4"
 msgid "yañca dhammesu cakkhumā."
-msgstr "And I have the vision of the Dhammas."
+msgstr "and I have the vision of the teachings."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc296"></a><a class="verse-num-pts" id="verse-num-pts296"></a>
@@ -69,17 +69,17 @@ msgstr "Since my defilements have ended,"
 #. <br>
 msgctxt "thag4.8:6.2"
 msgid "yañca natthi punabbhavo;"
-msgstr "Since there is no more being reborn in any state of existence—"
+msgstr "since there are no more future lives—"
 
 #. <br>
 msgctxt "thag4.8:6.3"
 msgid "Arahā dakkhiṇeyyomhi,"
-msgstr "I’m an Arahant, worthy of offerings,"
+msgstr "I’m perfected, worthy of offerings,"
 
 #. <br>
 msgctxt "thag4.8:6.4"
 msgid "tevijjo amataddaso."
-msgstr "With the three knowledges and the vision of the deathless."
+msgstr "master of the three knowledges, seer of the deathless."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc297"></a><a class="verse-num-pts" id="verse-num-pts297"></a>
@@ -90,17 +90,17 @@ msgstr "Blinded by sensual pleasures, trapped in a net,"
 #. <br>
 msgctxt "thag4.8:7.2"
 msgid "taṇhāchādanachāditā;"
-msgstr "They are smothered over by craving,"
+msgstr "they are smothered over by craving;"
 
 #. <br>
 msgctxt "thag4.8:7.3"
 msgid "Pamattabandhunā baddhā,"
-msgstr "Bound by the Kinsman of the Negligent,"
+msgstr "bound by the Kinsman of the Negligent,"
 
 #. <br>
 msgctxt "thag4.8:7.4"
 msgid "macchāva kumināmukhe."
-msgstr "Like a fish caught in a funnel-net trap."
+msgstr "like a fish caught in a funnel-net trap."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc298"></a><a class="verse-num-pts" id="verse-num-pts298"></a>
@@ -111,23 +111,22 @@ msgstr "Having thrown off those sensual pleasures,"
 #. <br>
 msgctxt "thag4.8:8.2"
 msgid "chetvā mārassa bandhanaṃ;"
-msgstr "Having cut Māra’s bond,"
+msgstr "having cut Māra’s bond,"
 
 #. <br>
 msgctxt "thag4.8:8.3"
 msgid "Samūlaṃ taṇhamabbuyha,"
-msgstr "Having pulled out craving, roots and all:"
+msgstr "and having plucked out craving, root and all:"
 
 #. <br>
 msgctxt "thag4.8:8.4"
 msgid "sītibhūtosmi nibbuto”ti."
-msgstr "I’ve become cool, and realized nibbāna."
+msgstr "I’m cooled, extinguished."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag4.8:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag4.8:9.2"
 msgid "Rāhulo thero …."

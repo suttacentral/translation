@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thig/thig05.05.po\n"
-"X-Pootle-Revision: 8275\n"
+"X-Pootle-Revision: 53134\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,129 +21,128 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thig5.5:1.1"
 msgid "Therīgāthā"
-msgstr ""
+msgstr "Verses of the Senior Nuns"
 
 #. </p><p>
 msgctxt "thig5.5:2.1"
 msgid "Pañcakanipāta"
-msgstr ""
+msgstr "The Book of the Fives"
 
 #. </p><h1>
 msgctxt "thig5.5:3.1"
 msgid "5. Nanduttarātherīgāthā"
-msgstr ""
+msgstr "5.5. Nanduttarā"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc87"></a><a class="verse-num-pts"
 #. id="verse-num-pts87"></a>
 msgctxt "thig5.5:4.1"
 msgid "“Aggiṃ candañca sūriyañca,"
-msgstr "In the past I honoured"
+msgstr "In the past I worshipped the sacred flame,"
 
 #. <br>
 msgctxt "thig5.5:4.2"
 msgid "devatā ca namassihaṃ;"
-msgstr "Fire, moon, sun, devas"
+msgstr "the moon, the sun, and the gods."
 
 #. <br>
 msgctxt "thig5.5:4.3"
 msgid "Nadītitthāni gantvāna,"
-msgstr "Having gone to river-fording places "
+msgstr "Having gone to river ford,"
 
 #. <br>
 msgctxt "thig5.5:4.4"
 msgid "udakaṃ oruhāmihaṃ."
-msgstr "I descended into the water"
+msgstr "I plunged into the water."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc88"></a><a class="verse-num-pts" id="verse-num-pts88"></a>
 msgctxt "thig5.5:5.1"
 msgid "Bahūvatasamādānā,"
-msgstr "Observing many rules"
+msgstr "Undertaking many rules,"
 
 #. <br>
 msgctxt "thig5.5:5.2"
 msgid "aḍḍhaṃ sīsassa olikhiṃ;"
-msgstr "I shaved half my head"
+msgstr "I shaved half my head."
 
 #. <br>
 msgctxt "thig5.5:5.3"
 msgid "Chamāya seyyaṃ kappemi,"
-msgstr "Preparing a bed on the ground"
+msgstr "Preparing a bed on the ground,"
 
 #. <br>
 msgctxt "thig5.5:5.4"
 msgid "rattiṃ bhattaṃ na bhuñjahaṃ."
-msgstr "I didn't eat food at night"
+msgstr "I ate no food at night."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc89"></a><a class="verse-num-pts" id="verse-num-pts89"></a>
 msgctxt "thig5.5:6.1"
 msgid "Vibhūsāmaṇḍanaratā,"
-msgstr "Delighting in ornaments and decoration"
+msgstr "I loved my ornaments and decorations;"
 
 #. <br>
 msgctxt "thig5.5:6.2"
 msgid "nhāpanucchādanehi ca;"
-msgstr "Bathing and anointing"
+msgstr "and with baths and oil-massages,"
 
 #. <br>
 msgctxt "thig5.5:6.3"
 msgid "Upakāsiṃ imaṃ kāyaṃ,"
-msgstr "I looked after the body"
+msgstr "I pandered to this body,"
 
 #. <br>
 msgctxt "thig5.5:6.4"
 msgid "kāmarāgena aṭṭitā."
-msgstr "Afflicted with desire for sensual pleasure"
+msgstr "racked by desire for pleasures of the senses."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc90"></a><a class="verse-num-pts" id="verse-num-pts90"></a>
 msgctxt "thig5.5:7.1"
 msgid "Tato saddhaṃ labhitvāna,"
-msgstr "Having gained faith"
+msgstr "But then I gained faith,"
 
 #. <br>
 msgctxt "thig5.5:7.2"
 msgid "pabbajiṃ anagāriyaṃ;"
-msgstr "I went forth into homelessness"
+msgstr "and went forth into homelessness."
 
 #. <br>
 msgctxt "thig5.5:7.3"
 msgid "Disvā kāyaṃ yathābhūtaṃ,"
-msgstr "Seeing the body in its real essence"
+msgstr "Truly seeing the body"
 
 #. <br>
 msgctxt "thig5.5:7.4"
 msgid "kāmarāgo samūhato."
-msgstr "Desire for sensual pleasure is uprooted"
+msgstr "desire for sensual pleasure is eradicated."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc91"></a><a class="verse-num-pts" id="verse-num-pts91"></a>
 msgctxt "thig5.5:8.1"
 msgid "Sabbe bhavā samucchinnā,"
-msgstr "I've cut off all existence"
+msgstr "All rebirths are cut off,"
 
 #. <br>
 msgctxt "thig5.5:8.2"
 msgid "icchā ca patthanāpi ca;"
-msgstr "Wishes and aspirations too"
+msgstr "wishes and aspirations too."
 
 #. <br>
 msgctxt "thig5.5:8.3"
 msgid "Sabbayogavisaṃyuttā,"
-msgstr "Disconnected from all bonds"
+msgstr "Detached from all attachments,"
 
 #. <br>
 msgctxt "thig5.5:8.4"
 msgid "santiṃ pāpuṇi cetaso”ti."
-msgstr "I've realised peace of mind"
+msgstr "I've attained peace of heart."
 
 #. </p></blockquote><p class="endsutta"><a class="sc" id="6"></a>
-#, fuzzy
 msgctxt "thig5.5:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thig5.5:9.2"
 msgid "Nanduttarā therī …."

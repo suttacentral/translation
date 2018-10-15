@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag05.04.po\n"
-"X-Pootle-Revision: 8065\n"
+"X-Pootle-Revision: 57614\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag5.4:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag5.4:2.1"
 msgid "Pañcakanipāta"
-msgstr ""
+msgstr "The Book of the Fives"
 
 #. </p><p>
 msgctxt "thag5.4:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag5.4:4.1"
 msgid "5.4. Sumanattheragāthā"
-msgstr ""
+msgstr "5.4. Sumana"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc330"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "My mentor helped me to learn,"
 #. <br>
 msgctxt "thag5.4:5.2"
 msgid "upajjhāyo anuggahi;"
-msgstr "Hoping that I would practice those teachings;"
+msgstr "hoping I would practice those teachings."
 
 #. <br>
 msgctxt "thag5.4:5.3"
@@ -58,18 +58,18 @@ msgstr "Aspiring to the deathless,"
 #. <br>
 msgctxt "thag5.4:5.4"
 msgid "kataṃ kattabbakaṃ mayā."
-msgstr "I’ve done what was to be done."
+msgstr "I’ve done what had to be done."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc331"></a><a class="verse-num-pts" id="verse-num-pts331"></a>
 msgctxt "thag5.4:6.1"
 msgid "Anuppatto sacchikato,"
-msgstr "I’ve arrived at the Dhamma,"
+msgstr "I’ve realized the Dhamma,"
 
 #. <br>
 msgctxt "thag5.4:6.2"
 msgid "sayaṃ dhammo anītiho;"
-msgstr "And witnessed it for myself, not based on hearsay."
+msgstr "witnessing it for myself, not based on hearsay."
 
 #. <br>
 msgctxt "thag5.4:6.3"
@@ -85,12 +85,12 @@ msgstr "I declare it in your presence."
 #. id="verse-num-sc332"></a><a class="verse-num-pts" id="verse-num-pts332"></a>
 msgctxt "thag5.4:7.1"
 msgid "Pubbenivāsaṃ jānāmi,"
-msgstr "I know my past life;"
+msgstr "I know my past lives,"
 
 #. <br>
 msgctxt "thag5.4:7.2"
 msgid "dibbacakkhu visodhitaṃ;"
-msgstr "My divine eye is clarified;"
+msgstr "my clairvoyance is purified,"
 
 #. <br>
 msgctxt "thag5.4:7.3"
@@ -100,18 +100,18 @@ msgstr "I’ve realized my own true goal,"
 #. <br>
 msgctxt "thag5.4:7.4"
 msgid "kataṃ buddhassa sāsanaṃ."
-msgstr "The Buddha’s instruction is fulfilled."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc333"></a><a class="verse-num-pts" id="verse-num-pts333"></a>
 msgctxt "thag5.4:8.1"
 msgid "Appamattassa me sikkhā,"
-msgstr "Being heedful in the training,"
+msgstr "Being diligent in the training,"
 
 #. <br>
 msgctxt "thag5.4:8.2"
 msgid "sussutā tava sāsane;"
-msgstr "I have learned your teachings well."
+msgstr "I learned your teachings well."
 
 #. <br>
 msgctxt "thag5.4:8.3"
@@ -121,18 +121,18 @@ msgstr "All my defilements are ended;"
 #. <br>
 msgctxt "thag5.4:8.4"
 msgid "natthi dāni punabbhavo."
-msgstr "Now there is no more rebirth into any state of existence."
+msgstr "now there are no more future lives."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc334"></a><a class="verse-num-pts" id="verse-num-pts334"></a>
 msgctxt "thag5.4:9.1"
 msgid "Anusāsi maṃ ariyavatā,"
-msgstr "You advised me in noble ways;"
+msgstr "You advised me in noble observances;"
 
 #. <br>
 msgctxt "thag5.4:9.2"
 msgid "Anukampi anuggahi;"
-msgstr "Compassionate, you helped teach me;"
+msgstr "compassionate, you helped teach me."
 
 #. <br>
 msgctxt "thag5.4:9.3"
@@ -142,13 +142,12 @@ msgstr "Your instruction was not in vain—"
 #. <br>
 msgctxt "thag5.4:9.4"
 msgid "Antevāsimhi sikkhito”ti."
-msgstr "I, your student, am fully trained."
+msgstr "I, your pupil, am fully trained."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag5.4:10.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag5.4:10.2"
 msgid "Sumano thero …."

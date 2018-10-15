@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag01.009.po\n"
+"X-Pootle-Revision: 73341\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -18,34 +21,40 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.9:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.9:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.9:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag1.9:4.1"
-msgid "<span class=\"var\" title=\"piḷindavacchattheragāthā (bj)\" id=\"note5\">1.9 Pilindavacchattheragāthā</span>"
-msgstr ""
+msgid ""
+"<span class=\"var\" title=\"piḷindavacchattheragāthā (bj)\" id=\"note5\">1.9 "
+"Pilindavacchattheragāthā</span>"
+msgstr "1.9. Pilindavaccha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc9"></a><a class="verse-num-pts"
 #. id="verse-num-pts9"></a>
 msgctxt "thag1.9:5.1"
-msgid "“Svāgataṃ na <span class=\"var\" title=\"nāpagataṃ (s2, s3, pts1-2)\" id=\"note6\">durāgataṃ</span>,"
+msgid ""
+"“Svāgataṃ na <span class=\"var\" title=\"nāpagataṃ (s2, s3, pts1-2)\" id=\""
+"note6\">durāgataṃ</span>,"
 msgstr "It was welcome, not unwelcome,"
 
 #. <br>
 msgctxt "thag1.9:5.2"
-msgid "<span class=\"var\" title=\"nedaṃ (pts2)\" id=\"note7\">Nayidaṃ</span> dumantitaṃ mama;"
-msgstr "The advice I got was good."
+msgid ""
+"<span class=\"var\" title=\"nedaṃ (pts2)\" id=\"note7\">Nayidaṃ</span> "
+"dumantitaṃ mama;"
+msgstr "the advice I got was good."
 
 #. <br>
 msgctxt "thag1.9:5.3"
@@ -59,6 +68,9 @@ msgstr "I encountered the best."
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag1.9:6.1"
-msgid "Itthaṃ sudaṃ āyasmā <span class=\"var\" title=\"piḷindavaccho (bj)\" id=\"note8\">pilindavaccho</span> thero gāthaṃ abhāsitthāti."
+msgid ""
+"Itthaṃ sudaṃ āyasmā <span class=\"var\" title=\"piḷindavaccho (bj)\" id=\""
+"note8\">pilindavaccho</span> thero gāthaṃ abhāsitthāti."
 msgstr ""
-
+"It was thus that this verse was recited by the senior venerable "
+"Pilindavaccha."

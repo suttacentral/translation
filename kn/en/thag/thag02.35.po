@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.35.po\n"
-"X-Pootle-Revision: 7973\n"
+"X-Pootle-Revision: 73487\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,29 +21,29 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.35:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.35:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.35:3.1"
 msgid "Catutthavagga"
-msgstr ""
+msgstr "Chapter Four"
 
 #. </p><h1>
 msgctxt "thag2.35:4.1"
 msgid "2.35. Sambulakaccānattheragāthā"
-msgstr ""
+msgstr "2.35. Sambulakaccāna"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc189"></a><a class="verse-num-pts"
 #. id="verse-num-pts189"></a>
 msgctxt "thag2.35:5.1"
 msgid "“Devo ca vassati, devo ca gaḷagaḷāyati,"
-msgstr "The sky rains, the sky pours down,"
+msgstr "The sky rains, the sky thunders down,"
 
 #. <br>
 msgctxt "thag2.35:5.2"
@@ -64,12 +64,12 @@ msgstr "I’ve no fear, no dread, no goosebumps."
 #. id="verse-num-sc190"></a><a class="verse-num-pts" id="verse-num-pts190"></a>
 msgctxt "thag2.35:6.1"
 msgid "Dhammatā mamesā yassa me,"
-msgstr "This is my normal state,"
+msgstr "This is my normal state"
 
 #. <br>
 msgctxt "thag2.35:6.2"
 msgid "Ekakassa bherave bile;"
-msgstr "When I’m staying alone in a frightful hole:"
+msgstr "while staying alone in a frightful hole:"
 
 #. <br>
 msgctxt "thag2.35:6.3"
@@ -82,10 +82,9 @@ msgid "Chambhitattaṃ vā lomahaṃso vā”ti."
 msgstr "no dread, no goosebumps."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.35:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.35:7.2"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag16.07.po\n"
-"X-Pootle-Revision: 8171\n"
+"X-Pootle-Revision: 78725\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,24 +21,24 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag16.7:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag16.7:2.1"
 msgid "Vīsatinipāta"
-msgstr ""
+msgstr "The Book of the Twenties"
 
 #. </p><p>
 msgctxt "thag16.7:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag16.7:4.1"
 msgid ""
 "<span class=\"var\" title=\"bhaddiyattheragāthā (bj)\" id=\"note390\">16.7 "
 "Kāḷigodhāputtabhaddiyattheragāthā</span>"
-msgstr ""
+msgstr "16.7. Kāḷigodhāputtabhaddiya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc842"></a><a class="verse-num-pts"
@@ -50,7 +50,7 @@ msgstr "I rode on an elephant’s neck,"
 #. <br>
 msgctxt "thag16.7:5.2"
 msgid "sukhumā vatthā padhāritā;"
-msgstr "Wearing delicate clothes."
+msgstr "wearing luxurious clothes."
 
 #. <br>
 msgctxt "thag16.7:5.3"
@@ -60,7 +60,7 @@ msgstr "I ate rice conjey"
 #. <br>
 msgctxt "thag16.7:5.4"
 msgid "sucimaṃsūpasecano."
-msgstr "With pure meat sauce."
+msgstr "with pure meat sauce."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc843"></a><a class="verse-num-pts" id="verse-num-pts843"></a>
@@ -71,17 +71,17 @@ msgstr "Today I am fortunate, persevering,"
 #. <br>
 msgctxt "thag16.7:6.2"
 msgid "uñchāpattāgate rato;"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 #. <br>
 msgctxt "thag16.7:6.3"
 msgid "Jhāyati anupādāno,"
-msgstr "Bhaddiya, son of Godhā,"
+msgstr "Bhaddiya son of Godhā"
 
 #. <br>
 msgctxt "thag16.7:6.4"
 msgid "putto godhāya bhaddiyo."
-msgstr "Practices jhāna without grasping."
+msgstr "practices absorption without grasping."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc844"></a><a class="verse-num-pts" id="verse-num-pts844"></a>
@@ -92,17 +92,17 @@ msgstr "Wearing rags, persevering,"
 #. <br>
 msgctxt "thag16.7:7.2"
 msgid "uñchāpattāgate rato;"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 #. <br>
 msgctxt "thag16.7:7.3"
 msgid "Jhāyati anupādāno,"
-msgstr "Bhaddiya, son of Godhā,"
+msgstr "Bhaddiya son of Godhā"
 
 #. <br>
 msgctxt "thag16.7:7.4"
 msgid "putto godhāya bhaddiyo."
-msgstr "Practices jhāna without grasping."
+msgstr "practices absorption without grasping."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc845"></a><a class="verse-num-pts" id="verse-num-pts845"></a>
@@ -113,11 +113,11 @@ msgstr "Living on alms-food, persevering,"
 #. <br>
 msgctxt "thag16.7:8.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:8.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc846"></a><a class="verse-num-pts" id="verse-num-pts846"></a>
@@ -128,27 +128,27 @@ msgstr "Possessing only three robes, persevering,"
 #. <br>
 msgctxt "thag16.7:9.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:9.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 # Note: I changed this, see https://discourse.suttacentral.net/t/sapadana-means-on-site-not-continuous/2978
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc847"></a><a class="verse-num-pts" id="verse-num-pts847"></a>
 msgctxt "thag16.7:10.1"
 msgid "Sapadānacārī sātatiko,"
-msgstr "Eating alms where they are collected, persevering,"
+msgstr "Wandering for alms indiscriminately, persevering,"
 
 #. <br>
 msgctxt "thag16.7:10.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:10.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="7"></a><a class="verse-num-sc"
 #. id="verse-num-sc848"></a><a class="verse-num-pts" id="verse-num-pts848"></a>
@@ -159,11 +159,11 @@ msgstr "Sitting alone, persevering,"
 #. <br>
 msgctxt "thag16.7:11.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:11.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="8"></a><a class="verse-num-sc"
 #. id="verse-num-sc849"></a><a class="verse-num-pts" id="verse-num-pts849"></a>
@@ -174,11 +174,11 @@ msgstr "Eating only what is placed in the alms-bowl, persevering,"
 #. <br>
 msgctxt "thag16.7:12.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:12.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="9"></a><a class="verse-num-sc"
 #. id="verse-num-sc850"></a><a class="verse-num-pts" id="verse-num-pts850"></a>
@@ -189,11 +189,11 @@ msgstr "Never eating too late, persevering,"
 #. <br>
 msgctxt "thag16.7:13.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:13.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="10"></a><a class="verse-num-sc"
 #. id="verse-num-sc851"></a><a class="verse-num-pts" id="verse-num-pts851"></a>
@@ -204,11 +204,11 @@ msgstr "Living in the wilderness, persevering,"
 #. <br>
 msgctxt "thag16.7:14.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:14.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="11"></a><a class="verse-num-sc"
 #. id="verse-num-sc852"></a><a class="verse-num-pts" id="verse-num-pts852"></a>
@@ -219,11 +219,11 @@ msgstr "Living at the foot of a tree, persevering,"
 #. <br>
 msgctxt "thag16.7:15.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:15.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="12"></a><a class="verse-num-sc"
 #. id="verse-num-sc853"></a><a class="verse-num-pts" id="verse-num-pts853"></a>
@@ -234,11 +234,11 @@ msgstr "Living in the open, persevering,"
 #. <br>
 msgctxt "thag16.7:16.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:16.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="13"></a><a class="verse-num-sc"
 #. id="verse-num-sc854"></a><a class="verse-num-pts" id="verse-num-pts854"></a>
@@ -249,11 +249,11 @@ msgstr "Living in a charnel ground, persevering,"
 #. <br>
 msgctxt "thag16.7:17.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:17.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="14"></a><a class="verse-num-sc"
 #. id="verse-num-sc855"></a><a class="verse-num-pts" id="verse-num-pts855"></a>
@@ -264,11 +264,11 @@ msgstr "Accepting whatever seat is offered, persevering,"
 #. <br>
 msgctxt "thag16.7:18.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:18.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="15"></a><a class="verse-num-sc"
 #. id="verse-num-sc856"></a><a class="verse-num-pts" id="verse-num-pts856"></a>
@@ -279,26 +279,26 @@ msgstr "Not lying down to sleep, persevering,"
 #. <br>
 msgctxt "thag16.7:19.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:19.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="16"></a><a class="verse-num-sc"
 #. id="verse-num-sc857"></a><a class="verse-num-pts" id="verse-num-pts857"></a>
 msgctxt "thag16.7:20.1"
 msgid "Appiccho sātatiko,"
-msgstr "Having few wishes, persevering,"
+msgstr "Few in wishes, persevering,"
 
 #. <br>
 msgctxt "thag16.7:20.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:20.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="17"></a><a class="verse-num-sc"
 #. id="verse-num-sc858"></a><a class="verse-num-pts" id="verse-num-pts858"></a>
@@ -309,11 +309,11 @@ msgstr "Content, persevering,"
 #. <br>
 msgctxt "thag16.7:21.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:21.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="18"></a><a class="verse-num-sc"
 #. id="verse-num-sc859"></a><a class="verse-num-pts" id="verse-num-pts859"></a>
@@ -324,11 +324,11 @@ msgstr "Secluded, persevering,"
 #. <br>
 msgctxt "thag16.7:22.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:22.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="19"></a><a class="verse-num-sc"
 #. id="verse-num-sc860"></a><a class="verse-num-pts" id="verse-num-pts860"></a>
@@ -339,11 +339,11 @@ msgstr "Not socializing, persevering,"
 #. <br>
 msgctxt "thag16.7:23.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:23.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="20"></a><a class="verse-num-sc"
 #. id="verse-num-sc861"></a><a class="verse-num-pts" id="verse-num-pts861"></a>
@@ -354,11 +354,11 @@ msgstr "Energetic, persevering,"
 #. <br>
 msgctxt "thag16.7:24.2"
 msgid "…"
-msgstr "Happy with the scraps in my alms-bowl;"
+msgstr "happy with the scraps in my bowl:"
 
 msgctxt "thag16.7:24.3"
 msgid "pe …"
-msgstr "Bhaddiya, son of Godhā, practices jhāna without grasping."
+msgstr "Bhaddiya son of Godhā practices absorption without grasping."
 
 #. </p><p><a class="sc" id="21"></a><a class="verse-num-sc"
 #. id="verse-num-sc862"></a><a class="verse-num-pts" id="verse-num-pts862"></a>
@@ -369,38 +369,38 @@ msgstr "Giving up a valuable bronze bowl,"
 #. <br>
 msgctxt "thag16.7:25.2"
 msgid "sovaṇṇaṃ satarājikaṃ;"
-msgstr "And a precious golden one, too,"
+msgstr "and a precious golden one, too,"
 
 #. <br>
 msgctxt "thag16.7:25.3"
 msgid "Aggahiṃ mattikāpattaṃ,"
-msgstr "I took up a clay bowl:"
+msgstr "I took a bowl made of clay:"
 
 #. <br>
 msgctxt "thag16.7:25.4"
 msgid "idaṃ dutiyābhisecanaṃ."
-msgstr "This is my second initiation."
+msgstr "this is my second initiation."
 
 #. </p><p><a class="sc" id="22"></a><a class="verse-num-sc"
 #. id="verse-num-sc863"></a><a class="verse-num-pts" id="verse-num-pts863"></a>
 msgctxt "thag16.7:26.1"
 msgid "Ucce maṇḍalipākāre,"
-msgstr "Formerly I lived in a citadel surrounded by high walls,"
+msgstr "I used to live in a citadel with walls so high,"
 
 #. <br>
 msgctxt "thag16.7:26.2"
 msgid "daḷhamaṭṭālakoṭṭhake;"
-msgstr "With strong battlements and gates,"
+msgstr "with battlements strong and gates,"
 
 #. <br>
 msgctxt "thag16.7:26.3"
 msgid "Rakkhito khaggahatthehi,"
-msgstr "And guarded by swordsmen—"
+msgstr "all guarded by swordsmen—"
 
 #. <br>
 msgctxt "thag16.7:26.4"
 msgid "uttasaṃ vihariṃ pure."
-msgstr "And I trembled with fear."
+msgstr "and yet I trembled with fear."
 
 #. </p><p><a class="sc" id="23"></a><a class="verse-num-sc"
 #. id="verse-num-sc864"></a><a class="verse-num-pts" id="verse-num-pts864"></a>
@@ -411,44 +411,43 @@ msgstr "Today I am fortunate, free of trembling,"
 #. <br>
 msgctxt "thag16.7:27.2"
 msgid "pahīnabhayabheravo;"
-msgstr "With fear and dread abandoned."
+msgstr "with fear and terror given up."
 
 #. <br>
 msgctxt "thag16.7:27.3"
 msgid "Jhāyati vanamoggayha,"
-msgstr "Bhaddiya, son of Godhā,"
+msgstr "Bhaddiya son of Godhā"
 
 #. <br>
 msgctxt "thag16.7:27.4"
 msgid "putto godhāya bhaddiyo."
-msgstr "Has plunged into the forest and practices jhāna."
+msgstr "has plunged into the forest and practices absorption."
 
 #. </p><p><a class="sc" id="24"></a><a class="verse-num-sc"
 #. id="verse-num-sc865"></a><a class="verse-num-pts" id="verse-num-pts865"></a>
 msgctxt "thag16.7:28.1"
 msgid "Sīlakkhandhe patiṭṭhāya,"
-msgstr "Established in all the practices of virtue,"
+msgstr "Established in the full spectrum of ethics,"
 
 #. <br>
 msgctxt "thag16.7:28.2"
 msgid "satiṃ paññañca bhāvayaṃ;"
-msgstr "Developing mindfulness and understanding,"
+msgstr "developing the mind and wisdom,"
 
 #. <br>
 msgctxt "thag16.7:28.3"
 msgid "Pāpuṇiṃ anupubbena,"
-msgstr "Gradually I attained"
+msgstr "gradually I attained"
 
 #. <br>
 msgctxt "thag16.7:28.4"
 msgid "sabbasaṃyojanakkhayan”ti."
-msgstr "The end of all fetters."
+msgstr "the ending of all fetters."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag16.7:29.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag16.7:29.2"
 msgid ""

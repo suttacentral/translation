@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thig/thig13.5.po\n"
-"X-Pootle-Revision: 8331\n"
+"X-Pootle-Revision: 77620\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -323,7 +323,7 @@ msgstr "Sufficient supports for homelessness"
 #. id="verse-num-sc352"></a><a class="verse-num-pts" id="verse-num-pts350"></a>
 msgctxt "thig13.5:17.1"
 msgid "Vantā mahesīhi kāmā,"
-msgstr "Great sages renounce sensual pleasure"
+msgstr "Great hermits renounce sensual pleasure"
 
 #. <br>
 msgctxt "thig13.5:17.2"
@@ -576,7 +576,7 @@ msgstr "That noble eightfold straight way"
 #. <br>
 msgctxt "thig13.5:28.4"
 msgid "yena tiṇṇā mahesino”."
-msgstr "By which the sages cross over"
+msgstr "By which the hermits cross over"
 
 #. </p><p><a class="sc" id="26"></a><a class="verse-num-sc"
 #. id="verse-num-sc364"></a><a class="verse-num-pts" id="verse-num-pts362"></a>
@@ -639,7 +639,7 @@ msgstr "Disconnected from all bonds"
 #. <br>
 msgctxt "thig13.5:31.4"
 msgid "katakiccā anāsavā”."
-msgstr "Her work completed, without defilements.”"
+msgstr "Her task completed, without defilements.”"
 
 #. </p><p><a class="sc" id="29"></a><a class="verse-num-sc"
 #. id="verse-num-sc367"></a><a class="verse-num-pts" id="verse-num-pts365"></a>
@@ -675,4 +675,4 @@ msgstr ""
 #. </p><p class="endsection"><a class="sc" id="31"></a>
 msgctxt "thig13.5:34.1"
 msgid "Vīsatinipāto niṭṭhito."
-msgstr ""
+msgstr "The Book of the Twenties is finished."

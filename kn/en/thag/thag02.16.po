@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.16.po\n"
-"X-Pootle-Revision: 7935\n"
+"X-Pootle-Revision: 73468\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.16:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.16:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.16:3.1"
 msgid "Dutiyavagga"
-msgstr ""
+msgstr "Chapter Two"
 
 #. </p><h1>
 msgctxt "thag2.16:4.1"
 msgid "2.16. Mahākāḷattheragāthā"
-msgstr ""
+msgstr "2.16. Mahākāḷa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc151"></a><a class="verse-num-pts"
@@ -55,19 +55,19 @@ msgctxt "thag2.16:5.3"
 msgid ""
 "Bāhañca bhetvā aparañca <span class=\"var\" title=\"bāhuṃ (bj, s2, s3, pts2)"
 "\" id=\"note100\">bāhaṃ</span>,"
-msgstr "She broke off arm-bones, first one then another;"
+msgstr "she broke off arm-bones, first one then another;"
 
 #. <br>
 msgctxt "thag2.16:5.4"
 msgid "Sīsañca bhetvā dadhithālakaṃva;"
-msgstr "She broke off a skull like a curd-bowl, and then—"
+msgstr "she broke off a skull like a curd-bowl, and then"
 
 #. <br>
 msgctxt "thag2.16:5.5"
 msgid ""
 "Esā nisinnā <span class=\"var\" title=\"abhisaddahitvā (bj, pts1)\" id=\""
 "note101\">abhisandahitvā</span>."
-msgstr "She assembled them all together, and sat down beside them."
+msgstr "arranged them and sat nearby."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc152"></a><a class="verse-num-pts" id="verse-num-pts152"></a>
@@ -78,7 +78,7 @@ msgstr "When an ignorant person builds up attachments,"
 #. <br>
 msgctxt "thag2.16:6.2"
 msgid "Punappunaṃ dukkhamupeti mando;"
-msgstr "That idiot returns to suffering, again and again."
+msgstr "that idiot returns to suffering again and again."
 
 #. <br>
 msgctxt "thag2.16:6.3"
@@ -90,13 +90,12 @@ msgctxt "thag2.16:6.4"
 msgid ""
 "Māhaṃ puna bhinnasiro <span class=\"var\" title=\"passissanti (mr)\" id=\""
 "note102\">sayissan”ti</span>."
-msgstr "May I never again lie with a broken skull!"
+msgstr "may I never again lie with a broken skull!"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.16:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.16:7.2"
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.076.po\n"
-"X-Pootle-Revision: 7815\n"
+"X-Pootle-Revision: 73408\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.76:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.76:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.76:3.1"
 msgid "Aṭṭhamavagga"
-msgstr ""
+msgstr "Chapter Eight"
 
 #. </p><h1>
 msgctxt "thag1.76:4.1"
 msgid "1.76. Piyañjahattheragāthā"
-msgstr ""
+msgstr "1.76. Piyañjaha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc76"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "Settle down when others spring up;"
 #. <br>
 msgctxt "thag1.76:5.2"
 msgid "nipatantesu uppate;"
-msgstr "Spring up when others settle down;"
+msgstr "spring up when others settle down."
 
 #. <br>
 msgctxt "thag1.76:5.3"
@@ -58,13 +58,12 @@ msgstr "Remain when others have departed;"
 #. <br>
 msgctxt "thag1.76:5.4"
 msgid "ramamānesu no rame”ti."
-msgstr "Be without delight when others delight."
+msgstr "don’t delight when others delight."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.76:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.76:6.2"
 msgid "Piyañjaho thero …."

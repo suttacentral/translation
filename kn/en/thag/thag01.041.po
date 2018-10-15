@@ -1,15 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: suttas 1\n"
-"Report-Msgid-Bugs-To: sujato@gmail.com\n"
-"POT-Creation-Date: 2016-07-12 20:34+0157\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: SuttaCentral\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/kn/thag/thag01.041.po\n"
+"X-Pootle-Revision: 73373\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -18,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.41:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.41:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.41:3.1"
 msgid "Pañcamavagga"
-msgstr ""
+msgstr "Chapter Five"
 
 #. </p><h1>
 msgctxt "thag1.41:4.1"
 msgid "1.41. Sirivaḍḍhattheragāthā"
-msgstr ""
+msgstr "1.41. Sirivaḍḍha"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc41"></a><a class="verse-num-pts"
@@ -45,17 +48,17 @@ msgstr "Lightning flashes down"
 #. <br>
 msgctxt "thag1.41:5.2"
 msgid "Vebhārassa ca paṇḍavassa ca;"
-msgstr "On the cleft of Vebhāra and Paṇḍava."
+msgstr "on the cleft of Vebhāra and Paṇḍava."
 
 #. <br>
 msgctxt "thag1.41:5.3"
 msgid "Nagavivaragato ca jhāyati,"
-msgstr "But in the mountain cleft, the son of the inimitable"
+msgstr "But in the mountain cleft he is absorbed in jhāna—"
 
 #. <br>
 msgctxt "thag1.41:5.4"
 msgid "Putto appaṭimassa tādino”ti."
-msgstr "Is absorbed in jhāna, equanimous."
+msgstr "the son of the Buddha, inimitable and poised."
 
 #. </p></blockquote><p class="endsutta">
 msgctxt "thag1.41:6.1"
@@ -65,4 +68,3 @@ msgstr ""
 msgctxt "thag1.41:6.2"
 msgid "Sirivaḍḍho thero …."
 msgstr ""
-

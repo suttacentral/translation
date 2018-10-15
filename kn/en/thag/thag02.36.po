@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.36.po\n"
-"X-Pootle-Revision: 7975\n"
+"X-Pootle-Revision: 73488\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,24 +21,24 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.36:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.36:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.36:3.1"
 msgid "Catutthavagga"
-msgstr ""
+msgstr "Chapter Four"
 
 #. </p><h1>
 msgctxt "thag2.36:4.1"
 msgid ""
 "<span class=\"var\" title=\"khitakattheragāthā (bj)\" id=\"note124\">2.36 "
 "Nitakattheragāthā</span>"
-msgstr ""
+msgstr "2.36. Nitaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc191"></a><a class="verse-num-pts"
@@ -49,69 +49,68 @@ msgid ""
 "[Sāsanapaṭṭhāna]; ^pe2#2 [Sāsanapaṭṭhānadutiyabhūmi], ^pe7#117 [Peṭakopadesa/"
 " Hārasampātabhūmi] passitabbaṃ)\" id=\"note125\">Kassa</span> selūpamaṃ "
 "cittaṃ,"
-msgstr "Whose mind is like rock,"
+msgstr "Whose mind is like a rock,"
 
 #. <br>
 msgctxt "thag2.36:5.2"
 msgid "ṭhitaṃ nānupakampati;"
-msgstr "Steady, not trembling?"
+msgstr "steady, never trembling—"
 
 #. <br>
 msgctxt "thag2.36:5.3"
 msgid "Virattaṃ rajanīyesu,"
-msgstr "Free of desire among desirable things,"
+msgstr "free of desire for desirable things,"
 
 #. <br>
 msgctxt "thag2.36:5.4"
 msgid "kuppanīye na kuppati;"
-msgstr "Not agitated among agitating things?"
+msgstr "not getting annoyed when things are annoying?"
 
 #. <br>
 msgctxt "thag2.36:5.5"
 msgid "Yassevaṃ bhāvitaṃ cittaṃ,"
-msgstr "For one whose mind is developed in this way,"
+msgstr "From where will suffering strike one"
 
 #. <br>
 msgctxt "thag2.36:5.6"
 msgid "kuto taṃ dukkhamessati."
-msgstr "From where will suffering come?"
+msgstr "whose mind is developed like this?"
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc192"></a><a class="verse-num-pts" id="verse-num-pts192"></a>
 msgctxt "thag2.36:6.1"
 msgid "Mama selūpamaṃ cittaṃ,"
-msgstr "My mind is like rock,"
+msgstr "My mind is like a rock,"
 
 #. <br>
 msgctxt "thag2.36:6.2"
 msgid "ṭhitaṃ nānupakampati;"
-msgstr "Steady, not trembling,"
+msgstr "steady, never trembling—"
 
 #. <br>
 msgctxt "thag2.36:6.3"
 msgid "Virattaṃ rajanīyesu,"
-msgstr "Free of desire among desirable things,"
+msgstr "free of desire for desirable things,"
 
 #. <br>
 msgctxt "thag2.36:6.4"
 msgid "kuppanīye na kuppati;"
-msgstr "Not agitated among agitating things."
+msgstr "not getting annoyed when things are annoying."
 
 #. <br>
 msgctxt "thag2.36:6.5"
 msgid "Mamevaṃ bhāvitaṃ cittaṃ,"
-msgstr "For me, whose mind is developed in this way,"
+msgstr "From where will suffering strike me"
 
 #. <br>
 msgctxt "thag2.36:6.6"
 msgid "kuto maṃ dukkhamessatī”ti."
-msgstr "From where will suffering come?"
+msgstr "whose mind is developed like this?"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.36:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.36:7.2"
 msgid ""

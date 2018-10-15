@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.26.po\n"
-"X-Pootle-Revision: 7955\n"
+"X-Pootle-Revision: 73478\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,71 +21,70 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.26:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.26:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.26:3.1"
 msgid "Tatiyavagga"
-msgstr ""
+msgstr "Chapter Three"
 
 #. </p><h1>
 msgctxt "thag2.26:4.1"
 msgid "2.26. Puṇṇamāsattheragāthā"
-msgstr ""
+msgstr "2.26. Puṇṇamāsa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc171"></a><a class="verse-num-pts"
 #. id="verse-num-pts171"></a>
 msgctxt "thag2.26:5.1"
 msgid "“Pañca nīvaraṇe hitvā,"
-msgstr "I abandoned the five hindrances"
+msgstr "I gave up the five hindrances"
 
 #. <br>
 msgctxt "thag2.26:5.2"
 msgid "yogakkhemassa pattiyā;"
-msgstr "So I could realise security from the yoke;"
+msgstr "in order to find sanctuary."
 
 #. <br>
 msgctxt "thag2.26:5.3"
 msgid "Dhammādāsaṃ gahetvāna,"
-msgstr "And I picked up the Dhamma as a mirror,"
+msgstr "I took Dhamma as a mirror"
 
 #. <br>
 msgctxt "thag2.26:5.4"
 msgid "ñāṇadassanamattano."
-msgstr "For knowing and seeing myself."
+msgstr "for knowing and seeing myself."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc172"></a><a class="verse-num-pts" id="verse-num-pts172"></a>
 msgctxt "thag2.26:6.1"
 msgid "Paccavekkhiṃ imaṃ kāyaṃ,"
-msgstr "I checked over this body"
+msgstr "I checked over this body,"
 
 #. <br>
 msgctxt "thag2.26:6.2"
 msgid "sabbaṃ santarabāhiraṃ;"
-msgstr "All of it, inside and out."
+msgstr "all of it, inside and out."
 
 #. <br>
 msgctxt "thag2.26:6.3"
 msgid "Ajjhattañca bahiddhā ca,"
-msgstr "Internally and externally,"
+msgstr "Internally and externally"
 
 #. <br>
 msgctxt "thag2.26:6.4"
 msgid "tuccho kāyo adissathā”ti."
-msgstr "My body looked vacant."
+msgstr "my body appeared vacant."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.26:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.26:7.2"
 msgid "Puṇṇamāso thero …."

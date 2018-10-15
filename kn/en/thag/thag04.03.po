@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag04.03.po\n"
-"X-Pootle-Revision: 8039\n"
+"X-Pootle-Revision: 73870\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag4.3:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag4.3:2.1"
 msgid "Catukkanipāta"
-msgstr ""
+msgstr "The Book of the Fours"
 
 #. </p><p>
 msgctxt "thag4.3:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag4.3:4.1"
 msgid "4.3. Sabhiyattheragāthā"
-msgstr ""
+msgstr "4.3. Sabhiya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a>
 msgctxt "thag4.3:5.1"
@@ -47,20 +47,21 @@ msgid ""
 "></a>“Pare ca na vijānanti,"
 msgstr "Others don’t understand"
 
+# Yamamase is an imperative, "we must control ourselves". Both in Thag 4.3 and Thag 8.1, however, the context clearly indicates that a pun on Yama, the god of death, is intended. This is confirmed by the commentary, see Norman's note on Thag 4.3. I try to translate in a way that captures both "must restrain ourselves" and "we will go to presence of Death".
 #. <br>
 msgctxt "thag4.3:5.2"
 msgid "mayamettha yamāmase;"
-msgstr "That here we come to our end."
+msgstr "that our lives must have limits."
 
 #. <br>
 msgctxt "thag4.3:5.3"
 msgid "Ye ca tattha vijānanti,"
-msgstr "Those that do understand this"
+msgstr "Those who do understand this"
 
 #. <br>
 msgctxt "thag4.3:5.4"
 msgid "tato sammanti medhagā."
-msgstr "Settle their quarrels because of that."
+msgstr "settle their quarrels right away."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc276"></a><a class="verse-num-pts" id="verse-num-pts276"></a>
@@ -71,17 +72,17 @@ msgstr "And when those who don’t understand"
 #. <br>
 msgctxt "thag4.3:6.2"
 msgid "iriyantyamarā viya;"
-msgstr "Behave as though they were immortal;"
+msgstr "behave as though they were immortal,"
 
 #. <br>
 msgctxt "thag4.3:6.3"
 msgid "Vijānanti ca ye dhammaṃ,"
-msgstr "Those who understand the Dhamma"
+msgstr "those who understand the Dhamma"
 
 #. <br>
 msgctxt "thag4.3:6.4"
 msgid "āturesu anāturā."
-msgstr "Are like the healthy among the sick."
+msgstr "are like the healthy among the sick."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc277"></a><a class="verse-num-pts" id="verse-num-pts277"></a>
@@ -92,17 +93,17 @@ msgstr "Any lax act,"
 #. <br>
 msgctxt "thag4.3:7.2"
 msgid "saṃkiliṭṭhañca yaṃ vataṃ;"
-msgstr "Or corrupt religious observance,"
+msgstr "any corrupt observance,"
 
 #. <br>
 msgctxt "thag4.3:7.3"
 msgid "Saṅkassaraṃ brahmacariyaṃ,"
-msgstr "Or a spiritual life arousing suspicion,"
+msgstr "or suspicious spiritual life,"
 
 #. <br>
 msgctxt "thag4.3:7.4"
 msgid "na taṃ hoti mahapphalaṃ."
-msgstr "Does not yield great fruit."
+msgstr "is not very fruitful."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc278"></a><a class="verse-num-pts" id="verse-num-pts278"></a>
@@ -113,23 +114,22 @@ msgstr "Whoever has no respect"
 #. <br>
 msgctxt "thag4.3:8.2"
 msgid "gāravo nūpalabbhati;"
-msgstr "For their companions in the spiritual life"
+msgstr "for their spiritual companions"
 
 #. <br>
 msgctxt "thag4.3:8.3"
 msgid "Ārakā hoti saddhammā,"
-msgstr "Is as far from true Dhamma"
+msgstr "is as far from true Dhamma"
 
 #. <br>
 msgctxt "thag4.3:8.4"
 msgid "nabhaṃ puthaviyā yathā”ti."
-msgstr "As the sky is from the earth."
+msgstr "as the sky from the earth."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag4.3:9.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag4.3:9.2"
 msgid "Sabhiyo thero …."

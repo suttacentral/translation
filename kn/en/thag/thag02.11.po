@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.11.po\n"
-"X-Pootle-Revision: 7925\n"
+"X-Pootle-Revision: 75130\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,44 +21,44 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.11:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.11:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.11:3.1"
 msgid "Dutiyavagga"
-msgstr ""
+msgstr "Chapter Two"
 
 #. </p><h1>
 msgctxt "thag2.11:4.1"
 msgid "2.11. Mahācundattheragāthā"
-msgstr ""
+msgstr "2.11. Mahācunda"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc141"></a><a class="verse-num-pts"
 #. id="verse-num-pts141"></a><a class="pts" id="pts20"></a>
 msgctxt "thag2.11:5.1"
 msgid "“Sussūsā sutavaddhanī,"
-msgstr "It is from wishing to learn that learning grows;"
+msgstr "It’s from wishing to learn that learning grows;"
 
 #. <br>
 msgctxt "thag2.11:5.2"
 msgid "sutaṃ paññāya vaddhanaṃ;"
-msgstr "When you are learned, understanding grows;"
+msgstr "when you’re learned, wisdom grows;"
 
 #. <br>
 msgctxt "thag2.11:5.3"
 msgid "Paññāya atthaṃ jānāti,"
-msgstr "Through understanding, you know the goal;"
+msgstr "by wisdom, you know the goal;"
 
 #. <br>
 msgctxt "thag2.11:5.4"
 msgid "ñāto attho sukhāvaho."
-msgstr "Knowing the goal brings happiness."
+msgstr "knowing the goal brings happiness."
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag2.11:6.1"
@@ -67,7 +67,7 @@ msgid ""
 "[Peṇāhikaṅgapañha]\" id=\"note88\">*</span> <a class=\"verse-num-sc\" id"
 "=\"verse-num-sc142\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts142\""
 "></a>Sevetha pantāni senāsanāni,"
-msgstr "You should frequent secluded lodgings,"
+msgstr "You should frequent remote lodgings"
 
 #. <br>
 msgctxt "thag2.11:6.2"
@@ -82,13 +82,12 @@ msgstr "If you don’t find enjoyment there,"
 #. <br>
 msgctxt "thag2.11:6.4"
 msgid "Saṃghe vase rakkhitatto satimā”ti."
-msgstr "Live in the Saṅgha, guarded and mindful."
+msgstr "live in the Saṅgha, self-guarded and mindful."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.11:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.11:7.2"
 msgid "Mahācundo thero …."

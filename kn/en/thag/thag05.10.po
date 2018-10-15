@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag05.10.po\n"
-"X-Pootle-Revision: 8077\n"
+"X-Pootle-Revision: 76750\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag5.10:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag5.10:2.1"
 msgid "Pañcakanipāta"
-msgstr ""
+msgstr "The Book of the Fives"
 
 #. </p><p>
 msgctxt "thag5.10:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag5.10:4.1"
 msgid "5.10. Yasadattattheragāthā"
-msgstr ""
+msgstr "5.10. Yasadatta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc360"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "With fault-finding mind, the dullard"
 #. <br>
 msgctxt "thag5.10:5.2"
 msgid "suṇāti jinasāsanaṃ;"
-msgstr "Listens to the conqueror’s teaching."
+msgstr "listens to the victor’s instruction."
 
 #. <br>
 msgctxt "thag5.10:5.3"
 msgid "Ārakā hoti saddhammā,"
-msgstr "They’re as far from true Dhamma,"
+msgstr "They’re as far from true teaching"
 
 #. <br>
 msgctxt "thag5.10:5.4"
 msgid "nabhaso pathavī yathā."
-msgstr "As the earth is from the sky."
+msgstr "as the earth is from the sky."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc361"></a><a class="verse-num-pts" id="verse-num-pts361"></a>
@@ -69,17 +69,17 @@ msgstr "With fault-finding mind, the dullard"
 #. <br>
 msgctxt "thag5.10:6.2"
 msgid "suṇāti jinasāsanaṃ;"
-msgstr "Listens to the conqueror’s teaching."
+msgstr "listens to the victor’s instruction."
 
 #. <br>
 msgctxt "thag5.10:6.3"
 msgid "Parihāyati saddhammā,"
-msgstr "They decline in the true Dhamma,"
+msgstr "They fall away from the true teaching,"
 
 #. <br>
 msgctxt "thag5.10:6.4"
 msgid "kāḷapakkheva candimā."
-msgstr "Like the moon in the waning fortnight."
+msgstr "like the moon in the waning fortnight."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc362"></a><a class="verse-num-pts" id="verse-num-pts362"></a>
@@ -90,17 +90,17 @@ msgstr "With fault-finding mind, the dullard"
 #. <br>
 msgctxt "thag5.10:7.2"
 msgid "suṇāti jinasāsanaṃ;"
-msgstr "Listens to the conqueror’s teaching."
+msgstr "listens to the victor’s instruction."
 
 #. <br>
 msgctxt "thag5.10:7.3"
 msgid "Parisussati saddhamme,"
-msgstr "They wither away in the true Dhamma,"
+msgstr "They wither away in the true teaching,"
 
 #. <br>
 msgctxt "thag5.10:7.4"
 msgid "maccho appodake yathā."
-msgstr "Like a fish in too little water."
+msgstr "like a fish in too little water."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc363"></a><a class="verse-num-pts" id="verse-num-pts363"></a>
@@ -111,17 +111,17 @@ msgstr "With fault-finding mind, the dullard"
 #. <br>
 msgctxt "thag5.10:8.2"
 msgid "suṇāti jinasāsanaṃ;"
-msgstr "Listens to the conqueror’s teaching."
+msgstr "listens to the victor’s instruction."
 
 #. <br>
 msgctxt "thag5.10:8.3"
 msgid "Na virūhati saddhamme,"
-msgstr "They don’t thrive in the true Dhamma,"
+msgstr "They don’t thrive in the true teaching,"
 
 #. <br>
 msgctxt "thag5.10:8.4"
 msgid "khette bījaṃva pūtikaṃ."
-msgstr "Like a rotten seed in a field."
+msgstr "like a rotten seed in a field."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc364"></a><a class="verse-num-pts" id="verse-num-pts364"></a>
@@ -132,33 +132,32 @@ msgstr "But one with contented mind"
 #. <br>
 msgctxt "thag5.10:9.2"
 msgid "suṇāti jinasāsanaṃ;"
-msgstr "Who listens to the conqueror’s teachings—"
+msgstr "who listens to the victor’s instruction—"
 
 #. <br>
 msgctxt "thag5.10:9.3"
 msgid "Khepetvā āsave sabbe,"
-msgstr "Having ended all defilements,"
+msgstr "having wiped out all defilements;"
 
 #. <br>
 msgctxt "thag5.10:9.4"
 msgid "sacchikatvā akuppataṃ;"
-msgstr "Having witnessed the unshakable,"
+msgstr "having witnessed the unshakable;"
 
 #. <br>
 msgctxt "thag5.10:9.5"
 msgid "Pappuyya paramaṃ santiṃ,"
-msgstr "Having arrived at the highest peace—"
+msgstr "having arrived at ultimate peace—"
 
 #. <br>
 msgctxt "thag5.10:9.6"
 msgid "parinibbātināsavo”ti."
-msgstr "They realize nibbāna without defilements."
+msgstr "they are quenched without defilements."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag5.10:10.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag5.10:10.2"
 msgid "Yasadatto thero …."

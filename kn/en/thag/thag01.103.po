@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.103.po\n"
-"X-Pootle-Revision: 7869\n"
+"X-Pootle-Revision: 73435\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.103:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.103:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.103:3.1"
 msgid "Ekādasamavagga"
-msgstr ""
+msgstr "Chapter Eleven"
 
 #. </p><h1>
 msgctxt "thag1.103:4.1"
 msgid "1.103. Bandhurattheragāthā"
-msgstr ""
+msgstr "1.103. Bandhura"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc103"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "I don’t need this—"
 #. <br>
 msgctxt "thag1.103:5.2"
 msgid "Sukhito dhammarasena tappito;"
-msgstr "I’m satisfied and pleased with the sweet Dhamma."
+msgstr "I’m happy and satisfied with the sweet teaching."
 
 #. <br>
 msgctxt "thag1.103:5.3"
@@ -63,10 +63,9 @@ msgid "Na ca kāhāmi visena santhavan”ti."
 msgstr "I won’t go near poison."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.103:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.103:6.2"
 msgid ""

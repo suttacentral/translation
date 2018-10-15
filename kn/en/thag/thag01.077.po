@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.077.po\n"
-"X-Pootle-Revision: 7817\n"
+"X-Pootle-Revision: 73409\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.77:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.77:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.77:3.1"
 msgid "Aṭṭhamavagga"
-msgstr ""
+msgstr "Chapter Eight"
 
 #. </p><h1>
 msgctxt "thag1.77:4.1"
 msgid "1.77. Hatthārohaputtattheragāthā"
-msgstr ""
+msgstr "1.77. Hatthārohaputta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc77"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "In the past my mind wandered"
 #. <br>
 msgctxt "thag1.77:5.2"
 msgid "Yenicchakaṃ yatthakāmaṃ yathāsukhaṃ;"
-msgstr "How it wished, where it liked, as it pleased."
+msgstr "how it wished, where it liked, as it pleased."
 
 #. <br>
 msgctxt "thag1.77:5.3"
@@ -60,13 +60,12 @@ msgctxt "thag1.77:5.4"
 msgid ""
 "<span class=\"var\" title=\"hatthiṃ pabhinnaṃ (s2, s3, pts2)\" id=\"note59\""
 ">Hatthippabhinnaṃ</span> viya aṅkusaggaho”ti."
-msgstr "As a rutting elephant is guided by a trainer with a hook."
+msgstr "as a trainer with a hook guides a rutting elephant."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.77:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.77:6.2"
 msgid "Hatthārohaputto thero …."

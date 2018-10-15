@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag06.06.po\n"
-"X-Pootle-Revision: 8093\n"
+"X-Pootle-Revision: 86317\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag6.6:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag6.6:2.1"
 msgid "Chakkanipāta"
-msgstr ""
+msgstr "The Book of the Sixes"
 
 #. </p><p>
 msgctxt "thag6.6:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag6.6:4.1"
 msgid "6.6. Sappadāsattheragāthā"
-msgstr ""
+msgstr "6.6. Sappadāsa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc405"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "In the twenty-five years"
 #. <br>
 msgctxt "thag6.6:5.2"
 msgid "yato pabbajito ahaṃ;"
-msgstr "Since I went forth,"
+msgstr "since I went forth,"
 
 #. <br>
 msgctxt "thag6.6:5.3"
@@ -58,7 +58,7 @@ msgstr "I have not found peace of mind,"
 #. <br>
 msgctxt "thag6.6:5.4"
 msgid "cetosantimanajjhagaṃ."
-msgstr "Even for as long as a finger-snap."
+msgstr "even as long as a finger-snap."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc406"></a><a class="verse-num-pts" id="verse-num-pts406"></a>
@@ -71,7 +71,7 @@ msgctxt "thag6.6:6.2"
 msgid ""
 "kāmarāgena <span class=\"var\" title=\"addito (bj, s2, s3, pts1-2) | aḍḍito "
 "(mr)\" id=\"note214\">aṭṭito</span>;"
-msgstr "I was tormented by sexual desire."
+msgstr "I was racked by desire for pleasures of the senses."
 
 #. <br>
 msgctxt "thag6.6:6.3"
@@ -83,13 +83,13 @@ msgctxt "thag6.6:6.4"
 msgid ""
 "vihārā <span class=\"var\" title=\"nūpanikkhamiṃ (bj) | nupanikkhamiṃ (s2, "
 "s3, pts1-2) | dupanikkhamiṃ (?)\" id=\"note215\">upanikkhamiṃ</span>."
-msgstr "I burst out of my dwelling."
+msgstr "I left my dwelling."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc407"></a><a class="verse-num-pts" id="verse-num-pts407"></a>
 msgctxt "thag6.6:7.1"
 msgid "Satthaṃ vā āharissāmi,"
-msgstr "Should I … or should I use the knife?"
+msgstr "Shall I … or shall I slit my wrists?"
 
 #. <br>
 msgctxt "thag6.6:7.2"
@@ -99,33 +99,34 @@ msgstr "What’s the point of living?"
 #. <br>
 msgctxt "thag6.6:7.3"
 msgid "Kathaṃ hi sikkhaṃ paccakkhaṃ,"
-msgstr "Rejecting the training,"
+msgstr "For how on earth can one such as me die"
 
+# Norman translates paccakkham as a present participle, but comm. glosses it as an abbreviated absolutive, which makes better sense. Kubbetha is middle 3rd singular optative, thus = kareyya. Kathanhi is also probably an abbreviated form of the usual kathanhi nama. Thus the comm. renders the sense in prose as: kathañhi nāma mādiso sikkhaṃ paccakkhāya kālaṃ kareyya
 #. <br>
 msgctxt "thag6.6:7.4"
 msgid "Kālaṃ kubbetha mādiso."
-msgstr "How should one like me come to an end?"
+msgstr "after rejecting the training?"
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc408"></a><a class="verse-num-pts" id="verse-num-pts408"></a>
 msgctxt "thag6.6:8.1"
 msgid "Tadāhaṃ khuramādāya,"
-msgstr "Then I picked up a razor;"
+msgstr "Then I picked up a razor,"
 
 #. <br>
 msgctxt "thag6.6:8.2"
 msgid "mañcakamhi upāvisiṃ;"
-msgstr "And sat on a bench;"
+msgstr "I sat on a cot:"
 
 #. <br>
 msgctxt "thag6.6:8.3"
 msgid "Parinīto khuro āsi,"
-msgstr "The razor was ready—"
+msgstr "the razor was ready"
 
 #. <br>
 msgctxt "thag6.6:8.4"
 msgid "dhamaniṃ chettumattano."
-msgstr "To cut my vein."
+msgstr "to slice my vein."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc409"></a><a class="verse-num-pts" id="verse-num-pts409"></a>
@@ -136,28 +137,28 @@ msgstr "Then the realization"
 #. <br>
 msgctxt "thag6.6:9.2"
 msgid "yoniso udapajjatha;"
-msgstr "Came upon me—"
+msgstr "came upon me—"
 
 #. <br>
 msgctxt "thag6.6:9.3"
 msgid "Ādīnavo pāturahu,"
-msgstr "The danger became clear,"
+msgstr "the danger became clear,"
 
 #. <br>
 msgctxt "thag6.6:9.4"
 msgid "nibbidā samatiṭṭhatha."
-msgstr "And I was firmly repulsed."
+msgstr "and I was firmly disillusioned."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc410"></a><a class="verse-num-pts" id="verse-num-pts410"></a>
 msgctxt "thag6.6:10.1"
 msgid "Tato cittaṃ vimucci me,"
-msgstr "Then my mind was liberated—"
+msgstr "Then my mind was freed—"
 
 #. <br>
 msgctxt "thag6.6:10.2"
 msgid "passa dhammasudhammataṃ;"
-msgstr "See the excellence of the Dhamma!"
+msgstr "see the excellence of the teaching!"
 
 #. <br>
 msgctxt "thag6.6:10.3"
@@ -167,13 +168,12 @@ msgstr "I’ve attained the three knowledges,"
 #. <br>
 msgctxt "thag6.6:10.4"
 msgid "kataṃ buddhassa sāsanan”ti."
-msgstr "And fulfilled the Buddha’s instructions."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag6.6:11.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag6.6:11.2"
 msgid "Sappadāso thero …."

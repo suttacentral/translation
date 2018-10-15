@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.23.po\n"
-"X-Pootle-Revision: 7949\n"
+"X-Pootle-Revision: 73475\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.23:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.23:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.23:3.1"
 msgid "Tatiyavagga"
-msgstr ""
+msgstr "Chapter Three"
 
 #. </p><h1>
 msgctxt "thag2.23:4.1"
 msgid "2.23. Sobhitattheragāthā"
-msgstr ""
+msgstr "2.23. Sobhita"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc165"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "As a monk, mindful and wise,"
 #. <br>
 msgctxt "thag2.23:5.2"
 msgid "āraddhabalavīriyo;"
-msgstr "Resolute in power and energy,"
+msgstr "empowered and full of energy,"
 
 #. <br>
 msgctxt "thag2.23:5.3"
@@ -58,18 +58,18 @@ msgstr "I recollected five hundred aeons"
 #. <br>
 msgctxt "thag2.23:5.4"
 msgid "ekarattiṃ anussariṃ."
-msgstr "In one night."
+msgstr "in a single night."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc166"></a><a class="verse-num-pts" id="verse-num-pts166"></a>
 msgctxt "thag2.23:6.1"
 msgid "Cattāro satipaṭṭhāne,"
-msgstr "Developing the four establishments of mindfulness,"
+msgstr "Developing the four kinds of mindfulness meditation,"
 
 #. <br>
 msgctxt "thag2.23:6.2"
 msgid "satta aṭṭha ca bhāvayaṃ;"
-msgstr "The seven factors of awakening and the eightfold path,"
+msgstr "the seven factors of awakening and the eightfold path,"
 
 #. <br>
 msgctxt "thag2.23:6.3"
@@ -79,13 +79,12 @@ msgstr "I recollected five hundred aeons"
 #. <br>
 msgctxt "thag2.23:6.4"
 msgid "ekarattiṃ anussarin”ti."
-msgstr "In one night."
+msgstr "in a single night."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.23:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.23:7.2"
 msgid "Sobhito thero …."

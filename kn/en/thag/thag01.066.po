@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.066.po\n"
-"X-Pootle-Revision: 7795\n"
+"X-Pootle-Revision: 73398\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.66:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.66:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.66:3.1"
 msgid "Sattamavagga"
-msgstr ""
+msgstr "Chapter Seven"
 
 #. </p><h1>
 msgctxt "thag1.66:4.1"
 msgid "1.66. Meghiyattheragāthā"
-msgstr ""
+msgstr "1.66. Meghiya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc66"></a><a class="verse-num-pts"
@@ -48,12 +48,12 @@ msgstr "He counselled me, the great hero,"
 #. <br>
 msgctxt "thag1.66:5.2"
 msgid "sabbadhammāna pāragū;"
-msgstr "The one who has gone beyond all things."
+msgstr "the one who has gone beyond all things."
 
 #. <br>
 msgctxt "thag1.66:5.3"
 msgid "Tassāhaṃ dhammaṃ sutvāna,"
-msgstr "When I heard his teaching "
+msgstr "When I heard his teaching"
 
 #. <br>
 msgctxt "thag1.66:5.4"
@@ -65,18 +65,17 @@ msgstr "I stayed close by him, mindful."
 #. <br>
 msgctxt "thag1.66:5.5"
 msgid "Tisso vijjā anuppattā,"
-msgstr "I’ve attained the three knowledges,"
+msgstr "I’ve attained the three knowledges"
 
 #. <br>
 msgctxt "thag1.66:5.6"
 msgid "kataṃ buddhassa sāsanan”ti."
-msgstr "And fulfilled the Buddha’s instructions."
+msgstr "and fulfilled the Buddha’s instructions."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.66:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.66:6.2"
 msgid "Meghiyo thero …."

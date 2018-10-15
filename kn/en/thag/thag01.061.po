@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.061.po\n"
-"X-Pootle-Revision: 7785\n"
+"X-Pootle-Revision: 73393\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.61:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.61:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.61:3.1"
 msgid "Sattamavagga"
-msgstr ""
+msgstr "Chapter Seven"
 
 #. </p><h1>
 msgctxt "thag1.61:4.1"
 msgid "1.61. Vappattheragāthā"
-msgstr ""
+msgstr "1.61. Vappa"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc61"></a><a class="verse-num-pts"
@@ -48,7 +48,7 @@ msgstr "One who sees"
 #. <br>
 msgctxt "thag1.61:5.2"
 msgid "apassantañca passati;"
-msgstr "Sees those who see and those who don’t."
+msgstr "sees those who see and those who don’t."
 
 #. <br>
 msgctxt "thag1.61:5.3"
@@ -58,13 +58,12 @@ msgstr "One who doesn’t see"
 #. <br>
 msgctxt "thag1.61:5.4"
 msgid "passantañca na passatī”ti."
-msgstr "Sees neither."
+msgstr "sees neither."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.61:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.61:6.2"
 msgid "Vappo thero …."

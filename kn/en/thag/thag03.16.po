@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag03.16.po\n"
-"X-Pootle-Revision: 8033\n"
+"X-Pootle-Revision: 86297\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,44 +21,44 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.16:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.16:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.16:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.16:4.1"
 msgid "3.16. Vimalattheragāthā"
-msgstr ""
+msgstr "3.16. Vimala"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc264"></a><a class="verse-num-pts"
 #. id="verse-num-pts264"></a>
 msgctxt "thag3.16:5.1"
 msgid "“Pāpamitte vivajjetvā,"
-msgstr "Avoiding bad friends,"
+msgstr "Shunning bad friends,"
 
 #. <br>
 msgctxt "thag3.16:5.2"
 msgid "bhajeyyuttamapuggalaṃ;"
-msgstr "You should associate with the best of people."
+msgstr "associate with the best of people."
 
 #. <br>
 msgctxt "thag3.16:5.3"
 msgid "Ovāde cassa tiṭṭheyya,"
-msgstr "Stick to the advice that he gave you,"
+msgstr "Stick to the advice he gave you,"
 
 #. <br>
 msgctxt "thag3.16:5.4"
 msgid "patthento acalaṃ sukhaṃ."
-msgstr "Aspiring to unshakable happiness."
+msgstr "aspiring to unshakable happiness."
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag3.16:6.1"
@@ -66,32 +66,32 @@ msgid ""
 "<span class=\"cross\" title=\"^thag2.14#2 [Somamittattheragāthā]\" id=\""
 "note168\">*</span> <a class=\"verse-num-sc\" id=\"verse-num-sc265\"></a><a "
 "class=\"verse-num-pts\" id=\"verse-num-pts265\"></a>Parittaṃ dārumāruyha,"
-msgstr "If someone lost in the middle of the ocean,"
+msgstr "If you’re lost in the middle of a great sea,"
 
 #. <br>
 msgctxt "thag3.16:6.2"
 msgid "yathā sīde mahaṇṇave;"
-msgstr "Were to clamber up on a little log, they’d sink;"
+msgstr "and you clamber up on a little log, you’ll sink."
 
 #. <br>
 msgctxt "thag3.16:6.3"
 msgid "Evaṃ kusītamāgamma,"
-msgstr "In the same way, even a good person would sink"
+msgstr "So too, a person who lives well"
 
 #. <br>
 msgctxt "thag3.16:6.4"
 msgid "sādhujīvīpi sīdati;"
-msgstr "If they rely on a lazy person."
+msgstr "sinks by relying on a lazy person."
 
 #. <br>
 msgctxt "thag3.16:6.5"
 msgid "Tasmā taṃ parivajjeyya,"
-msgstr "So avoid those who are lazy,"
+msgstr "Hence you should avoid such"
 
 #. <br>
 msgctxt "thag3.16:6.6"
 msgid "kusītaṃ hīnavīriyaṃ."
-msgstr "lacking energy."
+msgstr "a lazy person who lacks energy."
 
 #. </p><p><a class="sc" id="3"></a>
 msgctxt "thag3.16:7.1"
@@ -101,28 +101,27 @@ msgid ""
 "[Pavanaṅgapañha]\" id=\"note169\">*</span> <a class=\"verse-num-sc\" id"
 "=\"verse-num-sc266\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts266\""
 "></a>Pavivittehi ariyehi,"
-msgstr "Instead, dwell with the wise—"
+msgstr "Dwell with the noble ones"
 
 #. <br>
 msgctxt "thag3.16:7.2"
 msgid "pahitattehi jhāyibhi;"
-msgstr "Secluded, noble,"
+msgstr "who are secluded and determined"
 
 #. <br>
 msgctxt "thag3.16:7.3"
 msgid "Niccaṃ āraddhavīriyehi,"
-msgstr "Resolute, practising jhāna,"
+msgstr "and always energetic;"
 
 #. <br>
 msgctxt "thag3.16:7.4"
 msgid "paṇḍitehi sahāvase”ti."
-msgstr "And always energetic."
+msgstr "the astute who practice absorption."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag3.16:8.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag3.16:8.2"
 msgid "Vimalo thero …."

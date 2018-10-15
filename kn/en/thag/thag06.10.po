@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag06.10.po\n"
-"X-Pootle-Revision: 8101\n"
+"X-Pootle-Revision: 76752\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,65 +21,66 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag6.10:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag6.10:2.1"
 msgid "Chakkanipāta"
-msgstr ""
+msgstr "The Book of the Sixes"
 
 #. </p><p>
 msgctxt "thag6.10:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag6.10:4.1"
 msgid "6.10. Sumanattheragāthā"
-msgstr ""
+msgstr "6.10. Sumana"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc429"></a><a class="verse-num-pts"
 #. id="verse-num-pts429"></a>
 msgctxt "thag6.10:5.1"
 msgid "“Yadā navo pabbajito,"
-msgstr "I had just gone forth,"
+msgstr "I was only seven years old"
 
 #. <br>
 msgctxt "thag6.10:5.2"
 msgid "jātiyā sattavassiko;"
-msgstr "I was seven years old,"
+msgstr "and had just gone forth"
 
 #. <br>
 msgctxt "thag6.10:5.3"
 msgid "Iddhiyā abhibhotvāna,"
-msgstr "When I overcome the dragon king, so mighty,"
+msgstr "when I overcame the mighty serpent king"
 
 #. <br>
 msgctxt "thag6.10:5.4"
 msgid "pannagindaṃ mahiddhikaṃ."
-msgstr "With my psychic powers."
+msgstr "with my psychic powers."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc430"></a><a class="verse-num-pts" id="verse-num-pts430"></a>
 msgctxt "thag6.10:6.1"
 msgid "Upajjhāyassa udakaṃ,"
-msgstr "And I brought water for my mentor"
+msgstr "I brought water for my mentor"
 
 #. <br>
 msgctxt "thag6.10:6.2"
 msgid "anotattā mahāsarā;"
-msgstr "From the great lake Anotatta."
+msgstr "from the great lake Anotatta."
 
 #. <br>
 msgctxt "thag6.10:6.3"
 msgid "Āharāmi tato disvā,"
 msgstr "When he saw me,"
 
+# quotes in MS are incorrect.
 #. <br>
 msgctxt "thag6.10:6.4"
 msgid "maṃ satthā etadabravi”."
-msgstr "My teacher said this:"
+msgstr "my teacher declared:"
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc431"></a><a class="verse-num-pts" id="verse-num-pts431"></a>
@@ -90,19 +91,19 @@ msgstr "“Sāriputta, see this"
 #. <br>
 msgctxt "thag6.10:7.2"
 msgid "āgacchantaṃ kumārakaṃ;"
-msgstr "Young boy coming,"
+msgstr "young boy coming,"
 
 #. <br>
 msgctxt "thag6.10:7.3"
 msgid ""
 "<span class=\"var\" title=\"udakumbhakamādāya (bj, s2, s3, pts1)\" id=\""
 "note221\">Udakakumbhamādāya</span>,"
-msgstr "Carrying a water pot,"
+msgstr "carrying a water pot,"
 
 #. <br>
 msgctxt "thag6.10:7.4"
 msgid "ajjhattaṃ susamāhitaṃ."
-msgstr "Serene inside himself."
+msgstr "serene inside himself."
 
 #. </p><p><a class="sc" id="4"></a><a class="verse-num-sc"
 #. id="verse-num-sc432"></a><a class="verse-num-pts" id="verse-num-pts432"></a>
@@ -113,7 +114,7 @@ msgstr "His conduct inspires confidence,"
 #. <br>
 msgctxt "thag6.10:8.2"
 msgid "kalyāṇairiyāpatho;"
-msgstr "He is of lovely deportment:"
+msgstr "he is of lovely deportment:"
 
 #. <br>
 msgctxt "thag6.10:8.3"
@@ -123,7 +124,7 @@ msgstr "He is Anuruddha’s novice,"
 #. <br>
 msgctxt "thag6.10:8.4"
 msgid "iddhiyā ca visārado."
-msgstr "Excelling in psychic powers."
+msgstr "assured in psychic powers."
 
 #. </p><p><a class="sc" id="5"></a><a class="verse-num-sc"
 #. id="verse-num-sc433"></a><a class="verse-num-pts" id="verse-num-pts433"></a>
@@ -134,44 +135,43 @@ msgstr "Made a thoroughbred by a thoroughbred,"
 #. <br>
 msgctxt "thag6.10:9.2"
 msgid "sādhunā sādhukārito;"
-msgstr "Made good by the good,"
+msgstr "made good by the good,"
 
 #. <br>
 msgctxt "thag6.10:9.3"
 msgid "Vinīto anuruddhena,"
-msgstr "Educated and trained by Anuruddha,"
+msgstr "educated and trained by Anuruddha,"
 
 #. <br>
 msgctxt "thag6.10:9.4"
 msgid "katakiccena sikkhito."
-msgstr "Who has completed the task."
+msgstr "who has completed his task."
 
 #. </p><p><a class="sc" id="6"></a><a class="verse-num-sc"
 #. id="verse-num-sc434"></a><a class="verse-num-pts" id="verse-num-pts434"></a>
 msgctxt "thag6.10:10.1"
 msgid "So patvā paramaṃ santiṃ,"
-msgstr "Having attained the highest peace"
+msgstr "Having attained ultimate peace"
 
 #. <br>
 msgctxt "thag6.10:10.2"
 msgid "sacchikatvā akuppataṃ;"
-msgstr "And witnessed the unshakable,"
+msgstr "and witnessed the unshakable,"
 
 #. <br>
 msgctxt "thag6.10:10.3"
 msgid "Sāmaṇero sa sumano,"
-msgstr "That novice Sumana"
+msgstr "that novice Sumana has the wish:"
 
 #. <br>
 msgctxt "thag6.10:10.4"
 msgid "mā maṃ jaññāti icchatī”ti."
-msgstr "Wants no-one to know about him.”"
+msgstr "‘May no-one find me out!’”"
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag6.10:11.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag6.10:11.2"
 msgid "Sumano thero …."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.14.po\n"
-"X-Pootle-Revision: 7931\n"
+"X-Pootle-Revision: 73466\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,24 +21,24 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.14:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.14:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.14:3.1"
 msgid "Dutiyavagga"
-msgstr ""
+msgstr "Chapter Two"
 
 #. </p><h1>
 msgctxt "thag2.14:4.1"
 msgid ""
 "<span class=\"var\" title=\"somacittattheragāthā (bj)\" id=\"note92\">2.14 "
 "Somamittattheragāthā</span>"
-msgstr ""
+msgstr "2.14 Somamitta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc147"></a><a class="verse-num-pts"
@@ -47,32 +47,32 @@ msgctxt "thag2.14:5.1"
 msgid ""
 "<span class=\"cross\" title=\"^thag3.16#3 [Vimalattheragāthā]\" id=\"note93\""
 ">*</span>“Parittaṃ dārumāruyha,"
-msgstr "If someone lost in the middle of the ocean,"
+msgstr "If you’re lost in the middle of a great sea,"
 
 #. <br>
 msgctxt "thag2.14:5.2"
 msgid "yathā sīde mahaṇṇave;"
-msgstr "Were to clamber up on a little log, they’d sink;"
+msgstr "and you clamber up on a little log, you’ll sink."
 
 #. <br>
 msgctxt "thag2.14:5.3"
 msgid "Evaṃ kusītamāgamma,"
-msgstr "In the same way, even a good person would sink"
+msgstr "So too, a person who lives well"
 
 #. <br>
 msgctxt "thag2.14:5.4"
 msgid "sādhujīvīpi sīdati;"
-msgstr "If they rely on a lazy person."
+msgstr "sinks by relying on a lazy person."
 
 #. <br>
 msgctxt "thag2.14:5.5"
 msgid "Tasmā taṃ parivajjeyya,"
-msgstr "So avoid those who are lazy,"
+msgstr "Hence you should avoid such"
 
 #. <br>
 msgctxt "thag2.14:5.6"
 msgid "kusītaṃ hīnavīriyaṃ."
-msgstr "lacking energy."
+msgstr "a lazy person who lacks energy."
 
 #. </p><p><a class="sc" id="2"></a>
 msgctxt "thag2.14:6.1"
@@ -82,28 +82,27 @@ msgid ""
 "[Pavanaṅgapañha]\" id=\"note94\">*</span> <a class=\"verse-num-sc\" id"
 "=\"verse-num-sc148\"></a><a class=\"verse-num-pts\" id=\"verse-num-pts148\""
 "></a>Pavivittehi ariyehi,"
-msgstr "Instead, dwell with the wise—"
+msgstr "Dwell with the noble ones"
 
 #. <br>
 msgctxt "thag2.14:6.2"
 msgid "pahitattehi jhāyibhi;"
-msgstr "Secluded, noble,"
+msgstr "who are secluded and determined"
 
 #. <br>
 msgctxt "thag2.14:6.3"
 msgid "Niccaṃ āraddhavīriyehi,"
-msgstr "Resolute, practising jhāna,"
+msgstr "and always energetic;"
 
 #. <br>
 msgctxt "thag2.14:6.4"
 msgid "paṇḍitehi sahāvase”ti."
-msgstr "And always energetic."
+msgstr "the astute who practice absorption."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.14:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.14:7.2"
 msgid ""

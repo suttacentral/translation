@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag02.46.po\n"
-"X-Pootle-Revision: 7995\n"
+"X-Pootle-Revision: 73498\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag2.46:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag2.46:2.1"
 msgid "Dukanipāta"
-msgstr ""
+msgstr "The Book of the Twos"
 
 #. </p><p>
 msgctxt "thag2.46:3.1"
 msgid "Pañcamavagga"
-msgstr ""
+msgstr "Chapter Five"
 
 #. </p><h1>
 msgctxt "thag2.46:4.1"
 msgid "2.46. Cūḷakattheragāthā"
-msgstr ""
+msgstr "2.46. Cūḷaka"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc211"></a><a class="verse-num-pts"
@@ -49,7 +49,7 @@ msgstr "The peacocks cry out with their fair crests and tails,"
 msgctxt "thag2.46:5.2"
 msgid "Sunīlagīvā sumukhā sugajjino;"
 msgstr ""
-"Their lovely blue necks and fair faces, their beautiful song and their call."
+"their lovely blue necks and fair faces, their beautiful song and their call."
 
 #. <br>
 msgctxt "thag2.46:5.3"
@@ -59,7 +59,7 @@ msgstr "This broad earth is lush with grass and dew,"
 #. <br>
 msgctxt "thag2.46:5.4"
 msgid "Subyāpitambu suvalāhakaṃ nabhaṃ."
-msgstr "And the sky’s full of beautiful clouds."
+msgstr "and the sky is full of beautiful clouds."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc212"></a><a class="verse-num-pts" id="verse-num-pts212"></a>
@@ -68,15 +68,15 @@ msgid ""
 "Sukallarūpo sumanassa <span class=\"var\" title=\"jhāyitaṃ (s2, s3, pts1, mr)"
 "\" id=\"note142\">jhāyataṃ</span>,"
 msgstr ""
-"A person who is practicing absorption is happy in mind, and their appearance "
-"is uplifting;"
+"One practicing absorption is happy in mind, and their appearance is "
+"uplifting;"
 
 #. <br>
 msgctxt "thag2.46:6.2"
 msgid ""
 "<span class=\"var\" title=\"sunikkhamo (bj, pts1)\" id=\"note143\""
 ">Sunikkamo</span> sādhu subuddhasāsane;"
-msgstr "Going forth in the teaching of the Buddha is easy for a good person."
+msgstr "going forth in the teaching of the Buddha is easy for a good person."
 
 #. <br>
 msgctxt "thag2.46:6.3"
@@ -86,13 +86,12 @@ msgstr "You should realise that supreme, unchanging state,"
 #. <br>
 msgctxt "thag2.46:6.4"
 msgid "Phusāhi taṃ uttamamaccutaṃ padan”ti."
-msgstr "So very pure, subtle, and hard to see."
+msgstr "so very pure, subtle, and hard to see."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag2.46:7.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag2.46:7.2"
 msgid ""

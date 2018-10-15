@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.071.po\n"
-"X-Pootle-Revision: 7805\n"
+"X-Pootle-Revision: 73403\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,52 +21,51 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.71:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.71:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.71:3.1"
 msgid "Aṭṭhamavagga"
-msgstr ""
+msgstr "Chapter Eight"
 
 #. </p><h1>
 msgctxt "thag1.71:4.1"
 msgid "1.71. Vacchapālattheragāthā"
-msgstr ""
+msgstr "1.71. Vacchapāla"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc71"></a><a class="verse-num-pts"
 #. id="verse-num-pts71"></a>
 msgctxt "thag1.71:5.1"
 msgid "“Susukhumanipuṇatthadassinā,"
-msgstr "Though nibbāna is very refined and subtle,"
+msgstr "For one who sees the goal, so very subtle and fine;"
 
 #. <br>
 msgctxt "thag1.71:5.2"
 msgid "Matikusalena nivātavuttinā;"
-msgstr "It is not difficult to realize for one who sees the goal,"
+msgstr "who is skilled in thought and humble in manner;"
 
 #. <br>
 msgctxt "thag1.71:5.3"
 msgid ""
 "<span class=\"var\" title=\"saṃsevitavuddhasāsinā (s2) | "
 "saṃsevitabuddhasīlinā (s3, mr)\" id=\"note56\">Saṃsevitavuddhasīlinā</span>,"
-msgstr "Skilled in thought, humble in manner,"
+msgstr "who has cultivated mature ethics,"
 
 #. <br>
 msgctxt "thag1.71:5.4"
 msgid "Nibbānaṃ na hi tena dullabhan”ti."
-msgstr "Cultivating the virtuous conduct of the Buddha."
+msgstr "it’s not hard to gain extinguishment."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.71:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.71:6.2"
 msgid "Vacchapālo thero …."

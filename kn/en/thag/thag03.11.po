@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag03.11.po\n"
-"X-Pootle-Revision: 8023\n"
+"X-Pootle-Revision: 73512\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.11:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.11:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.11:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.11:4.1"
 msgid "3.11. Upālittheragāthā"
-msgstr ""
+msgstr "3.11. Upāli"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc249"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "One newly gone forth,"
 #. <br>
 msgctxt "thag3.11:5.2"
 msgid "navapabbajito navo;"
-msgstr "Who has left their home out of faith,"
+msgstr "who has left their home out of faith,"
 
 #. <br>
 msgctxt "thag3.11:5.3"
 msgid "Mitte bhajeyya kalyāṇe,"
-msgstr "Should associate with spiritual friends,"
+msgstr "should associate with spiritual friends,"
 
 #. <br>
 msgctxt "thag3.11:5.4"
 msgid "suddhājīve atandite."
-msgstr "Whose livelihood is pure, and who are not lazy."
+msgstr "who are who are tireless and pure of livelihood."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc250"></a><a class="verse-num-pts" id="verse-num-pts250"></a>
@@ -69,17 +69,17 @@ msgstr "One newly gone forth,"
 #. <br>
 msgctxt "thag3.11:6.2"
 msgid "navapabbajito navo;"
-msgstr "Who has left their home out of faith,"
+msgstr "who has left their home out of faith,"
 
 #. <br>
 msgctxt "thag3.11:6.3"
 msgid "Saṃghasmiṃ viharaṃ bhikkhu,"
-msgstr "A monk who stays with the Saṅgha,"
+msgstr "a mendicant staying in the Saṅgha,"
 
 #. <br>
 msgctxt "thag3.11:6.4"
 msgid "sikkhetha vinayaṃ budho."
-msgstr "Being wise, would train in monastic discipline."
+msgstr "being wise, would train in monastic discipline."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc251"></a><a class="verse-num-pts" id="verse-num-pts251"></a>
@@ -90,23 +90,22 @@ msgstr "One newly gone forth,"
 #. <br>
 msgctxt "thag3.11:7.2"
 msgid "navapabbajito navo;"
-msgstr "Who has left their home out of faith,"
+msgstr "who has left their home out of faith,"
 
 #. <br>
 msgctxt "thag3.11:7.3"
 msgid "Kappākappesu kusalo,"
-msgstr "Skilled in what is appropriate and what is not,"
+msgstr "skilled in what is appropriate and what is not,"
 
 #. <br>
 msgctxt "thag3.11:7.4"
 msgid "careyya apurakkhato”ti."
-msgstr "Would wander undistracted."
+msgstr "would wander undistracted."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag3.11:8.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag3.11:8.2"
 msgid "Upālitthero …."

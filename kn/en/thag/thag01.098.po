@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag01.098.po\n"
-"X-Pootle-Revision: 7859\n"
+"X-Pootle-Revision: 78372\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,36 +21,36 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag1.98:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag1.98:2.1"
 msgid "Ekakanipāta"
-msgstr ""
+msgstr "The Book of the Ones"
 
 #. </p><p>
 msgctxt "thag1.98:3.1"
 msgid "Dasamavagga"
-msgstr ""
+msgstr "Chapter Ten"
 
 #. </p><h1>
 msgctxt "thag1.98:4.1"
 msgid "1.98. Abhayattheragāthā"
-msgstr ""
+msgstr "1.98. Abhaya"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc98"></a><a class="verse-num-pts"
 #. id="verse-num-pts98"></a>
 msgctxt "thag1.98:5.1"
 msgid "“Rūpaṃ disvā sati muṭṭhā,"
-msgstr "If you focus on the pleasant aspect"
+msgstr "When you see a sight, mindfulness is lost"
 
 #. <br>
 msgctxt "thag1.98:5.2"
 msgid ""
 "<span class=\"var\" title=\"piyanimittaṃ (bj, s2, s3, pts1)\" id=\"note66\">"
 "Piyaṃ nimittaṃ</span> manasikaroto;"
-msgstr "Of sights that you see, you’ll lose your mindfulness."
+msgstr "as attention latches on the pleasant aspect."
 
 #. <br>
 msgctxt "thag1.98:5.3"
@@ -60,7 +60,7 @@ msgstr "Experiencing it with a mind full of desire,"
 #. <br>
 msgctxt "thag1.98:5.4"
 msgid "Tañca ajjhosa tiṭṭhati;"
-msgstr "You keep holding on."
+msgstr "you keep clinging to it."
 
 #. <br>
 msgctxt "thag1.98:5.5"
@@ -72,13 +72,12 @@ msgctxt "thag1.98:5.6"
 msgid ""
 "<span class=\"var\" title=\"bhavamūlā bhavagāminoti (bj, mr)\" id=\"note67\""
 ">Bhavamūlopagāmino”ti</span>."
-msgstr "Leading to the root of rebirth in some state of existence."
+msgstr "leading to the root of rebirth."
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag1.98:6.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag1.98:6.2"
 msgid "Abhayo thero …."

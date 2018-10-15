@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-18 15:17+0000\n"
+"POT-Creation-Date: 2018-10-15 14:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 "X-Pootle-Path: /en/kn/thag/thag03.05.po\n"
-"X-Pootle-Revision: 8011\n"
+"X-Pootle-Revision: 73506\n"
 
 #. <html><head><meta charset="UTF-8"><meta content="Pali text from the
 #. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
@@ -21,22 +21,22 @@ msgstr ""
 #. class="hgroup"><p class="division">
 msgctxt "thag3.5:1.1"
 msgid "Theragāthā"
-msgstr ""
+msgstr "Verses of the Senior Monks"
 
 #. </p><p>
 msgctxt "thag3.5:2.1"
 msgid "Tikanipāta"
-msgstr ""
+msgstr "The Book of the Threes"
 
 #. </p><p>
 msgctxt "thag3.5:3.1"
 msgid "Paṭhamavagga"
-msgstr ""
+msgstr "Chapter One"
 
 #. </p><h1>
 msgctxt "thag3.5:4.1"
 msgid "3.5. Mātaṅgaputtattheragāthā"
-msgstr ""
+msgstr "3.5. Mātaṅgaputta"
 
 #. </h1></div><blockquote class="gatha"><p><a class="sc" id="1"></a><a
 #. class="verse-num-sc" id="verse-num-sc231"></a><a class="verse-num-pts"
@@ -48,17 +48,17 @@ msgstr "“It’s too cold, too hot,"
 #. <br>
 msgctxt "thag3.5:5.2"
 msgid "atisāyamidaṃ ahu;"
-msgstr "Too late,” they say."
+msgstr "too late,” they say."
 
 #. <br>
 msgctxt "thag3.5:5.3"
 msgid "Iti vissaṭṭhakammante,"
-msgstr "Those who neglect their work like this—"
+msgstr "When the young neglect their work like this,"
 
 #. <br>
 msgctxt "thag3.5:5.4"
 msgid "khaṇā accenti māṇave."
-msgstr "Opportunities pass them by."
+msgstr "opportunities pass them by."
 
 #. </p><p><a class="sc" id="2"></a><a class="verse-num-sc"
 #. id="verse-num-sc232"></a><a class="verse-num-pts" id="verse-num-pts232"></a>
@@ -69,17 +69,17 @@ msgstr "But one who considers hot and cold"
 #. <br>
 msgctxt "thag3.5:6.2"
 msgid "tiṇā bhiyyo na maññati;"
-msgstr "To be nothing more than a blade of grass;"
+msgstr "as nothing more than blades of grass—"
 
 #. <br>
 msgctxt "thag3.5:6.3"
 msgid "Karaṃ purisakiccāni,"
-msgstr "He does his manly duty,"
+msgstr "he does his manly duty,"
 
 #. <br>
 msgctxt "thag3.5:6.4"
 msgid "so sukhā na vihāyati."
-msgstr "And his happiness never fails."
+msgstr "and his happiness never fails."
 
 #. </p><p><a class="sc" id="3"></a><a class="verse-num-sc"
 #. id="verse-num-sc233"></a><a class="verse-num-pts" id="verse-num-pts233"></a>
@@ -90,14 +90,14 @@ msgstr "With my chest I’ll thrust aside"
 #. <br>
 msgctxt "thag3.5:7.2"
 msgid "usīraṃ muñjapabbajaṃ;"
-msgstr "The grasses, vines, and creepers, "
+msgstr "the grasses, vines, and creepers,"
 
 #. <br>
 msgctxt "thag3.5:7.3"
 msgid ""
 "Urasā <span class=\"var\" title=\"panudahissāmi (s2, s3, pts1)\" id=\""
 "note156\">panudissāmi</span>,"
-msgstr "And devote myself to seclusion."
+msgstr "and foster seclusion."
 
 #. <br>
 msgctxt "thag3.5:7.4"
@@ -105,10 +105,9 @@ msgid "vivekamanubrūhayan”ti."
 msgstr ""
 
 #. </p></blockquote><p class="endsutta">
-#, fuzzy
 msgctxt "thag3.5:8.1"
 msgid "…"
-msgstr "…"
+msgstr ""
 
 msgctxt "thag3.5:8.2"
 msgid "Mātaṅgaputto thero …."
