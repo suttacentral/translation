@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pli-tv/pli-tv-bu-vb/pli-tv-bu-vb-pc/pli-tv-bu-vb-pc56.po\n"
+"X-Pootle-Revision: 81890\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bu-vb-pc56"><article><div class="hgroup"><p class="division">
+msgctxt "pli-tv-bu-vb-pc56:0.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc56:0.2"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. HTML: </p><p></p><p> 
+msgctxt "pli-tv-bu-vb-pc56:0.3"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession"
+
+#. VAR: Surāpānavagga → joti­sikkhā­padaṃ (bj)
+msgctxt "pli-tv-bu-vb-pc56:0.4"
+msgid "Surāpānavagga"
+msgstr ""
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-bu-vb-pc56:0.5"
+msgid "56. Jotikasikkhāpada"
+msgstr ""
+"<hgroup><h1 id=\"Bu-Pc.56\">Monks’ Confession 56: the training rule on "
+"fire</h1></hgroup>"
+
+#. HTML: </h1></div><p>
+#. REF: sc1
+#. VAR: susumāragire → suṃsumāragire (bj, s1, s2, pts1) | saṃsumāragire (mr)
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:1.1.1"
+msgid ""
+"Tena samayena buddho bhagavā bhaggesu viharati susumāragire bhesakaḷāvane "
+"migadāye."
+msgstr ""
+"<h2 id=\"nidana\">Origin story</h2>\n"
+"<h3 id=\"anunidana1\">First sub-story</h3>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.56.1\"></a><a class=\"pts-cs\" id=\"Bu-"
+"Pc.56.1.1\">Bu-Pc.56.1.1</a><a class=\"pts-vp-en\" id=\"BD.2.398\""
+">BD.2.398</a><a class=\"wt-pa\">1067</a>At one time the Buddha was staying "
+"in the Bhagga country at Susumāragira in the Bhesakaḷā Grove, the deer park."
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.2"
+msgid ""
+"Tena kho pana samayena bhikkhū hemantike kāle aññataraṃ mahantaṃ "
+"susirakaṭṭhaṃ jotiṃ samādahitvā visibbesuṃ."
+msgstr ""
+"On one occason during winter the monks were warming themselves after setting "
+"fire to a hollow log."
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.3"
+msgid ""
+"Tasmiñca susire kaṇhasappo agginā santatto nikkhamitvā bhikkhū paripātesi."
+msgstr ""
+"Being heated by the fire, a black snake came out of the log and attacked the "
+"monks."
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.4"
+msgid "Bhikkhū tahaṃ tahaṃ upadhāviṃsu."
+msgstr "The monks ran here and there.</p>"
+
+#. HTML: </p><p>
+#. REF: sc2
+msgctxt "pli-tv-bu-vb-pc56:1.1.5"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "<p><a class=\"wt-pa\">1068</a>The monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.6"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized them,"
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.7"
+msgid "“kathañhi nāma bhikkhū jotiṃ samādahitvā visibbessantī”ti … pe …"
+msgstr "“How can those monks light a fire to warm themselves?” …"
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.8"
+msgid "“saccaṃ kira, bhikkhave, bhikkhū jotiṃ samādahitvā visibbentī”ti?"
+msgstr "“Is it true, monks, that some monks did this?”"
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.9"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.10"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha criticized them, “…"
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.11"
+msgid ""
+"kathañhi nāma te, bhikkhave, moghapurisā jotiṃ samādahitvā visibbessanti."
+msgstr "How can those foolish men light a fire to warm themselves?"
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.12"
+msgid "Netaṃ, bhikkhave, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-pc56:1.1.13"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:</p>"
+
+#. HTML: </p><p><b class="rule">
+#. REF: sc3
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:1.1.14"
+msgid ""
+"“Yo pana bhikkhu visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā, "
+"pācittiyan”ti."
+msgstr ""
+"<h3 id=\"anupannatti1\">First preliminary ruling</h3>\n"
+"<p class=\"rule\"><a class=\"wt-pa\">1069</a>‘If a monk lights a fire to "
+"warm himself, or gets one lit, he commits an offense entailing "
+"confession.’”</p>"
+
+#. HTML: </b></p><p>
+#. REF: sc4
+msgctxt "pli-tv-bu-vb-pc56:1.1.15"
+msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
+msgstr ""
+"<p class=\"endsection\"><a class=\"pts-vp-en\" id=\"BD.2.399\">BD.2.399</a><"
+"a class=\"wt-pa\">1070</a>In this way the Master laid down this training "
+"rule for the monks.</p>"
+
+#. HTML: </p><p>
+#. REF: sc5
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:1.2.1"
+msgid "Tena kho pana samayena bhikkhū gilānā honti."
+msgstr ""
+"<h3 id=\"anunidana2\">Second sub-story</h3>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.56.1.2\">Bu-Pc.56.1.2</a><a class=\"wt-pa\""
+">1071</a>At one time a number of monks were sick."
+
+msgctxt "pli-tv-bu-vb-pc56:1.2.2"
+msgid "Gilānapucchakā bhikkhū gilāne bhikkhū etadavocuṃ—"
+msgstr "The monks who were looking after them asked,"
+
+msgctxt "pli-tv-bu-vb-pc56:1.2.3"
+msgid "“kaccāvuso, khamanīyaṃ, kacci yāpanīyan”ti?"
+msgstr "“We hope you’re bearing up; we hope you’re getting better?”</p>"
+
+msgctxt "pli-tv-bu-vb-pc56:1.2.4"
+msgid "“Pubbe mayaṃ, āvuso, jotiṃ samādahitvā visibbema;"
+msgstr "<p>“Previously we lit a fire to warm ourselves,"
+
+msgctxt "pli-tv-bu-vb-pc56:1.2.5"
+msgid "tena no phāsu hoti."
+msgstr "and then we were comfortable."
+
+msgctxt "pli-tv-bu-vb-pc56:1.2.6"
+msgid ""
+"Idāni pana ‘bhagavatā paṭikkhittan’ti kukkuccāyantā na visibbema, tena no na "
+"phāsu hotī”ti."
+msgstr ""
+"But now that this has been prohibited by the Master, we don’t warm ourselves "
+"because we’re afraid of wrongdoing. Because of that we’re not "
+"comfortable.”</p>"
+
+msgctxt "pli-tv-bu-vb-pc56:1.2.7"
+msgid "Bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "<p>They told the Master. …"
+
+msgctxt "pli-tv-bu-vb-pc56:1.2.8"
+msgid ""
+"anujānāmi, bhikkhave, gilānena bhikkhunā jotiṃ samādahitvā vā samādahāpetvā "
+"vā visibbetuṃ."
+msgstr ""
+"“<strong class=\"rule\">Monks, I allow a sick monk to light a fire to warm "
+"himself, or to get one lit.</strong>"
+
+msgctxt "pli-tv-bu-vb-pc56:1.2.9"
+msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And so, monks, this training rule should be recited thus:</p>"
+
+#. HTML: </p><p><b class="rule">
+#. REF: sc6, pts-vp-pli4.116
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:1.2.10"
+msgid ""
+"“Yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya "
+"vā, pācittiyan”ti."
+msgstr ""
+"<h3 id=\"anupannatti2\">Second preliminary ruling</h3>\n"
+"<p class=\"rule\"><a class=\"wt-pa\">1072</a>‘If a monk who is not sick "
+"lights a fire to warm himself, <a class=\"pts-vp-pi\" id=\"Vin.4.116\""
+">Vin.4.116</a> or gets one lit, he commits an offense entailing "
+"confession.’”</p>"
+
+#. HTML: </b></p><p>
+#. REF: sc7
+msgctxt "pli-tv-bu-vb-pc56:1.2.11"
+msgid "Evañcidaṃ bhagavatā bhikkhūnaṃ sikkhāpadaṃ paññattaṃ hoti."
+msgstr ""
+"<p class=\"endsection\"><a class=\"wt-pa\">1073</a>In this way the Master "
+"laid down this training rule for the monks.</p>"
+
+#. HTML: </p><p>
+#. REF: sc8
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:2.1.1"
+msgid ""
+"Tena kho pana samayena bhikkhū padīpepi jotikepi jantāgharepi kukkuccāyanti."
+msgstr ""
+"<h3 id=\"anunidana3\">Third sub-story</h3>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.56.2\">Bu-Pc.56.2</a><a class=\"wt-pa\""
+">1074</a>Soon afterwards the monks did not light lamps, small fires, or "
+"saunas because they were afraid of wrongdoing."
+
+msgctxt "pli-tv-bu-vb-pc56:2.1.2"
+msgid "Bhagavato etamatthaṃ ārocesuṃ … pe …"
+msgstr "They told the Master …"
+
+msgctxt "pli-tv-bu-vb-pc56:2.1.3"
+msgid ""
+"anujānāmi, bhikkhave, tathārūpappaccayā jotiṃ samādahituṃ samādahāpetuṃ."
+msgstr ""
+"“<strong class=\"rule\">Monks, I allow you to light a fire, or to get one "
+"lit, if there’s a suitable reason.</strong>"
+
+msgctxt "pli-tv-bu-vb-pc56:2.1.4"
+msgid "Evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And so, monks, this training rule should be recited thus:</p>"
+
+#. HTML: </p><p><b class="rule">
+#. REF: sc9
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:2.1.5"
+msgid ""
+"“Yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya "
+"vā, aññatra tathārūpappaccayā, pācittiyan”ti."
+msgstr ""
+"<h2 id=\"pannatti\">Final ruling</h2>\n"
+"<p class=\"rule\"><a class=\"wt-pa\">1075</a>‘If a monk who is not sick "
+"lights a fire to warm himself, or gets one lit, unless there is an "
+"appropriate reason, he commits an offense entailing confession.’”</p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc10
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:3.1.1"
+msgid "Yo panāti"
+msgstr ""
+"<h2 id=\"pada\">Definitions</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.56.3\"></a><a class=\"pts-cs\" id=\"Bu-"
+"Pc.56.3.1\">Bu-Pc.56.3.1</a><a class=\"wt-pa\">1076</a><term>A</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.2"
+msgid "yo yādiso … pe …"
+msgstr "<gloss>whoever …</gloss>"
+
+#. HTML: </b><b class="term">
+msgctxt "pli-tv-bu-vb-pc56:3.1.3"
+msgid "bhikkhūti"
+msgstr "<term>Monk</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.4"
+msgid "… pe …"
+msgstr ""
+"<gloss>…The monk who has been given the full ordination by a complete Order "
+"through a procedure consisting of one motion and three announcements that is "
+"unchallengeable and fit to stand—"
+
+#. HTML: </b>
+msgctxt "pli-tv-bu-vb-pc56:3.1.5"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "this sort of monk is meant in this case.</gloss></p>"
+
+#. HTML: </p><p><b class="term">
+#. REF: sc11
+msgctxt "pli-tv-bu-vb-pc56:3.1.6"
+msgid "Agilāno nāma"
+msgstr ""
+"<p><a class=\"pts-vp-en\" id=\"BD.2.400\">BD.2.400</a><a class=\"wt-pa\""
+">1077</a><term>Who is not sick</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.7"
+msgid "yassa vinā agginā phāsu hoti."
+msgstr "<gloss>he is comfortable without a fire.</gloss>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc12
+msgctxt "pli-tv-bu-vb-pc56:3.1.8"
+msgid "Gilāno nāma"
+msgstr "<a class=\"wt-pa\">1078</a><term>Who is sick</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.9"
+msgid "yassa vinā agginā na phāsu hoti."
+msgstr "<gloss>he is not comfortable without a fire.</gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc13
+msgctxt "pli-tv-bu-vb-pc56:3.1.10"
+msgid "Visibbanāpekkhoti"
+msgstr "<p><a class=\"wt-pa\">1079</a><term>To warm himself</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.11"
+msgid "tappitukāmo."
+msgstr "<gloss>wanting to heat himself.</gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc14
+msgctxt "pli-tv-bu-vb-pc56:3.1.12"
+msgid "Joti nāma"
+msgstr "<p><a class=\"wt-pa\">1080</a><term>A fire</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.13"
+msgid "aggi vuccati."
+msgstr "<gloss>flames are what is meant.</gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc15
+msgctxt "pli-tv-bu-vb-pc56:3.1.14"
+msgid "Samādaheyyāti"
+msgstr "<p><a class=\"wt-pa\">1081</a><term>Lights</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.15"
+msgid "sayaṃ samādahati, āpatti pācittiyassa."
+msgstr ""
+"<gloss>if he lights it himself, he commits an offense entailing "
+"confession.</gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc16
+msgctxt "pli-tv-bu-vb-pc56:3.1.16"
+msgid "Samādahāpeyyāti"
+msgstr "<p><a class=\"wt-pa\">1082</a><term>Gets one lit</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.17"
+msgid "aññaṃ āṇāpeti, āpatti pācittiyassa."
+msgstr "<gloss>if he asks another, he commits an offense entailing confession."
+
+#. HTML: </b>
+msgctxt "pli-tv-bu-vb-pc56:3.1.18"
+msgid "Sakiṃ āṇatto bahukampi samādahati, āpatti pācittiyassa."
+msgstr ""
+"If he only asks once, then even if the other lights many fires, he commits "
+"one offense entailing confession.</gloss></p>"
+
+#. HTML: </p><p><b class="term">
+#. REF: sc17
+msgctxt "pli-tv-bu-vb-pc56:3.1.19"
+msgid "Aññatra tathā rūpappaccayāti"
+msgstr ""
+"<p><a class=\"wt-pa\">1083</a><term>Unless there is a appropriate "
+"reason</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc56:3.1.20"
+msgid "ṭhapetvā tathārūpappaccayaṃ."
+msgstr "<gloss>except if there is an appropriate reason.</gloss></p>"
+
+#. HTML: </b></p><p>
+#. REF: sc18
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:3.2.1"
+msgid ""
+"Agilāno agilānasaññī visibbanāpekkho jotiṃ samādahati vā samādahāpeti vā, "
+"aññatra tathārūpappaccayā, āpatti pācittiyassa."
+msgstr ""
+"h2 id=\"cakka\">Permutations</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.56.3.2\">Bu-Pc.56.3.2</a><a class=\"wt-pa\""
+">1084</a>If he is not sick, and he does not perceive himself as sick, and he "
+"lights a fire to warm himself, or gets one lit, unless there is an "
+"appropriate reason, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc56:3.2.2"
+msgid ""
+"Agilāno vematiko visibbanāpekkho jotiṃ samādahati vā samādahāpeti vā, "
+"aññatra tathārūpappaccayā, āpatti pācittiyassa."
+msgstr ""
+"If he is not sick, but he is unsure of it, and he lights a fire to warm "
+"himself, or gets one lit, unless there is an appropriate reason, he commits "
+"an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc56:3.2.3"
+msgid ""
+"Agilāno gilānasaññī visibbanāpekkho jotiṃ samādahati vā samādahāpeti vā, "
+"aññatra tathārūpappaccayā, āpatti pācittiyassa."
+msgstr ""
+"If he is not sick, but he perceives himself as sick, and he lights a fire to "
+"warm himself, or gets one lit, unless there is an appropriate reason, he "
+"commits an offense entailing confession."
+
+#. HTML: </p><p>
+#. REF: sc19
+msgctxt "pli-tv-bu-vb-pc56:3.2.4"
+msgid "Paṭilātaṃ ukkhipati, āpatti dukkaṭassa."
+msgstr ""
+"<p><a class=\"wt-pa\">1085</a>If he puts back a burning piece of wood that "
+"has fallen off, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc56:3.2.5"
+msgid "Gilāno agilānasaññī, āpatti dukkaṭassa."
+msgstr ""
+"If he is sick, but he does not perceive himself as sick, he commits an "
+"offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc56:3.2.6"
+msgid "Gilāno vematiko, āpatti dukkaṭassa."
+msgstr ""
+"If he is sick, but he is unsure if he is, he commits an offense of wrong "
+"conduct."
+
+msgctxt "pli-tv-bu-vb-pc56:3.2.7"
+msgid "Gilāno gilānasaññī, anāpatti."
+msgstr ""
+"If he is sick, and he perceives himself as sick, there is no offense.</p>"
+
+#. HTML: </p><p>
+#. REF: sc20
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc56:3.3.1"
+msgid "Anāpatti—"
+msgstr ""
+"<h2 id=\"anapatti\">Non-offenses</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.56.3.3\">Bu-Pc.56.3.3</a><a class=\"wt-pa\""
+">1086</a>There is no offense:"
+
+msgctxt "pli-tv-bu-vb-pc56:3.3.2"
+msgid ""
+"gilānassa, aññena kataṃ visibbeti, vītaccitaṅgāraṃ visibbeti, padīpe jotike "
+"jantāghare tathārūpappaccayā, āpadāsu, ummattakassa, ādikammikassāti."
+msgstr ""
+"if he is sick; if he warms himself over a fire lit by another; if he warms "
+"himself over flameless coals; if he lights a lamp, a small fire, or a sauna, "
+"when there is an appropriate reason; if there are dangers; if he is insane; "
+"if he is the first offender.</p>"
+
+#. HTML: </p><p class="endsutta">
+#. REF: sc21
+msgctxt "pli-tv-bu-vb-pc56:3.3.3"
+msgid "Jotikasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ."
+msgstr ""
+"<p class=\"endsutta\"><a class=\"wt-pa\">1087</a>The sixth rule, the "
+"training rule on fire, is finished.</p>"

@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pli-tv/pli-tv-bu-vb/pli-tv-bu-vb-pc/pli-tv-bu-vb-pc60.po\n"
+"X-Pootle-Revision: 83195\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bu-vb-pc60"><article><div class="hgroup"><p class="division">
+msgctxt "pli-tv-bu-vb-pc60:0.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc60:0.2"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. HTML: </p><p></p><p> 
+msgctxt "pli-tv-bu-vb-pc60:0.3"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession"
+
+#. VAR: Surāpānavagga → cīvarā­pa­nidhā­na­sikkhā­padaṃ (bj)
+msgctxt "pli-tv-bu-vb-pc60:0.4"
+msgid "Surāpānavagga"
+msgstr ""
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-bu-vb-pc60:0.5"
+msgid "60. Cīvaraapanidhānasikkhāpada"
+msgstr ""
+"<hgroup><h1 id=\"Bu-Pc.60\">Monks’ Confession 60: the training rule on "
+"hiding robes</h1></hgroup>"
+
+#. HTML: </h1></div><p>
+#. REF: sc1, pts-vp-pli4.123
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc60:1.1"
+msgid ""
+"Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa "
+"ārāme."
+msgstr ""
+"<h2 id=\"nidana\">Origin story</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.60.1\">Bu-Pc.60.1</a><a class=\"pts-vp-en\""
+" id=\"BD.2.414\">BD.2.414</a><a class=\"wt-pa\">1152</a>At one time the "
+"Buddha was staying at Sāvatthī in the Jeta Grove, Anāthapiṇḍika’s Monastery."
+
+msgctxt "pli-tv-bu-vb-pc60:1.2"
+msgid ""
+"Tena kho pana samayena sattarasavaggiyā bhikkhū asannihitaparikkhārā honti."
+msgstr ""
+"On one occasion when the monks from the group of seventeen had not put away "
+"their requisites,"
+
+msgctxt "pli-tv-bu-vb-pc60:1.3"
+msgid ""
+"Chabbaggiyā bhikkhū sattarasavaggiyānaṃ bhikkhūnaṃ pattampi cīvarampi "
+"apanidhenti."
+msgstr "the monks from the group of six hid their bowls and robes."
+
+msgctxt "pli-tv-bu-vb-pc60:1.4"
+msgid "Sattarasavaggiyā bhikkhū chabbaggiye bhikkhū etadavocuṃ—"
+msgstr "The monks from the group of seventeen said to them,"
+
+msgctxt "pli-tv-bu-vb-pc60:1.5"
+msgid "“dethāvuso, amhākaṃ pattampi cīvarampī”ti."
+msgstr ""
+"“Give <a class=\"pts-vp-pi\" id=\"Vin.4.123\">Vin.4.123</a> us our bowls and "
+"robes.”"
+
+msgctxt "pli-tv-bu-vb-pc60:1.6"
+msgid "Chabbaggiyā bhikkhū hasanti, te rodanti."
+msgstr ""
+"The monks from the group of six laughed, but the monks from the group of "
+"seventeen cried.</p>"
+
+msgctxt "pli-tv-bu-vb-pc60:1.7"
+msgid "Bhikkhū evamāhaṃsu—"
+msgstr "<p>The monks asked them,"
+
+msgctxt "pli-tv-bu-vb-pc60:1.8"
+msgid "“kissa tumhe, āvuso, rodathā”ti?"
+msgstr "“Why are you crying?”</p>"
+
+msgctxt "pli-tv-bu-vb-pc60:1.9"
+msgid ""
+"“Ime, āvuso, chabbaggiyā bhikkhū amhākaṃ pattampi cīvarampi apanidhentī”ti."
+msgstr ""
+"<p>“Because the monks from the group of six have hidden our bowls and "
+"robes.”</p>"
+
+#. HTML: </p><p>
+#. REF: sc2
+msgctxt "pli-tv-bu-vb-pc60:1.10"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "<p><a class=\"wt-pa\">1153</a>The monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-pc60:1.11"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized them,"
+
+msgctxt "pli-tv-bu-vb-pc60:1.12"
+msgid ""
+"“kathañhi nāma chabbaggiyā bhikkhū bhikkhūnaṃ pattampi cīvarampi "
+"apanidhessantī”ti … pe …"
+msgstr ""
+"“How can the monks from the group of six hide the bowls and robes of other "
+"monks?” …"
+
+msgctxt "pli-tv-bu-vb-pc60:1.13"
+msgid ""
+"“saccaṃ kira tumhe, bhikkhave, bhikkhūnaṃ pattampi cīvarampi apanidhethā”ti?"
+msgstr "“Is it true, monks, that you did this?”"
+
+msgctxt "pli-tv-bu-vb-pc60:1.14"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+msgctxt "pli-tv-bu-vb-pc60:1.15"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked them, “…"
+
+msgctxt "pli-tv-bu-vb-pc60:1.16"
+msgid ""
+"kathañhi nāma tumhe, moghapurisā, bhikkhūnaṃ pattampi cīvarampi "
+"apanidhessatha."
+msgstr "Foolish men, how can you hide the bowls and robes of other monks?"
+
+msgctxt "pli-tv-bu-vb-pc60:1.17"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it ..."
+
+msgctxt "pli-tv-bu-vb-pc60:1.18"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:</p>"
+
+#. HTML: </p><p><b class="rule">
+#. REF: sc3
+#. VAR: hasāpekkhopi → hassāpekkhopi (bj, s1-3) | hāsāpekkho pi (pts1)
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc60:1.19"
+msgid ""
+"“Yo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā "
+"kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkhopi, "
+"pācittiyan”ti."
+msgstr ""
+"<h2 id=\"pannatti\">Final ruling</h2>\n"
+"<p class=\"rule\"><a class=\"wt-pa\">1154</a>‘If a monk hides another monk’s "
+"bowl, robe-cloth, sitting-mat, needle-case, or belt, or he gets it hidden, "
+"even if just for a laugh, he commits an offense entailing confession.’”</p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc4
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc60:2.1.1"
+msgid "Yo panāti"
+msgstr ""
+"<h2 id=\"pada\">Definitions</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.60.2\"></a><a class=\"pts-cs\" id=\"Bu-"
+"Pc.60.2.1\">Bu-Pc.60.2.1</a><a class=\"wt-pa\">1155</a><term>A</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.2"
+msgid "yo yādiso … pe …"
+msgstr "<gloss>whoever …</gloss>"
+
+#. HTML: </b><b class="term">
+msgctxt "pli-tv-bu-vb-pc60:2.1.3"
+msgid "bhikkhūti"
+msgstr "<term>Monk</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.4"
+msgid "… pe …"
+msgstr ""
+"<gloss>… The monk who has been given the full ordination by a complete Order "
+"through a procedure consisting of one motion and three announcements that is "
+"unchallengeable and fit to stand—"
+
+#. HTML: </b>
+msgctxt "pli-tv-bu-vb-pc60:2.1.5"
+msgid "ayaṃ imasmiṃ atthe adhippeto bhikkhūti."
+msgstr "this sort of monk is meant in this case.</gloss></p>"
+
+#. HTML: </p><p><b class="term">
+#. REF: sc5
+msgctxt "pli-tv-bu-vb-pc60:2.1.6"
+msgid "Bhikkhussāti"
+msgstr ""
+"<p><a class=\"pts-vp-en\" id=\"BD.2.415\">BD.2.415</a><a class=\"wt-pa\""
+">1156</a><term>Another monk’s</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.7"
+msgid "aññassa bhikkhussa."
+msgstr "<gloss>a different monk’s.</gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc6
+msgctxt "pli-tv-bu-vb-pc60:2.1.8"
+msgid "Patto nāma"
+msgstr "<p><a class=\"wt-pa\">1157</a><term>Bowl</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.9"
+msgid "dve pattā—"
+msgstr ""
+
+#. HTML: </b>
+msgctxt "pli-tv-bu-vb-pc60:2.1.10"
+msgid "ayopatto, mattikāpatto."
+msgstr "<gloss>an iron bowl or a ceramic bowl.</gloss></p>"
+
+#. HTML: </p><p><b class="term">
+#. REF: sc7
+msgctxt "pli-tv-bu-vb-pc60:2.1.11"
+msgid "Cīvaraṃ nāma"
+msgstr "<p><a class=\"wt-pa\">1158</a><term>Robe-cloth</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.12"
+msgid "channaṃ cīvarānaṃ aññataraṃ cīvaraṃ, vikappanupagaṃ pacchimaṃ."
+msgstr ""
+"<gloss>one of the six kinds of robe-cloth,<span class=\"note\" hidden>The "
+"six are linen, cotton, silk, wool, sunn hemp, and hemp; see <span class=\""
+"ref\">MS.3.1595</span>.</span> but not smaller than what can be transferred.<"
+"span class=\"note\" hidden>This means not smaller than 8 by 4 standard (<i "
+"lang=\"pi\">sugata</i>) finger-breadths, or 16 by 8 cm; see <span class=\""
+"ref\">Kkh.</span> and BMC I, pp. 565-566.</span></gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc8
+msgctxt "pli-tv-bu-vb-pc60:2.1.13"
+msgid "Nisīdanaṃ nāma"
+msgstr "<p><a class=\"wt-pa\">1159</a><term>Sitting-mat</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.14"
+msgid "sadasaṃ vuccati."
+msgstr "<gloss>one with a border is what is meant.</gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc9
+msgctxt "pli-tv-bu-vb-pc60:2.1.15"
+msgid "Sūcigharaṃ nāma"
+msgstr "<p><a class=\"wt-pa\">1160</a><term>Needle-case</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.16"
+msgid "sasūcikaṃ vā asūcikaṃ vā."
+msgstr "<gloss>with or without needles.</gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc10
+msgctxt "pli-tv-bu-vb-pc60:2.1.17"
+msgid "Kāyabandhanaṃ nāma"
+msgstr "<p><a class=\"wt-pa\">1161</a><term>Belt</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.18"
+msgid "dve kāyabandhanāni—"
+msgstr "<gloss>there are two kinds of belts:"
+
+#. HTML: </b>
+msgctxt "pli-tv-bu-vb-pc60:2.1.19"
+msgid "paṭṭikā, sūkarantakaṃ."
+msgstr ""
+"those made from strips of cloth and those made from pigs’ "
+"intestines.</gloss></p>"
+
+#. HTML: </p><p><b class="term">
+#. REF: sc11
+msgctxt "pli-tv-bu-vb-pc60:2.1.20"
+msgid "Apanidheyya vāti"
+msgstr "<p><a class=\"wt-pa\">1162</a><term>Hides</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.21"
+msgid "sayaṃ apanidheti, āpatti pācittiyassa."
+msgstr ""
+"<gloss>if he hides it himself, he commits an offense entailing "
+"confession.</gloss></p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc12
+msgctxt "pli-tv-bu-vb-pc60:2.1.22"
+msgid "Apanidhāpeyya vāti"
+msgstr "<p><a class=\"wt-pa\">1163</a><term>Gets […] hidden</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.23"
+msgid "aññaṃ āṇāpesi, āpatti pācittiyassa."
+msgstr "<gloss>if he asks another, he commits an offense entailing confession."
+
+#. HTML: </b>
+msgctxt "pli-tv-bu-vb-pc60:2.1.24"
+msgid "Sakiṃ āṇatto bahukampi apanidheti, āpatti pācittiyassa."
+msgstr ""
+"If he only asks once, then even if the other hides many things, he commits "
+"one offense entailing confession.</gloss></p>"
+
+#. HTML: </p><p><b class="term">
+#. REF: sc13
+msgctxt "pli-tv-bu-vb-pc60:2.1.25"
+msgid "Antamaso hasāpekkhopīti"
+msgstr "<p><a class=\"wt-pa\">1164</a><term>Even if just for a laugh</term>:"
+
+#. HTML: </b><b class="gloss">
+msgctxt "pli-tv-bu-vb-pc60:2.1.26"
+msgid "kīḷādhippāyo."
+msgstr "<gloss>aiming to have fun.</gloss></p>"
+
+#. HTML: </b></p><p>
+#. REF: sc14
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc60:2.2.1"
+msgid ""
+"Upasampanne upasampannasaññī pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā "
+"kāyabandhanaṃ vā apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, "
+"āpatti pācittiyassa."
+msgstr ""
+"<h2 id=\"cakka\">Permutations</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.60.2.2\">Bu-Pc.60.2.2</a><a class=\"wt-pa\""
+">1165</a>If the other monk is fully ordained, and he perceives him as fully "
+"ordained, and he hides his bowl or robe-cloth or sitting-mat or needle-case "
+"or belt, or he gets it hidden, even if just for a laugh, he commits an "
+"offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc60:2.2.2"
+msgid "Upasampanne vematiko … pe …"
+msgstr ""
+"If the other monk is fully ordained, but he is unsure if he is, and he hides "
+"his bowl or robe-cloth or sitting-mat or needle-case or belt, or he gets it "
+"hidden, even if just for a laugh, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc60:2.2.3"
+msgid ""
+"upasampanne anupasampannasaññī pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ "
+"vā kāyabandhanaṃ vā apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, "
+"āpatti pācittiyassa."
+msgstr ""
+"If the other monk is fully ordained, but he does not perceive him as fully "
+"ordained, and he hides his bowl or robe-cloth or sitting-mat or needle-case "
+"or belt, or he gets it hidden, even if just for a laugh, he commits an "
+"offense entailing confession.</p>"
+
+#. HTML: </p><p>
+#. REF: sc15, pts-vp-pli4.124
+msgctxt "pli-tv-bu-vb-pc60:2.2.4"
+msgid ""
+"Aññaṃ parikkhāraṃ apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, "
+"āpatti dukkaṭassa."
+msgstr ""
+"<p><a class=\"wt-pa\">1166</a>If he hides another requisite, or he gets it "
+"hidden, even if just for a laugh, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc60:2.2.5"
+msgid ""
+"Anupasampannassa pattaṃ vā cīvaraṃ vā aññaṃ vā parikkhāraṃ apanidheti vā "
+"apanidhāpeti vā, antamaso hasāpekkhopi, āpatti dukkaṭassa."
+msgstr ""
+"If he hides the bowl or robe-cloth or other requisite of someone who is not "
+"fully ordained, or he gets it hidden, even if just for a laugh, he commits "
+"an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc60:2.2.6"
+msgid "Anupasampanne upasampannasaññī, āpatti dukkaṭassa."
+msgstr ""
+"<p>If the other person is not fully ordained, but he perceives him as fully "
+"ordained, <a class=\"pts-vp-en\" id=\"BD.2.416\">BD.2.416</a> he commits an "
+"offense <a class=\"pts-vp-pi\" id=\"Vin.4.124\">Vin.4.124</a> of wrong "
+"conduct."
+
+msgctxt "pli-tv-bu-vb-pc60:2.2.7"
+msgid "Anupasampanne vematiko, āpatti dukkaṭassa."
+msgstr ""
+"If the other person is not fully ordained, but he is unsure of it, he "
+"commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc60:2.2.8"
+msgid "Anupasampanne anupasampannasaññī, āpatti dukkaṭassa."
+msgstr ""
+"If the other person is not fully ordained, and he does not perceive him as "
+"fully ordained, he commits an offense of wrong conduct.</p>"
+
+#. HTML: </p><p>
+#. REF: sc16
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc60:2.3.1"
+msgid "Anāpatti—"
+msgstr ""
+"<h2 id=\"anapatti\">Non-offenses</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.60.2.3\">Bu-Pc.60.2.3</a><a class=\"wt-pa\""
+">1167</a>There is no offense:"
+
+msgctxt "pli-tv-bu-vb-pc60:2.3.2"
+msgid ""
+"nahasādhippāyo, dunnikkhittaṃ paṭisāmeti, “dhammiṃ kathaṃ katvā dassāmī”ti "
+"paṭisāmeti, ummattakassa, ādikammikassāti."
+msgstr ""
+"if he is not aiming to have fun; if he puts away what has been improperly "
+"put away; if he puts something away with the thought, “After giving a "
+"teaching, I’ll give it back;” if he is insane; if he is the first "
+"offender.</p>"
+
+#. HTML: </p><p class="endsutta">
+#. REF: sc17
+msgctxt "pli-tv-bu-vb-pc60:2.3.3"
+msgid "Cīvaraapanidhānasikkhāpadaṃ niṭṭhitaṃ dasamaṃ."
+msgstr ""
+"<hr><p class=\"endsutta\"><a class=\"wt-pa\">1168</a>The tenth rule, the "
+"training rule on hiding robes, is finished.</p>"
+
+#. HTML: <br>
+msgctxt "pli-tv-bu-vb-pc60:2.3.4"
+msgid "Surāpānavaggo chaṭṭho."
+msgstr ""
+"<p class=\"endchapter\">The sixth chapter on alcoholic drinks is "
+"finished.</p>"
+
+#. HTML: </p><p class="endsection summary">
+#. REF: sc18
+msgctxt "pli-tv-bu-vb-pc60:2.3.5"
+msgid "Tassuddānaṃ"
+msgstr "<p><a class=\"wt-pa\">1169</a>This is the summary:</p>"
+
+#. HTML: </p><blockquote class="uddanagatha"><p>
+#. REF: sc19
+#. VAR: hāso ca → toyañca (pts1)
+msgctxt "pli-tv-bu-vb-pc60:2.3.6"
+msgid "Surā aṅguli hāso ca,"
+msgstr ""
+"<p><uddana><a class=\"wt-pa\">1170</a>Alcohol, finger, and laughter,<br>"
+
+#. HTML: <br>
+msgctxt "pli-tv-bu-vb-pc60:2.3.7"
+msgid "anādariyañca bhiṃsanaṃ;"
+msgstr "And disrespect, scaring;<br>"
+
+#. HTML: <br>
+msgctxt "pli-tv-bu-vb-pc60:2.3.8"
+msgid "Jotinahānadubbaṇṇaṃ,"
+msgstr "Fire, bathing, stain,<br>"
+
+#. HTML: <br>
+msgctxt "pli-tv-bu-vb-pc60:2.3.9"
+msgid "sāmaṃ apanidhena cāti."
+msgstr "Himself, and with hiding.</uddana></p>"

@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-15 14:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /en/pli-tv/pli-tv-bu-vb/pli-tv-bu-vb-pc/pli-tv-bu-vb-pc52.po\n"
+"X-Pootle-Revision: 80188\n"
+
+#. HTML: <section class="sutta" id="pli-tv-bu-vb-pc52"><article><div class="hgroup"><p class="division">
+msgctxt "pli-tv-bu-vb-pc52:0.1"
+msgid "Theravāda Vinaya"
+msgstr ""
+
+#. HTML: </p><p>
+msgctxt "pli-tv-bu-vb-pc52:0.2"
+msgid "Mahāvibhaṅga"
+msgstr ""
+
+#. HTML: </p><p></p><p>
+msgctxt "pli-tv-bu-vb-pc52:0.3"
+msgid "Pācittiyakaṇḍa"
+msgstr "The chapter on confession"
+
+msgctxt "pli-tv-bu-vb-pc52:0.4"
+msgid "Surāpānavagga"
+msgstr ""
+
+#. HTML: </p><h1>
+msgctxt "pli-tv-bu-vb-pc52:0.5"
+msgid "52. Aṅgulipatodakasikkhāpada"
+msgstr ""
+"<hgroup><h1 id=\"Bu-Pc.52\">Monks’ Confession 52: the training rule on "
+"tickling</h1></hgroup>"
+
+#. HTML: </h1></div><p>
+#. REF: sc1
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc52:1.1"
+msgid ""
+"Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa "
+"ārāme."
+msgstr ""
+"<h2 id=\"nidana\">Origin story</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.52.1\">Bu-Pc.52.1</a><a class=\"pts-vp-en\""
+" id=\"BD.2.387\">BD.2.387</a><a class=\"wt-pa\">1030</a>On one occasion, "
+"while the Buddha was staying at Sāvatthī in Anāthapiṇḍika’s Monastery,"
+
+msgctxt "pli-tv-bu-vb-pc52:1.2"
+msgid ""
+"Tena kho pana samayena chabbaggiyā bhikkhū sattarasavaggiyaṃ bhikkhuṃ "
+"aṅgulipatodakena hāsesuṃ."
+msgstr ""
+"the monks from the group of six tickled one of the monks from the group of "
+"seventeen to make him laugh."
+
+msgctxt "pli-tv-bu-vb-pc52:1.3"
+msgid "So bhikkhu uttanto anassāsako kālamakāsi."
+msgstr "He fainted, and not being able to catch his breath, he died.</p>"
+
+#. HTML: </p><p>
+#. REF: sc2, pts-vp-pli4.111
+msgctxt "pli-tv-bu-vb-pc52:1.4"
+msgid "Ye te bhikkhū appicchā … pe …"
+msgstr "<p><a class=\"wt-pa\">1031</a>The monks of few desires …"
+
+msgctxt "pli-tv-bu-vb-pc52:1.5"
+msgid "te ujjhāyanti khiyyanti vipācenti—"
+msgstr "complained and criticized them,"
+
+msgctxt "pli-tv-bu-vb-pc52:1.6"
+msgid ""
+"“kathañhi nāma chabbaggiyā bhikkhū bhikkhuṃ aṅgulipatodakena hāsessantī”ti … "
+"pe …"
+msgstr ""
+"“How can the monks from the group of six <a class=\"pts-vp-pi\" id=\"Vin.4."
+"111\">Vin.4.111</a> tickle a monk to make him laugh?” …"
+
+msgctxt "pli-tv-bu-vb-pc52:1.7"
+msgid "“saccaṃ kira tumhe, bhikkhave, bhikkhuṃ aṅgulipatodakena hāsethā”ti?"
+msgstr "“Is it true, monks, that you did this?”"
+
+msgctxt "pli-tv-bu-vb-pc52:1.8"
+msgid "“Saccaṃ, bhagavā”ti."
+msgstr "“It’s true, Master.”"
+
+msgctxt "pli-tv-bu-vb-pc52:1.9"
+msgid "Vigarahi buddho bhagavā … pe …"
+msgstr "The Buddha rebuked them, “…"
+
+msgctxt "pli-tv-bu-vb-pc52:1.10"
+msgid "kathañhi nāma tumhe, moghapurisā, bhikkhuṃ aṅgulipatodakena hāsessatha."
+msgstr "Foolish men, how can you tickle a monk to make him laugh?"
+
+msgctxt "pli-tv-bu-vb-pc52:1.11"
+msgid "Netaṃ, moghapurisā, appasannānaṃ vā pasādāya … pe …"
+msgstr "This will not give rise to confidence in those without it …"
+
+msgctxt "pli-tv-bu-vb-pc52:1.12"
+msgid "evañca pana, bhikkhave, imaṃ sikkhāpadaṃ uddiseyyātha—"
+msgstr "And, monks, this training rule should be recited thus:</p>"
+
+#. HTML: </p><p><b class="rule">
+#. REF: sc3
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc52:1.13"
+msgid "“Aṅgulipatodake pācittiyan”ti."
+msgstr ""
+"<h2 id=\"pannatti\">Final ruling</h2>\n"
+"<p class=\"rule\"><a class=\"wt-pa\">1032</a>‘If a monk tickles another, he "
+"commits an offense entailing confession.’”</p>"
+
+#. HTML: </b></p><p><b class="term">
+#. REF: sc4
+#. VAR: nāma → aṅgulipatodako nāma aṅguliyāpi tudanti (s1-3)
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc52:2.1.1"
+msgid "Aṅgulipatodako nāma"
+msgstr ""
+"<h2 id=\"pada\">Definitions</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.52.2\"></a><a class=\"pts-cs\" id=\"Bu-"
+"Pc.52.2.1\">Bu-Pc.52.2.1</a><a class=\"wt-pa\">1033</a><term>Tickles "
+"another</term>:"
+
+#. HTML: </b><b class="gloss">
+#. VAR: hasādhippāyo → hassādhippāyo (bj, s1-3) | hāsādhippāyo (pts1)
+msgctxt "pli-tv-bu-vb-pc52:2.1.2"
+msgid ""
+"upasampanno upasampannaṃ hasādhippāyo kāyena kāyaṃ āmasati, āpatti "
+"pācittiyassa."
+msgstr ""
+"<gloss>if one who is fully ordained touches another who is fully ordained, <"
+"a class=\"pts-vp-en\" id=\"BD.2.388\">BD.2.388</a> body to body, with the "
+"aim of making him laugh, he commits an offense entailing "
+"confession.</gloss></p>"
+
+#. HTML: </b>
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc52:2.2.1"
+msgid ""
+"Upasampanne upasampannasaññī aṅgulipatodakena hāseti, āpatti pācittiyassa."
+msgstr ""
+"<h2 id=\"cakka\">Permutations</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.52.2.2\">Bu-Pc.52.2.2</a>If the other "
+"person is fully ordained, and he perceives him as fully ordained, and he "
+"tickles him to make him laugh, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.2"
+msgid "Upasampanne vematiko aṅgulipatodakena hāseti, āpatti pācittiyassa."
+msgstr ""
+"If the other person is fully ordained, but he is unsure if he is, and he "
+"tickles him to make him laugh, he commits an offense entailing confession."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.3"
+msgid ""
+"Upasampanne anupasampannasaññī aṅgulipatodakena hāseti, āpatti pācittiyassa."
+msgstr ""
+"If the other person is fully ordained, but he does not perceive him as fully "
+"ordained, and he tickles him to make him laugh, he commits an offense "
+"entailing confession.</p>"
+
+#. HTML: </p><p>
+#. REF: sc5
+msgctxt "pli-tv-bu-vb-pc52:2.2.4"
+msgid "Kāyena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"<p><a class=\"wt-pa\">1034</a>If, with his own body, he touches what is "
+"connected to the other monk’s body, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.5"
+msgid "Kāyapaṭibaddhena kāyaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, with what is connected to his own body, he touches the other monk’s "
+"body, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.6"
+msgid "Kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, with what is connected to his own body, he touches what is connected to "
+"the other monk’s body, he commits an offense of wrong conduct.</p>"
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.7"
+msgid "Nissaggiyena kāyaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"<p>If, by releasing something, he touches the other monk’s body, he commits "
+"an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.8"
+msgid "Nissaggiyena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, by releasing something, he touches what is connected to the other monk’s "
+"body, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.9"
+msgid "Nissaggiyena nissaggiyaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, by releasing something, he touches what is released by the other monk, "
+"he commits an offense of wrong conduct.</p>"
+
+#. HTML: </p><p>
+#. REF: sc6
+msgctxt "pli-tv-bu-vb-pc52:2.2.10"
+msgid "Anupasampannaṃ kāyena kāyaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"<p><a class=\"wt-pa\">1035</a>If, with his own body, he touches the body of "
+"someone who is not fully ordained, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.11"
+msgid "Kāyena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, with his own body, he touches what is connected to the body of someone "
+"who is not fully ordained, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.12"
+msgid "Kāyapaṭibaddhena kāyaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, with what is connected to his own body, he touches the body of someone "
+"who is not fully ordained, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.13"
+msgid "Kāyapaṭibaddhena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, with what is connected to his own body, he touches what is connected to "
+"the body of someone who is not fully ordained, he commits an offense of "
+"wrong conduct.</p"
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.14"
+msgid "Nissaggiyena kāyaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"<p>If, by releasing something, he touches the body of someone who is not "
+"fully ordained, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.15"
+msgid "Nissaggiyena kāyapaṭibaddhaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, by releasing something, he touches what is connected to the body of "
+"someone who is not fully ordained, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.16"
+msgid "Nissaggiyena nissaggiyaṃ āmasati, āpatti dukkaṭassa."
+msgstr ""
+"If, by releasing something, he touches what is released by the someone who "
+"is not fully ordained, he commits an offense of wrong conduct.</p>"
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.17"
+msgid "Anupasampanne upasampannasaññī, āpatti dukkaṭassa."
+msgstr ""
+"<p>If the other person is not fully ordained, but he perceives him as fully "
+"ordained, he commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.18"
+msgid "Anupasampanne vematiko, āpatti dukkaṭassa."
+msgstr ""
+"If the other person is not fully ordained, but he is unsure of it, he "
+"commits an offense of wrong conduct."
+
+msgctxt "pli-tv-bu-vb-pc52:2.2.19"
+msgid "Anupasampanne anupasampannasaññī, āpatti dukkaṭassa."
+msgstr ""
+"If the other person is not fully ordained, and he does not perceive him as "
+"fully ordained, he commits an offense of wrong conduct.</p>"
+
+#. HTML: </p><p>
+#. REF: sc7
+#, fuzzy
+msgctxt "pli-tv-bu-vb-pc52:2.3.1"
+msgid "Anāpatti—"
+msgstr ""
+"<h2 id=\"anapatti\">Non-offenses</h2>\n"
+"<p><a class=\"pts-cs\" id=\"Bu-Pc.52.2.3\">Bu-Pc.52.2.3</a><a class=\"pts-vp-"
+"en\" id=\"BD.2.389\">BD.2.389</a><a class=\"wt-pa\">1036</a>There is no "
+"offense:"
+
+msgctxt "pli-tv-bu-vb-pc52:2.3.2"
+msgid "na hasādhippāyo, sati karaṇīye āmasati, ummattakassa, ādikammikassāti."
+msgstr ""
+"if he is not aiming to make him laugh; if he touches him when there is a "
+"need; if he is insane; if he is the first offender.</p>"
+
+#. HTML: </p><p class="endsutta">
+#. REF: sc8
+msgctxt "pli-tv-bu-vb-pc52:2.3.3"
+msgid "Aṅgulipatodakasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ."
+msgstr ""
+"<hr><p class=\"endsutta\"><a class=\"wt-pa\">1037</a>The second rule, the "
+"training rule on tickling, is finished.</p>"
