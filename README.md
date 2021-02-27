@@ -1,6 +1,6 @@
-# Deprecated do not use, use bilara-data instead
+# Deprecated, do not use, use bilara-data instead
 
-SuttaCentral no longer uses Pootle or the PO format, all our translations are in JSon form in the bilara-data repo.
+# SuttaCentral no longer uses Pootle or the PO format, all our translations are in JSONin the bilara-data repo.
 
 # Pootle FS git repository
 
